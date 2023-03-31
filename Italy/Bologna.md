@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-31 20:16:49 UTC`
+📆 Last Updated: `2023-03-31 21:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 2 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
-| 3 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
-| 4 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
-| 5 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 7 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
-| 8 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 9 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 10 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 11 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 12 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 13 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
-| 14 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 15 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 16 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 17 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 18 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 19 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
-| 20 | [Jalisse](http://twitter.com/search?q=Jalisse) | N/A |
-| 21 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 22 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 23 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 24 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 25 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
-| 26 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 27 | [Aprilia](http://twitter.com/search?q=Aprilia) | N/A |
-| 28 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 29 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 30 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 31 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 32 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
-| 33 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 34 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 35 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 36 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 37 | [Mutti](http://twitter.com/search?q=Mutti) | N/A |
-| 38 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 39 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 40 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 41 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 42 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 43 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 45 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 46 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 48 | [Ornella](http://twitter.com/search?q=Ornella) | N/A |
-| 49 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 3 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
+| 4 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
+| 5 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 6 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 7 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 8 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
+| 9 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 10 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 11 | [Senato](http://twitter.com/search?q=Senato) | N/A |
+| 12 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 13 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 14 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 15 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 16 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 17 | [Ignazio](http://twitter.com/search?q=Ignazio) | N/A |
+| 18 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 19 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
+| 20 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 21 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 22 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 23 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 24 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 25 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
+| 26 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 27 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
+| 28 | [#GenoaReggina](http://twitter.com/search?q=%23GenoaReggina) | N/A |
+| 29 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 30 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
+| 31 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 32 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 33 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 34 | [#isola](http://twitter.com/search?q=%23isola) | N/A |
+| 35 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 36 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 37 | [#Resistenza](http://twitter.com/search?q=%23Resistenza) | N/A |
+| 38 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 39 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
+| 40 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
+| 41 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 42 | [#ÖzgeGürel](http://twitter.com/search?q=%23%c3%96zgeG%c3%bcrel) | N/A |
+| 43 | [#25aprile](http://twitter.com/search?q=%2325aprile) | N/A |
+| 44 | [#SalviamoSSN](http://twitter.com/search?q=%23SalviamoSSN) | N/A |
+| 45 | [#GovernoDeiPagliacci](http://twitter.com/search?q=%23GovernoDeiPagliacci) | N/A |
+| 46 | [#governodeipeggiori](http://twitter.com/search?q=%23governodeipeggiori) | N/A |
+| 47 | [#Paratici](http://twitter.com/search?q=%23Paratici) | N/A |
 
 
 

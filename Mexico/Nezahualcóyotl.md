@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-03-31 20:16:38 UTC`
+📆 Last Updated: `2023-03-31 21:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 1 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
 | 2 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
-| 3 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
-| 4 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
-| 5 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
-| 6 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [EL INE NO SE TOCA](http://twitter.com/search?q=EL+INE+NO+SE+TOCA) | N/A |
-| 9 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 10 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 11 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 12 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 13 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 14 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 15 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 16 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 17 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 18 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 19 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
-| 20 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 22 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 23 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
-| 24 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
-| 25 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
-| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 27 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 28 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 29 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
-| 30 | [#EnEsteFin](http://twitter.com/search?q=%23EnEsteFin) | N/A |
-| 31 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
-| 32 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
-| 33 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 34 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 35 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 36 | [#PalNorte](http://twitter.com/search?q=%23PalNorte) | N/A |
-| 37 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 38 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 39 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 40 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
-| 41 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 3 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 6 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 7 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
+| 8 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 9 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 10 | [Selena Quintanilla](http://twitter.com/search?q=Selena+Quintanilla) | N/A |
+| 11 | [Ana Francisca](http://twitter.com/search?q=Ana+Francisca) | N/A |
+| 12 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 13 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 14 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 15 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 16 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 17 | [Yolanda Saldivar](http://twitter.com/search?q=Yolanda+Saldivar) | N/A |
+| 18 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
+| 19 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 20 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 21 | [Éxito](http://twitter.com/search?q=%c3%89xito) | N/A |
+| 22 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 23 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 24 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 25 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 26 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 27 | [El 31](http://twitter.com/search?q=El+31) | N/A |
+| 28 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 29 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 30 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 31 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 32 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 33 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 34 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
+| 35 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 36 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
+| 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 38 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
+| 39 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
+| 40 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 41 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 42 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 43 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
+| 44 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 45 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
+| 46 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
+| 47 | [#Pachuca](http://twitter.com/search?q=%23Pachuca) | N/A |
+| 48 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 49 | [#AmloEsUnPeligroParaMexico](http://twitter.com/search?q=%23AmloEsUnPeligroParaMexico) | N/A |
 
 
 

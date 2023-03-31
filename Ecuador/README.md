@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-31 20:17:23 UTC`
+📆 Last Updated: `2023-03-31 21:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 2 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 3 | [Neisi Dajomes](http://twitter.com/search?q=Neisi+Dajomes) | N/A |
-| 4 | [Tamara Salazar](http://twitter.com/search?q=Tamara+Salazar) | N/A |
-| 5 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 6 | [Bryan Oña](http://twitter.com/search?q=Bryan+O%c3%b1a) | N/A |
-| 7 | [Triviño](http://twitter.com/search?q=Trivi%c3%b1o) | N/A |
-| 8 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
-| 9 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
-| 10 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
-| 11 | [#DeUnaMarca90](http://twitter.com/search?q=%23DeUnaMarca90) | N/A |
-| 12 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
-| 13 | [Sauces 9](http://twitter.com/search?q=Sauces+9) | N/A |
+| 1 | [Fortín](http://twitter.com/search?q=Fort%c3%adn) | N/A |
+| 2 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 3 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 4 | [Punta Blanca](http://twitter.com/search?q=Punta+Blanca) | N/A |
+| 5 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 6 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
+| 7 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
+| 8 | [Triviño](http://twitter.com/search?q=Trivi%c3%b1o) | N/A |
+| 9 | [Banco Pichincha](http://twitter.com/search?q=Banco+Pichincha) | N/A |
+| 10 | [Liderando](http://twitter.com/search?q=Liderando) | N/A |
+| 11 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
+| 12 | [Tamara Salazar](http://twitter.com/search?q=Tamara+Salazar) | N/A |
+| 13 | [Neisi](http://twitter.com/search?q=Neisi) | N/A |
 | 14 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
 | 15 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 16 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
-| 17 | [#guayakill](http://twitter.com/search?q=%23guayakill) | N/A |
-| 18 | [Obando](http://twitter.com/search?q=Obando) | N/A |
-| 19 | [Manuel C.C.](http://twitter.com/search?q=Manuel+C.C.) | N/A |
-| 20 | [Plaza Lagos](http://twitter.com/search?q=Plaza+Lagos) | N/A |
-| 21 | [José Delgado](http://twitter.com/search?q=Jos%c3%a9+Delgado) | N/A |
-| 22 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 23 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
+| 16 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
+| 17 | [Bryan Oña](http://twitter.com/search?q=Bryan+O%c3%b1a) | N/A |
+| 18 | [Sauces 9](http://twitter.com/search?q=Sauces+9) | N/A |
+| 19 | [Obando](http://twitter.com/search?q=Obando) | N/A |
+| 20 | [#txtenpuntorojo](http://twitter.com/search?q=%23txtenpuntorojo) | N/A |
+| 21 | [Plaza Lagos](http://twitter.com/search?q=Plaza+Lagos) | N/A |
+| 22 | [José Delgado](http://twitter.com/search?q=Jos%c3%a9+Delgado) | N/A |
+| 23 | [chucho benítez](http://twitter.com/search?q=chucho+ben%c3%adtez) | N/A |
 | 24 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 25 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 26 | [Nono](http://twitter.com/search?q=Nono) | N/A |
-| 27 | [Marielurde](http://twitter.com/search?q=Marielurde) | N/A |
-| 28 | [José Roberto Acevedo Mendoza](http://twitter.com/search?q=Jos%c3%a9+Roberto+Acevedo+Mendoza) | N/A |
-| 29 | [Argumentos](http://twitter.com/search?q=Argumentos) | N/A |
-| 30 | [MUERTE CRUZADA](http://twitter.com/search?q=MUERTE+CRUZADA) | N/A |
-| 31 | [Tomebamba](http://twitter.com/search?q=Tomebamba) | N/A |
-| 32 | [Comisión de Fiscalización](http://twitter.com/search?q=Comisi%c3%b3n+de+Fiscalizaci%c3%b3n) | N/A |
-| 33 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
-| 34 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
-| 35 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 36 | [PECULADO](http://twitter.com/search?q=PECULADO) | N/A |
-| 37 | [Portoviejo](http://twitter.com/search?q=Portoviejo) | N/A |
+| 25 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 26 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 27 | [Nono](http://twitter.com/search?q=Nono) | N/A |
+| 28 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 29 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
+| 30 | [Manuel C.C.](http://twitter.com/search?q=Manuel+C.C.) | N/A |
+| 31 | [José Roberto Acevedo Mendoza](http://twitter.com/search?q=Jos%c3%a9+Roberto+Acevedo+Mendoza) | N/A |
+| 32 | [Marielurde](http://twitter.com/search?q=Marielurde) | N/A |
+| 33 | [Argumentos](http://twitter.com/search?q=Argumentos) | N/A |
+| 34 | [Tomebamba](http://twitter.com/search?q=Tomebamba) | N/A |
+| 35 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
+| 36 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
+| 37 | [Jorge Pinto](http://twitter.com/search?q=Jorge+Pinto) | N/A |
 | 38 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
-| 39 | [Mireya Pazmiño](http://twitter.com/search?q=Mireya+Pazmi%c3%b1o) | N/A |
-| 40 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 41 | [De Jesús](http://twitter.com/search?q=De+Jes%c3%bas) | N/A |
-| 42 | [Dreer](http://twitter.com/search?q=Dreer) | N/A |
-| 43 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 44 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
-| 45 | [Taura](http://twitter.com/search?q=Taura) | N/A |
-| 46 | [Angie Palacios](http://twitter.com/search?q=Angie+Palacios) | N/A |
-| 47 | [Calla](http://twitter.com/search?q=Calla) | N/A |
-| 48 | [maría de lourdes](http://twitter.com/search?q=mar%c3%ada+de+lourdes) | N/A |
-| 49 | [Santa Isabel](http://twitter.com/search?q=Santa+Isabel) | N/A |
-| 50 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 39 | [Comisión de Fiscalización](http://twitter.com/search?q=Comisi%c3%b3n+de+Fiscalizaci%c3%b3n) | N/A |
+| 40 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 41 | [PECULADO](http://twitter.com/search?q=PECULADO) | N/A |
+| 42 | [Luque](http://twitter.com/search?q=Luque) | N/A |
+| 43 | [Mireya Pazmiño](http://twitter.com/search?q=Mireya+Pazmi%c3%b1o) | N/A |
+| 44 | [De Jesús](http://twitter.com/search?q=De+Jes%c3%bas) | N/A |
+| 45 | [Dreer](http://twitter.com/search?q=Dreer) | N/A |
+| 46 | [Pura](http://twitter.com/search?q=Pura) | N/A |
+| 47 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 48 | [Taura](http://twitter.com/search?q=Taura) | N/A |
+| 49 | [Angie Palacios](http://twitter.com/search?q=Angie+Palacios) | N/A |
+| 50 | [Bariloche](http://twitter.com/search?q=Bariloche) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-31 20:17:01 UTC`
+📆 Last Updated: `2023-03-31 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,17 +50,17 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 33 | [giao](http://twitter.com/search?q=giao) | N/A |
 | 34 | [pallette](http://twitter.com/search?q=pallette) | N/A |
 | 35 | [nhận](http://twitter.com/search?q=nh%e1%ba%adn) | N/A |
-| 36 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 38 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 39 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 41 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 42 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
-| 43 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 44 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 45 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
-| 46 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 37 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 38 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 39 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 40 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 41 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
+| 42 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 43 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 44 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
+| 45 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 46 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 47 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 48 | [dApp](http://twitter.com/search?q=dApp) | N/A |
 | 49 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |

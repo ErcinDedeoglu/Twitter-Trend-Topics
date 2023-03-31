@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-31 20:17:20 UTC`
+📆 Last Updated: `2023-03-31 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
-| 2 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 3 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 11 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 12 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 13 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 14 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 15 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 16 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 17 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 18 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 19 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 20 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 21 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 22 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 23 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 24 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 25 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 26 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 27 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 28 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 29 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 30 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 31 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 32 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 33 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 34 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 35 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 36 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 37 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 38 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 40 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 41 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
-| 42 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 43 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
-| 44 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 45 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
-| 46 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 47 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 48 | [Airball](http://twitter.com/search?q=Airball) | N/A |
-| 49 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 2 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 5 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
+| 6 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 12 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 14 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 15 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 16 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 17 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 18 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 20 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 21 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 22 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 23 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 24 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 25 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 26 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 27 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 28 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 29 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 30 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 31 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 32 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 33 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 34 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 35 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 36 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 37 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 38 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 39 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 40 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 41 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 42 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 43 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 44 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 45 | [Central Arkansas](http://twitter.com/search?q=Central+Arkansas) | N/A |
+| 46 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 47 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 48 | [Deeds](http://twitter.com/search?q=Deeds) | N/A |
+| 49 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
 
 
 

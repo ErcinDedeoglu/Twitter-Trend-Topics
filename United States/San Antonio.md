@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-31 20:17:19 UTC`
+📆 Last Updated: `2023-03-31 21:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
 | 2 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
-| 3 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
-| 4 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 6 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 3 | [#Jouvert](http://twitter.com/search?q=%23Jouvert) | N/A |
+| 4 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
+| 5 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 6 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
 | 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 | 8 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
-| 9 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 10 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 11 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 17 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 18 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
 | 20 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 21 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 24 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 25 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 28 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 29 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 30 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 31 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 32 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 33 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 34 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 35 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 36 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 37 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 38 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 39 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 40 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 41 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 42 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 43 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 44 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 45 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 46 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 47 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 48 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 49 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 50 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 21 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 24 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 26 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 27 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 28 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 29 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 30 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 31 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 32 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 33 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 34 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 35 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 36 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 37 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 38 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 39 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 40 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 41 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 42 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 43 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 44 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 46 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 47 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 48 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 49 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 50 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-31 20:17:22 UTC`
+📆 Last Updated: `2023-03-31 21:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Chile
 | ------- | ------------ | ------------ |
 | 1 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
 | 2 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
-| 3 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 4 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
-| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 7 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
-| 8 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
+| 3 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
+| 4 | [#SorpresasDelDestino](http://twitter.com/search?q=%23SorpresasDelDestino) | N/A |
+| 5 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 7 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 8 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
 | 9 | [Giorgio](http://twitter.com/search?q=Giorgio) | N/A |
-| 10 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
-| 11 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 12 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 10 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
+| 11 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 12 | [Chong](http://twitter.com/search?q=Chong) | N/A |
 | 13 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
-| 16 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
-| 17 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 20 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
-| 21 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 22 | [Cobquecura](http://twitter.com/search?q=Cobquecura) | N/A |
-| 23 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 24 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 25 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 26 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 27 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 28 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
-| 29 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 30 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
-| 31 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 32 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 33 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
-| 34 | [INDH](http://twitter.com/search?q=INDH) | N/A |
-| 35 | [Chascas](http://twitter.com/search?q=Chascas) | N/A |
-| 36 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 37 | [Clínica Sierra Bella](http://twitter.com/search?q=Cl%c3%adnica+Sierra+Bella) | N/A |
-| 38 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 39 | [Poli](http://twitter.com/search?q=Poli) | N/A |
-| 40 | [Camila Miranda](http://twitter.com/search?q=Camila+Miranda) | N/A |
-| 41 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 42 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 43 | [VILLA FRANCIA](http://twitter.com/search?q=VILLA+FRANCIA) | N/A |
-| 44 | [Yasna Lewin](http://twitter.com/search?q=Yasna+Lewin) | N/A |
-| 45 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 46 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 47 | [nora cuevas](http://twitter.com/search?q=nora+cuevas) | N/A |
-| 48 | [Larraín](http://twitter.com/search?q=Larra%c3%adn) | N/A |
-| 49 | [Pitutos](http://twitter.com/search?q=Pitutos) | N/A |
-| 50 | [Gomorra](http://twitter.com/search?q=Gomorra) | N/A |
+| 14 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
+| 15 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
+| 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 17 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
+| 18 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 20 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 21 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
+| 22 | [Galli](http://twitter.com/search?q=Galli) | N/A |
+| 23 | [Blumel](http://twitter.com/search?q=Blumel) | N/A |
+| 24 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 25 | [Dante Poli](http://twitter.com/search?q=Dante+Poli) | N/A |
+| 26 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 27 | [Cobquecura](http://twitter.com/search?q=Cobquecura) | N/A |
+| 28 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 29 | [Chadwick](http://twitter.com/search?q=Chadwick) | N/A |
+| 30 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
+| 31 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
+| 32 | [Sierralta](http://twitter.com/search?q=Sierralta) | N/A |
+| 33 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 34 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 35 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 36 | [camila miranda](http://twitter.com/search?q=camila+miranda) | N/A |
+| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 38 | [Chascas](http://twitter.com/search?q=Chascas) | N/A |
+| 39 | [Enlodar](http://twitter.com/search?q=Enlodar) | N/A |
+| 40 | [Rubilar](http://twitter.com/search?q=Rubilar) | N/A |
+| 41 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
+| 42 | [Paseo](http://twitter.com/search?q=Paseo) | N/A |
+| 43 | [Ossandón](http://twitter.com/search?q=Ossand%c3%b3n) | N/A |
+| 44 | [Váyanse](http://twitter.com/search?q=V%c3%a1yanse) | N/A |
+| 45 | [VILLA FRANCIA](http://twitter.com/search?q=VILLA+FRANCIA) | N/A |
+| 46 | [Yasna](http://twitter.com/search?q=Yasna) | N/A |
+| 47 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 48 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 49 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 50 | [INDH](http://twitter.com/search?q=INDH) | N/A |
 
 
 

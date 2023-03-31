@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-31 20:17:09 UTC`
+📆 Last Updated: `2023-03-31 21:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [India](</India>)
 | 2 | [#GTvsCSK](http://twitter.com/search?q=%23GTvsCSK) | N/A |
 | 3 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
 | 4 | [#TheGreatIndianMusical](http://twitter.com/search?q=%23TheGreatIndianMusical) | N/A |
-| 5 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 6 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 7 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
-| 8 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 5 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 6 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 7 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 8 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
 | 9 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 10 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
-| 11 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
-| 12 | [Impact](http://twitter.com/search?q=Impact) | N/A |
-| 13 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 14 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 15 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 10 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 11 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
+| 12 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
+| 13 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 14 | [Impact](http://twitter.com/search?q=Impact) | N/A |
+| 15 | [Thala](http://twitter.com/search?q=Thala) | N/A |
 | 16 | [Nita Ambani](http://twitter.com/search?q=Nita+Ambani) | N/A |
-| 17 | [Wide](http://twitter.com/search?q=Wide) | N/A |
-| 18 | [Aryan](http://twitter.com/search?q=Aryan) | N/A |
-| 19 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 20 | [Degree](http://twitter.com/search?q=Degree) | N/A |
+| 17 | [Aryan](http://twitter.com/search?q=Aryan) | N/A |
+| 18 | [Wide](http://twitter.com/search?q=Wide) | N/A |
+| 19 | [Degree](http://twitter.com/search?q=Degree) | N/A |
+| 20 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 21 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
-| 22 | [Chahar](http://twitter.com/search?q=Chahar) | N/A |
-| 23 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
-| 24 | [Hangargekar](http://twitter.com/search?q=Hangargekar) | N/A |
-| 25 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 26 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 27 | [Pretorius](http://twitter.com/search?q=Pretorius) | N/A |
-| 28 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 29 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 22 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
+| 23 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 24 | [Pretorius](http://twitter.com/search?q=Pretorius) | N/A |
+| 25 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 26 | [Hangargekar](http://twitter.com/search?q=Hangargekar) | N/A |
+| 27 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 28 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
+| 29 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
 | 30 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 31 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
-| 32 | [Deepak](http://twitter.com/search?q=Deepak) | N/A |
-| 33 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 34 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
-| 35 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
-| 36 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
-| 37 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 38 | [Watching IPL](http://twitter.com/search?q=Watching+IPL) | N/A |
-| 39 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 40 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
-| 41 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
-| 42 | [#JioCrash](http://twitter.com/search?q=%23JioCrash) | N/A |
-| 43 | [#IconicAApril](http://twitter.com/search?q=%23IconicAApril) | N/A |
-| 44 | [#GTvsCHE](http://twitter.com/search?q=%23GTvsCHE) | N/A |
-| 45 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
-| 46 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
-| 47 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
+| 31 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
+| 32 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 33 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
+| 34 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
+| 35 | [#JioCrash](http://twitter.com/search?q=%23JioCrash) | N/A |
+| 36 | [#IconicAApril](http://twitter.com/search?q=%23IconicAApril) | N/A |
+| 37 | [#AndrewTate](http://twitter.com/search?q=%23AndrewTate) | N/A |
+| 38 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
+| 39 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
+| 40 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
+| 41 | [#GTvsCHE](http://twitter.com/search?q=%23GTvsCHE) | N/A |
+| 42 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
+| 43 | [#hotstar](http://twitter.com/search?q=%23hotstar) | N/A |
+| 44 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 45 | [#ArijitSingh](http://twitter.com/search?q=%23ArijitSingh) | N/A |
+| 46 | [#AavaDe](http://twitter.com/search?q=%23AavaDe) | N/A |
+| 47 | [#NayanjyotiSaikia](http://twitter.com/search?q=%23NayanjyotiSaikia) | N/A |
 
 
 
