@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-31 16:17:28 UTC`
+📆 Last Updated: `2023-03-31 17:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Troms](http://twitter.com/search?q=Troms) | N/A |
+| 1 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 3 | [Maren Mjelde](http://twitter.com/search?q=Maren+Mjelde) | N/A |
 | 4 | [#debatten](http://twitter.com/search?q=%23debatten) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
+| 5 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [Maren Mjelde](http://twitter.com/search?q=Maren+Mjelde) | N/A |
-| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 11 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 12 | [Samtidig](http://twitter.com/search?q=Samtidig) | N/A |
-| 13 | [Bodø](http://twitter.com/search?q=Bod%c3%b8) | N/A |
-| 14 | [Reitan](http://twitter.com/search?q=Reitan) | N/A |
-| 15 | [Tviler](http://twitter.com/search?q=Tviler) | N/A |
-| 16 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 17 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 18 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 19 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 20 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
-| 21 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 22 | [#eliteserien](http://twitter.com/search?q=%23eliteserien) | N/A |
-| 23 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 8 | [Bodø](http://twitter.com/search?q=Bod%c3%b8) | N/A |
+| 9 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
+| 10 | [Troms](http://twitter.com/search?q=Troms) | N/A |
+| 11 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
+| 12 | [EU-medlemskap](http://twitter.com/search?q=EU-medlemskap) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 15 | [Reitan](http://twitter.com/search?q=Reitan) | N/A |
+| 16 | [Knutsen](http://twitter.com/search?q=Knutsen) | N/A |
+| 17 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
+| 18 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 19 | [Joda](http://twitter.com/search?q=Joda) | N/A |
+| 20 | [Samtidig](http://twitter.com/search?q=Samtidig) | N/A |
+| 21 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 22 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 23 | [Molde](http://twitter.com/search?q=Molde) | N/A |
 | 24 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |
-| 25 | [Sjekk](http://twitter.com/search?q=Sjekk) | N/A |
-| 26 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 27 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 28 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 29 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 30 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 31 | [kjetil knutsen](http://twitter.com/search?q=kjetil+knutsen) | N/A |
-| 32 | [Nord-Norge](http://twitter.com/search?q=Nord-Norge) | N/A |
-| 33 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 34 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 37 | [Scandinavian](http://twitter.com/search?q=Scandinavian) | N/A |
-| 38 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
-| 39 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
-| 40 | [Enga](http://twitter.com/search?q=Enga) | N/A |
-| 41 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 25 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 26 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 27 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 28 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 29 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 30 | [Tviler](http://twitter.com/search?q=Tviler) | N/A |
+| 31 | [Nord-Norge](http://twitter.com/search?q=Nord-Norge) | N/A |
+| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 33 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 34 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 35 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 36 | [Tusen](http://twitter.com/search?q=Tusen) | N/A |
+| 37 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 38 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 39 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
+| 40 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 41 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
 | 42 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 43 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 44 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
-| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 47 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
-| 48 | [Stavanger](http://twitter.com/search?q=Stavanger) | N/A |
-| 49 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 44 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 45 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 47 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 48 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 49 | [hjelper](http://twitter.com/search?q=hjelper) | N/A |
 
 
 

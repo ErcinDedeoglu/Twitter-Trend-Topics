@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-31 16:17:22 UTC`
+📆 Last Updated: `2023-03-31 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 3 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
-| 4 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 5 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 6 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 7 | [#Horde](http://twitter.com/search?q=%23Horde) | N/A |
-| 8 | [#Lindner](http://twitter.com/search?q=%23Lindner) | N/A |
-| 9 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 10 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 11 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
-| 12 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 13 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 14 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 15 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 16 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 17 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 1 | [#F95HSV](http://twitter.com/search?q=%23F95HSV) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#Horde](http://twitter.com/search?q=%23Horde) | N/A |
+| 4 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 5 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
+| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 7 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 8 | [Selina](http://twitter.com/search?q=Selina) | N/A |
+| 9 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 10 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 11 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 12 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 13 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 14 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 15 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 16 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 17 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 18 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
 | 19 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 20 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 21 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 22 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 23 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 24 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 25 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 26 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 27 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 28 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 29 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 30 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 31 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 32 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 33 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 34 | [Schweigegeld](http://twitter.com/search?q=Schweigegeld) | N/A |
-| 35 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 36 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 37 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
-| 38 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 39 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 40 | [Schultag](http://twitter.com/search?q=Schultag) | N/A |
-| 41 | [stück hirn-vakuum](http://twitter.com/search?q=st%c3%bcck+hirn-vakuum) | N/A |
-| 42 | [koehler](http://twitter.com/search?q=koehler) | N/A |
-| 43 | [Frau Direktorin](http://twitter.com/search?q=Frau+Direktorin) | N/A |
-| 44 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 45 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 46 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
-| 47 | [Bedrohung](http://twitter.com/search?q=Bedrohung) | N/A |
-| 48 | [Segelboot](http://twitter.com/search?q=Segelboot) | N/A |
-| 49 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 50 | [krankschreibung](http://twitter.com/search?q=krankschreibung) | N/A |
+| 20 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 21 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 22 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 23 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 24 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 25 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 26 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 28 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 29 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 30 | [wehrpflicht](http://twitter.com/search?q=wehrpflicht) | N/A |
+| 31 | [Benedikt](http://twitter.com/search?q=Benedikt) | N/A |
+| 32 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 33 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 35 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 36 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 37 | [KOEHLER](http://twitter.com/search?q=KOEHLER) | N/A |
+| 38 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 39 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 40 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 41 | [Schweigegeld](http://twitter.com/search?q=Schweigegeld) | N/A |
+| 42 | [Torsten](http://twitter.com/search?q=Torsten) | N/A |
+| 43 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
+| 44 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 45 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 46 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 47 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 48 | [Elke](http://twitter.com/search?q=Elke) | N/A |
+| 49 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 50 | [schultag](http://twitter.com/search?q=schultag) | N/A |
 
 
 

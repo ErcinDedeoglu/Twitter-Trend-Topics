@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-31 16:18:09 UTC`
+📆 Last Updated: `2023-03-31 17:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 2 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
-| 3 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
-| 4 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 5 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
-| 6 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 7 | [#25aprile](http://twitter.com/search?q=%2325aprile) | N/A |
-| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 9 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 2 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
+| 3 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
+| 4 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 5 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
+| 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 7 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 8 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 9 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 10 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 11 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
-| 12 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 13 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 14 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 15 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 16 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 17 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 19 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 20 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 21 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 22 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 23 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
-| 24 | [#Agrigento](http://twitter.com/search?q=%23Agrigento) | N/A |
-| 25 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
-| 26 | [#garanteprivacy](http://twitter.com/search?q=%23garanteprivacy) | N/A |
-| 27 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
-| 28 | [#OpenAI](http://twitter.com/search?q=%23OpenAI) | N/A |
-| 29 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 30 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
-| 31 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 32 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 33 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 34 | [#Pasqua](http://twitter.com/search?q=%23Pasqua) | N/A |
-| 35 | [#intelligenzaartificiale](http://twitter.com/search?q=%23intelligenzaartificiale) | N/A |
-| 36 | [#Finlandia](http://twitter.com/search?q=%23Finlandia) | N/A |
+| 11 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 12 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 13 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 14 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 15 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 16 | [Mutti](http://twitter.com/search?q=Mutti) | N/A |
+| 17 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 18 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 19 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 20 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 21 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 23 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 24 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 25 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 26 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 27 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 28 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 29 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 30 | [Laurentiis](http://twitter.com/search?q=Laurentiis) | N/A |
+| 31 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
+| 32 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 33 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 34 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 35 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 36 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 37 | [ficarra e picone](http://twitter.com/search?q=ficarra+e+picone) | N/A |
+| 38 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 39 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 40 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 41 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 42 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 43 | [buon venerdì](http://twitter.com/search?q=buon+venerd%c3%ac) | N/A |
+| 44 | [Cavour](http://twitter.com/search?q=Cavour) | N/A |
+| 45 | [Cultura 2025](http://twitter.com/search?q=Cultura+2025) | N/A |
+| 46 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 47 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 48 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 49 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 50 | [Udine](http://twitter.com/search?q=Udine) | N/A |
 
 
 

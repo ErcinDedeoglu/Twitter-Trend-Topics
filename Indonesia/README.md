@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-31 16:18:08 UTC`
+📆 Last Updated: `2023-03-31 17:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
-| 2 | [#EwakoPSM](http://twitter.com/search?q=%23EwakoPSM) | N/A |
-| 3 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
-| 4 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 5 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
-| 6 | [#PSMJuara](http://twitter.com/search?q=%23PSMJuara) | N/A |
-| 7 | [#4AprilsWithSoloistCHEN](http://twitter.com/search?q=%234AprilsWithSoloistCHEN) | N/A |
-| 8 | [#첸_솔로데뷔_4주년](http://twitter.com/search?q=%23%ec%b2%b8_%ec%86%94%eb%a1%9c%eb%8d%b0%eb%b7%94_4%ec%a3%bc%eb%85%84) | N/A |
-| 9 | [Butut](http://twitter.com/search?q=Butut) | N/A |
-| 10 | [Frets](http://twitter.com/search?q=Frets) | N/A |
-| 11 | [Liga 1](http://twitter.com/search?q=Liga+1) | N/A |
-| 12 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 13 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 14 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 15 | [ADSE](http://twitter.com/search?q=ADSE) | N/A |
-| 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 17 | [iwan sukoco](http://twitter.com/search?q=iwan+sukoco) | N/A |
-| 18 | [Bahar](http://twitter.com/search?q=Bahar) | N/A |
-| 19 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
-| 20 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 21 | [ancika](http://twitter.com/search?q=ancika) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
-| 24 | [Ganyu](http://twitter.com/search?q=Ganyu) | N/A |
-| 25 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 26 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 27 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
-| 28 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 29 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
-| 30 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 31 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 32 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
-| 33 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 34 | [#aBossandaBabeEP5](http://twitter.com/search?q=%23aBossandaBabeEP5) | N/A |
-| 35 | [#PSMDAY](http://twitter.com/search?q=%23PSMDAY) | N/A |
-| 36 | [#thankyouPikamee](http://twitter.com/search?q=%23thankyouPikamee) | N/A |
-| 37 | [#PlayTownJKT48](http://twitter.com/search?q=%23PlayTownJKT48) | N/A |
-| 38 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 39 | [#GakAdaMatinya](http://twitter.com/search?q=%23GakAdaMatinya) | N/A |
-| 40 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 41 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
-| 42 | [#filinmovie](http://twitter.com/search?q=%23filinmovie) | N/A |
-| 43 | [#SpainMasters2023](http://twitter.com/search?q=%23SpainMasters2023) | N/A |
-| 44 | [#takdircintayangkupilih](http://twitter.com/search?q=%23takdircintayangkupilih) | N/A |
-| 45 | [#notenoughroomforreveluvs](http://twitter.com/search?q=%23notenoughroomforreveluvs) | N/A |
-| 46 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
-| 47 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
-| 48 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
-| 49 | [#JadiLebihBaik](http://twitter.com/search?q=%23JadiLebihBaik) | N/A |
-| 50 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 1 | [#KamiSudahBerkorban](http://twitter.com/search?q=%23KamiSudahBerkorban) | N/A |
+| 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 4 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
+| 5 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
+| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 7 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
+| 8 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 9 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 10 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 11 | [ocbc nisp](http://twitter.com/search?q=ocbc+nisp) | N/A |
+| 12 | [komitmen benny rhamdani](http://twitter.com/search?q=komitmen+benny+rhamdani) | N/A |
+| 13 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 14 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 15 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
+| 16 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
+| 17 | [Ewako PSM](http://twitter.com/search?q=Ewako+PSM) | N/A |
+| 18 | [AHY Dukung Timnas](http://twitter.com/search?q=AHY+Dukung+Timnas) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 21 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 22 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
+| 23 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 24 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 25 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 26 | [jokowi resmikan kek lido](http://twitter.com/search?q=jokowi+resmikan+kek+lido) | N/A |
+| 27 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
+| 28 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 29 | [ADSE](http://twitter.com/search?q=ADSE) | N/A |
+| 30 | [youn1t love you banghan](http://twitter.com/search?q=youn1t+love+you+banghan) | N/A |
+| 31 | [Frets](http://twitter.com/search?q=Frets) | N/A |
+| 32 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 33 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 34 | [Riko Simanjuntak](http://twitter.com/search?q=Riko+Simanjuntak) | N/A |
+| 35 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 36 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 37 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
+| 38 | [Bernardo Tavares](http://twitter.com/search?q=Bernardo+Tavares) | N/A |
+| 39 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 40 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
+| 41 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 44 | [1OO MILLIO](http://twitter.com/search?q=1OO+MILLIO) | N/A |
+| 45 | [ON VIEWS](http://twitter.com/search?q=ON+VIEWS) | N/A |
+| 46 | [Bahar](http://twitter.com/search?q=Bahar) | N/A |
+| 47 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 48 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 49 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 50 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
 
 
 

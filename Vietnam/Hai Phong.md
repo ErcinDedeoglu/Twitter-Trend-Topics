@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-31 16:17:39 UTC`
+📆 Last Updated: `2023-03-31 17:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 2 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
-| 3 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
-| 4 | [#BuildYourStyle](http://twitter.com/search?q=%23BuildYourStyle) | N/A |
-| 5 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 6 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
+| 2 | [#buildyourstyle](http://twitter.com/search?q=%23buildyourstyle) | N/A |
+| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 4 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
+| 5 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
+| 6 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
 | 7 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
 | 8 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
 | 9 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
 | 10 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 13 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
-| 14 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
-| 15 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 18 | [quan](http://twitter.com/search?q=quan) | N/A |
-| 19 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 20 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 22 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 23 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
-| 24 | [starknet](http://twitter.com/search?q=starknet) | N/A |
-| 25 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 26 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 27 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 28 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 29 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 30 | [giao](http://twitter.com/search?q=giao) | N/A |
-| 31 | [pallette](http://twitter.com/search?q=pallette) | N/A |
-| 32 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
-| 33 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 34 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 38 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 39 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 40 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 41 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
-| 42 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 43 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 44 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
-| 45 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 46 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 47 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 48 | [Sell](http://twitter.com/search?q=Sell) | N/A |
-| 49 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 50 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 11 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 12 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 13 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 14 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
+| 15 | [Bi DID](http://twitter.com/search?q=Bi+DID) | N/A |
+| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 18 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 19 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 20 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 21 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 22 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 23 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 24 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 25 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 26 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 27 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 28 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 29 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 30 | [fff asean party](http://twitter.com/search?q=fff+asean+party) | N/A |
+| 31 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
+| 32 | [pallette](http://twitter.com/search?q=pallette) | N/A |
+| 33 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 34 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [giao](http://twitter.com/search?q=giao) | N/A |
+| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 38 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 39 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 40 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 42 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 43 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 45 | [European](http://twitter.com/search?q=European) | N/A |
+| 46 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
+| 47 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 48 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 49 | [Đài Loan](http://twitter.com/search?q=%c4%90%c3%a0i+Loan) | N/A |
+| 50 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
 
 
 
