@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daejeon
 
-📆 Last Updated: `2023-03-31 19:16:45 UTC`
+📆 Last Updated: `2023-03-31 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,24 +40,20 @@ This is top 50 for [Korea](</Korea>)
 | 23 | [에이프릴](http://twitter.com/search?q=%ec%97%90%ec%9d%b4%ed%94%84%eb%a6%b4) | N/A |
 | 24 | [길복순 후기](http://twitter.com/search?q=%ea%b8%b8%eb%b3%b5%ec%88%9c+%ed%9b%84%ea%b8%b0) | N/A |
 | 25 | [치과의사](http://twitter.com/search?q=%ec%b9%98%ea%b3%bc%ec%9d%98%ec%82%ac) | N/A |
-| 26 | [피토앤자임](http://twitter.com/search?q=%ed%94%bc%ed%86%a0%ec%95%a4%ec%9e%90%ec%9e%84) | N/A |
-| 27 | [탐라 너무](http://twitter.com/search?q=%ed%83%90%eb%9d%bc+%eb%84%88%eb%ac%b4) | N/A |
-| 28 | [좋은 새벽](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%83%88%eb%b2%bd) | N/A |
-| 29 | [카트라이더](http://twitter.com/search?q=%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94) | N/A |
-| 30 | [림버스컴퍼니](http://twitter.com/search?q=%eb%a6%bc%eb%b2%84%ec%8a%a4%ec%bb%b4%ed%8d%bc%eb%8b%88) | N/A |
-| 31 | [무슨 장난](http://twitter.com/search?q=%eb%ac%b4%ec%8a%a8+%ec%9e%a5%eb%82%9c) | N/A |
-| 32 | [누구신가](http://twitter.com/search?q=%eb%88%84%ea%b5%ac%ec%8b%a0%ea%b0%80) | N/A |
-| 33 | [네이버웹툰](http://twitter.com/search?q=%eb%84%a4%ec%9d%b4%eb%b2%84%ec%9b%b9%ed%88%b0) | N/A |
-| 34 | [트레이닝복](http://twitter.com/search?q=%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%8b%9d%eb%b3%b5) | N/A |
-| 35 | [데한민국](http://twitter.com/search?q=%eb%8d%b0%ed%95%9c%eb%af%bc%ea%b5%ad) | N/A |
-| 36 | [츤데레 성격](http://twitter.com/search?q=%ec%b8%a4%eb%8d%b0%eb%a0%88+%ec%84%b1%ea%b2%a9) | N/A |
-| 37 | [길복순 보고](http://twitter.com/search?q=%ea%b8%b8%eb%b3%b5%ec%88%9c+%eb%b3%b4%ea%b3%a0) | N/A |
-| 38 | [#가비지타임_트친소](http://twitter.com/search?q=%23%ea%b0%80%eb%b9%84%ec%a7%80%ed%83%80%ec%9e%84_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 39 | [#HAECHAN](http://twitter.com/search?q=%23HAECHAN) | N/A |
-| 40 | [#아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
-| 41 | [#드친소](http://twitter.com/search?q=%23%eb%93%9c%ec%b9%9c%ec%86%8c) | N/A |
-| 42 | [#고양이](http://twitter.com/search?q=%23%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
-| 43 | [#더보이즈](http://twitter.com/search?q=%23%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88) | N/A |
+| 26 | [탐라 너무](http://twitter.com/search?q=%ed%83%90%eb%9d%bc+%eb%84%88%eb%ac%b4) | N/A |
+| 27 | [좋은 새벽](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%83%88%eb%b2%bd) | N/A |
+| 28 | [카트라이더](http://twitter.com/search?q=%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94) | N/A |
+| 29 | [림버스컴퍼니](http://twitter.com/search?q=%eb%a6%bc%eb%b2%84%ec%8a%a4%ec%bb%b4%ed%8d%bc%eb%8b%88) | N/A |
+| 30 | [무슨 장난](http://twitter.com/search?q=%eb%ac%b4%ec%8a%a8+%ec%9e%a5%eb%82%9c) | N/A |
+| 31 | [누구신가](http://twitter.com/search?q=%eb%88%84%ea%b5%ac%ec%8b%a0%ea%b0%80) | N/A |
+| 32 | [데한민국](http://twitter.com/search?q=%eb%8d%b0%ed%95%9c%eb%af%bc%ea%b5%ad) | N/A |
+| 33 | [네이버 웹툰](http://twitter.com/search?q=%eb%84%a4%ec%9d%b4%eb%b2%84+%ec%9b%b9%ed%88%b0) | N/A |
+| 34 | [츤데레 성격](http://twitter.com/search?q=%ec%b8%a4%eb%8d%b0%eb%a0%88+%ec%84%b1%ea%b2%a9) | N/A |
+| 35 | [#가비지타임_트친소](http://twitter.com/search?q=%23%ea%b0%80%eb%b9%84%ec%a7%80%ed%83%80%ec%9e%84_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 36 | [#아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 37 | [#드친소](http://twitter.com/search?q=%23%eb%93%9c%ec%b9%9c%ec%86%8c) | N/A |
+| 38 | [#고양이](http://twitter.com/search?q=%23%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
+| 39 | [#더보이즈](http://twitter.com/search?q=%23%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88) | N/A |
 
 
 

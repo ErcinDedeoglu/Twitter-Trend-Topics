@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-31 19:16:57 UTC`
+📆 Last Updated: `2023-03-31 20:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Indonesia
 | 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 7 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 8 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 9 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
-| 10 | [Kelipatan 5k](http://twitter.com/search?q=Kelipatan+5k) | N/A |
+| 9 | [Kelipatan 5k](http://twitter.com/search?q=Kelipatan+5k) | N/A |
+| 10 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
 | 11 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
 | 12 | [ocbc nisp](http://twitter.com/search?q=ocbc+nisp) | N/A |
 | 13 | [komitmen benny rhamdani](http://twitter.com/search?q=komitmen+benny+rhamdani) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Indonesia
 | 27 | [Maret](http://twitter.com/search?q=Maret) | N/A |
 | 28 | [youn1t love you banghan](http://twitter.com/search?q=youn1t+love+you+banghan) | N/A |
 | 29 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 30 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 31 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 30 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 31 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
 | 32 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
 | 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 34 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
 | 35 | [Juara](http://twitter.com/search?q=Juara) | N/A |
 | 36 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
 | 37 | [AHY Dukung Timnas](http://twitter.com/search?q=AHY+Dukung+Timnas) | N/A |
-| 38 | [1OO MILLIO](http://twitter.com/search?q=1OO+MILLIO) | N/A |
-| 39 | [ON VIEWS](http://twitter.com/search?q=ON+VIEWS) | N/A |
-| 40 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 41 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 42 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 43 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 44 | [hari film nasional](http://twitter.com/search?q=hari+film+nasional) | N/A |
-| 45 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 46 | [ADSE](http://twitter.com/search?q=ADSE) | N/A |
-| 47 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 49 | [Butut](http://twitter.com/search?q=Butut) | N/A |
-| 50 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 38 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 39 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 40 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 41 | [hari film nasional](http://twitter.com/search?q=hari+film+nasional) | N/A |
+| 42 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 43 | [ADSE](http://twitter.com/search?q=ADSE) | N/A |
+| 44 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 45 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 46 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 47 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 48 | [always with me](http://twitter.com/search?q=always+with+me) | N/A |
+| 49 | [hasto kristiyanto](http://twitter.com/search?q=hasto+kristiyanto) | N/A |
+| 50 | [Koster](http://twitter.com/search?q=Koster) | N/A |
 
 
 

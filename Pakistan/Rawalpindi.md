@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-31 19:16:40 UTC`
+📆 Last Updated: `2023-03-31 20:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 6 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
 | 7 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 8 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 9 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 8 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 9 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
 | 10 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
 | 11 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
 | 12 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
 | 13 | [Mother of Syeda](http://twitter.com/search?q=Mother+of+Syeda) | N/A |
 | 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 16 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
-| 17 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 18 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
-| 19 | [2nd friday of ramadan](http://twitter.com/search?q=2nd+friday+of+ramadan) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
+| 18 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 19 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
 | 20 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 21 | [Broken](http://twitter.com/search?q=Broken) | N/A |
-| 22 | [Mother of Muslim Ummah](http://twitter.com/search?q=Mother+of+Muslim+Ummah) | N/A |
-| 23 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Hazrat Muhammad](http://twitter.com/search?q=Hazrat+Muhammad) | N/A |
-| 26 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 27 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 28 | [Salman Taseer](http://twitter.com/search?q=Salman+Taseer) | N/A |
-| 29 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
-| 30 | [Sepoy Irshad Ullah](http://twitter.com/search?q=Sepoy+Irshad+Ullah) | N/A |
-| 31 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
-| 32 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 33 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 21 | [2nd friday of ramadan](http://twitter.com/search?q=2nd+friday+of+ramadan) | N/A |
+| 22 | [Broken](http://twitter.com/search?q=Broken) | N/A |
+| 23 | [mother of muslim ummah](http://twitter.com/search?q=mother+of+muslim+ummah) | N/A |
+| 24 | [Hazrat Muhammad](http://twitter.com/search?q=Hazrat+Muhammad) | N/A |
+| 25 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
+| 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 27 | [Salman Taseer](http://twitter.com/search?q=Salman+Taseer) | N/A |
+| 28 | [Sepoy Irshad Ullah](http://twitter.com/search?q=Sepoy+Irshad+Ullah) | N/A |
+| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 30 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
+| 31 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 32 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 33 | [Absolutely YES](http://twitter.com/search?q=Absolutely+YES) | N/A |
 | 34 | [Chor](http://twitter.com/search?q=Chor) | N/A |
 | 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 36 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 38 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 39 | [Understandable](http://twitter.com/search?q=Understandable) | N/A |
-| 40 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 41 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
-| 42 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 43 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 44 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 45 | [Mtlb](http://twitter.com/search?q=Mtlb) | N/A |
-| 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 47 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 48 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 49 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 50 | [Wese](http://twitter.com/search?q=Wese) | N/A |
+| 37 | [Understandable](http://twitter.com/search?q=Understandable) | N/A |
+| 38 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 39 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 40 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 41 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 42 | [Mtlb](http://twitter.com/search?q=Mtlb) | N/A |
+| 43 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 44 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 45 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 46 | [Quaid e Azam](http://twitter.com/search?q=Quaid+e+Azam) | N/A |
+| 47 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
+| 48 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 49 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

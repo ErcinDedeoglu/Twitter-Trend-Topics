@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-31 19:16:56 UTC`
+📆 Last Updated: `2023-03-31 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Denmark
 | 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 4 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [#regioner23](http://twitter.com/search?q=%23regioner23) | N/A |
-| 7 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 8 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
-| 9 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 10 | [Thorborg](http://twitter.com/search?q=Thorborg) | N/A |
-| 11 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
-| 12 | [Østrig](http://twitter.com/search?q=%c3%98strig) | N/A |
+| 6 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 7 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 8 | [#regioner23](http://twitter.com/search?q=%23regioner23) | N/A |
+| 9 | [Thorborg](http://twitter.com/search?q=Thorborg) | N/A |
+| 10 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
+| 11 | [østrig](http://twitter.com/search?q=%c3%b8strig) | N/A |
+| 12 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 | 13 | [Bælum](http://twitter.com/search?q=B%c3%a6lum) | N/A |
 | 14 | [Arne](http://twitter.com/search?q=Arne) | N/A |
-| 15 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 16 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 17 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 19 | [Frederik](http://twitter.com/search?q=Frederik) | N/A |
-| 20 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 21 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 15 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 16 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 17 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 18 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
+| 19 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 20 | [Endelig](http://twitter.com/search?q=Endelig) | N/A |
+| 21 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
 | 22 | [rørdam](http://twitter.com/search?q=r%c3%b8rdam) | N/A |
-| 23 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 24 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
-| 25 | [Endelig](http://twitter.com/search?q=Endelig) | N/A |
-| 26 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 27 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 28 | [søren pind](http://twitter.com/search?q=s%c3%b8ren+pind) | N/A |
-| 29 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 30 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
-| 31 | [Grønland](http://twitter.com/search?q=Gr%c3%b8nland) | N/A |
-| 32 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 33 | [Carlsberg](http://twitter.com/search?q=Carlsberg) | N/A |
-| 34 | [Danes](http://twitter.com/search?q=Danes) | N/A |
-| 35 | [Odense](http://twitter.com/search?q=Odense) | N/A |
-| 36 | [NSCLC](http://twitter.com/search?q=NSCLC) | N/A |
-| 37 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
-| 38 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 39 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
-| 40 | [PostNord](http://twitter.com/search?q=PostNord) | N/A |
-| 41 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 42 | [statsministeriet](http://twitter.com/search?q=statsministeriet) | N/A |
-| 43 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 44 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 45 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
-| 46 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 47 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 48 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 49 | [Republican](http://twitter.com/search?q=Republican) | N/A |
-| 50 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 23 | [Frederik](http://twitter.com/search?q=Frederik) | N/A |
+| 24 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
+| 25 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 26 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 27 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 28 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 29 | [Odense](http://twitter.com/search?q=Odense) | N/A |
+| 30 | [NSCLC](http://twitter.com/search?q=NSCLC) | N/A |
+| 31 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 32 | [PostNord](http://twitter.com/search?q=PostNord) | N/A |
+| 33 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 34 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 35 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 36 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 37 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 38 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 39 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 40 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 41 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 42 | [Midjourney](http://twitter.com/search?q=Midjourney) | N/A |
+| 43 | [Fandme](http://twitter.com/search?q=Fandme) | N/A |
+| 44 | [Very Nice](http://twitter.com/search?q=Very+Nice) | N/A |
+| 45 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 46 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 47 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
+| 48 | [cepos](http://twitter.com/search?q=cepos) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 50 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 
 
 

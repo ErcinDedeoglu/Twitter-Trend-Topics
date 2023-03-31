@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-31 19:16:34 UTC`
+📆 Last Updated: `2023-03-31 20:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,7 +47,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 30 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
 | 31 | [pallette](http://twitter.com/search?q=pallette) | N/A |
 | 32 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 33 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
+| 33 | [nhận](http://twitter.com/search?q=nh%e1%ba%adn) | N/A |
 | 34 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 36 | [Đài Loan](http://twitter.com/search?q=%c4%90%c3%a0i+Loan) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 41 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
 | 42 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
 | 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 44 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 44 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
 | 45 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 46 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-03-31 19:16:49 UTC`
+📆 Last Updated: `2023-03-31 20:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 3 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 7 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 8 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 9 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 10 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 11 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 5 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 7 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 9 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 10 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 11 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
 | 12 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 13 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 14 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 15 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 16 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 17 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 18 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 19 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 20 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 21 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 22 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 23 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 24 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 25 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 26 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 27 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 28 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 29 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 30 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 31 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 32 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 33 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
-| 34 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 35 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 36 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 37 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 38 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 39 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
-| 40 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
-| 41 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 42 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 43 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
-| 44 | [Bill Snyder](http://twitter.com/search?q=Bill+Snyder) | N/A |
-| 45 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 47 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 48 | [Tom Kim](http://twitter.com/search?q=Tom+Kim) | N/A |
-| 49 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
+| 13 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 14 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 16 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 17 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 19 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 20 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 21 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 22 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 23 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 24 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 25 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 26 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 27 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 28 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 29 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 30 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 31 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 32 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
+| 33 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 35 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 36 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 37 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 38 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 39 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
+| 40 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
+| 41 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
+| 42 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 43 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
+| 44 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 45 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 46 | [Airball](http://twitter.com/search?q=Airball) | N/A |
+| 47 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 48 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 49 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-31 19:16:31 UTC`
+📆 Last Updated: `2023-03-31 20:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 9 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
 | 10 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 11 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 12 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 12 | [always with me](http://twitter.com/search?q=always+with+me) | N/A |
 | 13 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 14 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 15 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
-| 16 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 17 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
-| 18 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 19 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 20 | [yuju](http://twitter.com/search?q=yuju) | N/A |
-| 21 | [uitm](http://twitter.com/search?q=uitm) | N/A |
-| 22 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
-| 23 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 25 | [src international](http://twitter.com/search?q=src+international) | N/A |
-| 26 | [PLKN](http://twitter.com/search?q=PLKN) | N/A |
-| 27 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 14 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
+| 15 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 16 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
+| 17 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 18 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 19 | [yuju](http://twitter.com/search?q=yuju) | N/A |
+| 20 | [uitm](http://twitter.com/search?q=uitm) | N/A |
+| 21 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
+| 22 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 24 | [src international](http://twitter.com/search?q=src+international) | N/A |
+| 25 | [PLKN](http://twitter.com/search?q=PLKN) | N/A |
+| 26 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 27 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 28 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
 | 29 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
 | 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 31 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 32 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 33 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 34 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 35 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 36 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
-| 37 | [Woww](http://twitter.com/search?q=Woww) | N/A |
-| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 40 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 33 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 34 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 35 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 36 | [Woww](http://twitter.com/search?q=Woww) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 38 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 39 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 40 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 41 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
-| 42 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
-| 43 | [syed saddiq](http://twitter.com/search?q=syed+saddiq) | N/A |
-| 44 | [Ipoh](http://twitter.com/search?q=Ipoh) | N/A |
-| 45 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 46 | [Scara](http://twitter.com/search?q=Scara) | N/A |
-| 47 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 48 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 49 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 42 | [syed saddiq](http://twitter.com/search?q=syed+saddiq) | N/A |
+| 43 | [Ipoh](http://twitter.com/search?q=Ipoh) | N/A |
+| 44 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 45 | [Scara](http://twitter.com/search?q=Scara) | N/A |
+| 46 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 47 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 48 | [Universe](http://twitter.com/search?q=Universe) | N/A |
+| 49 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
 
 
 

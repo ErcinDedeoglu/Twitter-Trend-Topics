@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-31 19:16:59 UTC`
+📆 Last Updated: `2023-03-31 20:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 2 | [#kabinetscrisis](http://twitter.com/search?q=%23kabinetscrisis) | N/A |
-| 3 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
+| 1 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
+| 2 | [#persconferentie](http://twitter.com/search?q=%23persconferentie) | N/A |
+| 3 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
 | 4 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 5 | [#2voor12](http://twitter.com/search?q=%232voor12) | N/A |
-| 6 | [#persconferentie](http://twitter.com/search?q=%23persconferentie) | N/A |
-| 7 | [Albert](http://twitter.com/search?q=Albert) | N/A |
-| 8 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 9 | [Proost](http://twitter.com/search?q=Proost) | N/A |
-| 10 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
-| 11 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
-| 12 | [Uitstel](http://twitter.com/search?q=Uitstel) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [#kabinetscrisis](http://twitter.com/search?q=%23kabinetscrisis) | N/A |
+| 6 | [#2voor12](http://twitter.com/search?q=%232voor12) | N/A |
+| 7 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 8 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 9 | [Sander](http://twitter.com/search?q=Sander) | N/A |
+| 10 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
+| 13 | [Proost](http://twitter.com/search?q=Proost) | N/A |
 | 14 | [Overmars](http://twitter.com/search?q=Overmars) | N/A |
-| 15 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 16 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 17 | [Sinkevicius](http://twitter.com/search?q=Sinkevicius) | N/A |
-| 18 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
-| 19 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 20 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
-| 21 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
-| 22 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 23 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 24 | [Peter R. de Vries](http://twitter.com/search?q=Peter+R.+de+Vries) | N/A |
-| 25 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 26 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 27 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
-| 28 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
-| 31 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 32 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 33 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
-| 34 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 35 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 36 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 37 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 38 | [Pieter](http://twitter.com/search?q=Pieter) | N/A |
-| 39 | [Hoek van Holland](http://twitter.com/search?q=Hoek+van+Holland) | N/A |
-| 40 | [Ecologische Autoriteit](http://twitter.com/search?q=Ecologische+Autoriteit) | N/A |
-| 41 | [Treets](http://twitter.com/search?q=Treets) | N/A |
-| 42 | [Goedenavond](http://twitter.com/search?q=Goedenavond) | N/A |
-| 43 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
-| 44 | [Sierra Leone](http://twitter.com/search?q=Sierra+Leone) | N/A |
-| 45 | [D. Overijssel](http://twitter.com/search?q=D.+Overijssel) | N/A |
-| 46 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
-| 47 | [Wiersum](http://twitter.com/search?q=Wiersum) | N/A |
-| 48 | [Ivor](http://twitter.com/search?q=Ivor) | N/A |
-| 49 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 50 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 15 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 16 | [Albert](http://twitter.com/search?q=Albert) | N/A |
+| 17 | [Versnellen](http://twitter.com/search?q=Versnellen) | N/A |
+| 18 | [Sinkevicius](http://twitter.com/search?q=Sinkevicius) | N/A |
+| 19 | [Slappe](http://twitter.com/search?q=Slappe) | N/A |
+| 20 | [Peter R. de Vries](http://twitter.com/search?q=Peter+R.+de+Vries) | N/A |
+| 21 | [MAVO](http://twitter.com/search?q=MAVO) | N/A |
+| 22 | [Uitstel](http://twitter.com/search?q=Uitstel) | N/A |
+| 23 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 24 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
+| 25 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 26 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
+| 27 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
+| 28 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 29 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 30 | [Wiskunde](http://twitter.com/search?q=Wiskunde) | N/A |
+| 31 | [D. Overijssel](http://twitter.com/search?q=D.+Overijssel) | N/A |
+| 32 | [Apache](http://twitter.com/search?q=Apache) | N/A |
+| 33 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 34 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
+| 35 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 36 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
+| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 38 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 39 | [Ecologische Autoriteit](http://twitter.com/search?q=Ecologische+Autoriteit) | N/A |
+| 40 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 41 | [C. 0](http://twitter.com/search?q=C.+0) | N/A |
+| 42 | [Wiersum](http://twitter.com/search?q=Wiersum) | N/A |
+| 43 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 44 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 45 | [Sierra Leone](http://twitter.com/search?q=Sierra+Leone) | N/A |
+| 46 | [Hoek van Holland](http://twitter.com/search?q=Hoek+van+Holland) | N/A |
+| 47 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 48 | [PEC Zwolle](http://twitter.com/search?q=PEC+Zwolle) | N/A |
+| 49 | [FC Eindhoven](http://twitter.com/search?q=FC+Eindhoven) | N/A |
+| 50 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
 
 
 

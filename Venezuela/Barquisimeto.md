@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-31 19:16:16 UTC`
+📆 Last Updated: `2023-03-31 20:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
 | 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 6 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 7 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 8 | [#JusticierasPorElEncuentro](http://twitter.com/search?q=%23JusticierasPorElEncuentro) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 8 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 9 | [Hernán Gamboa](http://twitter.com/search?q=Hern%c3%a1n+Gamboa) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 11 | [Casos](http://twitter.com/search?q=Casos) | N/A |
-| 12 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 12 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
 | 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
-| 15 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 14 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 15 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
 | 16 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 17 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
-| 18 | [Jackeline Perico](http://twitter.com/search?q=Jackeline+Perico) | N/A |
-| 19 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
-| 20 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
-| 21 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
-| 22 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
+| 17 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 18 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
+| 19 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
+| 20 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
+| 21 | [Jackeline Perico](http://twitter.com/search?q=Jackeline+Perico) | N/A |
+| 22 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
 | 23 | [Estropajo](http://twitter.com/search?q=Estropajo) | N/A |
-| 24 | [Juntas Regionales](http://twitter.com/search?q=Juntas+Regionales) | N/A |
-| 25 | [Viernes de Concilio](http://twitter.com/search?q=Viernes+de+Concilio) | N/A |
-| 26 | [Faja Petrolífera del Orinoco](http://twitter.com/search?q=Faja+Petrol%c3%adfera+del+Orinoco) | N/A |
-| 27 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 28 | [Juan Manuel La Guardia](http://twitter.com/search?q=Juan+Manuel+La+Guardia) | N/A |
-| 29 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
-| 30 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
+| 24 | [Adrián Perdomo](http://twitter.com/search?q=Adri%c3%a1n+Perdomo) | N/A |
+| 25 | [Juntas Regionales](http://twitter.com/search?q=Juntas+Regionales) | N/A |
+| 26 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 27 | [Viernes de Concilio](http://twitter.com/search?q=Viernes+de+Concilio) | N/A |
+| 28 | [Faja Petrolífera del Orinoco](http://twitter.com/search?q=Faja+Petrol%c3%adfera+del+Orinoco) | N/A |
+| 29 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 30 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
 | 31 | [Minerven](http://twitter.com/search?q=Minerven) | N/A |
-| 32 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 33 | [Adrián Perdomo](http://twitter.com/search?q=Adri%c3%a1n+Perdomo) | N/A |
-| 34 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 32 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 33 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
+| 34 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
 | 35 | [Caiga](http://twitter.com/search?q=Caiga) | N/A |
-| 36 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 37 | [Batalla de Bocachica](http://twitter.com/search?q=Batalla+de+Bocachica) | N/A |
-| 38 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 36 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 37 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 38 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
 | 39 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 40 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 41 | [Choroní](http://twitter.com/search?q=Choron%c3%ad) | N/A |
-| 42 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 43 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
-| 44 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 45 | [Expedición de Los Cayos](http://twitter.com/search?q=Expedici%c3%b3n+de+Los+Cayos) | N/A |
-| 46 | [Valle de Santiago](http://twitter.com/search?q=Valle+de+Santiago) | N/A |
-| 47 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 48 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 49 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
-| 50 | [segunda república de venezuela](http://twitter.com/search?q=segunda+rep%c3%bablica+de+venezuela) | N/A |
+| 40 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 41 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 42 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
+| 43 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 44 | [expedición de los cayos](http://twitter.com/search?q=expedici%c3%b3n+de+los+cayos) | N/A |
+| 45 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 46 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 47 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
+| 48 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
+| 49 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 50 | [Virgen de Coromoto](http://twitter.com/search?q=Virgen+de+Coromoto) | N/A |
 
 
 

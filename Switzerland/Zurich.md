@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-31 19:16:24 UTC`
+📆 Last Updated: `2023-03-31 20:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,27 +38,27 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
 | 22 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 23 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 24 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
-| 25 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 26 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 27 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
-| 28 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 29 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 30 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 31 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 32 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 33 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 34 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 35 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 36 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 37 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 38 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 24 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 25 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 26 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 27 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 28 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 29 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 30 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 31 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 32 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 33 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 34 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 35 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 36 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 37 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 38 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 39 | [Signal](http://twitter.com/search?q=Signal) | N/A |
 | 40 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
 | 41 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 42 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
 | 43 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 44 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 44 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
 | 45 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
 | 46 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
 | 47 | [Satan](http://twitter.com/search?q=Satan) | N/A |

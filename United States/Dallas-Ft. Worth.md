@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-31 19:16:47 UTC`
+📆 Last Updated: `2023-03-31 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 2 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
-| 3 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 2 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 3 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
+| 4 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
 | 5 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
-| 6 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
-| 7 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 14 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 15 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 16 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 17 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 18 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 19 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 20 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 21 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 22 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 23 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 24 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 25 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 26 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 27 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 28 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 29 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 30 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 7 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 8 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 9 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
+| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 11 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 18 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 19 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 20 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 22 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 24 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 25 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 26 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 29 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 30 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
 | 31 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 32 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 33 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 34 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 35 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 36 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 38 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 39 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 40 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 41 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
-| 42 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 43 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 44 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 45 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
-| 46 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 47 | [Brody Brecht](http://twitter.com/search?q=Brody+Brecht) | N/A |
-| 48 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
-| 49 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 50 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 32 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 33 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 34 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 35 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 36 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 37 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 38 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 40 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 41 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 42 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 43 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 44 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 45 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 46 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 47 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 48 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 49 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 50 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
 
 
 

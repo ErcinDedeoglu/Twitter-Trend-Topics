@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-31 19:16:12 UTC`
+📆 Last Updated: `2023-03-31 20:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Chile](</Chile>)
 | 6 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 7 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
 | 8 | [Giorgio](http://twitter.com/search?q=Giorgio) | N/A |
-| 9 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 10 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 9 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 10 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
 | 11 | [Cobquecura](http://twitter.com/search?q=Cobquecura) | N/A |
 | 12 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
 | 13 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
@@ -33,20 +33,20 @@ This is top 50 for [Chile](</Chile>)
 | 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 17 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 20 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 21 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 22 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
+| 19 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 21 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
+| 22 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
 | 23 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 24 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 25 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 26 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 27 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 28 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
-| 29 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
-| 30 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 24 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 25 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 26 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
+| 27 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 28 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 29 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 30 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
 | 31 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 32 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 32 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
 | 33 | [INDH](http://twitter.com/search?q=INDH) | N/A |
 | 34 | [Chascas](http://twitter.com/search?q=Chascas) | N/A |
 | 35 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
@@ -59,10 +59,10 @@ This is top 50 for [Chile](</Chile>)
 | 42 | [VILLA FRANCIA](http://twitter.com/search?q=VILLA+FRANCIA) | N/A |
 | 43 | [Yasna Lewin](http://twitter.com/search?q=Yasna+Lewin) | N/A |
 | 44 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 45 | [Ossandón](http://twitter.com/search?q=Ossand%c3%b3n) | N/A |
-| 46 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 47 | [nora cuevas](http://twitter.com/search?q=nora+cuevas) | N/A |
-| 48 | [Larraín](http://twitter.com/search?q=Larra%c3%adn) | N/A |
+| 45 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 46 | [nora cuevas](http://twitter.com/search?q=nora+cuevas) | N/A |
+| 47 | [Larraín](http://twitter.com/search?q=Larra%c3%adn) | N/A |
+| 48 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-31 19:16:36 UTC`
+📆 Last Updated: `2023-03-31 20:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
 | 2 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
 | 3 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
-| 4 | [#RHOGQ](http://twitter.com/search?q=%23RHOGQ) | N/A |
-| 5 | [#FamilyMeeting](http://twitter.com/search?q=%23FamilyMeeting) | N/A |
+| 4 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 5 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
 | 6 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 7 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 8 | [Dragon](http://twitter.com/search?q=Dragon) | N/A |
-| 9 | [Tuscan](http://twitter.com/search?q=Tuscan) | N/A |
-| 10 | [USSD](http://twitter.com/search?q=USSD) | N/A |
-| 11 | [Thandi](http://twitter.com/search?q=Thandi) | N/A |
-| 12 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 13 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
-| 14 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 15 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
-| 16 | [SARB](http://twitter.com/search?q=SARB) | N/A |
-| 17 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
-| 18 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 19 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
-| 20 | [Jub Jub](http://twitter.com/search?q=Jub+Jub) | N/A |
-| 21 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 22 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
-| 23 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 24 | [Saga](http://twitter.com/search?q=Saga) | N/A |
-| 25 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 7 | [Tuscan](http://twitter.com/search?q=Tuscan) | N/A |
+| 8 | [Thandi](http://twitter.com/search?q=Thandi) | N/A |
+| 9 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 10 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 11 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 12 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 13 | [SARB](http://twitter.com/search?q=SARB) | N/A |
+| 14 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
+| 15 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
+| 16 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 17 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 18 | [Jub Jub](http://twitter.com/search?q=Jub+Jub) | N/A |
+| 19 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 20 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 21 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 22 | [Bazaruto](http://twitter.com/search?q=Bazaruto) | N/A |
+| 23 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
+| 24 | [PPSA](http://twitter.com/search?q=PPSA) | N/A |
+| 25 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 | 26 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 27 | [Nini](http://twitter.com/search?q=Nini) | N/A |
-| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 29 | [Supersport](http://twitter.com/search?q=Supersport) | N/A |
-| 30 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
-| 31 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 32 | [Leeto](http://twitter.com/search?q=Leeto) | N/A |
-| 33 | [PPSA](http://twitter.com/search?q=PPSA) | N/A |
-| 34 | [Bazaruto](http://twitter.com/search?q=Bazaruto) | N/A |
-| 35 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 36 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 37 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 27 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 28 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
+| 29 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 30 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 32 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 33 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
+| 34 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 35 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 36 | [Flat](http://twitter.com/search?q=Flat) | N/A |
+| 37 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
 | 38 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
 | 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 40 | [Come to South Africa](http://twitter.com/search?q=Come+to+South+Africa) | N/A |
-| 41 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
-| 42 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 43 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
-| 44 | [AnAriesEP](http://twitter.com/search?q=AnAriesEP) | N/A |
-| 45 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 46 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
-| 47 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
-| 48 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
-| 49 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
+| 40 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
+| 41 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 42 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 43 | [Atteridgeville](http://twitter.com/search?q=Atteridgeville) | N/A |
+| 44 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
+| 45 | [AnAriesEP](http://twitter.com/search?q=AnAriesEP) | N/A |
+| 46 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 47 | [Saga](http://twitter.com/search?q=Saga) | N/A |
+| 48 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
 
 
 

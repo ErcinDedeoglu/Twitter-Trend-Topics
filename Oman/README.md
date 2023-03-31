@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-31 19:16:58 UTC`
+📆 Last Updated: `2023-03-31 20:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Oman
 | 9 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
 | 10 | [بنت خياط رضي](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%ae%d9%8a%d8%a7%d8%b7+%d8%b1%d8%b6%d9%8a) | N/A |
 | 11 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 12 | [السلطات الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 13 | [جمال الكمشكي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d9%85%d8%b4%d9%83%d9%8a) | N/A |
-| 14 | [إدريس](http://twitter.com/search?q=%d8%a5%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
-| 15 | [بن مسعود بن](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86) | N/A |
-| 16 | [سمية بنت خياط](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%a9+%d8%a8%d9%86%d8%aa+%d8%ae%d9%8a%d8%a7%d8%b7) | N/A |
-| 17 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 18 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 19 | [بن الجلندي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d9%84%d8%ac%d9%84%d9%86%d8%af%d9%8a) | N/A |
-| 20 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
-| 21 | [بنت الامام](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
-| 22 | [الضروره القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
-| 23 | [الاسبوع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 24 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 25 | [الدين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 26 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 27 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 12 | [جمال الكمشكي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d9%85%d8%b4%d9%83%d9%8a) | N/A |
+| 13 | [إدريس](http://twitter.com/search?q=%d8%a5%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
+| 14 | [سمية بنت خياط](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%a9+%d8%a8%d9%86%d8%aa+%d8%ae%d9%8a%d8%a7%d8%b7) | N/A |
+| 15 | [الضروره القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
+| 16 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 17 | [بن مسعود بن](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86) | N/A |
+| 18 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 19 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 20 | [بنت الامام](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
+| 21 | [الدين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 22 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 23 | [بن الجلندي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d9%84%d8%ac%d9%84%d9%86%d8%af%d9%8a) | N/A |
+| 24 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 25 | [الاسبوع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 26 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 27 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
 | 28 | [بن احمد الفراهيدي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d9%87%d9%8a%d8%af%d9%8a) | N/A |
-| 29 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 30 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 31 | [الفوايض الماليه المتحققه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%a7%d9%8a%d8%b6+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%82%d9%82%d9%87) | N/A |
-| 32 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
-| 33 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 34 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 35 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
-| 36 | [الفرق الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
-| 37 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 38 | [المجموعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 39 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 40 | [الجامعه الالمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 41 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 42 | [٣٠ مارس](http://twitter.com/search?q=%d9%a3%d9%a0+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 43 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
-| 44 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 45 | [دار العطاء](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
-| 46 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 47 | [اخبار عمان](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 48 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 49 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 50 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 29 | [شديد العدوي](http://twitter.com/search?q=%d8%b4%d8%af%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d8%af%d9%88%d9%8a) | N/A |
+| 30 | [الفوايض الماليه المتحققه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%a7%d9%8a%d8%b6+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%82%d9%82%d9%87) | N/A |
+| 31 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 32 | [الجامعه الالمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 33 | [المجموعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 34 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 35 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 36 | [أحمد بن سعيد البوسعيدي](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 37 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 38 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 39 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 40 | [اخبار عمان](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 41 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
+| 42 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 43 | [الإمارات العربية المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 44 | [وزارة الاوقاف](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
+| 45 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
+| 46 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 47 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 48 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 49 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 50 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
 
 
 

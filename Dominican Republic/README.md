@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-31 19:16:56 UTC`
+📆 Last Updated: `2023-03-31 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Dominican Republic
 | 4 | [sharmin](http://twitter.com/search?q=sharmin) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 6 | [Soto Jiménez](http://twitter.com/search?q=Soto+Jim%c3%a9nez) | N/A |
-| 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 8 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 9 | [josé maría imbert](http://twitter.com/search?q=jos%c3%a9+mar%c3%ada+imbert) | N/A |
 | 10 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
 | 11 | [batalla del 30](http://twitter.com/search?q=batalla+del+30) | N/A |
@@ -42,13 +42,13 @@ This is top 50 for Dominican Republic
 | 25 | [Liondy](http://twitter.com/search?q=Liondy) | N/A |
 | 26 | [Vico C](http://twitter.com/search?q=Vico+C) | N/A |
 | 27 | [Milagros Ortiz Bosch](http://twitter.com/search?q=Milagros+Ortiz+Bosch) | N/A |
-| 28 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
-| 29 | [cayo levantado](http://twitter.com/search?q=cayo+levantado) | N/A |
+| 28 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
+| 29 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
 | 30 | [#179aniversario](http://twitter.com/search?q=%23179aniversario) | N/A |
-| 31 | [Faride Raful](http://twitter.com/search?q=Faride+Raful) | N/A |
-| 32 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
-| 33 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 34 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 31 | [faride raful](http://twitter.com/search?q=faride+raful) | N/A |
+| 32 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 33 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 34 | [Cayo Levantado](http://twitter.com/search?q=Cayo+Levantado) | N/A |
 | 35 | [Gurabo](http://twitter.com/search?q=Gurabo) | N/A |
 | 36 | [Peña Gómez](http://twitter.com/search?q=Pe%c3%b1a+G%c3%b3mez) | N/A |
 | 37 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Dominican Republic
 | 40 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 41 | [Search "WATER"](http://twitter.com/search?q=Search+%22WATER%22) | N/A |
 | 42 | [Martínez Pozo](http://twitter.com/search?q=Mart%c3%adnez+Pozo) | N/A |
-| 43 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 44 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
-| 45 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 46 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 47 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 48 | [louis pierrot](http://twitter.com/search?q=louis+pierrot) | N/A |
-| 49 | [Monte Plata](http://twitter.com/search?q=Monte+Plata) | N/A |
-| 50 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 43 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
+| 44 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 45 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
+| 46 | [louis pierrot](http://twitter.com/search?q=louis+pierrot) | N/A |
+| 47 | [Monte Plata](http://twitter.com/search?q=Monte+Plata) | N/A |
+| 48 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 49 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 50 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 
 
 

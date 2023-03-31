@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-31 19:16:46 UTC`
+📆 Last Updated: `2023-03-31 20:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 6 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 9 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 11 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 12 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 13 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 14 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 15 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 16 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 17 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 18 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 19 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 20 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 21 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 22 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 23 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 24 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 25 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 26 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 27 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 28 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 29 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 30 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 31 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 32 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 33 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 34 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 35 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 36 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 37 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
-| 38 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 40 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 41 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
-| 42 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 43 | [Brody Brecht](http://twitter.com/search?q=Brody+Brecht) | N/A |
-| 44 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
-| 45 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 47 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
-| 48 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 49 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 50 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 6 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 7 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 13 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 14 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 15 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 20 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 24 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 25 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 26 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 27 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 28 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 29 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 30 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 31 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 32 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 33 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 35 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 36 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 37 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 38 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 39 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 40 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 41 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 42 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 43 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 44 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 45 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 46 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 47 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 48 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 49 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 50 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
 
 
 
