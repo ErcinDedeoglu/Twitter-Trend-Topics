@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-31 18:20:19 UTC`
+📆 Last Updated: `2023-03-31 19:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,13 +29,13 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 12 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 13 | [BTEEZ](http://twitter.com/search?q=BTEEZ) | N/A |
 | 14 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 15 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
-| 16 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 15 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 16 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
 | 17 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
 | 18 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
 | 19 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
 | 20 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 21 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 21 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
 | 22 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
 | 23 | [src international](http://twitter.com/search?q=src+international) | N/A |
 | 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
@@ -58,12 +58,12 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 41 | [ipoh](http://twitter.com/search?q=ipoh) | N/A |
 | 42 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 43 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
-| 44 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
+| 44 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
 | 45 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 46 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 47 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 48 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 49 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 46 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
+| 47 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 48 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 49 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 
 
 

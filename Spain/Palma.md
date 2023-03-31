@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-31 18:19:42 UTC`
+📆 Last Updated: `2023-03-31 19:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
-| 2 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 3 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
-| 4 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
-| 5 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 6 | [#30Monedas](http://twitter.com/search?q=%2330Monedas) | N/A |
-| 7 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
-| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 9 | [#Pecado31Mar](http://twitter.com/search?q=%23Pecado31Mar) | N/A |
-| 10 | [Alberto Bueno](http://twitter.com/search?q=Alberto+Bueno) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 13 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 14 | [Pino Montano](http://twitter.com/search?q=Pino+Montano) | N/A |
-| 15 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 16 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 17 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
-| 18 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 19 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 20 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [FOBIA](http://twitter.com/search?q=FOBIA) | N/A |
-| 24 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 25 | [Leo Messi](http://twitter.com/search?q=Leo+Messi) | N/A |
-| 26 | [Espai Barça](http://twitter.com/search?q=Espai+Bar%c3%a7a) | N/A |
-| 27 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
-| 28 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
-| 29 | [Barbón](http://twitter.com/search?q=Barb%c3%b3n) | N/A |
-| 30 | [Rafa Yuste](http://twitter.com/search?q=Rafa+Yuste) | N/A |
-| 31 | [Irene Paredes](http://twitter.com/search?q=Irene+Paredes) | N/A |
-| 32 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 34 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 35 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 37 | [#LucaOne31M](http://twitter.com/search?q=%23LucaOne31M) | N/A |
-| 38 | [#ViernesDeDolores](http://twitter.com/search?q=%23ViernesDeDolores) | N/A |
-| 39 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 40 | [#DiaDeLaVisibilidadTrans](http://twitter.com/search?q=%23DiaDeLaVisibilidadTrans) | N/A |
-| 41 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 42 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 43 | [#CopaDeLaReinaLFEndesa](http://twitter.com/search?q=%23CopaDeLaReinaLFEndesa) | N/A |
-| 44 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 45 | [#YoMeRebelo31M](http://twitter.com/search?q=%23YoMeRebelo31M) | N/A |
-| 46 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 47 | [#MinecraftEnGAME](http://twitter.com/search?q=%23MinecraftEnGAME) | N/A |
+| 1 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 2 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
+| 3 | [#SVGala5](http://twitter.com/search?q=%23SVGala5) | N/A |
+| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 5 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
+| 6 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 7 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 8 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 9 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
+| 10 | [#Pasapalabra737](http://twitter.com/search?q=%23Pasapalabra737) | N/A |
+| 11 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
+| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [#30Monedas](http://twitter.com/search?q=%2330Monedas) | N/A |
+| 14 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 16 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 18 | [Lolas](http://twitter.com/search?q=Lolas) | N/A |
+| 19 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 20 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
+| 21 | [Feijóo](http://twitter.com/search?q=Feij%c3%b3o) | N/A |
+| 22 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 23 | [Irene Paredes](http://twitter.com/search?q=Irene+Paredes) | N/A |
+| 24 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 25 | [Rafa Yuste](http://twitter.com/search?q=Rafa+Yuste) | N/A |
+| 26 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 27 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
+| 28 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
+| 29 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 30 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 31 | [Churro](http://twitter.com/search?q=Churro) | N/A |
+| 32 | [MI CAPITÁN](http://twitter.com/search?q=MI+CAPIT%c3%81N) | N/A |
+| 33 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
+| 34 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 35 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 36 | [El TAD](http://twitter.com/search?q=El+TAD) | El TAD is an acronym for the Spanish phrase “Tecnología de Aprendizaje Digital”, which translates to “Digital Learning Technology”. It refers to the use of digital tools and resources to facilitate learning in educational settings. |
+| 37 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 38 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
+| 39 | [libres 2](http://twitter.com/search?q=libres+2) | N/A |
+| 40 | [Grande Lucho](http://twitter.com/search?q=Grande+Lucho) | N/A |
+| 41 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
+| 42 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 43 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 44 | [Alberto Bueno](http://twitter.com/search?q=Alberto+Bueno) | N/A |
+| 45 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 46 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 47 | [Fobia](http://twitter.com/search?q=Fobia) | N/A |
+| 48 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-31 18:19:34 UTC`
+📆 Last Updated: `2023-03-31 19:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 1 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
 | 2 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
 | 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 4 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 5 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
-| 6 | [CRUZEIRO ESPORTE CLUBE](http://twitter.com/search?q=CRUZEIRO+ESPORTE+CLUBE) | N/A |
+| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 5 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 6 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
 | 7 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
-| 8 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 9 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 10 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 11 | [Força Aline](http://twitter.com/search?q=For%c3%a7a+Aline) | N/A |
-| 12 | [Vai Aline](http://twitter.com/search?q=Vai+Aline) | N/A |
-| 13 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
-| 14 | [#DitaduraNuncaMais](http://twitter.com/search?q=%23DitaduraNuncaMais) | N/A |
-| 15 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 16 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 17 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 18 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 19 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 20 | [VOCÊ CONSEGUE ALINE](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+ALINE) | N/A |
-| 21 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 22 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 23 | [Vamos Aline](http://twitter.com/search?q=Vamos+Aline) | N/A |
-| 24 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 25 | [CHÁ DA BIAZIN](http://twitter.com/search?q=CH%c3%81+DA+BIAZIN) | N/A |
-| 26 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 27 | [Aline e Alface](http://twitter.com/search?q=Aline+e+Alface) | N/A |
-| 28 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 29 | [Bora Alface](http://twitter.com/search?q=Bora+Alface) | N/A |
-| 30 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
+| 8 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 9 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
+| 10 | [#DitaduraNuncaMais](http://twitter.com/search?q=%23DitaduraNuncaMais) | N/A |
+| 11 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
+| 12 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 13 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 14 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 15 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
+| 16 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 17 | [Força Alface](http://twitter.com/search?q=For%c3%a7a+Alface) | N/A |
+| 18 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
+| 19 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
+| 20 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
+| 21 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 22 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
+| 23 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
+| 24 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
+| 25 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 26 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 27 | [CHÁ DA BIAZIN](http://twitter.com/search?q=CH%c3%81+DA+BIAZIN) | N/A |
+| 28 | [Papu Gomez](http://twitter.com/search?q=Papu+Gomez) | Papu Gomez is a nickname for the Argentine footballer Alejandro Gomez. It is derived from his first name, Alejandro, and his nickname, Papu. The term Papu Gomez is used to refer to the player in a friendly and affectionate way. In English, it could be translated as "Papu the Great". |
+| 29 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
+| 30 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
 | 31 | [Vivi Mariano](http://twitter.com/search?q=Vivi+Mariano) | N/A |
-| 32 | [Papu Gomez](http://twitter.com/search?q=Papu+Gomez) | Papu Gomez is a nickname for the Argentine footballer Alejandro Gomez. It is derived from his first name, Alejandro, and his nickname, Papu. The term Papu Gomez is used to refer to the player in a friendly and affectionate way. In English, it could be translated as "Papu the Great". |
-| 33 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 34 | [niki](http://twitter.com/search?q=niki) | N/A |
-| 35 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
-| 36 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 37 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 38 | [Claus](http://twitter.com/search?q=Claus) | N/A |
-| 39 | [Rafaela Silva](http://twitter.com/search?q=Rafaela+Silva) | N/A |
-| 40 | [Edina](http://twitter.com/search?q=Edina) | N/A |
-| 41 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 42 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 43 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 44 | [Pedro Guimarães](http://twitter.com/search?q=Pedro+Guimar%c3%a3es) | N/A |
-| 45 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
-| 46 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 47 | [Seleção Brasileira Sub-20](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira+Sub-20) | N/A |
-| 48 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 49 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 50 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 32 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 33 | [Rafaela Silva](http://twitter.com/search?q=Rafaela+Silva) | N/A |
+| 34 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 35 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
+| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 37 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 38 | [Fabíola](http://twitter.com/search?q=Fab%c3%adola) | N/A |
+| 39 | [Roberta Miranda](http://twitter.com/search?q=Roberta+Miranda) | N/A |
+| 40 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
+| 41 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 42 | [Pedro Guimarães](http://twitter.com/search?q=Pedro+Guimar%c3%a3es) | N/A |
+| 43 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 44 | [Edina](http://twitter.com/search?q=Edina) | N/A |
+| 45 | [Panini](http://twitter.com/search?q=Panini) | N/A |
+| 46 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 47 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 48 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 49 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 50 | [Claus](http://twitter.com/search?q=Claus) | N/A |
 
 
 

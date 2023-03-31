@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-31 18:20:08 UTC`
+📆 Last Updated: `2023-03-31 19:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 2 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
 | 3 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 4 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 6 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 7 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 7 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
 | 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 9 | [#CesarChavezDay](http://twitter.com/search?q=%23CesarChavezDay) | N/A |
-| 10 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 9 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 10 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
 | 11 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 12 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 13 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 14 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 15 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 16 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 17 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 18 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 19 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 20 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 21 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 22 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 24 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 25 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 12 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 13 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 14 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 15 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 16 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 18 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 19 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 20 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 21 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 22 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 23 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 24 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 25 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
 | 26 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 27 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 28 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 29 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
-| 30 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 31 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 32 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 33 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
-| 36 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 37 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 38 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 39 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 40 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
-| 41 | [Bill Snyder](http://twitter.com/search?q=Bill+Snyder) | N/A |
-| 42 | [Tom Kim](http://twitter.com/search?q=Tom+Kim) | N/A |
-| 43 | [Happy 80th](http://twitter.com/search?q=Happy+80th) | N/A |
-| 44 | [Android Auto](http://twitter.com/search?q=Android+Auto) | N/A |
-| 45 | [The SPC](http://twitter.com/search?q=The+SPC) | N/A |
-| 46 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 47 | [Schifino](http://twitter.com/search?q=Schifino) | N/A |
-| 48 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 49 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 50 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 27 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 28 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 29 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
+| 30 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 31 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 32 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 33 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 34 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
+| 35 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
+| 36 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 37 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 38 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 39 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
+| 40 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
+| 41 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 42 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 43 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 44 | [Bill Snyder](http://twitter.com/search?q=Bill+Snyder) | N/A |
+| 45 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 47 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 48 | [Tom Kim](http://twitter.com/search?q=Tom+Kim) | N/A |
+| 49 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
+| 50 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
 
 
 

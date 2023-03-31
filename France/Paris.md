@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-31 18:19:38 UTC`
+📆 Last Updated: `2023-03-31 19:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 2 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 3 | [Marlène Schiappa](http://twitter.com/search?q=Marl%c3%a8ne+Schiappa) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 6 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 7 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 8 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
-| 9 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
-| 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 11 | [Une de Playboy](http://twitter.com/search?q=Une+de+Playboy) | N/A |
-| 12 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
-| 13 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 14 | [Après Macron](http://twitter.com/search?q=Apr%c3%a8s+Macron) | N/A |
-| 15 | [Lucas Digne](http://twitter.com/search?q=Lucas+Digne) | N/A |
-| 16 | [Groland](http://twitter.com/search?q=Groland) | N/A |
-| 17 | [Rouillan](http://twitter.com/search?q=Rouillan) | N/A |
-| 18 | [Après Pif](http://twitter.com/search?q=Apr%c3%a8s+Pif) | N/A |
-| 19 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 20 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 21 | [#TDOV2023](http://twitter.com/search?q=%23TDOV2023) | N/A |
-| 22 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
-| 23 | [Binet](http://twitter.com/search?q=Binet) | N/A |
-| 24 | [Wargon](http://twitter.com/search?q=Wargon) | N/A |
-| 25 | [Farouk](http://twitter.com/search?q=Farouk) | N/A |
-| 26 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 27 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 28 | [Luis Campos](http://twitter.com/search?q=Luis+Campos) | N/A |
-| 29 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 30 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 31 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 32 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 33 | [Mathis](http://twitter.com/search?q=Mathis) | N/A |
-| 34 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 35 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 36 | [Gouiri](http://twitter.com/search?q=Gouiri) | N/A |
-| 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 38 | [Figaro](http://twitter.com/search?q=Figaro) | N/A |
-| 39 | [Gorafi](http://twitter.com/search?q=Gorafi) | N/A |
-| 40 | [Xbox Series](http://twitter.com/search?q=Xbox+Series) | N/A |
-| 41 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 42 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 43 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 44 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 45 | [#VCTEMEA](http://twitter.com/search?q=%23VCTEMEA) | N/A |
-| 46 | [#IPlayYuGiOhTCG](http://twitter.com/search?q=%23IPlayYuGiOhTCG) | N/A |
-| 47 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 48 | [#Punchline](http://twitter.com/search?q=%23Punchline) | N/A |
-| 49 | [#JulienXNintendalerts](http://twitter.com/search?q=%23JulienXNintendalerts) | N/A |
-| 50 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
+| 1 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 2 | [Figaro](http://twitter.com/search?q=Figaro) | N/A |
+| 3 | [Midjourney](http://twitter.com/search?q=Midjourney) | N/A |
+| 4 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
+| 5 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 6 | [Marlène Schiappa](http://twitter.com/search?q=Marl%c3%a8ne+Schiappa) | N/A |
+| 7 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 9 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 10 | [#OMxParionsSport](http://twitter.com/search?q=%23OMxParionsSport) | N/A |
+| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 12 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 13 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 14 | [Zoelys](http://twitter.com/search?q=Zoelys) | N/A |
+| 15 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
+| 16 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 17 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 18 | [Une de Playboy](http://twitter.com/search?q=Une+de+Playboy) | N/A |
+| 19 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
+| 20 | [Après Macron](http://twitter.com/search?q=Apr%c3%a8s+Macron) | N/A |
+| 21 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 22 | [Wargon](http://twitter.com/search?q=Wargon) | N/A |
+| 23 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 24 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 25 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 26 | [Rouillan](http://twitter.com/search?q=Rouillan) | N/A |
+| 27 | [Groland](http://twitter.com/search?q=Groland) | N/A |
+| 28 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 29 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 30 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 31 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
+| 32 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
+| 33 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
+| 34 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 35 | [Mathis](http://twitter.com/search?q=Mathis) | N/A |
+| 36 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 37 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 38 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 39 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 40 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
+| 41 | [#VCTEMEA](http://twitter.com/search?q=%23VCTEMEA) | N/A |
+| 42 | [#TDOV2023](http://twitter.com/search?q=%23TDOV2023) | N/A |
+| 43 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 44 | [#JulienXNintendalerts](http://twitter.com/search?q=%23JulienXNintendalerts) | N/A |
+| 45 | [#Macron_Ordure](http://twitter.com/search?q=%23Macron_Ordure) | N/A |
+| 46 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 47 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 48 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 49 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
+| 50 | [#MelanieDaCruz](http://twitter.com/search?q=%23MelanieDaCruz) | N/A |
 
 
 

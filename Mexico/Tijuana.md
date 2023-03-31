@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-03-31 18:19:31 UTC`
+📆 Last Updated: `2023-03-31 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,48 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 2 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
-| 3 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
-| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 5 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
-| 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 7 | [#EnEsteFin](http://twitter.com/search?q=%23EnEsteFin) | N/A |
-| 8 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 9 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 10 | [Ana Francisca](http://twitter.com/search?q=Ana+Francisca) | N/A |
-| 11 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 12 | [Hoy 31](http://twitter.com/search?q=Hoy+31) | N/A |
+| 2 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
+| 3 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
+| 4 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 5 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
+| 6 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 8 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 9 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 10 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 11 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 12 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
 | 13 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 14 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 15 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 16 | [El 31](http://twitter.com/search?q=El+31) | N/A |
-| 17 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 18 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 19 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
-| 20 | [Tómbola](http://twitter.com/search?q=T%c3%b3mbola) | N/A |
-| 21 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 22 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 23 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
-| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 25 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
-| 26 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
-| 27 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 28 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
-| 29 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
-| 30 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
-| 31 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 32 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Consejeros](http://twitter.com/search?q=Consejeros) | N/A |
-| 35 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
-| 36 | [Tlahuelilpan](http://twitter.com/search?q=Tlahuelilpan) | N/A |
-| 37 | [#VisibilidadTrans](http://twitter.com/search?q=%23VisibilidadTrans) | N/A |
-| 38 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 39 | [#selenaquintanilla](http://twitter.com/search?q=%23selenaquintanilla) | N/A |
-| 40 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 41 | [#NIUNVOTOALOSCORRUPTOS](http://twitter.com/search?q=%23NIUNVOTOALOSCORRUPTOS) | N/A |
-| 42 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 43 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 44 | [#MañaneroFavorito](http://twitter.com/search?q=%23Ma%c3%b1aneroFavorito) | N/A |
-| 45 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 46 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 47 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 48 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 49 | [#PalNorte](http://twitter.com/search?q=%23PalNorte) | N/A |
-| 50 | [#AmloEsUnPeligroParaMexico](http://twitter.com/search?q=%23AmloEsUnPeligroParaMexico) | N/A |
+| 14 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 15 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 16 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 17 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 18 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 19 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 20 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 21 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
+| 24 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 25 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
+| 26 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
+| 27 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
+| 28 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 31 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
+| 32 | [#EnEsteFin](http://twitter.com/search?q=%23EnEsteFin) | N/A |
+| 33 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
+| 34 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
+| 35 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 36 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
+| 37 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 38 | [#PalNorte](http://twitter.com/search?q=%23PalNorte) | N/A |
+| 39 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 40 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 41 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 42 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
+| 43 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
 
 
 

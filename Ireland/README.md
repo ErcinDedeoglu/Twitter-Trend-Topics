@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-31 18:20:13 UTC`
+📆 Last Updated: `2023-03-31 19:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ireland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
-| 4 | [Seanad](http://twitter.com/search?q=Seanad) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [#TDOV2023](http://twitter.com/search?q=%23TDOV2023) | N/A |
-| 7 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 8 | [Level 1](http://twitter.com/search?q=Level+1) | N/A |
-| 9 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 10 | [Paul O’Grady](http://twitter.com/search?q=Paul+O%e2%80%99Grady) | N/A |
-| 11 | [#wrd23](http://twitter.com/search?q=%23wrd23) | N/A |
-| 12 | [Student Council](http://twitter.com/search?q=Student+Council) | N/A |
-| 13 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 16 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 17 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 18 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 19 | [John Rogers](http://twitter.com/search?q=John+Rogers) | N/A |
-| 20 | [#ReinstateEvictionBan](http://twitter.com/search?q=%23ReinstateEvictionBan) | N/A |
-| 21 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 22 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 23 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
-| 24 | [prsi](http://twitter.com/search?q=prsi) | N/A |
-| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 26 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 27 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 28 | [corporal Duggan](http://twitter.com/search?q=corporal+Duggan) | N/A |
-| 29 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
-| 30 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 31 | [Congratulations Rachel](http://twitter.com/search?q=Congratulations+Rachel) | N/A |
-| 32 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 33 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 35 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 36 | [Vera Pauw](http://twitter.com/search?q=Vera+Pauw) | N/A |
+| 2 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 4 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 5 | [Seanad](http://twitter.com/search?q=Seanad) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Level 1](http://twitter.com/search?q=Level+1) | N/A |
+| 8 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 9 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 10 | [#CCFC84](http://twitter.com/search?q=%23CCFC84) | N/A |
+| 11 | [#5albums92](http://twitter.com/search?q=%235albums92) | N/A |
+| 12 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
+| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 14 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 15 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 16 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 17 | [Student Council](http://twitter.com/search?q=Student+Council) | N/A |
+| 18 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 19 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 20 | [john rogers](http://twitter.com/search?q=john+rogers) | N/A |
+| 21 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 22 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 23 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 24 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 25 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 26 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 27 | [corporal Duggan](http://twitter.com/search?q=corporal+Duggan) | N/A |
+| 28 | [prsi](http://twitter.com/search?q=prsi) | N/A |
+| 29 | [Congratulations Rachel](http://twitter.com/search?q=Congratulations+Rachel) | N/A |
+| 30 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
+| 31 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 32 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
+| 33 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 34 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 35 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 36 | [Tusla](http://twitter.com/search?q=Tusla) | N/A |
 | 37 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 38 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
-| 39 | [Robbie Keane](http://twitter.com/search?q=Robbie+Keane) | N/A |
-| 40 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 41 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 42 | [Kilbride](http://twitter.com/search?q=Kilbride) | N/A |
-| 43 | [Tusla](http://twitter.com/search?q=Tusla) | N/A |
-| 44 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 45 | [Eamon Ryan](http://twitter.com/search?q=Eamon+Ryan) | N/A |
-| 46 | [Philo](http://twitter.com/search?q=Philo) | N/A |
-| 47 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 48 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 38 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
+| 39 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 40 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
+| 41 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 43 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 44 | [Shane Long](http://twitter.com/search?q=Shane+Long) | N/A |
+| 45 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 46 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 47 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 48 | [Kilbride](http://twitter.com/search?q=Kilbride) | N/A |
 | 49 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 50 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
+| 50 | [Academy](http://twitter.com/search?q=Academy) | Academy is a term used to refer to a school or institution of higher learning. It typically refers to a private school, college, or university that offers specialized instruction in a particular field or area of study. The term can also be used more broadly to refer to any organization devoted to the advancement of knowledge or skill in a particular area. |
 
 
 

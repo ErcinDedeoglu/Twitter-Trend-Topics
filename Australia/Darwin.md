@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-03-31 18:19:45 UTC`
+📆 Last Updated: `2023-03-31 19:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,27 +18,27 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AFLPiesTigers](http://twitter.com/search?q=%23AFLPiesTigers) | N/A |
 | 2 | [#nrlraiderspanthers](http://twitter.com/search?q=%23nrlraiderspanthers) | N/A |
 | 3 | [#nrlsouthsstorm](http://twitter.com/search?q=%23nrlsouthsstorm) | N/A |
-| 4 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 6 | [#WSWvADL](http://twitter.com/search?q=%23WSWvADL) | N/A |
+| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 5 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 6 | [#wswvadl](http://twitter.com/search?q=%23wswvadl) | N/A |
 | 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 9 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
-| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 11 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 12 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 13 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
+| 9 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 10 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 12 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 14 | [Constable](http://twitter.com/search?q=Constable) | N/A |
 | 15 | [porter davis](http://twitter.com/search?q=porter+davis) | N/A |
 | 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 17 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
-| 18 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 19 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
-| 20 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 17 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 18 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
+| 19 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 20 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
 | 21 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 | 22 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
 | 23 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 24 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 24 | [jamarra](http://twitter.com/search?q=jamarra) | N/A |
 | 25 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
 | 26 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 27 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Australia](</Australia>)
 | 30 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
 | 31 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
 | 32 | [Salmon](http://twitter.com/search?q=Salmon) | N/A |
-| 33 | [laura tingle](http://twitter.com/search?q=laura+tingle) | N/A |
-| 34 | [McStay](http://twitter.com/search?q=McStay) | N/A |
+| 33 | [McStay](http://twitter.com/search?q=McStay) | N/A |
+| 34 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
 | 35 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
 | 36 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
 | 37 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
 | 38 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 39 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
+| 39 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
 | 40 | [darcy moore](http://twitter.com/search?q=darcy+moore) | N/A |
 | 41 | [Clive](http://twitter.com/search?q=Clive) | N/A |
 | 42 | [harry grant](http://twitter.com/search?q=harry+grant) | N/A |
 | 43 | [dimma](http://twitter.com/search?q=dimma) | N/A |
-| 44 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
+| 44 | [nick daicos](http://twitter.com/search?q=nick+daicos) | N/A |
 | 45 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
-| 46 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 47 | [hipwood](http://twitter.com/search?q=hipwood) | N/A |
-| 48 | [riewoldt](http://twitter.com/search?q=riewoldt) | N/A |
-| 49 | [weak gutted dog](http://twitter.com/search?q=weak+gutted+dog) | N/A |
-| 50 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 46 | [hipwood](http://twitter.com/search?q=hipwood) | N/A |
+| 47 | [riewoldt](http://twitter.com/search?q=riewoldt) | N/A |
+| 48 | [weak gutted dog](http://twitter.com/search?q=weak+gutted+dog) | N/A |
+| 49 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 50 | [liam baker](http://twitter.com/search?q=liam+baker) | N/A |
 
 
 

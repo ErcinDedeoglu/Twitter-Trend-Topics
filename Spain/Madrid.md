@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-31 18:19:42 UTC`
+📆 Last Updated: `2023-03-31 19:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [Zaragoza](http://twitter.com/search?q=Zaragoza) | N/A |
+| 2 | [Galicia](http://twitter.com/search?q=Galicia) | N/A |
 | 3 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
 | 4 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 5 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
-| 6 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
-| 7 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 8 | [#30Monedas](http://twitter.com/search?q=%2330Monedas) | N/A |
-| 9 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
-| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 11 | [#Pecado31Mar](http://twitter.com/search?q=%23Pecado31Mar) | N/A |
-| 12 | [#LucaOne31M](http://twitter.com/search?q=%23LucaOne31M) | N/A |
-| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 14 | [Alberto Bueno](http://twitter.com/search?q=Alberto+Bueno) | N/A |
-| 15 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 16 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 17 | [Pino Montano](http://twitter.com/search?q=Pino+Montano) | N/A |
+| 5 | [#Pasapalabra737](http://twitter.com/search?q=%23Pasapalabra737) | N/A |
+| 6 | [#30Monedas](http://twitter.com/search?q=%2330Monedas) | N/A |
+| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 8 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 9 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
+| 10 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 11 | [#ViernesDeDolores](http://twitter.com/search?q=%23ViernesDeDolores) | N/A |
+| 12 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 13 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Alberto Bueno](http://twitter.com/search?q=Alberto+Bueno) | N/A |
+| 16 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
+| 17 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
 | 18 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 19 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 20 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
-| 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 22 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 23 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 26 | [FOBIA](http://twitter.com/search?q=FOBIA) | N/A |
-| 27 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 28 | [Espai Barça](http://twitter.com/search?q=Espai+Bar%c3%a7a) | N/A |
-| 29 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
-| 30 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
-| 31 | [Barbón](http://twitter.com/search?q=Barb%c3%b3n) | N/A |
-| 32 | [Rafa Yuste](http://twitter.com/search?q=Rafa+Yuste) | N/A |
-| 33 | [Irene Paredes](http://twitter.com/search?q=Irene+Paredes) | N/A |
-| 34 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 36 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 37 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 38 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 39 | [#ViernesDeDolores](http://twitter.com/search?q=%23ViernesDeDolores) | N/A |
+| 19 | [Pino Montano](http://twitter.com/search?q=Pino+Montano) | N/A |
+| 20 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 21 | [Sergio Canales](http://twitter.com/search?q=Sergio+Canales) | N/A |
+| 22 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 23 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
+| 24 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 25 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 28 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
+| 29 | [Espai Barça](http://twitter.com/search?q=Espai+Bar%c3%a7a) | N/A |
+| 30 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
+| 31 | [Rafa Yuste](http://twitter.com/search?q=Rafa+Yuste) | N/A |
+| 32 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 33 | [Barbón](http://twitter.com/search?q=Barb%c3%b3n) | N/A |
+| 34 | [Irene Paredes](http://twitter.com/search?q=Irene+Paredes) | N/A |
+| 35 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 36 | [#LucaOne31M](http://twitter.com/search?q=%23LucaOne31M) | N/A |
+| 37 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
+| 38 | [#Pecado31Mar](http://twitter.com/search?q=%23Pecado31Mar) | N/A |
+| 39 | [#RCDMallorcaOsasuna](http://twitter.com/search?q=%23RCDMallorcaOsasuna) | N/A |
 | 40 | [#DiaDeLaVisibilidadTrans](http://twitter.com/search?q=%23DiaDeLaVisibilidadTrans) | N/A |
-| 41 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 42 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 43 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 41 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 42 | [#LevanteRealZaragoza](http://twitter.com/search?q=%23LevanteRealZaragoza) | N/A |
+| 43 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
 | 44 | [#CopaDeLaReinaLFEndesa](http://twitter.com/search?q=%23CopaDeLaReinaLFEndesa) | N/A |
-| 45 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 46 | [#YoMeRebelo31M](http://twitter.com/search?q=%23YoMeRebelo31M) | N/A |
+| 45 | [#APOYOROCIO31M](http://twitter.com/search?q=%23APOYOROCIO31M) | N/A |
+| 46 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
 | 47 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 48 | [#MinecraftEnGAME](http://twitter.com/search?q=%23MinecraftEnGAME) | N/A |
-| 49 | [#APOYOROCIO31M](http://twitter.com/search?q=%23APOYOROCIO31M) | N/A |
+| 49 | [#YoMeRebelo31M](http://twitter.com/search?q=%23YoMeRebelo31M) | N/A |
 | 50 | [#41ComicBCN](http://twitter.com/search?q=%2341ComicBCN) | N/A |
 
 

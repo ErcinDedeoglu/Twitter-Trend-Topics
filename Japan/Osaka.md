@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-31 18:20:10 UTC`
+📆 Last Updated: `2023-03-31 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#アニクラヤングライオン](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%82%af%e3%83%a9%e3%83%a4%e3%83%b3%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3) | N/A |
-| 2 | [童貞卒業](http://twitter.com/search?q=%e7%ab%a5%e8%b2%9e%e5%8d%92%e6%a5%ad) | N/A |
-| 3 | [ナイトスクープ](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%82%b9%e3%82%af%e3%83%bc%e3%83%97) | N/A |
-| 4 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 2 | [かぐや様](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98) | N/A |
+| 3 | [童貞卒業](http://twitter.com/search?q=%e7%ab%a5%e8%b2%9e%e5%8d%92%e6%a5%ad) | N/A |
+| 4 | [プーと大人](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%81%a8%e5%a4%a7%e4%ba%ba) | N/A |
 | 5 | [グラブル](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab) | グラブル (Granblue Fantasy) is a popular Japanese role-playing game developed by Cygames. It was released in 2014 and has since become one of the most popular mobile games in Japan. The game features a fantasy world with characters, monsters, and events that players can explore. Players can also battle each other in real-time battles. The name "Granblue" comes from the combination of the words "grand" and "blue," which symbolize the vastness of the sky and sea. |
-| 6 | [#阪神タイガース](http://twitter.com/search?q=%23%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9) | N/A |
-| 7 | [#Liella](http://twitter.com/search?q=%23Liella) | N/A |
-| 8 | [開幕戦勝利](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 9 | [新聖遺物](http://twitter.com/search?q=%e6%96%b0%e8%81%96%e9%81%ba%e7%89%a9) | N/A |
-| 10 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 11 | [藤原基央](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e5%9f%ba%e5%a4%ae) | N/A |
-| 12 | [ピカミィ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%9f%e3%82%a3) | N/A |
-| 13 | [フルボイス](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%83%9c%e3%82%a4%e3%82%b9) | N/A |
-| 14 | [運動不足](http://twitter.com/search?q=%e9%81%8b%e5%8b%95%e4%b8%8d%e8%b6%b3) | N/A |
-| 15 | [ミニゲーム](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 16 | [ブーイング](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
-| 17 | [フロイド](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%82%a4%e3%83%89) | フロイド is a Japanese surname. In English, it is pronounced "Fluh-oyd". |
-| 18 | [ジェイド](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%83%89) | ジェイド is a Japanese word that means "jade". It is used to refer to the green gemstone, which is known for its beauty and rarity. |
-| 19 | [白朮先生](http://twitter.com/search?q=%e7%99%bd%e6%9c%ae%e5%85%88%e7%94%9f) | N/A |
-| 20 | [リンバス](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%90%e3%82%b9) | N/A |
-| 21 | [青二才ども](http://twitter.com/search?q=%e9%9d%92%e4%ba%8c%e6%89%8d%e3%81%a9%e3%82%82) | N/A |
-| 22 | [クリストファーロビン](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%83%88%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ad%e3%83%93%e3%83%b3) | N/A |
-| 23 | [#ミライアカリ生放送](http://twitter.com/search?q=%23%e3%83%9f%e3%83%a9%e3%82%a4%e3%82%a2%e3%82%ab%e3%83%aa%e7%94%9f%e6%94%be%e9%80%81) | N/A |
-| 24 | [ファルザン配布](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%b6%e3%83%b3%e9%85%8d%e5%b8%83) | N/A |
-| 25 | [アカリちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [ヒーローインタビュー](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 27 | [仮面ライダーのベルト](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%81%ae%e3%83%99%e3%83%ab%e3%83%88) | N/A |
-| 28 | [スメール](http://twitter.com/search?q=%e3%82%b9%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
-| 29 | [Zepp](http://twitter.com/search?q=Zepp) | N/A |
-| 30 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 31 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 32 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
-| 33 | [刀子ちゃん](http://twitter.com/search?q=%e5%88%80%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [プリンセスさま](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%81%95%e3%81%be) | N/A |
-| 35 | [魔法少女おじさん](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e5%b0%91%e5%a5%b3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
-| 36 | [奥村くん](http://twitter.com/search?q=%e5%a5%a5%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 37 | [マジホイ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9b%e3%82%a4) | N/A |
-| 38 | [あんさんぶるトレーニング](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%81%95%e3%82%93%e3%81%b6%e3%82%8b%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
-| 39 | [キティちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%86%e3%82%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [ピスサイ](http://twitter.com/search?q=%e3%83%94%e3%82%b9%e3%82%b5%e3%82%a4) | N/A |
-| 41 | [プーさん](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%81%95%e3%82%93) | プーさん is the Japanese name for Winnie the Pooh, a popular character from A.A. Milne's books and Disney's animated films. In English, it translates to "Pooh". |
-| 42 | [くそみそテクニック](http://twitter.com/search?q=%e3%81%8f%e3%81%9d%e3%81%bf%e3%81%9d%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 43 | [ぷりるふーる](http://twitter.com/search?q=%e3%81%b7%e3%82%8a%e3%82%8b%e3%81%b5%e3%83%bc%e3%82%8b) | N/A |
-| 44 | [エリンギプール](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%b3%e3%82%ae%e3%83%97%e3%83%bc%e3%83%ab) | N/A |
-| 45 | [バクプリ](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%97%e3%83%aa) | N/A |
-| 46 | [ボーボボ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%9c%e3%83%9c) | N/A |
-| 47 | [DLsi都](http://twitter.com/search?q=DLsi%e9%83%bd) | N/A |
-| 48 | [DLsiteの還付金](http://twitter.com/search?q=DLsite%e3%81%ae%e9%82%84%e4%bb%98%e9%87%91) | N/A |
-| 49 | [アイコンと名前](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%81%a8%e5%90%8d%e5%89%8d) | N/A |
+| 6 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 7 | [新聖遺物](http://twitter.com/search?q=%e6%96%b0%e8%81%96%e9%81%ba%e7%89%a9) | N/A |
+| 8 | [運動不足](http://twitter.com/search?q=%e9%81%8b%e5%8b%95%e4%b8%8d%e8%b6%b3) | N/A |
+| 9 | [ミニゲーム](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 10 | [ブーイング](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
+| 11 | [白朮先生](http://twitter.com/search?q=%e7%99%bd%e6%9c%ae%e5%85%88%e7%94%9f) | N/A |
+| 12 | [青二才ども](http://twitter.com/search?q=%e9%9d%92%e4%ba%8c%e6%89%8d%e3%81%a9%e3%82%82) | N/A |
+| 13 | [#ミライアカリ生放送](http://twitter.com/search?q=%23%e3%83%9f%e3%83%a9%e3%82%a4%e3%82%a2%e3%82%ab%e3%83%aa%e7%94%9f%e6%94%be%e9%80%81) | N/A |
+| 14 | [#ブルプロ](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%83%97%e3%83%ad) | N/A |
+| 15 | [#タリーズ炭酸コーヒーに期待すること](http://twitter.com/search?q=%23%e3%82%bf%e3%83%aa%e3%83%bc%e3%82%ba%e7%82%ad%e9%85%b8%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ab%e6%9c%9f%e5%be%85%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8) | N/A |
+| 16 | [上田くん](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e3%81%8f%e3%82%93) | 上田くん is a Japanese nickname for someone whose family name is Ueda. It is a combination of the family name Ueda and the honorific suffix -kun, which is used to refer to young men in a friendly or familiar way. In English, it would be translated as "Mr. Ueda". |
+| 17 | [ファルザン配布](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%b6%e3%83%b3%e9%85%8d%e5%b8%83) | N/A |
+| 18 | [アカリちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 19 | [仮面ライダーのベルト](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%81%ae%e3%83%99%e3%83%ab%e3%83%88) | N/A |
+| 20 | [スメール](http://twitter.com/search?q=%e3%82%b9%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
+| 21 | [Zepp](http://twitter.com/search?q=Zepp) | N/A |
+| 22 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
+| 23 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 24 | [#新しいプロフィール画像](http://twitter.com/search?q=%23%e6%96%b0%e3%81%97%e3%81%84%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e7%94%bb%e5%83%8f) | N/A |
+| 25 | [刀子ちゃん](http://twitter.com/search?q=%e5%88%80%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 26 | [プリンセスさま](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%81%95%e3%81%be) | N/A |
+| 27 | [魔法少女おじさん](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e5%b0%91%e5%a5%b3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
+| 28 | [奥村くん](http://twitter.com/search?q=%e5%a5%a5%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 29 | [DLsi都](http://twitter.com/search?q=DLsi%e9%83%bd) | N/A |
+| 30 | [DLsiteの還付金](http://twitter.com/search?q=DLsite%e3%81%ae%e9%82%84%e4%bb%98%e9%87%91) | N/A |
+| 31 | [都民情報](http://twitter.com/search?q=%e9%83%bd%e6%b0%91%e6%83%85%e5%a0%b1) | N/A |
+| 32 | [くそみそテクニック](http://twitter.com/search?q=%e3%81%8f%e3%81%9d%e3%81%bf%e3%81%9d%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 33 | [マジホイ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9b%e3%82%a4) | N/A |
+| 34 | [キティちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%86%e3%82%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 35 | [あんさんぶるトレーニング](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%81%95%e3%82%93%e3%81%b6%e3%82%8b%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 36 | [ぷりるふーる](http://twitter.com/search?q=%e3%81%b7%e3%82%8a%e3%82%8b%e3%81%b5%e3%83%bc%e3%82%8b) | N/A |
+| 37 | [ピスサイ](http://twitter.com/search?q=%e3%83%94%e3%82%b9%e3%82%b5%e3%82%a4) | N/A |
+| 38 | [バクプリ](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%97%e3%83%aa) | N/A |
+| 39 | [エリンギプール](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%b3%e3%82%ae%e3%83%97%e3%83%bc%e3%83%ab) | N/A |
+| 40 | [アイコンと名前](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%81%a8%e5%90%8d%e5%89%8d) | N/A |
+| 41 | [ボーボボ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%9c%e3%83%9c) | N/A |
+| 42 | [神宮寺レン](http://twitter.com/search?q=%e7%a5%9e%e5%ae%ae%e5%af%ba%e3%83%ac%e3%83%b3) | N/A |
+| 43 | [プーさん](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%81%95%e3%82%93) | プーさん is the Japanese name for Winnie the Pooh, a popular character from A.A. Milne's books and Disney's animated films. In English, it translates to "Pooh". |
+| 44 | [オニフェッショナル](http://twitter.com/search?q=%e3%82%aa%e3%83%8b%e3%83%95%e3%82%a7%e3%83%83%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab) | N/A |
+| 45 | [シフティー](http://twitter.com/search?q=%e3%82%b7%e3%83%95%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 46 | [カーヴェ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%b4%e3%82%a7) | カーヴェ is a Japanese word that means “curve” or “curved”. It is often used to describe something that has a curved shape or design. |
+| 47 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
+| 48 | [Shining Channel](http://twitter.com/search?q=Shining+Channel) | N/A |
+| 49 | [the k4sen](http://twitter.com/search?q=the+k4sen) | N/A |
 
 
 
