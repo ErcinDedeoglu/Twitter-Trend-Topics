@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-31 21:17:08 UTC`
+📆 Last Updated: `2023-03-31 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
-| 2 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 1 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
+| 2 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 3 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
 | 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 6 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 5 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 6 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 17 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 18 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 19 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 20 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 22 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 23 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 24 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 25 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 26 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 27 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 28 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 29 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 30 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 31 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 32 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 33 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 34 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 35 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 36 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 37 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 38 | [Ottumwa](http://twitter.com/search?q=Ottumwa) | N/A |
-| 39 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 41 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 42 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 43 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 44 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 45 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 46 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
-| 47 | [Central Arkansas](http://twitter.com/search?q=Central+Arkansas) | N/A |
-| 48 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 49 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 10 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 11 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 15 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 16 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 20 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 22 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 23 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 24 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 25 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 26 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 27 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 28 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 29 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 30 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 31 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 32 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 33 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 34 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 35 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 36 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 38 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 39 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 40 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 41 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 42 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 43 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 44 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 45 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 47 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
+| 48 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 49 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
 
 
 

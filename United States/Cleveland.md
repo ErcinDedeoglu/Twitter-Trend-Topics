@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-31 21:17:02 UTC`
+📆 Last Updated: `2023-03-31 22:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 2 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 4 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 5 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
 | 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
 | 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 9 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 10 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 17 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 18 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 19 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 20 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 22 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 23 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 24 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 25 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 26 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 27 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 28 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 29 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 30 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 31 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 32 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 33 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 34 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 35 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 36 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 37 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 38 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 39 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 40 | [Ottumwa](http://twitter.com/search?q=Ottumwa) | N/A |
-| 41 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 42 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 43 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 44 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 45 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 46 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 47 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 48 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
-| 49 | [Central Arkansas](http://twitter.com/search?q=Central+Arkansas) | N/A |
-| 50 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 10 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 13 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 15 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 16 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 18 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 20 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 21 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 24 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 25 | [Keota](http://twitter.com/search?q=Keota) | N/A |
+| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 27 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 28 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 29 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
+| 30 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 31 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 32 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 33 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 34 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 35 | [WENDYS](http://twitter.com/search?q=WENDYS) | N/A |
+| 36 | [Scala](http://twitter.com/search?q=Scala) | N/A |
+| 37 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 38 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 39 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 40 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 41 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 42 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
+| 43 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 44 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 45 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
+| 46 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 47 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 48 | [Aleah](http://twitter.com/search?q=Aleah) | N/A |
+| 49 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 50 | [Parody](http://twitter.com/search?q=Parody) | N/A |
 
 
 

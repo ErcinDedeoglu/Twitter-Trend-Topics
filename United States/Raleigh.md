@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-31 21:17:06 UTC`
+📆 Last Updated: `2023-03-31 22:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 2 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 3 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 1 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 6 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 11 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 9 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 10 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 11 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
 | 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 14 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 16 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 17 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 20 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 22 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 23 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 24 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 25 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 26 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 27 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 28 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 29 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 30 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 31 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 32 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 33 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 34 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 35 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 36 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 37 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 38 | [Ottumwa](http://twitter.com/search?q=Ottumwa) | N/A |
-| 39 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 41 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 42 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 43 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 44 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 45 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 46 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
-| 47 | [Central Arkansas](http://twitter.com/search?q=Central+Arkansas) | N/A |
-| 48 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 13 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 14 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 15 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 16 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 20 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 21 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 22 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 23 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 24 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 25 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 26 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 27 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 28 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 29 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 30 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 31 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 32 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 33 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 34 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 35 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 36 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 37 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 38 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 39 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 40 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 41 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 42 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
+| 43 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 44 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
+| 45 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
+| 46 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 47 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
+| 48 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 
 
 

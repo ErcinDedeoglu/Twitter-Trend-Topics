@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-31 21:17:07 UTC`
+📆 Last Updated: `2023-03-31 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 2 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 3 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
-| 6 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 7 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 8 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
-| 9 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 10 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 11 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 1 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
+| 2 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 3 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 4 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 5 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 6 | [#WaleMania](http://twitter.com/search?q=%23WaleMania) | N/A |
+| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 10 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 11 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 15 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 16 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
 | 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 21 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 25 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 26 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 27 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 28 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 29 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 30 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 31 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 32 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 33 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 34 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 35 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 36 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 37 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 38 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 39 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 40 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 41 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 42 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 43 | [Ottumwa](http://twitter.com/search?q=Ottumwa) | N/A |
-| 44 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 46 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 47 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 48 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 49 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 20 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 22 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 23 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 24 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 25 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 26 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 27 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 28 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 29 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 30 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 31 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 32 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 33 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 34 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 35 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 36 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 38 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 39 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 40 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 41 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 42 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 43 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 44 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 45 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 47 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
+| 48 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 49 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
 
 
 

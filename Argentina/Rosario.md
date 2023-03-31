@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-31 21:16:34 UTC`
+📆 Last Updated: `2023-03-31 22:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,44 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [#HablaJeyEnC5N](http://twitter.com/search?q=%23HablaJeyEnC5N) | N/A |
 | 2 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
-| 3 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
-| 4 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 5 | [#LaPeorOposicionDeLaHistoria](http://twitter.com/search?q=%23LaPeorOposicionDeLaHistoria) | N/A |
-| 6 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
-| 7 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 8 | [CONE Y COTY EN TWITCH](http://twitter.com/search?q=CONE+Y+COTY+EN+TWITCH) | N/A |
-| 9 | [#YoSiTeCreo](http://twitter.com/search?q=%23YoSiTeCreo) | N/A |
-| 10 | [Casa Rosada](http://twitter.com/search?q=Casa+Rosada) | N/A |
-| 11 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
-| 12 | [#CHORIGABES](http://twitter.com/search?q=%23CHORIGABES) | N/A |
-| 13 | [USD 20.000](http://twitter.com/search?q=USD+20.000) | N/A |
-| 14 | [Migliore](http://twitter.com/search?q=Migliore) | N/A |
-| 15 | [Alfonsín](http://twitter.com/search?q=Alfons%c3%adn) | N/A |
+| 3 | [CONE Y COTY EN TWITCH](http://twitter.com/search?q=CONE+Y+COTY+EN+TWITCH) | N/A |
+| 4 | [#LaPeorOposicionDeLaHistoria](http://twitter.com/search?q=%23LaPeorOposicionDeLaHistoria) | N/A |
+| 5 | [Casa Rosada](http://twitter.com/search?q=Casa+Rosada) | N/A |
+| 6 | [#AlmacenArriba](http://twitter.com/search?q=%23AlmacenArriba) | N/A |
+| 7 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 8 | [USD 20.000](http://twitter.com/search?q=USD+20.000) | N/A |
+| 9 | [Migliore](http://twitter.com/search?q=Migliore) | N/A |
+| 10 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 11 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 13 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
+| 14 | [Justicia de EEUU](http://twitter.com/search?q=Justicia+de+EEUU) | N/A |
+| 15 | [Expropiación de YPF](http://twitter.com/search?q=Expropiaci%c3%b3n+de+YPF) | N/A |
 | 16 | [Juan Carr](http://twitter.com/search?q=Juan+Carr) | N/A |
-| 17 | [Eskenazi](http://twitter.com/search?q=Eskenazi) | N/A |
-| 18 | [Brancatelli](http://twitter.com/search?q=Brancatelli) | N/A |
-| 19 | [Arevalo](http://twitter.com/search?q=Arevalo) | N/A |
-| 20 | [Justicia de EEUU](http://twitter.com/search?q=Justicia+de+EEUU) | N/A |
-| 21 | [Expropiación de YPF](http://twitter.com/search?q=Expropiaci%c3%b3n+de+YPF) | N/A |
-| 22 | [Vaca Muerta](http://twitter.com/search?q=Vaca+Muerta) | N/A |
-| 23 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 24 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 25 | [Gabriel Palumbo](http://twitter.com/search?q=Gabriel+Palumbo) | N/A |
-| 26 | [La Plata](http://twitter.com/search?q=La+Plata) | N/A |
-| 27 | [Murió](http://twitter.com/search?q=Muri%c3%b3) | N/A |
-| 28 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 29 | [Guerra de Malvinas](http://twitter.com/search?q=Guerra+de+Malvinas) | N/A |
-| 30 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 31 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
-| 32 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 33 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
-| 34 | [Concordia](http://twitter.com/search?q=Concordia) | N/A |
-| 35 | [En CABA](http://twitter.com/search?q=En+CABA) | N/A |
-| 36 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
-| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 38 | [De la Rua](http://twitter.com/search?q=De+la+Rua) | N/A |
-| 39 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
-| 40 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 41 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
-| 42 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 43 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
-| 44 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 45 | [#JusticiaPorBlas](http://twitter.com/search?q=%23JusticiaPorBlas) | N/A |
-| 46 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 17 | [Raúl Alfonsín](http://twitter.com/search?q=Ra%c3%bal+Alfons%c3%adn) | N/A |
+| 18 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 19 | [Gabriel Palumbo](http://twitter.com/search?q=Gabriel+Palumbo) | N/A |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 22 | [La Plata](http://twitter.com/search?q=La+Plata) | N/A |
+| 23 | [Murió](http://twitter.com/search?q=Muri%c3%b3) | N/A |
+| 24 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
+| 25 | [Vaca Muerta](http://twitter.com/search?q=Vaca+Muerta) | N/A |
+| 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 27 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 28 | [The Last Dance](http://twitter.com/search?q=The+Last+Dance) | N/A |
+| 29 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 30 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
+| 31 | [Concordia](http://twitter.com/search?q=Concordia) | N/A |
+| 32 | [El Papa](http://twitter.com/search?q=El+Papa) | N/A |
+| 33 | [Bergoglio](http://twitter.com/search?q=Bergoglio) | N/A |
+| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 35 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
+| 36 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 37 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
+| 38 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 39 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 40 | [#JusticiaPorBlas](http://twitter.com/search?q=%23JusticiaPorBlas) | N/A |
 
 
 

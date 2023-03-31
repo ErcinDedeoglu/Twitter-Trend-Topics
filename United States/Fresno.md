@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-31 21:17:03 UTC`
+📆 Last Updated: `2023-03-31 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 2 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 3 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 1 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 4 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
 | 5 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
-| 6 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 7 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 8 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
-| 9 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 10 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 11 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 21 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 25 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 26 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 27 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 28 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 29 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 30 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 31 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 32 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 33 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 34 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 35 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 36 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 37 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 38 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 39 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 40 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 41 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 42 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 43 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 44 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 46 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 47 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 48 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 49 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 6 | [#WrestleMania39](http://twitter.com/search?q=%23WrestleMania39) | N/A |
+| 7 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 8 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 9 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 10 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 11 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
+| 12 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 13 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 17 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 18 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 19 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 22 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 24 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 25 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 27 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 28 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 29 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 30 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 31 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 32 | [Keota](http://twitter.com/search?q=Keota) | N/A |
+| 33 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 34 | [WENDYS](http://twitter.com/search?q=WENDYS) | N/A |
+| 35 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 36 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
+| 37 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 38 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 39 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 40 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 41 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 42 | [Scala](http://twitter.com/search?q=Scala) | N/A |
+| 43 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 45 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 46 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 47 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 48 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 49 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
 
 
 

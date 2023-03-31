@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-31 21:16:49 UTC`
+📆 Last Updated: `2023-03-31 22:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,39 +29,39 @@ This is top 50 for [Philippines](</Philippines>)
 | 12 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
 | 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 14 | [the vibrent promise](http://twitter.com/search?q=the+vibrent+promise) | N/A |
-| 15 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
-| 16 | [pienale](http://twitter.com/search?q=pienale) | N/A |
-| 17 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 18 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 19 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
-| 20 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 21 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 22 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 23 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
-| 24 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
-| 25 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 26 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 27 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 28 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
-| 29 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 30 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
-| 31 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
-| 32 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
-| 33 | [aldenattends 2023umajamfest](http://twitter.com/search?q=aldenattends+2023umajamfest) | N/A |
-| 34 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
-| 35 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 36 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
-| 37 | [svt coming back in april](http://twitter.com/search?q=svt+coming+back+in+april) | N/A |
-| 38 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 39 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 40 | [kyler dazzling visual](http://twitter.com/search?q=kyler+dazzling+visual) | N/A |
-| 41 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 42 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 43 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 44 | [Sandara Park](http://twitter.com/search?q=Sandara+Park) | N/A |
+| 15 | [pienale](http://twitter.com/search?q=pienale) | N/A |
+| 16 | [promise24ever withdonbelle](http://twitter.com/search?q=promise24ever+withdonbelle) | N/A |
+| 17 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 18 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
+| 19 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 20 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 21 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
+| 22 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 23 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
+| 24 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 25 | [neobong in shopee](http://twitter.com/search?q=neobong+in+shopee) | N/A |
+| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 27 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
+| 28 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
+| 29 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 30 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 31 | [aldenattends 2023umajamfest](http://twitter.com/search?q=aldenattends+2023umajamfest) | N/A |
+| 32 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 33 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 34 | [svt coming back in april](http://twitter.com/search?q=svt+coming+back+in+april) | N/A |
+| 35 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 36 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 37 | [kyler dazzling visual](http://twitter.com/search?q=kyler+dazzling+visual) | N/A |
+| 38 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 39 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 40 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
+| 41 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 42 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 43 | [Sandara Park](http://twitter.com/search?q=Sandara+Park) | N/A |
+| 44 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
 | 45 | [Cebpass](http://twitter.com/search?q=Cebpass) | N/A |
-| 46 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 47 | [18 VS NOW](http://twitter.com/search?q=18+VS+NOW) | N/A |
+| 46 | [18 VS NOW](http://twitter.com/search?q=18+VS+NOW) | N/A |
+| 47 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
 | 48 | [Bretman](http://twitter.com/search?q=Bretman) | N/A |
 
 

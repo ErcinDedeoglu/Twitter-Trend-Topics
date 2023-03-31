@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-31 21:16:56 UTC`
+📆 Last Updated: `2023-03-31 22:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,24 +21,24 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 5 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
 | 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 7 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 8 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 9 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 7 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 8 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 9 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
 | 10 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
 | 11 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
 | 12 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
-| 13 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 14 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
-| 15 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
+| 14 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 15 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
+| 16 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 17 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
-| 18 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 19 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 20 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
-| 21 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 22 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
-| 23 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 24 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 20 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 21 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
+| 22 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 23 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 24 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
 | 25 | [Hazrat Muhammad](http://twitter.com/search?q=Hazrat+Muhammad) | N/A |
 | 26 | [Ruturaj Gaikwad](http://twitter.com/search?q=Ruturaj+Gaikwad) | N/A |
 | 27 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
@@ -47,24 +47,24 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 30 | [Salman Taseer](http://twitter.com/search?q=Salman+Taseer) | N/A |
 | 31 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
 | 32 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [Wowww](http://twitter.com/search?q=Wowww) | N/A |
+| 33 | [Wowww](http://twitter.com/search?q=Wowww) | N/A |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 35 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
 | 36 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 37 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 38 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 39 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 40 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 41 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 44 | [Mtlb](http://twitter.com/search?q=Mtlb) | N/A |
-| 45 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 46 | [Pakistan Cricket](http://twitter.com/search?q=Pakistan+Cricket) | N/A |
-| 47 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 48 | [Thnks](http://twitter.com/search?q=Thnks) | N/A |
-| 49 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 50 | [London](http://twitter.com/search?q=London) | N/A |
+| 37 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 38 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 39 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 40 | [Contact](http://twitter.com/search?q=Contact) | N/A |
+| 41 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 42 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 45 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 46 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 47 | [Pakistan Cricket](http://twitter.com/search?q=Pakistan+Cricket) | N/A |
+| 48 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 49 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 50 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 
 
 
