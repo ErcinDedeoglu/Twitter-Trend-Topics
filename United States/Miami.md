@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-31 13:20:26 UTC`
+📆 Last Updated: `2023-03-31 14:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [United States](</United States>)
 | 2 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 5 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 7 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 8 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 7 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 8 | [Transgender Day of Visibility](http://twitter.com/search?q=Transgender+Day+of+Visibility) | N/A |
+| 9 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 | 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 11 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 12 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 13 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 14 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 15 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 16 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 17 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 18 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 19 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 20 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 21 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 22 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 23 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 24 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 25 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 26 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
-| 27 | [Where's Hunter](http://twitter.com/search?q=Where%27s+Hunter) | N/A |
-| 28 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 29 | [Comey](http://twitter.com/search?q=Comey) | N/A |
-| 30 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 31 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 32 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 33 | [The Great Escape](http://twitter.com/search?q=The+Great+Escape) | N/A |
-| 34 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 35 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
-| 36 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 37 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
-| 38 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 39 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 40 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 41 | [HDMI](http://twitter.com/search?q=HDMI) | N/A |
-| 42 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 43 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
-| 44 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 11 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 13 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 15 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 16 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 17 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 18 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 19 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 20 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
+| 21 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 22 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 24 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 26 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 27 | [Long Live Nip](http://twitter.com/search?q=Long+Live+Nip) | N/A |
+| 28 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 29 | [The Marathon Continues](http://twitter.com/search?q=The+Marathon+Continues) | N/A |
+| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 31 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 32 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
+| 33 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
+| 34 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 36 | [Where's Hunter](http://twitter.com/search?q=Where%27s+Hunter) | N/A |
+| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 38 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 39 | [I Vote](http://twitter.com/search?q=I+Vote) | N/A |
+| 40 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 41 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
+| 42 | [HDMI](http://twitter.com/search?q=HDMI) | N/A |
+| 43 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 44 | [Comey](http://twitter.com/search?q=Comey) | N/A |
 | 45 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 46 | [Koch](http://twitter.com/search?q=Koch) | N/A |
-| 47 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 46 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 47 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
 
 
 

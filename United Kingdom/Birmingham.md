@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-31 13:19:39 UTC`
+📆 Last Updated: `2023-03-31 14:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 2 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 3 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 4 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 6 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 9 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 10 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 11 | [RIP Jason](http://twitter.com/search?q=RIP+Jason) | N/A |
-| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 13 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
-| 16 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 17 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
-| 18 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
-| 19 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 20 | [Jack Ross](http://twitter.com/search?q=Jack+Ross) | N/A |
-| 21 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
-| 22 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
-| 23 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 24 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
-| 25 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
-| 26 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 27 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 28 | [4% GDP](http://twitter.com/search?q=4%25+GDP) | N/A |
-| 29 | [4% of GDP](http://twitter.com/search?q=4%25+of+GDP) | N/A |
-| 30 | [RIP Rocky](http://twitter.com/search?q=RIP+Rocky) | N/A |
-| 31 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 32 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
-| 33 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 34 | [0.08% to GDP](http://twitter.com/search?q=0.08%25+to+GDP) | N/A |
-| 35 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 37 | [Hugh](http://twitter.com/search?q=Hugh) | N/A |
-| 38 | [Driver](http://twitter.com/search?q=Driver) | N/A |
-| 39 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 40 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 41 | [Kathy Burke](http://twitter.com/search?q=Kathy+Burke) | N/A |
-| 42 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
-| 43 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 44 | [Ricky Gervais](http://twitter.com/search?q=Ricky+Gervais) | N/A |
-| 45 | [Sovereignty](http://twitter.com/search?q=Sovereignty) | N/A |
-| 46 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 47 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 48 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 49 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 50 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 2 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 3 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 4 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 5 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 6 | [Hugh](http://twitter.com/search?q=Hugh) | N/A |
+| 7 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 8 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 9 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 10 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [#CashAppFriday](http://twitter.com/search?q=%23CashAppFriday) | N/A |
+| 15 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 16 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 17 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
+| 18 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 20 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
+| 21 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
+| 22 | [Kemi](http://twitter.com/search?q=Kemi) | N/A |
+| 23 | [RIP Jason](http://twitter.com/search?q=RIP+Jason) | N/A |
+| 24 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
+| 25 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
+| 26 | [Jack Ross](http://twitter.com/search?q=Jack+Ross) | N/A |
+| 27 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
+| 28 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
+| 29 | [Driver](http://twitter.com/search?q=Driver) | N/A |
+| 30 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 31 | [Naby Keita](http://twitter.com/search?q=Naby+Keita) | N/A |
+| 32 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 33 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 34 | [4% of GDP](http://twitter.com/search?q=4%25+of+GDP) | N/A |
+| 35 | [RIP Rocky](http://twitter.com/search?q=RIP+Rocky) | N/A |
+| 36 | [4% GDP](http://twitter.com/search?q=4%25+GDP) | N/A |
+| 37 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 38 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 39 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
+| 40 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 42 | [Kathy Burke](http://twitter.com/search?q=Kathy+Burke) | N/A |
+| 43 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 44 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 45 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 46 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
+| 47 | [Ricky Gervais](http://twitter.com/search?q=Ricky+Gervais) | N/A |
+| 48 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 49 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 50 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
 
 
 

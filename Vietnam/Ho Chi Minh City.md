@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-31 13:20:09 UTC`
+📆 Last Updated: `2023-03-31 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,29 +21,29 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [#HaierXBaristabb0un](http://twitter.com/search?q=%23HaierXBaristabb0un) | N/A |
 | 5 | [#BuildYourStyle](http://twitter.com/search?q=%23BuildYourStyle) | N/A |
 | 6 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
-| 7 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 8 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
-| 9 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 7 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
+| 8 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 9 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
 | 10 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
 | 11 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
 | 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
 | 13 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
 | 14 | [Bi DID](http://twitter.com/search?q=Bi+DID) | N/A |
-| 15 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 16 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
-| 17 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 18 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 19 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 20 | [Dapp](http://twitter.com/search?q=Dapp) | N/A |
+| 15 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
+| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 17 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 19 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 | 21 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 22 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 23 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 24 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 25 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 22 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 23 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 24 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 25 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 26 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 27 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 28 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
-| 29 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 27 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 28 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 29 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
 | 30 | [saigon](http://twitter.com/search?q=saigon) | N/A |
 | 31 | [fff asean party](http://twitter.com/search?q=fff+asean+party) | N/A |
 | 32 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [giao](http://twitter.com/search?q=giao) | N/A |
 | 39 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 40 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 41 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
-| 42 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 43 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 44 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 45 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 46 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
-| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 49 | [European](http://twitter.com/search?q=European) | N/A |
-| 50 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
+| 41 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 42 | [nhận](http://twitter.com/search?q=nh%e1%ba%adn) | N/A |
+| 43 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 44 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 45 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 46 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 47 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 50 | [European](http://twitter.com/search?q=European) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-31 13:20:09 UTC`
+📆 Last Updated: `2023-03-31 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,15 +28,15 @@ This is top 50 for [Ghana](</Ghana>)
 | 11 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
 | 12 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
 | 13 | [Bank of Ghana](http://twitter.com/search?q=Bank+of+Ghana) | N/A |
-| 14 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
-| 15 | [Na Money](http://twitter.com/search?q=Na+Money) | N/A |
-| 16 | [Dumsor](http://twitter.com/search?q=Dumsor) | N/A |
-| 17 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 18 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
-| 19 | [emma hayes](http://twitter.com/search?q=emma+hayes) | N/A |
-| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 21 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 22 | [Ashanti Airlines](http://twitter.com/search?q=Ashanti+Airlines) | N/A |
+| 14 | [Na Money](http://twitter.com/search?q=Na+Money) | N/A |
+| 15 | [Dumsor](http://twitter.com/search?q=Dumsor) | N/A |
+| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 17 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
+| 18 | [Ashanti Airlines](http://twitter.com/search?q=Ashanti+Airlines) | N/A |
+| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 20 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
+| 21 | [emma hayes](http://twitter.com/search?q=emma+hayes) | N/A |
+| 22 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
 | 23 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
 | 24 | [E PAIN ME](http://twitter.com/search?q=E+PAIN+ME) | N/A |
 | 25 | [grief child](http://twitter.com/search?q=grief+child) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for [Ghana](</Ghana>)
 | 27 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
 | 28 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 29 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
-| 30 | [Fave](http://twitter.com/search?q=Fave) | N/A |
-| 31 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 32 | [Chelsea Women](http://twitter.com/search?q=Chelsea+Women) | N/A |
-| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 30 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
+| 31 | [Chelsea Women](http://twitter.com/search?q=Chelsea+Women) | N/A |
+| 32 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 33 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
 | 34 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 36 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 37 | [Legon Cities](http://twitter.com/search?q=Legon+Cities) | N/A |
-| 38 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 35 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 37 | [Fave](http://twitter.com/search?q=Fave) | N/A |
+| 38 | [Legon Cities](http://twitter.com/search?q=Legon+Cities) | N/A |
 | 39 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 40 | [ghana gas](http://twitter.com/search?q=ghana+gas) | N/A |
-| 41 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 42 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 43 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
-| 44 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 45 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 46 | [Popcaan](http://twitter.com/search?q=Popcaan) | N/A |
-| 47 | [el wak](http://twitter.com/search?q=el+wak) | N/A |
-| 48 | [Accra Mall](http://twitter.com/search?q=Accra+Mall) | N/A |
-| 49 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 50 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 40 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 41 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 42 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
+| 43 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 44 | [el wak](http://twitter.com/search?q=el+wak) | N/A |
+| 45 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 46 | [Accra Mall](http://twitter.com/search?q=Accra+Mall) | N/A |
+| 47 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 48 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 49 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 50 | [road to liqlevel28](http://twitter.com/search?q=road+to+liqlevel28) | N/A |
 
 
 

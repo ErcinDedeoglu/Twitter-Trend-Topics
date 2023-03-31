@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-31 13:20:07 UTC`
+📆 Last Updated: `2023-03-31 14:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 2 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
 | 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
 | 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 5 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
+| 5 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
 | 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 7 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
-| 8 | [#pvlfinalsgame3](http://twitter.com/search?q=%23pvlfinalsgame3) | N/A |
-| 9 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
-| 10 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
-| 11 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
-| 12 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
-| 13 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 14 | [bgyo ot5 date](http://twitter.com/search?q=bgyo+ot5+date) | N/A |
-| 15 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 7 | [#pvlfinalsgame3](http://twitter.com/search?q=%23pvlfinalsgame3) | N/A |
+| 8 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
+| 9 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
+| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 11 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 12 | [bgyo ot5 date](http://twitter.com/search?q=bgyo+ot5+date) | N/A |
+| 13 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 14 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
+| 15 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
 | 16 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 17 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
-| 18 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
-| 19 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
-| 20 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 21 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 22 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 23 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 24 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
-| 25 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 26 | [TEENCLASeHam SHIPS ZICE](http://twitter.com/search?q=TEENCLASeHam+SHIPS+ZICE) | N/A |
+| 17 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 18 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 19 | [ChiCo TANGLED](http://twitter.com/search?q=ChiCo+TANGLED) | N/A |
+| 20 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
+| 21 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
+| 22 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 23 | [Scara](http://twitter.com/search?q=Scara) | N/A |
+| 24 | [BINI AIAH LAGING IKAW](http://twitter.com/search?q=BINI+AIAH+LAGING+IKAW) | N/A |
+| 25 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
+| 26 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
 | 27 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 28 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 29 | [BINI AIAH LAGING IKAW](http://twitter.com/search?q=BINI+AIAH+LAGING+IKAW) | N/A |
-| 30 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
-| 31 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 32 | [JOSHMANDY TC EPISODE3](http://twitter.com/search?q=JOSHMANDY+TC+EPISODE3) | N/A |
-| 33 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 34 | [Scara](http://twitter.com/search?q=Scara) | N/A |
-| 35 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
-| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 37 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
-| 38 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
-| 39 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
-| 40 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 41 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 42 | [ZICE FOR REELorREAL](http://twitter.com/search?q=ZICE+FOR+REELorREAL) | N/A |
-| 43 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 44 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 45 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 46 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
-| 47 | [anjbrentjeweled on smprom](http://twitter.com/search?q=anjbrentjeweled+on+smprom) | N/A |
-| 48 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 49 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
-| 50 | [Ganyu](http://twitter.com/search?q=Ganyu) | N/A |
+| 28 | [JOSHMANDY TC EPISODE3](http://twitter.com/search?q=JOSHMANDY+TC+EPISODE3) | N/A |
+| 29 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 30 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
+| 31 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
+| 32 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
+| 33 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
+| 34 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 35 | [PIENALLY JEROMY AT PIE FINALE](http://twitter.com/search?q=PIENALLY+JEROMY+AT+PIE+FINALE) | N/A |
+| 36 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 37 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 38 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 39 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
+| 40 | [anjbrentjeweled on smprom](http://twitter.com/search?q=anjbrentjeweled+on+smprom) | N/A |
+| 41 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 42 | [TEENCLASeHam SHIPS ZICE](http://twitter.com/search?q=TEENCLASeHam+SHIPS+ZICE) | N/A |
+| 43 | [ZICE FOR REELorREAL](http://twitter.com/search?q=ZICE+FOR+REELorREAL) | N/A |
+| 44 | [RUSHING THROUGH MY VEINS](http://twitter.com/search?q=RUSHING+THROUGH+MY+VEINS) | N/A |
+| 45 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 46 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 47 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 48 | [JEREMY BINI MV](http://twitter.com/search?q=JEREMY+BINI+MV) | N/A |
+| 49 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 50 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 
 
 
