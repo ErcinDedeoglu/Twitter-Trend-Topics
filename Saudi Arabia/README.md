@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-31 05:17:55 UTC`
+📆 Last Updated: `2023-03-31 06:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Saudi Arabia
 | 4 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 5 | [#مها_تنخاكم](http://twitter.com/search?q=%23%d9%85%d9%87%d8%a7_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%85) | N/A |
 | 6 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 7 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 8 | [الخطوط السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 9 | [لينك اند](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d9%83+%d8%a7%d9%86%d8%af) | N/A |
-| 10 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 11 | [برنامج الفرسان](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%81%d8%b1%d8%b3%d8%a7%d9%86) | N/A |
-| 12 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 13 | [الخطوط الجويه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 7 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 8 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 9 | [الخطوط السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 10 | [لينك اند](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d9%83+%d8%a7%d9%86%d8%af) | N/A |
+| 11 | [الخطوط الجويه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 12 | [برنامج الفرسان](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%81%d8%b1%d8%b3%d8%a7%d9%86) | N/A |
+| 13 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
 | 14 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 15 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
 | 16 | [ضيف الاتحاد](http://twitter.com/search?q=%d8%b6%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 17 | [علي بنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86%d8%aa%d9%8a) | N/A |
-| 18 | [هشام الهويش](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%b4) | N/A |
-| 19 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 20 | [فهد الهريفي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%87%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
-| 21 | [ابو الطفيل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%b7%d9%81%d9%8a%d9%84) | N/A |
-| 22 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 23 | [بن العوام](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%85) | N/A |
-| 24 | [بارك علي محمد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 25 | [اوسبينا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a8%d9%8a%d9%86%d8%a7) | اوسبينا (Osbena) is an Arabic word that means "to be patient". It is used to encourage someone to remain calm and not give up in the face of adversity. |
-| 26 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 27 | [الزوج الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d8%ac+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 28 | [يوسف الثنيان](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
-| 29 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 30 | [دار الارقم](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d9%82%d9%85) | N/A |
-| 31 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 32 | [سعيد العويران](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 33 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 34 | [بوفون](http://twitter.com/search?q=%d8%a8%d9%88%d9%81%d9%88%d9%86) | N/A |
-| 35 | [#كلمات_تهديها_لمن](http://twitter.com/search?q=%23%d9%83%d9%84%d9%85%d8%a7%d8%aa_%d8%aa%d9%87%d8%af%d9%8a%d9%87%d8%a7_%d9%84%d9%85%d9%86) | N/A |
-| 36 | [#مسابقه_المربع_نت9](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa9) | N/A |
-| 37 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 38 | [#مسابقه_طرق_الرياض9](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b69) | N/A |
-| 39 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 40 | [#رمضان9](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%869) | N/A |
-| 41 | [#مخلد_سهل](http://twitter.com/search?q=%23%d9%85%d8%ae%d9%84%d8%af_%d8%b3%d9%87%d9%84) | N/A |
-| 42 | [#تم_القبض](http://twitter.com/search?q=%23%d8%aa%d9%85_%d8%a7%d9%84%d9%82%d8%a8%d8%b6) | N/A |
-| 43 | [#احمد_رحيم](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
-| 44 | [#مشاعرك_احيان_تقول](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%a7%d8%b9%d8%b1%d9%83_%d8%a7%d8%ad%d9%8a%d8%a7%d9%86_%d8%aa%d9%82%d9%88%d9%84) | N/A |
-| 45 | [#وقف_حياه_كريمه١](http://twitter.com/search?q=%23%d9%88%d9%82%d9%81_%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87%d9%a1) | N/A |
-| 46 | [#فاتوره_معسر](http://twitter.com/search?q=%23%d9%81%d8%a7%d8%aa%d9%88%d8%b1%d9%87_%d9%85%d8%b9%d8%b3%d8%b1) | N/A |
-| 47 | [#فهد_محمد_عامر_ال_الشهري](http://twitter.com/search?q=%23%d9%81%d9%87%d8%af_%d9%85%d8%ad%d9%85%d8%af_%d8%b9%d8%a7%d9%85%d8%b1_%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 48 | [#الصلاه_علي_النبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
-| 49 | [#باحسانك_تحيي_امال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%ad%d8%b3%d8%a7%d9%86%d9%83_%d8%aa%d8%ad%d9%8a%d9%8a_%d8%a7%d9%85%d8%a7%d9%84) | N/A |
-| 50 | [#مسابقه_السلامه_المروريه8](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%878) | N/A |
+| 17 | [هشام الهويش](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%b4) | N/A |
+| 18 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 19 | [فهد الهريفي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%87%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
+| 20 | [ابو الطفيل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%b7%d9%81%d9%8a%d9%84) | N/A |
+| 21 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 22 | [بارك علي محمد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 23 | [اوسبينا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a8%d9%8a%d9%86%d8%a7) | اوسبينا (Osbena) is an Arabic word that means "to be patient". It is used to encourage someone to remain calm and not give up in the face of adversity. |
+| 24 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 25 | [بن العوام](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%85) | N/A |
+| 26 | [دار الارقم](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d9%82%d9%85) | N/A |
+| 27 | [#نحقق_امنيتهم١](http://twitter.com/search?q=%23%d9%86%d8%ad%d9%82%d9%82_%d8%a7%d9%85%d9%86%d9%8a%d8%aa%d9%87%d9%85%d9%a1) | N/A |
+| 28 | [#كلمات_تهديها_لمن](http://twitter.com/search?q=%23%d9%83%d9%84%d9%85%d8%a7%d8%aa_%d8%aa%d9%87%d8%af%d9%8a%d9%87%d8%a7_%d9%84%d9%85%d9%86) | N/A |
+| 29 | [#رمضان9](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%869) | N/A |
+| 30 | [#مسابقه_المربع_نت9](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa9) | N/A |
+| 31 | [#الجمعه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 32 | [#مسابقه_طرق_الرياض9](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b69) | N/A |
+| 33 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 34 | [#الصلاه_علي_النبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
+| 35 | [#فاتوره_معسر](http://twitter.com/search?q=%23%d9%81%d8%a7%d8%aa%d9%88%d8%b1%d9%87_%d9%85%d8%b9%d8%b3%d8%b1) | N/A |
+| 36 | [#احمد_رحيم](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
+| 37 | [#تم_القبض](http://twitter.com/search?q=%23%d8%aa%d9%85_%d8%a7%d9%84%d9%82%d8%a8%d8%b6) | N/A |
+| 38 | [#وقف_حياه_كريمه١](http://twitter.com/search?q=%23%d9%88%d9%82%d9%81_%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87%d9%a1) | N/A |
+| 39 | [#مخلد_سهل](http://twitter.com/search?q=%23%d9%85%d8%ae%d9%84%d8%af_%d8%b3%d9%87%d9%84) | N/A |
+| 40 | [#فهد_محمد_عامر_ال_الشهري](http://twitter.com/search?q=%23%d9%81%d9%87%d8%af_%d9%85%d8%ad%d9%85%d8%af_%d8%b9%d8%a7%d9%85%d8%b1_%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 41 | [#مسابقه_السلامه_المروريه8](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%878) | N/A |
+| 42 | [#باحسانك_تحيي_امال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%ad%d8%b3%d8%a7%d9%86%d9%83_%d8%aa%d8%ad%d9%8a%d9%8a_%d8%a7%d9%85%d8%a7%d9%84) | N/A |
+| 43 | [#جمهور_الاهلي_يثق_بالمرجعيه](http://twitter.com/search?q=%23%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%8a%d8%ab%d9%82_%d8%a8%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d9%87) | N/A |
+| 44 | [#زد_رصيدك66](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8366) | N/A |
+| 45 | [#انس_المطيري](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
+| 46 | [#مسابقه_المنيع_الرمضانيه](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d9%86%d9%8a%d8%b9_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 47 | [#سلمان_بن_خالد](http://twitter.com/search?q=%23%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 48 | [#الروشن8](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%868) | N/A |
+| 49 | [#من_الوصول_الي_الحصول9](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%849) | N/A |
+| 50 | [#شماغ_العجلان](http://twitter.com/search?q=%23%d8%b4%d9%85%d8%a7%d8%ba_%d8%a7%d9%84%d8%b9%d8%ac%d9%84%d8%a7%d9%86) | N/A |
 
 
 

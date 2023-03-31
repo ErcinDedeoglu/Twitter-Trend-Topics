@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-31 05:17:51 UTC`
+📆 Last Updated: `2023-03-31 06:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Indonesia
 | 2 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
 | 3 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
 | 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [#BP2MISikatSindikatPMI](http://twitter.com/search?q=%23BP2MISikatSindikatPMI) | N/A |
-| 6 | [Komitmen Benny Rhamdani](http://twitter.com/search?q=Komitmen+Benny+Rhamdani) | N/A |
-| 7 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
-| 8 | [#PrabowoPuanTepat](http://twitter.com/search?q=%23PrabowoPuanTepat) | N/A |
-| 9 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 10 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 11 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 12 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 14 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
-| 15 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 16 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 17 | [jowi](http://twitter.com/search?q=jowi) | N/A |
+| 5 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
+| 6 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 7 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 8 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 9 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 11 | [#NYALAinAja](http://twitter.com/search?q=%23NYALAinAja) | N/A |
+| 12 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 13 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
+| 14 | [#TebarKebaikanGanjar](http://twitter.com/search?q=%23TebarKebaikanGanjar) | N/A |
+| 15 | [Komitmen Benny Rhamdani](http://twitter.com/search?q=Komitmen+Benny+Rhamdani) | N/A |
+| 16 | [jowi](http://twitter.com/search?q=jowi) | N/A |
+| 17 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
 | 18 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 19 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 20 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
+| 19 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 20 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
 | 21 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 22 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 23 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 24 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 25 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 22 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
+| 23 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
+| 24 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 25 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
 | 26 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 27 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 28 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
-| 29 | [Kepala BP2MI](http://twitter.com/search?q=Kepala+BP2MI) | N/A |
-| 30 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 27 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 28 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 29 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 30 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
 | 31 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 32 | [WELCOME BACK MSP](http://twitter.com/search?q=WELCOME+BACK+MSP) | N/A |
-| 33 | [YOUN1T LOVE YOU BANGHAN](http://twitter.com/search?q=YOUN1T+LOVE+YOU+BANGHAN) | N/A |
-| 34 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 35 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 36 | [Pildun](http://twitter.com/search?q=Pildun) | N/A |
-| 37 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
-| 38 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
-| 39 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 40 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
-| 41 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
-| 42 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 43 | [Tengah](http://twitter.com/search?q=Tengah) | N/A |
-| 44 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 45 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 46 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 47 | [Anggota DPR](http://twitter.com/search?q=Anggota+DPR) | N/A |
-| 48 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
-| 49 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 50 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 32 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 33 | [WELCOME BACK MSP](http://twitter.com/search?q=WELCOME+BACK+MSP) | N/A |
+| 34 | [youn1t love you banghan](http://twitter.com/search?q=youn1t+love+you+banghan) | N/A |
+| 35 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 36 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
+| 37 | [Pocong](http://twitter.com/search?q=Pocong) | N/A |
+| 38 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 39 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 40 | [Pildun](http://twitter.com/search?q=Pildun) | N/A |
+| 41 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 42 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
+| 43 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
+| 44 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 45 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
+| 46 | [Anggota DPR](http://twitter.com/search?q=Anggota+DPR) | N/A |
+| 47 | [Rank 1](http://twitter.com/search?q=Rank+1) | N/A |
+| 48 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 49 | [Golput](http://twitter.com/search?q=Golput) | N/A |
+| 50 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-31 05:16:56 UTC`
+📆 Last Updated: `2023-03-31 06:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,16 +18,16 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
 | 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 4 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 5 | [Sharmin](http://twitter.com/search?q=Sharmin) | N/A |
-| 6 | [Soto Jiménez](http://twitter.com/search?q=Soto+Jim%c3%a9nez) | N/A |
-| 7 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 8 | [batalla del 30](http://twitter.com/search?q=batalla+del+30) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 11 | [Vincho](http://twitter.com/search?q=Vincho) | N/A |
-| 12 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 13 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 4 | [Sharmin](http://twitter.com/search?q=Sharmin) | N/A |
+| 5 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 6 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 7 | [batalla del 30](http://twitter.com/search?q=batalla+del+30) | N/A |
+| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 9 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 10 | [Vincho](http://twitter.com/search?q=Vincho) | N/A |
+| 11 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 12 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 13 | [Soto Jiménez](http://twitter.com/search?q=Soto+Jim%c3%a9nez) | N/A |
 | 14 | [José María Imbert](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Imbert) | N/A |
 | 15 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
 | 16 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 31 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
 | 32 | [monte plata](http://twitter.com/search?q=monte+plata) | N/A |
 | 33 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 34 | [Ñeñeco](http://twitter.com/search?q=%c3%91e%c3%b1eco) | N/A |
+| 34 | [ñeñeco](http://twitter.com/search?q=%c3%b1e%c3%b1eco) | N/A |
 | 35 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
 | 36 | [Popular](http://twitter.com/search?q=Popular) | N/A |
 | 37 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |

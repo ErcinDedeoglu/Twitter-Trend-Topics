@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-31 05:17:37 UTC`
+📆 Last Updated: `2023-03-31 06:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 2 | [Tecavüz Hikayeleri](http://twitter.com/search?q=Tecav%c3%bcz+Hikayeleri) | N/A |
-| 3 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 4 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 3 | [Tecavüz Hikayeleri](http://twitter.com/search?q=Tecav%c3%bcz+Hikayeleri) | N/A |
+| 4 | [#StajaİcraatGerek](http://twitter.com/search?q=%23Staja%c4%b0craatGerek) | N/A |
 | 5 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 6 | [#StajaİcraatGerek](http://twitter.com/search?q=%23Staja%c4%b0craatGerek) | N/A |
-| 7 | [ömer faruk başaran](http://twitter.com/search?q=%c3%b6mer+faruk+ba%c5%9faran) | N/A |
-| 8 | [Piro](http://twitter.com/search?q=Piro) | N/A |
-| 9 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 6 | [#adayadayıbozdoğan](http://twitter.com/search?q=%23adayaday%c4%b1bozdo%c4%9fan) | N/A |
+| 7 | [Piro](http://twitter.com/search?q=Piro) | N/A |
+| 8 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 9 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
 | 10 | [ERDOĞANLA DEVAM](http://twitter.com/search?q=ERDO%c4%9eANLA+DEVAM) | N/A |
-| 11 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
-| 12 | [hurmaedit açıldı](http://twitter.com/search?q=hurmaedit+a%c3%a7%c4%b1ld%c4%b1) | N/A |
-| 13 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
-| 14 | [beştepeden denklik](http://twitter.com/search?q=be%c5%9ftepeden+denklik) | N/A |
-| 15 | [Korkmaz Tavukçu](http://twitter.com/search?q=Korkmaz+Tavuk%c3%a7u) | N/A |
-| 16 | [UcretliOgrt KadroMujdesi](http://twitter.com/search?q=UcretliOgrt+KadroMujdesi) | N/A |
+| 11 | [hurmaedit açıldı](http://twitter.com/search?q=hurmaedit+a%c3%a7%c4%b1ld%c4%b1) | N/A |
+| 12 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
+| 13 | [beştepeden denklik](http://twitter.com/search?q=be%c5%9ftepeden+denklik) | N/A |
+| 14 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
+| 15 | [ucretliogrt kadromujdesi](http://twitter.com/search?q=ucretliogrt+kadromujdesi) | N/A |
+| 16 | [Korkmaz Tavukçu](http://twitter.com/search?q=Korkmaz+Tavuk%c3%a7u) | N/A |
 | 17 | [skandal tehdit](http://twitter.com/search?q=skandal+tehdit) | N/A |
 | 18 | [gsbtayinbekliyor](http://twitter.com/search?q=gsbtayinbekliyor) | N/A |
-| 19 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
-| 20 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 21 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
-| 22 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 19 | [Cumamız](http://twitter.com/search?q=Cumam%c4%b1z) | N/A |
+| 20 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
+| 21 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 22 | [BugünGünlerden YalıÇapkını](http://twitter.com/search?q=Bug%c3%bcnG%c3%bcnlerden+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
 | 23 | [rezene çayı](http://twitter.com/search?q=rezene+%c3%a7ay%c4%b1) | N/A |
-| 24 | [BugünGünlerden YalıÇapkını](http://twitter.com/search?q=Bug%c3%bcnG%c3%bcnlerden+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
-| 25 | [imar yoksaoyyok](http://twitter.com/search?q=imar+yoksaoyyok) | N/A |
-| 26 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 27 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 24 | [imar yoksaoyyok](http://twitter.com/search?q=imar+yoksaoyyok) | N/A |
+| 25 | [Muharrem](http://twitter.com/search?q=Muharrem) | N/A |
+| 26 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 27 | [Meral](http://twitter.com/search?q=Meral) | N/A |
 | 28 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
-| 29 | [GÖKKUŞAĞI MASASI](http://twitter.com/search?q=G%c3%96KKU%c5%9eA%c4%9eI+MASASI) | N/A |
-| 30 | [zirveninadı yalıçapkını](http://twitter.com/search?q=zirveninad%c4%b1+yal%c4%b1%c3%a7apk%c4%b1n%c4%b1) | N/A |
+| 29 | [zirveninadı yalıçapkını](http://twitter.com/search?q=zirveninad%c4%b1+yal%c4%b1%c3%a7apk%c4%b1n%c4%b1) | N/A |
+| 30 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
 | 31 | [şadi yazıcı](http://twitter.com/search?q=%c5%9fadi+yaz%c4%b1c%c4%b1) | N/A |
-| 32 | [Önce Türkiye](http://twitter.com/search?q=%c3%96nce+T%c3%bcrkiye) | N/A |
+| 32 | [GÖKKUŞAĞI MASASI](http://twitter.com/search?q=G%c3%96KKU%c5%9eA%c4%9eI+MASASI) | N/A |
 | 33 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
 | 34 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
 | 35 | [TaşeronuAçıkla VedatBilgin](http://twitter.com/search?q=Ta%c5%9feronuA%c3%a7%c4%b1kla+VedatBilgin) | N/A |
 | 36 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
-| 37 | [yök başkanı özvar](http://twitter.com/search?q=y%c3%b6k+ba%c5%9fkan%c4%b1+%c3%b6zvar) | N/A |
-| 38 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
+| 37 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
+| 38 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
 | 39 | [Ha HDP Ha CHP](http://twitter.com/search?q=Ha+HDP+Ha+CHP) | N/A |
 | 40 | [sevgimizsonsuz emirluca](http://twitter.com/search?q=sevgimizsonsuz+emirluca) | N/A |
-| 41 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
-| 42 | [GÜLE GÜLE](http://twitter.com/search?q=G%c3%9cLE+G%c3%9cLE) | N/A |
-| 43 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
-| 44 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
-| 45 | [Eren Bülbül'e](http://twitter.com/search?q=Eren+B%c3%bclb%c3%bcl%27e) | N/A |
+| 41 | [Güle Güle](http://twitter.com/search?q=G%c3%bcle+G%c3%bcle) | N/A |
+| 42 | [Finlandiya'nın NATO'ya](http://twitter.com/search?q=Finlandiya%27n%c4%b1n+NATO%27ya) | N/A |
+| 43 | [2000 TL'ye](http://twitter.com/search?q=2000+TL%27ye) | N/A |
+| 44 | [Eren Bülbül'e](http://twitter.com/search?q=Eren+B%c3%bclb%c3%bcl%27e) | N/A |
+| 45 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
 | 46 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
-| 47 | [Finlandiya'nın NATO'ya](http://twitter.com/search?q=Finlandiya%27n%c4%b1n+NATO%27ya) | N/A |
-| 48 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 47 | [YÖK Başkanı Özvar](http://twitter.com/search?q=Y%c3%96K+Ba%c5%9fkan%c4%b1+%c3%96zvar) | N/A |
+| 48 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-31 05:17:41 UTC`
+📆 Last Updated: `2023-03-31 06:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 2 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
-| 3 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 5 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 6 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 7 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 8 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 9 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 10 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 11 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 3 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 4 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 5 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 6 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 7 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 8 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 9 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 10 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 11 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
 | 12 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 13 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 14 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 15 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 16 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 17 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 19 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 20 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 14 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 15 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 16 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 18 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 19 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 20 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 | 21 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 22 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 24 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 25 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 26 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 27 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 28 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 29 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 30 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 31 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 32 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 33 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 34 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 35 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 36 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 37 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 38 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 39 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 40 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 41 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 42 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
-| 43 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 44 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 45 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 46 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
-| 47 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 48 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 49 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 50 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 23 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 24 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 25 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 26 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 27 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 28 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 29 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 30 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 31 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 32 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 33 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 34 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 35 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 36 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 37 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 38 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 39 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 40 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 41 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 42 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 43 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 44 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 45 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 46 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 47 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 48 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 49 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
+| 50 | [Redman](http://twitter.com/search?q=Redman) | N/A |
 
 
 

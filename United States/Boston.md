@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-31 05:17:39 UTC`
+📆 Last Updated: `2023-03-31 06:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 2 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 3 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 4 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 5 | [#BleedGreen](http://twitter.com/search?q=%23BleedGreen) | N/A |
-| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 7 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 8 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 11 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 12 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 13 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 14 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 15 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 16 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 3 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 4 | [#BleedGreen](http://twitter.com/search?q=%23BleedGreen) | N/A |
+| 5 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 6 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 8 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 9 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 10 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 12 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 13 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 14 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 15 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 16 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
 | 17 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 18 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 19 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 20 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 21 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 22 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 24 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 25 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 19 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 20 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 21 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 23 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 24 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 25 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 | 26 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 27 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 | 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 | 29 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 30 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 30 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
 | 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 32 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 33 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 35 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 36 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 37 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 38 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 39 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 40 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 41 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 42 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 43 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 44 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 45 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 46 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 47 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 48 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 49 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
-| 50 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 32 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 33 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 34 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 35 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 36 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 37 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 38 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 39 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 40 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 41 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 42 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 43 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 44 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 45 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 46 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 47 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 48 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 49 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 50 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
 
 
 

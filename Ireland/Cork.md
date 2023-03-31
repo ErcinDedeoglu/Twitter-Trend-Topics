@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-31 05:17:07 UTC`
+📆 Last Updated: `2023-03-31 06:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [#hellohowareyou](http://twitter.com/search?q=%23hellohowareyou) | N/A |
-| 3 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
-| 4 | [#reinstateevictionban](http://twitter.com/search?q=%23reinstateevictionban) | N/A |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 2 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
+| 3 | [#reinstateevictionban](http://twitter.com/search?q=%23reinstateevictionban) | N/A |
+| 4 | [#HelloHowAreYou](http://twitter.com/search?q=%23HelloHowAreYou) | N/A |
+| 5 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 | 6 | [#itsnojoke](http://twitter.com/search?q=%23itsnojoke) | N/A |
-| 7 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 8 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
 | 9 | [young academy of ireland](http://twitter.com/search?q=young+academy+of+ireland) | N/A |
 | 10 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
 | 11 | [Paul O’Grady](http://twitter.com/search?q=Paul+O%e2%80%99Grady) | N/A |
 | 12 | [clodagh](http://twitter.com/search?q=clodagh) | N/A |
 | 13 | [Congratulations Rachel](http://twitter.com/search?q=Congratulations+Rachel) | N/A |
-| 14 | [bohs](http://twitter.com/search?q=bohs) | N/A |
-| 15 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 16 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 14 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 15 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 17 | [Friends](http://twitter.com/search?q=Friends) | N/A |
 | 18 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
 | 19 | [Dwyer](http://twitter.com/search?q=Dwyer) | N/A |
 | 20 | [Corporal Duggan](http://twitter.com/search?q=Corporal+Duggan) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Kate Hoey](http://twitter.com/search?q=Kate+Hoey) | N/A |
-| 23 | [kilbride](http://twitter.com/search?q=kilbride) | N/A |
-| 24 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 25 | [DEIS](http://twitter.com/search?q=DEIS) | N/A |
-| 26 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 27 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 28 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
-| 29 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 30 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 31 | [katie mccabe](http://twitter.com/search?q=katie+mccabe) | N/A |
-| 32 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
-| 33 | [Ciaran](http://twitter.com/search?q=Ciaran) | N/A |
-| 34 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 35 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 36 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 37 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 38 | [defence forces](http://twitter.com/search?q=defence+forces) | N/A |
-| 39 | [DART](http://twitter.com/search?q=DART) | N/A |
-| 40 | [Shane Long](http://twitter.com/search?q=Shane+Long) | N/A |
-| 41 | [Tim Heidecker](http://twitter.com/search?q=Tim+Heidecker) | N/A |
-| 42 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
-| 43 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 44 | [John Rogers](http://twitter.com/search?q=John+Rogers) | N/A |
-| 45 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 46 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 48 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 21 | [kilbride](http://twitter.com/search?q=kilbride) | N/A |
+| 22 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 23 | [DEIS](http://twitter.com/search?q=DEIS) | N/A |
+| 24 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 25 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 26 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 27 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 28 | [katie mccabe](http://twitter.com/search?q=katie+mccabe) | N/A |
+| 29 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
+| 30 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 31 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 32 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 33 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 34 | [Shane Long](http://twitter.com/search?q=Shane+Long) | N/A |
+| 35 | [Tim Heidecker](http://twitter.com/search?q=Tim+Heidecker) | N/A |
+| 36 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 37 | [Superb](http://twitter.com/search?q=Superb) | N/A |
+| 38 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
+| 39 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 40 | [John Rogers](http://twitter.com/search?q=John+Rogers) | N/A |
+| 41 | [Ciaran](http://twitter.com/search?q=Ciaran) | N/A |
+| 42 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 43 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
+| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 45 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 46 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 47 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 48 | [Kate Hoey](http://twitter.com/search?q=Kate+Hoey) | N/A |
 
 
 

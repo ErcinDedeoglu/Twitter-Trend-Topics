@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-31 05:17:09 UTC`
+📆 Last Updated: `2023-03-31 06:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
 | 6 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
 | 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 8 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 9 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 11 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 12 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 13 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 14 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 15 | [Moin Tim](http://twitter.com/search?q=Moin+Tim) | N/A |
-| 16 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 17 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 18 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 19 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 20 | [stück hirn-vakuum](http://twitter.com/search?q=st%c3%bcck+hirn-vakuum) | N/A |
-| 21 | [Schultag](http://twitter.com/search?q=Schultag) | N/A |
-| 22 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 23 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 25 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
-| 26 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 27 | [random gedanke](http://twitter.com/search?q=random+gedanke) | N/A |
-| 28 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 29 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 30 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 31 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 32 | [closeness rating](http://twitter.com/search?q=closeness+rating) | N/A |
-| 33 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 34 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 35 | [Staatsfunk](http://twitter.com/search?q=Staatsfunk) | N/A |
-| 36 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 37 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 38 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 39 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
-| 40 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 41 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 42 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 8 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
+| 9 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 10 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 11 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 12 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 13 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 14 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 15 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 16 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 17 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 18 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 19 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 20 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 21 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 22 | [stück hirn-vakuum](http://twitter.com/search?q=st%c3%bcck+hirn-vakuum) | N/A |
+| 23 | [Schultag](http://twitter.com/search?q=Schultag) | N/A |
+| 24 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 25 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
+| 26 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 27 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 28 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
+| 29 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 30 | [Staatsfunk](http://twitter.com/search?q=Staatsfunk) | N/A |
+| 31 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 32 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 33 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 34 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 35 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 36 | [random gedanke](http://twitter.com/search?q=random+gedanke) | N/A |
+| 37 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 38 | [closeness rating](http://twitter.com/search?q=closeness+rating) | N/A |
+| 39 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 40 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 41 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 42 | [Conni](http://twitter.com/search?q=Conni) | N/A |
 | 43 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 44 | [staatsbankett](http://twitter.com/search?q=staatsbankett) | N/A |
-| 45 | [kinderehen](http://twitter.com/search?q=kinderehen) | N/A |
-| 46 | [Conny](http://twitter.com/search?q=Conny) | N/A |
-| 47 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 48 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 49 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 44 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 45 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 46 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 47 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 48 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 49 | [staatsbankett](http://twitter.com/search?q=staatsbankett) | N/A |
 
 
 

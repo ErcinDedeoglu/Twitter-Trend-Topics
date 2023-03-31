@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-31 05:17:08 UTC`
+📆 Last Updated: `2023-03-31 06:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 3 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 4 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 5 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 6 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 7 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 8 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 9 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 4 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 5 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
+| 6 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 7 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 8 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 9 | [Angie](http://twitter.com/search?q=Angie) | N/A |
 | 10 | [Robben](http://twitter.com/search?q=Robben) | N/A |
 | 11 | [Pacifiquement](http://twitter.com/search?q=Pacifiquement) | N/A |
-| 12 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 13 | [Bekar](http://twitter.com/search?q=Bekar) | N/A |
-| 14 | [Michou](http://twitter.com/search?q=Michou) | N/A |
-| 15 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
-| 16 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 17 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 18 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 19 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
-| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 21 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
-| 22 | [Maison Blanche](http://twitter.com/search?q=Maison+Blanche) | N/A |
-| 23 | [chirine](http://twitter.com/search?q=chirine) | N/A |
-| 24 | [hautes-alpes](http://twitter.com/search?q=hautes-alpes) | N/A |
+| 12 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 13 | [Michou](http://twitter.com/search?q=Michou) | N/A |
+| 14 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
+| 15 | [Bekar](http://twitter.com/search?q=Bekar) | N/A |
+| 16 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
+| 17 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 18 | [Maison Blanche](http://twitter.com/search?q=Maison+Blanche) | N/A |
+| 19 | [zlan](http://twitter.com/search?q=zlan) | N/A |
+| 20 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 21 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 22 | [chirine](http://twitter.com/search?q=chirine) | N/A |
+| 23 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 24 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
 | 25 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
-| 26 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
-| 27 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 28 | [Émeline](http://twitter.com/search?q=%c3%89meline) | N/A |
-| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 30 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 31 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 26 | [Émeline](http://twitter.com/search?q=%c3%89meline) | N/A |
+| 27 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 28 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
+| 29 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 30 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
+| 31 | [Bonjour Jocelyne](http://twitter.com/search?q=Bonjour+Jocelyne) | N/A |
 | 32 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 33 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
+| 33 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 34 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
-| 35 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 36 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 37 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
-| 38 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 39 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 40 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 41 | [bernat](http://twitter.com/search?q=bernat) | N/A |
-| 42 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 43 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 44 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 45 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 35 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
+| 36 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 37 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 38 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
+| 39 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 40 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
+| 41 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 42 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 43 | [bernat](http://twitter.com/search?q=bernat) | N/A |
+| 44 | [Le MV](http://twitter.com/search?q=Le+MV) | N/A |
+| 45 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
 | 46 | [Alexis Kohler](http://twitter.com/search?q=Alexis+Kohler) | N/A |
-| 47 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 48 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 49 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 50 | [Mega Drive](http://twitter.com/search?q=Mega+Drive) | N/A |
+| 47 | [Xbox Series](http://twitter.com/search?q=Xbox+Series) | N/A |
+| 48 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 49 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 50 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 
 
 

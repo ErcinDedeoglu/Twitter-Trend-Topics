@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-31 05:17:45 UTC`
+📆 Last Updated: `2023-03-31 06:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 2 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 3 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 4 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 5 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 6 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 7 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 8 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 9 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 10 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 3 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 5 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 6 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 8 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 9 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 10 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
 | 11 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 12 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
 | 13 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
 | 14 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 15 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 | 16 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 17 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
 | 18 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 | 19 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 20 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 | 21 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 | 22 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 23 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 23 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
 | 24 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 25 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 26 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 29 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 31 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 32 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 33 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 34 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 35 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 36 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 37 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 38 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 39 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 40 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 41 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 42 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
-| 43 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
-| 44 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 45 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 46 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 47 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 48 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 25 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 26 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 27 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 28 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 29 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 30 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 31 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 32 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 33 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 34 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 35 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 36 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 37 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 38 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 39 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 40 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 41 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 42 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 43 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 44 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 45 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 46 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
+| 47 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 48 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
 
 
 

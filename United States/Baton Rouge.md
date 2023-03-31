@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-03-31 05:17:39 UTC`
+📆 Last Updated: `2023-03-31 06:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 2 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 3 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 7 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 8 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 2 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 5 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 6 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 7 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 8 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
 | 9 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 10 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 11 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 10 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 11 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
 | 12 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 13 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 14 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 15 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 16 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 17 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 13 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 14 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 16 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 17 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 18 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
 | 19 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 20 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 21 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
-| 22 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 23 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 24 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 25 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 26 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 27 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 28 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 29 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 30 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 31 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 32 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 33 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 34 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 35 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 36 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 37 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 38 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 39 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 40 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 41 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 42 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 43 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 44 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
-| 45 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 46 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 47 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 48 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
-| 49 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 20 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 21 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 22 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 23 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 24 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 25 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 26 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 27 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 28 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 29 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 30 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 31 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 32 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 33 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 35 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 36 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 37 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 38 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 39 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 40 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 41 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 42 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 43 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 44 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 45 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 46 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 47 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 48 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 49 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
 
 
 
