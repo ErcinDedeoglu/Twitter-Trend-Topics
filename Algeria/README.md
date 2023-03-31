@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-31 00:29:00 UTC`
+📆 Last Updated: `2023-03-31 01:44:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Algeria
 | ------- | ------------ | ------------ |
 | 1 | [#الدامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%85%d9%87) | N/A |
 | 2 | [التلفزيون العمومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a) | N/A |
-| 3 | [السمعي البصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d9%8a) | N/A |
-| 4 | [#المربع_الاخير8](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b18) | N/A |
-| 5 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 3 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 4 | [السمعي البصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d9%8a) | N/A |
+| 5 | [#المربع_الاخير8](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b18) | N/A |
 | 6 | [ابو امي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%85%d9%8a) | N/A |
 | 7 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
 | 8 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for Algeria
 | 13 | [التلفزيون الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 14 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
 | 15 | [30 مارس 2023](http://twitter.com/search?q=30+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 16 | [Air Algérie](http://twitter.com/search?q=Air+Alg%c3%a9rie) | N/A |
+| 16 | [air algérie](http://twitter.com/search?q=air+alg%c3%a9rie) | N/A |
 | 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 18 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
+| 18 | [المجتمع الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 19 | [Ihsane El Kadi](http://twitter.com/search?q=Ihsane+El+Kadi) | N/A |
-| 20 | [المجتمع الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 21 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 22 | [يوتيوب](http://twitter.com/search?q=%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 23 | [أحمد عطاف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%b9%d8%b7%d8%a7%d9%81) | N/A |
-| 24 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 20 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 21 | [علي الواقع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
+| 22 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 23 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 24 | [أحمد عطاف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%b9%d8%b7%d8%a7%d9%81) | N/A |
 | 25 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 26 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 27 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 28 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 29 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 30 | [البارسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
-| 31 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 32 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 33 | [ملك المغرب](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
-| 34 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 35 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 36 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
-| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 38 | [عثمان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
-| 39 | [باب الواد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%88%d8%a7%d8%af) | N/A |
-| 40 | [قلب اللوز](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%84%d9%84%d9%88%d8%b2) | N/A |
-| 41 | [تنظيم كاس العالم](http://twitter.com/search?q=%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 26 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 27 | [البارسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
+| 28 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
+| 29 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 30 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 31 | [ملك المغرب](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
+| 32 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 33 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
+| 34 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 35 | [عثمان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
+| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 37 | [باب الواد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%88%d8%a7%d8%af) | N/A |
+| 38 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 39 | [تنظيم كاس العالم](http://twitter.com/search?q=%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 40 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 41 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 42 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
 | 43 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 44 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
-| 45 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 46 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 47 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [لبرشلونة](http://twitter.com/search?q=%d9%84%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | N/A |
-| 50 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 45 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 46 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 47 | [لبرشلونة](http://twitter.com/search?q=%d9%84%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | N/A |
+| 48 | [قلب اللوز](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%84%d9%84%d9%88%d8%b2) | N/A |
+| 49 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 
 
 

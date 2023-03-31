@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-31 00:28:39 UTC`
+📆 Last Updated: `2023-03-31 01:44:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WelcomeTREASUREtoThailand](http://twitter.com/search?q=%23WelcomeTREASUREtoThailand) | "#WelcomeTREASUREtoThailand" is a hashtag used to welcome the K-pop group TREASURE to Thailand. It is a way of expressing excitement and anticipation for their upcoming visit. |
-| 2 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
-| 3 | [#ลัฟวี่ไม่เอาธันเดอร์โดม](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%a7%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%98%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%94%e0%b8%a1) | N/A |
-| 4 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
-| 5 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 6 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 7 | [BAMBAM GM 31MARCH](http://twitter.com/search?q=BAMBAM+GM+31MARCH) | N/A |
-| 8 | [BRIGHT X BVLGARI75th](http://twitter.com/search?q=BRIGHT+X+BVLGARI75th) | N/A |
-| 9 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
-| 10 | [GEMINI FOURTH SO HOT](http://twitter.com/search?q=GEMINI+FOURTH+SO+HOT) | N/A |
-| 11 | [KKAEWChuu Day](http://twitter.com/search?q=KKAEWChuu+Day) | N/A |
-| 12 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
-| 13 | [Patrick Delicious Romance](http://twitter.com/search?q=Patrick+Delicious+Romance) | N/A |
-| 14 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 15 | [dragon tvdrama awards23](http://twitter.com/search?q=dragon+tvdrama+awards23) | N/A |
-| 16 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
-| 17 | [win x lazada11year](http://twitter.com/search?q=win+x+lazada11year) | N/A |
-| 18 | [countdown to cl concert d1](http://twitter.com/search?q=countdown+to+cl+concert+d1) | N/A |
-| 19 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 20 | [tawan arb dao](http://twitter.com/search?q=tawan+arb+dao) | N/A |
+| 1 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
+| 2 | [#กดบัตรแฟนมีตโนอึล](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
+| 3 | [CHARLOTTE FIRST CONCERT](http://twitter.com/search?q=CHARLOTTE+FIRST+CONCERT) | N/A |
+| 4 | [#เอ๋ชนม์สวัสดิ์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%8a%e0%b8%99%e0%b8%a1%e0%b9%8c%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b4%e0%b9%8c) | N/A |
+| 5 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 6 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 7 | [WELCOME BACK MSP](http://twitter.com/search?q=WELCOME+BACK+MSP) | N/A |
+| 8 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 9 | [BAMBAM GM 31MARCH](http://twitter.com/search?q=BAMBAM+GM+31MARCH) | N/A |
+| 10 | [JOYFUL DAY31 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY31+TO+ENGFA) | N/A |
+| 11 | [BRIGHT X BVLGARI75th](http://twitter.com/search?q=BRIGHT+X+BVLGARI75th) | N/A |
+| 12 | [MORNING 31 NNINE](http://twitter.com/search?q=MORNING+31+NNINE) | N/A |
+| 13 | [31 Morning Dunk](http://twitter.com/search?q=31+Morning+Dunk) | N/A |
+| 14 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 15 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 16 | [gemini fourth so hot](http://twitter.com/search?q=gemini+fourth+so+hot) | N/A |
+| 17 | [AESPA TETRIS OST](http://twitter.com/search?q=AESPA+TETRIS+OST) | N/A |
+| 18 | [KKAEWChuu Day](http://twitter.com/search?q=KKAEWChuu+Day) | N/A |
+| 19 | [Patrick Delicious Romance](http://twitter.com/search?q=Patrick+Delicious+Romance) | N/A |
+| 20 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
 | 21 | [TOUCH MY BODY](http://twitter.com/search?q=TOUCH+MY+BODY) | N/A |
-| 22 | [truelove tarwaan](http://twitter.com/search?q=truelove+tarwaan) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [peck nuch](http://twitter.com/search?q=peck+nuch) | N/A |
-| 25 | [1m beside with khaotungg](http://twitter.com/search?q=1m+beside+with+khaotungg) | N/A |
-| 26 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 27 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
-| 28 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 29 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 30 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 31 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
-| 32 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
-| 33 | [German](http://twitter.com/search?q=German) | N/A |
-| 34 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
-| 35 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
-| 36 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
-| 37 | [R to V in BANGKOK](http://twitter.com/search?q=R+to+V+in+BANGKOK) | N/A |
-| 38 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 39 | [Red Velvet 4th Concert](http://twitter.com/search?q=Red+Velvet+4th+Concert) | N/A |
-| 40 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 41 | [America](http://twitter.com/search?q=America) | N/A |
-| 42 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 43 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
-| 44 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
-| 45 | [#BulgariSerpenti75xBright](http://twitter.com/search?q=%23BulgariSerpenti75xBright) | N/A |
-| 46 | [#แบนสุพรรณหงส์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c) | N/A |
-| 47 | [#ToyotaxZeeNuNew](http://twitter.com/search?q=%23ToyotaxZeeNuNew) | N/A |
-| 48 | [#sourandsweet_mcountdown](http://twitter.com/search?q=%23sourandsweet_mcountdown) | N/A |
-| 49 | [#DOJAEJUNG_BaseNote](http://twitter.com/search?q=%23DOJAEJUNG_BaseNote) | N/A |
-| 50 | [#BookfluencerxMarkFord](http://twitter.com/search?q=%23BookfluencerxMarkFord) | N/A |
+| 22 | [dragon tvdrama awards23](http://twitter.com/search?q=dragon+tvdrama+awards23) | N/A |
+| 23 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
+| 24 | [win x lazada11year](http://twitter.com/search?q=win+x+lazada11year) | N/A |
+| 25 | [countdown to cl concert d1](http://twitter.com/search?q=countdown+to+cl+concert+d1) | N/A |
+| 26 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 27 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
+| 28 | [tawan arb dao](http://twitter.com/search?q=tawan+arb+dao) | N/A |
+| 29 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
+| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 31 | [truelove tarwaan](http://twitter.com/search?q=truelove+tarwaan) | N/A |
+| 32 | [1m beside with khaotungg](http://twitter.com/search?q=1m+beside+with+khaotungg) | N/A |
+| 33 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
+| 34 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
+| 35 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
+| 36 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 37 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 38 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 39 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 40 | [German](http://twitter.com/search?q=German) | N/A |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Meowning OrnOung](http://twitter.com/search?q=Meowning+OrnOung) | N/A |
+| 43 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 44 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 45 | [R to V in BANGKOK](http://twitter.com/search?q=R+to+V+in+BANGKOK) | N/A |
+| 46 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [KEM MOOKDA](http://twitter.com/search?q=KEM+MOOKDA) | N/A |
+| 48 | [#หนึ่งเมษามาพรีบั้มบิวกิ้น](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b8%a9%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b8%9a%e0%b8%b1%e0%b9%89%e0%b8%a1%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%81%e0%b8%b4%e0%b9%89%e0%b8%99) | N/A |
+| 49 | [#WelcomeTREASUREtoThailand](http://twitter.com/search?q=%23WelcomeTREASUREtoThailand) | "#WelcomeTREASUREtoThailand" is a hashtag used to welcome the K-pop group TREASURE to Thailand. It is a way of expressing excitement and anticipation for their upcoming visit. |
+| 50 | [#700KDunkisOurSmiles](http://twitter.com/search?q=%23700KDunkisOurSmiles) | N/A |
 
 
 

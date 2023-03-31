@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-31 00:28:53 UTC`
+📆 Last Updated: `2023-03-31 01:44:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mark Wahlberg](http://twitter.com/search?q=Mark+Wahlberg) | N/A |
-| 2 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
+| 1 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 2 | [Yuli](http://twitter.com/search?q=Yuli) | N/A |
 | 3 | [Jake Meyers](http://twitter.com/search?q=Jake+Meyers) | N/A |
-| 4 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 5 | [Brad Miller](http://twitter.com/search?q=Brad+Miller) | N/A |
-| 6 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 7 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 8 | [Bally](http://twitter.com/search?q=Bally) | N/A |
-| 9 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 10 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 11 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 12 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 13 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 14 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 15 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 16 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 17 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 18 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 20 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
-| 21 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 22 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 23 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 24 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 25 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 26 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 29 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 31 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 32 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 33 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 34 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 35 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 36 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 37 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 39 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 40 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 41 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 42 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 43 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 44 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 45 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 46 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 47 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 48 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
-| 49 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 50 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 4 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
+| 5 | [#StraightUpTX](http://twitter.com/search?q=%23StraightUpTX) | N/A |
+| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 7 | [Hensley](http://twitter.com/search?q=Hensley) | N/A |
+| 8 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
+| 9 | [Framber](http://twitter.com/search?q=Framber) | N/A |
+| 10 | [Mark Wahlberg](http://twitter.com/search?q=Mark+Wahlberg) | N/A |
+| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 12 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 13 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 14 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 15 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 16 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 17 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 18 | [Bally](http://twitter.com/search?q=Bally) | N/A |
+| 19 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 20 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 21 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 22 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
+| 23 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 24 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 25 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 26 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 27 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 28 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 32 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 33 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 34 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 35 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 36 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 37 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 38 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 39 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 40 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 41 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 42 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
+| 43 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 44 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 45 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
+| 46 | [Grandal](http://twitter.com/search?q=Grandal) | N/A |
+| 47 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 48 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 49 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 50 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
 
 
 

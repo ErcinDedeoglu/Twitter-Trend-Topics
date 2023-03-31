@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-31 00:29:01 UTC`
+📆 Last Updated: `2023-03-31 01:44:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
+| 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 3 | [#begroting](http://twitter.com/search?q=%23begroting) | N/A |
 | 4 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
 | 5 | [#rabarber](http://twitter.com/search?q=%23rabarber) | N/A |
 | 6 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 7 | [will tura](http://twitter.com/search?q=will+tura) | N/A |
 | 8 | [Dominic](http://twitter.com/search?q=Dominic) | N/A |
-| 9 | [Oosterweel](http://twitter.com/search?q=Oosterweel) | N/A |
+| 9 | [oosterweel](http://twitter.com/search?q=oosterweel) | N/A |
 | 10 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
 | 11 | [zone 30](http://twitter.com/search?q=zone+30) | N/A |
 | 12 | [Pascal Smet](http://twitter.com/search?q=Pascal+Smet) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Belgium
 | 32 | [heynen](http://twitter.com/search?q=heynen) | N/A |
 | 33 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
 | 34 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
-| 35 | [de cuyper](http://twitter.com/search?q=de+cuyper) | N/A |
+| 35 | [De Cuyper](http://twitter.com/search?q=De+Cuyper) | N/A |
 | 36 | [fvdb](http://twitter.com/search?q=fvdb) | N/A |
 | 37 | [Rekenhof](http://twitter.com/search?q=Rekenhof) | N/A |
 | 38 | [Zuid](http://twitter.com/search?q=Zuid) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Belgium
 | 46 | [defensie](http://twitter.com/search?q=defensie) | N/A |
 | 47 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
 | 48 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 49 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 50 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
+| 49 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 50 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 
 
 

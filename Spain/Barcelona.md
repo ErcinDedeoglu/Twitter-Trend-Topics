@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-31 00:28:28 UTC`
+📆 Last Updated: `2023-03-31 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 2 | [#SVGala5](http://twitter.com/search?q=%23SVGala5) | N/A |
-| 3 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 1 | [#SVGala5](http://twitter.com/search?q=%23SVGala5) | N/A |
+| 2 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 3 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
 | 4 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 5 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 6 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
+| 5 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
+| 6 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
 | 7 | [#ChiringuitoMessi](http://twitter.com/search?q=%23ChiringuitoMessi) | N/A |
-| 8 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 11 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
-| 12 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 13 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 14 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
-| 15 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 16 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 17 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 8 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 9 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 12 | [#AsturiasArde](http://twitter.com/search?q=%23AsturiasArde) | N/A |
+| 13 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 14 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 15 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
+| 16 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 17 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
 | 18 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 19 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
-| 20 | [Alma Bollo](http://twitter.com/search?q=Alma+Bollo) | N/A |
-| 21 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 19 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 20 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
+| 21 | [Alma Bollo](http://twitter.com/search?q=Alma+Bollo) | N/A |
 | 22 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
 | 23 | [Cruzzi](http://twitter.com/search?q=Cruzzi) | N/A |
-| 24 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 25 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 26 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
-| 27 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 28 | [emilia](http://twitter.com/search?q=emilia) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
-| 31 | [Cichero](http://twitter.com/search?q=Cichero) | N/A |
-| 32 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 33 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
-| 34 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 35 | [Clint Eastwood](http://twitter.com/search?q=Clint+Eastwood) | N/A |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [La Fiscalía](http://twitter.com/search?q=La+Fiscal%c3%ada) | N/A |
-| 38 | [La 33](http://twitter.com/search?q=La+33) | N/A |
-| 39 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
-| 40 | [Prohibir](http://twitter.com/search?q=Prohibir) | N/A |
-| 41 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 42 | [Yung Beef](http://twitter.com/search?q=Yung+Beef) | N/A |
-| 43 | [GP de Australia](http://twitter.com/search?q=GP+de+Australia) | N/A |
-| 44 | [#AsturiasArde](http://twitter.com/search?q=%23AsturiasArde) | N/A |
-| 45 | [#FluzoAnimales](http://twitter.com/search?q=%23FluzoAnimales) | N/A |
-| 46 | [#ZooÀPunt](http://twitter.com/search?q=%23Zoo%c3%80Punt) | N/A |
-| 47 | [#LeleGuaynaaEH](http://twitter.com/search?q=%23LeleGuaynaaEH) | N/A |
-| 48 | [#E32023](http://twitter.com/search?q=%23E32023) | N/A |
-| 49 | [#integracionaitaner](http://twitter.com/search?q=%23integracionaitaner) | N/A |
-| 50 | [#ElCondensadorDeFluzo](http://twitter.com/search?q=%23ElCondensadorDeFluzo) | N/A |
+| 24 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 25 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 26 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 27 | [emilia](http://twitter.com/search?q=emilia) | N/A |
+| 28 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
+| 29 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 30 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 31 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [La 33](http://twitter.com/search?q=La+33) | N/A |
+| 34 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
+| 35 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
+| 36 | [#LeleGuaynaaEH](http://twitter.com/search?q=%23LeleGuaynaaEH) | N/A |
+| 37 | [#E32023](http://twitter.com/search?q=%23E32023) | N/A |
 
 
 

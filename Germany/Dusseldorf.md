@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-31 00:28:26 UTC`
+📆 Last Updated: `2023-03-31 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [#KingCharlesIII](http://twitter.com/search?q=%23KingCharlesIII) | N/A |
 | 7 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
 | 8 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 9 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 10 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 12 | [Elevator Boys](http://twitter.com/search?q=Elevator+Boys) | N/A |
-| 13 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 14 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 15 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
-| 16 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 17 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 18 | [Gamescom](http://twitter.com/search?q=Gamescom) | N/A |
-| 19 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
-| 20 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 21 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 22 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 24 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
-| 25 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 26 | [Sun Diego](http://twitter.com/search?q=Sun+Diego) | N/A |
-| 27 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 28 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
-| 29 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 30 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 9 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 10 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 11 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 12 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 13 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 14 | [Gamescom](http://twitter.com/search?q=Gamescom) | N/A |
+| 15 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 16 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 17 | [Sun Diego](http://twitter.com/search?q=Sun+Diego) | N/A |
+| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 19 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 20 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 21 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 23 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
+| 24 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 25 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 26 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
+| 27 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 28 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 29 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
+| 30 | [wada](http://twitter.com/search?q=wada) | N/A |
 | 31 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 32 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
-| 33 | [Wada](http://twitter.com/search?q=Wada) | N/A |
-| 34 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 35 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 36 | [Toten Hosen](http://twitter.com/search?q=Toten+Hosen) | N/A |
-| 37 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 38 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 39 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
-| 40 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 41 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 42 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 44 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 45 | [Staatsbankett](http://twitter.com/search?q=Staatsbankett) | N/A |
-| 46 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
-| 47 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 48 | [Briten](http://twitter.com/search?q=Briten) | N/A |
-| 49 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 50 | [c-probe](http://twitter.com/search?q=c-probe) | N/A |
+| 32 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 33 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 34 | [Toten Hosen](http://twitter.com/search?q=Toten+Hosen) | N/A |
+| 35 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 36 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 37 | [im radius von 15 gehminuten](http://twitter.com/search?q=im+radius+von+15+gehminuten) | N/A |
+| 38 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 39 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 40 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
+| 41 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
+| 42 | [Staatsbankett](http://twitter.com/search?q=Staatsbankett) | N/A |
+| 43 | [kinderehen](http://twitter.com/search?q=kinderehen) | N/A |
+| 44 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 45 | [Briten](http://twitter.com/search?q=Briten) | N/A |
+| 46 | [c-probe](http://twitter.com/search?q=c-probe) | N/A |
+| 47 | [schlichtung](http://twitter.com/search?q=schlichtung) | N/A |
+| 48 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 50 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
 
 
 

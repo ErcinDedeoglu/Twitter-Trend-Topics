@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-31 00:28:15 UTC`
+📆 Last Updated: `2023-03-31 01:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 2 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 3 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 4 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 2 | [#CeroImpunidad](http://twitter.com/search?q=%23CeroImpunidad) | N/A |
+| 3 | [#EsClaudia](http://twitter.com/search?q=%23EsClaudia) | #EsClaudia is a hashtag used to show support for Claudia Sheinbaum, the first female mayor of Mexico City. It is often used in social media posts to express admiration and solidarity with her. In English, it translates to "It's Claudia." |
+| 4 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
 | 5 | [#Jimin_ReComeback](http://twitter.com/search?q=%23Jimin_ReComeback) | N/A |
 | 6 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
-| 7 | [#IrregularidadesSEP](http://twitter.com/search?q=%23IrregularidadesSEP) | N/A |
-| 8 | [#enhorabuenacoches](http://twitter.com/search?q=%23enhorabuenacoches) | N/A |
-| 9 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 10 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 11 | [Chimalhuacán](http://twitter.com/search?q=Chimalhuac%c3%a1n) | Chimalhuacán is a city in the State of Mexico, Mexico. It is located in the eastern part of the state, about 25 miles northeast of Mexico City. The name Chimalhuacán comes from the Nahuatl language and means "place of the shield". |
-| 12 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 13 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 14 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 15 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
-| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 17 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 18 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 19 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 20 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 21 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 22 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 24 | [Carlos Vaca](http://twitter.com/search?q=Carlos+Vaca) | N/A |
-| 25 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 26 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 27 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 28 | [Diablos](http://twitter.com/search?q=Diablos) | N/A |
-| 29 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 30 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
-| 31 | [Línea 7](http://twitter.com/search?q=L%c3%adnea+7) | Línea 7 is a metro line in Madrid, Spain. It is the seventh line of the Madrid Metro network and runs from the northeast of the city to the southwest. In English, "Línea 7" translates to "Line 7". |
-| 32 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 33 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 34 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 35 | [Rosa Icela Rodríguez](http://twitter.com/search?q=Rosa+Icela+Rodr%c3%adguez) | N/A |
+| 7 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
+| 8 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 9 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 10 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
+| 11 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 12 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 14 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 15 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 17 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 18 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 19 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 20 | [Damm](http://twitter.com/search?q=Damm) | N/A |
+| 21 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 22 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 23 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 24 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 25 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 26 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
+| 27 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 28 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 29 | [Dairy Queen](http://twitter.com/search?q=Dairy+Queen) | N/A |
+| 30 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 31 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 32 | [Carlos Vaca](http://twitter.com/search?q=Carlos+Vaca) | N/A |
+| 33 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 34 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 35 | [Chimalhuacán](http://twitter.com/search?q=Chimalhuac%c3%a1n) | Chimalhuacán is a city in the State of Mexico, Mexico. It is located in the eastern part of the state, about 25 miles northeast of Mexico City. The name Chimalhuacán comes from the Nahuatl language and means "place of the shield". |
 | 36 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 37 | [Burak](http://twitter.com/search?q=Burak) | N/A |
-| 38 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
-| 39 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 40 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 37 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 38 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
+| 39 | [Línea 7](http://twitter.com/search?q=L%c3%adnea+7) | Línea 7 is a metro line in Madrid, Spain. It is the seventh line of the Madrid Metro network and runs from the northeast of the city to the southwest. In English, "Línea 7" translates to "Line 7". |
+| 40 | [Diablos](http://twitter.com/search?q=Diablos) | N/A |
 | 41 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 42 | [#ConDelfinaNiALaEsquina](http://twitter.com/search?q=%23ConDelfinaNiALaEsquina) | N/A |
-| 43 | [#CeroImpunidad](http://twitter.com/search?q=%23CeroImpunidad) | N/A |
-| 44 | [#E32023](http://twitter.com/search?q=%23E32023) | N/A |
-| 45 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 46 | [#Mexicable](http://twitter.com/search?q=%23Mexicable) | N/A |
-| 47 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 48 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 49 | [#TrabajadorasDelHogar](http://twitter.com/search?q=%23TrabajadorasDelHogar) | N/A |
-| 50 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 42 | [Rosa Icela Rodríguez](http://twitter.com/search?q=Rosa+Icela+Rodr%c3%adguez) | N/A |
+| 43 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 46 | [Burak](http://twitter.com/search?q=Burak) | N/A |
+| 47 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
+| 48 | [#ConDelfinaNiALaEsquina](http://twitter.com/search?q=%23ConDelfinaNiALaEsquina) | N/A |
+| 49 | [#EllasEnVix](http://twitter.com/search?q=%23EllasEnVix) | N/A |
+| 50 | [#enhorabuenacoches](http://twitter.com/search?q=%23enhorabuenacoches) | N/A |
 
 
 

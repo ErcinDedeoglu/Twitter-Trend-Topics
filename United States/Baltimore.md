@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-31 00:28:52 UTC`
+📆 Last Updated: `2023-03-31 01:44:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 2 | [#Birdland](http://twitter.com/search?q=%23Birdland) | N/A |
-| 3 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 4 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 5 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 6 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 7 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 8 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 9 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 10 | [#AskSNB](http://twitter.com/search?q=%23AskSNB) | N/A |
-| 11 | [#Bloodsport9](http://twitter.com/search?q=%23Bloodsport9) | N/A |
-| 12 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 13 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 14 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 15 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 16 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 17 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 18 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 19 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 20 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 22 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 23 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 25 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 26 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 27 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 28 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 29 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 30 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 31 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
-| 32 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 33 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 34 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
-| 35 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 36 | [Soros-backed](http://twitter.com/search?q=Soros-backed) | N/A |
-| 37 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 38 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 39 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 40 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
-| 41 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 42 | [Mr. Bragg](http://twitter.com/search?q=Mr.+Bragg) | N/A |
-| 43 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
-| 44 | [Helsley](http://twitter.com/search?q=Helsley) | N/A |
-| 45 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
-| 46 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 47 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 48 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
-| 49 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
-| 50 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
+| 1 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 2 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 3 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 4 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 5 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 8 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 9 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 10 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 11 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 12 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 14 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 16 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
+| 17 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 18 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 19 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 20 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 21 | [#Bloodsport9](http://twitter.com/search?q=%23Bloodsport9) | N/A |
+| 22 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 23 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
+| 24 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 25 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 26 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
+| 27 | [Grandal](http://twitter.com/search?q=Grandal) | N/A |
+| 28 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 29 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 30 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 31 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
+| 32 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 33 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 34 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 35 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 36 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 37 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 38 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 40 | [Aaron Bummer](http://twitter.com/search?q=Aaron+Bummer) | N/A |
+| 41 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 42 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 43 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 44 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 45 | [Soros-backed](http://twitter.com/search?q=Soros-backed) | N/A |
+| 46 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 47 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Kate Mager](http://twitter.com/search?q=Kate+Mager) | N/A |
+| 50 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
 
 
 

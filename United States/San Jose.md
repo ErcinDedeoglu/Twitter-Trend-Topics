@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-31 00:28:59 UTC`
+📆 Last Updated: `2023-03-31 01:44:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
-| 4 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 5 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 6 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
-| 7 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 8 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 9 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 10 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 11 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 12 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 13 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 14 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 15 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 16 | [Go Padres](http://twitter.com/search?q=Go+Padres) | N/A |
-| 17 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 18 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 19 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 20 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 21 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 22 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 23 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 25 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 26 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 27 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 28 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 30 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 31 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 33 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 34 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 37 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 38 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 39 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 40 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 41 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 42 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 43 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 44 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 45 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
-| 46 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 47 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 48 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
-| 49 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 1 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 2 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 4 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
+| 5 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 6 | [The American](http://twitter.com/search?q=The+American) | N/A |
+| 7 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 8 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 9 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 10 | [#Padres](http://twitter.com/search?q=%23Padres) | N/A |
+| 11 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 12 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 13 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 14 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
+| 15 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 16 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 17 | [#SDOpeningDay](http://twitter.com/search?q=%23SDOpeningDay) | N/A |
+| 18 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 19 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 20 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 21 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 22 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 23 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 24 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 25 | [The Democrats](http://twitter.com/search?q=The+Democrats) | N/A |
+| 26 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 27 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 28 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 29 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 30 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
+| 31 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 32 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 33 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 34 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 35 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 36 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 37 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 38 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 39 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 40 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 41 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 42 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 43 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 44 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 45 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 46 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 47 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 48 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 49 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
 
 
 

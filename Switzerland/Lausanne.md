@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-31 00:28:30 UTC`
+📆 Last Updated: `2023-03-31 01:44:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
 | 3 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 5 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
-| 6 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
-| 7 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 8 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 9 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 12 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 13 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 14 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 15 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 16 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 18 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 19 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 20 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 21 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 24 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 25 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 29 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
-| 30 | [Osten](http://twitter.com/search?q=Osten) | N/A |
-| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 32 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 33 | [bundesgericht](http://twitter.com/search?q=bundesgericht) | N/A |
-| 34 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
-| 35 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 36 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 37 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 38 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 39 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
-| 40 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 41 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 42 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 43 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
-| 44 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 45 | [st. gallen](http://twitter.com/search?q=st.+gallen) | N/A |
-| 46 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 47 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 48 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 5 | [#ehcbzsc](http://twitter.com/search?q=%23ehcbzsc) | N/A |
+| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 7 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 8 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 9 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 10 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 11 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 12 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 13 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 14 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 15 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 16 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 17 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 18 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 20 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 22 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 23 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 24 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 27 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 30 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 31 | [rentenalter](http://twitter.com/search?q=rentenalter) | N/A |
+| 32 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 33 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 34 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 35 | [bundesgericht](http://twitter.com/search?q=bundesgericht) | N/A |
+| 36 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 37 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 38 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 39 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
+| 40 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 41 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 42 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 43 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 44 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 45 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
+| 46 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 47 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
 
 
 
