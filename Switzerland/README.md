@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-31 07:18:22 UTC`
+📆 Last Updated: `2023-03-31 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 2 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 5 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 6 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
 | 7 | [#rfsd2023](http://twitter.com/search?q=%23rfsd2023) | N/A |
-| 8 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
-| 9 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 10 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 11 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 12 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 13 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 14 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
-| 15 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 18 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 19 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
-| 20 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 21 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 22 | [Verhalten](http://twitter.com/search?q=Verhalten) | N/A |
-| 23 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 24 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
-| 25 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
-| 26 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 27 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
-| 28 | [st. gallen](http://twitter.com/search?q=st.+gallen) | N/A |
-| 29 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 30 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 31 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 32 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 33 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 34 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 35 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 36 | [bundesgericht](http://twitter.com/search?q=bundesgericht) | N/A |
-| 37 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 38 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 39 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 40 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 41 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 43 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
-| 44 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 45 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 46 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 49 | [Erkenntnisse](http://twitter.com/search?q=Erkenntnisse) | N/A |
-| 50 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 8 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 9 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 10 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 13 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 14 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 15 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 16 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
+| 17 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
+| 18 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 19 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 20 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 21 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 22 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 23 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 24 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 25 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 26 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 27 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 28 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 29 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 30 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 31 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 32 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 33 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 35 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 36 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 37 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 40 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 41 | [schritt](http://twitter.com/search?q=schritt) | N/A |
+| 42 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 43 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 44 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 45 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
+| 46 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
+| 49 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 50 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
 
 
 

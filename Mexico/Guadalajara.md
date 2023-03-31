@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-31 07:17:18 UTC`
+📆 Last Updated: `2023-03-31 08:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 2 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 3 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 4 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 5 | [#DDHLOL](http://twitter.com/search?q=%23DDHLOL) | N/A |
-| 6 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 7 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 9 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 10 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 11 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 13 | [Matty Healy](http://twitter.com/search?q=Matty+Healy) | N/A |
-| 14 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 15 | [Portals](http://twitter.com/search?q=Portals) | N/A |
-| 16 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
-| 17 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 1 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
+| 2 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 3 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 4 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 5 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 6 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 7 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 8 | [#DDHLOL](http://twitter.com/search?q=%23DDHLOL) | N/A |
+| 9 | [#ConsejerosINE](http://twitter.com/search?q=%23ConsejerosINE) | N/A |
+| 10 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 11 | [Matty Healy](http://twitter.com/search?q=Matty+Healy) | N/A |
+| 12 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 13 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 14 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 15 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
+| 16 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 17 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
 | 18 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 19 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 21 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 22 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 23 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 24 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
-| 25 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 26 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 27 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 28 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 29 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 19 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 20 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 21 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 22 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 23 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 24 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 25 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 26 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 27 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
+| 28 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 29 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
 | 30 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 32 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 33 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 31 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 32 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 33 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
 | 34 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 35 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 36 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 37 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 38 | [Enrique Vargas](http://twitter.com/search?q=Enrique+Vargas) | N/A |
-| 39 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 40 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 41 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 42 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 43 | [#TrustIssues](http://twitter.com/search?q=%23TrustIssues) | N/A |
-| 44 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
-| 45 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 46 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
-| 47 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 48 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
-| 49 | [#MiPatrimonioNoSeVende](http://twitter.com/search?q=%23MiPatrimonioNoSeVende) | N/A |
-| 50 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 35 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
+| 36 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
+| 37 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
+| 38 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 39 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 40 | [#TrustIssues](http://twitter.com/search?q=%23TrustIssues) | N/A |
+| 41 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 42 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 43 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 44 | [#3de3](http://twitter.com/search?q=%233de3) | N/A |
 
 
 

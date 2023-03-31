@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-31 07:18:11 UTC`
+📆 Last Updated: `2023-03-31 08:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 3 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 4 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 5 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 | 6 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
 | 7 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 8 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 9 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 10 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 8 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 9 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 11 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
 | 12 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 13 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 14 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 13 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 14 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 15 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 16 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 17 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 18 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 19 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 20 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 16 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 17 | [JAMES OUTMAN](http://twitter.com/search?q=JAMES+OUTMAN) | N/A |
+| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 19 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 20 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
 | 21 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 22 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 23 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 24 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 25 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 26 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 27 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 28 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 29 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 30 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 31 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
-| 32 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 33 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 34 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 35 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 36 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 37 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
-| 38 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 39 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 40 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 41 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 42 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 22 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 23 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 24 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 25 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 26 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 27 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 28 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 29 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 30 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 31 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 32 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 33 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 35 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 36 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 37 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 38 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 39 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 40 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 41 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
+| 42 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
 | 43 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 44 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 45 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
-| 46 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 47 | [Moon Cycle](http://twitter.com/search?q=Moon+Cycle) | N/A |
-| 48 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 44 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 45 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 46 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 47 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
+| 48 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
 
 
 

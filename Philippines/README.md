@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-31 07:18:21 UTC`
+📆 Last Updated: `2023-03-31 08:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 4 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 5 | [#UnbreakMyHeart](http://twitter.com/search?q=%23UnbreakMyHeart) | N/A |
-| 6 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
-| 7 | [#VPCoverBarbieForteza](http://twitter.com/search?q=%23VPCoverBarbieForteza) | N/A |
-| 8 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
-| 9 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 10 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
-| 11 | [JOCHARD UMH TEASER](http://twitter.com/search?q=JOCHARD+UMH+TEASER) | N/A |
-| 12 | [Vice Ganda](http://twitter.com/search?q=Vice+Ganda) | N/A |
-| 13 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
-| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 15 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 16 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 17 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
-| 18 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 19 | [#UMHTeaser1](http://twitter.com/search?q=%23UMHTeaser1) | N/A |
-| 20 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 21 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 22 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 23 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
-| 24 | [#UnkabogableAt47](http://twitter.com/search?q=%23UnkabogableAt47) | N/A |
-| 25 | [#HENDERYOXECUREFAMILY](http://twitter.com/search?q=%23HENDERYOXECUREFAMILY) | N/A |
-| 26 | [#HENDERYxOxecurePH](http://twitter.com/search?q=%23HENDERYxOxecurePH) | N/A |
-| 27 | [#BOYCOTTEBxAPTxGMA751](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA751) | N/A |
-| 28 | [#HORI7ON_KYLER](http://twitter.com/search?q=%23HORI7ON_KYLER) | N/A |
-| 29 | [#블랙핑크](http://twitter.com/search?q=%23%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac) | N/A |
-| 30 | [#SonYeJin](http://twitter.com/search?q=%23SonYeJin) | N/A |
-| 31 | [#BinJin](http://twitter.com/search?q=%23BinJin) | N/A |
-| 32 | [#HyunBin](http://twitter.com/search?q=%23HyunBin) | N/A |
-| 33 | [#PLUUSMiniAlbumRelease](http://twitter.com/search?q=%23PLUUSMiniAlbumRelease) | N/A |
-| 34 | [#ShopeeKPerks](http://twitter.com/search?q=%23ShopeeKPerks) | N/A |
-| 35 | [#PLUUS_TYM](http://twitter.com/search?q=%23PLUUS_TYM) | N/A |
+| 2 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 3 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
+| 4 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 5 | [#pvlfinalsgame3](http://twitter.com/search?q=%23pvlfinalsgame3) | N/A |
+| 6 | [#AMarBELLEousMagicalNight](http://twitter.com/search?q=%23AMarBELLEousMagicalNight) | N/A |
+| 7 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
+| 8 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 9 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
+| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 11 | [SOMI](http://twitter.com/search?q=SOMI) | N/A |
+| 12 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
+| 13 | [vpca back2back kd](http://twitter.com/search?q=vpca+back2back+kd) | N/A |
+| 14 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 15 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 16 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 17 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 18 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
+| 19 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
+| 20 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 21 | [belleloom atthesheinshowroom](http://twitter.com/search?q=belleloom+atthesheinshowroom) | N/A |
+| 22 | [do it like donbelle](http://twitter.com/search?q=do+it+like+donbelle) | N/A |
+| 23 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 24 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 25 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
+| 26 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 27 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 28 | [WhenIMetCASSREN InTokyo](http://twitter.com/search?q=WhenIMetCASSREN+InTokyo) | N/A |
+| 29 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
+| 30 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
+| 31 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 32 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
+| 33 | [bgyo on 4th vpcawards](http://twitter.com/search?q=bgyo+on+4th+vpcawards) | N/A |
+| 34 | [GAYUMA PERFORMANCE OUTNOW](http://twitter.com/search?q=GAYUMA+PERFORMANCE+OUTNOW) | N/A |
+| 35 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 36 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
+| 37 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
+| 38 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 39 | [CELINE BOY TAEHYUNG](http://twitter.com/search?q=CELINE+BOY+TAEHYUNG) | N/A |
+| 40 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 41 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 42 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 43 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 44 | [anjbrentjeweled on smprom](http://twitter.com/search?q=anjbrentjeweled+on+smprom) | N/A |
+| 45 | [star king kim](http://twitter.com/search?q=star+king+kim) | N/A |
+| 46 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
+| 47 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 48 | [Happy VGful Day](http://twitter.com/search?q=Happy+VGful+Day) | N/A |
+| 49 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
+| 50 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 
 
 

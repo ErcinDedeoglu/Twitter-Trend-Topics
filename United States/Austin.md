@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-31 07:18:03 UTC`
+📆 Last Updated: `2023-03-31 08:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Grant McCasland](http://twitter.com/search?q=Grant+McCasland) | N/A |
 | 2 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
 | 3 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 4 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 5 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 6 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 7 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 10 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 12 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 13 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 14 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 15 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 16 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 17 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 18 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 20 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 21 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 22 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 23 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 24 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 25 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 26 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 27 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 29 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 30 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 31 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 32 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 33 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 4 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 6 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 7 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 8 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 9 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 10 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 12 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 13 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 14 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 15 | [#GCWFTC](http://twitter.com/search?q=%23GCWFTC) | N/A |
+| 16 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 17 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 18 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 19 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 20 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 22 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 23 | [JAMES OUTMAN](http://twitter.com/search?q=JAMES+OUTMAN) | N/A |
+| 24 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 25 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 26 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 27 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 28 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 29 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 30 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 31 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 32 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 33 | [Redman](http://twitter.com/search?q=Redman) | N/A |
 | 34 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 35 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 36 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 37 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 38 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 39 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 40 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
-| 41 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 42 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 43 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 44 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 45 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 46 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
-| 47 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 48 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 49 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 50 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 35 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 36 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 37 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 38 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 39 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 41 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 42 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 43 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 44 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 45 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 46 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 47 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
+| 48 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 49 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 50 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-31 07:18:20 UTC`
+📆 Last Updated: `2023-03-31 08:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Netherlands
 | 4 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 6 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 7 | [#vanderwal](http://twitter.com/search?q=%23vanderwal) | N/A |
-| 8 | [#SarOut](http://twitter.com/search?q=%23SarOut) | N/A |
-| 9 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
-| 10 | [#NEXIT](http://twitter.com/search?q=%23NEXIT) | N/A |
-| 11 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 12 | [Overmars](http://twitter.com/search?q=Overmars) | N/A |
-| 13 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
-| 14 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
-| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 16 | [Inflatie](http://twitter.com/search?q=Inflatie) | N/A |
-| 17 | [Duitser](http://twitter.com/search?q=Duitser) | N/A |
-| 18 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 19 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 20 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
-| 21 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 22 | [Straatsburg](http://twitter.com/search?q=Straatsburg) | N/A |
-| 23 | [Natas](http://twitter.com/search?q=Natas) | N/A |
-| 24 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 25 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
-| 26 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
+| 7 | [Overmars](http://twitter.com/search?q=Overmars) | N/A |
+| 8 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 9 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
+| 10 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
+| 11 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 12 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
+| 13 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 14 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
+| 15 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 16 | [Straatsburg](http://twitter.com/search?q=Straatsburg) | N/A |
+| 17 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
+| 18 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 19 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 20 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
+| 21 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 23 | [Hoek van Holland](http://twitter.com/search?q=Hoek+van+Holland) | N/A |
+| 24 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 25 | [Witte](http://twitter.com/search?q=Witte) | N/A |
+| 26 | [Apache](http://twitter.com/search?q=Apache) | N/A |
 | 27 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
 | 28 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
 | 29 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
-| 30 | [Witte](http://twitter.com/search?q=Witte) | N/A |
-| 31 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
-| 32 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 33 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
-| 34 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
-| 35 | [aïcha marghadi](http://twitter.com/search?q=a%c3%afcha+marghadi) | N/A |
-| 36 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 37 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
-| 38 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 39 | [Treets](http://twitter.com/search?q=Treets) | N/A |
-| 40 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 41 | [0% btw](http://twitter.com/search?q=0%25+btw) | N/A |
-| 42 | [Havo](http://twitter.com/search?q=Havo) | N/A |
-| 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 44 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 45 | [Pieter](http://twitter.com/search?q=Pieter) | N/A |
-| 46 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 47 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 48 | [van gelder](http://twitter.com/search?q=van+gelder) | N/A |
-| 49 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 50 | [hiemstra](http://twitter.com/search?q=hiemstra) | N/A |
+| 30 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
+| 31 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 32 | [Inflatie](http://twitter.com/search?q=Inflatie) | N/A |
+| 33 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 34 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
+| 35 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 36 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 37 | [Treets](http://twitter.com/search?q=Treets) | N/A |
+| 38 | [Havo](http://twitter.com/search?q=Havo) | N/A |
+| 39 | [Sinkevicius](http://twitter.com/search?q=Sinkevicius) | N/A |
+| 40 | [Duitser](http://twitter.com/search?q=Duitser) | N/A |
+| 41 | [Pieter](http://twitter.com/search?q=Pieter) | N/A |
+| 42 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 43 | [0% btw](http://twitter.com/search?q=0%25+btw) | N/A |
+| 44 | [BBB-leider Van der Plas](http://twitter.com/search?q=BBB-leider+Van+der+Plas) | N/A |
+| 45 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 46 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 47 | [van gelder](http://twitter.com/search?q=van+gelder) | N/A |
+| 48 | [hiemstra](http://twitter.com/search?q=hiemstra) | N/A |
+| 49 | [Ondankbaar](http://twitter.com/search?q=Ondankbaar) | N/A |
+| 50 | [Guus Meeuwis](http://twitter.com/search?q=Guus+Meeuwis) | N/A |
 
 
 
