@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-31 22:16:17 UTC`
+📆 Last Updated: `2023-03-31 23:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 2 | [#NSL2023](http://twitter.com/search?q=%23NSL2023) | N/A |
-| 3 | [#stockportcounty](http://twitter.com/search?q=%23stockportcounty) | N/A |
-| 4 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 5 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 6 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 7 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 8 | [Matty Harris](http://twitter.com/search?q=Matty+Harris) | N/A |
-| 9 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
-| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
-| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
-| 15 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 16 | [Jasper Wiese](http://twitter.com/search?q=Jasper+Wiese) | N/A |
-| 17 | [Hooley](http://twitter.com/search?q=Hooley) | N/A |
-| 18 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 19 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 20 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 21 | [Abdull](http://twitter.com/search?q=Abdull) | N/A |
-| 22 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 23 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
-| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 25 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 26 | [Brownhill](http://twitter.com/search?q=Brownhill) | N/A |
-| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 28 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 29 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
-| 30 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 32 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 33 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
-| 34 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
-| 35 | [Tony Mowbray](http://twitter.com/search?q=Tony+Mowbray) | N/A |
-| 36 | [Ballymena](http://twitter.com/search?q=Ballymena) | N/A |
-| 37 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 38 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 39 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 40 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 41 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 42 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
-| 43 | [Effectively](http://twitter.com/search?q=Effectively) | N/A |
-| 44 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 45 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
-| 46 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
-| 47 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 48 | [Hull KR](http://twitter.com/search?q=Hull+KR) | N/A |
-| 49 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 1 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 2 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 5 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 6 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 7 | [#LabourLosingWomen](http://twitter.com/search?q=%23LabourLosingWomen) | N/A |
+| 8 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 9 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
+| 10 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 11 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
+| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Spin Doctors](http://twitter.com/search?q=Spin+Doctors) | N/A |
+| 17 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
+| 18 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 19 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
+| 20 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
+| 21 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 22 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
+| 23 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 24 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
+| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 26 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 27 | [Manics](http://twitter.com/search?q=Manics) | N/A |
+| 28 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 29 | [Dara](http://twitter.com/search?q=Dara) | N/A |
+| 30 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
+| 31 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 32 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
+| 33 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
+| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 35 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 36 | [Vaughan](http://twitter.com/search?q=Vaughan) | N/A |
+| 37 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 38 | [Fabio Paratici](http://twitter.com/search?q=Fabio+Paratici) | N/A |
+| 39 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
+| 40 | [Spring Term](http://twitter.com/search?q=Spring+Term) | N/A |
+| 41 | [Pasg Hapus](http://twitter.com/search?q=Pasg+Hapus) | N/A |
+| 42 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 43 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
+| 44 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 45 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
+| 46 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
+| 47 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 48 | [Kemi Badenoch](http://twitter.com/search?q=Kemi+Badenoch) | N/A |
+| 49 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
 
 
 

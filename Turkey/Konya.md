@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-31 22:16:53 UTC`
+📆 Last Updated: `2023-03-31 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
 | 2 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
-| 3 | [#araseçim](http://twitter.com/search?q=%23arase%c3%a7im) | N/A |
-| 4 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
-| 5 | [Hasan Karaman](http://twitter.com/search?q=Hasan+Karaman) | N/A |
-| 6 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 3 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 4 | [#araseçim](http://twitter.com/search?q=%23arase%c3%a7im) | N/A |
+| 5 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 6 | [Hasan Karaman](http://twitter.com/search?q=Hasan+Karaman) | N/A |
 | 7 | [#TeşvikDeğilTekKalemMaaş](http://twitter.com/search?q=%23Te%c5%9fvikDe%c4%9filTekKalemMaa%c5%9f) | N/A |
-| 8 | [GSBtayinBekliyor](http://twitter.com/search?q=GSBtayinBekliyor) | N/A |
+| 8 | [gsbtayinbekliyor](http://twitter.com/search?q=gsbtayinbekliyor) | N/A |
 | 9 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
-| 10 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
-| 11 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 10 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 11 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
 | 12 | [İİBFkadrosuz SandıkOysuz](http://twitter.com/search?q=%c4%b0%c4%b0BFkadrosuz+Sand%c4%b1kOysuz) | N/A |
-| 13 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 14 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
-| 15 | [ÜlkeTv Taşeronusor](http://twitter.com/search?q=%c3%9clkeTv+Ta%c5%9feronusor) | N/A |
-| 16 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 13 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 14 | [ÜlkeTv Taşeronusor](http://twitter.com/search?q=%c3%9clkeTv+Ta%c5%9feronusor) | N/A |
+| 15 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 16 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
 | 17 | [Milletin İKTİDARINDA](http://twitter.com/search?q=Milletin+%c4%b0KT%c4%b0DARINDA) | N/A |
-| 18 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
-| 19 | [MuratDilmenerin SesiniDuy](http://twitter.com/search?q=MuratDilmenerin+SesiniDuy) | N/A |
-| 20 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 21 | [Yedili Masanın Yalanı](http://twitter.com/search?q=Yedili+Masan%c4%b1n+Yalan%c4%b1) | N/A |
-| 22 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
-| 23 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 24 | [Biricik](http://twitter.com/search?q=Biricik) | N/A |
-| 25 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 26 | [Suna](http://twitter.com/search?q=Suna) | N/A |
-| 27 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
-| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 29 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 30 | [Fail](http://twitter.com/search?q=Fail) | N/A |
-| 31 | [Olayın](http://twitter.com/search?q=Olay%c4%b1n) | N/A |
-| 32 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 33 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 34 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 35 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 36 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
-| 37 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
-| 38 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 39 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
-| 40 | [Saldırı](http://twitter.com/search?q=Sald%c4%b1r%c4%b1) | N/A |
-| 41 | [Tesadüfe](http://twitter.com/search?q=Tesad%c3%bcfe) | N/A |
-| 42 | [Güvenlik](http://twitter.com/search?q=G%c3%bcvenlik) | N/A |
-| 43 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 44 | [Havaya](http://twitter.com/search?q=Havaya) | Havaya is a Hebrew word meaning "existence" or "being." It is often used to refer to the divine presence of God in the world. |
-| 45 | [Şahlanış Yüzyılı](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 46 | [Türk Polisi](http://twitter.com/search?q=T%c3%bcrk+Polisi) | N/A |
-| 47 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 18 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 19 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
+| 20 | [MuratDilmenerin SesiniDuy](http://twitter.com/search?q=MuratDilmenerin+SesiniDuy) | N/A |
+| 21 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 22 | [Suna](http://twitter.com/search?q=Suna) | N/A |
+| 23 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
+| 24 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 25 | [Yedili Masanın Yalanı](http://twitter.com/search?q=Yedili+Masan%c4%b1n+Yalan%c4%b1) | N/A |
+| 26 | [ERDOĞAN DA BİRLEŞELİM](http://twitter.com/search?q=ERDO%c4%9eAN+DA+B%c4%b0RLE%c5%9eEL%c4%b0M) | N/A |
+| 27 | [Tarık](http://twitter.com/search?q=Tar%c4%b1k) | N/A |
+| 28 | [Biricik](http://twitter.com/search?q=Biricik) | N/A |
+| 29 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 30 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 31 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
+| 32 | [Avrupa Yakası](http://twitter.com/search?q=Avrupa+Yakas%c4%b1) | N/A |
+| 33 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 34 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 35 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 36 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
+| 37 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
+| 38 | [Fail](http://twitter.com/search?q=Fail) | N/A |
+| 39 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
+| 40 | [Olayın](http://twitter.com/search?q=Olay%c4%b1n) | N/A |
+| 41 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 42 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 43 | [Güvenlik](http://twitter.com/search?q=G%c3%bcvenlik) | N/A |
+| 44 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
+| 45 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 46 | [Saldırı](http://twitter.com/search?q=Sald%c4%b1r%c4%b1) | N/A |
+| 47 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
 | 48 | [Silah](http://twitter.com/search?q=Silah) | N/A |
 
 

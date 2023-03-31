@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-31 22:16:28 UTC`
+📆 Last Updated: `2023-03-31 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
-| 2 | [#LeGrandConcours](http://twitter.com/search?q=%23LeGrandConcours) | N/A |
+| 2 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 | 3 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 4 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 5 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
-| 6 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 7 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 8 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 9 | [Khazri](http://twitter.com/search?q=Khazri) | N/A |
-| 10 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 11 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
-| 12 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
-| 13 | [Sakho](http://twitter.com/search?q=Sakho) | N/A |
-| 14 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 15 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 16 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 17 | [Germain](http://twitter.com/search?q=Germain) | N/A |
-| 18 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 19 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 20 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
-| 21 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 4 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 5 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 6 | [Sakho](http://twitter.com/search?q=Sakho) | N/A |
+| 7 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
+| 8 | [Khazri](http://twitter.com/search?q=Khazri) | N/A |
+| 9 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 11 | [#Legrandconcours](http://twitter.com/search?q=%23Legrandconcours) | N/A |
+| 12 | [Marlène Schiappa](http://twitter.com/search?q=Marl%c3%a8ne+Schiappa) | N/A |
+| 13 | [Wahi](http://twitter.com/search?q=Wahi) | N/A |
+| 14 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 15 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 16 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
+| 17 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 18 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 19 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 20 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 21 | [Zoelys](http://twitter.com/search?q=Zoelys) | N/A |
 | 22 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 23 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 24 | [FLNC](http://twitter.com/search?q=FLNC) | N/A |
-| 25 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 26 | [Wahi](http://twitter.com/search?q=Wahi) | N/A |
-| 27 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 28 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 29 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
-| 30 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 31 | [Sully](http://twitter.com/search?q=Sully) | N/A |
-| 32 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 33 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 35 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 36 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 37 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 38 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 39 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 40 | [Savanier](http://twitter.com/search?q=Savanier) | N/A |
-| 41 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
-| 42 | [Rouillan](http://twitter.com/search?q=Rouillan) | N/A |
-| 43 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
-| 44 | [Une de Playboy](http://twitter.com/search?q=Une+de+Playboy) | N/A |
-| 45 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 46 | [Groland](http://twitter.com/search?q=Groland) | N/A |
-| 47 | [Farouk](http://twitter.com/search?q=Farouk) | N/A |
-| 48 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 23 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 24 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
+| 25 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 26 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 27 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 28 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 29 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 30 | [Savanier](http://twitter.com/search?q=Savanier) | N/A |
+| 31 | [Rouillan](http://twitter.com/search?q=Rouillan) | N/A |
+| 32 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 33 | [Après Macron](http://twitter.com/search?q=Apr%c3%a8s+Macron) | N/A |
+| 34 | [Une de Playboy](http://twitter.com/search?q=Une+de+Playboy) | N/A |
+| 35 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
+| 36 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 37 | [Wargon](http://twitter.com/search?q=Wargon) | N/A |
+| 38 | [Amine](http://twitter.com/search?q=Amine) | N/A |
+| 39 | [Groland](http://twitter.com/search?q=Groland) | N/A |
+| 40 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 41 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
+| 42 | [Xbox Series](http://twitter.com/search?q=Xbox+Series) | N/A |
+| 43 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 44 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 45 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 46 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 47 | [Binet](http://twitter.com/search?q=Binet) | N/A |
+| 48 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 49 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
 
 
 

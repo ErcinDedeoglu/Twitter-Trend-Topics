@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-31 22:17:06 UTC`
+📆 Last Updated: `2023-03-31 23:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jūrmalā](http://twitter.com/search?q=j%c5%abrmal%c4%81) | N/A |
-| 2 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
-| 3 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 4 | [satekles](http://twitter.com/search?q=satekles) | N/A |
+| 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 2 | [jūrmalā](http://twitter.com/search?q=j%c5%abrmal%c4%81) | N/A |
+| 3 | [satekles](http://twitter.com/search?q=satekles) | N/A |
+| 4 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 6 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
-| 7 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
-| 8 | [delfi](http://twitter.com/search?q=delfi) | N/A |
-| 9 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
-| 12 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 13 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
-| 14 | [CSDD](http://twitter.com/search?q=CSDD) | N/A |
-| 15 | [turies](http://twitter.com/search?q=turies) | N/A |
-| 16 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 17 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 18 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 19 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 20 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 21 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 22 | [francijā](http://twitter.com/search?q=francij%c4%81) | N/A |
-| 23 | [saeima](http://twitter.com/search?q=saeima) | N/A |
-| 24 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
-| 25 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 26 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 27 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 28 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 29 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
-| 30 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 31 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
-| 32 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
-| 33 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 34 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 35 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 36 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 37 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 38 | [Protams](http://twitter.com/search?q=Protams) | N/A |
-| 39 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 6 | [CSDD](http://twitter.com/search?q=CSDD) | N/A |
+| 7 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
+| 8 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 11 | [No 1](http://twitter.com/search?q=No+1) | N/A |
+| 12 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
+| 13 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 14 | [turies](http://twitter.com/search?q=turies) | N/A |
+| 15 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
+| 16 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 17 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 18 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
+| 19 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 20 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 21 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
+| 22 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 23 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
+| 24 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 25 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
+| 26 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 27 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 28 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
+| 31 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
+| 32 | [#WeAreNATO](http://twitter.com/search?q=%23WeAreNATO) | N/A |
+| 33 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 34 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 35 | [Francijā](http://twitter.com/search?q=Francij%c4%81) | N/A |
+| 36 | [saeima](http://twitter.com/search?q=saeima) | N/A |
+| 37 | [Zviedrijā](http://twitter.com/search?q=Zviedrij%c4%81) | N/A |
+| 38 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 39 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 40 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
 | 41 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 42 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 43 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 44 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
-| 45 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 46 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
-| 47 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 48 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
-| 49 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 50 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 42 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 43 | [varam](http://twitter.com/search?q=varam) | N/A |
+| 44 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 45 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
+| 46 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 47 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 48 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 50 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
 
 
 

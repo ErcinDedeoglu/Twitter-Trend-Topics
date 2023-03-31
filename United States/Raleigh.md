@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-31 22:17:00 UTC`
+📆 Last Updated: `2023-03-31 23:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 | 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 4 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 6 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 9 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 10 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 11 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 13 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 11 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 12 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
 | 14 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 15 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 16 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 18 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 15 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 16 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 18 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 19 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
 | 20 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 21 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 22 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 23 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 24 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 25 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 26 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 27 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 28 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 29 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 30 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 31 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 32 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 33 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 34 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 35 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 36 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 37 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 38 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 39 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 40 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 41 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 42 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 43 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
-| 44 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
-| 45 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 46 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 21 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 22 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 24 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 26 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 27 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 28 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 29 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 30 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 31 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 32 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 33 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 34 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 35 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 36 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 37 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 38 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 39 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 40 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 41 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 42 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
+| 43 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
+| 44 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 45 | [Gurley](http://twitter.com/search?q=Gurley) | N/A |
+| 46 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
 | 47 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 48 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 48 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-31 22:16:24 UTC`
+📆 Last Updated: `2023-03-31 23:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 3 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 4 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 5 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 6 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 7 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 8 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 9 | [#ADona079](http://twitter.com/search?q=%23ADona079) | N/A |
-| 10 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 11 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 12 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 13 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 14 | [Maia Kealoha](http://twitter.com/search?q=Maia+Kealoha) | N/A |
-| 15 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 16 | [Obrigado Fluminense](http://twitter.com/search?q=Obrigado+Fluminense) | N/A |
-| 17 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 18 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 19 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 20 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 21 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
-| 22 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 24 | [Rwan Cruz](http://twitter.com/search?q=Rwan+Cruz) | N/A |
-| 25 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 26 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 27 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 28 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
-| 29 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 30 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 31 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
+| 2 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 4 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 5 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
+| 6 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 7 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 8 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 9 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 10 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 11 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 12 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 13 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 14 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 15 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 16 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 17 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
+| 18 | [Maia Kealoha](http://twitter.com/search?q=Maia+Kealoha) | N/A |
+| 19 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
+| 20 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 21 | [Obrigado Fluminense](http://twitter.com/search?q=Obrigado+Fluminense) | N/A |
+| 22 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 23 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 24 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
+| 25 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 26 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 27 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 28 | [FULANO](http://twitter.com/search?q=FULANO) | N/A |
+| 29 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
+| 30 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 31 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
 | 32 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 33 | [Raio](http://twitter.com/search?q=Raio) | N/A |
-| 34 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 35 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 36 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
-| 37 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 38 | [Rodrigo Battaglia](http://twitter.com/search?q=Rodrigo+Battaglia) | N/A |
-| 39 | [Esse Papa](http://twitter.com/search?q=Esse+Papa) | N/A |
-| 40 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 41 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 42 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 43 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 44 | [Força Alface](http://twitter.com/search?q=For%c3%a7a+Alface) | N/A |
-| 45 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 46 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 47 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 48 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 49 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 50 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 34 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
+| 35 | [O Lui](http://twitter.com/search?q=O+Lui) | N/A |
+| 36 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 37 | [Rwan Cruz](http://twitter.com/search?q=Rwan+Cruz) | N/A |
+| 38 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
+| 39 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 40 | [Neide](http://twitter.com/search?q=Neide) | N/A |
+| 41 | [Camilo Santana](http://twitter.com/search?q=Camilo+Santana) | N/A |
+| 42 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 43 | [Raio](http://twitter.com/search?q=Raio) | N/A |
+| 44 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 45 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
+| 46 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 47 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 48 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
+| 49 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 50 | [Nino](http://twitter.com/search?q=Nino) | N/A |
 
 
 

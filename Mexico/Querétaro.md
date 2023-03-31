@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-03-31 22:16:20 UTC`
+📆 Last Updated: `2023-03-31 23:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,41 +23,43 @@ This is top 50 for [Mexico](</Mexico>)
 | 6 | [EL INE NO SE TOCA](http://twitter.com/search?q=EL+INE+NO+SE+TOCA) | N/A |
 | 7 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
 | 8 | [Yolanda Saldivar](http://twitter.com/search?q=Yolanda+Saldivar) | N/A |
-| 9 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 10 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 11 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 12 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 13 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 14 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 15 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 16 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 9 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
+| 10 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 11 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 12 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 13 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 14 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 15 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 16 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
 | 17 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 18 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 19 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 20 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 21 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 22 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 23 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
-| 24 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
-| 25 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 26 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
-| 27 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
-| 28 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
-| 29 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
-| 30 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
-| 31 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 32 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 33 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
-| 34 | [#EnEsteFin](http://twitter.com/search?q=%23EnEsteFin) | N/A |
-| 35 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
-| 36 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
+| 18 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 19 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 20 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 21 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 22 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 23 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 24 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 25 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 26 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 27 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
+| 28 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
+| 29 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
+| 30 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
+| 31 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 32 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
+| 33 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 34 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 35 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
+| 36 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
 | 37 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 38 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 39 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 40 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 41 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 42 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 43 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
+| 38 | [#enestefin](http://twitter.com/search?q=%23enestefin) | N/A |
+| 39 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
+| 40 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
+| 41 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
+| 42 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 43 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 44 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 45 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
 
 
 

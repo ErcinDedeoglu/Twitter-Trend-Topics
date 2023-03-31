@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-31 22:16:59 UTC`
+📆 Last Updated: `2023-03-31 23:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
 | 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 4 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 9 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 10 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 11 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 14 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 15 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 17 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 20 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 21 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 24 | [Keota](http://twitter.com/search?q=Keota) | N/A |
-| 25 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 26 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 27 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 28 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
-| 29 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 30 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 31 | [WENDYS](http://twitter.com/search?q=WENDYS) | N/A |
-| 32 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 33 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 34 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 35 | [Scala](http://twitter.com/search?q=Scala) | N/A |
-| 36 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 38 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 39 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 40 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 41 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 42 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
-| 43 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 44 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 45 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
-| 46 | [Sigourney](http://twitter.com/search?q=Sigourney) | N/A |
-| 47 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 48 | [Aleah](http://twitter.com/search?q=Aleah) | N/A |
-| 49 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 50 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 4 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 5 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 7 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 8 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 9 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 12 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 13 | [#tornado](http://twitter.com/search?q=%23tornado) | N/A |
+| 14 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 19 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 20 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 21 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 22 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 23 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 24 | [Covington, TN](http://twitter.com/search?q=Covington%2c+TN) | N/A |
+| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 26 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 27 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 28 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 29 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 30 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 31 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 32 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 33 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 34 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 35 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
+| 36 | [Solon](http://twitter.com/search?q=Solon) | N/A |
+| 37 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 38 | [Keota](http://twitter.com/search?q=Keota) | N/A |
+| 39 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 40 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
+| 41 | [Women's Final Four](http://twitter.com/search?q=Women%27s+Final+Four) | N/A |
+| 42 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 43 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
+| 44 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 46 | [Coralville](http://twitter.com/search?q=Coralville) | N/A |
+| 47 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 48 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 49 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
+| 50 | [Sigourney](http://twitter.com/search?q=Sigourney) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-31 22:16:42 UTC`
+📆 Last Updated: `2023-03-31 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,7 +53,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 37 | [Details](http://twitter.com/search?q=Details) | N/A |
 | 38 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 39 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 39 | [chưa](http://twitter.com/search?q=ch%c6%b0a) | N/A |
 | 40 | [trung quốc](http://twitter.com/search?q=trung+qu%e1%bb%91c) | N/A |
 | 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 42 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |

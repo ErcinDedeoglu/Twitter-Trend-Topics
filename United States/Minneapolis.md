@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-31 22:16:58 UTC`
+📆 Last Updated: `2023-03-31 23:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [#mnwx](http://twitter.com/search?q=%23mnwx) | N/A |
+| 1 | [#mnwx](http://twitter.com/search?q=%23mnwx) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 7 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 8 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 12 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 13 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 16 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 17 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 18 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 19 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 20 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 22 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 23 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 24 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 25 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 26 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 28 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 29 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 30 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 31 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 32 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 33 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 35 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 36 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 37 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 38 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 39 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 40 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 41 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 42 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 43 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 44 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 45 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
-| 46 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
-| 47 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 48 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 49 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 50 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 4 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 6 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 9 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 10 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 12 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 13 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 14 | [#tornado](http://twitter.com/search?q=%23tornado) | N/A |
+| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 18 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 19 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 20 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 21 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 22 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 24 | [Covington, TN](http://twitter.com/search?q=Covington%2c+TN) | N/A |
+| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 26 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 27 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 28 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 29 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 30 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 31 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 32 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 33 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 34 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
+| 35 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 36 | [Solon](http://twitter.com/search?q=Solon) | N/A |
+| 37 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 38 | [Keota](http://twitter.com/search?q=Keota) | N/A |
+| 39 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
+| 40 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 41 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 42 | [Women's Final Four](http://twitter.com/search?q=Women%27s+Final+Four) | N/A |
+| 43 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
+| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 45 | [Coralville](http://twitter.com/search?q=Coralville) | N/A |
+| 46 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 47 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 48 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
+| 49 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 50 | [Sigourney](http://twitter.com/search?q=Sigourney) | N/A |
 
 
 

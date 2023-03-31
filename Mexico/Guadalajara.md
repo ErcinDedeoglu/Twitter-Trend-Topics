@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-31 22:16:19 UTC`
+📆 Last Updated: `2023-03-31 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,49 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
-| 2 | [#YaPagameBaks](http://twitter.com/search?q=%23YaPagameBaks) | N/A |
-| 3 | [De la Madrid](http://twitter.com/search?q=De+la+Madrid) | N/A |
-| 4 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
-| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 6 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 7 | [Maru](http://twitter.com/search?q=Maru) | N/A |
-| 8 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 9 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 10 | [Taddei](http://twitter.com/search?q=Taddei) | N/A |
-| 11 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 12 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 13 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 14 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 15 | [Ana Francisca](http://twitter.com/search?q=Ana+Francisca) | N/A |
-| 16 | [Selena Quintanilla](http://twitter.com/search?q=Selena+Quintanilla) | N/A |
-| 17 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 18 | [Yolanda Saldivar](http://twitter.com/search?q=Yolanda+Saldivar) | N/A |
-| 19 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 20 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 21 | [Éxito](http://twitter.com/search?q=%c3%89xito) | N/A |
-| 22 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
-| 23 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 2 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
+| 3 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 5 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 6 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
+| 7 | [EL INE NO SE TOCA](http://twitter.com/search?q=EL+INE+NO+SE+TOCA) | N/A |
+| 8 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 9 | [Yolanda Saldivar](http://twitter.com/search?q=Yolanda+Saldivar) | N/A |
+| 10 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
+| 11 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 12 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 13 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 14 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 15 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 16 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 17 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 18 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 19 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 20 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 21 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 22 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 23 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
 | 24 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 25 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 26 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 27 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 28 | [El 31](http://twitter.com/search?q=El+31) | N/A |
-| 29 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 30 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 31 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 32 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 33 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 34 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
-| 35 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 36 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
-| 37 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 38 | [#LeoEnConvoy](http://twitter.com/search?q=%23LeoEnConvoy) | N/A |
-| 39 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 40 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 41 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
-| 42 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
-| 43 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
-| 44 | [#PalNorte2023](http://twitter.com/search?q=%23PalNorte2023) | N/A |
-| 45 | [#Pachuca](http://twitter.com/search?q=%23Pachuca) | N/A |
-| 46 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 47 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 48 | [#AmloEsUnPeligroParaMexico](http://twitter.com/search?q=%23AmloEsUnPeligroParaMexico) | N/A |
-| 49 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 25 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 26 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 27 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 28 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
+| 29 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
+| 30 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
+| 31 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
+| 32 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
+| 33 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 34 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 35 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
+| 36 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 37 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 38 | [#enestefin](http://twitter.com/search?q=%23enestefin) | N/A |
+| 39 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
+| 40 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
+| 41 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 42 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 43 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 44 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
 
 
 

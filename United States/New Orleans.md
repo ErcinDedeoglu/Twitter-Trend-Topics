@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-31 22:16:59 UTC`
+📆 Last Updated: `2023-03-31 23:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 6 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 7 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 10 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 11 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 12 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 14 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 16 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 17 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 18 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 19 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 20 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 21 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 22 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 23 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 24 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 25 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 27 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 28 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 29 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 31 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 32 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 33 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 34 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 35 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 36 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 37 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 38 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 40 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 41 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 42 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 43 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 44 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
-| 45 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
-| 46 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 47 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 48 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 49 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 50 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
+| 2 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 4 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 5 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 7 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 8 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 11 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 12 | [#tornado](http://twitter.com/search?q=%23tornado) | N/A |
+| 13 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 19 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 20 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 21 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 22 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 23 | [Covington, TN](http://twitter.com/search?q=Covington%2c+TN) | N/A |
+| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 26 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 27 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 28 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 29 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 30 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 31 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 32 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 33 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
+| 34 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 35 | [Solon](http://twitter.com/search?q=Solon) | N/A |
+| 36 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 37 | [Keota](http://twitter.com/search?q=Keota) | N/A |
+| 38 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
+| 39 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 40 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 41 | [Women's Final Four](http://twitter.com/search?q=Women%27s+Final+Four) | N/A |
+| 42 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
+| 43 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 44 | [Coralville](http://twitter.com/search?q=Coralville) | N/A |
+| 45 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 46 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 47 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
+| 48 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 49 | [Sigourney](http://twitter.com/search?q=Sigourney) | N/A |
 
 
 

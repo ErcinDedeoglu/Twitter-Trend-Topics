@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-31 22:16:58 UTC`
+📆 Last Updated: `2023-03-31 23:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 4 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 9 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 3 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 6 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 7 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 10 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 11 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 12 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 14 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 15 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 17 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 20 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 21 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 11 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 13 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 16 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 17 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 19 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 20 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 21 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 22 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 23 | [Chas](http://twitter.com/search?q=Chas) | N/A |
 | 24 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 25 | [Keota](http://twitter.com/search?q=Keota) | N/A |
-| 26 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 27 | [WENDYS](http://twitter.com/search?q=WENDYS) | N/A |
-| 28 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 29 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
-| 30 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 31 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 32 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 33 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 34 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 35 | [Scala](http://twitter.com/search?q=Scala) | N/A |
-| 36 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 38 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 39 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 40 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 41 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 42 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 43 | [Sigourney](http://twitter.com/search?q=Sigourney) | N/A |
-| 44 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
-| 45 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 46 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
-| 47 | [Aleah](http://twitter.com/search?q=Aleah) | N/A |
-| 48 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 49 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 50 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 25 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 26 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 27 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 28 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 29 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 30 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 31 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 32 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 33 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 34 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 35 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 36 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 37 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 38 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 39 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 40 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 41 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 42 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 43 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
+| 44 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
+| 45 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 46 | [Gurley](http://twitter.com/search?q=Gurley) | N/A |
+| 47 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
+| 48 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
+| 49 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
+| 50 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
 
 
 

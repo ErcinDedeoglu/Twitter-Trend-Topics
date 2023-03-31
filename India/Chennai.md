@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-31 22:16:52 UTC`
+📆 Last Updated: `2023-03-31 23:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,18 +16,18 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
-| 2 | [#50DaysOfBBDaDa](http://twitter.com/search?q=%2350DaysOfBBDaDa) | N/A |
+| 2 | [#50daysofbbdada](http://twitter.com/search?q=%2350daysofbbdada) | N/A |
 | 3 | [#Virudhunagar_Thanks_Modiji](http://twitter.com/search?q=%23Virudhunagar_Thanks_Modiji) | N/A |
-| 4 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
+| 4 | [#GTvsCSK](http://twitter.com/search?q=%23GTvsCSK) | N/A |
 | 5 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
 | 6 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
 | 7 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
 | 8 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
 | 9 | [Dube](http://twitter.com/search?q=Dube) | N/A |
 | 10 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 11 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
+| 11 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
 | 12 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
-| 13 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 13 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
 | 14 | [Gigi Hadid](http://twitter.com/search?q=Gigi+Hadid) | N/A |
 | 15 | [Impact](http://twitter.com/search?q=Impact) | N/A |
 | 16 | [Thala](http://twitter.com/search?q=Thala) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for [India](</India>)
 | 18 | [Wide](http://twitter.com/search?q=Wide) | N/A |
 | 19 | [Degree](http://twitter.com/search?q=Degree) | N/A |
 | 20 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 21 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
-| 22 | [Chahar](http://twitter.com/search?q=Chahar) | N/A |
-| 23 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 24 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
-| 25 | [Hangargekar](http://twitter.com/search?q=Hangargekar) | N/A |
-| 26 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 27 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 28 | [Pretorius](http://twitter.com/search?q=Pretorius) | N/A |
-| 29 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 30 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
+| 21 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 22 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
+| 23 | [rayudu](http://twitter.com/search?q=rayudu) | N/A |
+| 24 | [Hangargekar](http://twitter.com/search?q=Hangargekar) | N/A |
+| 25 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 26 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
+| 27 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 28 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
+| 29 | [Pretorius](http://twitter.com/search?q=Pretorius) | N/A |
+| 30 | [Saha](http://twitter.com/search?q=Saha) | N/A |
 | 31 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 | 32 | [Conway](http://twitter.com/search?q=Conway) | N/A |
 | 33 | [Deepak](http://twitter.com/search?q=Deepak) | N/A |
 | 34 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
 | 35 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
-| 36 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
-| 37 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 38 | [Watching IPL](http://twitter.com/search?q=Watching+IPL) | N/A |
-| 39 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
-| 40 | [#GTvsCSK](http://twitter.com/search?q=%23GTvsCSK) | N/A |
-| 41 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
-| 42 | [#TheGreatIndianMusical](http://twitter.com/search?q=%23TheGreatIndianMusical) | N/A |
-| 43 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
-| 44 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
-| 45 | [#JioCrash](http://twitter.com/search?q=%23JioCrash) | N/A |
-| 46 | [#IconicAApril](http://twitter.com/search?q=%23IconicAApril) | N/A |
-| 47 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
-| 48 | [#GTvsCHE](http://twitter.com/search?q=%23GTvsCHE) | N/A |
-| 49 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
-| 50 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
+| 36 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
+| 37 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 38 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 39 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
+| 40 | [#TheGreatIndianMusical](http://twitter.com/search?q=%23TheGreatIndianMusical) | N/A |
+| 41 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
+| 42 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
+| 43 | [#JioCrash](http://twitter.com/search?q=%23JioCrash) | N/A |
+| 44 | [#IconicAApril](http://twitter.com/search?q=%23IconicAApril) | N/A |
+| 45 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
+| 46 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
+| 47 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
+| 48 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
+| 49 | [#hotstar](http://twitter.com/search?q=%23hotstar) | N/A |
+| 50 | [#GTvsCHE](http://twitter.com/search?q=%23GTvsCHE) | N/A |
 
 
 

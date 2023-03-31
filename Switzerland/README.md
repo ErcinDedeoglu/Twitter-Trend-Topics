@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-31 22:17:09 UTC`
+📆 Last Updated: `2023-03-31 23:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SRFArena](http://twitter.com/search?q=%23SRFArena) | N/A |
+| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for Switzerland
 | 19 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
 | 20 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 21 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 22 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
+| 22 | [Karte](http://twitter.com/search?q=Karte) | N/A |
 | 23 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
 | 24 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 25 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 26 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 27 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 28 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 29 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
-| 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 31 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 32 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 33 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 34 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 35 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 36 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 37 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 39 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 40 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 41 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 25 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 26 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 27 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 29 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 30 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 31 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 32 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 33 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 34 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 35 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 36 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 38 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 39 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
+| 40 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 41 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
 | 42 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 43 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 44 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
-| 45 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 46 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 47 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 48 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
-| 49 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 50 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
+| 43 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 44 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 45 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 46 | [Witz](http://twitter.com/search?q=Witz) | N/A |
+| 47 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 48 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 49 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 50 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
 
 
 

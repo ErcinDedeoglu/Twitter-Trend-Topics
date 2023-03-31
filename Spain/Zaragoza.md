@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-31 22:16:32 UTC`
+📆 Last Updated: `2023-03-31 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
-| 2 | [#euforiatv3](http://twitter.com/search?q=%23euforiatv3) | N/A |
-| 3 | [#mamaobregon](http://twitter.com/search?q=%23mamaobregon) | N/A |
-| 4 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 5 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 6 | [Copete](http://twitter.com/search?q=Copete) | N/A |
-| 7 | [Merche](http://twitter.com/search?q=Merche) | N/A |
-| 8 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 9 | [Josie](http://twitter.com/search?q=Josie) | N/A |
+| 1 | [#FirstDates31M](http://twitter.com/search?q=%23FirstDates31M) | N/A |
+| 2 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
+| 3 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 4 | [Zornoza](http://twitter.com/search?q=Zornoza) | N/A |
+| 5 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 6 | [#LevanteRealZaragoza](http://twitter.com/search?q=%23LevanteRealZaragoza) | N/A |
+| 7 | [#Pasapalabra737](http://twitter.com/search?q=%23Pasapalabra737) | N/A |
+| 8 | [#RCDMallorcaOsasuna](http://twitter.com/search?q=%23RCDMallorcaOsasuna) | N/A |
+| 9 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
 | 10 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
-| 11 | [#FirstDates31M](http://twitter.com/search?q=%23FirstDates31M) | N/A |
-| 12 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 13 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 14 | [Camarón](http://twitter.com/search?q=Camar%c3%b3n) | N/A |
-| 15 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 16 | [Buesa](http://twitter.com/search?q=Buesa) | N/A |
-| 17 | [Moller](http://twitter.com/search?q=Moller) | N/A |
-| 18 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
-| 19 | [Saracchi](http://twitter.com/search?q=Saracchi) | N/A |
-| 20 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
-| 21 | [Marinkovic](http://twitter.com/search?q=Marinkovic) | N/A |
-| 22 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
-| 23 | [Zornoza](http://twitter.com/search?q=Zornoza) | N/A |
-| 24 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 25 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
-| 26 | [Posición Alonso](http://twitter.com/search?q=Posici%c3%b3n+Alonso) | N/A |
-| 27 | [Posición Pérez](http://twitter.com/search?q=Posici%c3%b3n+P%c3%a9rez) | N/A |
-| 28 | [Itoudis](http://twitter.com/search?q=Itoudis) | N/A |
-| 29 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 30 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 31 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 32 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 33 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
-| 34 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 35 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
-| 36 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 38 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 39 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 40 | [Puche](http://twitter.com/search?q=Puche) | N/A |
-| 41 | [Soldado](http://twitter.com/search?q=Soldado) | N/A |
-| 42 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 43 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 44 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 45 | [Yamaha](http://twitter.com/search?q=Yamaha) | N/A |
-| 46 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 47 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 48 | [Aprilia](http://twitter.com/search?q=Aprilia) | N/A |
-| 49 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 50 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 11 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
+| 12 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 14 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 15 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 16 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
+| 17 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
+| 18 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 19 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 20 | [Pino Montano](http://twitter.com/search?q=Pino+Montano) | N/A |
+| 21 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 22 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
+| 23 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 24 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 25 | [Leo Messi](http://twitter.com/search?q=Leo+Messi) | N/A |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [#30Monedas](http://twitter.com/search?q=%2330Monedas) | N/A |
+| 28 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
+| 29 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 30 | [#ViernesDeDolores](http://twitter.com/search?q=%23ViernesDeDolores) | N/A |
+| 31 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 32 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 33 | [#LucaOne31M](http://twitter.com/search?q=%23LucaOne31M) | N/A |
+| 34 | [#APOYOROCIO31M](http://twitter.com/search?q=%23APOYOROCIO31M) | N/A |
+| 35 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 36 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 37 | [#DiaDeLaVisibilidadTrans](http://twitter.com/search?q=%23DiaDeLaVisibilidadTrans) | N/A |
+| 38 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
+| 39 | [#YoMeRebelo31M](http://twitter.com/search?q=%23YoMeRebelo31M) | N/A |
+| 40 | [#AsturiasNoArdeLaQueman](http://twitter.com/search?q=%23AsturiasNoArdeLaQueman) | N/A |
+| 41 | [#LaLigaSantander](http://twitter.com/search?q=%23LaLigaSantander) | N/A |
+| 42 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 43 | [#CopaReinaLFEndesa](http://twitter.com/search?q=%23CopaReinaLFEndesa) | N/A |
+| 44 | [#41ComicBCN](http://twitter.com/search?q=%2341ComicBCN) | N/A |
+| 45 | [#LaLigaEnGol](http://twitter.com/search?q=%23LaLigaEnGol) | N/A |
+| 46 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 
 
 

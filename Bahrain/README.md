@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-31 22:17:03 UTC`
+📆 Last Updated: `2023-03-31 23:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,24 +29,24 @@ This is top 50 for Bahrain
 | 12 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
 | 13 | [لإيران](http://twitter.com/search?q=%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 14 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 15 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
-| 16 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 17 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 18 | [royal crowns](http://twitter.com/search?q=royal+crowns) | N/A |
-| 19 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 20 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 21 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 22 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
-| 23 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 24 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
-| 25 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 26 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 27 | [باب المولي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%84%d9%8a) | N/A |
-| 28 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 29 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
-| 30 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 31 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 32 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 16 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 17 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 18 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 19 | [royal crowns](http://twitter.com/search?q=royal+crowns) | N/A |
+| 20 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 21 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 22 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 23 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 24 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
+| 25 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 26 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
+| 27 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 28 | [باب المولي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%84%d9%8a) | N/A |
+| 29 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 30 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
+| 31 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 32 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 33 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
 
 

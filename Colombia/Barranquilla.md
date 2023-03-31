@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-31 22:16:22 UTC`
+📆 Last Updated: `2023-03-31 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,13 +24,13 @@ This is top 50 for [Colombia](</Colombia>)
 | 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 8 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
 | 9 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 10 | [#RenuncieCorcho](http://twitter.com/search?q=%23RenuncieCorcho) | N/A |
+| 10 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
 | 11 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
-| 12 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 13 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 14 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
+| 12 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 13 | [#RenuncieCorcho](http://twitter.com/search?q=%23RenuncieCorcho) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 15 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
 | 17 | [#CuidadosIntensivosPara](http://twitter.com/search?q=%23CuidadosIntensivosPara) | N/A |
 | 18 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
 | 19 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for [Colombia](</Colombia>)
 | 22 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
 | 23 | [Gilinski](http://twitter.com/search?q=Gilinski) | N/A |
 | 24 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 25 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
-| 26 | [Armero](http://twitter.com/search?q=Armero) | N/A |
-| 27 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 25 | [Armero](http://twitter.com/search?q=Armero) | N/A |
+| 26 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 27 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
 | 28 | [Dane](http://twitter.com/search?q=Dane) | N/A |
 | 29 | [Germán Gutiérrez](http://twitter.com/search?q=Germ%c3%a1n+Guti%c3%a9rrez) | N/A |
-| 30 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
-| 31 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
+| 30 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
+| 31 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
 | 32 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
 | 33 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
 | 34 | [Matador](http://twitter.com/search?q=Matador) | N/A |
 | 35 | [Chochó](http://twitter.com/search?q=Choch%c3%b3) | N/A |
 | 36 | [Dama](http://twitter.com/search?q=Dama) | N/A |
 | 37 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 38 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 38 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
 | 39 | [Colombianos](http://twitter.com/search?q=Colombianos) | N/A |
-| 40 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 42 | [Servicio Geológico Colombiano](http://twitter.com/search?q=Servicio+Geol%c3%b3gico+Colombiano) | N/A |
-| 43 | [Aburridos](http://twitter.com/search?q=Aburridos) | N/A |
-| 44 | [Fuerza Aérea](http://twitter.com/search?q=Fuerza+A%c3%a9rea) | N/A |
-| 45 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 46 | [Jordan Barrera](http://twitter.com/search?q=Jordan+Barrera) | N/A |
-| 47 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 48 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 49 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 50 | [junior 3 - alianza 1](http://twitter.com/search?q=junior+3+-+alianza+1) | N/A |
+| 40 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 41 | [Servicio Geológico Colombiano](http://twitter.com/search?q=Servicio+Geol%c3%b3gico+Colombiano) | N/A |
+| 42 | [Aburridos](http://twitter.com/search?q=Aburridos) | N/A |
+| 43 | [Fuerza Aérea](http://twitter.com/search?q=Fuerza+A%c3%a9rea) | N/A |
+| 44 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 45 | [Jordan Barrera](http://twitter.com/search?q=Jordan+Barrera) | N/A |
+| 46 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 47 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 48 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 49 | [junior 3 - alianza 1](http://twitter.com/search?q=junior+3+-+alianza+1) | N/A |
+| 50 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
 
 
 

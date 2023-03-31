@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-31 22:17:01 UTC`
+📆 Last Updated: `2023-03-31 23:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
-| 2 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 3 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 4 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 6 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
-| 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 8 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
-| 9 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 11 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 17 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 20 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 21 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 22 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 23 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 24 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 25 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 26 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 27 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 28 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 29 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 30 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 31 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 32 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 33 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 34 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 35 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 36 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 37 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 38 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 39 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 40 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 41 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 42 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 43 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 44 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 45 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 46 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 47 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 48 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 49 | [National Weather Service](http://twitter.com/search?q=National+Weather+Service) | N/A |
+| 1 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 2 | [#TSErasTourArlington](http://twitter.com/search?q=%23TSErasTourArlington) | N/A |
+| 3 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 4 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 5 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
+| 6 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 7 | [Denton](http://twitter.com/search?q=Denton) | N/A |
+| 8 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 9 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 10 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 13 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 14 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 16 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 17 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 18 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 19 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 21 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 22 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 24 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 25 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 26 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 27 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 28 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 29 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 30 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 31 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 32 | [Covington, TN](http://twitter.com/search?q=Covington%2c+TN) | N/A |
+| 33 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 34 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 35 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 36 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 37 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 38 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 39 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 40 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 41 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 42 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 43 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
+| 44 | [Solon](http://twitter.com/search?q=Solon) | N/A |
+| 45 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 46 | [Keota](http://twitter.com/search?q=Keota) | N/A |
+| 47 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 48 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
+| 49 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 50 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-31 22:16:14 UTC`
+📆 Last Updated: `2023-03-31 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 7 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 8 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 4 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 6 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 7 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 8 | [C-11](http://twitter.com/search?q=C-11) | N/A |
 | 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
 | 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 13 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 15 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
-| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 17 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 18 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 19 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 20 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 21 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 23 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 24 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 26 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 12 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 16 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
+| 17 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
+| 18 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
+| 19 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 20 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 21 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 22 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
+| 23 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 24 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 25 | [Alberta](http://twitter.com/search?q=Alberta) | N/A |
+| 26 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 27 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 28 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 29 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
-| 30 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 31 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
-| 32 | [Stuart Skinner](http://twitter.com/search?q=Stuart+Skinner) | N/A |
-| 33 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 34 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 36 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 37 | [Kuzy](http://twitter.com/search?q=Kuzy) | N/A |
-| 38 | [Dief](http://twitter.com/search?q=Dief) | N/A |
-| 39 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 40 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
-| 41 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 42 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 43 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
-| 44 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 45 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
-| 46 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 47 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 48 | [Dobes](http://twitter.com/search?q=Dobes) | N/A |
-| 49 | [Nanos](http://twitter.com/search?q=Nanos) | N/A |
-| 50 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
+| 28 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 29 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 30 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
+| 31 | [daulton varsho](http://twitter.com/search?q=daulton+varsho) | N/A |
+| 32 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 33 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 34 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 35 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
+| 36 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
+| 37 | [ATCO](http://twitter.com/search?q=ATCO) | N/A |
+| 38 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 39 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 40 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
+| 41 | [nanos](http://twitter.com/search?q=nanos) | N/A |
+| 42 | [swanson](http://twitter.com/search?q=swanson) | N/A |
+| 43 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 44 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
+| 45 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 46 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 47 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
+| 48 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 49 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 50 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
 
 
 
