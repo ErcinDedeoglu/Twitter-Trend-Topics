@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-31 09:16:39 UTC`
+📆 Last Updated: `2023-03-31 10:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,48 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
-| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 4 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
-| 5 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 3 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 4 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 5 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
 | 6 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
 | 7 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 8 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 10 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 11 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 12 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 13 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 14 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 15 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 16 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 17 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 18 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 19 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
-| 20 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 21 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 24 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 25 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 27 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 28 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 29 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 30 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 31 | [Settimana Santa](http://twitter.com/search?q=Settimana+Santa) | N/A |
-| 32 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 33 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 34 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 35 | [Il 31](http://twitter.com/search?q=Il+31) | N/A |
-| 36 | [due vite](http://twitter.com/search?q=due+vite) | N/A |
-| 37 | [Genoa](http://twitter.com/search?q=Genoa) | N/A |
-| 38 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 39 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 40 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 41 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 42 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 43 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 44 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 45 | [Tuttosport](http://twitter.com/search?q=Tuttosport) | N/A |
+| 8 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 9 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 10 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
+| 11 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 12 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 13 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 14 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 15 | [Patteggiamento](http://twitter.com/search?q=Patteggiamento) | N/A |
+| 16 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 17 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 18 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 19 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 20 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 21 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 22 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 23 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
+| 26 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 27 | [Genoa](http://twitter.com/search?q=Genoa) | N/A |
+| 28 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
+| 29 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 30 | [Il 31](http://twitter.com/search?q=Il+31) | N/A |
+| 31 | [ficarra e picone](http://twitter.com/search?q=ficarra+e+picone) | N/A |
+| 32 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 33 | [Settimana Santa](http://twitter.com/search?q=Settimana+Santa) | N/A |
+| 34 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 35 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 36 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
+| 37 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 38 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 39 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 40 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 41 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 42 | [Zuliani](http://twitter.com/search?q=Zuliani) | N/A |
+| 43 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
 
 
 

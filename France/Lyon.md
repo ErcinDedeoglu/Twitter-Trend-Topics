@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-31 09:16:36 UTC`
+📆 Last Updated: `2023-03-31 10:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
-| 3 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
 | 4 | [#JulienXNintendalerts](http://twitter.com/search?q=%23JulienXNintendalerts) | N/A |
 | 5 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 6 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 7 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 8 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 9 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
-| 10 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 13 | [Arnaud Blanc](http://twitter.com/search?q=Arnaud+Blanc) | N/A |
-| 14 | [Pacifiquement](http://twitter.com/search?q=Pacifiquement) | N/A |
-| 15 | [Laurent Brun](http://twitter.com/search?q=Laurent+Brun) | N/A |
-| 16 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 17 | [Buisson](http://twitter.com/search?q=Buisson) | N/A |
-| 18 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 19 | [Bekar](http://twitter.com/search?q=Bekar) | N/A |
-| 20 | [Michou](http://twitter.com/search?q=Michou) | N/A |
-| 21 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 22 | [Maison Blanche](http://twitter.com/search?q=Maison+Blanche) | N/A |
-| 23 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 24 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
-| 25 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 26 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
-| 27 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
-| 28 | [Ewan McGregor](http://twitter.com/search?q=Ewan+McGregor) | N/A |
-| 29 | [chirine](http://twitter.com/search?q=chirine) | N/A |
-| 30 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
-| 31 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 32 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
-| 33 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 34 | [émeline](http://twitter.com/search?q=%c3%a9meline) | N/A |
-| 35 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 36 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 37 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 38 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 39 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 40 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
-| 41 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 42 | [Secrétaire Générale](http://twitter.com/search?q=Secr%c3%a9taire+G%c3%a9n%c3%a9rale) | N/A |
-| 43 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
-| 44 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
-| 45 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 46 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 47 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 48 | [Alexis Kohler](http://twitter.com/search?q=Alexis+Kohler) | N/A |
-| 49 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 50 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 6 | [Philippe Martinez](http://twitter.com/search?q=Philippe+Martinez) | N/A |
+| 7 | [Arnaud Blanc](http://twitter.com/search?q=Arnaud+Blanc) | N/A |
+| 8 | [#Hommage](http://twitter.com/search?q=%23Hommage) | N/A |
+| 9 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 12 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 13 | [Marie Buisson](http://twitter.com/search?q=Marie+Buisson) | N/A |
+| 14 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 15 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 16 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 17 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 18 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 19 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 20 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 21 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 22 | [Bekar](http://twitter.com/search?q=Bekar) | N/A |
+| 23 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 24 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 25 | [Pacifiquement](http://twitter.com/search?q=Pacifiquement) | N/A |
+| 26 | [Michou](http://twitter.com/search?q=Michou) | N/A |
+| 27 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 28 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 29 | [#CongresCGT](http://twitter.com/search?q=%23CongresCGT) | N/A |
+| 30 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
+| 31 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 32 | [#immigration](http://twitter.com/search?q=%23immigration) | N/A |
+| 33 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 34 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
+| 35 | [#E32023](http://twitter.com/search?q=%23E32023) | N/A |
+| 36 | [#Macron_Ordure](http://twitter.com/search?q=%23Macron_Ordure) | N/A |
+| 37 | [#JusticePourLesSuspendus](http://twitter.com/search?q=%23JusticePourLesSuspendus) | N/A |
+| 38 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 39 | [#SPME2023](http://twitter.com/search?q=%23SPME2023) | N/A |
+| 40 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 
 
 

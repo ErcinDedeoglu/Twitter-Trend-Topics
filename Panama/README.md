@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-31 09:17:16 UTC`
+📆 Last Updated: `2023-03-31 10:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 2 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 2 | [fajardo](http://twitter.com/search?q=fajardo) | N/A |
 | 3 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 5 | [etnia china](http://twitter.com/search?q=etnia+china) | N/A |
@@ -41,13 +41,13 @@ This is top 50 for Panama
 | 24 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
 | 25 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 26 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 27 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 28 | [#nuestromomento](http://twitter.com/search?q=%23nuestromomento) | N/A |
-| 29 | [Jooo](http://twitter.com/search?q=Jooo) | N/A |
-| 30 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 31 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 27 | [#nuestromomento](http://twitter.com/search?q=%23nuestromomento) | N/A |
+| 28 | [Jooo](http://twitter.com/search?q=Jooo) | N/A |
+| 29 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 31 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 32 | [sabonge](http://twitter.com/search?q=sabonge) | N/A |
-| 33 | [peke](http://twitter.com/search?q=peke) | N/A |
+| 33 | [Peke](http://twitter.com/search?q=Peke) | N/A |
 | 34 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 35 | [anati](http://twitter.com/search?q=anati) | N/A |
 | 36 | [mari carmen aponte](http://twitter.com/search?q=mari+carmen+aponte) | N/A |

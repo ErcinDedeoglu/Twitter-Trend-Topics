@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-31 09:16:43 UTC`
+📆 Last Updated: `2023-03-31 10:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#KamiSudahBerkorban](http://twitter.com/search?q=%23KamiSudahBerkorban) | N/A |
 | 2 | [#TerimakasihPDIP](http://twitter.com/search?q=%23TerimakasihPDIP) | N/A |
-| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 4 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
-| 5 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 6 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 7 | [#vivoV275GxWin](http://twitter.com/search?q=%23vivoV275GxWin) | N/A |
-| 8 | [Jokowi Resmikan KEK Lido](http://twitter.com/search?q=Jokowi+Resmikan+KEK+Lido) | N/A |
-| 9 | [Jawa Barat](http://twitter.com/search?q=Jawa+Barat) | N/A |
-| 10 | [Moon Chicken](http://twitter.com/search?q=Moon+Chicken) | N/A |
-| 11 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
-| 12 | [Middle Courtyard](http://twitter.com/search?q=Middle+Courtyard) | N/A |
-| 13 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 14 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
-| 15 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 16 | [Weverse Ver](http://twitter.com/search?q=Weverse+Ver) | N/A |
-| 17 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
-| 18 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 19 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 20 | [Lapor](http://twitter.com/search?q=Lapor) | N/A |
-| 21 | [Tengah](http://twitter.com/search?q=Tengah) | N/A |
-| 22 | [EMS TAX](http://twitter.com/search?q=EMS+TAX) | N/A |
-| 23 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 24 | [SPT Tahunan](http://twitter.com/search?q=SPT+Tahunan) | N/A |
-| 25 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 26 | [#JadiLebihBaik](http://twitter.com/search?q=%23JadiLebihBaik) | N/A |
-| 27 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
-| 28 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
-| 29 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 30 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
-| 31 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 32 | [#SobATRBPN](http://twitter.com/search?q=%23SobATRBPN) | N/A |
-| 33 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
-| 34 | [#HyunBin](http://twitter.com/search?q=%23HyunBin) | N/A |
-| 35 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 36 | [#PrabowoPuanTepat](http://twitter.com/search?q=%23PrabowoPuanTepat) | N/A |
-| 37 | [#KawanPajak](http://twitter.com/search?q=%23KawanPajak) | N/A |
+| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 4 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 5 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
+| 6 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
+| 7 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 11 | [Moon Chicken](http://twitter.com/search?q=Moon+Chicken) | N/A |
+| 12 | [Jawa Barat](http://twitter.com/search?q=Jawa+Barat) | N/A |
+| 13 | [inisial r](http://twitter.com/search?q=inisial+r) | N/A |
+| 14 | [Harun Masiku](http://twitter.com/search?q=Harun+Masiku) | N/A |
+| 15 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
+| 16 | [KEK Lido](http://twitter.com/search?q=KEK+Lido) | N/A |
+| 17 | [Middle Courtyard](http://twitter.com/search?q=Middle+Courtyard) | N/A |
+| 18 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 19 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 20 | [Panglima TNI](http://twitter.com/search?q=Panglima+TNI) | N/A |
+| 21 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
+| 22 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 23 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 24 | [GO LINE](http://twitter.com/search?q=GO+LINE) | N/A |
+| 25 | [Lapor](http://twitter.com/search?q=Lapor) | N/A |
+| 26 | [EFIN](http://twitter.com/search?q=EFIN) | N/A |
+| 27 | [Tengah](http://twitter.com/search?q=Tengah) | N/A |
+| 28 | [SPT Tahunan](http://twitter.com/search?q=SPT+Tahunan) | N/A |
+| 29 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 30 | [#UniversityOfEfexJKT48](http://twitter.com/search?q=%23UniversityOfEfexJKT48) | N/A |
+| 31 | [#JIMIN4thWin](http://twitter.com/search?q=%23JIMIN4thWin) | N/A |
+| 32 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 33 | [#NotEnoughRoomForReVeluvs](http://twitter.com/search?q=%23NotEnoughRoomForReVeluvs) | N/A |
+| 34 | [#vivoV275GxWin](http://twitter.com/search?q=%23vivoV275GxWin) | N/A |
+| 35 | [#MARK_GoldenHour](http://twitter.com/search?q=%23MARK_GoldenHour) | N/A |
+| 36 | [#vivoV275GAuraPortrait](http://twitter.com/search?q=%23vivoV275GAuraPortrait) | N/A |
+| 37 | [#우리지민이상받았네](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%a7%80%eb%af%bc%ec%9d%b4%ec%83%81%eb%b0%9b%ec%95%98%eb%84%a4) | N/A |
+| 38 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 39 | [#JadiLebihBaik](http://twitter.com/search?q=%23JadiLebihBaik) | N/A |
+| 40 | [#JIMIN3rdWin](http://twitter.com/search?q=%23JIMIN3rdWin) | N/A |
+| 41 | [#atlashella](http://twitter.com/search?q=%23atlashella) | N/A |
+| 42 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
+| 43 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
+| 44 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 45 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 46 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 47 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 48 | [#SobATRBPN](http://twitter.com/search?q=%23SobATRBPN) | N/A |
 
 
 

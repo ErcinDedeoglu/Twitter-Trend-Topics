@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-31 09:16:29 UTC`
+📆 Last Updated: `2023-03-31 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for [Mexico](</Mexico>)
 | 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 8 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
 | 9 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 10 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 11 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 12 | [#ahogadosxculpademorena](http://twitter.com/search?q=%23ahogadosxculpademorena) | N/A |
-| 13 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 10 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 11 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 12 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 13 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 14 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 15 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 16 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
@@ -40,27 +40,27 @@ This is top 50 for [Mexico](</Mexico>)
 | 23 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
 | 24 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
 | 25 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 26 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 27 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 28 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 29 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 30 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 26 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 27 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 28 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 29 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
+| 30 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 32 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
 | 33 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 34 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 35 | [Burak](http://twitter.com/search?q=Burak) | N/A |
-| 36 | [Chimalhuacán](http://twitter.com/search?q=Chimalhuac%c3%a1n) | Chimalhuacán is a city in the State of Mexico, Mexico. It is located in the eastern part of the state, about 25 miles northeast of Mexico City. The name Chimalhuacán comes from the Nahuatl language and means "place of the shield". |
-| 37 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
+| 34 | [Burak](http://twitter.com/search?q=Burak) | N/A |
+| 35 | [Chimalhuacán](http://twitter.com/search?q=Chimalhuac%c3%a1n) | Chimalhuacán is a city in the State of Mexico, Mexico. It is located in the eastern part of the state, about 25 miles northeast of Mexico City. The name Chimalhuacán comes from the Nahuatl language and means "place of the shield". |
+| 36 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
+| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 38 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 39 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
-| 40 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 39 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 40 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
 | 41 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 42 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 42 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
 | 43 | [línea 7](http://twitter.com/search?q=l%c3%adnea+7) | N/A |
 | 44 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
 | 45 | [ocesa](http://twitter.com/search?q=ocesa) | N/A |
-| 46 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 47 | [Germán Martínez](http://twitter.com/search?q=Germ%c3%a1n+Mart%c3%adnez) | N/A |
 | 48 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
 

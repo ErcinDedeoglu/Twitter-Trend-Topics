@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-31 09:17:16 UTC`
+📆 Last Updated: `2023-03-31 10:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for New Zealand
 | 10 | [New Zealander of the Year](http://twitter.com/search?q=New+Zealander+of+the+Year) | N/A |
 | 11 | [MediaWorks](http://twitter.com/search?q=MediaWorks) | N/A |
 | 12 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 13 | [#nrlroosterseels](http://twitter.com/search?q=%23nrlroosterseels) | N/A |
-| 14 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 15 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 16 | [Matariki](http://twitter.com/search?q=Matariki) | N/A |
+| 13 | [Matariki](http://twitter.com/search?q=Matariki) | N/A |
+| 14 | [#nrlroosterseels](http://twitter.com/search?q=%23nrlroosterseels) | N/A |
+| 15 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 16 | [Nats](http://twitter.com/search?q=Nats) | N/A |
 | 17 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
 | 18 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
 | 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 20 | [NZer](http://twitter.com/search?q=NZer) | N/A |
 | 21 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 22 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 22 | [Tony](http://twitter.com/search?q=Tony) | N/A |
 | 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 24 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 25 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 26 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 24 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 25 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 26 | [Moana Pasifika](http://twitter.com/search?q=Moana+Pasifika) | N/A |
 | 27 | [Shaneel Lal](http://twitter.com/search?q=Shaneel+Lal) | N/A |
 | 28 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 29 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 30 | [Moana Pasifika](http://twitter.com/search?q=Moana+Pasifika) | N/A |
-| 31 | [Anti-Corruption Commission](http://twitter.com/search?q=Anti-Corruption+Commission) | N/A |
-| 32 | [north shore](http://twitter.com/search?q=north+shore) | N/A |
-| 33 | [Marama](http://twitter.com/search?q=Marama) | N/A |
-| 34 | [Northland](http://twitter.com/search?q=Northland) | N/A |
-| 35 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 36 | [OIAs](http://twitter.com/search?q=OIAs) | N/A |
-| 37 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
-| 38 | [peter williams](http://twitter.com/search?q=peter+williams) | N/A |
-| 39 | [Sharma](http://twitter.com/search?q=Sharma) | N/A |
-| 40 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 41 | [reality check radio](http://twitter.com/search?q=reality+check+radio) | N/A |
-| 42 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
-| 43 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 29 | [Anti-Corruption Commission](http://twitter.com/search?q=Anti-Corruption+Commission) | N/A |
+| 30 | [North Shore](http://twitter.com/search?q=North+Shore) | N/A |
+| 31 | [marama](http://twitter.com/search?q=marama) | N/A |
+| 32 | [northland](http://twitter.com/search?q=northland) | N/A |
+| 33 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 34 | [OIAs](http://twitter.com/search?q=OIAs) | N/A |
+| 35 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
+| 36 | [peter williams](http://twitter.com/search?q=peter+williams) | N/A |
+| 37 | [Sharma](http://twitter.com/search?q=Sharma) | N/A |
+| 38 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 39 | [reality check radio](http://twitter.com/search?q=reality+check+radio) | N/A |
+| 40 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 41 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 42 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 43 | [#FreereadKU](http://twitter.com/search?q=%23FreereadKU) | N/A |
 | 44 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 45 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 46 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 46 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
 | 47 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 48 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 49 | [Simon Bridges](http://twitter.com/search?q=Simon+Bridges) | N/A |
-| 50 | [#FreereadKU](http://twitter.com/search?q=%23FreereadKU) | N/A |
+| 48 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
+| 49 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 50 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 
 
 

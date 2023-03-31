@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-31 09:16:31 UTC`
+📆 Last Updated: `2023-03-31 10:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#RenuncieCorcho](http://twitter.com/search?q=%23RenuncieCorcho) | N/A |
 | 3 | [#CuidadosIntensivosPara](http://twitter.com/search?q=%23CuidadosIntensivosPara) | N/A |
 | 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 5 | [#GraciasHeroes](http://twitter.com/search?q=%23GraciasHeroes) | N/A |
-| 6 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 7 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 5 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
+| 6 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 7 | [#GraciasHeroes](http://twitter.com/search?q=%23GraciasHeroes) | N/A |
 | 8 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 9 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
-| 10 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
+| 9 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
+| 10 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
 | 11 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 12 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 13 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 12 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 13 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
 | 14 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 15 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 16 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 17 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 15 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 16 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 18 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
 | 19 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 20 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 21 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 22 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 20 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 21 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 22 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
 | 23 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 24 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 25 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 26 | [Jordan Barrera](http://twitter.com/search?q=Jordan+Barrera) | N/A |
-| 27 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 28 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
-| 29 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 30 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 31 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
-| 32 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
-| 33 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 34 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
-| 35 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 36 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 37 | [Colombianos](http://twitter.com/search?q=Colombianos) | N/A |
-| 38 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
-| 39 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 40 | [Buzz Lightyear](http://twitter.com/search?q=Buzz+Lightyear) | N/A |
-| 41 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 24 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 25 | [Jordan Barrera](http://twitter.com/search?q=Jordan+Barrera) | N/A |
+| 26 | [classy 101](http://twitter.com/search?q=classy+101) | N/A |
+| 27 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 28 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 29 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
+| 30 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
+| 31 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 32 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
+| 33 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 34 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 35 | [Colombianos](http://twitter.com/search?q=Colombianos) | N/A |
+| 36 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 37 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 38 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 39 | [Buzz Lightyear](http://twitter.com/search?q=Buzz+Lightyear) | N/A |
+| 40 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 41 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
 | 42 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
 | 43 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 44 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 45 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 46 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 47 | [Bethlemitas](http://twitter.com/search?q=Bethlemitas) | N/A |
-| 48 | [Fuerza Aérea](http://twitter.com/search?q=Fuerza+A%c3%a9rea) | N/A |
-| 49 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 50 | [soldados](http://twitter.com/search?q=soldados) | N/A |
+| 44 | [Naranja](http://twitter.com/search?q=Naranja) | N/A |
+| 45 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 46 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 47 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 48 | [Bethlemitas](http://twitter.com/search?q=Bethlemitas) | N/A |
+| 49 | [Fuerza Aérea](http://twitter.com/search?q=Fuerza+A%c3%a9rea) | N/A |
+| 50 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 
 
 

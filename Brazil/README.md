@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-31 09:17:12 UTC`
+📆 Last Updated: `2023-03-31 10:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,45 +17,43 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 2 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
-| 3 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 4 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
-| 5 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 6 | [CALA A BOCA BRUNA](http://twitter.com/search?q=CALA+A+BOCA+BRUNA) | N/A |
-| 7 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
-| 8 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 9 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
-| 10 | [#Hora1](http://twitter.com/search?q=%23Hora1) | N/A |
-| 11 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 12 | [#JKB23](http://twitter.com/search?q=%23JKB23) | N/A |
-| 13 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 14 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 15 | [SERASA APOIA FAKENEWS](http://twitter.com/search?q=SERASA+APOIA+FAKENEWS) | N/A |
-| 16 | [TUNNEL VISION](http://twitter.com/search?q=TUNNEL+VISION) | N/A |
-| 17 | [Penha](http://twitter.com/search?q=Penha) | N/A |
-| 18 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 19 | [TRUST ISSUES OUT NOW](http://twitter.com/search?q=TRUST+ISSUES+OUT+NOW) | N/A |
-| 20 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
-| 21 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 22 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 23 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 4 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
+| 5 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 6 | [#JKB23](http://twitter.com/search?q=%23JKB23) | N/A |
+| 7 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 8 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
+| 9 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 10 | [Penha](http://twitter.com/search?q=Penha) | N/A |
+| 11 | [CALA A BOCA BRUNA](http://twitter.com/search?q=CALA+A+BOCA+BRUNA) | N/A |
+| 12 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
+| 13 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 14 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
+| 15 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
+| 16 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 17 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 18 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 19 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 20 | [TRUST ISSUES OUT NOW](http://twitter.com/search?q=TRUST+ISSUES+OUT+NOW) | N/A |
+| 21 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 22 | [TUNNEL VISION](http://twitter.com/search?q=TUNNEL+VISION) | N/A |
+| 23 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 24 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 25 | [Defante](http://twitter.com/search?q=Defante) | N/A |
+| 25 | [Evil](http://twitter.com/search?q=Evil) | N/A |
 | 26 | [SPIDER WEB](http://twitter.com/search?q=SPIDER+WEB) | N/A |
-| 27 | [ADM da Bruna](http://twitter.com/search?q=ADM+da+Bruna) | N/A |
-| 28 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 29 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 30 | [Evil](http://twitter.com/search?q=Evil) | N/A |
-| 31 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 32 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 33 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 34 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 27 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 28 | [defante](http://twitter.com/search?q=defante) | N/A |
+| 29 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 30 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 31 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 32 | [#Noahs22](http://twitter.com/search?q=%23Noahs22) | N/A |
+| 33 | [#Hora1](http://twitter.com/search?q=%23Hora1) | N/A |
+| 34 | [#ProvaDoLíder](http://twitter.com/search?q=%23ProvaDoL%c3%adder) | N/A |
 | 35 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
 | 36 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 37 | [#Noahs22](http://twitter.com/search?q=%23Noahs22) | N/A |
-| 38 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 39 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 40 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 41 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 37 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 38 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 39 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
 
 
 

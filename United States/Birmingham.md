@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-31 09:17:03 UTC`
+📆 Last Updated: `2023-03-31 10:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 4 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 5 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 6 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 8 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 9 | [#GCWFTC](http://twitter.com/search?q=%23GCWFTC) | N/A |
-| 10 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 12 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 13 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 14 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 15 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 1 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 2 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 3 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 4 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 5 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 7 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 8 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 9 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 12 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 13 | [#Wordle650](http://twitter.com/search?q=%23Wordle650) | N/A |
+| 14 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 15 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 16 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 17 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 18 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 19 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 17 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 18 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 19 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
 | 20 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 22 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 23 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 24 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 25 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 26 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 27 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 28 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 29 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 30 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 31 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 32 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 33 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 34 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 35 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 36 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 21 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 22 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 23 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 24 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 26 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 27 | [Comey](http://twitter.com/search?q=Comey) | N/A |
+| 28 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 29 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 30 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 31 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 32 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 33 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 34 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 35 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 36 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 37 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 38 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 39 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 40 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 41 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 42 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 43 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 38 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
+| 39 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 40 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 41 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
+| 42 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 43 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
 | 44 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 45 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 46 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
-| 47 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
-| 48 | [Comey](http://twitter.com/search?q=Comey) | N/A |
-| 49 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 45 | [tungsten arm o'doyle](http://twitter.com/search?q=tungsten+arm+o%27doyle) | N/A |
+| 46 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 47 | [SPIDER WEB](http://twitter.com/search?q=SPIDER+WEB) | N/A |
+| 48 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 49 | [Tepera](http://twitter.com/search?q=Tepera) | N/A |
 
 
 

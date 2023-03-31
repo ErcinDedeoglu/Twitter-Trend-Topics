@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-31 09:16:37 UTC`
+📆 Last Updated: `2023-03-31 10:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 3 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
 | 4 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 5 | [#Lindner](http://twitter.com/search?q=%23Lindner) | N/A |
-| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 9 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 10 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 11 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
-| 12 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 13 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 14 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 15 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 16 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [#Lindner](http://twitter.com/search?q=%23Lindner) | N/A |
+| 7 | [#KingCharlesIII](http://twitter.com/search?q=%23KingCharlesIII) | N/A |
+| 8 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 9 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 10 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 11 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 12 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 13 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 14 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 15 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 17 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 19 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 20 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 21 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 22 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 24 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
+| 18 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 19 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 20 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 21 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 22 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 23 | [random gedanke](http://twitter.com/search?q=random+gedanke) | N/A |
+| 24 | [Genscher](http://twitter.com/search?q=Genscher) | N/A |
 | 25 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 26 | [Guten Morgen Dieter](http://twitter.com/search?q=Guten+Morgen+Dieter) | N/A |
-| 27 | [random gedanke](http://twitter.com/search?q=random+gedanke) | N/A |
-| 28 | [Flüssiggas](http://twitter.com/search?q=Fl%c3%bcssiggas) | N/A |
-| 29 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 30 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 31 | [closeness rating](http://twitter.com/search?q=closeness+rating) | N/A |
-| 32 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 33 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 34 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 35 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 36 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 37 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 38 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 39 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 40 | [Segelboot](http://twitter.com/search?q=Segelboot) | N/A |
-| 41 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 42 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 43 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
-| 44 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
-| 45 | [Letzter Tag](http://twitter.com/search?q=Letzter+Tag) | N/A |
-| 46 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 47 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 48 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 49 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 50 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 26 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 27 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 28 | [closeness rating](http://twitter.com/search?q=closeness+rating) | N/A |
+| 29 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 30 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 31 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 34 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
+| 35 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
+| 36 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 37 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 38 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 39 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 40 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 41 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 42 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
+| 43 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 44 | [Klimaziele im Verkehr](http://twitter.com/search?q=Klimaziele+im+Verkehr) | N/A |
+| 45 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 46 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 47 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 48 | [Wissing](http://twitter.com/search?q=Wissing) | N/A |
+| 49 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 50 | [Jeansjacke](http://twitter.com/search?q=Jeansjacke) | N/A |
 
 
 

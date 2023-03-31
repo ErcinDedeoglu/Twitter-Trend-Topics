@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-31 09:17:07 UTC`
+📆 Last Updated: `2023-03-31 10:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 3 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 6 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 7 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 8 | [#GCWFTC](http://twitter.com/search?q=%23GCWFTC) | N/A |
+| 1 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 2 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 3 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 6 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 7 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 8 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
 | 9 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 10 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 11 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 12 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 13 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 14 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 10 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 11 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 12 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 13 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 14 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
 | 15 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 16 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 16 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
 | 17 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 19 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 20 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 21 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 22 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 18 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 19 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 20 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 21 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 22 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 23 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 24 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 25 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 26 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 27 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 28 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 29 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 30 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 31 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 32 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 24 | [Comey](http://twitter.com/search?q=Comey) | N/A |
+| 25 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 26 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 27 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 28 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 29 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 30 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 32 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 | 33 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 34 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 35 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 36 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 37 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 38 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 34 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 35 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
+| 36 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 37 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 38 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
 | 39 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 40 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 41 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 42 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 43 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 44 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
-| 45 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
-| 46 | [Comey](http://twitter.com/search?q=Comey) | N/A |
-| 47 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
-| 48 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 40 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 41 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 42 | [tungsten arm o'doyle](http://twitter.com/search?q=tungsten+arm+o%27doyle) | N/A |
+| 43 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 44 | [SPIDER WEB](http://twitter.com/search?q=SPIDER+WEB) | N/A |
+| 45 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 46 | [Tepera](http://twitter.com/search?q=Tepera) | N/A |
+| 47 | [TUNNEL VISION](http://twitter.com/search?q=TUNNEL+VISION) | N/A |
+| 48 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
 | 49 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
 
 

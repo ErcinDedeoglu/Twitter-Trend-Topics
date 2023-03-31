@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-31 09:16:38 UTC`
+📆 Last Updated: `2023-03-31 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 5 | [#Lindner](http://twitter.com/search?q=%23Lindner) | N/A |
 | 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 8 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 9 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 10 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
-| 11 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 12 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 13 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 14 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 15 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 7 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 9 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 10 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 11 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 12 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 13 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 16 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 17 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 18 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 19 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 20 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 21 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 22 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 24 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
-| 25 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 26 | [Guten Morgen Dieter](http://twitter.com/search?q=Guten+Morgen+Dieter) | N/A |
-| 27 | [random gedanke](http://twitter.com/search?q=random+gedanke) | N/A |
-| 28 | [Flüssiggas](http://twitter.com/search?q=Fl%c3%bcssiggas) | N/A |
-| 29 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 30 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 31 | [closeness rating](http://twitter.com/search?q=closeness+rating) | N/A |
-| 32 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 33 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 34 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 35 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 36 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 37 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 38 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 39 | [Segelboot](http://twitter.com/search?q=Segelboot) | N/A |
-| 40 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 41 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 42 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
-| 43 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
-| 44 | [Letzter Tag](http://twitter.com/search?q=Letzter+Tag) | N/A |
-| 45 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 46 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 47 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 48 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 49 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 17 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 18 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 19 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 21 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 22 | [random gedanke](http://twitter.com/search?q=random+gedanke) | N/A |
+| 23 | [Genscher](http://twitter.com/search?q=Genscher) | N/A |
+| 24 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 25 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 26 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 27 | [closeness rating](http://twitter.com/search?q=closeness+rating) | N/A |
+| 28 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 29 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 30 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 32 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 33 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
+| 34 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
+| 35 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 36 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 37 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 38 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 39 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 40 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 41 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
+| 42 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 43 | [Klimaziele im Verkehr](http://twitter.com/search?q=Klimaziele+im+Verkehr) | N/A |
+| 44 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 45 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 46 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 47 | [Wissing](http://twitter.com/search?q=Wissing) | N/A |
+| 48 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 49 | [Jeansjacke](http://twitter.com/search?q=Jeansjacke) | N/A |
 
 
 
