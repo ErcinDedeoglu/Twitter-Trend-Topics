@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-01 18:17:08 UTC`
+📆 Last Updated: `2023-04-01 19:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Zaragoza](http://twitter.com/search?q=Zaragoza) | N/A |
-| 2 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 3 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 4 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 5 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 6 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 7 | [#CadizSevillaFC](http://twitter.com/search?q=%23CadizSevillaFC) | N/A |
-| 8 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 9 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 2 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 3 | [Olabe](http://twitter.com/search?q=Olabe) | N/A |
+| 4 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 5 | [Binder](http://twitter.com/search?q=Binder) | N/A |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 7 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 8 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 9 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 10 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 11 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 12 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 13 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 15 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 16 | [Negredo](http://twitter.com/search?q=Negredo) | N/A |
-| 17 | [#SuperligaLoLFinal](http://twitter.com/search?q=%23SuperligaLoLFinal) | N/A |
-| 18 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
-| 19 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
-| 20 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 21 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 22 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 23 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
-| 24 | [Raquel Carrera](http://twitter.com/search?q=Raquel+Carrera) | N/A |
-| 25 | [Ion Izagirre](http://twitter.com/search?q=Ion+Izagirre) | N/A |
-| 26 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
-| 27 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 28 | [Juergen](http://twitter.com/search?q=Juergen) | N/A |
-| 29 | [Alejo](http://twitter.com/search?q=Alejo) | N/A |
-| 30 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 31 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 32 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 33 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 34 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 35 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
-| 36 | [El Plantío](http://twitter.com/search?q=El+Plant%c3%ado) | N/A |
-| 37 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Lucrecia Pérez](http://twitter.com/search?q=Lucrecia+P%c3%a9rez) | N/A |
-| 40 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
-| 41 | [Yeray](http://twitter.com/search?q=Yeray) | Yeray is a Spanish name derived from the Hebrew name Jair, which means "God enlightens". It is also a variant of the name Jeremiah, which means "God will exalt". |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Álex Márquez](http://twitter.com/search?q=%c3%81lex+M%c3%a1rquez) | N/A |
-| 44 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 45 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
-| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 47 | [Sergi Gómez](http://twitter.com/search?q=Sergi+G%c3%b3mez) | N/A |
-| 48 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 49 | [arnau martínez](http://twitter.com/search?q=arnau+mart%c3%adnez) | N/A |
-| 50 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 12 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 13 | [Villares](http://twitter.com/search?q=Villares) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 16 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 17 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 18 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 19 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
+| 20 | [Supa](http://twitter.com/search?q=Supa) | N/A |
+| 21 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
+| 22 | [Idiakez](http://twitter.com/search?q=Idiakez) | N/A |
+| 23 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
+| 24 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 25 | [Negredo](http://twitter.com/search?q=Negredo) | N/A |
+| 26 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 27 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 28 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 29 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 30 | [#SuperligaLoLFinal](http://twitter.com/search?q=%23SuperligaLoLFinal) | N/A |
+| 31 | [Movistar Riders](http://twitter.com/search?q=Movistar+Riders) | N/A |
+| 32 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
+| 33 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
+| 34 | [Trilli](http://twitter.com/search?q=Trilli) | N/A |
+| 35 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
+| 36 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
+| 37 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
+| 38 | [#TenerifeVillarrealB](http://twitter.com/search?q=%23TenerifeVillarrealB) | N/A |
+| 39 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 41 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
+| 42 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 43 | [FINAL DEL PARTIDO](http://twitter.com/search?q=FINAL+DEL+PARTIDO) | N/A |
+| 44 | [David Gil](http://twitter.com/search?q=David+Gil) | N/A |
+| 45 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 46 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 47 | [Morbidelli](http://twitter.com/search?q=Morbidelli) | N/A |
+| 48 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
+| 49 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 50 | [Reina Sofía](http://twitter.com/search?q=Reina+Sof%c3%ada) | N/A |
 
 
 

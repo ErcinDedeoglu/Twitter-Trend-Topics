@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-01 18:17:42 UTC`
+📆 Last Updated: `2023-04-01 19:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
-| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 4 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 9 | [Indi](http://twitter.com/search?q=Indi) | N/A |
+| 1 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 2 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 3 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 6 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 9 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 14 | [#CHEAVL](http://twitter.com/search?q=%23CHEAVL) | N/A |
-| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 16 | [#GeneralConference](http://twitter.com/search?q=%23GeneralConference) | N/A |
-| 17 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 18 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 19 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
+| 11 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 12 | [Indi](http://twitter.com/search?q=Indi) | N/A |
+| 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 14 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 15 | [#EFFYGAYLA](http://twitter.com/search?q=%23EFFYGAYLA) | N/A |
+| 16 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 19 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
 | 20 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 21 | [Tiffany Stratton](http://twitter.com/search?q=Tiffany+Stratton) | N/A |
-| 22 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 23 | [Joe Coffey](http://twitter.com/search?q=Joe+Coffey) | N/A |
-| 24 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 26 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [Gallus](http://twitter.com/search?q=Gallus) | N/A |
-| 29 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 30 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 31 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 32 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 33 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Dexter Lumis](http://twitter.com/search?q=Dexter+Lumis) | N/A |
-| 36 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 37 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 38 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
-| 39 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 40 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 41 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 42 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 43 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
-| 44 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
-| 45 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 46 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
-| 47 | [Nice April](http://twitter.com/search?q=Nice+April) | N/A |
-| 48 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 49 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
+| 21 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 23 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 25 | [Candice](http://twitter.com/search?q=Candice) | N/A |
+| 26 | [Isla Dawn](http://twitter.com/search?q=Isla+Dawn) | N/A |
+| 27 | [The Way](http://twitter.com/search?q=The+Way) | N/A |
+| 28 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 29 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 30 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 31 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
+| 32 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 33 | [Johnny Wrestling](http://twitter.com/search?q=Johnny+Wrestling) | N/A |
+| 34 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 35 | [Tiffany Stratton](http://twitter.com/search?q=Tiffany+Stratton) | N/A |
+| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 37 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 38 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 39 | [Joe Coffey](http://twitter.com/search?q=Joe+Coffey) | N/A |
+| 40 | [Ilja](http://twitter.com/search?q=Ilja) | N/A |
+| 41 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 42 | [Gallus](http://twitter.com/search?q=Gallus) | N/A |
+| 43 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
+| 44 | [Jayda Coleman](http://twitter.com/search?q=Jayda+Coleman) | N/A |
+| 45 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 46 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 49 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
 
 
 
