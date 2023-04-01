@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-01 16:17:41 UTC`
+📆 Last Updated: `2023-04-01 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
 | 2 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 3 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 3 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
 | 4 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 5 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 6 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 7 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 8 | [#HUAvsCCxTNTSports](http://twitter.com/search?q=%23HUAvsCCxTNTSports) | N/A |
-| 9 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 10 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 11 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
-| 12 | [#Alerta](http://twitter.com/search?q=%23Alerta) | N/A |
-| 13 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 14 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 15 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 19 | [La CUT](http://twitter.com/search?q=La+CUT) | N/A |
-| 20 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 21 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 22 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 23 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 24 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
-| 25 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 28 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 29 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 30 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 31 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
-| 32 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 33 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 34 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 35 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 36 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 37 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 38 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 39 | [Gerardo Varela](http://twitter.com/search?q=Gerardo+Varela) | N/A |
-| 40 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 41 | [Blumel](http://twitter.com/search?q=Blumel) | N/A |
-| 42 | [cobquecura](http://twitter.com/search?q=cobquecura) | N/A |
-| 43 | [Chadwick](http://twitter.com/search?q=Chadwick) | N/A |
-| 44 | [Galli](http://twitter.com/search?q=Galli) | N/A |
-| 45 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 47 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 5 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 6 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 7 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 8 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 9 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 10 | [#HUAvsCCxTNTSports](http://twitter.com/search?q=%23HUAvsCCxTNTSports) | N/A |
+| 11 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 12 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 13 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 14 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 16 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 17 | [Sepúlveda](http://twitter.com/search?q=Sep%c3%balveda) | N/A |
+| 18 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 19 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
+| 20 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 21 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 24 | [Bichi](http://twitter.com/search?q=Bichi) | N/A |
+| 25 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 26 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 27 | [Castellón](http://twitter.com/search?q=Castell%c3%b3n) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
+| 31 | [Leo Gil](http://twitter.com/search?q=Leo+Gil) | N/A |
+| 32 | [Cono Gil](http://twitter.com/search?q=Cono+Gil) | N/A |
+| 33 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 34 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 35 | [La CUT](http://twitter.com/search?q=La+CUT) | N/A |
+| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 37 | [De Los Santos](http://twitter.com/search?q=De+Los+Santos) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 40 | [Cris Martínez](http://twitter.com/search?q=Cris+Mart%c3%adnez) | N/A |
+| 41 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 42 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 43 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 44 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 45 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 46 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 47 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
 
 
 

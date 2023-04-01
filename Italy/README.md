@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-01 16:18:34 UTC`
+📆 Last Updated: `2023-04-01 17:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 2 | [#1aprile](http://twitter.com/search?q=%231aprile) | N/A |
-| 3 | [#pescedaprile](http://twitter.com/search?q=%23pescedaprile) | N/A |
-| 4 | [#InterFiorentina](http://twitter.com/search?q=%23InterFiorentina) | N/A |
-| 5 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
-| 6 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 7 | [Barcaccia](http://twitter.com/search?q=Barcaccia) | N/A |
-| 8 | [made in italy](http://twitter.com/search?q=made+in+italy) | N/A |
-| 9 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 10 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 11 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 12 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 13 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 14 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 17 | [Buon 1](http://twitter.com/search?q=Buon+1) | N/A |
-| 18 | [Forza Inter](http://twitter.com/search?q=Forza+Inter) | N/A |
-| 19 | [Fekeli](http://twitter.com/search?q=Fekeli) | N/A |
-| 20 | [resistenza](http://twitter.com/search?q=resistenza) | N/A |
-| 21 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 22 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 23 | [Alex Marquez](http://twitter.com/search?q=Alex+Marquez) | N/A |
-| 24 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
-| 25 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
-| 26 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
-| 29 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 30 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 31 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
-| 32 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 33 | [Carbone](http://twitter.com/search?q=Carbone) | N/A |
-| 34 | [Piera](http://twitter.com/search?q=Piera) | N/A |
-| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 36 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 37 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 38 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
-| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 40 | [L'acqua](http://twitter.com/search?q=L%27acqua) | N/A |
-| 41 | [benvenuto aprile](http://twitter.com/search?q=benvenuto+aprile) | N/A |
-| 42 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 43 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 44 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
-| 45 | [As It Was](http://twitter.com/search?q=As+It+Was) | N/A |
-| 46 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 47 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 48 | [Luigi Braccioforte](http://twitter.com/search?q=Luigi+Braccioforte) | N/A |
-| 49 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 50 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 1 | [#InterFiorentina](http://twitter.com/search?q=%23InterFiorentina) | N/A |
+| 2 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 3 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 4 | [#1aprile](http://twitter.com/search?q=%231aprile) | N/A |
+| 5 | [#pescedaprile](http://twitter.com/search?q=%23pescedaprile) | N/A |
+| 6 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
+| 7 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 8 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 9 | [Ikone](http://twitter.com/search?q=Ikone) | N/A |
+| 10 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 11 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 12 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 15 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 16 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 17 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 18 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 19 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 20 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
+| 21 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 22 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 24 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 25 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 26 | [Buon 1](http://twitter.com/search?q=Buon+1) | N/A |
+| 27 | [Campoli](http://twitter.com/search?q=Campoli) | N/A |
+| 28 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 29 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 30 | [Saponara](http://twitter.com/search?q=Saponara) | N/A |
+| 31 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 34 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 35 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
+| 36 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 37 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 38 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 39 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
+| 40 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 41 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 43 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 44 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 45 | [Carbone](http://twitter.com/search?q=Carbone) | N/A |
+| 46 | [L'acqua](http://twitter.com/search?q=L%27acqua) | N/A |
+| 47 | [Alex Marquez](http://twitter.com/search?q=Alex+Marquez) | N/A |
+| 48 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 49 | [benvenuto aprile](http://twitter.com/search?q=benvenuto+aprile) | N/A |
+| 50 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 
 
 

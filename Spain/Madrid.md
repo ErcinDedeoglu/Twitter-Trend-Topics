@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-01 16:17:53 UTC`
+📆 Last Updated: `2023-04-01 17:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 1 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
 | 2 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 3 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 4 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
-| 5 | [pombo](http://twitter.com/search?q=pombo) | N/A |
-| 6 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
-| 9 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 10 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 11 | [Ion Izagirre](http://twitter.com/search?q=Ion+Izagirre) | N/A |
-| 12 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [Alex Márquez](http://twitter.com/search?q=Alex+M%c3%a1rquez) | N/A |
-| 15 | [Sergi Gómez](http://twitter.com/search?q=Sergi+G%c3%b3mez) | N/A |
-| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 17 | [#GPIndurain](http://twitter.com/search?q=%23GPIndurain) | N/A |
-| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 19 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 20 | [Arnau Martínez](http://twitter.com/search?q=Arnau+Mart%c3%adnez) | N/A |
-| 21 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
-| 22 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
-| 23 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 24 | [#premierleaguedazn](http://twitter.com/search?q=%23premierleaguedazn) | N/A |
-| 25 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
-| 26 | [Puado](http://twitter.com/search?q=Puado) | Puado is a Spanish word that means "to jump" or "to leap". It is often used to describe a physical action, such as jumping over an obstacle or leaping into the air. |
-| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 29 | [Denis Suárez](http://twitter.com/search?q=Denis+Su%c3%a1rez) | N/A |
-| 30 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 31 | [Stuani](http://twitter.com/search?q=Stuani) | N/A |
-| 32 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 33 | [Chihayafuru](http://twitter.com/search?q=Chihayafuru) | N/A |
-| 34 | [Morbidelli](http://twitter.com/search?q=Morbidelli) | N/A |
-| 35 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 36 | [Cornellá](http://twitter.com/search?q=Cornell%c3%a1) | N/A |
-| 37 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 38 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 40 | [CERRAL](http://twitter.com/search?q=CERRAL) | N/A |
-| 41 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
-| 42 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 43 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
-| 44 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 45 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 46 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 47 | [Mapi](http://twitter.com/search?q=Mapi) | N/A |
-| 48 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
-| 49 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 50 | [ARRIBA ESPAÑA](http://twitter.com/search?q=ARRIBA+ESPA%c3%91A) | N/A |
+| 3 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 4 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 5 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 6 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 7 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 8 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 9 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
+| 10 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 11 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
+| 12 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 13 | [#CadizSevillaFC](http://twitter.com/search?q=%23CadizSevillaFC) | N/A |
+| 14 | [diego martínez](http://twitter.com/search?q=diego+mart%c3%adnez) | N/A |
+| 15 | [Negredo](http://twitter.com/search?q=Negredo) | N/A |
+| 16 | [Raquel Carrera](http://twitter.com/search?q=Raquel+Carrera) | N/A |
+| 17 | [Ion Izagirre](http://twitter.com/search?q=Ion+Izagirre) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 20 | [Juergen](http://twitter.com/search?q=Juergen) | N/A |
+| 21 | [Alex Márquez](http://twitter.com/search?q=Alex+M%c3%a1rquez) | N/A |
+| 22 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 25 | [#GPIndurain](http://twitter.com/search?q=%23GPIndurain) | N/A |
+| 26 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 27 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
+| 28 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
+| 29 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
+| 30 | [Yeray](http://twitter.com/search?q=Yeray) | Yeray is a Spanish name derived from the Hebrew name Jair, which means "God enlightens". It is also a variant of the name Jeremiah, which means "God will exalt". |
+| 31 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 32 | [Puado](http://twitter.com/search?q=Puado) | Puado is a Spanish word that means "to jump" or "to leap". It is often used to describe a physical action, such as jumping over an obstacle or leaping into the air. |
+| 33 | [El Plantío](http://twitter.com/search?q=El+Plant%c3%ado) | N/A |
+| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 35 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
+| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 37 | [Stuani](http://twitter.com/search?q=Stuani) | N/A |
+| 38 | [Sergi Gómez](http://twitter.com/search?q=Sergi+G%c3%b3mez) | N/A |
+| 39 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 40 | [arnau martínez](http://twitter.com/search?q=arnau+mart%c3%adnez) | N/A |
+| 41 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 43 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 44 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 45 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 46 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 47 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 48 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 49 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
+| 50 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-01 16:17:49 UTC`
+📆 Last Updated: `2023-04-01 17:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 2 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 3 | [#RBLM05](http://twitter.com/search?q=%23RBLM05) | N/A |
-| 4 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 5 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
-| 6 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 7 | [Matthäus](http://twitter.com/search?q=Matth%c3%a4us) | N/A |
-| 8 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
-| 9 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
-| 10 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 11 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 12 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 13 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 14 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 18 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 19 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 20 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 23 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 24 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
-| 25 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 26 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 27 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 28 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 29 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
-| 30 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 31 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 32 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
-| 33 | [Partie](http://twitter.com/search?q=Partie) | N/A |
-| 34 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
-| 35 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
-| 36 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 37 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 38 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 39 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
-| 40 | [Kalender](http://twitter.com/search?q=Kalender) | N/A |
-| 41 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
-| 42 | [#FCUVfB](http://twitter.com/search?q=%23FCUVfB) | N/A |
-| 43 | [#S04B04](http://twitter.com/search?q=%23S04B04) | N/A |
-| 44 | [#SCFBSC](http://twitter.com/search?q=%23SCFBSC) | N/A |
-| 45 | [#WOBFCA](http://twitter.com/search?q=%23WOBFCA) | N/A |
-| 46 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 47 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 2 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 3 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 4 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 5 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 6 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 7 | [#RBLM05](http://twitter.com/search?q=%23RBLM05) | N/A |
+| 8 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 9 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 10 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
+| 11 | [Matthäus](http://twitter.com/search?q=Matth%c3%a4us) | N/A |
+| 12 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 13 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 14 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
+| 15 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
+| 16 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 17 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 18 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 19 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 20 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 21 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 22 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 24 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 25 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
+| 26 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 27 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 28 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 29 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 30 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 31 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 32 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 34 | [Eigentor](http://twitter.com/search?q=Eigentor) | N/A |
+| 35 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 36 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 37 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 38 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 39 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 40 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 41 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
+| 42 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
+| 45 | [Partie](http://twitter.com/search?q=Partie) | N/A |
+| 46 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
+| 47 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
 
 
 

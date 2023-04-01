@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-04-01 16:18:18 UTC`
+📆 Last Updated: `2023-04-01 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#CumhurbaşkanıErdoğan](http://twitter.com/search?q=%23Cumhurba%c5%9fkan%c4%b1Erdo%c4%9fan) | N/A |
 | 2 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
-| 3 | [Orhan Ak](http://twitter.com/search?q=Orhan+Ak) | N/A |
-| 4 | [#TSvKYS](http://twitter.com/search?q=%23TSvKYS) | N/A |
+| 3 | [#sorumvar](http://twitter.com/search?q=%23sorumvar) | N/A |
+| 4 | [#GSvADS](http://twitter.com/search?q=%23GSvADS) | N/A |
 | 5 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 6 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 7 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
-| 8 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 9 | [Markovic](http://twitter.com/search?q=Markovic) | N/A |
-| 10 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
-| 11 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 12 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 13 | [Bartra](http://twitter.com/search?q=Bartra) | Bartra is a Spanish surname derived from the Basque language. It is believed to be derived from the words "bartz" (meaning "axe") and "ara" (meaning "stone"). In English, Bartra can be translated to mean "axe stone". |
-| 14 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 15 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 16 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 17 | [Gizlenen Haber](http://twitter.com/search?q=Gizlenen+Haber) | N/A |
-| 18 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 19 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
-| 20 | [Peres](http://twitter.com/search?q=Peres) | N/A |
-| 21 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
-| 22 | [Serdar Gürler](http://twitter.com/search?q=Serdar+G%c3%bcrler) | N/A |
-| 23 | [Abdülkadir Ömür](http://twitter.com/search?q=Abd%c3%bclkadir+%c3%96m%c3%bcr) | N/A |
-| 24 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 25 | [Emrah Başsan](http://twitter.com/search?q=Emrah+Ba%c5%9fsan) | N/A |
-| 26 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 27 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
-| 28 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 29 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 6 | [Orhan Ak](http://twitter.com/search?q=Orhan+Ak) | N/A |
+| 7 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 8 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 9 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 10 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 13 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
+| 16 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
+| 17 | [Bayern Münih](http://twitter.com/search?q=Bayern+M%c3%bcnih) | N/A |
+| 18 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
+| 19 | [Markovic](http://twitter.com/search?q=Markovic) | N/A |
+| 20 | [Bartra](http://twitter.com/search?q=Bartra) | Bartra is a Spanish surname derived from the Basque language. It is believed to be derived from the words "bartz" (meaning "axe") and "ara" (meaning "stone"). In English, Bartra can be translated to mean "axe stone". |
+| 21 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 22 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
+| 23 | [Gizlenen Haber](http://twitter.com/search?q=Gizlenen+Haber) | N/A |
+| 24 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 25 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 26 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
+| 27 | [Emrah Başsan](http://twitter.com/search?q=Emrah+Ba%c5%9fsan) | N/A |
+| 28 | [Serdar Gürler](http://twitter.com/search?q=Serdar+G%c3%bcrler) | N/A |
+| 29 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
 | 30 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
-| 31 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 32 | [Tabiki 3](http://twitter.com/search?q=Tabiki+3) | N/A |
-| 33 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Bardhi](http://twitter.com/search?q=Bardhi) | N/A |
-| 36 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
-| 37 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 38 | [Doktorlar](http://twitter.com/search?q=Doktorlar) | N/A |
-| 39 | [Berisha](http://twitter.com/search?q=Berisha) | N/A |
-| 40 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
-| 41 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 45 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 46 | [Üçüncü](http://twitter.com/search?q=%c3%9c%c3%a7%c3%bcnc%c3%bc) | N/A |
-| 47 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
-| 48 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
-| 49 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
+| 31 | [Tabiki 3](http://twitter.com/search?q=Tabiki+3) | N/A |
+| 32 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 33 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 34 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 35 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 36 | [Peres](http://twitter.com/search?q=Peres) | N/A |
+| 37 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 38 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 39 | [Topunuz](http://twitter.com/search?q=Topunuz) | N/A |
+| 40 | [Abdülkadir](http://twitter.com/search?q=Abd%c3%bclkadir) | N/A |
+| 41 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 42 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
+| 45 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
+| 46 | [Doktorlar](http://twitter.com/search?q=Doktorlar) | N/A |
+| 47 | [Üçüncü](http://twitter.com/search?q=%c3%9c%c3%a7%c3%bcnc%c3%bc) | N/A |
+| 48 | [Yılmaz Güney](http://twitter.com/search?q=Y%c4%b1lmaz+G%c3%bcney) | N/A |
+| 49 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
 
 
 
