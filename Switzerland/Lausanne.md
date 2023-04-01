@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-01 22:17:39 UTC`
+📆 Last Updated: `2023-04-01 23:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 5 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 6 | [#WCCH](http://twitter.com/search?q=%23WCCH) | N/A |
+| 2 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 6 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 7 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
 | 13 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 14 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 15 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
 | 16 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 17 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
@@ -44,25 +44,25 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 27 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
 | 28 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 29 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 30 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
-| 31 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
-| 32 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 30 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
+| 31 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 32 | [Achso](http://twitter.com/search?q=Achso) | N/A |
 | 33 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
 | 34 | [Diskriminierung](http://twitter.com/search?q=Diskriminierung) | N/A |
 | 35 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
 | 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [London](http://twitter.com/search?q=London) | N/A |
-| 38 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
-| 39 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 40 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 41 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 42 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 43 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 44 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 45 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 46 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 47 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 48 | [Meter](http://twitter.com/search?q=Meter) | N/A |
+| 37 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
+| 38 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 39 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 40 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 41 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 42 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 43 | [Meter](http://twitter.com/search?q=Meter) | N/A |
+| 44 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 46 | [glaubwürdigkeit](http://twitter.com/search?q=glaubw%c3%bcrdigkeit) | N/A |
+| 47 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 48 | [Spur](http://twitter.com/search?q=Spur) | N/A |
 
 
 

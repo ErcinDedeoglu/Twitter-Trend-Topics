@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-01 22:18:26 UTC`
+📆 Last Updated: `2023-04-01 23:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Ukraine
 | ------- | ------------ | ------------ |
 | 1 | [#Bucha](http://twitter.com/search?q=%23Bucha) | N/A |
 | 2 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 3 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
+| 3 | [Security Council](http://twitter.com/search?q=Security+Council) | N/A |
 | 4 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
 | 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 6 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Ukraine
 | 17 | [#SarcasmAtItsFinest](http://twitter.com/search?q=%23SarcasmAtItsFinest) | N/A |
 | 18 | [Буче](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d0%b5) | N/A |
 | 19 | [JDAM](http://twitter.com/search?q=JDAM) | N/A |
-| 20 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 21 | [Бучу](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d1%83) | N/A |
-| 22 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
-| 23 | [Харьков](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2) | N/A |
-| 24 | [#Kherson](http://twitter.com/search?q=%23Kherson) | N/A |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 21 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 22 | [Бучу](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d1%83) | N/A |
+| 23 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
+| 24 | [Харьков](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2) | N/A |
+| 25 | [#Kherson](http://twitter.com/search?q=%23Kherson) | N/A |
 | 26 | [новая](http://twitter.com/search?q=%d0%bd%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 27 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 28 | [Днепре](http://twitter.com/search?q=%d0%94%d0%bd%d0%b5%d0%bf%d1%80%d0%b5) | N/A |
-| 29 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 30 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 31 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 32 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 33 | [Лавре](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b2%d1%80%d0%b5) | N/A |
+| 27 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 28 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 29 | [Днепре](http://twitter.com/search?q=%d0%94%d0%bd%d0%b5%d0%bf%d1%80%d0%b5) | N/A |
+| 30 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 31 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 32 | [Лавре](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b2%d1%80%d0%b5) | N/A |
+| 33 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
 | 34 | [UNSC](http://twitter.com/search?q=UNSC) | N/A |
 | 35 | [Avdiivka](http://twitter.com/search?q=Avdiivka) | N/A |
 | 36 | [Джису](http://twitter.com/search?q=%d0%94%d0%b6%d0%b8%d1%81%d1%83) | N/A |
 | 37 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 38 | [Олег](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3) | N/A |
-| 39 | [kharkiv](http://twitter.com/search?q=kharkiv) | N/A |
-| 40 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 41 | [Вона](http://twitter.com/search?q=%d0%92%d0%be%d0%bd%d0%b0) | N/A |
-| 42 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
-| 43 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 38 | [олег](http://twitter.com/search?q=%d0%be%d0%bb%d0%b5%d0%b3) | N/A |
+| 39 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 40 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
+| 41 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
+| 42 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 43 | [Добре](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%b5) | N/A |
 | 44 | [Земле](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
 | 45 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
 | 46 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
 | 47 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
 | 48 | [Сподіваюсь](http://twitter.com/search?q=%d0%a1%d0%bf%d0%be%d0%b4%d1%96%d0%b2%d0%b0%d1%8e%d1%81%d1%8c) | N/A |
 | 49 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
-| 50 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 50 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
 
 
 

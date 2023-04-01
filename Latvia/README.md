@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-01 22:18:21 UTC`
+📆 Last Updated: `2023-04-01 23:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for Latvia
 | 16 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
 | 17 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 18 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 19 | [Jelgavas](http://twitter.com/search?q=Jelgavas) | N/A |
+| 19 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
 | 20 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 21 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 22 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 | 23 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
 | 24 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 25 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
+| 25 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
 | 26 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
 | 27 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
 | 28 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Latvia
 | 45 | [No 1](http://twitter.com/search?q=No+1) | N/A |
 | 46 | [levitu](http://twitter.com/search?q=levitu) | N/A |
 | 47 | [liels](http://twitter.com/search?q=liels) | N/A |
-| 48 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
+| 48 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
 | 49 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
 | 50 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
 

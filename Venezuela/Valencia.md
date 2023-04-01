@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-01 22:17:26 UTC`
+📆 Last Updated: `2023-04-01 23:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#OfensivaMoral](http://twitter.com/search?q=%23OfensivaMoral) | N/A |
 | 2 | [#1Abr](http://twitter.com/search?q=%231Abr) | N/A |
-| 3 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 3 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
 | 4 | [#31Mar](http://twitter.com/search?q=%2331Mar) | N/A |
-| 5 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
+| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 6 | [#MáximaConcienciaPopular](http://twitter.com/search?q=%23M%c3%a1ximaConcienciaPopular) | N/A |
-| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 8 | [Macu](http://twitter.com/search?q=Macu) | N/A |
-| 9 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
-| 10 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
-| 11 | [Olvany Gaspari](http://twitter.com/search?q=Olvany+Gaspari) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 14 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 7 | [Macu](http://twitter.com/search?q=Macu) | N/A |
+| 8 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 9 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
+| 10 | [Olvany Gaspari](http://twitter.com/search?q=Olvany+Gaspari) | N/A |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [Sofía Loren](http://twitter.com/search?q=Sof%c3%ada+Loren) | N/A |
+| 13 | [Delsa Solórzano](http://twitter.com/search?q=Delsa+Sol%c3%b3rzano) | N/A |
+| 14 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
 | 15 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 19 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
-| 20 | [Casos](http://twitter.com/search?q=Casos) | N/A |
-| 21 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 22 | [Día Mundial de la Educación](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Educaci%c3%b3n) | N/A |
-| 23 | [Carolina Perpetuo](http://twitter.com/search?q=Carolina+Perpetuo) | N/A |
-| 24 | [HOBI](http://twitter.com/search?q=HOBI) | N/A |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Revista](http://twitter.com/search?q=Revista) | N/A |
-| 29 | [Delsa Solórzano](http://twitter.com/search?q=Delsa+Sol%c3%b3rzano) | N/A |
-| 30 | [Zamuro](http://twitter.com/search?q=Zamuro) | N/A |
-| 31 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
-| 32 | [Piolín](http://twitter.com/search?q=Piol%c3%adn) | N/A |
-| 33 | [Hernán Gamboa](http://twitter.com/search?q=Hern%c3%a1n+Gamboa) | N/A |
-| 34 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 35 | [Lágrimas](http://twitter.com/search?q=L%c3%a1grimas) | N/A |
-| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 37 | [Cherry Navarro](http://twitter.com/search?q=Cherry+Navarro) | N/A |
-| 38 | [Estropajo](http://twitter.com/search?q=Estropajo) | N/A |
-| 39 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [Choroní](http://twitter.com/search?q=Choron%c3%ad) | N/A |
-| 42 | [Miguel Otero Silva](http://twitter.com/search?q=Miguel+Otero+Silva) | N/A |
-| 43 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 44 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 45 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 46 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 47 | [Vico C](http://twitter.com/search?q=Vico+C) | N/A |
-| 48 | [Catia La Mar](http://twitter.com/search?q=Catia+La+Mar) | N/A |
-| 49 | [Carlos Giménez](http://twitter.com/search?q=Carlos+Gim%c3%a9nez) | N/A |
+| 16 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 19 | [La Lucha](http://twitter.com/search?q=La+Lucha) | N/A |
+| 20 | [Florida Derby](http://twitter.com/search?q=Florida+Derby) | N/A |
+| 21 | [Día Mundial de la Educación](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Educaci%c3%b3n) | N/A |
+| 22 | [Carolina Perpetuo](http://twitter.com/search?q=Carolina+Perpetuo) | N/A |
+| 23 | [Casos](http://twitter.com/search?q=Casos) | N/A |
+| 24 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 25 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 26 | [Coopertone](http://twitter.com/search?q=Coopertone) | N/A |
+| 27 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
+| 28 | [Ley De Extinción De Dominio](http://twitter.com/search?q=Ley+De+Extinci%c3%b3n+De+Dominio) | N/A |
+| 29 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 30 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [Revista](http://twitter.com/search?q=Revista) | N/A |
+| 33 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
+| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 35 | [Zamuro](http://twitter.com/search?q=Zamuro) | N/A |
+| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 37 | [América Alonso](http://twitter.com/search?q=Am%c3%a9rica+Alonso) | N/A |
+| 38 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 39 | [Piolín](http://twitter.com/search?q=Piol%c3%adn) | N/A |
+| 40 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
+| 41 | [Cherry Navarro](http://twitter.com/search?q=Cherry+Navarro) | N/A |
+| 42 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
+| 43 | [Estropajo](http://twitter.com/search?q=Estropajo) | N/A |
+| 44 | [Miguel Otero Silva](http://twitter.com/search?q=Miguel+Otero+Silva) | N/A |
+| 45 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 46 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 49 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
 
 
 

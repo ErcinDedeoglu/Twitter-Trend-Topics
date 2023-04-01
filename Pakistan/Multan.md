@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-01 22:18:00 UTC`
+📆 Last Updated: `2023-04-01 23:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,32 +23,32 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 8 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 9 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 11 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
 | 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
 | 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 18 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 19 | [University of Peshawar](http://twitter.com/search?q=University+of+Peshawar) | N/A |
-| 20 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 21 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 24 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 25 | [ummul momineen](http://twitter.com/search?q=ummul+momineen) | N/A |
-| 26 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 27 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
-| 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [zakat-sadaqat](http://twitter.com/search?q=zakat-sadaqat) | N/A |
-| 31 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 32 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [University of Peshawar](http://twitter.com/search?q=University+of+Peshawar) | N/A |
+| 18 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 19 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 23 | [ummul momineen](http://twitter.com/search?q=ummul+momineen) | N/A |
+| 24 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 25 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
+| 26 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 27 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 28 | [zakat-sadaqat](http://twitter.com/search?q=zakat-sadaqat) | N/A |
+| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 30 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 31 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 33 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 37 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
@@ -57,13 +57,13 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 40 | [Kech](http://twitter.com/search?q=Kech) | N/A |
 | 41 | [Honest](http://twitter.com/search?q=Honest) | N/A |
 | 42 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 43 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 44 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
-| 45 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 43 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 44 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 45 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
 | 46 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
-| 47 | [Yeahhh](http://twitter.com/search?q=Yeahhh) | N/A |
-| 48 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 49 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 47 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 48 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 
 
 

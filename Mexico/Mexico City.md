@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-01 22:17:21 UTC`
+📆 Last Updated: `2023-04-01 23:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 3 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 4 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 5 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 6 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 7 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 8 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 9 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
-| 10 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 13 | [Santiago González](http://twitter.com/search?q=Santiago+Gonz%c3%a1lez) | N/A |
-| 14 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 18 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 23 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 24 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 25 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
-| 26 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 27 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 28 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 30 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
-| 31 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 32 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 33 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
-| 34 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
-| 35 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 36 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 37 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 39 | [Marko](http://twitter.com/search?q=Marko) | N/A |
-| 40 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Clásico Tapatío](http://twitter.com/search?q=Cl%c3%a1sico+Tapat%c3%ado) | N/A |
-| 43 | [#1april](http://twitter.com/search?q=%231april) | N/A |
-| 44 | [#PalNorte2023](http://twitter.com/search?q=%23PalNorte2023) | N/A |
-| 45 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 46 | [#NeverGiveUp](http://twitter.com/search?q=%23NeverGiveUp) | N/A |
+| 2 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Maru](http://twitter.com/search?q=Maru) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 10 | [Y SI NO ES CONMIGO](http://twitter.com/search?q=Y+SI+NO+ES+CONMIGO) | N/A |
+| 11 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 12 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 13 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 14 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 15 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 16 | [#quieromisboletosparamario](http://twitter.com/search?q=%23quieromisboletosparamario) | N/A |
+| 17 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
+| 18 | [eres implacable mati](http://twitter.com/search?q=eres+implacable+mati) | N/A |
+| 19 | [Ashton](http://twitter.com/search?q=Ashton) | N/A |
+| 20 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 21 | [De la Madrid](http://twitter.com/search?q=De+la+Madrid) | N/A |
+| 22 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 23 | [SI ES CONTIGO PT 2](http://twitter.com/search?q=SI+ES+CONTIGO+PT+2) | N/A |
+| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 25 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 26 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 27 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 28 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 29 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 30 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 31 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 34 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 35 | [Beatriz Paredes](http://twitter.com/search?q=Beatriz+Paredes) | N/A |
+| 36 | [Pedrito Fernández](http://twitter.com/search?q=Pedrito+Fern%c3%a1ndez) | N/A |
+| 37 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 38 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
+| 39 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 40 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 41 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 42 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 43 | [arturo castillo loza](http://twitter.com/search?q=arturo+castillo+loza) | N/A |
+| 44 | [The 1](http://twitter.com/search?q=The+1) | N/A |
+| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 47 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 48 | [Santiago González](http://twitter.com/search?q=Santiago+Gonz%c3%a1lez) | N/A |
+| 49 | [Plaza U](http://twitter.com/search?q=Plaza+U) | N/A |
+| 50 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-04-01 22:18:14 UTC`
+📆 Last Updated: `2023-04-01 23:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 2 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 3 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 6 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 7 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 2 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 3 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 4 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 7 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
 | 8 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 9 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 10 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 11 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 12 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
-| 13 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 14 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 15 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 16 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 17 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 18 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 19 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 20 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 21 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 22 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 23 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 24 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 25 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 26 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 27 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
-| 28 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 29 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 30 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 32 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
-| 33 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 34 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
-| 35 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 36 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 37 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
-| 38 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 39 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 40 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 41 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
-| 42 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
-| 43 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 44 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
-| 45 | [Matty O](http://twitter.com/search?q=Matty+O) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
-| 48 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 49 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 50 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 9 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 10 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 11 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 12 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 13 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 14 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
+| 15 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 16 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 17 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 18 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 19 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 20 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 21 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 22 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 23 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 24 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 25 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 26 | [Dean Thompson](http://twitter.com/search?q=Dean+Thompson) | N/A |
+| 27 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 28 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 29 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 30 | [Mitch Garver](http://twitter.com/search?q=Mitch+Garver) | N/A |
+| 31 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 32 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 33 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 34 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 35 | [Josh Harrison](http://twitter.com/search?q=Josh+Harrison) | N/A |
+| 36 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 37 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
+| 38 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 39 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 40 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
+| 41 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 42 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 43 | [Mark Canha](http://twitter.com/search?q=Mark+Canha) | N/A |
+| 44 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
+| 45 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 46 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 47 | [Brandon Crawford](http://twitter.com/search?q=Brandon+Crawford) | N/A |
+| 48 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 49 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 50 | [Go Owls](http://twitter.com/search?q=Go+Owls) | N/A |
 
 
 

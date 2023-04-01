@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-01 22:17:28 UTC`
+📆 Last Updated: `2023-04-01 23:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 2 | [O Grêmio](http://twitter.com/search?q=O+Gr%c3%aamio) | N/A |
-| 3 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 4 | [João Pedro](http://twitter.com/search?q=Jo%c3%a3o+Pedro) | N/A |
-| 5 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
-| 6 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 7 | [Centenário](http://twitter.com/search?q=Centen%c3%a1rio) | N/A |
-| 8 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 9 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
-| 10 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 11 | [#TardezinhaNoMultishow](http://twitter.com/search?q=%23TardezinhaNoMultishow) | N/A |
-| 12 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 13 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 14 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
-| 15 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 16 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 17 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 18 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 19 | [ATLÉTICO MINEIRO](http://twitter.com/search?q=ATL%c3%89TICO+MINEIRO) | N/A |
-| 20 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 21 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 22 | [benítez](http://twitter.com/search?q=ben%c3%adtez) | N/A |
-| 23 | [Chrigor](http://twitter.com/search?q=Chrigor) | N/A |
-| 24 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
-| 25 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 26 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 27 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
-| 28 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
-| 29 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 30 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
-| 31 | [vargas](http://twitter.com/search?q=vargas) | N/A |
-| 32 | [ALINE MERECE RESPEITO](http://twitter.com/search?q=ALINE+MERECE+RESPEITO) | N/A |
-| 33 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 34 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 35 | [Fernanda Souza](http://twitter.com/search?q=Fernanda+Souza) | N/A |
-| 36 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 37 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 38 | [Falha](http://twitter.com/search?q=Falha) | N/A |
-| 39 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 40 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 41 | [Patrick e Edenilson](http://twitter.com/search?q=Patrick+e+Edenilson) | N/A |
-| 42 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
-| 43 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 44 | [Renzo](http://twitter.com/search?q=Renzo) | N/A |
-| 45 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 46 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 47 | [#XouDaXuxaNoVIVA](http://twitter.com/search?q=%23XouDaXuxaNoVIVA) | N/A |
-| 48 | [Thiago André](http://twitter.com/search?q=Thiago+Andr%c3%a9) | N/A |
-| 49 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 50 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 1 | [O Grêmio](http://twitter.com/search?q=O+Gr%c3%aamio) | N/A |
+| 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 3 | [Moacir](http://twitter.com/search?q=Moacir) | N/A |
+| 4 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 5 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 6 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 7 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 8 | [João Pedro](http://twitter.com/search?q=Jo%c3%a3o+Pedro) | N/A |
+| 9 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 10 | [Centenário](http://twitter.com/search?q=Centen%c3%a1rio) | N/A |
+| 11 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 12 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 13 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 14 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 15 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 16 | [#TardezinhaNoMultishow](http://twitter.com/search?q=%23TardezinhaNoMultishow) | N/A |
+| 17 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 18 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
+| 19 | [Chrigor](http://twitter.com/search?q=Chrigor) | N/A |
+| 20 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 21 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 22 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 23 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 24 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 25 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 26 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 27 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 28 | [ATLÉTICO MINEIRO](http://twitter.com/search?q=ATL%c3%89TICO+MINEIRO) | N/A |
+| 29 | [Benítez](http://twitter.com/search?q=Ben%c3%adtez) | N/A |
+| 30 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 31 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 32 | [Ventania](http://twitter.com/search?q=Ventania) | N/A |
+| 33 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 34 | [#FlaxFlu](http://twitter.com/search?q=%23FlaxFlu) | N/A |
+| 35 | [Exaltasamba](http://twitter.com/search?q=Exaltasamba) | N/A |
+| 36 | [#caldeirão](http://twitter.com/search?q=%23caldeir%c3%a3o) | N/A |
+| 37 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 38 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 39 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 40 | [ALINE MERECE RESPEITO](http://twitter.com/search?q=ALINE+MERECE+RESPEITO) | N/A |
+| 41 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 42 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 43 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
+| 44 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
+| 45 | [Pericão](http://twitter.com/search?q=Peric%c3%a3o) | N/A |
+| 46 | [Thiago André](http://twitter.com/search?q=Thiago+Andr%c3%a9) | N/A |
+| 47 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 48 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 49 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 50 | [Portela](http://twitter.com/search?q=Portela) | N/A |
 
 
 

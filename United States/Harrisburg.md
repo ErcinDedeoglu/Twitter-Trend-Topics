@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-04-01 22:18:08 UTC`
+📆 Last Updated: `2023-04-01 23:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bryan Rust](http://twitter.com/search?q=Bryan+Rust) | N/A |
-| 2 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 4 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 5 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
-| 6 | [#pawx](http://twitter.com/search?q=%23pawx) | N/A |
-| 7 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 8 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 9 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 12 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 13 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 14 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 15 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 16 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 17 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 18 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 19 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
-| 20 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 21 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 22 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 23 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 24 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 25 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 26 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 27 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 28 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 29 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 30 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 31 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 32 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
-| 33 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 34 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 35 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
-| 38 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
-| 39 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 40 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 41 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 42 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 43 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 44 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 45 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
-| 46 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
-| 47 | [Matty O](http://twitter.com/search?q=Matty+O) | N/A |
-| 48 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
-| 49 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 50 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
+| 1 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 3 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 4 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 5 | [Bryan Rust](http://twitter.com/search?q=Bryan+Rust) | N/A |
+| 6 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 7 | [#pawx](http://twitter.com/search?q=%23pawx) | N/A |
+| 8 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 9 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 10 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 11 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 12 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
+| 13 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 14 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 17 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 18 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 19 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 20 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 21 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 22 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 23 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 24 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
+| 25 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 26 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 27 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 28 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 30 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 31 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 32 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 33 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 34 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 35 | [Dean Thompson](http://twitter.com/search?q=Dean+Thompson) | N/A |
+| 36 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 37 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 38 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 39 | [Mitch Garver](http://twitter.com/search?q=Mitch+Garver) | N/A |
+| 40 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 41 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 42 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 43 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 44 | [Josh Harrison](http://twitter.com/search?q=Josh+Harrison) | N/A |
+| 45 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 46 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
+| 47 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 48 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 49 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
+| 50 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
 
 
 

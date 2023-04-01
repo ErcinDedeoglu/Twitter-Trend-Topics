@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-01 22:17:31 UTC`
+📆 Last Updated: `2023-04-01 23:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,17 +33,17 @@ This is top 50 for [Austria](</Austria>)
 | 16 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 17 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
 | 18 | [Silberstein](http://twitter.com/search?q=Silberstein) | N/A |
-| 19 | [liverpool](http://twitter.com/search?q=liverpool) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 22 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 23 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 24 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 25 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 26 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 27 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 28 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
-| 29 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 22 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 23 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 24 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 25 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 26 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 27 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
+| 28 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 29 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
 | 30 | [Andreas Babler](http://twitter.com/search?q=Andreas+Babler) | N/A |
 | 31 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 32 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
@@ -51,10 +51,10 @@ This is top 50 for [Austria](</Austria>)
 | 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 35 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
 | 36 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
-| 37 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 38 | [sohn](http://twitter.com/search?q=sohn) | N/A |
-| 39 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 40 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 37 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 38 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 39 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 40 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
 | 41 | [Pracker](http://twitter.com/search?q=Pracker) | N/A |
 | 42 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 | 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Austria](</Austria>)
 | 46 | [Termine](http://twitter.com/search?q=Termine) | N/A |
 | 47 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
 | 48 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 49 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 50 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 49 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 
 
 

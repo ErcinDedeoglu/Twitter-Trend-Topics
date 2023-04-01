@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-01 22:17:43 UTC`
+📆 Last Updated: `2023-04-01 23:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AstonByElection](http://twitter.com/search?q=%23AstonByElection) | N/A |
-| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 3 | [#AFLSaintsDons](http://twitter.com/search?q=%23AFLSaintsDons) | N/A |
-| 4 | [#aflpowercrows](http://twitter.com/search?q=%23aflpowercrows) | N/A |
-| 5 | [#aflgiantsblues](http://twitter.com/search?q=%23aflgiantsblues) | N/A |
-| 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 7 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 8 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
-| 9 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 10 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 11 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 12 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 15 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
-| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 17 | [Tony Barry](http://twitter.com/search?q=Tony+Barry) | N/A |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
-| 20 | [Brunswick](http://twitter.com/search?q=Brunswick) | N/A |
+| 1 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 2 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 4 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 5 | [#AFLSaintsDons](http://twitter.com/search?q=%23AFLSaintsDons) | N/A |
+| 6 | [#aflpowercrows](http://twitter.com/search?q=%23aflpowercrows) | N/A |
+| 7 | [#AFLGiantsBlues](http://twitter.com/search?q=%23AFLGiantsBlues) | N/A |
+| 8 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 9 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 10 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 11 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 12 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 13 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 14 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 18 | [Tony Barry](http://twitter.com/search?q=Tony+Barry) | N/A |
+| 19 | [Spud](http://twitter.com/search?q=Spud) | N/A |
+| 20 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Spud](http://twitter.com/search?q=Spud) | N/A |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 25 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 26 | [Mason wood](http://twitter.com/search?q=Mason+wood) | N/A |
+| 22 | [Brunswick](http://twitter.com/search?q=Brunswick) | N/A |
+| 23 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Mason Wood](http://twitter.com/search?q=Mason+Wood) | N/A |
+| 26 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
 | 27 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Kroger](http://twitter.com/search?q=Kroger) | N/A |
-| 30 | [Newman](http://twitter.com/search?q=Newman) | N/A |
-| 31 | [i wish i win](http://twitter.com/search?q=i+wish+i+win) | N/A |
-| 32 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 33 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 34 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 35 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 36 | [Caldwell](http://twitter.com/search?q=Caldwell) | N/A |
-| 37 | [nature strip](http://twitter.com/search?q=nature+strip) | N/A |
-| 38 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
-| 39 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 40 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
-| 41 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 42 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
-| 43 | [Karvelas](http://twitter.com/search?q=Karvelas) | N/A |
-| 44 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
-| 45 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 46 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 47 | [Thilthorpe](http://twitter.com/search?q=Thilthorpe) | N/A |
-| 48 | [Hinkley](http://twitter.com/search?q=Hinkley) | N/A |
-| 49 | [amelia's jewel](http://twitter.com/search?q=amelia%27s+jewel) | N/A |
+| 28 | [Kroger](http://twitter.com/search?q=Kroger) | N/A |
+| 29 | [I WISH I WIN](http://twitter.com/search?q=I+WISH+I+WIN) | N/A |
+| 30 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
+| 31 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 32 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 33 | [Niki Savva](http://twitter.com/search?q=Niki+Savva) | N/A |
+| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 35 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
+| 36 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 37 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
+| 38 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
+| 39 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 40 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [Phil Coorey](http://twitter.com/search?q=Phil+Coorey) | N/A |
+| 43 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 44 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
+| 45 | [Hinkley](http://twitter.com/search?q=Hinkley) | N/A |
+| 46 | [Karvelas](http://twitter.com/search?q=Karvelas) | N/A |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 48 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 49 | [Thilthorpe](http://twitter.com/search?q=Thilthorpe) | N/A |
 
 
 

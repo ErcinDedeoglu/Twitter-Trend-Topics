@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-01 22:17:16 UTC`
+📆 Last Updated: `2023-04-01 23:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 2 | [biggio](http://twitter.com/search?q=biggio) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 3 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 4 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
-| 5 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 6 | [Espinal](http://twitter.com/search?q=Espinal) | N/A |
-| 7 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 4 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 10 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 11 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 13 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 16 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 17 | [John Horgan](http://twitter.com/search?q=John+Horgan) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 20 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 21 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 23 | [Billboard Chris](http://twitter.com/search?q=Billboard+Chris) | N/A |
-| 24 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 25 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 26 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 27 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
-| 28 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 29 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 30 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
-| 31 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 32 | [#SikhHeritageMonth](http://twitter.com/search?q=%23SikhHeritageMonth) | N/A |
-| 33 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 34 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
-| 35 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
+| 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 12 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 15 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 16 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 17 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 18 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 19 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 20 | [Horgan](http://twitter.com/search?q=Horgan) | N/A |
+| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 22 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 23 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 24 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 25 | [Espinal](http://twitter.com/search?q=Espinal) | N/A |
+| 26 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 27 | [Billboard Chris](http://twitter.com/search?q=Billboard+Chris) | N/A |
+| 28 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 29 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 30 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 31 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 32 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 35 | [Vancouver Police](http://twitter.com/search?q=Vancouver+Police) | N/A |
+| 36 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 37 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 38 | [C-11](http://twitter.com/search?q=C-11) | N/A |
+| 39 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 40 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 41 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 42 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 43 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 46 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 47 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 48 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
+| 49 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 
 
 
