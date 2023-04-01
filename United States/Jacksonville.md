@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-01 20:17:38 UTC`
+📆 Last Updated: `2023-04-01 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [#megaconorlando](http://twitter.com/search?q=%23megaconorlando) | N/A |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 6 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [#EFFYGAYLA](http://twitter.com/search?q=%23EFFYGAYLA) | N/A |
-| 10 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 11 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 12 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
-| 13 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 14 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 15 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 16 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 17 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 18 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 20 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 21 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 22 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
-| 23 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 26 | [Bron Breakker](http://twitter.com/search?q=Bron+Breakker) | N/A |
-| 27 | [dragon lee](http://twitter.com/search?q=dragon+lee) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Isla Dawn](http://twitter.com/search?q=Isla+Dawn) | N/A |
-| 30 | [scotty sire](http://twitter.com/search?q=scotty+sire) | N/A |
-| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 32 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 33 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 34 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 35 | [HE IS HIM](http://twitter.com/search?q=HE+IS+HIM) | N/A |
-| 36 | [Woodruff](http://twitter.com/search?q=Woodruff) | N/A |
-| 37 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 38 | [Candice](http://twitter.com/search?q=Candice) | N/A |
-| 39 | [NXT Champion](http://twitter.com/search?q=NXT+Champion) | N/A |
-| 40 | [The Way](http://twitter.com/search?q=The+Way) | N/A |
-| 41 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 42 | [Javier Assad](http://twitter.com/search?q=Javier+Assad) | N/A |
-| 43 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 44 | [Johnny Wrestling](http://twitter.com/search?q=Johnny+Wrestling) | N/A |
-| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 46 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 47 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 48 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 49 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 50 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 1 | [#MEGACONOrlando2023](http://twitter.com/search?q=%23MEGACONOrlando2023) | N/A |
+| 2 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
+| 3 | [#Marlins](http://twitter.com/search?q=%23Marlins) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 7 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 8 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 9 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 10 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 11 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 14 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 15 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 16 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 17 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 18 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 19 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 20 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 21 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 24 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 26 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 27 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 28 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
+| 29 | [Olson](http://twitter.com/search?q=Olson) | N/A |
+| 30 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 31 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
+| 32 | [Indi](http://twitter.com/search?q=Indi) | N/A |
+| 33 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 34 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
+| 35 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 36 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
+| 37 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 38 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 39 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 40 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 41 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 42 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
+| 43 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 44 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
+| 45 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 46 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
+| 47 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
+| 48 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 49 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 50 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 
 
 

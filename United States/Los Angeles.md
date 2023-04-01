@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-01 20:17:39 UTC`
+📆 Last Updated: `2023-04-01 21:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
-| 2 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 9 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [#EFFYGAYLA](http://twitter.com/search?q=%23EFFYGAYLA) | N/A |
-| 13 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 14 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 15 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
-| 16 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 17 | [indi](http://twitter.com/search?q=indi) | N/A |
-| 18 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 19 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 20 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 21 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 24 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 25 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
-| 26 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 29 | [Bron Breakker](http://twitter.com/search?q=Bron+Breakker) | N/A |
-| 30 | [dragon lee](http://twitter.com/search?q=dragon+lee) | N/A |
-| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 32 | [Isla Dawn](http://twitter.com/search?q=Isla+Dawn) | N/A |
-| 33 | [scotty sire](http://twitter.com/search?q=scotty+sire) | N/A |
-| 34 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 35 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 36 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 37 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 38 | [HE IS HIM](http://twitter.com/search?q=HE+IS+HIM) | N/A |
-| 39 | [Woodruff](http://twitter.com/search?q=Woodruff) | N/A |
-| 40 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 41 | [Candice](http://twitter.com/search?q=Candice) | N/A |
-| 42 | [NXT Champion](http://twitter.com/search?q=NXT+Champion) | N/A |
-| 43 | [The Way](http://twitter.com/search?q=The+Way) | N/A |
-| 44 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 45 | [Javier Assad](http://twitter.com/search?q=Javier+Assad) | N/A |
-| 46 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 47 | [Johnny Wrestling](http://twitter.com/search?q=Johnny+Wrestling) | N/A |
-| 48 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 49 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 50 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 1 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 2 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 3 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
+| 4 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
+| 5 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 6 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
+| 7 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
+| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 12 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 13 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 14 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 15 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 16 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 19 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 20 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 21 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 22 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 23 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 24 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 25 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 26 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 31 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 32 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 33 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
+| 34 | [Olson](http://twitter.com/search?q=Olson) | N/A |
+| 35 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 36 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
+| 37 | [Indi](http://twitter.com/search?q=Indi) | N/A |
+| 38 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
+| 39 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 40 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 41 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
+| 42 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 43 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 44 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 45 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 46 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 47 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
+| 48 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
+| 49 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 50 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
 
 
 

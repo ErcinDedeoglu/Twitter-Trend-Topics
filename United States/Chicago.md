@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-01 20:17:36 UTC`
+📆 Last Updated: `2023-04-01 21:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#C2E2](http://twitter.com/search?q=%23C2E2) | N/A |
 | 2 | [#SPPAC2023](http://twitter.com/search?q=%23SPPAC2023) | N/A |
-| 3 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 4 | [#NextStartsHere](http://twitter.com/search?q=%23NextStartsHere) | N/A |
-| 5 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
-| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 7 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 8 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 9 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [#EFFYGAYLA](http://twitter.com/search?q=%23EFFYGAYLA) | N/A |
-| 12 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 13 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 14 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 15 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 16 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 17 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 18 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 20 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 21 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 22 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
-| 23 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 26 | [Bron Breakker](http://twitter.com/search?q=Bron+Breakker) | N/A |
-| 27 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Isla Dawn](http://twitter.com/search?q=Isla+Dawn) | N/A |
-| 30 | [scotty sire](http://twitter.com/search?q=scotty+sire) | N/A |
-| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 32 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 33 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 34 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 35 | [HE IS HIM](http://twitter.com/search?q=HE+IS+HIM) | N/A |
-| 36 | [Woodruff](http://twitter.com/search?q=Woodruff) | N/A |
-| 37 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 38 | [Candice](http://twitter.com/search?q=Candice) | N/A |
-| 39 | [NXT Champion](http://twitter.com/search?q=NXT+Champion) | N/A |
-| 40 | [The Way](http://twitter.com/search?q=The+Way) | N/A |
-| 41 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 42 | [Javier Assad](http://twitter.com/search?q=Javier+Assad) | N/A |
-| 43 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 44 | [Johnny Wrestling](http://twitter.com/search?q=Johnny+Wrestling) | N/A |
-| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 46 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 47 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 48 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 49 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 50 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 3 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
+| 4 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 5 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 6 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 7 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 8 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
+| 9 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 10 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 11 | [#NextStartsHere](http://twitter.com/search?q=%23NextStartsHere) | N/A |
+| 12 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
+| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 14 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 15 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 16 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 17 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 18 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 21 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 22 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 24 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 25 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 26 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 27 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 28 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 29 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 33 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 34 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 35 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
+| 36 | [Olson](http://twitter.com/search?q=Olson) | N/A |
+| 37 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 38 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
+| 39 | [Indi](http://twitter.com/search?q=Indi) | N/A |
+| 40 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
+| 41 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 42 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 43 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
+| 44 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 45 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 46 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 47 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 48 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 49 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
+| 50 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-01 20:17:13 UTC`
+📆 Last Updated: `2023-04-01 21:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Australia](</Australia>)
 | 5 | [#AFLPowerCrows](http://twitter.com/search?q=%23AFLPowerCrows) | N/A |
 | 6 | [#NRLManlyKnights](http://twitter.com/search?q=%23NRLManlyKnights) | N/A |
 | 7 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 10 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 11 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
-| 12 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
-| 13 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 14 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [heppell](http://twitter.com/search?q=heppell) | N/A |
-| 18 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 19 | [Tony Barry](http://twitter.com/search?q=Tony+Barry) | N/A |
+| 8 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 9 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 10 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
+| 11 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [heppell](http://twitter.com/search?q=heppell) | N/A |
+| 16 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 18 | [Tony Barry](http://twitter.com/search?q=Tony+Barry) | N/A |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 20 | [mason wood](http://twitter.com/search?q=mason+wood) | N/A |
 | 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 22 | [Brunswick](http://twitter.com/search?q=Brunswick) | N/A |
 | 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 27 | [Spud](http://twitter.com/search?q=Spud) | N/A |
-| 28 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 24 | [Spud](http://twitter.com/search?q=Spud) | N/A |
+| 25 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 28 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
 | 29 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
 | 30 | [Newman](http://twitter.com/search?q=Newman) | N/A |
-| 31 | [Lachie Miller](http://twitter.com/search?q=Lachie+Miller) | N/A |
-| 32 | [I Wish I Win](http://twitter.com/search?q=I+Wish+I+Win) | N/A |
-| 33 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 34 | [Kroger](http://twitter.com/search?q=Kroger) | N/A |
-| 35 | [MR BRIGHTSIDE](http://twitter.com/search?q=MR+BRIGHTSIDE) | N/A |
-| 36 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 37 | [Thilthorpe](http://twitter.com/search?q=Thilthorpe) | N/A |
-| 38 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 39 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 40 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 41 | [Caldwell](http://twitter.com/search?q=Caldwell) | N/A |
-| 42 | [nature strip](http://twitter.com/search?q=nature+strip) | N/A |
-| 43 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
-| 44 | [hinkley](http://twitter.com/search?q=hinkley) | N/A |
-| 45 | [mudgee](http://twitter.com/search?q=mudgee) | N/A |
-| 46 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 47 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 48 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 50 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 31 | [I Wish I Win](http://twitter.com/search?q=I+Wish+I+Win) | N/A |
+| 32 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 33 | [Kroger](http://twitter.com/search?q=Kroger) | N/A |
+| 34 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 35 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 36 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 37 | [Caldwell](http://twitter.com/search?q=Caldwell) | N/A |
+| 38 | [nature strip](http://twitter.com/search?q=nature+strip) | N/A |
+| 39 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 40 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
+| 41 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 42 | [Hinkley](http://twitter.com/search?q=Hinkley) | N/A |
+| 43 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 44 | [Thilthorpe](http://twitter.com/search?q=Thilthorpe) | N/A |
+| 45 | [MR BRIGHTSIDE](http://twitter.com/search?q=MR+BRIGHTSIDE) | N/A |
+| 46 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 47 | [Karvelas](http://twitter.com/search?q=Karvelas) | N/A |
+| 48 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 49 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
+| 50 | [Amelia's Jewel](http://twitter.com/search?q=Amelia%27s+Jewel) | N/A |
 
 
 
