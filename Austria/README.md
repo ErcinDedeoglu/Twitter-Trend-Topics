@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-01 02:30:01 UTC`
+📆 Last Updated: `2023-04-01 03:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 2 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 3 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 4 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 5 | [schmid](http://twitter.com/search?q=schmid) | N/A |
@@ -24,7 +24,7 @@ This is top 50 for Austria
 | 7 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
 | 8 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
 | 9 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 10 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 11 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 12 | [Mitbestimmung](http://twitter.com/search?q=Mitbestimmung) | N/A |
 | 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for Austria
 | 18 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
 | 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 20 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
-| 21 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 21 | [stiftungen](http://twitter.com/search?q=stiftungen) | N/A |
 | 22 | [Herren](http://twitter.com/search?q=Herren) | N/A |
-| 23 | [Chats](http://twitter.com/search?q=Chats) | N/A |
-| 24 | [fernbleiben](http://twitter.com/search?q=fernbleiben) | N/A |
-| 25 | [inserate](http://twitter.com/search?q=inserate) | N/A |
-| 26 | [boulevard](http://twitter.com/search?q=boulevard) | N/A |
-| 27 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 28 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 29 | [Kellernazi](http://twitter.com/search?q=Kellernazi) | N/A |
-| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 23 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 24 | [Chats](http://twitter.com/search?q=Chats) | N/A |
+| 25 | [fernbleiben](http://twitter.com/search?q=fernbleiben) | N/A |
+| 26 | [inserate](http://twitter.com/search?q=inserate) | N/A |
+| 27 | [boulevard](http://twitter.com/search?q=boulevard) | N/A |
+| 28 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 29 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
+| 30 | [Kellernazi](http://twitter.com/search?q=Kellernazi) | N/A |
 | 31 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 32 | [Freut](http://twitter.com/search?q=Freut) | N/A |
-| 33 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 34 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 35 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 36 | [eklat](http://twitter.com/search?q=eklat) | N/A |
-| 37 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 38 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
-| 39 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 40 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 41 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 42 | [Kriegspartei](http://twitter.com/search?q=Kriegspartei) | N/A |
-| 43 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 44 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 45 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 46 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 47 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 48 | [Methode](http://twitter.com/search?q=Methode) | N/A |
-| 49 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 50 | [ausreden](http://twitter.com/search?q=ausreden) | N/A |
+| 32 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 33 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 34 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 35 | [eklat](http://twitter.com/search?q=eklat) | N/A |
+| 36 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 37 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
+| 38 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 39 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 40 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 41 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
+| 42 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 43 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
+| 44 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 45 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 46 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 47 | [Methode](http://twitter.com/search?q=Methode) | N/A |
+| 48 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 49 | [ausreden](http://twitter.com/search?q=ausreden) | N/A |
+| 50 | [FPÖler](http://twitter.com/search?q=FP%c3%96ler) | N/A |
 
 
 

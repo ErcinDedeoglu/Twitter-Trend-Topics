@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-04-01 02:29:23 UTC`
+📆 Last Updated: `2023-04-01 03:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
 | 2 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
-| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 4 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 5 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 6 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 7 | [#ProvaDeResistencia](http://twitter.com/search?q=%23ProvaDeResistencia) | N/A |
-| 8 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 9 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 10 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
-| 11 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 12 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 13 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 14 | [#RodeoinTokyo](http://twitter.com/search?q=%23RodeoinTokyo) | N/A |
-| 15 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 16 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 17 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
-| 18 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 19 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 20 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 21 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 22 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 24 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
-| 25 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 26 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
-| 27 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 28 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 29 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 30 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 31 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
-| 32 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 33 | [Rodrigo Battaglia](http://twitter.com/search?q=Rodrigo+Battaglia) | N/A |
-| 34 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 35 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
-| 36 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 37 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 38 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 39 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 40 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 41 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 42 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 43 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 44 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 45 | [Raio](http://twitter.com/search?q=Raio) | N/A |
-| 46 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
-| 47 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 48 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 49 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 50 | [Borel](http://twitter.com/search?q=Borel) | N/A |
+| 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 5 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
+| 6 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 7 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
+| 8 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 9 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 10 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 11 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 12 | [#GloboRepórter](http://twitter.com/search?q=%23GloboRep%c3%b3rter) | N/A |
+| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 14 | [MAIARA E MARAISA NO FAUSTÃO](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+FAUST%c3%83O) | N/A |
+| 15 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
+| 16 | [THE 1](http://twitter.com/search?q=THE+1) | N/A |
+| 17 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 18 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 19 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 20 | [Akkari](http://twitter.com/search?q=Akkari) | N/A |
+| 21 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 22 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 23 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
+| 24 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 25 | [Los Angeles Lakers](http://twitter.com/search?q=Los+Angeles+Lakers) | N/A |
+| 26 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
+| 27 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 28 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 29 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 30 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 31 | [david braga](http://twitter.com/search?q=david+braga) | N/A |
+| 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 33 | [HAPPY BIRTHDAY JOSH](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOSH) | N/A |
+| 34 | [James Cameron](http://twitter.com/search?q=James+Cameron) | N/A |
+| 35 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 36 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
+| 37 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 38 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 39 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 40 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 41 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 42 | [Banco Inter](http://twitter.com/search?q=Banco+Inter) | N/A |
+| 43 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 44 | [Brisa e Ari](http://twitter.com/search?q=Brisa+e+Ari) | N/A |
+| 45 | [Hajun](http://twitter.com/search?q=Hajun) | N/A |
+| 46 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
+| 47 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
+| 48 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 49 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 50 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
 
 
 

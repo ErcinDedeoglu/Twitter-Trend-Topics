@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-01 02:29:41 UTC`
+📆 Last Updated: `2023-04-01 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -61,10 +61,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 44 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 45 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 47 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
-| 48 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 49 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 50 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 47 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 48 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
+| 49 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 50 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
 
 
 

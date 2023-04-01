@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-01 02:30:08 UTC`
+📆 Last Updated: `2023-04-01 03:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Switzerland
 | 1 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
 | 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 5 | [#SRFArena](http://twitter.com/search?q=%23SRFArena) | N/A |
+| 4 | [#SRFArena](http://twitter.com/search?q=%23SRFArena) | N/A |
+| 5 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 7 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
 | 8 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Switzerland
 | 44 | [Basically](http://twitter.com/search?q=Basically) | N/A |
 | 45 | [Signal](http://twitter.com/search?q=Signal) | N/A |
 | 46 | [President](http://twitter.com/search?q=President) | N/A |
-| 47 | [kosova](http://twitter.com/search?q=kosova) | N/A |
+| 47 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
 | 48 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 49 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
 | 50 | [The EU](http://twitter.com/search?q=The+EU) | N/A |

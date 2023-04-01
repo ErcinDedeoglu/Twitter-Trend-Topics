@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-01 02:29:14 UTC`
+📆 Last Updated: `2023-04-01 03:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,43 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 3 | [#ROHSuperCard](http://twitter.com/search?q=%23ROHSuperCard) | N/A |
-| 4 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 7 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 8 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 9 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 10 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 11 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 13 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 14 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 15 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 17 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 18 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 19 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 20 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
-| 21 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 22 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 23 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 24 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 25 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 26 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
-| 27 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
-| 28 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
-| 29 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
-| 30 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
+| 3 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 5 | [#ROHSuperCardOfHonor](http://twitter.com/search?q=%23ROHSuperCardOfHonor) | N/A |
+| 6 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 9 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 10 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 11 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 12 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [Athena](http://twitter.com/search?q=Athena) | N/A |
+| 17 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 18 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 20 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 21 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 22 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 23 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 24 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 25 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 26 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 27 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 28 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 29 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
+| 30 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
 | 31 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 32 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
+| 32 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 33 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 34 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 34 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 35 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 36 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 36 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
 | 37 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 38 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
-| 39 | [#MostHaunted](http://twitter.com/search?q=%23MostHaunted) | N/A |
-| 40 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 41 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
-| 42 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
-| 43 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
-| 44 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
-| 45 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
-| 46 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
+| 38 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
+| 39 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
 
 
 

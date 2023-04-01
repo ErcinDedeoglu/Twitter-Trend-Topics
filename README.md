@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-01 02:29:12 UTC`
+📆 Last Updated: `2023-04-01 03:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 2 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 5 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 7 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 8 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 9 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 10 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 11 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 12 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 13 | [#嘘か本当かわからないことを言う](http://twitter.com/search?q=%23%e5%98%98%e3%81%8b%e6%9c%ac%e5%bd%93%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%82%92%e8%a8%80%e3%81%86) | N/A |
-| 14 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 15 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 16 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 17 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 18 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 19 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 20 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 22 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 23 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 24 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 25 | [بن فطيس](http://twitter.com/search?q=%d8%a8%d9%86+%d9%81%d8%b7%d9%8a%d8%b3) | N/A |
-| 26 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 27 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 28 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
-| 29 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 30 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
-| 31 | [少子化財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e8%b2%a1%e6%ba%90) | N/A |
-| 32 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 33 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
-| 34 | [新年度スタート](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
-| 35 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 36 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
-| 37 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 38 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 39 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 40 | [Latino World Order](http://twitter.com/search?q=Latino+World+Order) | N/A |
-| 41 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 42 | [社会保険料](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e6%96%99) | N/A |
-| 43 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 44 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 45 | [Bobby Lashley](http://twitter.com/search?q=Bobby+Lashley) | N/A |
-| 46 | [ネッシー派](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc%e6%b4%be) | N/A |
-| 47 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 48 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 49 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 50 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#فوازير_غازي_الذيابي5](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a5) | N/A |
+| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 5 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
+| 6 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 7 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 8 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 9 | [Seccadeye](http://twitter.com/search?q=Seccadeye) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 13 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
+| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 15 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 18 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 19 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 20 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 21 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 22 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 24 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 25 | [Sevgili Nisan](http://twitter.com/search?q=Sevgili+Nisan) | N/A |
+| 26 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 27 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 28 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 30 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 31 | [Παυλος](http://twitter.com/search?q=%ce%a0%ce%b1%cf%85%ce%bb%ce%bf%cf%82) | N/A |
+| 32 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 33 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 34 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 35 | [Μοτο](http://twitter.com/search?q=%ce%9c%ce%bf%cf%84%ce%bf) | N/A |
+| 36 | [ابو موسي الاشعري](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d8%b1%d9%8a) | N/A |
+| 37 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 38 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
+| 39 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 40 | [#فوزيه_اللحيدان](http://twitter.com/search?q=%23%d9%81%d9%88%d8%b2%d9%8a%d9%87_%d8%a7%d9%84%d9%84%d8%ad%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 41 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
+| 42 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 43 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 44 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 45 | [#سوال_ابوفهد_اليومي3](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a3) | N/A |
+| 46 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 47 | [#رمضان_مع_ابو_فهد2](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af2) | N/A |
+| 48 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
+| 49 | [#PetersonVictoryDance](http://twitter.com/search?q=%23PetersonVictoryDance) | N/A |
+| 50 | [#مسابقه_دعوه_بلحمر](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%af%d8%b9%d9%88%d9%87_%d8%a8%d9%84%d8%ad%d9%85%d8%b1) | N/A |
 
 
 

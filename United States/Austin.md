@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-01 02:29:52 UTC`
+📆 Last Updated: `2023-04-01 03:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 2 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
-| 3 | [#Jouvert](http://twitter.com/search?q=%23Jouvert) | N/A |
-| 4 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
-| 5 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 6 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 9 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 11 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 17 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 18 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 19 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 20 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 23 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 24 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 25 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 27 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 28 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 29 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 30 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 31 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 32 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 33 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 34 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 35 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 36 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 37 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 38 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 39 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 40 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 41 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 42 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 43 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 44 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 45 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 46 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 47 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 48 | [Ames](http://twitter.com/search?q=Ames) | N/A |
-| 49 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 50 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 1 | [Jake Meyers](http://twitter.com/search?q=Jake+Meyers) | N/A |
+| 2 | [Hensley](http://twitter.com/search?q=Hensley) | N/A |
+| 3 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 4 | [Bryan Abreu](http://twitter.com/search?q=Bryan+Abreu) | N/A |
+| 5 | [#wffselfie](http://twitter.com/search?q=%23wffselfie) | N/A |
+| 6 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 7 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 8 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
+| 9 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 10 | [#fullthrottle](http://twitter.com/search?q=%23fullthrottle) | N/A |
+| 11 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 12 | [#capitaloneultimatefan](http://twitter.com/search?q=%23capitaloneultimatefan) | N/A |
+| 13 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 14 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 15 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 16 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
+| 17 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 18 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 19 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 20 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
+| 21 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 22 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 23 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 24 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 26 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 28 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 29 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 31 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 32 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 33 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 34 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 35 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 36 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 37 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 38 | [Stacy](http://twitter.com/search?q=Stacy) | N/A |
+| 39 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 40 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 41 | [Eddie Kingston](http://twitter.com/search?q=Eddie+Kingston) | N/A |
+| 42 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 43 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
+| 44 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 45 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 46 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
+| 47 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 48 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 49 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 50 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
 
 
 

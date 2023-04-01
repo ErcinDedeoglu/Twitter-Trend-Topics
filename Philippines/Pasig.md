@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-04-01 02:29:39 UTC`
+📆 Last Updated: `2023-04-01 03:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 2 | [#HappeeHourxRunningman](http://twitter.com/search?q=%23HappeeHourxRunningman) | N/A |
-| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 4 | [kdlex pushpopular loty](http://twitter.com/search?q=kdlex+pushpopular+loty) | N/A |
+| 5 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 7 | [#pvlfinalsgame3](http://twitter.com/search?q=%23pvlfinalsgame3) | N/A |
 | 8 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
-| 9 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
 | 11 | [bgyo ot5 date](http://twitter.com/search?q=bgyo+ot5+date) | N/A |
 | 12 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
-| 13 | [the vibrent promise](http://twitter.com/search?q=the+vibrent+promise) | N/A |
-| 14 | [creamline](http://twitter.com/search?q=creamline) | N/A |
-| 15 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 16 | [promise24ever withdonbelle](http://twitter.com/search?q=promise24ever+withdonbelle) | N/A |
-| 17 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 18 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
-| 19 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 20 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
-| 21 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 22 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 23 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 24 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 25 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
-| 26 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
-| 27 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
-| 28 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 29 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 30 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 31 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
-| 32 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
-| 33 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
-| 34 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
-| 35 | [RIKI](http://twitter.com/search?q=RIKI) | N/A |
-| 36 | [bgyo ppop groupoftheyear](http://twitter.com/search?q=bgyo+ppop+groupoftheyear) | N/A |
-| 37 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 38 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 39 | [DCAT](http://twitter.com/search?q=DCAT) | N/A |
-| 40 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 41 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 42 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
-| 43 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 44 | [Fav Bside](http://twitter.com/search?q=Fav+Bside) | N/A |
-| 45 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 46 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 47 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 48 | [Fav Album](http://twitter.com/search?q=Fav+Album) | N/A |
-| 49 | [VIBRENT BEGINNING](http://twitter.com/search?q=VIBRENT+BEGINNING) | N/A |
-| 50 | [Fav Title Track](http://twitter.com/search?q=Fav+Title+Track) | N/A |
+| 13 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
+| 14 | [the vibrent promise](http://twitter.com/search?q=the+vibrent+promise) | N/A |
+| 15 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 16 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 17 | [promise24ever withdonbelle](http://twitter.com/search?q=promise24ever+withdonbelle) | N/A |
+| 18 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
+| 19 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 21 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
+| 22 | [pienale](http://twitter.com/search?q=pienale) | N/A |
+| 23 | [rising actor junhoe](http://twitter.com/search?q=rising+actor+junhoe) | N/A |
+| 24 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 25 | [kdlex loventure in japan](http://twitter.com/search?q=kdlex+loventure+in+japan) | N/A |
+| 26 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
+| 27 | [neobong in shopee](http://twitter.com/search?q=neobong+in+shopee) | N/A |
+| 28 | [pluus debut mvs out now](http://twitter.com/search?q=pluus+debut+mvs+out+now) | N/A |
+| 29 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 30 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 31 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 32 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
+| 33 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 34 | [kyler dazzling visual](http://twitter.com/search?q=kyler+dazzling+visual) | N/A |
+| 35 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 36 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 37 | [svt coming back in april](http://twitter.com/search?q=svt+coming+back+in+april) | N/A |
+| 38 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 39 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 40 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 41 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 42 | [aldenattends 2023umajamfest](http://twitter.com/search?q=aldenattends+2023umajamfest) | N/A |
+| 43 | [Sandara Park](http://twitter.com/search?q=Sandara+Park) | N/A |
+| 44 | [Cebpass](http://twitter.com/search?q=Cebpass) | N/A |
+| 45 | [zice for reelorreal](http://twitter.com/search?q=zice+for+reelorreal) | N/A |
+| 46 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
+| 47 | [exo just as usual](http://twitter.com/search?q=exo+just+as+usual) | N/A |
+| 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 49 | [Bretman](http://twitter.com/search?q=Bretman) | N/A |
+| 50 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |
 
 
 

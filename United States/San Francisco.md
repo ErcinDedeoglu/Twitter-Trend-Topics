@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-01 02:29:59 UTC`
+📆 Last Updated: `2023-04-01 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Bart](http://twitter.com/search?q=Bart) | N/A |
 | 4 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
 | 5 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 6 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
-| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 9 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 10 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 12 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 13 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 14 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 16 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 18 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 19 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 7 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
+| 8 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 9 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 10 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 11 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 12 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
 | 20 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 21 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 23 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 24 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 25 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 22 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 24 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 26 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 27 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 28 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 29 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 30 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 31 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 32 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 33 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 34 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 35 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 36 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 37 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 38 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 39 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 40 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 41 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 42 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 43 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 44 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 46 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 47 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 48 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 49 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 50 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 27 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 28 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 29 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 31 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 32 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 33 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 34 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 35 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 36 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 37 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 38 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 39 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 40 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 41 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 42 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 43 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 44 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 45 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 47 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 48 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 49 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 50 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
 
 
 

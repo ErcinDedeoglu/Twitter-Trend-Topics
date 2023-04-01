@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-01 02:29:31 UTC`
+📆 Last Updated: `2023-04-01 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,9 +57,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 41 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 42 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 43 | [signal](http://twitter.com/search?q=signal) | N/A |
+| 43 | [Signal](http://twitter.com/search?q=Signal) | N/A |
 | 44 | [President](http://twitter.com/search?q=President) | N/A |
-| 45 | [kosova](http://twitter.com/search?q=kosova) | N/A |
+| 45 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
 | 46 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 47 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
 | 48 | [The EU](http://twitter.com/search?q=The+EU) | N/A |

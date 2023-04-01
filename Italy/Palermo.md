@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-01 02:29:29 UTC`
+📆 Last Updated: `2023-04-01 03:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,48 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
 | 2 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
 | 3 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 4 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
-| 5 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 6 | [Serena Rossi](http://twitter.com/search?q=Serena+Rossi) | N/A |
-| 7 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 8 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 9 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
-| 10 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
-| 11 | [Lucia Ocone](http://twitter.com/search?q=Lucia+Ocone) | N/A |
-| 12 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 13 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 14 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 15 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 16 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
-| 17 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 4 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 5 | [Serena Rossi](http://twitter.com/search?q=Serena+Rossi) | N/A |
+| 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 7 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 8 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 9 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 10 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 11 | [Iezzi](http://twitter.com/search?q=Iezzi) | N/A |
+| 12 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
+| 13 | [Lucia Ocone](http://twitter.com/search?q=Lucia+Ocone) | N/A |
+| 14 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 15 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 17 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
 | 18 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 19 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 20 | [milan e roma](http://twitter.com/search?q=milan+e+roma) | N/A |
-| 21 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
-| 22 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 23 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
-| 24 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 25 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 26 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 27 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 28 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
-| 29 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
-| 30 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
-| 31 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 32 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 33 | [appendino](http://twitter.com/search?q=appendino) | N/A |
-| 34 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 35 | [Fosse Ardeatine](http://twitter.com/search?q=Fosse+Ardeatine) | N/A |
-| 36 | [capuano](http://twitter.com/search?q=capuano) | N/A |
-| 37 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 38 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 39 | [Aprilia](http://twitter.com/search?q=Aprilia) | N/A |
-| 40 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 42 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
-| 43 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 44 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 45 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 19 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 20 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 21 | [Fosse Ardeatine](http://twitter.com/search?q=Fosse+Ardeatine) | N/A |
+| 22 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 23 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 24 | [milan e roma](http://twitter.com/search?q=milan+e+roma) | N/A |
+| 25 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 26 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 27 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
+| 28 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 29 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 30 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 31 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 32 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
+| 33 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 34 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
+| 35 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 36 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 37 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 38 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
+| 39 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 40 | [appendino](http://twitter.com/search?q=appendino) | N/A |
+| 41 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 42 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 43 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 44 | [capuano](http://twitter.com/search?q=capuano) | N/A |
+| 45 | [Aprilia](http://twitter.com/search?q=Aprilia) | N/A |
 
 
 

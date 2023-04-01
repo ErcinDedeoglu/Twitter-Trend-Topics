@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-01 02:30:07 UTC`
+📆 Last Updated: `2023-04-01 03:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,18 +33,18 @@ This is top 50 for Philippines
 | 16 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
 | 17 | [promise24ever withdonbelle](http://twitter.com/search?q=promise24ever+withdonbelle) | N/A |
 | 18 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
-| 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 20 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 19 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 21 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
 | 22 | [pienale](http://twitter.com/search?q=pienale) | N/A |
 | 23 | [rising actor junhoe](http://twitter.com/search?q=rising+actor+junhoe) | N/A |
 | 24 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
-| 25 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 25 | [kdlex loventure in japan](http://twitter.com/search?q=kdlex+loventure+in+japan) | N/A |
 | 26 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
 | 27 | [neobong in shopee](http://twitter.com/search?q=neobong+in+shopee) | N/A |
-| 28 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 29 | [pluus debut mvs out now](http://twitter.com/search?q=pluus+debut+mvs+out+now) | N/A |
-| 30 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 28 | [pluus debut mvs out now](http://twitter.com/search?q=pluus+debut+mvs+out+now) | N/A |
+| 29 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 30 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 31 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 32 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
 | 33 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Philippines
 | 44 | [Cebpass](http://twitter.com/search?q=Cebpass) | N/A |
 | 45 | [zice for reelorreal](http://twitter.com/search?q=zice+for+reelorreal) | N/A |
 | 46 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
-| 47 | [exo just as usual](http://twitter.com/search?q=exo+just+as+usual) | N/A |
+| 47 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
 | 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 49 | [Bretman](http://twitter.com/search?q=Bretman) | N/A |
 | 50 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |

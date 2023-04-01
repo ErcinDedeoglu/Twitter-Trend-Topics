@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daegu
 
-📆 Last Updated: `2023-04-01 02:29:37 UTC`
+📆 Last Updated: `2023-04-01 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Korea](</Korea>)
 | 4 | [간장게장](http://twitter.com/search?q=%ea%b0%84%ec%9e%a5%ea%b2%8c%ec%9e%a5) | N/A |
 | 5 | [#트친과_입맛궁합_알아보기](http://twitter.com/search?q=%23%ed%8a%b8%ec%b9%9c%ea%b3%bc_%ec%9e%85%eb%a7%9b%ea%b6%81%ed%95%a9_%ec%95%8c%ec%95%84%eb%b3%b4%ea%b8%b0) | N/A |
 | 6 | [베르길리우스](http://twitter.com/search?q=%eb%b2%a0%eb%a5%b4%ea%b8%b8%eb%a6%ac%ec%9a%b0%ec%8a%a4) | N/A |
-| 7 | [#likecrazy2ndwin](http://twitter.com/search?q=%23likecrazy2ndwin) | N/A |
+| 7 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
 | 8 | [주력 나잇](http://twitter.com/search?q=%ec%a3%bc%eb%a0%a5+%eb%82%98%ec%9e%87) | N/A |
 | 9 | [그외특징](http://twitter.com/search?q=%ea%b7%b8%ec%99%b8%ed%8a%b9%ec%a7%95) | N/A |
 | 10 | [홈마분들](http://twitter.com/search?q=%ed%99%88%eb%a7%88%eb%b6%84%eb%93%a4) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Korea](</Korea>)
 | 30 | [길복순 후기](http://twitter.com/search?q=%ea%b8%b8%eb%b3%b5%ec%88%9c+%ed%9b%84%ea%b8%b0) | N/A |
 | 31 | [리우협회](http://twitter.com/search?q=%eb%a6%ac%ec%9a%b0%ed%98%91%ed%9a%8c) | N/A |
 | 32 | [꼬들 455](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+455) | N/A |
-| 33 | [성격 테스트](http://twitter.com/search?q=%ec%84%b1%ea%b2%a9+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 34 | [이번 달도](http://twitter.com/search?q=%ec%9d%b4%eb%b2%88+%eb%8b%ac%eb%8f%84) | 이번 달도 is a phrase in Korean that means "this month too" or "even this month". It is used to express that something has been happening for a long time, even up to the present month. |
+| 33 | [이번 달도](http://twitter.com/search?q=%ec%9d%b4%eb%b2%88+%eb%8b%ac%eb%8f%84) | 이번 달도 is a phrase in Korean that means "this month too" or "even this month". It is used to express that something has been happening for a long time, even up to the present month. |
+| 34 | [마요르카](http://twitter.com/search?q=%eb%a7%88%ec%9a%94%eb%a5%b4%ec%b9%b4) | 마요르카 (Ma-yo-reu-ka) is a Korean word that means "let's go" or "come on". It is often used as an encouragement or to express enthusiasm. In English, it could be translated as "Let's go!" or "Come on!" |
 | 35 | [고양이 귀가](http://twitter.com/search?q=%ea%b3%a0%ec%96%91%ec%9d%b4+%ea%b7%80%ea%b0%80) | N/A |
-| 36 | [토주 웹툰](http://twitter.com/search?q=%ed%86%a0%ec%a3%bc+%ec%9b%b9%ed%88%b0) | N/A |
-| 37 | [듀이트리](http://twitter.com/search?q=%eb%93%80%ec%9d%b4%ed%8a%b8%eb%a6%ac) | N/A |
-| 38 | [농바님 포카](http://twitter.com/search?q=%eb%86%8d%eb%b0%94%eb%8b%98+%ed%8f%ac%ec%b9%b4) | N/A |
-| 39 | [길복순이](http://twitter.com/search?q=%ea%b8%b8%eb%b3%b5%ec%88%9c%ec%9d%b4) | N/A |
-| 40 | [오타쿠 명절](http://twitter.com/search?q=%ec%98%a4%ed%83%80%ec%bf%a0+%eb%aa%85%ec%a0%88) | N/A |
-| 41 | [의정부역](http://twitter.com/search?q=%ec%9d%98%ec%a0%95%eb%b6%80%ec%97%ad) | N/A |
-| 42 | [얼마정도](http://twitter.com/search?q=%ec%96%bc%eb%a7%88%ec%a0%95%eb%8f%84) | 얼마정도 is a phrase in Korean that means "about how much" or "approximately how much". It is used to ask someone for an estimate of a certain amount. |
-| 43 | [수지언니](http://twitter.com/search?q=%ec%88%98%ec%a7%80%ec%96%b8%eb%8b%88) | N/A |
-| 44 | [천사의 날개](http://twitter.com/search?q=%ec%b2%9c%ec%82%ac%ec%9d%98+%eb%82%a0%ea%b0%9c) | N/A |
-| 45 | [있는 트친](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ed%8a%b8%ec%b9%9c) | N/A |
-| 46 | [리우 홍루](http://twitter.com/search?q=%eb%a6%ac%ec%9a%b0+%ed%99%8d%eb%a3%a8) | N/A |
-| 47 | [김규빈 16위](http://twitter.com/search?q=%ea%b9%80%ea%b7%9c%eb%b9%88+16%ec%9c%84) | N/A |
-| 48 | [카트라이더](http://twitter.com/search?q=%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94) | N/A |
-| 49 | [우마머스마](http://twitter.com/search?q=%ec%9a%b0%eb%a7%88%eb%a8%b8%ec%8a%a4%eb%a7%88) | N/A |
-| 50 | [그대로네](http://twitter.com/search?q=%ea%b7%b8%eb%8c%80%eb%a1%9c%eb%84%a4) | N/A |
+| 36 | [성격 테스트](http://twitter.com/search?q=%ec%84%b1%ea%b2%a9+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
+| 37 | [토주 웹툰](http://twitter.com/search?q=%ed%86%a0%ec%a3%bc+%ec%9b%b9%ed%88%b0) | N/A |
+| 38 | [듀이트리](http://twitter.com/search?q=%eb%93%80%ec%9d%b4%ed%8a%b8%eb%a6%ac) | N/A |
+| 39 | [농바님 포카](http://twitter.com/search?q=%eb%86%8d%eb%b0%94%eb%8b%98+%ed%8f%ac%ec%b9%b4) | N/A |
+| 40 | [길복순이](http://twitter.com/search?q=%ea%b8%b8%eb%b3%b5%ec%88%9c%ec%9d%b4) | N/A |
+| 41 | [오타쿠 명절](http://twitter.com/search?q=%ec%98%a4%ed%83%80%ec%bf%a0+%eb%aa%85%ec%a0%88) | N/A |
+| 42 | [의정부역](http://twitter.com/search?q=%ec%9d%98%ec%a0%95%eb%b6%80%ec%97%ad) | N/A |
+| 43 | [얼마정도](http://twitter.com/search?q=%ec%96%bc%eb%a7%88%ec%a0%95%eb%8f%84) | 얼마정도 is a phrase in Korean that means "about how much" or "approximately how much". It is used to ask someone for an estimate of a certain amount. |
+| 44 | [수지언니](http://twitter.com/search?q=%ec%88%98%ec%a7%80%ec%96%b8%eb%8b%88) | N/A |
+| 45 | [천사의 날개](http://twitter.com/search?q=%ec%b2%9c%ec%82%ac%ec%9d%98+%eb%82%a0%ea%b0%9c) | N/A |
+| 46 | [있는 트친](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ed%8a%b8%ec%b9%9c) | N/A |
+| 47 | [리우 홍루](http://twitter.com/search?q=%eb%a6%ac%ec%9a%b0+%ed%99%8d%eb%a3%a8) | N/A |
+| 48 | [김규빈 16위](http://twitter.com/search?q=%ea%b9%80%ea%b7%9c%eb%b9%88+16%ec%9c%84) | N/A |
+| 49 | [카트라이더](http://twitter.com/search?q=%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94) | N/A |
+| 50 | [우마머스마](http://twitter.com/search?q=%ec%9a%b0%eb%a7%88%eb%a8%b8%ec%8a%a4%eb%a7%88) | N/A |
 
 
 

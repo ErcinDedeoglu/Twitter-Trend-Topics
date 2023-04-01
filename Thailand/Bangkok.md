@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-01 02:29:40 UTC`
+📆 Last Updated: `2023-04-01 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,41 +20,41 @@ This is top 50 for [Thailand](</Thailand>)
 | 3 | [#Pilotดื้อเฮียก็หาว่าซน](http://twitter.com/search?q=%23Pilot%e0%b8%94%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%87%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%8b%e0%b8%99) | N/A |
 | 4 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
 | 5 | [#เอ๋ชนม์สวัสดิ์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%8a%e0%b8%99%e0%b8%a1%e0%b9%8c%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b4%e0%b9%8c) | N/A |
-| 6 | [April Fool's Day](http://twitter.com/search?q=April+Fool%27s+Day) | N/A |
-| 7 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
-| 8 | [charlotte first concert](http://twitter.com/search?q=charlotte+first+concert) | N/A |
-| 9 | [the scent notes d3](http://twitter.com/search?q=the+scent+notes+d3) | N/A |
-| 10 | [bambam comeback stage mcd](http://twitter.com/search?q=bambam+comeback+stage+mcd) | N/A |
-| 11 | [welcome back msp](http://twitter.com/search?q=welcome+back+msp) | N/A |
-| 12 | [tenlee in tpop stage](http://twitter.com/search?q=tenlee+in+tpop+stage) | N/A |
-| 13 | [bambam on music bank](http://twitter.com/search?q=bambam+on+music+bank) | N/A |
-| 14 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
-| 15 | [aespa tetris ost](http://twitter.com/search?q=aespa+tetris+ost) | N/A |
-| 16 | [patrick delicious romance](http://twitter.com/search?q=patrick+delicious+romance) | N/A |
-| 17 | [bright x bvlgari75th](http://twitter.com/search?q=bright+x+bvlgari75th) | N/A |
-| 18 | [bambam home with yjyg](http://twitter.com/search?q=bambam+home+with+yjyg) | N/A |
-| 19 | [nanon uc](http://twitter.com/search?q=nanon+uc) | N/A |
-| 20 | [bambam gm 31march](http://twitter.com/search?q=bambam+gm+31march) | N/A |
-| 21 | [TOUCH MY BODY](http://twitter.com/search?q=TOUCH+MY+BODY) | N/A |
-| 22 | [kkaewchuu day](http://twitter.com/search?q=kkaewchuu+day) | N/A |
-| 23 | [april comes with tenlee](http://twitter.com/search?q=april+comes+with+tenlee) | N/A |
-| 24 | [joyful day31 to engfa](http://twitter.com/search?q=joyful+day31+to+engfa) | N/A |
-| 25 | [TOP 30%](http://twitter.com/search?q=TOP+30%25) | N/A |
-| 26 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |
-| 27 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 28 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 29 | [#aBossandaBabeEP5](http://twitter.com/search?q=%23aBossandaBabeEP5) | N/A |
-| 30 | [#HaierXBaristabb0un](http://twitter.com/search?q=%23HaierXBaristabb0un) | N/A |
-| 31 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 32 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
-| 33 | [#TPopStageShowxPECK](http://twitter.com/search?q=%23TPopStageShowxPECK) | N/A |
-| 34 | [#กดบัตรแฟนมีตโนอึล](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
-| 35 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 36 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
-| 37 | [#งานหนังสือ66](http://twitter.com/search?q=%23%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad66) | N/A |
-| 38 | [#nomin](http://twitter.com/search?q=%23nomin) | N/A |
-| 39 | [#teaserหอมกลิ่นความรัก](http://twitter.com/search?q=%23teaser%e0%b8%ab%e0%b8%ad%e0%b8%a1%e0%b8%81%e0%b8%a5%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 40 | [#NanonXUntitledCase](http://twitter.com/search?q=%23NanonXUntitledCase) | N/A |
+| 6 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
+| 7 | [charlotte first concert](http://twitter.com/search?q=charlotte+first+concert) | N/A |
+| 8 | [the scent notes d3](http://twitter.com/search?q=the+scent+notes+d3) | N/A |
+| 9 | [bambam comeback stage mcd](http://twitter.com/search?q=bambam+comeback+stage+mcd) | N/A |
+| 10 | [welcome back msp](http://twitter.com/search?q=welcome+back+msp) | N/A |
+| 11 | [tenlee in tpop stage](http://twitter.com/search?q=tenlee+in+tpop+stage) | N/A |
+| 12 | [bambam on music bank](http://twitter.com/search?q=bambam+on+music+bank) | N/A |
+| 13 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 14 | [aespa tetris ost](http://twitter.com/search?q=aespa+tetris+ost) | N/A |
+| 15 | [patrick delicious romance](http://twitter.com/search?q=patrick+delicious+romance) | N/A |
+| 16 | [bright x bvlgari75th](http://twitter.com/search?q=bright+x+bvlgari75th) | N/A |
+| 17 | [bambam home with yjyg](http://twitter.com/search?q=bambam+home+with+yjyg) | N/A |
+| 18 | [nanon uc](http://twitter.com/search?q=nanon+uc) | N/A |
+| 19 | [bambam gm 31march](http://twitter.com/search?q=bambam+gm+31march) | N/A |
+| 20 | [TOUCH MY BODY](http://twitter.com/search?q=TOUCH+MY+BODY) | N/A |
+| 21 | [kkaewchuu day](http://twitter.com/search?q=kkaewchuu+day) | N/A |
+| 22 | [april comes with tenlee](http://twitter.com/search?q=april+comes+with+tenlee) | N/A |
+| 23 | [joyful day31 to engfa](http://twitter.com/search?q=joyful+day31+to+engfa) | N/A |
+| 24 | [TOP 30%](http://twitter.com/search?q=TOP+30%25) | N/A |
+| 25 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |
+| 26 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 27 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 28 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 30 | [#aBossandaBabeEP5](http://twitter.com/search?q=%23aBossandaBabeEP5) | N/A |
+| 31 | [#HaierXBaristabb0un](http://twitter.com/search?q=%23HaierXBaristabb0un) | N/A |
+| 32 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 33 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
+| 34 | [#TPopStageShowxPECK](http://twitter.com/search?q=%23TPopStageShowxPECK) | N/A |
+| 35 | [#กดบัตรแฟนมีตโนอึล](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
+| 36 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 37 | [#nomin](http://twitter.com/search?q=%23nomin) | N/A |
+| 38 | [#งานหนังสือ66](http://twitter.com/search?q=%23%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad66) | N/A |
+| 39 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 40 | [#teaserหอมกลิ่นความรัก](http://twitter.com/search?q=%23teaser%e0%b8%ab%e0%b8%ad%e0%b8%a1%e0%b8%81%e0%b8%a5%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
 | 41 | [#ลัฟวี่ไม่เอาธันเดอร์โดม](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%a7%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%98%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%94%e0%b8%a1) | N/A |
 | 42 | [#HELLO_TOUR_IN_BANGKOK](http://twitter.com/search?q=%23HELLO_TOUR_IN_BANGKOK) | N/A |
 | 43 | [#dojaejung_basenote](http://twitter.com/search?q=%23dojaejung_basenote) | N/A |

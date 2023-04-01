@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-04-01 02:29:32 UTC`
+📆 Last Updated: `2023-04-01 03:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kamisudahberkorban](http://twitter.com/search?q=%23kamisudahberkorban) | N/A |
-| 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [#KamiSudahBerkorban](http://twitter.com/search?q=%23KamiSudahBerkorban) | N/A |
 | 3 | [#vidiobagibagithr](http://twitter.com/search?q=%23vidiobagibagithr) | N/A |
 | 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 5 | [nonton cuma 19rb](http://twitter.com/search?q=nonton+cuma+19rb) | N/A |
 | 6 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 8 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 8 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 9 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
 | 10 | [ocbc nisp](http://twitter.com/search?q=ocbc+nisp) | N/A |
 | 11 | [komitmen benny rhamdani](http://twitter.com/search?q=komitmen+benny+rhamdani) | N/A |
 | 12 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 13 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
+| 13 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
 | 14 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
-| 15 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 16 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
+| 15 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
+| 16 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
 | 17 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |
 | 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 19 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
 | 20 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 22 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
-| 23 | [25 Rb](http://twitter.com/search?q=25+Rb) | N/A |
-| 24 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
-| 25 | [rising actor junhoe](http://twitter.com/search?q=rising+actor+junhoe) | N/A |
-| 26 | [ASEAN Data Science](http://twitter.com/search?q=ASEAN+Data+Science) | N/A |
-| 27 | [jokowi resmikan kek lido](http://twitter.com/search?q=jokowi+resmikan+kek+lido) | N/A |
-| 28 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 29 | [youn1t love you banghan](http://twitter.com/search?q=youn1t+love+you+banghan) | N/A |
-| 30 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 31 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 32 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 35 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
-| 36 | [Gratis Ongkir](http://twitter.com/search?q=Gratis+Ongkir) | Gratis Ongkir is an Indonesian phrase meaning "free shipping". It is commonly used in online shopping to indicate that the cost of shipping is included in the price of the item. |
-| 37 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
-| 38 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 39 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 40 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 41 | [hari film nasional](http://twitter.com/search?q=hari+film+nasional) | N/A |
-| 42 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
-| 43 | [AHY Dukung Timnas](http://twitter.com/search?q=AHY+Dukung+Timnas) | N/A |
-| 44 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 45 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 46 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 47 | [hasto kristiyanto](http://twitter.com/search?q=hasto+kristiyanto) | N/A |
-| 48 | [koster](http://twitter.com/search?q=koster) | N/A |
-| 49 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 50 | [adse](http://twitter.com/search?q=adse) | N/A |
+| 21 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
+| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 23 | [A. Ketupat](http://twitter.com/search?q=A.+Ketupat) | N/A |
+| 24 | [25 Rb](http://twitter.com/search?q=25+Rb) | N/A |
+| 25 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
+| 26 | [rising actor junhoe](http://twitter.com/search?q=rising+actor+junhoe) | N/A |
+| 27 | [ASEAN Data Science](http://twitter.com/search?q=ASEAN+Data+Science) | N/A |
+| 28 | [jokowi resmikan kek lido](http://twitter.com/search?q=jokowi+resmikan+kek+lido) | N/A |
+| 29 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 30 | [youn1t love you banghan](http://twitter.com/search?q=youn1t+love+you+banghan) | N/A |
+| 31 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 32 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 33 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 35 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 36 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
+| 37 | [Gratis Ongkir](http://twitter.com/search?q=Gratis+Ongkir) | Gratis Ongkir is an Indonesian phrase meaning "free shipping". It is commonly used in online shopping to indicate that the cost of shipping is included in the price of the item. |
+| 38 | [BUPENMASKAK](http://twitter.com/search?q=BUPENMASKAK) | N/A |
+| 39 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
+| 40 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 41 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 42 | [hari film nasional](http://twitter.com/search?q=hari+film+nasional) | N/A |
+| 43 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 44 | [AHY Dukung Timnas](http://twitter.com/search?q=AHY+Dukung+Timnas) | N/A |
+| 45 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 46 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 47 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 49 | [hasto kristiyanto](http://twitter.com/search?q=hasto+kristiyanto) | N/A |
+| 50 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 
 
 

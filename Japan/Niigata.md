@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Niigata
 
-📆 Last Updated: `2023-04-01 02:29:36 UTC`
+📆 Last Updated: `2023-04-01 03:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Japan](</Japan>)
 | 1 | [#JMRS775](http://twitter.com/search?q=%23JMRS775) | N/A |
 | 2 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
 | 3 | [#嘘か本当かわからないことを言う](http://twitter.com/search?q=%23%e5%98%98%e3%81%8b%e6%9c%ac%e5%bd%93%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%82%92%e8%a8%80%e3%81%86) | N/A |
-| 4 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 5 | [#KinKiKidsのブンブブーン](http://twitter.com/search?q=%23KinKiKids%e3%81%ae%e3%83%96%e3%83%b3%e3%83%96%e3%83%96%e3%83%bc%e3%83%b3) | N/A |
-| 6 | [アイコン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 7 | [#ポケカCL2023宮城](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%82%abCL2023%e5%ae%ae%e5%9f%8e) | N/A |
-| 8 | [#プレイステーションの大学入学希望](http://twitter.com/search?q=%23%e3%83%97%e3%83%ac%e3%82%a4%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e5%a4%a7%e5%ad%a6%e5%85%a5%e5%ad%a6%e5%b8%8c%e6%9c%9b) | N/A |
-| 9 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
-| 10 | [少子化財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e8%b2%a1%e6%ba%90) | N/A |
-| 11 | [新年度スタート](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
-| 12 | [社会保険料](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e6%96%99) | N/A |
-| 13 | [ネッシー派](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc%e6%b4%be) | N/A |
-| 14 | [そくほー](http://twitter.com/search?q=%e3%81%9d%e3%81%8f%e3%81%bb%e3%83%bc) | そくほー is an onomatopoeia that is used to express the sound of a siren. In English, it could be translated as "woo-woo". |
+| 4 | [#KinKiKidsのブンブブーン](http://twitter.com/search?q=%23KinKiKids%e3%81%ae%e3%83%96%e3%83%b3%e3%83%96%e3%83%96%e3%83%bc%e3%83%b3) | N/A |
+| 5 | [アイコン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
+| 6 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
+| 7 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 8 | [#ポケカCL2023宮城](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%82%abCL2023%e5%ae%ae%e5%9f%8e) | N/A |
+| 9 | [#プレイステーションの大学入学希望](http://twitter.com/search?q=%23%e3%83%97%e3%83%ac%e3%82%a4%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e5%a4%a7%e5%ad%a6%e5%85%a5%e5%ad%a6%e5%b8%8c%e6%9c%9b) | N/A |
+| 10 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
+| 11 | [そくほー](http://twitter.com/search?q=%e3%81%9d%e3%81%8f%e3%81%bb%e3%83%bc) | そくほー is an onomatopoeia that is used to express the sound of a siren. In English, it could be translated as "woo-woo". |
+| 12 | [予定枚数終了](http://twitter.com/search?q=%e4%ba%88%e5%ae%9a%e6%9e%9a%e6%95%b0%e7%b5%82%e4%ba%86) | 予定枚数終了 is a Japanese phrase that translates to "the scheduled number of items has been reached". It is often used in the context of a limited-time offer or promotion, indicating that the maximum number of items available for purchase has been reached. |
+| 13 | [新年度スタート](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
+| 14 | [社会保険料](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e6%96%99) | N/A |
 | 15 | [ジャニショ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%82%b7%e3%83%a7) | N/A |
-| 16 | [好感なし70](http://twitter.com/search?q=%e5%a5%bd%e6%84%9f%e3%81%aa%e3%81%9770) | N/A |
-| 17 | [ひなフェス](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%83%95%e3%82%a7%e3%82%b9) | ひなフェス (Hina Fest) is an annual festival in Japan that celebrates the Doll Festival, or Hinamatsuri. It is held on March 3rd and is a day to celebrate young girls and pray for their health and happiness. The festival involves displaying dolls dressed in traditional court costumes from the Heian period, as well as eating special foods such as Hina-arare (rice crackers) and Chirashizushi (sushi rice with various toppings). In English, it can be translated to "Doll Festival". |
-| 18 | [清霞の回答](http://twitter.com/search?q=%e6%b8%85%e9%9c%9e%e3%81%ae%e5%9b%9e%e7%ad%94) | N/A |
-| 19 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
-| 20 | [ノットフェス](http://twitter.com/search?q=%e3%83%8e%e3%83%83%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9) | ノットフェス is a Japanese music festival held annually in Tokyo. The name is a combination of the words "note" and "festival", and it is an event that celebrates music from all genres. The festival features live performances from both established and up-and-coming artists, as well as DJ sets, workshops, and other activities. |
-| 21 | [革命先生](http://twitter.com/search?q=%e9%9d%a9%e5%91%bd%e5%85%88%e7%94%9f) | N/A |
-| 22 | [まことおにいさん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
-| 23 | [兄さん卒業](http://twitter.com/search?q=%e5%85%84%e3%81%95%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
-| 24 | [マッチング度](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e5%ba%a6) | N/A |
-| 25 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 26 | [くそみそテクニック](http://twitter.com/search?q=%e3%81%8f%e3%81%9d%e3%81%bf%e3%81%9d%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 27 | [弟子くん](http://twitter.com/search?q=%e5%bc%9f%e5%ad%90%e3%81%8f%e3%82%93) | N/A |
-| 28 | [モバガチャ](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 29 | [グランサバナ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%90%e3%83%8a) | N/A |
-| 30 | [DLsi都](http://twitter.com/search?q=DLsi%e9%83%bd) | N/A |
-| 31 | [ARK2](http://twitter.com/search?q=ARK2) | N/A |
-| 32 | [新幹線遅延](http://twitter.com/search?q=%e6%96%b0%e5%b9%b9%e7%b7%9a%e9%81%85%e5%bb%b6) | N/A |
-| 33 | [グループ仕事](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e4%bb%95%e4%ba%8b) | N/A |
-| 34 | [わたしの考え](http://twitter.com/search?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e8%80%83%e3%81%88) | N/A |
-| 35 | [少子化対策](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e5%af%be%e7%ad%96) | 少子化対策 (Shoushika Taisaku) is a Japanese term that refers to measures taken to counter the declining birth rate in Japan. It typically involves policies and initiatives designed to encourage couples to have more children, such as providing financial incentives or increasing access to childcare. In English, it can be translated as "measures to counter the declining birth rate". |
-| 36 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
-| 37 | [本当のこと](http://twitter.com/search?q=%e6%9c%ac%e5%bd%93%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
-| 38 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 39 | [スプラフェス](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | スプラフェス (SplaFes) is an annual event held by Nintendo for the Splatoon series of video games. It is a celebration of the Splatoon franchise, featuring tournaments, exclusive merchandise, and special in-game content. The English translation of スプラフェス is Splatfest. |
-| 40 | [四月一日](http://twitter.com/search?q=%e5%9b%9b%e6%9c%88%e4%b8%80%e6%97%a5) | N/A |
-| 41 | [都民情報](http://twitter.com/search?q=%e9%83%bd%e6%b0%91%e6%83%85%e5%a0%b1) | N/A |
-| 42 | [DLsiteの還付金](http://twitter.com/search?q=DLsite%e3%81%ae%e9%82%84%e4%bb%98%e9%87%91) | N/A |
-| 43 | [選挙ドットコム](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%83%89%e3%83%83%e3%83%88%e3%82%b3%e3%83%a0) | N/A |
-| 44 | [克実さん](http://twitter.com/search?q=%e5%85%8b%e5%ae%9f%e3%81%95%e3%82%93) | N/A |
-| 45 | [スイープアワーズ](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%83%bc%e3%83%97%e3%82%a2%e3%83%af%e3%83%bc%e3%82%ba) | N/A |
-| 46 | [るきしょせ](http://twitter.com/search?q=%e3%82%8b%e3%81%8d%e3%81%97%e3%82%87%e3%81%9b) | N/A |
-| 47 | [マグロ解体ショー](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%ad%e8%a7%a3%e4%bd%93%e3%82%b7%e3%83%a7%e3%83%bc) | N/A |
-| 48 | [ミトミ4部屋](http://twitter.com/search?q=%e3%83%9f%e3%83%88%e3%83%9f4%e9%83%a8%e5%b1%8b) | N/A |
-| 49 | [韓国世論](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e4%b8%96%e8%ab%96) | N/A |
-| 50 | [中山3R](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b13R) | 中山3R is a Japanese term which stands for Reduce, Reuse, and Recycle. It is a philosophy of environmental protection that encourages people to reduce their consumption of resources, reuse items whenever possible, and recycle materials that cannot be reused. |
+| 16 | [ひなフェス](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%83%95%e3%82%a7%e3%82%b9) | ひなフェス (Hina Fest) is an annual festival in Japan that celebrates the Doll Festival, or Hinamatsuri. It is held on March 3rd and is a day to celebrate young girls and pray for their health and happiness. The festival involves displaying dolls dressed in traditional court costumes from the Heian period, as well as eating special foods such as Hina-arare (rice crackers) and Chirashizushi (sushi rice with various toppings). In English, it can be translated to "Doll Festival". |
+| 17 | [スイープアワーズ](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%83%bc%e3%83%97%e3%82%a2%e3%83%af%e3%83%bc%e3%82%ba) | N/A |
+| 18 | [ネタバラシ](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%90%e3%83%a9%e3%82%b7) | N/A |
+| 19 | [少子化財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e8%b2%a1%e6%ba%90) | N/A |
+| 20 | [マッチング度](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e5%ba%a6) | N/A |
+| 21 | [ノットフェス](http://twitter.com/search?q=%e3%83%8e%e3%83%83%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9) | ノットフェス is a Japanese music festival held annually in Tokyo. The name is a combination of the words "note" and "festival", and it is an event that celebrates music from all genres. The festival features live performances from both established and up-and-coming artists, as well as DJ sets, workshops, and other activities. |
+| 22 | [わたしの考え](http://twitter.com/search?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e8%80%83%e3%81%88) | N/A |
+| 23 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
+| 24 | [ネタばらし](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%81%b0%e3%82%89%e3%81%97) | N/A |
+| 25 | [選挙ドットコム](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%83%89%e3%83%83%e3%83%88%e3%82%b3%e3%83%a0) | N/A |
+| 26 | [スプラフェス](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | スプラフェス (SplaFes) is an annual event held by Nintendo for the Splatoon series of video games. It is a celebration of the Splatoon franchise, featuring tournaments, exclusive merchandise, and special in-game content. The English translation of スプラフェス is Splatfest. |
+| 27 | [本当のこと](http://twitter.com/search?q=%e6%9c%ac%e5%bd%93%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
+| 28 | [くそみそテクニック](http://twitter.com/search?q=%e3%81%8f%e3%81%9d%e3%81%bf%e3%81%9d%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 29 | [ARK2](http://twitter.com/search?q=ARK2) | N/A |
+| 30 | [清霞の回答](http://twitter.com/search?q=%e6%b8%85%e9%9c%9e%e3%81%ae%e5%9b%9e%e7%ad%94) | N/A |
+| 31 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
+| 32 | [イトカワサクラ](http://twitter.com/search?q=%e3%82%a4%e3%83%88%e3%82%ab%e3%83%af%e3%82%b5%e3%82%af%e3%83%a9) | N/A |
+| 33 | [革命先生](http://twitter.com/search?q=%e9%9d%a9%e5%91%bd%e5%85%88%e7%94%9f) | N/A |
+| 34 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
+| 35 | [赤レンガ](http://twitter.com/search?q=%e8%b5%a4%e3%83%ac%e3%83%b3%e3%82%ac) | N/A |
+| 36 | [かぐや様コラボ](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 37 | [好感なし70](http://twitter.com/search?q=%e5%a5%bd%e6%84%9f%e3%81%aa%e3%81%9770) | N/A |
+| 38 | [新幹線遅延](http://twitter.com/search?q=%e6%96%b0%e5%b9%b9%e7%b7%9a%e9%81%85%e5%bb%b6) | N/A |
+| 39 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
+| 40 | [弟子くん](http://twitter.com/search?q=%e5%bc%9f%e5%ad%90%e3%81%8f%e3%82%93) | N/A |
+| 41 | [これグラ](http://twitter.com/search?q=%e3%81%93%e3%82%8c%e3%82%b0%e3%83%a9) | これグラ is an abbreviation of the Japanese phrase "Kore wa Gurafu" which translates to "This is a graph". It is commonly used in Japanese to refer to a graph or chart. |
+| 42 | [モバガチャ](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 43 | [DLsiteの還付金](http://twitter.com/search?q=DLsite%e3%81%ae%e9%82%84%e4%bb%98%e9%87%91) | N/A |
+| 44 | [出かけ日和](http://twitter.com/search?q=%e5%87%ba%e3%81%8b%e3%81%91%e6%97%a5%e5%92%8c) | N/A |
+| 45 | [四月一日](http://twitter.com/search?q=%e5%9b%9b%e6%9c%88%e4%b8%80%e6%97%a5) | N/A |
+| 46 | [アンバサダー就任](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%90%e3%82%b5%e3%83%80%e3%83%bc%e5%b0%b1%e4%bb%bb) | N/A |
+| 47 | [グループ仕事](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e4%bb%95%e4%ba%8b) | N/A |
+| 48 | [宇宙人派](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e6%b4%be) | N/A |
+| 49 | [都民情報](http://twitter.com/search?q=%e9%83%bd%e6%b0%91%e6%83%85%e5%a0%b1) | N/A |
+| 50 | [大学の入学式](http://twitter.com/search?q=%e5%a4%a7%e5%ad%a6%e3%81%ae%e5%85%a5%e5%ad%a6%e5%bc%8f) | N/A |
 
 
 

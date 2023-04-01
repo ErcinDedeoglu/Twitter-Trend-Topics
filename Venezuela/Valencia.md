@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-01 02:29:21 UTC`
+📆 Last Updated: `2023-04-01 03:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,21 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 5 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
 | 6 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 7 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [#FloridaDerby](http://twitter.com/search?q=%23FloridaDerby) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
+| 9 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 10 | [Casos](http://twitter.com/search?q=Casos) | N/A |
 | 11 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
 | 12 | [Hernán Gamboa](http://twitter.com/search?q=Hern%c3%a1n+Gamboa) | N/A |
 | 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 14 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
-| 15 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 15 | [emely](http://twitter.com/search?q=emely) | N/A |
 | 16 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
 | 17 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 18 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
-| 19 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
-| 20 | [Jackeline Perico](http://twitter.com/search?q=Jackeline+Perico) | N/A |
-| 21 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
+| 19 | [Jackeline Perico](http://twitter.com/search?q=Jackeline+Perico) | N/A |
+| 20 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
+| 21 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
 | 22 | [Estropajo](http://twitter.com/search?q=Estropajo) | N/A |
 | 23 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
 | 24 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
@@ -43,26 +43,26 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 26 | [viernes de concilio](http://twitter.com/search?q=viernes+de+concilio) | N/A |
 | 27 | [Adrián Perdomo](http://twitter.com/search?q=Adri%c3%a1n+Perdomo) | N/A |
 | 28 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
-| 29 | [Piolín](http://twitter.com/search?q=Piol%c3%adn) | N/A |
-| 30 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
-| 31 | [minerven](http://twitter.com/search?q=minerven) | N/A |
-| 32 | [ichiro suzuki](http://twitter.com/search?q=ichiro+suzuki) | N/A |
-| 33 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 34 | [caiga](http://twitter.com/search?q=caiga) | N/A |
-| 35 | [juntas regionales](http://twitter.com/search?q=juntas+regionales) | N/A |
-| 36 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 38 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 39 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
-| 40 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
-| 41 | [guillermo dávila](http://twitter.com/search?q=guillermo+d%c3%a1vila) | N/A |
-| 42 | [comisión nacional de primaria](http://twitter.com/search?q=comisi%c3%b3n+nacional+de+primaria) | N/A |
-| 43 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 44 | [Juan Manuel La Guardia](http://twitter.com/search?q=Juan+Manuel+La+Guardia) | N/A |
-| 45 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 46 | [expedición de los cayos](http://twitter.com/search?q=expedici%c3%b3n+de+los+cayos) | N/A |
-| 47 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
-| 48 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
+| 29 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
+| 30 | [minerven](http://twitter.com/search?q=minerven) | N/A |
+| 31 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
+| 32 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 33 | [caiga](http://twitter.com/search?q=caiga) | N/A |
+| 34 | [juntas regionales](http://twitter.com/search?q=juntas+regionales) | N/A |
+| 35 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
+| 36 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 37 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
+| 38 | [Piolín](http://twitter.com/search?q=Piol%c3%adn) | N/A |
+| 39 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 40 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
+| 41 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
+| 42 | [guillermo dávila](http://twitter.com/search?q=guillermo+d%c3%a1vila) | N/A |
+| 43 | [comisión nacional de primaria](http://twitter.com/search?q=comisi%c3%b3n+nacional+de+primaria) | N/A |
+| 44 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 45 | [Juan Manuel La Guardia](http://twitter.com/search?q=Juan+Manuel+La+Guardia) | N/A |
+| 46 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 47 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 48 | [expedición de los cayos](http://twitter.com/search?q=expedici%c3%b3n+de+los+cayos) | N/A |
 
 
 

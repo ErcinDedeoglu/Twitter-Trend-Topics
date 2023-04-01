@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-01 02:30:00 UTC`
+📆 Last Updated: `2023-04-01 03:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 2 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 3 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 8 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 11 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 16 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 18 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 21 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 22 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 24 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 25 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 26 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 27 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 28 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 30 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 31 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 32 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 33 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 34 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 35 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 36 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 37 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 38 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 39 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 41 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 42 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 43 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 44 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 45 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 46 | [Ames](http://twitter.com/search?q=Ames) | N/A |
-| 47 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 48 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
-| 49 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
-| 50 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
+| 1 | [Kenny Brooks](http://twitter.com/search?q=Kenny+Brooks) | N/A |
+| 2 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 3 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 4 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 5 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 10 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 12 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 13 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 14 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 15 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 16 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 17 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 18 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 19 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 20 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 21 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 22 | [Stacy](http://twitter.com/search?q=Stacy) | N/A |
+| 23 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 24 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 25 | [Eddie Kingston](http://twitter.com/search?q=Eddie+Kingston) | N/A |
+| 26 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 27 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
+| 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 29 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 30 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
+| 31 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 32 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 33 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 34 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 35 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 36 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 37 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 38 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 39 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
+| 40 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
+| 41 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 42 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
+| 43 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 44 | [Graveman](http://twitter.com/search?q=Graveman) | N/A |
+| 45 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 46 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 47 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
+| 48 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 49 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
 
 
 

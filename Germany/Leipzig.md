@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-01 02:29:28 UTC`
+📆 Last Updated: `2023-04-01 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
 | 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 5 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 8 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 9 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 6 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 8 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 9 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 10 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 11 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 12 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 13 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 14 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 11 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 12 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 14 | [Cornix](http://twitter.com/search?q=Cornix) | N/A |
 | 15 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 16 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 17 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 18 | [Smells](http://twitter.com/search?q=Smells) | N/A |
-| 19 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 20 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 22 | [Zsolt](http://twitter.com/search?q=Zsolt) | N/A |
-| 23 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 24 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 25 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 26 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 27 | [Ecken](http://twitter.com/search?q=Ecken) | N/A |
-| 28 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 29 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 30 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 31 | [Lebensversicherung](http://twitter.com/search?q=Lebensversicherung) | N/A |
-| 32 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 33 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
+| 16 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 17 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 18 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 19 | [Smells](http://twitter.com/search?q=Smells) | N/A |
+| 20 | [Ecken](http://twitter.com/search?q=Ecken) | N/A |
+| 21 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 22 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 23 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 24 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 25 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 26 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 27 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 28 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 29 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 30 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 31 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 32 | [Lebensversicherung](http://twitter.com/search?q=Lebensversicherung) | N/A |
+| 33 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
 | 34 | [Leitungswasser](http://twitter.com/search?q=Leitungswasser) | N/A |
-| 35 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 36 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 37 | [Flaschenwasser](http://twitter.com/search?q=Flaschenwasser) | N/A |
-| 38 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 35 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 36 | [Flaschenwasser](http://twitter.com/search?q=Flaschenwasser) | N/A |
+| 37 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 38 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 39 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 40 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 42 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 43 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 44 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 45 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 46 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 47 | [frauensauna](http://twitter.com/search?q=frauensauna) | N/A |
-| 48 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 41 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 42 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 43 | [Partnertausch](http://twitter.com/search?q=Partnertausch) | N/A |
+| 44 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 45 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 46 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
+| 47 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 48 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 49 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
 
 
 

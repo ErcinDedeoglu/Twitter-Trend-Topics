@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-01 02:29:59 UTC`
+📆 Last Updated: `2023-04-01 03:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 2 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
-| 3 | [#SanDiego](http://twitter.com/search?q=%23SanDiego) | N/A |
+| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
+| 3 | [Bart](http://twitter.com/search?q=Bart) | N/A |
 | 4 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 5 | [#WoodstockAI](http://twitter.com/search?q=%23WoodstockAI) | N/A |
-| 6 | [Carlsbad](http://twitter.com/search?q=Carlsbad) | N/A |
-| 7 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 8 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 9 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 10 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 11 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 12 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 13 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 14 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 15 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 18 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 19 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 21 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 22 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 23 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 24 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 25 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 26 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 27 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 28 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 29 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 30 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 31 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 32 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 33 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
-| 34 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 35 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 36 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 37 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 38 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 39 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 40 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 42 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 43 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 44 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 45 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 46 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 47 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 48 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 49 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 5 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 7 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
+| 8 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 9 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 10 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 11 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 12 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 20 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 22 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 24 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 26 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 27 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 28 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 29 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 31 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 32 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 33 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 34 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 35 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 36 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 37 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 38 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 39 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 40 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 41 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 42 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 43 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 44 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 45 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 47 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 48 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 49 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 50 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
 
 
 
