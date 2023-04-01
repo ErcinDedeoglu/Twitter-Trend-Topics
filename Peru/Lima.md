@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-01 08:17:34 UTC`
+📆 Last Updated: `2023-04-01 09:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,28 +15,28 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 2 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
-| 5 | [Geiner Alvarado](http://twitter.com/search?q=Geiner+Alvarado) | N/A |
-| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 7 | [Diego Haro](http://twitter.com/search?q=Diego+Haro) | N/A |
-| 8 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 9 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
-| 10 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 11 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
-| 12 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 13 | [Apdayc](http://twitter.com/search?q=Apdayc) | N/A |
-| 14 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
-| 15 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 1 | [Geiner Alvarado](http://twitter.com/search?q=Geiner+Alvarado) | N/A |
+| 2 | [Diego Haro](http://twitter.com/search?q=Diego+Haro) | N/A |
+| 3 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
+| 4 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 7 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 8 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 9 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 10 | [Apdayc](http://twitter.com/search?q=Apdayc) | N/A |
+| 11 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
+| 12 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 15 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
 | 16 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
 | 17 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
 | 18 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
 | 19 | [carolina braedt](http://twitter.com/search?q=carolina+braedt) | N/A |
 | 20 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 | 21 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 22 | [Zegarra](http://twitter.com/search?q=Zegarra) | N/A |
+| 22 | [zegarra](http://twitter.com/search?q=zegarra) | N/A |
 | 23 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 | 24 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
 | 25 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Peru](</Peru>)
 | 31 | [Bassco Soyer](http://twitter.com/search?q=Bassco+Soyer) | N/A |
 | 32 | [Merly](http://twitter.com/search?q=Merly) | N/A |
 | 33 | [enrique wong](http://twitter.com/search?q=enrique+wong) | N/A |
-| 34 | [Artika](http://twitter.com/search?q=Artika) | N/A |
+| 34 | [artika](http://twitter.com/search?q=artika) | N/A |
 | 35 | [garcilaso](http://twitter.com/search?q=garcilaso) | N/A |
 | 36 | [Oriente o Norte](http://twitter.com/search?q=Oriente+o+Norte) | N/A |
 | 37 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
@@ -60,11 +60,11 @@ This is top 50 for [Peru](</Peru>)
 | 43 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
 | 44 | [Foráneo de la U](http://twitter.com/search?q=For%c3%a1neo+de+la+U) | N/A |
 | 45 | [trust issues out now](http://twitter.com/search?q=trust+issues+out+now) | N/A |
-| 46 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 47 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 48 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
-| 49 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 50 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 47 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 48 | [tiago nunes](http://twitter.com/search?q=tiago+nunes) | N/A |
+| 49 | [Arena 1](http://twitter.com/search?q=Arena+1) | N/A |
+| 50 | [Javier Diez Canseco](http://twitter.com/search?q=Javier+Diez+Canseco) | N/A |
 
 
 

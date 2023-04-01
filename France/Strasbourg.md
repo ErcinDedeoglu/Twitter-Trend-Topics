@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-04-01 08:17:39 UTC`
+📆 Last Updated: `2023-04-01 09:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 2 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
-| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 4 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
-| 5 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 3 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
+| 4 | [#QuizBetclic](http://twitter.com/search?q=%23QuizBetclic) | N/A |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 6 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 9 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 10 | [#BlagueDansUnTitre](http://twitter.com/search?q=%23BlagueDansUnTitre) | N/A |
-| 11 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 12 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 13 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 14 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 16 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 17 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 18 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 21 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 22 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 23 | [Khazri](http://twitter.com/search?q=Khazri) | N/A |
-| 24 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 25 | [Exhaustif](http://twitter.com/search?q=Exhaustif) | N/A |
-| 26 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 27 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 28 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 29 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 30 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 31 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
-| 32 | [Sakho](http://twitter.com/search?q=Sakho) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 35 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 36 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 37 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 38 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 39 | [Wargon](http://twitter.com/search?q=Wargon) | N/A |
-| 40 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 42 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 43 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
-| 44 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 45 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
-| 46 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 47 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 48 | [Bon 1er](http://twitter.com/search?q=Bon+1er) | N/A |
-| 49 | [Play-boy](http://twitter.com/search?q=Play-boy) | N/A |
+| 7 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 8 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 9 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 10 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 11 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 12 | [Khazri](http://twitter.com/search?q=Khazri) | N/A |
+| 13 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 14 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 17 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 19 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 20 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 21 | [Sakho](http://twitter.com/search?q=Sakho) | N/A |
+| 22 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 23 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 24 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 25 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 26 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 27 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 28 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 29 | [Wargon](http://twitter.com/search?q=Wargon) | N/A |
+| 30 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 32 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
+| 33 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
+| 34 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
+| 35 | [Play-boy](http://twitter.com/search?q=Play-boy) | N/A |
+| 36 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 37 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 38 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 39 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 40 | [Bon 1er](http://twitter.com/search?q=Bon+1er) | N/A |
+| 41 | [Alain Juppé](http://twitter.com/search?q=Alain+Jupp%c3%a9) | N/A |
+| 42 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 43 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 44 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 45 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 46 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 47 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 48 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
 
 
 

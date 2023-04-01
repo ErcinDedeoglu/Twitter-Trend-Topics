@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-04-01 08:17:28 UTC`
+📆 Last Updated: `2023-04-01 09:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 2 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 3 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
-| 4 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
-| 5 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 6 | [April Fool](http://twitter.com/search?q=April+Fool) | N/A |
-| 7 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 9 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 11 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 12 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 13 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 14 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 15 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 1 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 2 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 4 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
+| 5 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 6 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
+| 7 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 8 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 14 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 | 16 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 17 | [Christopher Eccleston](http://twitter.com/search?q=Christopher+Eccleston) | N/A |
-| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 19 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 25 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
-| 26 | [Checks](http://twitter.com/search?q=Checks) | N/A |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 20 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 21 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 22 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 23 | [Checks](http://twitter.com/search?q=Checks) | N/A |
+| 24 | [Christopher Eccleston](http://twitter.com/search?q=Christopher+Eccleston) | N/A |
+| 25 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 26 | [Best April](http://twitter.com/search?q=Best+April) | N/A |
+| 27 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
 | 28 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 29 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 30 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 31 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 32 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 33 | [Trade](http://twitter.com/search?q=Trade) | N/A |
-| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 36 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 37 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 38 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 39 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 40 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
-| 41 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 42 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
-| 43 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 44 | [#BrexitHasFailed](http://twitter.com/search?q=%23BrexitHasFailed) | N/A |
-| 45 | [#COYH](http://twitter.com/search?q=%23COYH) | N/A |
-| 46 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 47 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
-| 48 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 29 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 31 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 32 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 33 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
+| 34 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 35 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 38 | [Bench Boost](http://twitter.com/search?q=Bench+Boost) | N/A |
+| 39 | [US President](http://twitter.com/search?q=US+President) | N/A |
+| 40 | [Doncaster](http://twitter.com/search?q=Doncaster) | N/A |
+| 41 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 42 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 43 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 44 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 47 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 48 | [Vine](http://twitter.com/search?q=Vine) | N/A |
+| 49 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 50 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
 
 
 

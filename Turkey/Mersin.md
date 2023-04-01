@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-01 08:18:02 UTC`
+📆 Last Updated: `2023-04-01 09:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MuharremAmca Kazandı](http://twitter.com/search?q=MuharremAmca+Kazand%c4%b1) | N/A |
-| 2 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 1 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 2 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
 | 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 4 | [#1Nisan](http://twitter.com/search?q=%231Nisan) | N/A |
-| 5 | [Hasan Kaçan](http://twitter.com/search?q=Hasan+Ka%c3%a7an) | N/A |
+| 4 | [Hasan Kaçan](http://twitter.com/search?q=Hasan+Ka%c3%a7an) | N/A |
+| 5 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
 | 6 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
 | 7 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
 | 8 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 9 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 10 | [Camiye](http://twitter.com/search?q=Camiye) | N/A |
-| 11 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 12 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 13 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
-| 14 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 15 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 16 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
-| 17 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
-| 18 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 20 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 21 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 24 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 25 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 26 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 27 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
-| 28 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 29 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 30 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
-| 31 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 32 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
+| 9 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 10 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 11 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
+| 12 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 13 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 14 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
+| 15 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 16 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 17 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
+| 18 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
+| 19 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 20 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 23 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
+| 24 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
+| 25 | [Yanlışlıkla](http://twitter.com/search?q=Yanl%c4%b1%c5%9fl%c4%b1kla) | N/A |
+| 26 | [Levent](http://twitter.com/search?q=Levent) | N/A |
+| 27 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 28 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 29 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
+| 30 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 31 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
+| 32 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
 | 33 | [#YılmazGüney](http://twitter.com/search?q=%23Y%c4%b1lmazG%c3%bcney) | N/A |
 | 34 | [#KanserHaftası](http://twitter.com/search?q=%23KanserHaftas%c4%b1) | N/A |
-| 35 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 36 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 37 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
-| 38 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
-| 39 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 40 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
-| 41 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 42 | [#EYTliSGKveABOyaTAKILDI](http://twitter.com/search?q=%23EYTliSGKveABOyaTAKILDI) | N/A |
-| 43 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 44 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 45 | [#cevapistiyorum](http://twitter.com/search?q=%23cevapistiyorum) | N/A |
-| 46 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
+| 35 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
+| 36 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
+| 37 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 38 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
+| 39 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 40 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 41 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
+| 42 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
+| 43 | [#EYTliSGKveABOyaTAKILDI](http://twitter.com/search?q=%23EYTliSGKveABOyaTAKILDI) | N/A |
+| 44 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 45 | [#GSvADS](http://twitter.com/search?q=%23GSvADS) | N/A |
+| 46 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 47 | [#cevapistiyorum](http://twitter.com/search?q=%23cevapistiyorum) | N/A |
 
 
 

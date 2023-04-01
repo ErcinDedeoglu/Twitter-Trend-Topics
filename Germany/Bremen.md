@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-01 08:17:39 UTC`
+📆 Last Updated: `2023-04-01 09:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 3 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 4 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
-| 5 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 6 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 9 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 10 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 11 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
-| 12 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
-| 13 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 14 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
-| 15 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 17 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 5 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
+| 6 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 7 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
+| 11 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 12 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 13 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 14 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 15 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 16 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
+| 17 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
 | 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 20 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 21 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
-| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 23 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 24 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 25 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 26 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 27 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 28 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 29 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 30 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 31 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
-| 32 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 33 | [Guten Morgen A.J.](http://twitter.com/search?q=Guten+Morgen+A.J.) | N/A |
-| 34 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 35 | [Machtdemonstration](http://twitter.com/search?q=Machtdemonstration) | N/A |
-| 36 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 37 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 39 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 40 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 41 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 42 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 43 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 44 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 45 | [Willy Brandt](http://twitter.com/search?q=Willy+Brandt) | N/A |
-| 46 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
-| 47 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
+| 19 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 20 | [Luft aus dem Reifen](http://twitter.com/search?q=Luft+aus+dem+Reifen) | N/A |
+| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 22 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 23 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 24 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 25 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 26 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
+| 27 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 29 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 30 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
+| 31 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 32 | [Dieter](http://twitter.com/search?q=Dieter) | N/A |
+| 33 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 34 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 35 | [Willy Brandt](http://twitter.com/search?q=Willy+Brandt) | N/A |
+| 36 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 37 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 38 | [Flipper](http://twitter.com/search?q=Flipper) | N/A |
+| 39 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 40 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 41 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 42 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 44 | [Verteidigungsministerin](http://twitter.com/search?q=Verteidigungsministerin) | N/A |
+| 45 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 46 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 47 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
 
 
 

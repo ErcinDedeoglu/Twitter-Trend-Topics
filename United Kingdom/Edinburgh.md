@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-04-01 08:17:26 UTC`
+📆 Last Updated: `2023-04-01 09:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [April Fool](http://twitter.com/search?q=April+Fool) | N/A |
-| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 5 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 8 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 9 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 10 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 11 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 13 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
-| 14 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 15 | [Christopher Eccleston](http://twitter.com/search?q=Christopher+Eccleston) | N/A |
-| 16 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 19 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 22 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
-| 23 | [Checks](http://twitter.com/search?q=Checks) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 26 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
-| 27 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 28 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 29 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 30 | [Trade](http://twitter.com/search?q=Trade) | N/A |
-| 31 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 32 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 35 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 36 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 37 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 38 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
-| 39 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 40 | [#COYH](http://twitter.com/search?q=%23COYH) | N/A |
-| 41 | [#BrexitHasFailed](http://twitter.com/search?q=%23BrexitHasFailed) | N/A |
-| 42 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 43 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
-| 44 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
-| 45 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 46 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
-| 47 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 48 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 7 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 8 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 9 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 10 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 11 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 12 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 15 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 16 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 17 | [Best April](http://twitter.com/search?q=Best+April) | N/A |
+| 18 | [Checks](http://twitter.com/search?q=Checks) | N/A |
+| 19 | [Christopher Eccleston](http://twitter.com/search?q=Christopher+Eccleston) | N/A |
+| 20 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 21 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 22 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 23 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 25 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 28 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 29 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 32 | [Bench Boost](http://twitter.com/search?q=Bench+Boost) | N/A |
+| 33 | [US President](http://twitter.com/search?q=US+President) | N/A |
+| 34 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 35 | [Doncaster](http://twitter.com/search?q=Doncaster) | N/A |
+| 36 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 37 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 38 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 39 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 41 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 42 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 43 | [Vine](http://twitter.com/search?q=Vine) | N/A |
+| 44 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 45 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 46 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 47 | [#SixOnSaturday](http://twitter.com/search?q=%23SixOnSaturday) | N/A |
+| 48 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 49 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-04-01 08:17:56 UTC`
+📆 Last Updated: `2023-04-01 09:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 3 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
 | 4 | [#رمضان_مع_ابو_فهد2](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af2) | N/A |
 | 5 | [#مراحل_سلمان_بن_خالد](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 6 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 7 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 6 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 8 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 9 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 10 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 19 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
 | 20 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
 | 21 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 22 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 23 | [الخطوط الجويه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 24 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 25 | [أسامة شبكشي](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9+%d8%b4%d8%a8%d9%83%d8%b4%d9%8a) | N/A |
-| 26 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 27 | [برنامج الفرسان](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%81%d8%b1%d8%b3%d8%a7%d9%86) | N/A |
-| 28 | [جعفر بن ابي طالب](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 29 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 30 | [القناه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 22 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
+| 23 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 24 | [أسامة شبكشي](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9+%d8%b4%d8%a8%d9%83%d8%b4%d9%8a) | N/A |
+| 25 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 26 | [برنامج الفرسان](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%81%d8%b1%d8%b3%d8%a7%d9%86) | N/A |
+| 27 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 28 | [جعفر بن أبي طالب](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 29 | [المجد الوثايقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%af+%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 30 | [البحر العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
 | 31 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
-| 32 | [المجد الوثايقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%af+%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d9%8a%d9%82%d9%8a%d9%87) | N/A |
-| 33 | [البحر العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 34 | [ابو موسى](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 35 | [ميه متر](http://twitter.com/search?q=%d9%85%d9%8a%d9%87+%d9%85%d8%aa%d8%b1) | N/A |
-| 36 | [هشام الهويش](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%b4) | N/A |
+| 32 | [ابو موسى](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 33 | [ميه متر](http://twitter.com/search?q=%d9%85%d9%8a%d9%87+%d9%85%d8%aa%d8%b1) | N/A |
+| 34 | [1 رمضان 1443](http://twitter.com/search?q=1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+1443) | N/A |
+| 35 | [هشام الهويش](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%b4) | N/A |
+| 36 | [الفلفل الحار](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%81%d9%84+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1) | N/A |
 | 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [نظام نومي](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d9%86%d9%88%d9%85%d9%8a) | N/A |
-| 39 | [اكبر برج](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d8%a8%d8%b1%d8%ac) | N/A |
-| 40 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 41 | [سميره توفيق](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1%d9%87+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
-| 42 | [عايض القرني](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%b6+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
-| 43 | [الفلفل الحار](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%81%d9%84+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1) | N/A |
-| 44 | [٢ابريل](http://twitter.com/search?q=%d9%a2%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
-| 45 | [ابو خالد الهلالي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 46 | [جمعان](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d8%a7%d9%86) | N/A |
-| 47 | [الامور الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 48 | [علي الذين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
-| 49 | [علم الفلك](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d9%84%d9%83) | N/A |
-| 50 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 38 | [تركي الشبانه](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d9%86%d9%87) | N/A |
+| 39 | [٢ابريل](http://twitter.com/search?q=%d9%a2%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
+| 40 | [5 ديسمبر](http://twitter.com/search?q=5+%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1) | N/A |
+| 41 | [اكبر برج](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d8%a8%d8%b1%d8%ac) | N/A |
+| 42 | [عبدالله المالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 43 | [سميره توفيق](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1%d9%87+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
+| 44 | [عشر الرحمه](http://twitter.com/search?q=%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
+| 45 | [علم الفلك](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d9%84%d9%83) | N/A |
+| 46 | [عايض القرني](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%b6+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
+| 47 | [منزل التوراه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%aa%d9%88%d8%b1%d8%a7%d9%87) | N/A |
+| 48 | [الامور الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 49 | [علي الذين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 50 | [عبدالله بن عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
 
 
 

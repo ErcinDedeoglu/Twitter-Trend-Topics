@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-01 08:17:43 UTC`
+📆 Last Updated: `2023-04-01 09:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [#WCCH](http://twitter.com/search?q=%23WCCH) | N/A |
-| 5 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 6 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
-| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 9 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
-| 14 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 15 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
-| 18 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
-| 19 | [hochdeutsch](http://twitter.com/search?q=hochdeutsch) | N/A |
-| 20 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 21 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 22 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 23 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 24 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 25 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#WCCH](http://twitter.com/search?q=%23WCCH) | N/A |
+| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 5 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 7 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 8 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
+| 9 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 10 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 11 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 12 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 13 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 14 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 16 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 17 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 19 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 20 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 21 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 22 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 24 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 25 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
 | 26 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 29 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 30 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 31 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 32 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 33 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 34 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 35 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 36 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 37 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 38 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 39 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
-| 40 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 41 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 27 | [la russie](http://twitter.com/search?q=la+russie) | N/A |
+| 28 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 29 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 30 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 31 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 32 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 33 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 36 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 37 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 38 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 39 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 40 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 41 | [Meter](http://twitter.com/search?q=Meter) | N/A |
 | 42 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
 | 43 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
 | 44 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
 | 45 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
 | 46 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 47 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 48 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 47 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 48 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 
 
 

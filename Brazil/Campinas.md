@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-01 08:17:35 UTC`
+📆 Last Updated: `2023-04-01 09:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 2 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 1 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 2 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
 | 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 5 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 4 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 5 | [Perez](http://twitter.com/search?q=Perez) | N/A |
 | 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 8 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 7 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 9 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 10 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 11 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 14 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 15 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 10 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 13 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 14 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 17 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 19 | [jhope](http://twitter.com/search?q=jhope) | N/A |
 | 20 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 21 | [Babu](http://twitter.com/search?q=Babu) | N/A |
 | 22 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
-| 23 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 24 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 25 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 26 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 27 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 29 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 30 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 31 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 32 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
-| 33 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 34 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
-| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 36 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
-| 37 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 38 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
-| 39 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 40 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 41 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 42 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 43 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 44 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 45 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 46 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
-| 47 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 48 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 49 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 50 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
+| 23 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
+| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 25 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 26 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 27 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
+| 28 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 29 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 30 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 31 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 32 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
+| 33 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
+| 34 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 35 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 36 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 37 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 38 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 39 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 40 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
+| 41 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 42 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 43 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
 
 
 

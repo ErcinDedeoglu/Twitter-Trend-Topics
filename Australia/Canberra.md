@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-01 08:17:46 UTC`
+📆 Last Updated: `2023-04-01 09:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,49 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLGiantsBlues](http://twitter.com/search?q=%23AFLGiantsBlues) | N/A |
-| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 3 | [#NRLDragonsDolphins](http://twitter.com/search?q=%23NRLDragonsDolphins) | N/A |
-| 4 | [#NRLManlyKnights](http://twitter.com/search?q=%23NRLManlyKnights) | N/A |
-| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 1 | [#AFLSaintsDons](http://twitter.com/search?q=%23AFLSaintsDons) | N/A |
+| 2 | [#AFLGiantsBlues](http://twitter.com/search?q=%23AFLGiantsBlues) | N/A |
+| 3 | [#AstonByElection](http://twitter.com/search?q=%23AstonByElection) | N/A |
+| 4 | [#NRLBroncosTigers](http://twitter.com/search?q=%23NRLBroncosTigers) | N/A |
+| 5 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
 | 6 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 7 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 10 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
-| 11 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 12 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 13 | [Magic Time](http://twitter.com/search?q=Magic+Time) | N/A |
-| 14 | [I Wish I Win](http://twitter.com/search?q=I+Wish+I+Win) | N/A |
-| 15 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 16 | [Dom Young](http://twitter.com/search?q=Dom+Young) | N/A |
-| 17 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 18 | [Major Beel](http://twitter.com/search?q=Major+Beel) | N/A |
-| 19 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
-| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 21 | [Lachie Miller](http://twitter.com/search?q=Lachie+Miller) | N/A |
-| 22 | [Docherty](http://twitter.com/search?q=Docherty) | N/A |
-| 23 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 24 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 25 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 26 | [Will Day](http://twitter.com/search?q=Will+Day) | N/A |
-| 27 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 28 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 30 | [O’Brien](http://twitter.com/search?q=O%e2%80%99Brien) | N/A |
-| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 32 | [Nature Strip](http://twitter.com/search?q=Nature+Strip) | N/A |
-| 33 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 34 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 35 | [tom lynch](http://twitter.com/search?q=tom+lynch) | N/A |
-| 36 | [Congratulations Laura](http://twitter.com/search?q=Congratulations+Laura) | N/A |
-| 37 | [Mudgee](http://twitter.com/search?q=Mudgee) | N/A |
-| 38 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 39 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
-| 40 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 41 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 42 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
-| 43 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 44 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
-| 45 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 46 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
-| 47 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 8 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 9 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 10 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 11 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 12 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 13 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Bombers](http://twitter.com/search?q=Bombers) | N/A |
+| 16 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
+| 17 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
+| 18 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
+| 19 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
+| 20 | [Mudgee](http://twitter.com/search?q=Mudgee) | N/A |
+| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 22 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 23 | [I Wish I Win](http://twitter.com/search?q=I+Wish+I+Win) | N/A |
+| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 25 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 26 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
+| 27 | [#AFLPowerCrows](http://twitter.com/search?q=%23AFLPowerCrows) | N/A |
+| 28 | [#NRLDragonsDolphins](http://twitter.com/search?q=%23NRLDragonsDolphins) | N/A |
+| 29 | [#LIGvTHU](http://twitter.com/search?q=%23LIGvTHU) | N/A |
+| 30 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
+| 31 | [#NRLManlyKnights](http://twitter.com/search?q=%23NRLManlyKnights) | N/A |
+| 32 | [#Showdown](http://twitter.com/search?q=%23Showdown) | N/A |
+| 33 | [#SWIvFIR](http://twitter.com/search?q=%23SWIvFIR) | N/A |
+| 34 | [#CCMvBRI](http://twitter.com/search?q=%23CCMvBRI) | N/A |
+| 35 | [#SYDvWUN](http://twitter.com/search?q=%23SYDvWUN) | N/A |
+| 36 | [#BRUvWAR](http://twitter.com/search?q=%23BRUvWAR) | N/A |
+| 37 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 38 | [#SaintsFooty](http://twitter.com/search?q=%23SaintsFooty) | N/A |
+| 39 | [#AFLHawksRoos](http://twitter.com/search?q=%23AFLHawksRoos) | N/A |
+| 40 | [#redv](http://twitter.com/search?q=%23redv) | N/A |
+| 41 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 42 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 43 | [#RepcoSC](http://twitter.com/search?q=%23RepcoSC) | N/A |
 
 
 

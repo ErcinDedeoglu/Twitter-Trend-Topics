@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-01 08:17:42 UTC`
+📆 Last Updated: `2023-04-01 09:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#1april](http://twitter.com/search?q=%231april) | N/A |
-| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 4 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 5 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 6 | [#MaxVerstappen](http://twitter.com/search?q=%23MaxVerstappen) | N/A |
-| 7 | [#Perez](http://twitter.com/search?q=%23Perez) | N/A |
-| 8 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 1 | [#1april](http://twitter.com/search?q=%231april) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 4 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
+| 5 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 6 | [#persconferentie](http://twitter.com/search?q=%23persconferentie) | N/A |
+| 7 | [#camer_a_pril](http://twitter.com/search?q=%23camer_a_pril) | N/A |
+| 8 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 9 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 16 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
-| 17 | [Geen 1](http://twitter.com/search?q=Geen+1) | N/A |
-| 18 | [Het is 1](http://twitter.com/search?q=Het+is+1) | N/A |
-| 19 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 22 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 23 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 24 | [Overmars](http://twitter.com/search?q=Overmars) | N/A |
-| 25 | [d. overijssel](http://twitter.com/search?q=d.+overijssel) | N/A |
-| 26 | [Kankerverwekkende](http://twitter.com/search?q=Kankerverwekkende) | N/A |
-| 27 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 28 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
-| 29 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
-| 30 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 31 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 32 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
-| 33 | [c. 0](http://twitter.com/search?q=c.+0) | N/A |
-| 34 | [wiersum](http://twitter.com/search?q=wiersum) | N/A |
-| 35 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
-| 36 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 37 | [hoek van holland](http://twitter.com/search?q=hoek+van+holland) | N/A |
-| 38 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 39 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
+| 15 | [Jeffrey](http://twitter.com/search?q=Jeffrey) | N/A |
+| 16 | [Het is 1](http://twitter.com/search?q=Het+is+1) | N/A |
+| 17 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
+| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 19 | [Overmars](http://twitter.com/search?q=Overmars) | N/A |
+| 20 | [Wenen](http://twitter.com/search?q=Wenen) | N/A |
+| 21 | [d. overijssel](http://twitter.com/search?q=d.+overijssel) | N/A |
+| 22 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 23 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 24 | [Puck](http://twitter.com/search?q=Puck) | N/A |
+| 25 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
+| 26 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 27 | [Geen 1](http://twitter.com/search?q=Geen+1) | N/A |
+| 28 | [Apache](http://twitter.com/search?q=Apache) | N/A |
+| 29 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 30 | [Kikker](http://twitter.com/search?q=Kikker) | N/A |
+| 31 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
+| 32 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 33 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 34 | [c. 0](http://twitter.com/search?q=c.+0) | N/A |
+| 35 | [wiersum](http://twitter.com/search?q=wiersum) | N/A |
+| 36 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
+| 37 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
+| 38 | [Sinkevicius](http://twitter.com/search?q=Sinkevicius) | N/A |
+| 39 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
 | 40 | [MAVO](http://twitter.com/search?q=MAVO) | N/A |
-| 41 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 42 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 43 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 44 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 45 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
-| 46 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 47 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
+| 41 | [Sierra Leone](http://twitter.com/search?q=Sierra+Leone) | N/A |
+| 42 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 43 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 44 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 45 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 46 | [Sigrid](http://twitter.com/search?q=Sigrid) | N/A |
+| 47 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
 | 48 | [Ecologische Autoriteit](http://twitter.com/search?q=Ecologische+Autoriteit) | N/A |
-| 49 | [Enschede](http://twitter.com/search?q=Enschede) | N/A |
-| 50 | [Van Der Sar](http://twitter.com/search?q=Van+Der+Sar) | N/A |
+| 49 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 50 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
 
 
 
