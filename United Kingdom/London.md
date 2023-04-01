@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-04-01 21:16:32 UTC`
+📆 Last Updated: `2023-04-01 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 2 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 3 | [Yeovil](http://twitter.com/search?q=Yeovil) | N/A |
-| 4 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 5 | [Warnock](http://twitter.com/search?q=Warnock) | N/A |
-| 6 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 7 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 8 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 9 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 10 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
-| 11 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
-| 12 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 13 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 15 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 16 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 17 | [#wwfc](http://twitter.com/search?q=%23wwfc) | N/A |
-| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 1 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 2 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 3 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 4 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
+| 5 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
+| 6 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 7 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 8 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 9 | [#CHEAST](http://twitter.com/search?q=%23CHEAST) | N/A |
+| 10 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 11 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 12 | [Yeovil](http://twitter.com/search?q=Yeovil) | N/A |
+| 13 | [Mateta](http://twitter.com/search?q=Mateta) | Mateta is a Spanish word that means "to be content" or "to be satisfied". It is often used to describe a feeling of contentment or satisfaction with one's life. |
+| 14 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 15 | [#ytfc](http://twitter.com/search?q=%23ytfc) | N/A |
+| 16 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
+| 17 | [#cafc](http://twitter.com/search?q=%23cafc) | N/A |
+| 18 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
 | 19 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
 | 20 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
 | 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 22 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Howard Foster](http://twitter.com/search?q=Howard+Foster) | N/A |
-| 26 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 27 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
-| 28 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
-| 29 | [Barry Gibb](http://twitter.com/search?q=Barry+Gibb) | N/A |
-| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 34 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 35 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 36 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
-| 37 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 38 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 39 | [Campbell Hatton](http://twitter.com/search?q=Campbell+Hatton) | N/A |
-| 40 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 41 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 42 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 43 | [Yafai](http://twitter.com/search?q=Yafai) | N/A |
-| 44 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 45 | [Ammo Williams](http://twitter.com/search?q=Ammo+Williams) | N/A |
-| 46 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 47 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 48 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
-| 49 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 24 | [Howard Foster](http://twitter.com/search?q=Howard+Foster) | N/A |
+| 25 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
+| 26 | [K Trap](http://twitter.com/search?q=K+Trap) | N/A |
+| 27 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 28 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 29 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 30 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 31 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
+| 32 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
+| 33 | [Barry Gibb](http://twitter.com/search?q=Barry+Gibb) | N/A |
+| 34 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 35 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 36 | [Unai Emery](http://twitter.com/search?q=Unai+Emery) | Unai Emery is the name of a Spanish football manager and former player. He is currently the head coach of Arsenal Football Club in the English Premier League. The name Unai Emery is derived from the Basque language and means "the one who has courage". |
+| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 38 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
+| 39 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 40 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 41 | [Frank Bruno](http://twitter.com/search?q=Frank+Bruno) | N/A |
+| 42 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 43 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 44 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 47 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 48 | [Campbell Hatton](http://twitter.com/search?q=Campbell+Hatton) | N/A |
+| 49 | [Petra](http://twitter.com/search?q=Petra) | N/A |
 
 
 

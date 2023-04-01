@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-04-01 21:16:46 UTC`
+📆 Last Updated: `2023-04-01 22:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
 | 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 4 | [#FCKFCH](http://twitter.com/search?q=%23FCKFCH) | N/A |
-| 5 | [#DieShowderShows](http://twitter.com/search?q=%23DieShowderShows) | N/A |
+| 5 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
 | 6 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 7 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 8 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 9 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 11 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 12 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 13 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 14 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
-| 15 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 16 | [Spinne](http://twitter.com/search?q=Spinne) | N/A |
-| 17 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 18 | [Gesang](http://twitter.com/search?q=Gesang) | N/A |
-| 19 | [Sänger](http://twitter.com/search?q=S%c3%a4nger) | N/A |
-| 20 | [Toastbrot](http://twitter.com/search?q=Toastbrot) | N/A |
-| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 7 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
+| 8 | [Känguru](http://twitter.com/search?q=K%c3%a4nguru) | N/A |
+| 9 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 10 | [Pietro](http://twitter.com/search?q=Pietro) | N/A |
+| 11 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 12 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 13 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 14 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 15 | [Jury](http://twitter.com/search?q=Jury) | N/A |
+| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 17 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 18 | [Spinne](http://twitter.com/search?q=Spinne) | N/A |
+| 19 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 20 | [Gesang](http://twitter.com/search?q=Gesang) | N/A |
+| 21 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 22 | [Sänger](http://twitter.com/search?q=S%c3%a4nger) | N/A |
+| 23 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 24 | [zwangsgebühren](http://twitter.com/search?q=zwangsgeb%c3%bchren) | N/A |
 | 25 | [Töne](http://twitter.com/search?q=T%c3%b6ne) | N/A |
-| 26 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 27 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 28 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 29 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 30 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 31 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 32 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
-| 33 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
-| 34 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
-| 35 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Thomas Müller](http://twitter.com/search?q=Thomas+M%c3%bcller) | N/A |
-| 38 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 39 | [Matthäus](http://twitter.com/search?q=Matth%c3%a4us) | N/A |
-| 40 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 41 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 42 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 43 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 45 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 46 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 47 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 48 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 49 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 50 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
+| 26 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 30 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
+| 31 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 32 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 33 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 34 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 35 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 36 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 37 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
+| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 39 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 41 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 42 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 43 | [elfer](http://twitter.com/search?q=elfer) | N/A |
+| 44 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 45 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 46 | [#DieShowderShows](http://twitter.com/search?q=%23DieShowderShows) | N/A |
+| 47 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 48 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 49 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
+| 50 | [#Tagesschau](http://twitter.com/search?q=%23Tagesschau) | N/A |
 
 
 

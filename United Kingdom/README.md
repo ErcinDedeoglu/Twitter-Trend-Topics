@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-01 21:17:36 UTC`
+📆 Last Updated: `2023-04-01 22:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 3 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 1 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 2 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
+| 3 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 4 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [#WardleyCoffie](http://twitter.com/search?q=%23WardleyCoffie) | N/A |
 | 7 | [Howard Foster](http://twitter.com/search?q=Howard+Foster) | N/A |
-| 8 | [#avfc](http://twitter.com/search?q=%23avfc) | #avfc stands for Aston Villa Football Club, an English professional football club based in Birmingham. |
-| 9 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 10 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
-| 11 | [Barry Gibb](http://twitter.com/search?q=Barry+Gibb) | N/A |
-| 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
-| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 16 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 17 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 18 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 19 | [Campbell Hatton](http://twitter.com/search?q=Campbell+Hatton) | N/A |
-| 20 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
-| 21 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 22 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 23 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 24 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 25 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 26 | [Yafai](http://twitter.com/search?q=Yafai) | N/A |
-| 27 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 28 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 29 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 30 | [Ammo Williams](http://twitter.com/search?q=Ammo+Williams) | N/A |
-| 31 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 32 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
-| 33 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
-| 34 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 35 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 36 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 37 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 38 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 39 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 40 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 41 | [Ken Buchanan](http://twitter.com/search?q=Ken+Buchanan) | N/A |
-| 42 | [The Thing](http://twitter.com/search?q=The+Thing) | N/A |
-| 43 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 44 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
-| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 46 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 47 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 48 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
-| 49 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
-| 50 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 8 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
+| 9 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 10 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 11 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 12 | [K Trap](http://twitter.com/search?q=K+Trap) | N/A |
+| 13 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 14 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 15 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
+| 16 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
+| 17 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
+| 18 | [Barry Gibb](http://twitter.com/search?q=Barry+Gibb) | N/A |
+| 19 | [Frank Bruno](http://twitter.com/search?q=Frank+Bruno) | N/A |
+| 20 | [Unai Emery](http://twitter.com/search?q=Unai+Emery) | Unai Emery is the name of a Spanish football manager and former player. He is currently the head coach of Arsenal Football Club in the English Premier League. The name Unai Emery is derived from the Basque language and means "the one who has courage". |
+| 21 | [Klitschko](http://twitter.com/search?q=Klitschko) | N/A |
+| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 23 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 25 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
+| 26 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 27 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 28 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
+| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 30 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 31 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 32 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
+| 33 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 34 | [Commentary](http://twitter.com/search?q=Commentary) | N/A |
+| 35 | [Campbell Hatton](http://twitter.com/search?q=Campbell+Hatton) | N/A |
+| 36 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 38 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 39 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
+| 40 | [The Thing](http://twitter.com/search?q=The+Thing) | N/A |
+| 41 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 42 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 43 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 44 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 45 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 46 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 47 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 48 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 49 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
+| 50 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 
 
 

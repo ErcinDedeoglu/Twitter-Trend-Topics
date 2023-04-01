@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-01 21:17:03 UTC`
+📆 Last Updated: `2023-04-01 22:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 2 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
 | 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
-| 5 | [#AHCA2023](http://twitter.com/search?q=%23AHCA2023) | N/A |
-| 6 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 7 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
-| 8 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [#adidaslagos](http://twitter.com/search?q=%23adidaslagos) | N/A |
-| 11 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 12 | [Agulu](http://twitter.com/search?q=Agulu) | N/A |
-| 13 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
-| 16 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
-| 17 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 18 | [#MrYakubuChallenge](http://twitter.com/search?q=%23MrYakubuChallenge) | N/A |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 21 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 22 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 23 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [#Tinubu4Prison](http://twitter.com/search?q=%23Tinubu4Prison) | N/A |
-| 26 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 27 | [Praise the Lord](http://twitter.com/search?q=Praise+the+Lord) | N/A |
-| 28 | [Eric Garcia](http://twitter.com/search?q=Eric+Garcia) | Eric Garcia is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Garcia, which is a patronymic surname meaning "son of Garcia." |
-| 29 | [Eze Ndigbo](http://twitter.com/search?q=Eze+Ndigbo) | N/A |
-| 30 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 31 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 32 | [VIBE WITH YVONNE](http://twitter.com/search?q=VIBE+WITH+YVONNE) | N/A |
-| 33 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 34 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 35 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 37 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 38 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 39 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 40 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 41 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 42 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 43 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 44 | [Trust the Process](http://twitter.com/search?q=Trust+the+Process) | N/A |
-| 45 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 46 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 47 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 49 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 50 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 5 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
+| 6 | [Maze x Mxtreme](http://twitter.com/search?q=Maze+x+Mxtreme) | N/A |
+| 7 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 8 | [#AHCA2023](http://twitter.com/search?q=%23AHCA2023) | N/A |
+| 9 | [Agulu](http://twitter.com/search?q=Agulu) | N/A |
+| 10 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
+| 11 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 12 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
+| 13 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [#adidaslagos](http://twitter.com/search?q=%23adidaslagos) | N/A |
+| 16 | [#MrYakubuChallenge](http://twitter.com/search?q=%23MrYakubuChallenge) | N/A |
+| 17 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 18 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
+| 19 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
+| 20 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 23 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 24 | [Praise the Lord](http://twitter.com/search?q=Praise+the+Lord) | N/A |
+| 25 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 27 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 28 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 29 | [VIBE WITH YVONNE](http://twitter.com/search?q=VIBE+WITH+YVONNE) | N/A |
+| 30 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 31 | [Eze Ndigbo](http://twitter.com/search?q=Eze+Ndigbo) | N/A |
+| 32 | [Ronu](http://twitter.com/search?q=Ronu) | N/A |
+| 33 | [Eric Garcia](http://twitter.com/search?q=Eric+Garcia) | Eric Garcia is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Garcia, which is a patronymic surname meaning "son of Garcia." |
+| 34 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 35 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
+| 36 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 37 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 38 | [Design](http://twitter.com/search?q=Design) | N/A |
+| 39 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 40 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 41 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 42 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 44 | [TRUST THE PROCESS](http://twitter.com/search?q=TRUST+THE+PROCESS) | N/A |
+| 45 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 46 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 47 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 48 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 49 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 50 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
 
 
 

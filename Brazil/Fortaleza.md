@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-01 21:16:40 UTC`
+📆 Last Updated: `2023-04-01 22:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 2 | [Jean Carlos](http://twitter.com/search?q=Jean+Carlos) | N/A |
-| 3 | [Chay](http://twitter.com/search?q=Chay) | N/A |
-| 4 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
-| 5 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 6 | [Caíque](http://twitter.com/search?q=Ca%c3%adque) | N/A |
-| 7 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 8 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 1 | [Erick](http://twitter.com/search?q=Erick) | N/A |
+| 2 | [Chay](http://twitter.com/search?q=Chay) | N/A |
+| 3 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 4 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 5 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 6 | [Castilho](http://twitter.com/search?q=Castilho) | N/A |
+| 7 | [Caíque](http://twitter.com/search?q=Ca%c3%adque) | N/A |
+| 8 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
 | 9 | [moises](http://twitter.com/search?q=moises) | N/A |
-| 10 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 11 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 12 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 13 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 14 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 15 | [#TardezinhaNoMultishow](http://twitter.com/search?q=%23TardezinhaNoMultishow) | N/A |
-| 16 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 17 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 18 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 19 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 21 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 22 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
-| 23 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 24 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
-| 25 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 27 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 28 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 29 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
-| 30 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [#XouDaXuxaNoVIVA](http://twitter.com/search?q=%23XouDaXuxaNoVIVA) | N/A |
-| 34 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 35 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 36 | [Renzo](http://twitter.com/search?q=Renzo) | N/A |
-| 37 | [Falha](http://twitter.com/search?q=Falha) | N/A |
-| 38 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 39 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
-| 40 | [#LulaDay](http://twitter.com/search?q=%23LulaDay) | N/A |
-| 41 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 42 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 43 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 44 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 45 | [Patrick e Edenilson](http://twitter.com/search?q=Patrick+e+Edenilson) | N/A |
-| 46 | [Moacir](http://twitter.com/search?q=Moacir) | N/A |
-| 47 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 48 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 49 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 50 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 10 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 11 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
+| 12 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 13 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 14 | [#TardezinhaNoMultishow](http://twitter.com/search?q=%23TardezinhaNoMultishow) | N/A |
+| 15 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 16 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 17 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 18 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
+| 19 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 20 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 21 | [ATLÉTICO MINEIRO](http://twitter.com/search?q=ATL%c3%89TICO+MINEIRO) | N/A |
+| 22 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 23 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 24 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 25 | [benítez](http://twitter.com/search?q=ben%c3%adtez) | N/A |
+| 26 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
+| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 28 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 29 | [Chrigor](http://twitter.com/search?q=Chrigor) | N/A |
+| 30 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 31 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
+| 32 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 33 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
+| 34 | [vargas](http://twitter.com/search?q=vargas) | N/A |
+| 35 | [ALINE MERECE RESPEITO](http://twitter.com/search?q=ALINE+MERECE+RESPEITO) | N/A |
+| 36 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 37 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 38 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 39 | [Fernanda Souza](http://twitter.com/search?q=Fernanda+Souza) | N/A |
+| 40 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 41 | [Falha](http://twitter.com/search?q=Falha) | N/A |
+| 42 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 43 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 44 | [Patrick e Edenilson](http://twitter.com/search?q=Patrick+e+Edenilson) | N/A |
+| 45 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
+| 46 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 47 | [Renzo](http://twitter.com/search?q=Renzo) | N/A |
+| 48 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 49 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 50 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-01 21:17:12 UTC`
+📆 Last Updated: `2023-04-01 22:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,43 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 2 | [#LSGvsDC](http://twitter.com/search?q=%23LSGvsDC) | N/A |
-| 3 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 2 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 3 | [#LSGvsDC](http://twitter.com/search?q=%23LSGvsDC) | N/A |
 | 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 5 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 6 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 7 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
-| 10 | [#HappyBirthdayAjayDevgn](http://twitter.com/search?q=%23HappyBirthdayAjayDevgn) | N/A |
-| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 5 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 6 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 9 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 10 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
+| 11 | [#HappyBirthdayAjayDevgn](http://twitter.com/search?q=%23HappyBirthdayAjayDevgn) | N/A |
 | 12 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 | 13 | [Fati](http://twitter.com/search?q=Fati) | N/A |
 | 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 15 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 18 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 19 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 20 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 21 | [University](http://twitter.com/search?q=University) | N/A |
-| 22 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 23 | [Sohail T](http://twitter.com/search?q=Sohail+T) | N/A |
-| 24 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 25 | [Suresh R](http://twitter.com/search?q=Suresh+R) | N/A |
-| 26 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 27 | [Kyle Mayers](http://twitter.com/search?q=Kyle+Mayers) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Deepika](http://twitter.com/search?q=Deepika) | N/A |
-| 30 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 31 | [Rajat Sharma](http://twitter.com/search?q=Rajat+Sharma) | N/A |
-| 32 | [Rishabh Pant](http://twitter.com/search?q=Rishabh+Pant) | Rishabh Pant is an Indian cricketer who plays for the Indian national cricket team. He is a wicket-keeper batsman and is known for his aggressive batting style. The name Rishabh Pant comes from the Sanskrit language and means "lord of success". |
-| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 34 | [Alia](http://twitter.com/search?q=Alia) | N/A |
-| 35 | [2nd April](http://twitter.com/search?q=2nd+April) | N/A |
-| 36 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
-| 37 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 38 | [#LucknowSuperGiants](http://twitter.com/search?q=%23LucknowSuperGiants) | N/A |
-| 39 | [#IPLbhojpuri](http://twitter.com/search?q=%23IPLbhojpuri) | N/A |
-| 40 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 41 | [#DelhiCapitals](http://twitter.com/search?q=%23DelhiCapitals) | N/A |
-| 42 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 43 | [#VandeBharat](http://twitter.com/search?q=%23VandeBharat) | N/A |
-| 44 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
-| 45 | [#RCBvsMI](http://twitter.com/search?q=%23RCBvsMI) | N/A |
-| 46 | [#Suriya42MadnessUnfolds](http://twitter.com/search?q=%23Suriya42MadnessUnfolds) | N/A |
-| 47 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
+| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 17 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 18 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 19 | [University](http://twitter.com/search?q=University) | N/A |
+| 20 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 21 | [Sohail T](http://twitter.com/search?q=Sohail+T) | N/A |
+| 22 | [Suresh R](http://twitter.com/search?q=Suresh+R) | N/A |
+| 23 | [kyle mayers](http://twitter.com/search?q=kyle+mayers) | N/A |
+| 24 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 25 | [Deepika](http://twitter.com/search?q=Deepika) | N/A |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
+| 28 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 29 | [#LucknowSuperGiants](http://twitter.com/search?q=%23LucknowSuperGiants) | N/A |
+| 30 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 31 | [#RCBvsMI](http://twitter.com/search?q=%23RCBvsMI) | N/A |
+| 32 | [#DelhiCapitals](http://twitter.com/search?q=%23DelhiCapitals) | N/A |
+| 33 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
+| 34 | [#Suriya42MadnessUnfolds](http://twitter.com/search?q=%23Suriya42MadnessUnfolds) | N/A |
+| 35 | [#modidegree](http://twitter.com/search?q=%23modidegree) | N/A |
+| 36 | [#bhojpuricommentary](http://twitter.com/search?q=%23bhojpuricommentary) | N/A |
+| 37 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 38 | [#Sasaram](http://twitter.com/search?q=%23Sasaram) | N/A |
 
 
 

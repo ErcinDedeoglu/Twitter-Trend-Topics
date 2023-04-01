@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-01 21:17:21 UTC`
+📆 Last Updated: `2023-04-01 22:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 2 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 3 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
-| 4 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
-| 5 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 6 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
-| 7 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 13 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 14 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 15 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 16 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 19 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 20 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 21 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 22 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 23 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
-| 24 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 25 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 26 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 27 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 28 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 32 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 33 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
-| 34 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 35 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 36 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 37 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 38 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
-| 39 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 40 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 41 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
-| 42 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 43 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 44 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
-| 45 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 46 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 47 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 48 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
-| 49 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 2 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 3 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 4 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 5 | [The Giants](http://twitter.com/search?q=The+Giants) | N/A |
+| 6 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
+| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 8 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 9 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 10 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 13 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 14 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 15 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 19 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 20 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 21 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 22 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 23 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 24 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 25 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 26 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 27 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 28 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 29 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 30 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 31 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 32 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 33 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 34 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 35 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 36 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 37 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
+| 38 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 39 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 40 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 43 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
+| 44 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 45 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 46 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 47 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 48 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
+| 49 | [Waller](http://twitter.com/search?q=Waller) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-01 21:17:26 UTC`
+📆 Last Updated: `2023-04-01 22:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MEGACONOrlando2023](http://twitter.com/search?q=%23MEGACONOrlando2023) | N/A |
-| 2 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
-| 3 | [#Marlins](http://twitter.com/search?q=%23Marlins) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 1 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 2 | [#MEGACONOrlando2023](http://twitter.com/search?q=%23MEGACONOrlando2023) | N/A |
+| 3 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
+| 4 | [#Marlins](http://twitter.com/search?q=%23Marlins) | N/A |
 | 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 7 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 8 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 9 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 10 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 13 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 14 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 15 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 16 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 17 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
-| 18 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 19 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 20 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 21 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 22 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 26 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 27 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 28 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 29 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 30 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 31 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 32 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
-| 33 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 34 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 35 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
-| 36 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 37 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 38 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
-| 39 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 40 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 41 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 42 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
-| 43 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 44 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 45 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 46 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
-| 47 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 48 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 49 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 6 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 7 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 8 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 9 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 10 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 11 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 12 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 13 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 14 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 15 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 16 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 17 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 18 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 19 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 20 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 21 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 22 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 23 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 24 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
+| 25 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 26 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 27 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 30 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 31 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
+| 32 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 33 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 34 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
+| 35 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 36 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 37 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 38 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
+| 39 | [Matty O](http://twitter.com/search?q=Matty+O) | N/A |
+| 40 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
+| 41 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
+| 42 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
+| 45 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 46 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 47 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 48 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
+| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-01 21:17:18 UTC`
+📆 Last Updated: `2023-04-01 22:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#C2E2](http://twitter.com/search?q=%23C2E2) | N/A |
 | 2 | [#SPPAC2023](http://twitter.com/search?q=%23SPPAC2023) | N/A |
 | 3 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
-| 4 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 5 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 6 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 7 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 4 | [Grifol](http://twitter.com/search?q=Grifol) | N/A |
+| 5 | [#Cubs](http://twitter.com/search?q=%23Cubs) | N/A |
+| 6 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 7 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
 | 8 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 9 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 10 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 11 | [#NextStartsHere](http://twitter.com/search?q=%23NextStartsHere) | N/A |
-| 12 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
+| 9 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 10 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 11 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 12 | [#NextStartsHere](http://twitter.com/search?q=%23NextStartsHere) | N/A |
 | 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 14 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 15 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 16 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 17 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 14 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 15 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 16 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 17 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
 | 18 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 21 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 22 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 24 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 25 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
-| 26 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 27 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 28 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 29 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 33 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 34 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 35 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
-| 36 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 37 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 38 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 39 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 40 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
-| 41 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 42 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 43 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
-| 44 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 45 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 46 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 47 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 48 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 49 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
-| 50 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
+| 19 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 21 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 22 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 23 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 24 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 25 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 26 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 27 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 28 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 29 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 30 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 31 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
+| 32 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 33 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 34 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 37 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
+| 38 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 39 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 40 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 41 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 42 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 43 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 44 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
+| 45 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
+| 46 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
+| 47 | [Matty O](http://twitter.com/search?q=Matty+O) | N/A |
+| 48 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
+| 49 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-04-01 21:17:20 UTC`
+📆 Last Updated: `2023-04-01 22:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 1 | [Bryan Rust](http://twitter.com/search?q=Bryan+Rust) | N/A |
 | 2 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 3 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 4 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 5 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 6 | [#PAwx](http://twitter.com/search?q=%23PAwx) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 9 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 10 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 11 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 12 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 13 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 16 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 17 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 18 | [#EFFYGAYLA](http://twitter.com/search?q=%23EFFYGAYLA) | N/A |
-| 19 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 20 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 21 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
-| 22 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 23 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 24 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 25 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 28 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 30 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 31 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 32 | [Dansby Swanson](http://twitter.com/search?q=Dansby+Swanson) | N/A |
-| 33 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 34 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 35 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
-| 36 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 37 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 38 | [Big G](http://twitter.com/search?q=Big+G) | N/A |
-| 39 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 40 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
-| 41 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 42 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 43 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 44 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 45 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 46 | [Sophia Smith](http://twitter.com/search?q=Sophia+Smith) | N/A |
-| 47 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 48 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 49 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 50 | [Nick Fortes](http://twitter.com/search?q=Nick+Fortes) | N/A |
+| 5 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
+| 6 | [#pawx](http://twitter.com/search?q=%23pawx) | N/A |
+| 7 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 8 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 9 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 12 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 13 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 14 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 15 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 16 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 17 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 18 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 19 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
+| 20 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 21 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 22 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 23 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 24 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 25 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 26 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 27 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 28 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 29 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 30 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 31 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 32 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
+| 33 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 34 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 35 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 37 | [Kevin Newman](http://twitter.com/search?q=Kevin+Newman) | N/A |
+| 38 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
+| 39 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 40 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 41 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 42 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 43 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 44 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 45 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
+| 46 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
+| 47 | [Matty O](http://twitter.com/search?q=Matty+O) | N/A |
+| 48 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
+| 49 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 50 | [Josiah Gray](http://twitter.com/search?q=Josiah+Gray) | N/A |
 
 
 

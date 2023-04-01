@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-01 21:17:32 UTC`
+📆 Last Updated: `2023-04-01 22:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Latvia
 | 1 | [csdd](http://twitter.com/search?q=csdd) | N/A |
 | 2 | [jūrmalā](http://twitter.com/search?q=j%c5%abrmal%c4%81) | N/A |
 | 3 | [Skatos](http://twitter.com/search?q=Skatos) | N/A |
-| 4 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
-| 5 | [jēkabpils](http://twitter.com/search?q=j%c4%93kabpils) | N/A |
-| 6 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 7 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
-| 8 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
-| 9 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 10 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
-| 11 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 12 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 14 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 15 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
-| 16 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 17 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 18 | [Jelgavas](http://twitter.com/search?q=Jelgavas) | N/A |
-| 19 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 20 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 4 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 5 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 6 | [jēkabpils](http://twitter.com/search?q=j%c4%93kabpils) | N/A |
+| 7 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 8 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
+| 9 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
+| 10 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
+| 11 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 12 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
+| 13 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 16 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
+| 17 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 18 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
+| 19 | [Jelgavas](http://twitter.com/search?q=Jelgavas) | N/A |
+| 20 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 21 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 22 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 | 23 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
 | 24 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 25 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 28 | [Šito](http://twitter.com/search?q=%c5%a0ito) | N/A |
-| 29 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 30 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
-| 31 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 32 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
-| 33 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 34 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 35 | [Laba](http://twitter.com/search?q=Laba) | N/A |
-| 36 | [Veselību](http://twitter.com/search?q=Vesel%c4%abbu) | N/A |
-| 37 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 38 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 39 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 40 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
-| 41 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
-| 42 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 43 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | N/A |
-| 44 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
-| 45 | [Valmierā](http://twitter.com/search?q=Valmier%c4%81) | N/A |
-| 46 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 47 | [satekles](http://twitter.com/search?q=satekles) | N/A |
-| 48 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 49 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 50 | [liels](http://twitter.com/search?q=liels) | N/A |
+| 26 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
+| 27 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 28 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
+| 29 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 30 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
+| 31 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 32 | [Laba](http://twitter.com/search?q=Laba) | N/A |
+| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 34 | [Veselību](http://twitter.com/search?q=Vesel%c4%abbu) | N/A |
+| 35 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 36 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 37 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 38 | [VIENMĒR](http://twitter.com/search?q=VIENM%c4%92R) | N/A |
+| 39 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 40 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 41 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 42 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 43 | [Valmierā](http://twitter.com/search?q=Valmier%c4%81) | N/A |
+| 44 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 45 | [No 1](http://twitter.com/search?q=No+1) | N/A |
+| 46 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 47 | [liels](http://twitter.com/search?q=liels) | N/A |
+| 48 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
+| 49 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 50 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
 
 
 
