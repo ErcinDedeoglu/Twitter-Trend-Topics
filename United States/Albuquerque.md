@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-04-01 06:17:11 UTC`
+📆 Last Updated: `2023-04-01 07:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,44 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 3 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 4 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 7 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
-| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 6 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 7 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 8 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
 | 9 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 12 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 13 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
-| 14 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 15 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 16 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
-| 17 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 18 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 19 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 20 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 22 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
-| 23 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
-| 24 | [#ReyMysterio](http://twitter.com/search?q=%23ReyMysterio) | N/A |
-| 25 | [#CaitlinClark](http://twitter.com/search?q=%23CaitlinClark) | N/A |
-| 26 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 27 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 28 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 29 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 30 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
-| 31 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
-| 32 | [#tnwx](http://twitter.com/search?q=%23tnwx) | N/A |
-| 33 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
-| 34 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 35 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
-| 36 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 10 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 11 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 12 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [Tupelo](http://twitter.com/search?q=Tupelo) | N/A |
+| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 16 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 17 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 18 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
+| 19 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 20 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 21 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 22 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 23 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 24 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 25 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 26 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 27 | [#StrayKidsInLA_D1](http://twitter.com/search?q=%23StrayKidsInLA_D1) | N/A |
+| 28 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 29 | [#CaitlinClark](http://twitter.com/search?q=%23CaitlinClark) | N/A |
+| 30 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
+| 31 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 32 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 33 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 34 | [#tnwx](http://twitter.com/search?q=%23tnwx) | N/A |
+| 35 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 36 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 37 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
+| 38 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 39 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
 
 
 

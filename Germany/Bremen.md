@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-01 06:16:46 UTC`
+📆 Last Updated: `2023-04-01 07:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 2 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 4 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 5 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 9 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 10 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 11 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 12 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 11 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 12 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 13 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 14 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 15 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 16 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 17 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 18 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 19 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 15 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
+| 16 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 19 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 | 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 21 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 22 | [frack](http://twitter.com/search?q=frack) | N/A |
-| 23 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 24 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
-| 25 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 26 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 27 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 29 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 30 | [Nebenkosten](http://twitter.com/search?q=Nebenkosten) | N/A |
-| 31 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 32 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 33 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 34 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 35 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 36 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 37 | [Willi](http://twitter.com/search?q=Willi) | N/A |
-| 38 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 39 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 40 | [Elke](http://twitter.com/search?q=Elke) | N/A |
-| 41 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 42 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
-| 43 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 44 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 45 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
-| 46 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 47 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 48 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 21 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 22 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 23 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 24 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 25 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 26 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 27 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 30 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 31 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 32 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 35 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 36 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 37 | [Personalausfall](http://twitter.com/search?q=Personalausfall) | N/A |
+| 38 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 39 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 40 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 41 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
+| 42 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 43 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 44 | [Leonie](http://twitter.com/search?q=Leonie) | N/A |
+| 45 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 46 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 47 | [Mois](http://twitter.com/search?q=Mois) | N/A |
 
 
 

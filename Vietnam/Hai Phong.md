@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-01 06:17:00 UTC`
+📆 Last Updated: `2023-04-01 07:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BUILDACOLORFULDAY](http://twitter.com/search?q=%23BUILDACOLORFULDAY) | N/A |
-| 2 | [#BeYourLaugh](http://twitter.com/search?q=%23BeYourLaugh) | N/A |
-| 3 | [#ShowmeloveTheseriesEP5](http://twitter.com/search?q=%23ShowmeloveTheseriesEP5) | N/A |
+| 2 | [#phumini](http://twitter.com/search?q=%23phumini) | N/A |
+| 3 | [#Beyourluve](http://twitter.com/search?q=%23Beyourluve) | N/A |
 | 4 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [#Beyourluve](http://twitter.com/search?q=%23Beyourluve) | N/A |
-| 7 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
-| 8 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 11 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 5 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
+| 6 | [bsumbody to sumone](http://twitter.com/search?q=bsumbody+to+sumone) | N/A |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 9 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 10 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 11 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
 | 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 13 | [Tháng 4](http://twitter.com/search?q=Th%c3%a1ng+4) | N/A |
-| 14 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
-| 15 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
-| 16 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 18 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
-| 19 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 20 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 21 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 23 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 24 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 25 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 26 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 27 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 28 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 29 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 30 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
+| 13 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
+| 14 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 15 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 16 | [Tháng 4](http://twitter.com/search?q=Th%c3%a1ng+4) | N/A |
+| 17 | [dior mumbai x nattawin](http://twitter.com/search?q=dior+mumbai+x+nattawin) | N/A |
+| 18 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 20 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 21 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 22 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 23 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 24 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 25 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 26 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 27 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 28 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
+| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 31 | [giao](http://twitter.com/search?q=giao) | N/A |
-| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 33 | [Pibridge](http://twitter.com/search?q=Pibridge) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 36 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 37 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 38 | [Interiors Done](http://twitter.com/search?q=Interiors+Done) | N/A |
-| 39 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 40 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 41 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 42 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 43 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 44 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 45 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 46 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
-| 47 | [Sell](http://twitter.com/search?q=Sell) | N/A |
-| 48 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 49 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 50 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
+| 32 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
+| 33 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 34 | [Đài Loan](http://twitter.com/search?q=%c4%90%c3%a0i+Loan) | N/A |
+| 35 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 36 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
+| 37 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 38 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 39 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 41 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
+| 42 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 43 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 44 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 45 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 46 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 47 | [Pallette](http://twitter.com/search?q=Pallette) | N/A |
+| 48 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
+| 49 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 50 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
 
 
 

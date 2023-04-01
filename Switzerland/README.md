@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-01 06:17:26 UTC`
+📆 Last Updated: `2023-04-01 07:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
+| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 5 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 5 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
 | 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 7 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 9 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 10 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 7 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 8 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 9 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 14 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 15 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [Monate](http://twitter.com/search?q=Monate) | N/A |
-| 18 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 19 | [Rabatt](http://twitter.com/search?q=Rabatt) | N/A |
-| 20 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 21 | [zusammenbruch](http://twitter.com/search?q=zusammenbruch) | N/A |
-| 22 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 23 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
-| 24 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 25 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 26 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 27 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 28 | [kompliment](http://twitter.com/search?q=kompliment) | N/A |
-| 29 | [hochdeutsch](http://twitter.com/search?q=hochdeutsch) | N/A |
-| 30 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 32 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 33 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 34 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 35 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 36 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 37 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 38 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 39 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 40 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 41 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 42 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 43 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
-| 44 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 45 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
-| 46 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 47 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 48 | [renten](http://twitter.com/search?q=renten) | N/A |
-| 49 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 50 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 12 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 16 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 17 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 18 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 19 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 21 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
+| 22 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
+| 23 | [hochdeutsch](http://twitter.com/search?q=hochdeutsch) | N/A |
+| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 25 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 26 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 27 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 28 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 31 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 32 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
+| 33 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 34 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 35 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 36 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 37 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 38 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 39 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 40 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 41 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 42 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 43 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 44 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 46 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 47 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 48 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 49 | [kosova](http://twitter.com/search?q=kosova) | N/A |
+| 50 | [London](http://twitter.com/search?q=London) | N/A |
 
 
 

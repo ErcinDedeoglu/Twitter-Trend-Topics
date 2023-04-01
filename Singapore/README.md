@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-01 06:17:25 UTC`
+📆 Last Updated: `2023-04-01 07:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Singapore
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TXTinSG](http://twitter.com/search?q=%23TXTinSG) | N/A |
-| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 3 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#TXTinSG](http://twitter.com/search?q=%23TXTinSG) | N/A |
 | 4 | [#TXT_ASM_Singapore](http://twitter.com/search?q=%23TXT_ASM_Singapore) | N/A |
-| 5 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 6 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
-| 7 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 8 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
-| 11 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 5 | [#RtoVinSG](http://twitter.com/search?q=%23RtoVinSG) | N/A |
+| 6 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 7 | [#ACT_SWEET_MIRAGE_IN_SG](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE_IN_SG) | N/A |
+| 8 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 9 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
+| 10 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
+| 11 | [ollie](http://twitter.com/search?q=ollie) | N/A |
 | 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 14 | [WEEKEND VIBES WITH KIANO](http://twitter.com/search?q=WEEKEND+VIBES+WITH+KIANO) | N/A |
-| 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 16 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 19 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 20 | [Mark Lee](http://twitter.com/search?q=Mark+Lee) | N/A |
-| 21 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 22 | [SO PRETTY](http://twitter.com/search?q=SO+PRETTY) | N/A |
-| 23 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 26 | [David](http://twitter.com/search?q=David) | N/A |
-| 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 28 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 29 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 30 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 31 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 34 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 35 | [DAEUL](http://twitter.com/search?q=DAEUL) | N/A |
-| 36 | [West](http://twitter.com/search?q=West) | N/A |
-| 37 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 38 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
-| 39 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |
-| 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 42 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 43 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 44 | [btob](http://twitter.com/search?q=btob) | N/A |
-| 45 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 46 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 47 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 50 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 15 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 16 | [I WILL](http://twitter.com/search?q=I+WILL) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 20 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 21 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 22 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 23 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 27 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 28 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 29 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
+| 30 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 31 | [SO PRETTY](http://twitter.com/search?q=SO+PRETTY) | N/A |
+| 32 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 33 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 34 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 35 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 36 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 37 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 39 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 40 | [hyuk](http://twitter.com/search?q=hyuk) | N/A |
+| 41 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 43 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 44 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 45 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 47 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 48 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 49 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 50 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 
 
 

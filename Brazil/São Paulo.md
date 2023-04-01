@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-01 06:16:42 UTC`
+📆 Last Updated: `2023-04-01 07:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 4 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 7 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 10 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 12 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 13 | [Ditadura Nunca Mais](http://twitter.com/search?q=Ditadura+Nunca+Mais) | N/A |
-| 14 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 16 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 17 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 18 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 19 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 20 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 21 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 22 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 23 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
-| 24 | [Evelyn Hugo](http://twitter.com/search?q=Evelyn+Hugo) | N/A |
-| 25 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 26 | [artur](http://twitter.com/search?q=artur) | N/A |
-| 27 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 28 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 29 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 30 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 31 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 32 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 33 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
-| 34 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 35 | [chá da biazin](http://twitter.com/search?q=ch%c3%a1+da+biazin) | N/A |
-| 36 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 37 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 38 | [você consegue mami](http://twitter.com/search?q=voc%c3%aa+consegue+mami) | N/A |
-| 39 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
-| 40 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
-| 41 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 42 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 44 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 45 | [EIZA](http://twitter.com/search?q=EIZA) | N/A |
-| 46 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
-| 47 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
-| 48 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 49 | [Camila Cabello](http://twitter.com/search?q=Camila+Cabello) | Camila Cabello is a Cuban-American singer and songwriter. She rose to fame as a member of the girl group Fifth Harmony, formed on the US version of The X Factor in 2012. Her solo career began in 2016 with the release of her debut single "Crying in the Club". The name Camila Cabello is derived from her full name, Karla Camila Cabello Estrabao. |
-| 50 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 3 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 5 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 10 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 11 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 12 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 13 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 16 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 17 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 18 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 22 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 23 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 24 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 26 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 27 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 28 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 29 | [ocon](http://twitter.com/search?q=ocon) | N/A |
+| 30 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 31 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 33 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 34 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 35 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 36 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 37 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
+| 38 | [The 1](http://twitter.com/search?q=The+1) | N/A |
+| 39 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
+| 40 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 41 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 42 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
+| 43 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 44 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 45 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 46 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 47 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
+| 48 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 49 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 50 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 
 
 

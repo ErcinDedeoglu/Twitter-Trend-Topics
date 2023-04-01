@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-01 06:17:00 UTC`
+📆 Last Updated: `2023-04-01 07:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,16 +55,16 @@ This is top 50 for [Algeria](</Algeria>)
 | 38 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
 | 39 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 | 40 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 43 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 45 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 46 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
-| 47 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 48 | [Coran](http://twitter.com/search?q=Coran) | N/A |
-| 49 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 42 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 43 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 44 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 45 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 46 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 47 | [Coran](http://twitter.com/search?q=Coran) | N/A |
+| 48 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [الصرف الصحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a) | N/A |
 
 
 

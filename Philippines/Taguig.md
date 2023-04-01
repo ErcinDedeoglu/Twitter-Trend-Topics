@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-04-01 06:16:59 UTC`
+📆 Last Updated: `2023-04-01 07:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShowtimeVGfulDayEver](http://twitter.com/search?q=%23ShowtimeVGfulDayEver) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 4 | [#VGfulNoontimeExperience](http://twitter.com/search?q=%23VGfulNoontimeExperience) | N/A |
-| 5 | [#VGConfident](http://twitter.com/search?q=%23VGConfident) | N/A |
-| 6 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 7 | [Queen Vice SatHERday](http://twitter.com/search?q=Queen+Vice+SatHERday) | N/A |
-| 8 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 9 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
-| 12 | [hyun](http://twitter.com/search?q=hyun) | N/A |
-| 13 | [the vibrent promise](http://twitter.com/search?q=the+vibrent+promise) | N/A |
-| 14 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 15 | [promise24ever withdonbelle](http://twitter.com/search?q=promise24ever+withdonbelle) | N/A |
-| 16 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
-| 17 | [pienale](http://twitter.com/search?q=pienale) | N/A |
-| 18 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 19 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 21 | [chaewon](http://twitter.com/search?q=chaewon) | N/A |
-| 22 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
-| 23 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 24 | [KD Estrada](http://twitter.com/search?q=KD+Estrada) | N/A |
-| 25 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
-| 26 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
-| 27 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 28 | [HAEIN](http://twitter.com/search?q=HAEIN) | N/A |
-| 29 | [kyler dazzling visual](http://twitter.com/search?q=kyler+dazzling+visual) | N/A |
-| 30 | [BIRTH MONTH](http://twitter.com/search?q=BIRTH+MONTH) | N/A |
-| 31 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 32 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 33 | [Alexa Ilacad](http://twitter.com/search?q=Alexa+Ilacad) | N/A |
-| 34 | [bgyo ppop groupoftheyear](http://twitter.com/search?q=bgyo+ppop+groupoftheyear) | N/A |
-| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 36 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 37 | [aldenattends 2023umajamfest](http://twitter.com/search?q=aldenattends+2023umajamfest) | N/A |
-| 38 | [CebPass](http://twitter.com/search?q=CebPass) | N/A |
-| 39 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 40 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
-| 41 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
-| 42 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 43 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 44 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
-| 45 | [Bretman](http://twitter.com/search?q=Bretman) | N/A |
-| 46 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 47 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
-| 48 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 49 | [Sunshine](http://twitter.com/search?q=Sunshine) | N/A |
-| 50 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 1 | [Alexa Ilacad](http://twitter.com/search?q=Alexa+Ilacad) | N/A |
+| 2 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
+| 3 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 4 | [#KDLEXSweethearts](http://twitter.com/search?q=%23KDLEXSweethearts) | N/A |
+| 5 | [#ShowtimeVGfulDayEver](http://twitter.com/search?q=%23ShowtimeVGfulDayEver) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [#VGSOAMI](http://twitter.com/search?q=%23VGSOAMI) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [#VGfulNoontimeExperience](http://twitter.com/search?q=%23VGfulNoontimeExperience) | N/A |
+| 10 | [hyun](http://twitter.com/search?q=hyun) | N/A |
+| 11 | [Queen Vice SatHERday](http://twitter.com/search?q=Queen+Vice+SatHERday) | N/A |
+| 12 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 14 | [Dispatch](http://twitter.com/search?q=Dispatch) | N/A |
+| 15 | [Lim Ji Yeon](http://twitter.com/search?q=Lim+Ji+Yeon) | N/A |
+| 16 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 18 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 19 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
+| 20 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 21 | [KD Estrada](http://twitter.com/search?q=KD+Estrada) | N/A |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [Fav Bside](http://twitter.com/search?q=Fav+Bside) | N/A |
+| 24 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 25 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 26 | [#VGConfident](http://twitter.com/search?q=%23VGConfident) | N/A |
+| 27 | [#VGBrokenAndBeautiful](http://twitter.com/search?q=%23VGBrokenAndBeautiful) | N/A |
+| 28 | [#Glutanex](http://twitter.com/search?q=%23Glutanex) | N/A |
+| 29 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 30 | [#VGMasterpiece](http://twitter.com/search?q=%23VGMasterpiece) | N/A |
+| 31 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 32 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 33 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 34 | [#SongJiHyo](http://twitter.com/search?q=%23SongJiHyo) | N/A |
+| 35 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 36 | [#TAG25Under25](http://twitter.com/search?q=%23TAG25Under25) | N/A |
+| 37 | [#SB19xAtinAtSMMuntinlupa](http://twitter.com/search?q=%23SB19xAtinAtSMMuntinlupa) | N/A |
+| 38 | [#visarsociety](http://twitter.com/search?q=%23visarsociety) | N/A |
+| 39 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 40 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 41 | [#patterns](http://twitter.com/search?q=%23patterns) | N/A |
+| 42 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
+| 43 | [#BingoPlus](http://twitter.com/search?q=%23BingoPlus) | N/A |
+| 44 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 45 | [#BOYCOTTEBxAPTxGMA752](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA752) | N/A |
+| 46 | [#MIKHAIAH](http://twitter.com/search?q=%23MIKHAIAH) | N/A |
+| 47 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 48 | [#CosplayCarnival2023](http://twitter.com/search?q=%23CosplayCarnival2023) | N/A |
+| 49 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-04-01 06:16:43 UTC`
+📆 Last Updated: `2023-04-01 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 4 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 5 | [#HablaJeyEnC5N](http://twitter.com/search?q=%23HablaJeyEnC5N) | N/A |
-| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 7 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 8 | [Casa Rosada](http://twitter.com/search?q=Casa+Rosada) | N/A |
-| 9 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 11 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [#titeaboca](http://twitter.com/search?q=%23titeaboca) | N/A |
-| 14 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 15 | [#argenzuela](http://twitter.com/search?q=%23argenzuela) | N/A |
-| 16 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
-| 17 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 18 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 19 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 21 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 22 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 23 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 24 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 25 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
-| 26 | [CONE Y COTY EN TWITCH](http://twitter.com/search?q=CONE+Y+COTY+EN+TWITCH) | N/A |
-| 27 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 28 | [REPSOL](http://twitter.com/search?q=REPSOL) | N/A |
-| 29 | [Juan Carr](http://twitter.com/search?q=Juan+Carr) | N/A |
-| 30 | [CHIQUI TAPIA](http://twitter.com/search?q=CHIQUI+TAPIA) | N/A |
-| 31 | [Migliore](http://twitter.com/search?q=Migliore) | N/A |
-| 32 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 33 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 34 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 35 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 36 | [Abel pintos](http://twitter.com/search?q=Abel+pintos) | N/A |
-| 37 | [Gabriel Palumbo](http://twitter.com/search?q=Gabriel+Palumbo) | N/A |
-| 38 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 39 | [Raúl Alfonsín](http://twitter.com/search?q=Ra%c3%bal+Alfons%c3%adn) | N/A |
-| 40 | [USD 20.000](http://twitter.com/search?q=USD+20.000) | N/A |
-| 41 | [La Plata](http://twitter.com/search?q=La+Plata) | N/A |
-| 42 | [flor peña](http://twitter.com/search?q=flor+pe%c3%b1a) | N/A |
-| 43 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 44 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 45 | [Mundial Sub 20](http://twitter.com/search?q=Mundial+Sub+20) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 48 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
-| 49 | [TRAGEDIA](http://twitter.com/search?q=TRAGEDIA) | N/A |
-| 50 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
+| 1 | [Veliz](http://twitter.com/search?q=Veliz) | N/A |
+| 2 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 3 | [Newell](http://twitter.com/search?q=Newell) | N/A |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 6 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 7 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 9 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 10 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 11 | [Felices 115](http://twitter.com/search?q=Felices+115) | N/A |
+| 12 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 13 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 14 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 15 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 16 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 17 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 18 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
+| 19 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 20 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 21 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 22 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 23 | [Nacho Fernández](http://twitter.com/search?q=Nacho+Fern%c3%a1ndez) | Nacho Fernández is a Spanish nickname derived from the given name Ignacio. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 24 | [Ganó River](http://twitter.com/search?q=Gan%c3%b3+River) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 27 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 28 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 30 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 31 | [Enzo Díaz](http://twitter.com/search?q=Enzo+D%c3%adaz) | N/A |
+| 32 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 33 | [Delfina Lombardi](http://twitter.com/search?q=Delfina+Lombardi) | N/A |
+| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 35 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 36 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 37 | [marti benza](http://twitter.com/search?q=marti+benza) | N/A |
+| 38 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
+| 39 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 40 | [Munua](http://twitter.com/search?q=Munua) | N/A |
+| 41 | [González Pirez](http://twitter.com/search?q=Gonz%c3%a1lez+Pirez) | N/A |
+| 42 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 43 | [luli](http://twitter.com/search?q=luli) | N/A |
+| 44 | [Diablito](http://twitter.com/search?q=Diablito) | N/A |
+| 45 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 46 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 47 | [Franco Colapinto](http://twitter.com/search?q=Franco+Colapinto) | N/A |
+| 48 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 49 | [CARP](http://twitter.com/search?q=CARP) | N/A |
+| 50 | [Central](http://twitter.com/search?q=Central) | N/A |
 
 
 

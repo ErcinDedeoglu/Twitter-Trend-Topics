@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-04-01 06:16:55 UTC`
+📆 Last Updated: `2023-04-01 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [Japan](</Japan>)
 | 1 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
 | 2 | [山梨学院](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e5%ad%a6%e9%99%a2) | N/A |
 | 3 | [#キンプる](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%82%8b) | #キンプる is a Japanese hashtag that is used to express enthusiasm or excitement. It is derived from the phrase "kinpuru," which roughly translates to "let's go for it!" or "let's do it!" in English. |
-| 4 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 5 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
-| 6 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
-| 7 | [#嘘か本当かわからないことを言う](http://twitter.com/search?q=%23%e5%98%98%e3%81%8b%e6%9c%ac%e5%bd%93%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%82%92%e8%a8%80%e3%81%86) | N/A |
-| 8 | [グリフィン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3) | N/A |
-| 9 | [Cホール](http://twitter.com/search?q=C%e3%83%9b%e3%83%bc%e3%83%ab) | Cホール (C Hall) is a type of concert hall in Japan. It is a medium-sized venue, typically seating between 500 and 1,500 people. It is used for concerts, theatrical performances, and other events. In English, it can be translated as "C Hall". |
-| 10 | [山梨県勢初優勝](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e7%9c%8c%e5%8b%a2%e5%88%9d%e5%84%aa%e5%8b%9d) | N/A |
-| 11 | [#みこだにぇー](http://twitter.com/search?q=%23%e3%81%bf%e3%81%93%e3%81%a0%e3%81%ab%e3%81%87%e3%83%bc) | N/A |
-| 12 | [DH若月](http://twitter.com/search?q=DH%e8%8b%a5%e6%9c%88) | N/A |
-| 13 | [#選抜高校野球2023](http://twitter.com/search?q=%23%e9%81%b8%e6%8a%9c%e9%ab%98%e6%a0%a1%e9%87%8e%e7%90%832023) | N/A |
-| 14 | [かぐや様コラボ](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 15 | [報徳学園](http://twitter.com/search?q=%e5%a0%b1%e5%be%b3%e5%ad%a6%e5%9c%92) | 報徳学園 is a private school in Japan. The name translates to "School of Gratitude and Virtue". The school was founded in 1950 and focuses on providing a holistic education to its students, emphasizing the importance of both academic excellence and moral development. |
-| 16 | [アルボン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9c%e3%83%b3) | N/A |
-| 17 | [ピーターズ](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 18 | [アイコン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 19 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
-| 20 | [アッキャマン](http://twitter.com/search?q=%e3%82%a2%e3%83%83%e3%82%ad%e3%83%a3%e3%83%9e%e3%83%b3) | N/A |
-| 21 | [ネタバラシ](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%90%e3%83%a9%e3%82%b7) | N/A |
-| 22 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 23 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 24 | [中居くん](http://twitter.com/search?q=%e4%b8%ad%e5%b1%85%e3%81%8f%e3%82%93) | 中居くん is a nickname for Japanese actor and singer Masaki Nishikino. It is a combination of his given name, Masaki, and the Japanese honorific suffix “-kun” which is used to refer to young boys or close friends. In English, it can be translated as “Masaki-kun”. |
-| 25 | [ネタばらし](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%81%b0%e3%82%89%e3%81%97) | N/A |
-| 26 | [三振ゲッツー](http://twitter.com/search?q=%e4%b8%89%e6%8c%af%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 27 | [ダニーロ](http://twitter.com/search?q=%e3%83%80%e3%83%8b%e3%83%bc%e3%83%ad) | N/A |
-| 28 | [赤レンガ](http://twitter.com/search?q=%e8%b5%a4%e3%83%ac%e3%83%b3%e3%82%ac) | N/A |
-| 29 | [Crystal Lake](http://twitter.com/search?q=Crystal+Lake) | N/A |
-| 30 | [マッチング度](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e5%ba%a6) | N/A |
-| 31 | [わたしの考え](http://twitter.com/search?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e8%80%83%e3%81%88) | N/A |
-| 32 | [天津風改二](http://twitter.com/search?q=%e5%a4%a9%e6%b4%a5%e9%a2%a8%e6%94%b9%e4%ba%8c) | N/A |
-| 33 | [選挙ドットコム](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%83%89%e3%83%83%e3%83%88%e3%82%b3%e3%83%a0) | N/A |
-| 34 | [吉田監督](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
-| 35 | [森下くん](http://twitter.com/search?q=%e6%a3%ae%e4%b8%8b%e3%81%8f%e3%82%93) | N/A |
-| 36 | [指名打者若月](http://twitter.com/search?q=%e6%8c%87%e5%90%8d%e6%89%93%e8%80%85%e8%8b%a5%e6%9c%88) | N/A |
-| 37 | [綾城さん](http://twitter.com/search?q=%e7%b6%be%e5%9f%8e%e3%81%95%e3%82%93) | N/A |
-| 38 | [山梨初優勝](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e5%88%9d%e5%84%aa%e5%8b%9d) | N/A |
-| 39 | [そくほー](http://twitter.com/search?q=%e3%81%9d%e3%81%8f%e3%81%bb%e3%83%bc) | そくほー is an onomatopoeia that is used to express the sound of a siren. In English, it could be translated as "woo-woo". |
-| 40 | [開幕2戦目](http://twitter.com/search?q=%e9%96%8b%e5%b9%952%e6%88%a6%e7%9b%ae) | N/A |
-| 41 | [スプラフェス](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | スプラフェス (SplaFes) is an annual event held by Nintendo for the Splatoon series of video games. It is a celebration of the Splatoon franchise, featuring tournaments, exclusive merchandise, and special in-game content. The English translation of スプラフェス is Splatfest. |
-| 42 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 43 | [ヤンキース](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%82%ad%e3%83%bc%e3%82%b9) | N/A |
-| 44 | [床ちゃん](http://twitter.com/search?q=%e5%ba%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [平野くん](http://twitter.com/search?q=%e5%b9%b3%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
-| 46 | [旅立ちの春](http://twitter.com/search?q=%e6%97%85%e7%ab%8b%e3%81%a1%e3%81%ae%e6%98%a5) | N/A |
-| 47 | [ヴァイトくん](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%83%88%e3%81%8f%e3%82%93) | N/A |
-| 48 | [一挙7点](http://twitter.com/search?q=%e4%b8%80%e6%8c%997%e7%82%b9) | N/A |
-| 49 | [マクブルーム](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%96%e3%83%ab%e3%83%bc%e3%83%a0) | N/A |
-| 50 | [山梨県民](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e7%9c%8c%e6%b0%91) | N/A |
+| 4 | [グリフィン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3) | N/A |
+| 5 | [Cホール](http://twitter.com/search?q=C%e3%83%9b%e3%83%bc%e3%83%ab) | Cホール (C Hall) is a type of concert hall in Japan. It is a medium-sized venue, typically seating between 500 and 1,500 people. It is used for concerts, theatrical performances, and other events. In English, it can be translated as "C Hall". |
+| 6 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
+| 7 | [インダストリア](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%80%e3%82%b9%e3%83%88%e3%83%aa%e3%82%a2) | インダストリア is a Japanese word that translates to "industry" in English. It refers to the organized production of goods and services, typically through the use of machinery, technology, and skilled labor. |
+| 8 | [#RIZIN41](http://twitter.com/search?q=%23RIZIN41) | N/A |
+| 9 | [ピーターズ](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
+| 10 | [ジャスティンカフェ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%b3%e3%82%ab%e3%83%95%e3%82%a7) | ジャスティンカフェ is a Japanese cafe chain that specializes in coffee and desserts. The name is derived from the English word "justin," which means "just" or "fair." In English, the name of the cafe can be translated to "Justin Cafe." |
+| 11 | [ゾンニッヒ](http://twitter.com/search?q=%e3%82%be%e3%83%b3%e3%83%8b%e3%83%83%e3%83%92) | N/A |
+| 12 | [ダービー卿CT](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc%e5%8d%bfCT) | N/A |
+| 13 | [メルセデス](http://twitter.com/search?q=%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9) | N/A |
+| 14 | [#嘘か本当かわからないことを言う](http://twitter.com/search?q=%23%e5%98%98%e3%81%8b%e6%9c%ac%e5%bd%93%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%82%92%e8%a8%80%e3%81%86) | N/A |
+| 15 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 16 | [レッドモンレーヴ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%83%a2%e3%83%b3%e3%83%ac%e3%83%bc%e3%83%b4) | レッドモンレーヴ (Redmon Reevu) is a Japanese manga series written and illustrated by Yuki Kodama. It follows the story of a group of high school students who are chosen to become the Redmon Warriors, a group of warriors with special powers who must protect the world from evil forces. The title is a combination of the words "red" and "mon" which mean "monster" in Japanese. In English, it can be translated as "Red Monster League". |
+| 17 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 18 | [ミスニューヨーク](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af) | N/A |
+| 19 | [三振ゲッツー](http://twitter.com/search?q=%e4%b8%89%e6%8c%af%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
+| 20 | [ローグカイゼルグリッドマン](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%b0%e3%82%ab%e3%82%a4%e3%82%bc%e3%83%ab%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 21 | [ゲーム先行](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e5%85%88%e8%a1%8c) | N/A |
+| 22 | [じゅりじゅり](http://twitter.com/search?q=%e3%81%98%e3%82%85%e3%82%8a%e3%81%98%e3%82%85%e3%82%8a) | N/A |
+| 23 | [フェルスタッペン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%83%9a%e3%83%b3) | N/A |
+| 24 | [オメガレインボー](http://twitter.com/search?q=%e3%82%aa%e3%83%a1%e3%82%ac%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc) | N/A |
+| 25 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
+| 26 | [アルボン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9c%e3%83%b3) | N/A |
+| 27 | [マテウス](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%82%a6%e3%82%b9) | N/A |
+| 28 | [マメドフ](http://twitter.com/search?q=%e3%83%9e%e3%83%a1%e3%83%89%e3%83%95) | N/A |
+| 29 | [かぐや様コラボ](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 30 | [床ちゃん](http://twitter.com/search?q=%e5%ba%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [DH若月](http://twitter.com/search?q=DH%e8%8b%a5%e6%9c%88) | N/A |
+| 32 | [ヴィヴィほー](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%b4%e3%82%a3%e3%81%bb%e3%83%bc) | N/A |
+| 33 | [マテンロウオリオン](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%82%aa%e3%83%aa%e3%82%aa%e3%83%b3) | マテンロウオリオン is a type of Japanese folktale. It is the story of a young man who falls in love with a mermaid and must go on a quest to find her. The English translation of the title is "The Mermaid and the Orion". |
+| 34 | [山梨県勢初優勝](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e7%9c%8c%e5%8b%a2%e5%88%9d%e5%84%aa%e5%8b%9d) | N/A |
+| 35 | [執念先輩](http://twitter.com/search?q=%e5%9f%b7%e5%bf%b5%e5%85%88%e8%bc%a9) | N/A |
+| 36 | [中山11R](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b111R) | 中山11R is a horse racing track located in Nakayama, Japan. The "R" stands for "Racecourse". In English, it would be translated as Nakayama 11R Racecourse. |
+| 37 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
+| 38 | [ウイングレイテスト](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b0%e3%83%ac%e3%82%a4%e3%83%86%e3%82%b9%e3%83%88) | ウイングレイテスト (Wing Ray Test) is a type of medical imaging test used to diagnose various conditions. It is a non-invasive procedure that uses X-rays to create detailed images of the body's internal organs and structures. The images can be used to diagnose and monitor diseases, such as cancer, heart disease, and other conditions. In English, the term "Wing Ray Test" is often used interchangeably with "X-ray". |
+| 39 | [赤レンガ](http://twitter.com/search?q=%e8%b5%a4%e3%83%ac%e3%83%b3%e3%82%ac) | N/A |
+| 40 | [ロットン](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%88%e3%83%b3) | ロットン (Loton) is a Japanese word that means "lucky". It is often used to express the feeling of good luck or fortune. |
+| 41 | [アッキャマン](http://twitter.com/search?q=%e3%82%a2%e3%83%83%e3%82%ad%e3%83%a3%e3%83%9e%e3%83%b3) | N/A |
+| 42 | [腕相撲日本王者夫婦](http://twitter.com/search?q=%e8%85%95%e7%9b%b8%e6%92%b2%e6%97%a5%e6%9c%ac%e7%8e%8b%e8%80%85%e5%a4%ab%e5%a9%a6) | N/A |
+| 43 | [タイムトゥヘヴン](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%88%e3%82%a5%e3%83%98%e3%83%b4%e3%83%b3) | N/A |
+| 44 | [Aホール](http://twitter.com/search?q=A%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
+| 45 | [今川くん](http://twitter.com/search?q=%e4%bb%8a%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
+| 46 | [バランスボールテーブルクロス引き](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%b3%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab%e3%82%af%e3%83%ad%e3%82%b9%e5%bc%95%e3%81%8d) | N/A |
+| 47 | [アナザーリリック](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b6%e3%83%bc%e3%83%aa%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 48 | [討ち死に](http://twitter.com/search?q=%e8%a8%8e%e3%81%a1%e6%ad%bb%e3%81%ab) | N/A |
+| 49 | [旅立ちの春](http://twitter.com/search?q=%e6%97%85%e7%ab%8b%e3%81%a1%e3%81%ae%e6%98%a5) | N/A |
 
 
 

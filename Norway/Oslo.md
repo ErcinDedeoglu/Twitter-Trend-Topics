@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-01 06:16:51 UTC`
+📆 Last Updated: `2023-04-01 07:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [bama](http://twitter.com/search?q=bama) | N/A |
-| 5 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 6 | [#FinTwit](http://twitter.com/search?q=%23FinTwit) | N/A |
-| 7 | [troms](http://twitter.com/search?q=troms) | N/A |
-| 8 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
-| 9 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
-| 10 | [bedre](http://twitter.com/search?q=bedre) | N/A |
-| 11 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
-| 14 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
-| 15 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 16 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 17 | [reitan](http://twitter.com/search?q=reitan) | N/A |
-| 18 | [Tenkte](http://twitter.com/search?q=Tenkte) | N/A |
-| 19 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 20 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 21 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 22 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
-| 23 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
-| 24 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 25 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 26 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 27 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
-| 28 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 29 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 30 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 31 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 1 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 4 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
+| 5 | [troms](http://twitter.com/search?q=troms) | N/A |
+| 6 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 7 | [Deadline Day](http://twitter.com/search?q=Deadline+Day) | N/A |
+| 8 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
+| 11 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 12 | [Kartum](http://twitter.com/search?q=Kartum) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [aalesund](http://twitter.com/search?q=aalesund) | N/A |
+| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 16 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
+| 17 | [#Trondheim](http://twitter.com/search?q=%23Trondheim) | N/A |
+| 18 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
+| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 20 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 21 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 22 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 23 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
+| 24 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 25 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 26 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 27 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
+| 28 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
+| 29 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 30 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 31 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 32 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
+| 33 | [fotball](http://twitter.com/search?q=fotball) | N/A |
 | 34 | [tviler](http://twitter.com/search?q=tviler) | N/A |
-| 35 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 37 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 38 | [sitter](http://twitter.com/search?q=sitter) | N/A |
-| 39 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 40 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
-| 41 | [mehl](http://twitter.com/search?q=mehl) | N/A |
-| 42 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 44 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 45 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 48 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [Litt](http://twitter.com/search?q=Litt) | N/A |
+| 36 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 40 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
+| 41 | [bryne](http://twitter.com/search?q=bryne) | N/A |
+| 42 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 44 | [sitter](http://twitter.com/search?q=sitter) | N/A |
+| 45 | [Reitan](http://twitter.com/search?q=Reitan) | N/A |
+| 46 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 47 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 48 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 49 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 
 
 

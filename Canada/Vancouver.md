@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-01 06:16:31 UTC`
+📆 Last Updated: `2023-04-01 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 4 | [Tyler Toffoli](http://twitter.com/search?q=Tyler+Toffoli) | N/A |
-| 5 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 6 | [#gifts](http://twitter.com/search?q=%23gifts) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 9 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 12 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 13 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 14 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 15 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 16 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 17 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 18 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 20 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 21 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 22 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 23 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 24 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 25 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 26 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
-| 27 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 28 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 31 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 32 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 33 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 34 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 35 | [Alberta](http://twitter.com/search?q=Alberta) | N/A |
-| 36 | [stuart skinner](http://twitter.com/search?q=stuart+skinner) | N/A |
-| 37 | [only one big sheggz](http://twitter.com/search?q=only+one+big+sheggz) | N/A |
-| 38 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 39 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 40 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 41 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
-| 42 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
-| 43 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 44 | [mayza](http://twitter.com/search?q=mayza) | N/A |
-| 45 | [KUZIE](http://twitter.com/search?q=KUZIE) | N/A |
-| 46 | [bichette](http://twitter.com/search?q=bichette) | N/A |
-| 47 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 48 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 49 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
-| 50 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 3 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 4 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 5 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Toffoli](http://twitter.com/search?q=Toffoli) | N/A |
+| 11 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 12 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 13 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 15 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
+| 18 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 21 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 22 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 23 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
+| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 25 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 27 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 28 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 29 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 30 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 31 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 32 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 33 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 34 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 35 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 36 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 37 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 38 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 39 | [#WHLPlayoffs](http://twitter.com/search?q=%23WHLPlayoffs) | N/A |
+| 40 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 41 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 42 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 43 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 44 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-01 06:17:22 UTC`
+📆 Last Updated: `2023-04-01 07:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AzarinexRedVelvet](http://twitter.com/search?q=%23AzarinexRedVelvet) | N/A |
+| 1 | [#AzarineXRedVelvet](http://twitter.com/search?q=%23AzarineXRedVelvet) | N/A |
 | 2 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 5 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
-| 6 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 9 | [#KamiSudahBerkorban](http://twitter.com/search?q=%23KamiSudahBerkorban) | N/A |
-| 10 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 11 | [#terimakasihpdip](http://twitter.com/search?q=%23terimakasihpdip) | N/A |
+| 3 | [#phumini](http://twitter.com/search?q=%23phumini) | N/A |
+| 4 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 5 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 6 | [nonton cuma 19rb](http://twitter.com/search?q=nonton+cuma+19rb) | N/A |
+| 7 | [#KamiSudahBerkorban](http://twitter.com/search?q=%23KamiSudahBerkorban) | N/A |
+| 8 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 9 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
 | 12 | [ocbc nisp](http://twitter.com/search?q=ocbc+nisp) | N/A |
-| 13 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
-| 14 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
-| 15 | [Lee Dohyun](http://twitter.com/search?q=Lee+Dohyun) | N/A |
-| 16 | [Our Beauty Queens](http://twitter.com/search?q=Our+Beauty+Queens) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
-| 19 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
-| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 21 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 22 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
-| 23 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
-| 24 | [Yesol](http://twitter.com/search?q=Yesol) | N/A |
-| 25 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 26 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 27 | [mark black hair](http://twitter.com/search?q=mark+black+hair) | N/A |
-| 28 | [PLOT TWIST](http://twitter.com/search?q=PLOT+TWIST) | N/A |
-| 29 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 30 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
+| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 14 | [Lee Dohyun](http://twitter.com/search?q=Lee+Dohyun) | N/A |
+| 15 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
+| 16 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
+| 17 | [Our Beauty Queens](http://twitter.com/search?q=Our+Beauty+Queens) | N/A |
+| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 19 | [Lim Jiyeon](http://twitter.com/search?q=Lim+Jiyeon) | N/A |
+| 20 | [galaxy m14 5g](http://twitter.com/search?q=galaxy+m14+5g) | N/A |
+| 21 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
+| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 23 | [Berbagi Takjil](http://twitter.com/search?q=Berbagi+Takjil) | N/A |
+| 24 | [Ngemis](http://twitter.com/search?q=Ngemis) | N/A |
+| 25 | [Selamat PSM](http://twitter.com/search?q=Selamat+PSM) | N/A |
+| 26 | [Magda](http://twitter.com/search?q=Magda) | N/A |
+| 27 | [Mark Lee](http://twitter.com/search?q=Mark+Lee) | N/A |
+| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 29 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 30 | [NGABUBURIT JNT](http://twitter.com/search?q=NGABUBURIT+JNT) | N/A |
 | 31 | [jokowi resmikan kek lido](http://twitter.com/search?q=jokowi+resmikan+kek+lido) | N/A |
-| 32 | [Berbagi Takjil](http://twitter.com/search?q=Berbagi+Takjil) | N/A |
-| 33 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 34 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 35 | [BRIO](http://twitter.com/search?q=BRIO) | N/A |
-| 36 | [Moon Dongeun](http://twitter.com/search?q=Moon+Dongeun) | N/A |
-| 37 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 38 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 39 | [Dispatch](http://twitter.com/search?q=Dispatch) | N/A |
-| 40 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 41 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Ngurung](http://twitter.com/search?q=Ngurung) | N/A |
-| 44 | [Mark Wiens](http://twitter.com/search?q=Mark+Wiens) | N/A |
-| 45 | [Boaz](http://twitter.com/search?q=Boaz) | N/A |
-| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 47 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 48 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 49 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 50 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 32 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 33 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
+| 34 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 35 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 36 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
+| 37 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 38 | [PLOT TWIST](http://twitter.com/search?q=PLOT+TWIST) | N/A |
+| 39 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 40 | [Khadijah](http://twitter.com/search?q=Khadijah) | N/A |
+| 41 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 42 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 45 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 46 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 47 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 48 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
+| 49 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 50 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
 
 
 

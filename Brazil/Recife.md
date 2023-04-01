@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-01 06:16:41 UTC`
+📆 Last Updated: `2023-04-01 07:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 3 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 4 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 6 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 11 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 13 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 16 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 17 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 18 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 19 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 20 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 21 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 22 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 1 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 2 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 4 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 5 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 7 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 9 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 12 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 13 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 16 | [Ditadura Nunca Mais](http://twitter.com/search?q=Ditadura+Nunca+Mais) | N/A |
+| 17 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 18 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 21 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 22 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 23 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 24 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 25 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 26 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 27 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 28 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 29 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 30 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
-| 31 | [The 1](http://twitter.com/search?q=The+1) | N/A |
-| 32 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
-| 33 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 34 | [renata vasconcellos](http://twitter.com/search?q=renata+vasconcellos) | N/A |
-| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 36 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 39 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 40 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 42 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 43 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 44 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
-| 45 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 46 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 47 | [Dohyun](http://twitter.com/search?q=Dohyun) | N/A |
-| 48 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 49 | [FELIZ DIA DOS HOMENS](http://twitter.com/search?q=FELIZ+DIA+DOS+HOMENS) | N/A |
-| 50 | [Akkari](http://twitter.com/search?q=Akkari) | N/A |
+| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 25 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 26 | [Super Max](http://twitter.com/search?q=Super+Max) | N/A |
+| 27 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 28 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 29 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
+| 30 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 31 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 32 | [Evelyn Hugo](http://twitter.com/search?q=Evelyn+Hugo) | N/A |
+| 33 | [artur](http://twitter.com/search?q=artur) | N/A |
+| 34 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 36 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
+| 37 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 38 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 39 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 40 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 41 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 42 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
+| 43 | [chá da biazin](http://twitter.com/search?q=ch%c3%a1+da+biazin) | N/A |
+| 44 | [você consegue mami](http://twitter.com/search?q=voc%c3%aa+consegue+mami) | N/A |
+| 45 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 46 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
+| 47 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 48 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 49 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 50 | [EIZA](http://twitter.com/search?q=EIZA) | N/A |
 
 
 
