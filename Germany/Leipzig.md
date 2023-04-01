@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-01 09:17:42 UTC`
+📆 Last Updated: `2023-04-01 10:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 2 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 4 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
 | 5 | [#f95HSV](http://twitter.com/search?q=%23f95HSV) | N/A |
-| 6 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 7 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
-| 8 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
-| 9 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 12 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
-| 13 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 14 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 15 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 16 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 17 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
-| 18 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
-| 19 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 7 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
+| 11 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 12 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 13 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 14 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 15 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 17 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
+| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 21 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 22 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 23 | [Luft aus dem Reifen](http://twitter.com/search?q=Luft+aus+dem+Reifen) | N/A |
-| 24 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 25 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 26 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
-| 27 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 22 | [Polizeigewalt](http://twitter.com/search?q=Polizeigewalt) | N/A |
+| 23 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 24 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 25 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 26 | [Luft aus dem Reifen](http://twitter.com/search?q=Luft+aus+dem+Reifen) | N/A |
+| 27 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
 | 28 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
-| 29 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 31 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 32 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
-| 33 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 34 | [Dieter](http://twitter.com/search?q=Dieter) | N/A |
-| 35 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 36 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 37 | [Willy Brandt](http://twitter.com/search?q=Willy+Brandt) | N/A |
-| 38 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 39 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 40 | [Flipper](http://twitter.com/search?q=Flipper) | N/A |
-| 41 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 42 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 43 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 44 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 46 | [Verteidigungsministerin](http://twitter.com/search?q=Verteidigungsministerin) | N/A |
-| 47 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 48 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 49 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 29 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
+| 30 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 31 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 32 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 33 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 34 | [Tag im Jahr](http://twitter.com/search?q=Tag+im+Jahr) | N/A |
+| 35 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
+| 36 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 37 | [Flipper](http://twitter.com/search?q=Flipper) | N/A |
+| 38 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 39 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 40 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 41 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
+| 42 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
+| 43 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 44 | [Leihmutterschaft](http://twitter.com/search?q=Leihmutterschaft) | N/A |
+| 45 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 46 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
+| 47 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 48 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 49 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
 
 
 

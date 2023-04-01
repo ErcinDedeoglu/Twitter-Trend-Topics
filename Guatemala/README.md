@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-01 09:18:16 UTC`
+📆 Last Updated: `2023-04-01 10:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Guatemala
 | 13 | [Luna de Xelajú](http://twitter.com/search?q=Luna+de+Xelaj%c3%ba) | N/A |
 | 14 | [#VueltaBantrab](http://twitter.com/search?q=%23VueltaBantrab) | N/A |
 | 15 | [Gaby Moreno](http://twitter.com/search?q=Gaby+Moreno) | N/A |
-| 16 | [Palacio Nacional de la Cultura](http://twitter.com/search?q=Palacio+Nacional+de+la+Cultura) | N/A |
+| 16 | [palacio nacional de la cultura](http://twitter.com/search?q=palacio+nacional+de+la+cultura) | N/A |
 | 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 18 | [Excelentísima Sra](http://twitter.com/search?q=Excelent%c3%adsima+Sra) | N/A |
 | 19 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
@@ -39,31 +39,31 @@ This is top 50 for Guatemala
 | 22 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
 | 23 | [#usac](http://twitter.com/search?q=%23usac) | N/A |
 | 24 | [Galeno](http://twitter.com/search?q=Galeno) | N/A |
-| 25 | [dall'anese](http://twitter.com/search?q=dall%27anese) | N/A |
-| 26 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
-| 27 | [comunicación](http://twitter.com/search?q=comunicaci%c3%b3n) | N/A |
-| 28 | [Vader](http://twitter.com/search?q=Vader) | N/A |
-| 29 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 30 | [Guastatoya](http://twitter.com/search?q=Guastatoya) | N/A |
-| 31 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
-| 32 | [Yes Master](http://twitter.com/search?q=Yes+Master) | N/A |
-| 33 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 34 | [marcos yax](http://twitter.com/search?q=marcos+yax) | N/A |
-| 35 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 38 | [talamonti](http://twitter.com/search?q=talamonti) | N/A |
-| 39 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
-| 40 | [Psicología](http://twitter.com/search?q=Psicolog%c3%ada) | N/A |
-| 41 | [interamericana](http://twitter.com/search?q=interamericana) | N/A |
-| 42 | [Medicina](http://twitter.com/search?q=Medicina) | N/A |
-| 43 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 44 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 45 | [dichosa](http://twitter.com/search?q=dichosa) | N/A |
-| 46 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 47 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
-| 48 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 49 | [Ingeniería](http://twitter.com/search?q=Ingenier%c3%ada) | N/A |
+| 25 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
+| 26 | [comunicación](http://twitter.com/search?q=comunicaci%c3%b3n) | N/A |
+| 27 | [Vader](http://twitter.com/search?q=Vader) | N/A |
+| 28 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 29 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
+| 30 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
+| 31 | [Yes Master](http://twitter.com/search?q=Yes+Master) | N/A |
+| 32 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 33 | [marcos yax](http://twitter.com/search?q=marcos+yax) | N/A |
+| 34 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [talamonti](http://twitter.com/search?q=talamonti) | N/A |
+| 38 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
+| 39 | [Psicología](http://twitter.com/search?q=Psicolog%c3%ada) | N/A |
+| 40 | [interamericana](http://twitter.com/search?q=interamericana) | N/A |
+| 41 | [Medicina](http://twitter.com/search?q=Medicina) | N/A |
+| 42 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 43 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 44 | [dichosa](http://twitter.com/search?q=dichosa) | N/A |
+| 45 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 46 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
+| 47 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 48 | [Ingeniería](http://twitter.com/search?q=Ingenier%c3%ada) | N/A |
+| 49 | [Dall'Anese](http://twitter.com/search?q=Dall%27Anese) | N/A |
 | 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-01 09:18:18 UTC`
+📆 Last Updated: `2023-04-01 10:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 2 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 3 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 4 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 5 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
+| 3 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 4 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
+| 5 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
 | 6 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 7 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 10 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
-| 11 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 12 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 13 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
-| 14 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 15 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 7 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
+| 8 | [100 Rosomaków](http://twitter.com/search?q=100+Rosomak%c3%b3w) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [Słowenia](http://twitter.com/search?q=S%c5%82owenia) | N/A |
+| 15 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
 | 16 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
-| 17 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
-| 18 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 19 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 20 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
-| 21 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 22 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 25 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 26 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
-| 27 | [Jina](http://twitter.com/search?q=Jina) | N/A |
-| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 29 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
-| 30 | [Darku](http://twitter.com/search?q=Darku) | N/A |
-| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 32 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 33 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 34 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 35 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 36 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 37 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 38 | [Oracz](http://twitter.com/search?q=Oracz) | N/A |
-| 39 | [Mercedesa](http://twitter.com/search?q=Mercedesa) | N/A |
-| 40 | [Szymczyka](http://twitter.com/search?q=Szymczyka) | N/A |
-| 41 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
-| 42 | [Kwiecień](http://twitter.com/search?q=Kwiecie%c5%84) | N/A |
-| 43 | [Enha](http://twitter.com/search?q=Enha) | N/A |
-| 44 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 45 | [Jarosław Kaczyński](http://twitter.com/search?q=Jaros%c5%82aw+Kaczy%c5%84ski) | N/A |
-| 46 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 47 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 48 | [PLACKI ZIEMNIACZANE](http://twitter.com/search?q=PLACKI+ZIEMNIACZANE) | N/A |
-| 49 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 50 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 17 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
+| 18 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
+| 19 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 20 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
+| 21 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 22 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
+| 23 | [Jarosław Kaczyński](http://twitter.com/search?q=Jaros%c5%82aw+Kaczy%c5%84ski) | N/A |
+| 24 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 25 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 26 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 27 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
+| 28 | [Słoweńcy](http://twitter.com/search?q=S%c5%82owe%c5%84cy) | N/A |
+| 29 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 30 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
+| 31 | [Darku](http://twitter.com/search?q=Darku) | N/A |
+| 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 33 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
+| 34 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 35 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
+| 36 | [Oracz](http://twitter.com/search?q=Oracz) | N/A |
+| 37 | [Szymczyka](http://twitter.com/search?q=Szymczyka) | N/A |
+| 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 39 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 40 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
+| 41 | [Enha](http://twitter.com/search?q=Enha) | N/A |
+| 42 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 43 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 44 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
+| 45 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
+| 48 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
+| 49 | [PLACKI ZIEMNIACZANE](http://twitter.com/search?q=PLACKI+ZIEMNIACZANE) | N/A |
+| 50 | [Żart](http://twitter.com/search?q=%c5%bbart) | N/A |
 
 
 

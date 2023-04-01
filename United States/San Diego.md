@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-01 09:18:12 UTC`
+📆 Last Updated: `2023-04-01 10:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 2 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 3 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 4 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 5 | [#WoodstockAI](http://twitter.com/search?q=%23WoodstockAI) | N/A |
-| 6 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 7 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 8 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 9 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 11 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 12 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 13 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 14 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 15 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 1 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 2 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 3 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 4 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 5 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 6 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 8 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 9 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 10 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 11 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 12 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 13 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 14 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 17 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 18 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 19 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 20 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 19 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 20 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
 | 21 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
 | 22 | [#StrayKidsinLA](http://twitter.com/search?q=%23StrayKidsinLA) | N/A |
 | 23 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
 | 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 25 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
 | 26 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 27 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 28 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 28 | [jhope](http://twitter.com/search?q=jhope) | N/A |
 | 29 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 30 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 31 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 32 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 33 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 34 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 35 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 36 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 37 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 38 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 39 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 30 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 31 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 32 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 33 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 34 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 36 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 37 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 38 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 39 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
 | 40 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 41 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 42 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 43 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 44 | [Muta](http://twitter.com/search?q=Muta) | N/A |
-| 45 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
-| 46 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
-| 47 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 48 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 49 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 50 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 41 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 42 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 43 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 44 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 45 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 46 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 47 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 48 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 49 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 50 | [Visited](http://twitter.com/search?q=Visited) | N/A |
 
 
 

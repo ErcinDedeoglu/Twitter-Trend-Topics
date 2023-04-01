@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-01 09:18:18 UTC`
+📆 Last Updated: `2023-04-01 10:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,21 +22,21 @@ This is top 50 for Panama
 | 5 | [Chanis](http://twitter.com/search?q=Chanis) | N/A |
 | 6 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 7 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 9 | [nito cortizo](http://twitter.com/search?q=nito+cortizo) | N/A |
-| 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 11 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 12 | [Opino](http://twitter.com/search?q=Opino) | N/A |
-| 13 | [Junta Directiva](http://twitter.com/search?q=Junta+Directiva) | N/A |
-| 14 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 15 | [changuinola](http://twitter.com/search?q=changuinola) | N/A |
-| 16 | [casco antiguo](http://twitter.com/search?q=casco+antiguo) | N/A |
-| 17 | [etnia china](http://twitter.com/search?q=etnia+china) | N/A |
-| 18 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [sabonge](http://twitter.com/search?q=sabonge) | N/A |
-| 21 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 22 | [Lombana](http://twitter.com/search?q=Lombana) | N/A |
+| 8 | [lombana](http://twitter.com/search?q=lombana) | N/A |
+| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 10 | [nito cortizo](http://twitter.com/search?q=nito+cortizo) | N/A |
+| 11 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 12 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 13 | [Opino](http://twitter.com/search?q=Opino) | N/A |
+| 14 | [Junta Directiva](http://twitter.com/search?q=Junta+Directiva) | N/A |
+| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 16 | [changuinola](http://twitter.com/search?q=changuinola) | N/A |
+| 17 | [casco antiguo](http://twitter.com/search?q=casco+antiguo) | N/A |
+| 18 | [etnia china](http://twitter.com/search?q=etnia+china) | N/A |
+| 19 | [universidad](http://twitter.com/search?q=universidad) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [sabonge](http://twitter.com/search?q=sabonge) | N/A |
+| 22 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 23 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
 | 24 | [#estoescai](http://twitter.com/search?q=%23estoescai) | N/A |
 | 25 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |

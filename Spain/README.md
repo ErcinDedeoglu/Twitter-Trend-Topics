@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-01 09:18:20 UTC`
+📆 Last Updated: `2023-04-01 10:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 2 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
-| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 4 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 5 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 9 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 10 | [#AgropopularSemanaSanta](http://twitter.com/search?q=%23AgropopularSemanaSanta) | N/A |
-| 11 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 12 | [#N1CanalFiesta13](http://twitter.com/search?q=%23N1CanalFiesta13) | N/A |
-| 13 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 14 | [#APOYOROCIO1A](http://twitter.com/search?q=%23APOYOROCIO1A) | N/A |
-| 15 | [#YoMeRebelo1A](http://twitter.com/search?q=%23YoMeRebelo1A) | N/A |
-| 16 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
-| 19 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 20 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 21 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 22 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 24 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
-| 25 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 26 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 27 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 28 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
-| 29 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 30 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 31 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 32 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 33 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
-| 34 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 35 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 36 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 37 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 38 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 39 | [feliz semana santa](http://twitter.com/search?q=feliz+semana+santa) | N/A |
-| 40 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 41 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 42 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 43 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
-| 44 | [#41comicbcn](http://twitter.com/search?q=%2341comicbcn) | N/A |
-| 45 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 46 | [#AsturiasNoArdeLaQueman](http://twitter.com/search?q=%23AsturiasNoArdeLaQueman) | N/A |
+| 1 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
+| 2 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 3 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 4 | [#N1CanalFiesta13](http://twitter.com/search?q=%23N1CanalFiesta13) | N/A |
+| 5 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [#AgropopularSemanaSanta](http://twitter.com/search?q=%23AgropopularSemanaSanta) | N/A |
+| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [día de partido](http://twitter.com/search?q=d%c3%ada+de+partido) | N/A |
+| 11 | [#APOYOROCIO1A](http://twitter.com/search?q=%23APOYOROCIO1A) | N/A |
+| 12 | [#BienvenidoAbril](http://twitter.com/search?q=%23BienvenidoAbril) | N/A |
+| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 14 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 16 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 18 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
+| 19 | [Hospital Civil](http://twitter.com/search?q=Hospital+Civil) | N/A |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
+| 24 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 25 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 27 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
+| 28 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 29 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 30 | [El 1](http://twitter.com/search?q=El+1) | N/A |
+| 31 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 32 | [Zornoza](http://twitter.com/search?q=Zornoza) | N/A |
+| 33 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 34 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
+| 35 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 37 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 38 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 39 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
+| 40 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 41 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
+| 42 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 43 | [#YoMeRebelo1A](http://twitter.com/search?q=%23YoMeRebelo1A) | N/A |
+| 44 | [#1DeAbril](http://twitter.com/search?q=%231DeAbril) | N/A |
+| 45 | [#41comicbcn](http://twitter.com/search?q=%2341comicbcn) | N/A |
+| 46 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
+| 47 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 48 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 49 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 50 | [#AustraliaDAZNF1](http://twitter.com/search?q=%23AustraliaDAZNF1) | N/A |
 
 
 

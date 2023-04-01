@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-01 09:18:10 UTC`
+📆 Last Updated: `2023-04-01 10:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 2 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 3 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 4 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 5 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 2 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 10 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 11 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 12 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
-| 13 | [#StrayKidsinLA](http://twitter.com/search?q=%23StrayKidsinLA) | N/A |
-| 14 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
-| 15 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 16 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 7 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 8 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 9 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 10 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
+| 11 | [#StrayKidsinLA](http://twitter.com/search?q=%23StrayKidsinLA) | N/A |
+| 12 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 13 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 14 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 15 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 16 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [jhope](http://twitter.com/search?q=jhope) | N/A |
 | 19 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 20 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 21 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 20 | [wnba](http://twitter.com/search?q=wnba) | N/A |
+| 21 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
 | 22 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 23 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 24 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 23 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 24 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
 | 25 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 26 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 27 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 28 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 29 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 30 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 31 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 32 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 33 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 34 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 35 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 36 | [Muta](http://twitter.com/search?q=Muta) | N/A |
-| 37 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
-| 38 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
-| 39 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 40 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 41 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 42 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 43 | [Kyle Lewis](http://twitter.com/search?q=Kyle+Lewis) | N/A |
-| 44 | [Maya Moore](http://twitter.com/search?q=Maya+Moore) | Maya Moore is an American professional basketball player who currently plays for the Minnesota Lynx of the Women's National Basketball Association (WNBA). She is a four-time WNBA champion, four-time WNBA All-Star, two-time Olympic gold medalist, and two-time NCAA champion. Moore is widely considered one of the greatest players in women's basketball history. |
-| 45 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 46 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 47 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 49 | [Cheryl Miller](http://twitter.com/search?q=Cheryl+Miller) | N/A |
-| 50 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 26 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 27 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 28 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 29 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 30 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
+| 31 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 32 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 33 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 34 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 35 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 36 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 37 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 38 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 39 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 40 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 41 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 42 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 43 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 44 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
+| 45 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 46 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 47 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 48 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 49 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 50 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
 
 
 

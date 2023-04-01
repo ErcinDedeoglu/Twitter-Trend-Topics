@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-01 09:17:45 UTC`
+📆 Last Updated: `2023-04-01 10:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
-| 6 | [Deadline Day](http://twitter.com/search?q=Deadline+Day) | N/A |
-| 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [Tv 2](http://twitter.com/search?q=Tv+2) | N/A |
-| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 11 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
+| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 5 | [Klassekampen](http://twitter.com/search?q=Klassekampen) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
+| 8 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
+| 9 | [Deadline Day](http://twitter.com/search?q=Deadline+Day) | N/A |
+| 10 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 11 | [Tv 2](http://twitter.com/search?q=Tv+2) | N/A |
 | 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 13 | [Litt](http://twitter.com/search?q=Litt) | N/A |
-| 14 | [Kartum](http://twitter.com/search?q=Kartum) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 13 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 15 | [kartum](http://twitter.com/search?q=kartum) | N/A |
+| 16 | [Troms](http://twitter.com/search?q=Troms) | N/A |
 | 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 18 | [aalesund](http://twitter.com/search?q=aalesund) | N/A |
 | 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 20 | [Troms](http://twitter.com/search?q=Troms) | N/A |
+| 20 | [Faen](http://twitter.com/search?q=Faen) | N/A |
 | 21 | [Maren Mjelde](http://twitter.com/search?q=Maren+Mjelde) | N/A |
 | 22 | [#trondheim](http://twitter.com/search?q=%23trondheim) | N/A |
-| 23 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 24 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
-| 25 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 26 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 27 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 28 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 29 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
-| 30 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
-| 31 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 32 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
-| 33 | [fotball](http://twitter.com/search?q=fotball) | N/A |
-| 34 | [tviler](http://twitter.com/search?q=tviler) | N/A |
-| 35 | [Håper](http://twitter.com/search?q=H%c3%a5per) | N/A |
-| 36 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
-| 37 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 38 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
-| 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 40 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 41 | [sitter](http://twitter.com/search?q=sitter) | N/A |
-| 42 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 43 | [Reitan](http://twitter.com/search?q=Reitan) | N/A |
-| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 45 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 46 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 47 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 48 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 49 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 23 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 24 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 25 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
+| 26 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 27 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
+| 28 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 29 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 30 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
+| 33 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 34 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 35 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 36 | [fotball](http://twitter.com/search?q=fotball) | N/A |
+| 37 | [tviler](http://twitter.com/search?q=tviler) | N/A |
+| 38 | [Litt](http://twitter.com/search?q=Litt) | N/A |
+| 39 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 40 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
+| 41 | [Aldri](http://twitter.com/search?q=Aldri) | N/A |
+| 42 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 45 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
+| 46 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 47 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 48 | [sitter](http://twitter.com/search?q=sitter) | N/A |
+| 49 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
 
 
 
