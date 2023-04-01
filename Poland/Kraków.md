@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-01 14:16:42 UTC`
+📆 Last Updated: `2023-04-01 15:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
 | 4 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 5 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
 | 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 9 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 11 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 12 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 13 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 14 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 15 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 16 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 17 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 18 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
-| 19 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 21 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
-| 22 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
-| 23 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 24 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 25 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 8 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 9 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 10 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 11 | [#LEGRCZ](http://twitter.com/search?q=%23LEGRCZ) | N/A |
+| 12 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 13 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 15 | [Rodriego](http://twitter.com/search?q=Rodriego) | N/A |
+| 16 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 17 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 18 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 19 | [kupi](http://twitter.com/search?q=kupi) | N/A |
+| 20 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
+| 21 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 22 | [Korona](http://twitter.com/search?q=Korona) | N/A |
+| 23 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
+| 24 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
+| 25 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
 | 26 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 27 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
-| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 29 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 30 | [Rosomak](http://twitter.com/search?q=Rosomak) | N/A |
-| 31 | [piasta](http://twitter.com/search?q=piasta) | N/A |
-| 32 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 33 | [lex kaczyński](http://twitter.com/search?q=lex+kaczy%c5%84ski) | N/A |
-| 34 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 35 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
-| 36 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
-| 37 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 38 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 39 | [matecki](http://twitter.com/search?q=matecki) | N/A |
+| 27 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
+| 30 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 31 | [lex kaczyński](http://twitter.com/search?q=lex+kaczy%c5%84ski) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
+| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 35 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
+| 36 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 37 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 38 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 39 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
 | 40 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
-| 41 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 42 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 41 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 42 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
 | 43 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 44 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 44 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
 | 45 | [podolski](http://twitter.com/search?q=podolski) | N/A |
-| 46 | [wyrazy](http://twitter.com/search?q=wyrazy) | N/A |
-| 47 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
-| 48 | [placki ziemniaczane](http://twitter.com/search?q=placki+ziemniaczane) | N/A |
-| 49 | [1 Kwietnia](http://twitter.com/search?q=1+Kwietnia) | N/A |
-| 50 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 46 | [franciszkańska 3](http://twitter.com/search?q=franciszka%c5%84ska+3) | N/A |
+| 47 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 48 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
+| 49 | [placki ziemniaczane](http://twitter.com/search?q=placki+ziemniaczane) | N/A |
+| 50 | [1 Kwietnia](http://twitter.com/search?q=1+Kwietnia) | N/A |
 
 
 

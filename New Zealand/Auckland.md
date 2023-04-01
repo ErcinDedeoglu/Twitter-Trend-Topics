@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-01 14:17:09 UTC`
+📆 Last Updated: `2023-04-01 15:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [#CHIvBLU](http://twitter.com/search?q=%23CHIvBLU) | N/A |
-| 5 | [#WELvMVC](http://twitter.com/search?q=%23WELvMVC) | N/A |
+| 4 | [#chivblu](http://twitter.com/search?q=%23chivblu) | N/A |
+| 5 | [#welvmvc](http://twitter.com/search?q=%23welvmvc) | N/A |
 | 6 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 7 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
 | 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
@@ -33,11 +33,11 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
 | 18 | [mediaworks](http://twitter.com/search?q=mediaworks) | N/A |
-| 19 | [NZer](http://twitter.com/search?q=NZer) | N/A |
+| 19 | [nzer](http://twitter.com/search?q=nzer) | N/A |
 | 20 | [WTAF](http://twitter.com/search?q=WTAF) | N/A |
 | 21 | [Mani](http://twitter.com/search?q=Mani) | N/A |
-| 22 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
-| 23 | [MBIE](http://twitter.com/search?q=MBIE) | N/A |
+| 22 | [new zealander](http://twitter.com/search?q=new+zealander) | N/A |
+| 23 | [mbie](http://twitter.com/search?q=mbie) | N/A |
 | 24 | [Victory](http://twitter.com/search?q=Victory) | N/A |
 | 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 26 | [Dredge](http://twitter.com/search?q=Dredge) | N/A |

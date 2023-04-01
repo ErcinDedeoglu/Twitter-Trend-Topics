@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-01 14:16:57 UTC`
+📆 Last Updated: `2023-04-01 15:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ThankYouKCornerPH](http://twitter.com/search?q=%23ThankYouKCornerPH) | N/A |
-| 2 | [#OxecurePHxHENDERY](http://twitter.com/search?q=%23OxecurePHxHENDERY) | N/A |
-| 3 | [VIBRENT ON NEWSTOKOYAN](http://twitter.com/search?q=VIBRENT+ON+NEWSTOKOYAN) | N/A |
-| 4 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
-| 5 | [#FELIPatAQUATICbeats](http://twitter.com/search?q=%23FELIPatAQUATICbeats) | N/A |
-| 6 | [#SunLifeCyclePH](http://twitter.com/search?q=%23SunLifeCyclePH) | N/A |
-| 7 | [#DonnyPartnersWithSunLife](http://twitter.com/search?q=%23DonnyPartnersWithSunLife) | N/A |
-| 8 | [SunlifeBikeCamp WithDONNY](http://twitter.com/search?q=SunlifeBikeCamp+WithDONNY) | N/A |
-| 9 | [TRIE](http://twitter.com/search?q=TRIE) | N/A |
+| 1 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 3 | [#ThankYouKCornerPH](http://twitter.com/search?q=%23ThankYouKCornerPH) | N/A |
+| 4 | [#FELIPatAQUATICbeats](http://twitter.com/search?q=%23FELIPatAQUATICbeats) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#proudofyoubecky](http://twitter.com/search?q=%23proudofyoubecky) | N/A |
+| 7 | [#showtimevgfuldayever](http://twitter.com/search?q=%23showtimevgfuldayever) | N/A |
+| 8 | [sunlifebikecamp withdonny](http://twitter.com/search?q=sunlifebikecamp+withdonny) | N/A |
+| 9 | [VIBRENT ON NEWSTOKOYAN](http://twitter.com/search?q=VIBRENT+ON+NEWSTOKOYAN) | N/A |
 | 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 11 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 12 | [ZACHAM ALWAYS BARKADA](http://twitter.com/search?q=ZACHAM+ALWAYS+BARKADA) | N/A |
-| 13 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
-| 14 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 15 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 16 | [Missing You](http://twitter.com/search?q=Missing+You) | N/A |
-| 17 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 18 | [VXON BREAKING BAD MV](http://twitter.com/search?q=VXON+BREAKING+BAD+MV) | N/A |
-| 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 20 | [DO LIFE OKAY](http://twitter.com/search?q=DO+LIFE+OKAY) | N/A |
-| 21 | [BGYO AT UST ANGELICUM](http://twitter.com/search?q=BGYO+AT+UST+ANGELICUM) | N/A |
-| 22 | [Running Man](http://twitter.com/search?q=Running+Man) | N/A |
-| 23 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 24 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 25 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 26 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 27 | [Sunghoon](http://twitter.com/search?q=Sunghoon) | N/A |
-| 28 | [#KA1AnniversaryMENPA](http://twitter.com/search?q=%23KA1AnniversaryMENPA) | N/A |
-| 29 | [#DADDYSGURLDetox](http://twitter.com/search?q=%23DADDYSGURLDetox) | N/A |
-| 30 | [#TCOBAprilFools](http://twitter.com/search?q=%23TCOBAprilFools) | N/A |
-| 31 | [#RtoVinSeoul_Day1](http://twitter.com/search?q=%23RtoVinSeoul_Day1) | N/A |
-| 32 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
-| 33 | [#BenAndBenTheVlog](http://twitter.com/search?q=%23BenAndBenTheVlog) | N/A |
-| 34 | [#SimplyFrancine](http://twitter.com/search?q=%23SimplyFrancine) | N/A |
-| 35 | [#BBTVisBack](http://twitter.com/search?q=%23BBTVisBack) | N/A |
-| 36 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 37 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
-| 38 | [#MaybellineXBINI](http://twitter.com/search?q=%23MaybellineXBINI) | N/A |
-| 39 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
-| 40 | [#BOYCOTTEBxAPTxGMA752](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA752) | N/A |
-| 41 | [#AnggeG](http://twitter.com/search?q=%23AnggeG) | N/A |
-| 42 | [#TAG25Under25](http://twitter.com/search?q=%23TAG25Under25) | N/A |
-| 43 | [#angelicagegante](http://twitter.com/search?q=%23angelicagegante) | N/A |
-| 44 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 11 | [TRIE](http://twitter.com/search?q=TRIE) | N/A |
+| 12 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
+| 13 | [kdlex pushpopular loty](http://twitter.com/search?q=kdlex+pushpopular+loty) | N/A |
+| 14 | [hyun](http://twitter.com/search?q=hyun) | N/A |
+| 15 | [rising actor junhoe](http://twitter.com/search?q=rising+actor+junhoe) | N/A |
+| 16 | [pienale](http://twitter.com/search?q=pienale) | N/A |
+| 17 | [SEENGER](http://twitter.com/search?q=SEENGER) | N/A |
+| 18 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
+| 19 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 20 | [ZACHAM ALWAYS BARKADA](http://twitter.com/search?q=ZACHAM+ALWAYS+BARKADA) | N/A |
+| 21 | [BINI FIT ME FRESH TINT MV](http://twitter.com/search?q=BINI+FIT+ME+FRESH+TINT+MV) | N/A |
+| 22 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 23 | [queen vice satherday](http://twitter.com/search?q=queen+vice+satherday) | N/A |
+| 24 | [DO LIFE OKAY](http://twitter.com/search?q=DO+LIFE+OKAY) | N/A |
+| 25 | [BGYO AT UST ANGELICUM](http://twitter.com/search?q=BGYO+AT+UST+ANGELICUM) | N/A |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 27 | [coloureverywhere mv](http://twitter.com/search?q=coloureverywhere+mv) | N/A |
+| 28 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 29 | [Lim Ji Yeon](http://twitter.com/search?q=Lim+Ji+Yeon) | N/A |
+| 30 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 31 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 32 | [VXON BREAKING BAD MV](http://twitter.com/search?q=VXON+BREAKING+BAD+MV) | N/A |
+| 33 | [MORISSETTE NewVideo](http://twitter.com/search?q=MORISSETTE+NewVideo) | N/A |
+| 34 | [yeri](http://twitter.com/search?q=yeri) | N/A |
+| 35 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 38 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
+| 39 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 40 | [Fav Bside](http://twitter.com/search?q=Fav+Bside) | N/A |
+| 41 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 42 | [Hello Future](http://twitter.com/search?q=Hello+Future) | N/A |
+| 43 | [Lee Mujin](http://twitter.com/search?q=Lee+Mujin) | N/A |
+| 44 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 45 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 47 | [Current Bias](http://twitter.com/search?q=Current+Bias) | N/A |
+| 48 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 49 | [taks](http://twitter.com/search?q=taks) | N/A |
+| 50 | [First Song](http://twitter.com/search?q=First+Song) | N/A |
 
 
 

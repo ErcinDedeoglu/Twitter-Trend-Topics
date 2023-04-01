@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-04-01 14:17:18 UTC`
+📆 Last Updated: `2023-04-01 15:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,41 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AstonByElection](http://twitter.com/search?q=%23AstonByElection) | N/A |
-| 2 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 1 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 2 | [#AstonByElection](http://twitter.com/search?q=%23AstonByElection) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#AFLPowerCrows](http://twitter.com/search?q=%23AFLPowerCrows) | N/A |
-| 5 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 4 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 5 | [#AFLPowerCrows](http://twitter.com/search?q=%23AFLPowerCrows) | N/A |
+| 6 | [dutton](http://twitter.com/search?q=dutton) | N/A |
 | 7 | [#AFLSaintsDons](http://twitter.com/search?q=%23AFLSaintsDons) | N/A |
-| 8 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
-| 9 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 8 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 9 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
 | 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 11 | [Port](http://twitter.com/search?q=Port) | N/A |
 | 12 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 13 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 14 | [Mason Wood](http://twitter.com/search?q=Mason+Wood) | N/A |
-| 15 | [Hinkley](http://twitter.com/search?q=Hinkley) | N/A |
-| 16 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 17 | [The Libs](http://twitter.com/search?q=The+Libs) | N/A |
-| 18 | [Thilthorpe](http://twitter.com/search?q=Thilthorpe) | N/A |
-| 19 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 13 | [Mason wood](http://twitter.com/search?q=Mason+wood) | N/A |
+| 14 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 15 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 16 | [Tony Barry](http://twitter.com/search?q=Tony+Barry) | N/A |
+| 17 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 18 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 19 | [Peta](http://twitter.com/search?q=Peta) | N/A |
 | 20 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 21 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 22 | [Peta](http://twitter.com/search?q=Peta) | N/A |
-| 23 | [Tony Barry](http://twitter.com/search?q=Tony+Barry) | N/A |
-| 24 | [Kroger](http://twitter.com/search?q=Kroger) | N/A |
-| 25 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 26 | [Spud](http://twitter.com/search?q=Spud) | N/A |
-| 27 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 28 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 29 | [Bombers](http://twitter.com/search?q=Bombers) | N/A |
-| 30 | [St Kilda](http://twitter.com/search?q=St+Kilda) | N/A |
-| 31 | [Brunswick](http://twitter.com/search?q=Brunswick) | N/A |
-| 32 | [The Liberal](http://twitter.com/search?q=The+Liberal) | N/A |
-| 33 | [sanfl](http://twitter.com/search?q=sanfl) | N/A |
-| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 35 | [Herald Sun](http://twitter.com/search?q=Herald+Sun) | N/A |
-| 36 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 37 | [#showdown](http://twitter.com/search?q=%23showdown) | N/A |
-| 38 | [#NRLBroncosTigers](http://twitter.com/search?q=%23NRLBroncosTigers) | N/A |
-| 39 | [#PERvMAC](http://twitter.com/search?q=%23PERvMAC) | N/A |
-| 40 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
-| 41 | [#BRUvWAR](http://twitter.com/search?q=%23BRUvWAR) | N/A |
-| 42 | [#libspill](http://twitter.com/search?q=%23libspill) | N/A |
-| 43 | [#SYDvWUN](http://twitter.com/search?q=%23SYDvWUN) | N/A |
-| 44 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 21 | [The Libs](http://twitter.com/search?q=The+Libs) | N/A |
+| 22 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 23 | [Spud](http://twitter.com/search?q=Spud) | N/A |
+| 24 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 25 | [Bombers](http://twitter.com/search?q=Bombers) | N/A |
+| 26 | [Showdown](http://twitter.com/search?q=Showdown) | N/A |
+| 27 | [St Kilda](http://twitter.com/search?q=St+Kilda) | N/A |
+| 28 | [Brunswick](http://twitter.com/search?q=Brunswick) | N/A |
+| 29 | [Herald Sun](http://twitter.com/search?q=Herald+Sun) | N/A |
+| 30 | [#NRLBroncosTigers](http://twitter.com/search?q=%23NRLBroncosTigers) | N/A |
+| 31 | [#PERvMAC](http://twitter.com/search?q=%23PERvMAC) | N/A |
+| 32 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 33 | [#libspill](http://twitter.com/search?q=%23libspill) | N/A |
+| 34 | [#sydvwun](http://twitter.com/search?q=%23sydvwun) | N/A |
+| 35 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
 
 
 
