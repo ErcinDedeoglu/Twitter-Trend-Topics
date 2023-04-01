@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-04-01 04:16:52 UTC`
+📆 Last Updated: `2023-04-01 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
 | 4 | [#F95HSV](http://twitter.com/search?q=%23F95HSV) | N/A |
-| 5 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
-| 6 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 8 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 9 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 10 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 5 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 6 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 11 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 12 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 13 | [Cornix](http://twitter.com/search?q=Cornix) | N/A |
-| 14 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 15 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 16 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 18 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 19 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 20 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 21 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 22 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 23 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 24 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 25 | [frack](http://twitter.com/search?q=frack) | N/A |
-| 26 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 27 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 28 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 16 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 17 | [religionsunterricht](http://twitter.com/search?q=religionsunterricht) | N/A |
+| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 21 | [Personalausfall](http://twitter.com/search?q=Personalausfall) | N/A |
+| 22 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 23 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
+| 24 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 25 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 26 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 27 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 28 | [frack](http://twitter.com/search?q=frack) | N/A |
 | 29 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 30 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 31 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 32 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 33 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 34 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 35 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 36 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
-| 37 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 38 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 39 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 40 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 41 | [Partnertausch](http://twitter.com/search?q=Partnertausch) | N/A |
-| 42 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 43 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
-| 44 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 45 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 46 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 47 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 48 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 49 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
-| 50 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 30 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 31 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 32 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 33 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 34 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 35 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 36 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 37 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 38 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 39 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 40 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 41 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 42 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 43 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 44 | [benes](http://twitter.com/search?q=benes) | N/A |
+| 45 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 46 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 47 | [lebensversicherung](http://twitter.com/search?q=lebensversicherung) | N/A |
+| 48 | [FORTUNA](http://twitter.com/search?q=FORTUNA) | N/A |
+| 49 | [shindy](http://twitter.com/search?q=shindy) | N/A |
+| 50 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
 
 
 

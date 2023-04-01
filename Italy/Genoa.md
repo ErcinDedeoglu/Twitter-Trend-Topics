@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-01 04:16:54 UTC`
+📆 Last Updated: `2023-04-01 05:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 2 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
-| 3 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 4 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 5 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 6 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 7 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 8 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 9 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 10 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 11 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 12 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 13 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
-| 14 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 15 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 16 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 17 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
-| 18 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 19 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 20 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 21 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
-| 22 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
-| 23 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 24 | [Serena Rossi](http://twitter.com/search?q=Serena+Rossi) | N/A |
-| 25 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
-| 26 | [specchia](http://twitter.com/search?q=specchia) | N/A |
-| 27 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 28 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 29 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 30 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 31 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 32 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 33 | [capuano](http://twitter.com/search?q=capuano) | N/A |
-| 34 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
-| 35 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 36 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 37 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 38 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 39 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 40 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 41 | [Cavour](http://twitter.com/search?q=Cavour) | N/A |
-| 42 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 43 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 44 | [Sogni](http://twitter.com/search?q=Sogni) | N/A |
-| 45 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 46 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 47 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 48 | [Fascismo](http://twitter.com/search?q=Fascismo) | N/A |
-| 49 | [Chissà](http://twitter.com/search?q=Chiss%c3%a0) | N/A |
+| 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 3 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 4 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 5 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 6 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 7 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 8 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 9 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 10 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 11 | [Buongiorno Milva](http://twitter.com/search?q=Buongiorno+Milva) | N/A |
+| 12 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 13 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 15 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 16 | [Serena Rossi](http://twitter.com/search?q=Serena+Rossi) | N/A |
+| 17 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
+| 18 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 19 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 20 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 21 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 22 | [specchia](http://twitter.com/search?q=specchia) | N/A |
+| 23 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 24 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 25 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 26 | [capuano](http://twitter.com/search?q=capuano) | N/A |
+| 27 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 28 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
+| 29 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 30 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 31 | [Buongiorno Clelia](http://twitter.com/search?q=Buongiorno+Clelia) | N/A |
+| 32 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 33 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 34 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 35 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 36 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
+| 37 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 38 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 39 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 40 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 41 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 42 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 43 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 44 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 45 | [Marattin](http://twitter.com/search?q=Marattin) | N/A |
+| 46 | [Rosica](http://twitter.com/search?q=Rosica) | N/A |
+| 47 | [Godo](http://twitter.com/search?q=Godo) | N/A |
+| 48 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-01 04:16:37 UTC`
+📆 Last Updated: `2023-04-01 05:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#فوازير_غازي_الذيابي5](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a5) | N/A |
-| 4 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 5 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 6 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 7 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
-| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Seccadeye](http://twitter.com/search?q=Seccadeye) | N/A |
-| 12 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 16 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
-| 17 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
-| 18 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 19 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 20 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
-| 21 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 22 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
-| 23 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 24 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 25 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 26 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 27 | [Sevgili Nisan](http://twitter.com/search?q=Sevgili+Nisan) | N/A |
-| 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 29 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 30 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 31 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 32 | [CONE Y COTY EN TWITCH](http://twitter.com/search?q=CONE+Y+COTY+EN+TWITCH) | N/A |
-| 33 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 34 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 35 | [Khazri](http://twitter.com/search?q=Khazri) | N/A |
-| 36 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 37 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 38 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 39 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 40 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 41 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
-| 42 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
-| 43 | [#فوزيه_اللحيدان](http://twitter.com/search?q=%23%d9%81%d9%88%d8%b2%d9%8a%d9%87_%d8%a7%d9%84%d9%84%d8%ad%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 44 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
-| 45 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 46 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 47 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
-| 48 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 49 | [#PetersonVictoryDance](http://twitter.com/search?q=%23PetersonVictoryDance) | N/A |
-| 50 | [#سوال_ابوفهد_اليومي3](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a3) | N/A |
+| 1 | [#キンプる](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%82%8b) | #キンプる is a Japanese hashtag that is used to express enthusiasm or excitement. It is derived from the phrase "kinpuru," which roughly translates to "let's go for it!" or "let's do it!" in English. |
+| 2 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 5 | [山梨学院](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e5%ad%a6%e9%99%a2) | N/A |
+| 6 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 7 | [DH若月](http://twitter.com/search?q=DH%e8%8b%a5%e6%9c%88) | N/A |
+| 8 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 9 | [#JA全農CDJ](http://twitter.com/search?q=%23JA%e5%85%a8%e8%be%b2CDJ) | N/A |
+| 10 | [#BUILDACOLORFULDAY](http://twitter.com/search?q=%23BUILDACOLORFULDAY) | N/A |
+| 11 | [剛腕バトル](http://twitter.com/search?q=%e5%89%9b%e8%85%95%e3%83%90%e3%83%88%e3%83%ab) | N/A |
+| 12 | [腕相撲日本王者夫婦](http://twitter.com/search?q=%e8%85%95%e7%9b%b8%e6%92%b2%e6%97%a5%e6%9c%ac%e7%8e%8b%e8%80%85%e5%a4%ab%e5%a9%a6) | N/A |
+| 13 | [矢澤くん](http://twitter.com/search?q=%e7%9f%a2%e6%be%a4%e3%81%8f%e3%82%93) | N/A |
+| 14 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 15 | [Cホール](http://twitter.com/search?q=C%e3%83%9b%e3%83%bc%e3%83%ab) | Cホール (C Hall) is a type of concert hall in Japan. It is a medium-sized venue, typically seating between 500 and 1,500 people. It is used for concerts, theatrical performances, and other events. In English, it can be translated as "C Hall". |
+| 16 | [天津風改二](http://twitter.com/search?q=%e5%a4%a9%e6%b4%a5%e9%a2%a8%e6%94%b9%e4%ba%8c) | N/A |
+| 17 | [バランスボールテーブルクロス引き](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%b3%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab%e3%82%af%e3%83%ad%e3%82%b9%e5%bc%95%e3%81%8d) | N/A |
+| 18 | [指名打者若月](http://twitter.com/search?q=%e6%8c%87%e5%90%8d%e6%89%93%e8%80%85%e8%8b%a5%e6%9c%88) | N/A |
+| 19 | [かぐや様コラボ](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 20 | [アツアツ足洗面器リレー](http://twitter.com/search?q=%e3%82%a2%e3%83%84%e3%82%a2%e3%83%84%e8%b6%b3%e6%b4%97%e9%9d%a2%e5%99%a8%e3%83%aa%e3%83%ac%e3%83%bc) | N/A |
+| 21 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 23 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 24 | [深海水族館](http://twitter.com/search?q=%e6%b7%b1%e6%b5%b7%e6%b0%b4%e6%97%8f%e9%a4%a8) | N/A |
+| 25 | [ビッグイニング](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 26 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 27 | [マッチング度](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e5%ba%a6) | N/A |
+| 28 | [桜ナイトフィーバー](http://twitter.com/search?q=%e6%a1%9c%e3%83%8a%e3%82%a4%e3%83%88%e3%83%95%e3%82%a3%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 29 | [逆転の報徳](http://twitter.com/search?q=%e9%80%86%e8%bb%a2%e3%81%ae%e5%a0%b1%e5%be%b3) | N/A |
+| 30 | [センバツ決勝](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%83%90%e3%83%84%e6%b1%ba%e5%8b%9d) | N/A |
+| 31 | [満島さん](http://twitter.com/search?q=%e6%ba%80%e5%b3%b6%e3%81%95%e3%82%93) | N/A |
+| 32 | [今朝丸くん](http://twitter.com/search?q=%e4%bb%8a%e6%9c%9d%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 33 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 34 | [わたしの考え](http://twitter.com/search?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e8%80%83%e3%81%88) | N/A |
+| 35 | [プロ初ヒット](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e5%88%9d%e3%83%92%e3%83%83%e3%83%88) | N/A |
+| 36 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 37 | [赤レンガ](http://twitter.com/search?q=%e8%b5%a4%e3%83%ac%e3%83%b3%e3%82%ac) | N/A |
+| 38 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 39 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 40 | [ネタバラシ](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%90%e3%83%a9%e3%82%b7) | N/A |
+| 41 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 42 | [ネッシー派](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc%e6%b4%be) | N/A |
+| 43 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 44 | [選挙ドットコム](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%83%89%e3%83%83%e3%83%88%e3%82%b3%e3%83%a0) | N/A |
+| 45 | [アコスタ](http://twitter.com/search?q=%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf) | N/A |
+| 46 | [新年度スタート](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
+| 47 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 48 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 49 | [ネタばらし](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%81%b0%e3%82%89%e3%81%97) | N/A |
+| 50 | [新年度初日](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e5%88%9d%e6%97%a5) | N/A |
 
 
 

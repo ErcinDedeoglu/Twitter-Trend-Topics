@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-01 04:16:51 UTC`
+📆 Last Updated: `2023-04-01 05:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 1 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 3 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 4 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 5 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
-| 6 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 7 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 3 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 4 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
+| 5 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 6 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
+| 7 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
 | 8 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
 | 9 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
 | 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for [Austria](</Austria>)
 | 18 | [Herren](http://twitter.com/search?q=Herren) | N/A |
 | 19 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
 | 20 | [Sitzung](http://twitter.com/search?q=Sitzung) | N/A |
-| 21 | [stiftungen](http://twitter.com/search?q=stiftungen) | N/A |
-| 22 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 25 | [Chats](http://twitter.com/search?q=Chats) | N/A |
-| 26 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 27 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 28 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
-| 29 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 30 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 31 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 32 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 33 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 34 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 35 | [eklat](http://twitter.com/search?q=eklat) | N/A |
-| 36 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
-| 37 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 38 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 21 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 22 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 23 | [chats](http://twitter.com/search?q=chats) | N/A |
+| 24 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
+| 27 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
+| 28 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 29 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 30 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 31 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
+| 32 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 33 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 34 | [eklat](http://twitter.com/search?q=eklat) | N/A |
+| 35 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
+| 36 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 37 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 38 | [Gold](http://twitter.com/search?q=Gold) | N/A |
 | 39 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
 | 40 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 | 41 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
 | 42 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 43 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 44 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 45 | [Methode](http://twitter.com/search?q=Methode) | N/A |
-| 46 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 47 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 48 | [fpöler](http://twitter.com/search?q=fp%c3%b6ler) | N/A |
-| 49 | [ANWESENHEIT](http://twitter.com/search?q=ANWESENHEIT) | N/A |
-| 50 | [positionierung](http://twitter.com/search?q=positionierung) | N/A |
+| 44 | [Methode](http://twitter.com/search?q=Methode) | N/A |
+| 45 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 46 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 47 | [fpöler](http://twitter.com/search?q=fp%c3%b6ler) | N/A |
+| 48 | [ANWESENHEIT](http://twitter.com/search?q=ANWESENHEIT) | N/A |
+| 49 | [positionierung](http://twitter.com/search?q=positionierung) | N/A |
+| 50 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
 
 
 

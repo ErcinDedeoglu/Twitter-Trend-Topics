@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-01 04:17:26 UTC`
+📆 Last Updated: `2023-04-01 05:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hokie](http://twitter.com/search?q=Hokie) | N/A |
-| 2 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
-| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 6 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 9 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 10 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 1 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 2 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 4 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 5 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 9 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 10 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
 | 11 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 12 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 13 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 14 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 15 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 18 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 19 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 20 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 21 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 22 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 24 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 25 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 26 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 27 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 28 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
-| 29 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 30 | [Muta](http://twitter.com/search?q=Muta) | N/A |
-| 31 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 32 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 12 | [America](http://twitter.com/search?q=America) | N/A |
+| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 16 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 17 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 18 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
+| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 20 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 21 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 24 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 25 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 26 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 27 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 28 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 29 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 30 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 31 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 32 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
 | 33 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 34 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
-| 35 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 36 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
-| 37 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 38 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 39 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
-| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 41 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 42 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 43 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 44 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 45 | [Stacy Keibler](http://twitter.com/search?q=Stacy+Keibler) | N/A |
-| 46 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 47 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 48 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 49 | [She is HER](http://twitter.com/search?q=She+is+HER) | N/A |
+| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 36 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
+| 37 | [Peyton Watson](http://twitter.com/search?q=Peyton+Watson) | N/A |
+| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 39 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 40 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 41 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 42 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 43 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 44 | [Space Ghost](http://twitter.com/search?q=Space+Ghost) | N/A |
+| 45 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 46 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 47 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 48 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 49 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 50 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 
 
 

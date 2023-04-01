@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-01 04:16:57 UTC`
+📆 Last Updated: `2023-04-01 05:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
-| 3 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 4 | [#Norge](http://twitter.com/search?q=%23Norge) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 7 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 8 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 9 | [Takk](http://twitter.com/search?q=Takk) | N/A |
-| 10 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
-| 11 | [Troms](http://twitter.com/search?q=Troms) | N/A |
-| 12 | [bedre](http://twitter.com/search?q=bedre) | N/A |
-| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 14 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 16 | [Høres](http://twitter.com/search?q=H%c3%b8res) | N/A |
-| 17 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
-| 18 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
-| 19 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 20 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 21 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 22 | [reitan](http://twitter.com/search?q=reitan) | N/A |
-| 23 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 24 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 25 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 27 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
-| 28 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
-| 29 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
-| 30 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 31 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 32 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 33 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 34 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 35 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 36 | [Tusen](http://twitter.com/search?q=Tusen) | N/A |
-| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 38 | [tviler](http://twitter.com/search?q=tviler) | N/A |
-| 39 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 40 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 41 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 42 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 43 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 44 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
-| 45 | [mehl](http://twitter.com/search?q=mehl) | N/A |
-| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 47 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 48 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 49 | [Stortinget](http://twitter.com/search?q=Stortinget) | N/A |
+| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [bama](http://twitter.com/search?q=bama) | N/A |
+| 5 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 6 | [#FinTwit](http://twitter.com/search?q=%23FinTwit) | N/A |
+| 7 | [troms](http://twitter.com/search?q=troms) | N/A |
+| 8 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
+| 9 | [bedre](http://twitter.com/search?q=bedre) | N/A |
+| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 11 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
+| 12 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 13 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
+| 14 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 15 | [reitan](http://twitter.com/search?q=reitan) | N/A |
+| 16 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 17 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 18 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 19 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 20 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
+| 21 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
+| 22 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
+| 23 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 24 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 25 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 26 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |
+| 27 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 28 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
+| 31 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 32 | [tviler](http://twitter.com/search?q=tviler) | N/A |
+| 33 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 34 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 35 | [sitter](http://twitter.com/search?q=sitter) | N/A |
+| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 37 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 38 | [mehl](http://twitter.com/search?q=mehl) | N/A |
+| 39 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 40 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 41 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
+| 42 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 43 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 44 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 45 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 46 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 47 | [Fant](http://twitter.com/search?q=Fant) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [kjetil knutsen](http://twitter.com/search?q=kjetil+knutsen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-01 04:17:27 UTC`
+📆 Last Updated: `2023-04-01 05:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 3 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 1 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 2 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
+| 3 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
 | 4 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 5 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
-| 6 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 7 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
-| 8 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
-| 9 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 11 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 12 | [Mitbestimmung](http://twitter.com/search?q=Mitbestimmung) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [Saal](http://twitter.com/search?q=Saal) | N/A |
-| 15 | [Termine](http://twitter.com/search?q=Termine) | N/A |
-| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 17 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 18 | [Herren](http://twitter.com/search?q=Herren) | N/A |
+| 5 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
+| 6 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 7 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 9 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 10 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 11 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 12 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 13 | [saal](http://twitter.com/search?q=saal) | N/A |
+| 14 | [Mitbestimmung](http://twitter.com/search?q=Mitbestimmung) | N/A |
+| 15 | [abgeordnete](http://twitter.com/search?q=abgeordnete) | N/A |
+| 16 | [Termine](http://twitter.com/search?q=Termine) | N/A |
+| 17 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 18 | [Wahrscheinlichkeit](http://twitter.com/search?q=Wahrscheinlichkeit) | N/A |
 | 19 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
-| 20 | [Sitzung](http://twitter.com/search?q=Sitzung) | N/A |
-| 21 | [stiftungen](http://twitter.com/search?q=stiftungen) | N/A |
-| 22 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 25 | [chats](http://twitter.com/search?q=chats) | N/A |
-| 26 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 27 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 28 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
-| 29 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 30 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 31 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 32 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 33 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 34 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 35 | [eklat](http://twitter.com/search?q=eklat) | N/A |
-| 36 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
-| 37 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 38 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 39 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
-| 40 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 41 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 42 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 43 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 44 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 45 | [Methode](http://twitter.com/search?q=Methode) | N/A |
-| 46 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 47 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 48 | [fpöler](http://twitter.com/search?q=fp%c3%b6ler) | N/A |
-| 49 | [ANWESENHEIT](http://twitter.com/search?q=ANWESENHEIT) | N/A |
-| 50 | [positionierung](http://twitter.com/search?q=positionierung) | N/A |
+| 20 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 21 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 22 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 23 | [Chats](http://twitter.com/search?q=Chats) | N/A |
+| 24 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [förderung](http://twitter.com/search?q=f%c3%b6rderung) | N/A |
+| 27 | [kurier](http://twitter.com/search?q=kurier) | N/A |
+| 28 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 29 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
+| 30 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 31 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 32 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
+| 33 | [sebastian kurz](http://twitter.com/search?q=sebastian+kurz) | N/A |
+| 34 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 35 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 36 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 37 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 38 | [unschuldsvermutung](http://twitter.com/search?q=unschuldsvermutung) | N/A |
+| 39 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
+| 40 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 41 | [kronzeugenstatus](http://twitter.com/search?q=kronzeugenstatus) | N/A |
+| 42 | [West](http://twitter.com/search?q=West) | N/A |
+| 43 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 44 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 45 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 46 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 47 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 48 | [positionierung](http://twitter.com/search?q=positionierung) | N/A |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 
 
 

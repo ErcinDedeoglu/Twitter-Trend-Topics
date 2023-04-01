@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-04-01 04:16:38 UTC`
+📆 Last Updated: `2023-04-01 05:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 4 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 5 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 6 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 7 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 8 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 11 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 12 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 15 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 16 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
-| 17 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
-| 18 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 19 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 20 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 21 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 22 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 23 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 26 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 29 | [ATCO](http://twitter.com/search?q=ATCO) | N/A |
-| 30 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
-| 31 | [stuart skinner](http://twitter.com/search?q=stuart+skinner) | N/A |
-| 32 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
-| 33 | [jordan romano](http://twitter.com/search?q=jordan+romano) | N/A |
-| 34 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 35 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 36 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
-| 37 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 38 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
-| 39 | [arenado](http://twitter.com/search?q=arenado) | N/A |
-| 40 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
-| 41 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 42 | [bichette](http://twitter.com/search?q=bichette) | N/A |
-| 43 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 44 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 45 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 46 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 47 | [NANOS](http://twitter.com/search?q=NANOS) | N/A |
-| 48 | [adam wainwright](http://twitter.com/search?q=adam+wainwright) | N/A |
-| 49 | [Albertans](http://twitter.com/search?q=Albertans) | N/A |
-| 50 | [manoah](http://twitter.com/search?q=manoah) | N/A |
+| 1 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
+| 2 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 3 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 4 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [Toffoli](http://twitter.com/search?q=Toffoli) | N/A |
+| 9 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 10 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 11 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 12 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 13 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 14 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
+| 15 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
+| 16 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 19 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 20 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 21 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
+| 22 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 23 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 24 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 25 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 26 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 27 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 28 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 29 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 30 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 31 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 32 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 33 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 34 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 35 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 36 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 37 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 38 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 39 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 40 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 42 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 43 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 44 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 45 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 46 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 47 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 48 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 49 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 50 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
 
 
 

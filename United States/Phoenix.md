@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-04-01 04:17:24 UTC`
+📆 Last Updated: `2023-04-01 05:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 6 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 7 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 8 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 11 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 13 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 16 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 17 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 19 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 20 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 21 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 23 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 24 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 25 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 26 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 27 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 28 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 29 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 30 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 31 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 32 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 33 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 34 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 35 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 36 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 37 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 38 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 39 | [wendys](http://twitter.com/search?q=wendys) | N/A |
-| 40 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 41 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 42 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
-| 43 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 44 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 45 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 46 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
-| 47 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 48 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
-| 49 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 50 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
+| 2 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 3 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 8 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [America](http://twitter.com/search?q=America) | N/A |
+| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 12 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 13 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 16 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
+| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 19 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 20 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 21 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 22 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 23 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 24 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 25 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 26 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 27 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 28 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 29 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 30 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 31 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 32 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 33 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
+| 36 | [Peyton Watson](http://twitter.com/search?q=Peyton+Watson) | N/A |
+| 37 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 38 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 39 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 40 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 41 | [Space Ghost](http://twitter.com/search?q=Space+Ghost) | N/A |
+| 42 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 43 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 44 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 45 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 46 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 47 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 48 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 49 | [INSURRECTION](http://twitter.com/search?q=INSURRECTION) | N/A |
+| 50 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
 
 
 

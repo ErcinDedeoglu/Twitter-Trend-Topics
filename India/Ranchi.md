@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-04-01 04:17:14 UTC`
+📆 Last Updated: `2023-04-01 05:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 2 | [#GTvsCSK](http://twitter.com/search?q=%23GTvsCSK) | N/A |
-| 3 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
-| 4 | [#RamNavami](http://twitter.com/search?q=%23RamNavami) | N/A |
-| 5 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
-| 6 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 7 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 8 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 9 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 10 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 11 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 12 | [vijay shankar](http://twitter.com/search?q=vijay+shankar) | N/A |
-| 13 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 14 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 15 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 16 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
-| 17 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 18 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
-| 19 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
-| 20 | [Degree](http://twitter.com/search?q=Degree) | N/A |
-| 21 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
-| 22 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 23 | [Nita Ambani](http://twitter.com/search?q=Nita+Ambani) | N/A |
-| 24 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 25 | [saiya winning hearts](http://twitter.com/search?q=saiya+winning+hearts) | N/A |
-| 26 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 27 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
-| 28 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 29 | [गुजरात हाई कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b9%e0%a4%be%e0%a4%88+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 30 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 31 | [tewatia](http://twitter.com/search?q=tewatia) | N/A |
-| 32 | [Impact](http://twitter.com/search?q=Impact) | N/A |
-| 33 | [Aryan](http://twitter.com/search?q=Aryan) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 36 | [Haan](http://twitter.com/search?q=Haan) | N/A |
-| 37 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 38 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 39 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 40 | [PRICE DROP](http://twitter.com/search?q=PRICE+DROP) | N/A |
-| 41 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 42 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 43 | [emma chamberlain](http://twitter.com/search?q=emma+chamberlain) | N/A |
-| 44 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 45 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 46 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
-| 47 | [Wide](http://twitter.com/search?q=Wide) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [AIFF](http://twitter.com/search?q=AIFF) | N/A |
-| 50 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 1 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 2 | [#AprilFoolsDay2023](http://twitter.com/search?q=%23AprilFoolsDay2023) | N/A |
+| 3 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 4 | [#ConfluenceOfAllReligions](http://twitter.com/search?q=%23ConfluenceOfAllReligions) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#UtkalaDibasa](http://twitter.com/search?q=%23UtkalaDibasa) | N/A |
+| 7 | [#लोकतंत्र_का_चौथा_स्तंभ](http://twitter.com/search?q=%23%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%95%e0%a4%be_%e0%a4%9a%e0%a5%8c%e0%a4%a5%e0%a4%be_%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%82%e0%a4%ad) | N/A |
+| 8 | [#UtkalDivas](http://twitter.com/search?q=%23UtkalDivas) | N/A |
+| 9 | [silent mode](http://twitter.com/search?q=silent+mode) | N/A |
+| 10 | [No Breaking News](http://twitter.com/search?q=No+Breaking+News) | N/A |
+| 11 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
+| 12 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 13 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 14 | [भारतीय रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 15 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 16 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 17 | [भगवान जगन्नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%97%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 18 | [Project Tiger](http://twitter.com/search?q=Project+Tiger) | N/A |
+| 19 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 20 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 21 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 22 | [नगरी भोपाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a5%80+%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 24 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 25 | [भीम आर्मी](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae+%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80) | N/A |
+| 26 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 27 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 28 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 29 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 30 | [नवजोत सिंह सिद्धू](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b5%e0%a4%9c%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a5%82) | N/A |
+| 31 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 32 | [Odia](http://twitter.com/search?q=Odia) | N/A |
+| 33 | [गुजरात हाई कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b9%e0%a4%be%e0%a4%88+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 34 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
+| 35 | [#ଉତ୍କଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%89%e0%ac%a4%e0%ad%8d%e0%ac%95%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
+| 36 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 37 | [#75thFoundationMonth](http://twitter.com/search?q=%2375thFoundationMonth) | N/A |
+| 38 | [#75thFoundationMonth](http://twitter.com/search?q=%2375thFoundationMonth) | N/A |
+| 39 | [#KeshavBaliramHedgewar](http://twitter.com/search?q=%23KeshavBaliramHedgewar) | N/A |
+| 40 | [#अध्यापक_पद_60k_करो](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%aa%e0%a4%95_%e0%a4%aa%e0%a4%a6_60k_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 41 | [#1stApril](http://twitter.com/search?q=%231stApril) | N/A |
+| 42 | [#PappuDiwas](http://twitter.com/search?q=%23PappuDiwas) | N/A |
+| 43 | [#ବନ୍ଦେଉତ୍କଳଜନନୀ](http://twitter.com/search?q=%23%e0%ac%ac%e0%ac%a8%e0%ad%8d%e0%ac%a6%e0%ad%87%e0%ac%89%e0%ac%a4%e0%ad%8d%e0%ac%95%e0%ac%b3%e0%ac%9c%e0%ac%a8%e0%ac%a8%e0%ad%80) | N/A |
+| 44 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 45 | [#BandeUtkalaJanani](http://twitter.com/search?q=%23BandeUtkalaJanani) | N/A |
+| 46 | [#ShivakumaraSwamiji](http://twitter.com/search?q=%23ShivakumaraSwamiji) | N/A |
+| 47 | [#LSGvDC](http://twitter.com/search?q=%23LSGvDC) | N/A |
+| 48 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 49 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
 
 
 

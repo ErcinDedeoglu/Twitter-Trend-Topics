@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-01 04:16:48 UTC`
+📆 Last Updated: `2023-04-01 05:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 2 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 3 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 4 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 5 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 6 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 8 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 11 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 12 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
-| 13 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
-| 14 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 15 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 16 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 17 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 18 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 19 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 20 | [The 1](http://twitter.com/search?q=The+1) | N/A |
-| 21 | [MAIARA E MARAISA NO FAUSTÃO](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+FAUST%c3%83O) | N/A |
-| 22 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 23 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 24 | [akkari](http://twitter.com/search?q=akkari) | N/A |
-| 25 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 26 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 27 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
-| 28 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 29 | [FELIZ DIA DOS HOMENS](http://twitter.com/search?q=FELIZ+DIA+DOS+HOMENS) | N/A |
-| 30 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
-| 31 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 32 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 33 | [EG Black](http://twitter.com/search?q=EG+Black) | N/A |
-| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 35 | [Los Angeles Lakers](http://twitter.com/search?q=Los+Angeles+Lakers) | N/A |
-| 36 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 37 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
-| 38 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 39 | [Kscerato](http://twitter.com/search?q=Kscerato) | N/A |
-| 40 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 41 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 42 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 43 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
-| 44 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 45 | [James Cameron](http://twitter.com/search?q=James+Cameron) | N/A |
-| 46 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 47 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 48 | [HAPPY BIRTHDAY JOSH](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOSH) | N/A |
-| 49 | [Dia da Mentira](http://twitter.com/search?q=Dia+da+Mentira) | N/A |
-| 50 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
+| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 2 | [WE WILL WAIT FOR YOU HOBI](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+HOBI) | N/A |
+| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 4 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 5 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 8 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
+| 9 | [KayBlack](http://twitter.com/search?q=KayBlack) | N/A |
+| 10 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 11 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 12 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
+| 13 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 14 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 15 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 16 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
+| 17 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
+| 18 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 19 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 20 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 21 | [artur](http://twitter.com/search?q=artur) | N/A |
+| 22 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 23 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 25 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
+| 26 | [Eiza](http://twitter.com/search?q=Eiza) | N/A |
+| 27 | [chá da biazin](http://twitter.com/search?q=ch%c3%a1+da+biazin) | N/A |
+| 28 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
+| 29 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 30 | [você consegue mami](http://twitter.com/search?q=voc%c3%aa+consegue+mami) | N/A |
+| 31 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 32 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
+| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 34 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 35 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
+| 36 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 37 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 38 | [CAMILA CABELLO](http://twitter.com/search?q=CAMILA+CABELLO) | N/A |
+| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 40 | [all eyes on](http://twitter.com/search?q=all+eyes+on) | N/A |
+| 41 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 42 | [CALA A BOCA BRUNA](http://twitter.com/search?q=CALA+A+BOCA+BRUNA) | N/A |
+| 43 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 44 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 45 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 46 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
+| 47 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 48 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
+| 49 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 50 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
 
 
 

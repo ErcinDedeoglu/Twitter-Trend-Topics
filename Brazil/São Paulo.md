@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-01 04:16:48 UTC`
+📆 Last Updated: `2023-04-01 05:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 2 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 3 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 5 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 6 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 7 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
-| 8 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 9 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 10 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 11 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 12 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 13 | [#ADona079](http://twitter.com/search?q=%23ADona079) | N/A |
-| 14 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
-| 15 | [#LulaEoBrasilPorMenosJuros](http://twitter.com/search?q=%23LulaEoBrasilPorMenosJuros) | N/A |
-| 16 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 17 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 18 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 19 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 20 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 21 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 22 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 23 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
-| 24 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 25 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
-| 26 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 27 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 28 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
-| 29 | [Obrigado Fluminense](http://twitter.com/search?q=Obrigado+Fluminense) | N/A |
-| 30 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 31 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 32 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 33 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 34 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 35 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
-| 36 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 37 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 38 | [Raio](http://twitter.com/search?q=Raio) | N/A |
-| 39 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 40 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 41 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 42 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 43 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 44 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 45 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
-| 46 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 47 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 48 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 49 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 50 | [Revoltante](http://twitter.com/search?q=Revoltante) | N/A |
+| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 2 | [WE WILL WAIT FOR YOU HOBI](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+HOBI) | N/A |
+| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 4 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 5 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 8 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
+| 9 | [KayBlack](http://twitter.com/search?q=KayBlack) | N/A |
+| 10 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 11 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 12 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
+| 13 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 14 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 15 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 16 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
+| 17 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
+| 18 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 19 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 20 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 21 | [artur](http://twitter.com/search?q=artur) | N/A |
+| 22 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 23 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 25 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
+| 26 | [Eiza](http://twitter.com/search?q=Eiza) | N/A |
+| 27 | [chá da biazin](http://twitter.com/search?q=ch%c3%a1+da+biazin) | N/A |
+| 28 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
+| 29 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 30 | [você consegue mami](http://twitter.com/search?q=voc%c3%aa+consegue+mami) | N/A |
+| 31 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 32 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
+| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 34 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 35 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
+| 36 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 37 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 38 | [CAMILA CABELLO](http://twitter.com/search?q=CAMILA+CABELLO) | N/A |
+| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 40 | [all eyes on](http://twitter.com/search?q=all+eyes+on) | N/A |
+| 41 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 42 | [CALA A BOCA BRUNA](http://twitter.com/search?q=CALA+A+BOCA+BRUNA) | N/A |
+| 43 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 44 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 45 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 46 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
+| 47 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 48 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
+| 49 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 50 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
 
 
 

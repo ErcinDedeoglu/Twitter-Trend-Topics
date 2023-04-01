@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-04-01 04:17:35 UTC`
+📆 Last Updated: `2023-04-01 05:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 4 | [Lee Dohyun](http://twitter.com/search?q=Lee+Dohyun) | N/A |
-| 5 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 7 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 8 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
-| 9 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 10 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 11 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 12 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 3 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 4 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 6 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 7 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 10 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 11 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 12 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 13 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 14 | [noona](http://twitter.com/search?q=noona) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 14 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 15 | [jhope](http://twitter.com/search?q=jhope) | N/A |
 | 16 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 17 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 18 | [BTEEZ](http://twitter.com/search?q=BTEEZ) | N/A |
-| 19 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 20 | [yerin](http://twitter.com/search?q=yerin) | N/A |
-| 21 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 22 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 23 | [src international](http://twitter.com/search?q=src+international) | N/A |
-| 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 25 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
-| 26 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
-| 27 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 28 | [Yes 5G](http://twitter.com/search?q=Yes+5G) | N/A |
-| 29 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 30 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 31 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 32 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 33 | [plkn](http://twitter.com/search?q=plkn) | N/A |
-| 34 | [Scara](http://twitter.com/search?q=Scara) | N/A |
-| 35 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 36 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 38 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 39 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 40 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 41 | [fatin](http://twitter.com/search?q=fatin) | N/A |
-| 42 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
-| 43 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 44 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
-| 45 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
-| 46 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 48 | [shah alam](http://twitter.com/search?q=shah+alam) | N/A |
-| 49 | [Thanks for the GA](http://twitter.com/search?q=Thanks+for+the+GA) | N/A |
+| 17 | [noona](http://twitter.com/search?q=noona) | N/A |
+| 18 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
+| 19 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 20 | [Mark lee](http://twitter.com/search?q=Mark+lee) | N/A |
+| 21 | [YERIN](http://twitter.com/search?q=YERIN) | N/A |
+| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 23 | [uitm](http://twitter.com/search?q=uitm) | N/A |
+| 24 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 25 | [yes 5g](http://twitter.com/search?q=yes+5g) | N/A |
+| 26 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 27 | [yuju](http://twitter.com/search?q=yuju) | N/A |
+| 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 29 | [src international](http://twitter.com/search?q=src+international) | N/A |
+| 30 | [plkn](http://twitter.com/search?q=plkn) | N/A |
+| 31 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
+| 32 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 33 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 34 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 35 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 36 | [Woww](http://twitter.com/search?q=Woww) | N/A |
+| 37 | [GFRIEND](http://twitter.com/search?q=GFRIEND) | N/A |
+| 38 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 39 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
+| 40 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
+| 41 | [Ipoh](http://twitter.com/search?q=Ipoh) | N/A |
+| 42 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 43 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 44 | [Universe](http://twitter.com/search?q=Universe) | N/A |
+| 45 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 46 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 47 | [scara](http://twitter.com/search?q=scara) | N/A |
+| 48 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 49 | [shah alam](http://twitter.com/search?q=shah+alam) | N/A |
 
 
 

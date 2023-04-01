@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-04-01 04:17:09 UTC`
+📆 Last Updated: `2023-04-01 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 2 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 3 | [#BecomingMzansi](http://twitter.com/search?q=%23BecomingMzansi) | N/A |
-| 4 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
-| 5 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
-| 6 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 7 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 8 | [Thandi](http://twitter.com/search?q=Thandi) | N/A |
-| 9 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 10 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 11 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 12 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 13 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 14 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
-| 15 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
-| 16 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
-| 17 | [SARB](http://twitter.com/search?q=SARB) | N/A |
-| 18 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 19 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 20 | [Jub Jub](http://twitter.com/search?q=Jub+Jub) | N/A |
-| 21 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
-| 22 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
-| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 26 | [business term loan](http://twitter.com/search?q=business+term+loan) | N/A |
-| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 28 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 29 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 30 | [Sunrisers](http://twitter.com/search?q=Sunrisers) | N/A |
-| 31 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 32 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 33 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 35 | [Nini](http://twitter.com/search?q=Nini) | N/A |
-| 36 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
-| 37 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 38 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 39 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
-| 40 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 41 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
-| 42 | [afc bournemouth](http://twitter.com/search?q=afc+bournemouth) | N/A |
-| 43 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
-| 44 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
-| 45 | [ussd](http://twitter.com/search?q=ussd) | N/A |
-| 46 | [Saga](http://twitter.com/search?q=Saga) | N/A |
-| 47 | [anariesep](http://twitter.com/search?q=anariesep) | N/A |
-| 48 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 49 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
-| 50 | [Tuscan](http://twitter.com/search?q=Tuscan) | N/A |
+| 1 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
+| 2 | [#powerballguaranteedjackpot](http://twitter.com/search?q=%23powerballguaranteedjackpot) | N/A |
+| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 4 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 5 | [#familymeeting](http://twitter.com/search?q=%23familymeeting) | N/A |
+| 6 | [#OPPOFindN2Flip](http://twitter.com/search?q=%23OPPOFindN2Flip) | N/A |
+| 7 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
+| 8 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 9 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
+| 10 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 11 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
+| 12 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
+| 13 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 14 | [Jub Jub](http://twitter.com/search?q=Jub+Jub) | N/A |
+| 15 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 16 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 17 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 18 | [Thandi](http://twitter.com/search?q=Thandi) | N/A |
+| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 20 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 21 | [business term loan](http://twitter.com/search?q=business+term+loan) | N/A |
+| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 24 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 25 | [SARB](http://twitter.com/search?q=SARB) | N/A |
+| 26 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 27 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 28 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 29 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 30 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 31 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 32 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
+| 33 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 34 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 35 | [afc bournemouth](http://twitter.com/search?q=afc+bournemouth) | N/A |
+| 36 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
+| 37 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 38 | [ussd](http://twitter.com/search?q=ussd) | N/A |
+| 39 | [Saga](http://twitter.com/search?q=Saga) | N/A |
+| 40 | [anariesep](http://twitter.com/search?q=anariesep) | N/A |
+| 41 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
+| 42 | [Tuscan](http://twitter.com/search?q=Tuscan) | N/A |
+| 43 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
+| 44 | [SUPERSPORT](http://twitter.com/search?q=SUPERSPORT) | N/A |
+| 45 | [Atteridgeville](http://twitter.com/search?q=Atteridgeville) | N/A |
+| 46 | [oriental plaza](http://twitter.com/search?q=oriental+plaza) | N/A |
+| 47 | [march photo dump](http://twitter.com/search?q=march+photo+dump) | N/A |
+| 48 | [come to south africa](http://twitter.com/search?q=come+to+south+africa) | N/A |
+| 49 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 50 | [castle lite](http://twitter.com/search?q=castle+lite) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-04-01 04:17:32 UTC`
+📆 Last Updated: `2023-04-01 05:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for Pakistan
 | 2 | [#عدالتوں_کو_دھمکانا_بند_کرو](http://twitter.com/search?q=%23%d8%b9%d8%af%d8%a7%d9%84%d8%aa%d9%88%da%ba_%da%a9%d9%88_%d8%af%da%be%d9%85%da%a9%d8%a7%d9%86%d8%a7_%d8%a8%d9%86%d8%af_%da%a9%d8%b1%d9%88) | N/A |
 | 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
 | 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
-| 5 | [#Supreme_Court_Of_Pakistan](http://twitter.com/search?q=%23Supreme_Court_Of_Pakistan) | N/A |
-| 6 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 7 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 9 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 10 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 11 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
-| 12 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 13 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
-| 14 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
-| 17 | [Mother of Syeda](http://twitter.com/search?q=Mother+of+Syeda) | N/A |
-| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 19 | [james anderson](http://twitter.com/search?q=james+anderson) | N/A |
-| 20 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 21 | [Absolutely YES](http://twitter.com/search?q=Absolutely+YES) | N/A |
-| 22 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
-| 23 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 24 | [2nd friday of ramadan](http://twitter.com/search?q=2nd+friday+of+ramadan) | N/A |
-| 25 | [mother of muslim ummah](http://twitter.com/search?q=mother+of+muslim+ummah) | N/A |
-| 26 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 27 | [Salman Taseer](http://twitter.com/search?q=Salman+Taseer) | N/A |
-| 28 | [hazrat muhammad](http://twitter.com/search?q=hazrat+muhammad) | N/A |
+| 5 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
+| 6 | [WELCOME BACK](http://twitter.com/search?q=WELCOME+BACK) | N/A |
+| 7 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
+| 8 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 9 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
+| 10 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 11 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 12 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
+| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 14 | [Mother of Syeda](http://twitter.com/search?q=Mother+of+Syeda) | N/A |
+| 15 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 18 | [james anderson](http://twitter.com/search?q=james+anderson) | N/A |
+| 19 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 20 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 21 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
+| 22 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
+| 23 | [2nd friday of ramadan](http://twitter.com/search?q=2nd+friday+of+ramadan) | N/A |
+| 24 | [mother of muslim ummah](http://twitter.com/search?q=mother+of+muslim+ummah) | N/A |
+| 25 | [ZENDAYA](http://twitter.com/search?q=ZENDAYA) | N/A |
+| 26 | [Salman Taseer](http://twitter.com/search?q=Salman+Taseer) | N/A |
+| 27 | [hazrat muhammad](http://twitter.com/search?q=hazrat+muhammad) | N/A |
+| 28 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
 | 29 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 30 | [sepoy irshad ullah](http://twitter.com/search?q=sepoy+irshad+ullah) | N/A |
-| 31 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 32 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 33 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 34 | [London](http://twitter.com/search?q=London) | N/A |
-| 35 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 36 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 37 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 38 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 39 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 40 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 41 | [Masha'Allah](http://twitter.com/search?q=Masha%27Allah) | N/A |
-| 42 | [Ludo](http://twitter.com/search?q=Ludo) | N/A |
-| 43 | [Madam](http://twitter.com/search?q=Madam) | N/A |
-| 44 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 45 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 46 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
-| 47 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 48 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 49 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
-| 50 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 30 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
+| 31 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
+| 32 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
+| 33 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 34 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
+| 35 | [Salam](http://twitter.com/search?q=Salam) | N/A |
+| 36 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 39 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 40 | [#Supreme_Court_Of_Pakistan](http://twitter.com/search?q=%23Supreme_Court_Of_Pakistan) | N/A |
+| 41 | [#jummahmubarak](http://twitter.com/search?q=%23jummahmubarak) | N/A |
+| 42 | [#حوصلے_کا_پہاڑ_عمران_خان](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%b5%d9%84%db%92_%da%a9%d8%a7_%d9%be%db%81%d8%a7%da%91_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 43 | [#جعلی_فیصلے_واپس_لو](http://twitter.com/search?q=%23%d8%ac%d8%b9%d9%84%db%8c_%d9%81%db%8c%d8%b5%d9%84%db%92_%d9%88%d8%a7%d9%be%d8%b3_%d9%84%d9%88) | N/A |
+| 44 | [#pakistandemandsfullcourt](http://twitter.com/search?q=%23pakistandemandsfullcourt) | N/A |
+| 45 | [#ConstitutionSays90Days](http://twitter.com/search?q=%23ConstitutionSays90Days) | N/A |
+| 46 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 47 | [#DemiseOf_LadyKhadija](http://twitter.com/search?q=%23DemiseOf_LadyKhadija) | N/A |
+| 48 | [#aafia_is_stillwaiting](http://twitter.com/search?q=%23aafia_is_stillwaiting) | N/A |
+| 49 | [#QaziFaezIsa](http://twitter.com/search?q=%23QaziFaezIsa) | N/A |
 
 
 

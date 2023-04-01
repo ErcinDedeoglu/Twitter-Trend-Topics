@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-01 04:17:18 UTC`
+📆 Last Updated: `2023-04-01 05:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 3 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 9 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 10 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 13 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 16 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 17 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 21 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 23 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 25 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 26 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
-| 27 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 28 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 29 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 30 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 31 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 32 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 33 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 34 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 35 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 36 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 37 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 38 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 39 | [wendys](http://twitter.com/search?q=wendys) | N/A |
-| 40 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 41 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 42 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 43 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
-| 44 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 45 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 47 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
-| 48 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 49 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 50 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
+| 1 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 2 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 5 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 7 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 9 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 10 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 11 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 12 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 15 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 16 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 17 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 18 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 20 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 21 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 22 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 23 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 24 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 25 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 26 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 27 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 28 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 29 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 30 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 31 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 33 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 34 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 35 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 36 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 37 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 38 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 39 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 40 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 41 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 42 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 43 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
+| 44 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 45 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 46 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 47 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 48 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
+| 49 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 50 | [Maya Moore](http://twitter.com/search?q=Maya+Moore) | Maya Moore is an American professional basketball player who currently plays for the Minnesota Lynx of the Women's National Basketball Association (WNBA). She is a four-time WNBA champion, four-time WNBA All-Star, two-time Olympic gold medalist, and two-time NCAA champion. Moore is widely considered one of the greatest players in women's basketball history. |
 
 
 

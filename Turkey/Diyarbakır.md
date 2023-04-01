@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-04-01 04:17:17 UTC`
+📆 Last Updated: `2023-04-01 05:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MilletinEvladı İnce](http://twitter.com/search?q=MilletinEvlad%c4%b1+%c4%b0nce) | N/A |
-| 2 | [EceKarataş Merkezde](http://twitter.com/search?q=EceKarata%c5%9f+Merkezde) | N/A |
-| 3 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 5 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 6 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 7 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 8 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 9 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 10 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 11 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 12 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
-| 13 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 14 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 15 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
-| 16 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 17 | [Bilinçli](http://twitter.com/search?q=Bilin%c3%a7li) | N/A |
-| 18 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 19 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 20 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
-| 21 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
-| 22 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
-| 23 | [Kadir İnanır](http://twitter.com/search?q=Kadir+%c4%b0nan%c4%b1r) | N/A |
-| 24 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
-| 25 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
-| 26 | [ÖZÜR DİLE MERAL AKŞENER](http://twitter.com/search?q=%c3%96Z%c3%9cR+D%c4%b0LE+MERAL+AK%c5%9eENER) | N/A |
-| 27 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 28 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 29 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
-| 30 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 31 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 32 | [türkiye yüzyılı](http://twitter.com/search?q=t%c3%bcrkiye+y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 33 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
-| 34 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
-| 35 | [#stajvaattekalmasın](http://twitter.com/search?q=%23stajvaattekalmas%c4%b1n) | N/A |
-| 36 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
-| 37 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 38 | [#YılmazGüney](http://twitter.com/search?q=%23Y%c4%b1lmazG%c3%bcney) | N/A |
-| 39 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 40 | [#KizilcikŞerbeti](http://twitter.com/search?q=%23Kizilcik%c5%9eerbeti) | N/A |
-| 41 | [#CHPyeOyYok](http://twitter.com/search?q=%23CHPyeOyYok) | N/A |
-| 42 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 43 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 44 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 45 | [#YalıCapkını](http://twitter.com/search?q=%23Yal%c4%b1Capk%c4%b1n%c4%b1) | N/A |
-| 46 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
+| 1 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 2 | [#KORKMUYORUZ](http://twitter.com/search?q=%23KORKMUYORUZ) | N/A |
+| 3 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 4 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
+| 5 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 6 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
+| 7 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 8 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 9 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 10 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 11 | [İİBFkadrosuz SandıkOysuz](http://twitter.com/search?q=%c4%b0%c4%b0BFkadrosuz+Sand%c4%b1kOysuz) | N/A |
+| 12 | [MuratDilmenerin SesiniDuy](http://twitter.com/search?q=MuratDilmenerin+SesiniDuy) | N/A |
+| 13 | [hasan karaman](http://twitter.com/search?q=hasan+karaman) | N/A |
+| 14 | [gsbtayinbekliyor](http://twitter.com/search?q=gsbtayinbekliyor) | N/A |
+| 15 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 16 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 17 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 18 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 19 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 20 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
+| 21 | [yedili masanın yalanı](http://twitter.com/search?q=yedili+masan%c4%b1n+yalan%c4%b1) | N/A |
+| 22 | [ömer faruk başaran](http://twitter.com/search?q=%c3%b6mer+faruk+ba%c5%9faran) | N/A |
+| 23 | [trt afrika yayıncılık zirvesi](http://twitter.com/search?q=trt+afrika+yay%c4%b1nc%c4%b1l%c4%b1k+zirvesi) | N/A |
+| 24 | [hurmaedit](http://twitter.com/search?q=hurmaedit) | N/A |
+| 25 | [Piro](http://twitter.com/search?q=Piro) | N/A |
+| 26 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 27 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 28 | [Sezer](http://twitter.com/search?q=Sezer) | N/A |
+| 29 | [vaaddeğil yapıkayıt](http://twitter.com/search?q=vaadde%c4%9fil+yap%c4%b1kay%c4%b1t) | N/A |
+| 30 | [DHKP-C](http://twitter.com/search?q=DHKP-C) | N/A |
+| 31 | [ülketv taşeronusor](http://twitter.com/search?q=%c3%bclketv+ta%c5%9feronusor) | N/A |
+| 32 | [Parti İstanbul İl Başkanlığı](http://twitter.com/search?q=Parti+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 33 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 34 | [Asena](http://twitter.com/search?q=Asena) | N/A |
+| 35 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
+| 36 | [Milletin İKTİDARINDA](http://twitter.com/search?q=Milletin+%c4%b0KT%c4%b0DARINDA) | N/A |
+| 37 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 38 | [Recep Bey](http://twitter.com/search?q=Recep+Bey) | N/A |
+| 39 | [Fail](http://twitter.com/search?q=Fail) | N/A |
+| 40 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 41 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 42 | [Musaitim](http://twitter.com/search?q=Musaitim) | N/A |
+| 43 | [BayKemalden Denklik](http://twitter.com/search?q=BayKemalden+Denklik) | N/A |
+| 44 | [i̇rfan değirmenci](http://twitter.com/search?q=i%cc%87rfan+de%c4%9firmenci) | N/A |
+| 45 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 46 | [alparslanhocaya yargısızinfaz](http://twitter.com/search?q=alparslanhocaya+yarg%c4%b1s%c4%b1zinfaz) | N/A |
+| 47 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
 
 
 

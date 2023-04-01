@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-01 04:16:54 UTC`
+📆 Last Updated: `2023-04-01 05:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [#F95HSV](http://twitter.com/search?q=%23F95HSV) | N/A |
-| 5 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 8 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 9 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 10 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 11 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 12 | [Cornix](http://twitter.com/search?q=Cornix) | N/A |
-| 13 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 14 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 15 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 17 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 18 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 19 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 20 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 22 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 23 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 24 | [frack](http://twitter.com/search?q=frack) | N/A |
-| 25 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 26 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 27 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 28 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 29 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 30 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 31 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 32 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 33 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 34 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 35 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
-| 36 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 37 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 38 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 39 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 40 | [Partnertausch](http://twitter.com/search?q=Partnertausch) | N/A |
-| 41 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 42 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
-| 43 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 44 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 45 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 46 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 47 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 48 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
-| 49 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
+| 3 | [#F95HSV](http://twitter.com/search?q=%23F95HSV) | N/A |
+| 4 | [#sgeboc](http://twitter.com/search?q=%23sgeboc) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 7 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 8 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 9 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 10 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 11 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 12 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 13 | [frack](http://twitter.com/search?q=frack) | N/A |
+| 14 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 15 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 16 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 17 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 18 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 19 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 20 | [mois](http://twitter.com/search?q=mois) | N/A |
+| 21 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 22 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 25 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 26 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 27 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 28 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 29 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 30 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 31 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 32 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 33 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
+| 34 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 36 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
+| 37 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 38 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
+| 39 | [Narzissmus](http://twitter.com/search?q=Narzissmus) | N/A |
+| 40 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 42 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 43 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 44 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 45 | [camilla](http://twitter.com/search?q=camilla) | N/A |
+| 46 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 47 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 48 | [schweigegeld](http://twitter.com/search?q=schweigegeld) | N/A |
+| 49 | [anklage](http://twitter.com/search?q=anklage) | N/A |
 
 
 

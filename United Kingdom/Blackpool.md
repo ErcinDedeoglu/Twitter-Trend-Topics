@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-04-01 04:16:39 UTC`
+📆 Last Updated: `2023-04-01 05:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#5albums92](http://twitter.com/search?q=%235albums92) | N/A |
-| 2 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
-| 3 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
-| 4 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 5 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 6 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 7 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 8 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 9 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 11 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
-| 12 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 13 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 14 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 15 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
-| 16 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
-| 17 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 18 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
-| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 21 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 23 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 25 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 26 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
-| 29 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 30 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 31 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 32 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 33 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
-| 34 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 35 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
-| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 37 | [Ghosts](http://twitter.com/search?q=Ghosts) | N/A |
-| 38 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
-| 39 | [Driver](http://twitter.com/search?q=Driver) | N/A |
-| 40 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 41 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 42 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 43 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 44 | [Hugh](http://twitter.com/search?q=Hugh) | N/A |
-| 45 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 46 | [Kemi Badenoch](http://twitter.com/search?q=Kemi+Badenoch) | N/A |
-| 47 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
-| 48 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 49 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 50 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 1 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 6 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 8 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 12 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 13 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 16 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 17 | [Eddie Kingston](http://twitter.com/search?q=Eddie+Kingston) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 20 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 21 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 22 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 23 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 24 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
+| 25 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 26 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
+| 27 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 28 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 29 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 30 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 31 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
+| 32 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 33 | [Kemi](http://twitter.com/search?q=Kemi) | N/A |
+| 34 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 35 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 36 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 38 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
+| 39 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 40 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 41 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 42 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
+| 43 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
+| 44 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 45 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 46 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 47 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 48 | [Rip Jason](http://twitter.com/search?q=Rip+Jason) | N/A |
+| 49 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
+| 50 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 
 
 

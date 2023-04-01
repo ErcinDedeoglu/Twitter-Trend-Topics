@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-01 04:16:48 UTC`
+📆 Last Updated: `2023-04-01 05:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 2 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
+| 1 | [allan](http://twitter.com/search?q=allan) | N/A |
+| 2 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
 | 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 4 | [Sentiu](http://twitter.com/search?q=Sentiu) | N/A |
-| 5 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 6 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 7 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 8 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
-| 9 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 10 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 11 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 12 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 13 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 14 | [#ADona079](http://twitter.com/search?q=%23ADona079) | N/A |
-| 15 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
-| 16 | [#LulaEoBrasilPorMenosJuros](http://twitter.com/search?q=%23LulaEoBrasilPorMenosJuros) | N/A |
-| 17 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 18 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 19 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 20 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 21 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 22 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 23 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 24 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
-| 25 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 26 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
-| 27 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 28 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 29 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
-| 30 | [Obrigado Fluminense](http://twitter.com/search?q=Obrigado+Fluminense) | N/A |
-| 31 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 32 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 33 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 34 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 35 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 36 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
-| 37 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 38 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 39 | [Raio](http://twitter.com/search?q=Raio) | N/A |
-| 40 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 42 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 43 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 44 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 45 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
-| 46 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 47 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 48 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 49 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 50 | [Revoltante](http://twitter.com/search?q=Revoltante) | N/A |
+| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 6 | [WE WILL WAIT FOR YOU HOBI](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+HOBI) | N/A |
+| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 8 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 9 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 10 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
+| 13 | [KayBlack](http://twitter.com/search?q=KayBlack) | N/A |
+| 14 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 15 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 16 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
+| 17 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 18 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 19 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
+| 20 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
+| 21 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 22 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 23 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 24 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 25 | [artur](http://twitter.com/search?q=artur) | N/A |
+| 26 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 27 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 29 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
+| 30 | [Eiza](http://twitter.com/search?q=Eiza) | N/A |
+| 31 | [chá da biazin](http://twitter.com/search?q=ch%c3%a1+da+biazin) | N/A |
+| 32 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
+| 33 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 34 | [você consegue mami](http://twitter.com/search?q=voc%c3%aa+consegue+mami) | N/A |
+| 35 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 36 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
+| 37 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 38 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 39 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
+| 40 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 41 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 42 | [CAMILA CABELLO](http://twitter.com/search?q=CAMILA+CABELLO) | N/A |
+| 43 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 44 | [all eyes on](http://twitter.com/search?q=all+eyes+on) | N/A |
+| 45 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 46 | [CALA A BOCA BRUNA](http://twitter.com/search?q=CALA+A+BOCA+BRUNA) | N/A |
+| 47 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 48 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 49 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 50 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
 
 
 
