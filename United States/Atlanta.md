@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-01 01:43:28 UTC`
+📆 Last Updated: `2023-04-01 02:29:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United States](</United States>)
 | 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
 | 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 8 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 9 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 10 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 8 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 9 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 10 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
 | 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 14 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
 | 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 17 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 19 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
 | 20 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
 | 21 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 23 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 24 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 25 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 26 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 27 | [Ames](http://twitter.com/search?q=Ames) | N/A |
+| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 24 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 25 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 26 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 27 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
 | 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 29 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 30 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 31 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 32 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 33 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 34 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 35 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 36 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 38 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 39 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 40 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 41 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 42 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 43 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 45 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 46 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
-| 47 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 48 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 49 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 50 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
+| 29 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 30 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 31 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 32 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 33 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 34 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 35 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 36 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 37 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 38 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 40 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 41 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 42 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 43 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 44 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 45 | [Ames](http://twitter.com/search?q=Ames) | N/A |
+| 46 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
+| 47 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 48 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
+| 49 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
+| 50 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 
 
 

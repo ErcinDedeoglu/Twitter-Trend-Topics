@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-01 01:43:31 UTC`
+📆 Last Updated: `2023-04-01 02:29:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
-| 2 | [#megaconorlando](http://twitter.com/search?q=%23megaconorlando) | N/A |
+| 2 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 6 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 16 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 18 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 4 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 5 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 8 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 14 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
 | 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 20 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 21 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 22 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 20 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 21 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
 | 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 24 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 25 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 26 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 27 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 28 | [Ames](http://twitter.com/search?q=Ames) | N/A |
-| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 30 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 31 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 32 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 33 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 34 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 35 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 36 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 37 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 38 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 39 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 40 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 41 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 42 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 43 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 44 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 46 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 47 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
-| 48 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 49 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 50 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
+| 24 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 25 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 26 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 27 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 29 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 30 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 31 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 32 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 33 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 34 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 35 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 36 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 37 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 38 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 40 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 41 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 42 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 43 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 44 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 45 | [Ames](http://twitter.com/search?q=Ames) | N/A |
+| 46 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
+| 47 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 48 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
+| 49 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
+| 50 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 
 
 

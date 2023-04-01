@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-01 01:42:48 UTC`
+📆 Last Updated: `2023-04-01 02:29:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 6 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
 | 7 | [C-11](http://twitter.com/search?q=C-11) | N/A |
 | 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 11 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [erin o'toole](http://twitter.com/search?q=erin+o%27toole) | N/A |
-| 14 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 16 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
-| 17 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 18 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
-| 19 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 20 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 21 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 22 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 24 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 12 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 13 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
+| 16 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
+| 17 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 18 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
+| 19 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
+| 20 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 21 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 22 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 23 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 24 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 26 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
 | 27 | [daulton varsho](http://twitter.com/search?q=daulton+varsho) | N/A |
 | 28 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 31 | [The Canadian Army](http://twitter.com/search?q=The+Canadian+Army) | N/A |
-| 32 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 33 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 34 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
+| 29 | [The Canadian Army](http://twitter.com/search?q=The+Canadian+Army) | N/A |
+| 30 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 31 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 32 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 33 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
+| 34 | [stuart skinner](http://twitter.com/search?q=stuart+skinner) | N/A |
 | 35 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
-| 36 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 37 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 38 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
-| 39 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 40 | [jordan romano](http://twitter.com/search?q=jordan+romano) | N/A |
-| 41 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 42 | [ATCO](http://twitter.com/search?q=ATCO) | N/A |
-| 43 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
-| 44 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 45 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
-| 46 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 47 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 48 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 49 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
+| 36 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 37 | [jordan romano](http://twitter.com/search?q=jordan+romano) | N/A |
+| 38 | [ATCO](http://twitter.com/search?q=ATCO) | N/A |
+| 39 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
+| 40 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
+| 41 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 42 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
+| 43 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 44 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 45 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 46 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
+| 47 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 48 | [Ethics](http://twitter.com/search?q=Ethics) | N/A |
+| 49 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
 
 
 

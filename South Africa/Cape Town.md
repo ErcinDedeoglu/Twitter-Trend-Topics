@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-04-01 01:43:19 UTC`
+📆 Last Updated: `2023-04-01 02:29:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,19 +22,19 @@ This is top 50 for [South Africa](</South Africa>)
 | 5 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
 | 6 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
 | 7 | [Thandi](http://twitter.com/search?q=Thandi) | N/A |
-| 8 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 9 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
-| 10 | [Tuscan](http://twitter.com/search?q=Tuscan) | N/A |
-| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 12 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 13 | [quinton de kock](http://twitter.com/search?q=quinton+de+kock) | N/A |
-| 14 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 15 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 8 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
+| 9 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 10 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 11 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 12 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 13 | [Tuscan](http://twitter.com/search?q=Tuscan) | N/A |
+| 14 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 15 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
 | 16 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
 | 17 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
 | 18 | [Shekinah](http://twitter.com/search?q=Shekinah) | N/A |
 | 19 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
-| 20 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 20 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 21 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
 | 22 | [SARB](http://twitter.com/search?q=SARB) | N/A |
 | 23 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
@@ -43,26 +43,26 @@ This is top 50 for [South Africa](</South Africa>)
 | 26 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 27 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 28 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 30 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 31 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 32 | [naledi pandor](http://twitter.com/search?q=naledi+pandor) | N/A |
-| 33 | [business term loan](http://twitter.com/search?q=business+term+loan) | N/A |
-| 34 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 35 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
-| 36 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 37 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 38 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 39 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 40 | [Nini](http://twitter.com/search?q=Nini) | N/A |
-| 41 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 42 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
-| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 44 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
-| 45 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 46 | [afc bournemouth](http://twitter.com/search?q=afc+bournemouth) | N/A |
-| 47 | [Pule](http://twitter.com/search?q=Pule) | N/A |
-| 48 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
+| 29 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 30 | [business term loan](http://twitter.com/search?q=business+term+loan) | N/A |
+| 31 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 32 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 33 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
+| 34 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 35 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 36 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 37 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 38 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 39 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 40 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
+| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 42 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 43 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 44 | [afc bournemouth](http://twitter.com/search?q=afc+bournemouth) | N/A |
+| 45 | [Pule](http://twitter.com/search?q=Pule) | N/A |
+| 46 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
+| 47 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 48 | [USSD](http://twitter.com/search?q=USSD) | N/A |
 
 
 

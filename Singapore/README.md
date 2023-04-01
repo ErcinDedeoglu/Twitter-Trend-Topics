@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-01 01:43:43 UTC`
+📆 Last Updated: `2023-04-01 02:30:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,19 +21,19 @@ This is top 50 for Singapore
 | 4 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 5 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
 | 6 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 8 | [kdlex pushpopular loty](http://twitter.com/search?q=kdlex+pushpopular+loty) | N/A |
 | 9 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
-| 10 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 11 | [WEEKEND VIBES WITH KIANO](http://twitter.com/search?q=WEEKEND+VIBES+WITH+KIANO) | N/A |
-| 12 | [#กดบัตรแฟนมีตโนอึล](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
-| 13 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
-| 14 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 15 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 18 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
-| 19 | [Wish Me Luck](http://twitter.com/search?q=Wish+Me+Luck) | N/A |
+| 10 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
+| 11 | [#IniWaktunyaKita](http://twitter.com/search?q=%23IniWaktunyaKita) | N/A |
+| 12 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 13 | [Wish Me Luck](http://twitter.com/search?q=Wish+Me+Luck) | N/A |
+| 14 | [WEEKEND VIBES WITH KIANO](http://twitter.com/search?q=WEEKEND+VIBES+WITH+KIANO) | N/A |
+| 15 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
+| 16 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 17 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 20 | [star theatre](http://twitter.com/search?q=star+theatre) | N/A |
 | 21 | [SO PRETTY](http://twitter.com/search?q=SO+PRETTY) | N/A |
 | 22 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Singapore
 | 46 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 47 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 48 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 49 | [btob](http://twitter.com/search?q=btob) | N/A |
+| 49 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
 | 50 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
 
 

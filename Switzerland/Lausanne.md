@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-01 01:43:07 UTC`
+📆 Last Updated: `2023-04-01 02:29:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 5 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 7 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 8 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 3 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 5 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 7 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 8 | [#wcch](http://twitter.com/search?q=%23wcch) | N/A |
 | 9 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 11 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 12 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 13 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 15 | [Rabatt](http://twitter.com/search?q=Rabatt) | N/A |
-| 16 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 17 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 18 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 19 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 20 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
-| 21 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 22 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 23 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
-| 24 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
-| 25 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 26 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
-| 27 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 28 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 29 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 30 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 31 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 32 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 35 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 36 | [anklage](http://twitter.com/search?q=anklage) | N/A |
-| 37 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 38 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 39 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 40 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 41 | [signal](http://twitter.com/search?q=signal) | N/A |
-| 42 | [President](http://twitter.com/search?q=President) | N/A |
-| 43 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
-| 44 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 45 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
-| 46 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 47 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 48 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 10 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 14 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 15 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 16 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 17 | [zusammenbruch](http://twitter.com/search?q=zusammenbruch) | N/A |
+| 18 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
+| 19 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 20 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 21 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 22 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 23 | [renten](http://twitter.com/search?q=renten) | N/A |
+| 24 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 25 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 26 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 27 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 28 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 29 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 30 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
+| 31 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 32 | [präsidenten](http://twitter.com/search?q=pr%c3%a4sidenten) | N/A |
+| 33 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 34 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 35 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 36 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 37 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 38 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 39 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 40 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 41 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 42 | [kosova](http://twitter.com/search?q=kosova) | N/A |
+| 43 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 44 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 45 | [sergio ermotti](http://twitter.com/search?q=sergio+ermotti) | N/A |
+| 46 | [Meter](http://twitter.com/search?q=Meter) | N/A |
+| 47 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 
 
 

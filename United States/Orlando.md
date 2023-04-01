@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-01 01:43:33 UTC`
+📆 Last Updated: `2023-04-01 02:29:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
-| 2 | [#megaconorlando](http://twitter.com/search?q=%23megaconorlando) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 6 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 16 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 17 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 19 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 20 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 21 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 23 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 24 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 25 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 26 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 27 | [Ames](http://twitter.com/search?q=Ames) | N/A |
-| 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 29 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 30 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 31 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 32 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 33 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 34 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 35 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 36 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 38 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 39 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 40 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 41 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 42 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 43 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 45 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 46 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
-| 47 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 1 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 2 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 4 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 5 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 6 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
+| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 8 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 9 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 10 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 11 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 12 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 13 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 14 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
+| 15 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 16 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 17 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 18 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 19 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 20 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 21 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 22 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 23 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 24 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 25 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 26 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 27 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 28 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 29 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
+| 30 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 31 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 32 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 33 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 34 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 35 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 36 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 37 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 38 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 39 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 40 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 41 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 42 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 43 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 44 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 45 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 46 | [Vando](http://twitter.com/search?q=Vando) | N/A |
 
 
 

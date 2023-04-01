@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-04-01 01:43:29 UTC`
+📆 Last Updated: `2023-04-01 02:29:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 2 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 3 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 4 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 7 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 8 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 9 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 11 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 12 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 13 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 14 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 15 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 16 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 17 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 18 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 19 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 20 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 21 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 22 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 23 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 24 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 25 | [Bobby Lashley](http://twitter.com/search?q=Bobby+Lashley) | N/A |
-| 26 | [Latino World Order](http://twitter.com/search?q=Latino+World+Order) | N/A |
-| 27 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 28 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 30 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
-| 31 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 32 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 33 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 34 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 35 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 36 | [Damn AD](http://twitter.com/search?q=Damn+AD) | N/A |
-| 37 | [The LWO](http://twitter.com/search?q=The+LWO) | N/A |
-| 38 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 39 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 40 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 41 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
-| 42 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 43 | [Battle Royal](http://twitter.com/search?q=Battle+Royal) | N/A |
-| 44 | [Top Dolla](http://twitter.com/search?q=Top+Dolla) | Top Dolla is a slang term used to refer to someone who is wealthy or has a lot of money. It can also be used to describe something that is of high quality or value. |
-| 45 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 46 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 47 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 48 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
-| 49 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
-| 50 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 1 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 6 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 7 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 8 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 9 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 12 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 14 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 19 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 20 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 21 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 23 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 24 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 25 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 26 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 29 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 30 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 31 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 32 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 33 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 34 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 35 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 36 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 37 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 38 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 39 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 40 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 41 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 42 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 43 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 44 | [Ames](http://twitter.com/search?q=Ames) | N/A |
+| 45 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
+| 46 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 47 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
+| 48 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
+| 49 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 50 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
 
 
 

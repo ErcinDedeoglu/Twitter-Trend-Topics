@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-01 01:43:35 UTC`
+📆 Last Updated: `2023-04-01 02:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
-| 3 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 4 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
-| 5 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 6 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 7 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 8 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 9 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 10 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 11 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 12 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 20 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 21 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 23 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 24 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 25 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 27 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 28 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 29 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 30 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 31 | [Ames](http://twitter.com/search?q=Ames) | N/A |
-| 32 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 33 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 34 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 35 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 36 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 37 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 38 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 39 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 40 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 41 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 42 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 43 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 44 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 45 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 46 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 47 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 48 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 3 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 4 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 5 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 6 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
+| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 8 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 9 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 10 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 11 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 12 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 13 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 14 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 17 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 18 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 20 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 22 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 24 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 25 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 26 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 27 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 28 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 29 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 30 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 31 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 32 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 33 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 34 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 35 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 36 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 38 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 39 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 40 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 41 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 42 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 43 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 45 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 46 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 47 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 48 | [Tates](http://twitter.com/search?q=Tates) | N/A |
 
 
 

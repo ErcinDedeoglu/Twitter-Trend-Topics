@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-01 01:43:26 UTC`
+📆 Last Updated: `2023-04-01 02:29:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Turkey](</Turkey>)
 | 3 | [Seccadeye](http://twitter.com/search?q=Seccadeye) | N/A |
 | 4 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
 | 5 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
-| 6 | [#KizilcikSerbeti](http://twitter.com/search?q=%23KizilcikSerbeti) | N/A |
-| 7 | [Hasan Karaman](http://twitter.com/search?q=Hasan+Karaman) | N/A |
-| 8 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 6 | [#KizilcikŞerbeti](http://twitter.com/search?q=%23Kizilcik%c5%9eerbeti) | N/A |
+| 7 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 8 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
 | 9 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
-| 10 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
-| 11 | [İİBFkadrosuz SandıkOysuz](http://twitter.com/search?q=%c4%b0%c4%b0BFkadrosuz+Sand%c4%b1kOysuz) | N/A |
-| 12 | [DertEkmek DertEhliyet](http://twitter.com/search?q=DertEkmek+DertEhliyet) | N/A |
-| 13 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 14 | [ülketv taşeronusor](http://twitter.com/search?q=%c3%bclketv+ta%c5%9feronusor) | N/A |
-| 15 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
-| 16 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 17 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
-| 18 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 19 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 20 | [Kurtlar](http://twitter.com/search?q=Kurtlar) | N/A |
-| 21 | [Milletin İKTİDARINDA](http://twitter.com/search?q=Milletin+%c4%b0KT%c4%b0DARINDA) | N/A |
-| 22 | [ERDOĞAN DA BİRLEŞELİM](http://twitter.com/search?q=ERDO%c4%9eAN+DA+B%c4%b0RLE%c5%9eEL%c4%b0M) | N/A |
+| 10 | [DertEkmek DertEhliyet](http://twitter.com/search?q=DertEkmek+DertEhliyet) | N/A |
+| 11 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
+| 12 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 13 | [Özür](http://twitter.com/search?q=%c3%96z%c3%bcr) | N/A |
+| 14 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 15 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 16 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
+| 17 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 18 | [Kurtlar](http://twitter.com/search?q=Kurtlar) | N/A |
+| 19 | [İİBFkadrosuz SandıkOysuz](http://twitter.com/search?q=%c4%b0%c4%b0BFkadrosuz+Sand%c4%b1kOysuz) | N/A |
+| 20 | [Milletin İKTİDARINDA](http://twitter.com/search?q=Milletin+%c4%b0KT%c4%b0DARINDA) | N/A |
+| 21 | [ERDOĞAN DA BİRLEŞELİM](http://twitter.com/search?q=ERDO%c4%9eAN+DA+B%c4%b0RLE%c5%9eEL%c4%b0M) | N/A |
+| 22 | [İfakat](http://twitter.com/search?q=%c4%b0fakat) | N/A |
 | 23 | [Itoudis](http://twitter.com/search?q=Itoudis) | N/A |
 | 24 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
 | 25 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
 | 26 | [Tarık](http://twitter.com/search?q=Tar%c4%b1k) | N/A |
 | 27 | [Motley](http://twitter.com/search?q=Motley) | N/A |
-| 28 | [İfakat](http://twitter.com/search?q=%c4%b0fakat) | N/A |
-| 29 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 30 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 31 | [Avrupa Yakası](http://twitter.com/search?q=Avrupa+Yakas%c4%b1) | N/A |
-| 32 | [Esme](http://twitter.com/search?q=Esme) | N/A |
-| 33 | [Suna](http://twitter.com/search?q=Suna) | N/A |
-| 34 | [Kemalim](http://twitter.com/search?q=Kemalim) | N/A |
-| 35 | [Biricik](http://twitter.com/search?q=Biricik) | N/A |
-| 36 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 37 | [Zerrin](http://twitter.com/search?q=Zerrin) | N/A |
+| 28 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 29 | [Avrupa Yakası](http://twitter.com/search?q=Avrupa+Yakas%c4%b1) | N/A |
+| 30 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 31 | [Esme](http://twitter.com/search?q=Esme) | N/A |
+| 32 | [Suna](http://twitter.com/search?q=Suna) | N/A |
+| 33 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 34 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 35 | [Kemalim](http://twitter.com/search?q=Kemalim) | N/A |
+| 36 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 37 | [Güvenlik](http://twitter.com/search?q=G%c3%bcvenlik) | N/A |
 | 38 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 39 | [Sinan Canan](http://twitter.com/search?q=Sinan+Canan) | N/A |
-| 40 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 41 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
-| 42 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
-| 43 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 44 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 45 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
-| 46 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 47 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
+| 39 | [Zerrin](http://twitter.com/search?q=Zerrin) | N/A |
+| 40 | [Sinan Canan](http://twitter.com/search?q=Sinan+Canan) | N/A |
+| 41 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 42 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
+| 43 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
+| 44 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
+| 45 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 46 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
+| 47 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
 
 
 

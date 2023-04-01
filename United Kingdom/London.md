@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-04-01 01:42:52 UTC`
+📆 Last Updated: `2023-04-01 02:29:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 2 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 5 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
+| 4 | [#ROHSuperCard](http://twitter.com/search?q=%23ROHSuperCard) | N/A |
+| 5 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
 | 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 7 | [#ROHSuperCardOfHonor](http://twitter.com/search?q=%23ROHSuperCardOfHonor) | N/A |
-| 8 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 7 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 8 | [Dante](http://twitter.com/search?q=Dante) | N/A |
 | 9 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 10 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 11 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 13 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 14 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 15 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 16 | [Pretty Woman](http://twitter.com/search?q=Pretty+Woman) | N/A |
+| 10 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
+| 11 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 13 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 15 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 16 | [Athena](http://twitter.com/search?q=Athena) | N/A |
 | 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 18 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
 | 19 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 20 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 21 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 20 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 21 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 22 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
 | 23 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 24 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 25 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 26 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 27 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 28 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 29 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 30 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
-| 31 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
-| 32 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
-| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 35 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 36 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 37 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 38 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 39 | [#5albums92](http://twitter.com/search?q=%235albums92) | N/A |
-| 40 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 41 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
-| 42 | [#MostHaunted](http://twitter.com/search?q=%23MostHaunted) | N/A |
-| 43 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 44 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 45 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
-| 46 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
-| 47 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
-| 48 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
-| 49 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 25 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 26 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 27 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 28 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
+| 29 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
+| 30 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
+| 31 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 32 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
+| 33 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 34 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 35 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 36 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 37 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
+| 38 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 39 | [#MostHaunted](http://twitter.com/search?q=%23MostHaunted) | N/A |
+| 40 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
+| 41 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
+| 42 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
+| 43 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
+| 44 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 45 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 46 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
 
 
 

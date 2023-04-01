@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-04-01 01:43:38 UTC`
+📆 Last Updated: `2023-04-01 02:30:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,20 @@ This is top 50 for Egypt
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#مصر_مبتنساش_ولادها](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d9%85%d8%a8%d8%aa%d9%86%d8%b3%d8%a7%d8%b4_%d9%88%d9%84%d8%a7%d8%af%d9%87%d8%a7) | N/A |
-| 2 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 3 | [#ضرب_نار](http://twitter.com/search?q=%23%d8%b6%d8%b1%d8%a8_%d9%86%d8%a7%d8%b1) | N/A |
+| 1 | [#ضرب_نار](http://twitter.com/search?q=%23%d8%b6%d8%b1%d8%a8_%d9%86%d8%a7%d8%b1) | N/A |
+| 2 | [#مصر_مبتنساش_ولادها](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d9%85%d8%a8%d8%aa%d9%86%d8%b3%d8%a7%d8%b4_%d9%88%d9%84%d8%a7%d8%af%d9%87%d8%a7) | N/A |
+| 3 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
 | 4 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
-| 5 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 6 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
-| 7 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 5 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
+| 6 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 7 | [#كابيتانو_ترند_مصر](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%a8%d9%8a%d8%aa%d8%a7%d9%86%d9%88_%d8%aa%d8%b1%d9%86%d8%af_%d9%85%d8%b5%d8%b1) | N/A |
 | 8 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 9 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 10 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 11 | [#دقوا_الهلال_افريقيا_للرجال](http://twitter.com/search?q=%23%d8%af%d9%82%d9%88%d8%a7_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7_%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84) | N/A |
-| 12 | [إمام عاشور](http://twitter.com/search?q=%d8%a5%d9%85%d8%a7%d9%85+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
-| 13 | [تاريخ دوري](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 14 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 11 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
+| 12 | [تاريخ دوري](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 13 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 14 | [إمام عاشور](http://twitter.com/search?q=%d8%a5%d9%85%d8%a7%d9%85+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
 | 15 | [شيرين رضا](http://twitter.com/search?q=%d8%b4%d9%8a%d8%b1%d9%8a%d9%86+%d8%b1%d8%b6%d8%a7) | N/A |
 | 16 | [الاتحاد الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
 | 17 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Egypt
 | 20 | [الحلقه التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
 | 21 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
 | 22 | [تاريخ التخرج](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac) | N/A |
-| 23 | [علي الايداع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%af%d8%a7%d8%b9) | N/A |
-| 24 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 25 | [31 مارس 2023](http://twitter.com/search?q=31+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 26 | [كوره بركات](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
-| 27 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 28 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
-| 29 | [السنه التدريبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d9%8a%d9%87) | N/A |
-| 30 | [محمد فخري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%ae%d8%b1%d9%8a) | N/A |
-| 31 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 32 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
-| 33 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 34 | [مسجد المشير](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%85%d8%b4%d9%8a%d8%b1) | N/A |
-| 35 | [احمد عمر هاشم](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d9%85%d8%b1+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 36 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 37 | [وزارة الرياضة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9) | N/A |
-| 38 | [نسرين امين](http://twitter.com/search?q=%d9%86%d8%b3%d8%b1%d9%8a%d9%86+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 39 | [إنبي](http://twitter.com/search?q=%d8%a5%d9%86%d8%a8%d9%8a) | N/A |
-| 40 | [المقاولون العرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 41 | [احمد رفعت](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d9%81%d8%b9%d8%aa) | N/A |
-| 42 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 43 | [بدوري الابطال](http://twitter.com/search?q=%d8%a8%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 44 | [مفوضي الدوله](http://twitter.com/search?q=%d9%85%d9%81%d9%88%d8%b6%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 45 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 46 | [الامن المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 47 | [اندرو تيت](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%88+%d8%aa%d9%8a%d8%aa) | N/A |
-| 48 | [غزل المحله](http://twitter.com/search?q=%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | غزل المحله is an Arabic phrase that literally translates to "spinning the shop." It is a phrase used to describe the act of gossiping or talking about someone behind their back. |
-| 49 | [علي التخرج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac) | N/A |
-| 50 | [الاعبين المسلمين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 23 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 24 | [علي الايداع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%af%d8%a7%d8%b9) | N/A |
+| 25 | [بدوري الابطال](http://twitter.com/search?q=%d8%a8%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 26 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 27 | [31 مارس 2023](http://twitter.com/search?q=31+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 28 | [كوره بركات](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
+| 29 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
+| 30 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 31 | [السنه التدريبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d9%8a%d9%87) | N/A |
+| 32 | [محمد فخري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%ae%d8%b1%d9%8a) | N/A |
+| 33 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 34 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
+| 35 | [مسجد المشير](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%85%d8%b4%d9%8a%d8%b1) | N/A |
+| 36 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 37 | [احمد عمر هاشم](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d9%85%d8%b1+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
+| 38 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 39 | [وزارة الرياضة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9) | N/A |
+| 40 | [نسرين امين](http://twitter.com/search?q=%d9%86%d8%b3%d8%b1%d9%8a%d9%86+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 41 | [إنبي](http://twitter.com/search?q=%d8%a5%d9%86%d8%a8%d9%8a) | N/A |
+| 42 | [المقاولون العرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 43 | [احمد رفعت](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d9%81%d8%b9%d8%aa) | N/A |
+| 44 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 45 | [مفوضي الدوله](http://twitter.com/search?q=%d9%85%d9%81%d9%88%d8%b6%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 46 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 47 | [غزل المحله](http://twitter.com/search?q=%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | غزل المحله is an Arabic phrase that literally translates to "spinning the shop." It is a phrase used to describe the act of gossiping or talking about someone behind their back. |
+| 48 | [علي التخرج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac) | N/A |
+| 49 | [الاعبين المسلمين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 50 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
 
 
 

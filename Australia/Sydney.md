@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-01 01:43:10 UTC`
+📆 Last Updated: `2023-04-01 02:29:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for [Australia](</Australia>)
 | 9 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 11 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
-| 12 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 13 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
+| 12 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
+| 13 | [Constable](http://twitter.com/search?q=Constable) | N/A |
 | 14 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 15 | [porter davis](http://twitter.com/search?q=porter+davis) | N/A |
-| 16 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 17 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 18 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
-| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 15 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
+| 16 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 17 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 19 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
 | 20 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
 | 21 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 22 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
@@ -53,8 +53,8 @@ This is top 50 for [Australia](</Australia>)
 | 36 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
 | 37 | [kerry packer](http://twitter.com/search?q=kerry+packer) | N/A |
 | 38 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 39 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 40 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 39 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 40 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 | 41 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
 | 42 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
 | 43 | [zac hosking](http://twitter.com/search?q=zac+hosking) | N/A |

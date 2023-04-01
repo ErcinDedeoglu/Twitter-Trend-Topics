@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-04-01 01:43:11 UTC`
+📆 Last Updated: `2023-04-01 02:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [赤レンガ](http://twitter.com/search?q=%e8%b5%a4%e3%83%ac%e3%83%b3%e3%82%ac) | N/A |
-| 2 | [#BABYMETAL](http://twitter.com/search?q=%23BABYMETAL) | N/A |
-| 3 | [カレンダー](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 4 | [ハマスタ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b9%e3%82%bf) | ハマスタ is a Japanese term that refers to someone who is passionate about something and pursues it with enthusiasm. It can be used to describe someone who is passionate about a hobby, a sport, or any other activity. In English, it could be translated as "enthusiast" or "passionate fan". |
-| 5 | [心機一転](http://twitter.com/search?q=%e5%bf%83%e6%a9%9f%e4%b8%80%e8%bb%a2) | N/A |
-| 6 | [#平野紫耀](http://twitter.com/search?q=%23%e5%b9%b3%e9%87%8e%e7%b4%ab%e8%80%80) | #平野紫耀 is the name of a Japanese singer and actor. In English, it translates to "Purple Shine of the Plain". |
-| 7 | [#ロマサガRS](http://twitter.com/search?q=%23%e3%83%ad%e3%83%9e%e3%82%b5%e3%82%acRS) | N/A |
-| 8 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 9 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 10 | [#嘘か本当かわからないことを言う](http://twitter.com/search?q=%23%e5%98%98%e3%81%8b%e6%9c%ac%e5%bd%93%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%82%92%e8%a8%80%e3%81%86) | N/A |
-| 11 | [#土曜はナニする](http://twitter.com/search?q=%23%e5%9c%9f%e6%9b%9c%e3%81%af%e3%83%8a%e3%83%8b%e3%81%99%e3%82%8b) | "#土曜はナニする" is a hashtag in Japanese that translates to "What are you doing on Saturdays?". It is used to ask people what they are doing on Saturdays. |
-| 12 | [少子化財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e8%b2%a1%e6%ba%90) | N/A |
-| 13 | [新年度スタート](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
-| 14 | [社会保険料](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e6%96%99) | N/A |
-| 15 | [まことおにいさん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
-| 16 | [兄さん卒業](http://twitter.com/search?q=%e5%85%84%e3%81%95%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
-| 17 | [好感なし70](http://twitter.com/search?q=%e5%a5%bd%e6%84%9f%e3%81%aa%e3%81%9770) | N/A |
-| 18 | [ジャニショ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%82%b7%e3%83%a7) | N/A |
-| 19 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
-| 20 | [清霞の回答](http://twitter.com/search?q=%e6%b8%85%e9%9c%9e%e3%81%ae%e5%9b%9e%e7%ad%94) | N/A |
-| 21 | [グループ仕事](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e4%bb%95%e4%ba%8b) | N/A |
-| 22 | [革命先生](http://twitter.com/search?q=%e9%9d%a9%e5%91%bd%e5%85%88%e7%94%9f) | N/A |
-| 23 | [ネッシー派](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc%e6%b4%be) | N/A |
-| 24 | [少子化対策](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e5%af%be%e7%ad%96) | 少子化対策 (Shoushika Taisaku) is a Japanese term that refers to measures taken to counter the declining birth rate in Japan. It typically involves policies and initiatives designed to encourage couples to have more children, such as providing financial incentives or increasing access to childcare. In English, it can be translated as "measures to counter the declining birth rate". |
-| 25 | [ひなフェス](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%83%95%e3%82%a7%e3%82%b9) | ひなフェス (Hina Fest) is an annual festival in Japan that celebrates the Doll Festival, or Hinamatsuri. It is held on March 3rd and is a day to celebrate young girls and pray for their health and happiness. The festival involves displaying dolls dressed in traditional court costumes from the Heian period, as well as eating special foods such as Hina-arare (rice crackers) and Chirashizushi (sushi rice with various toppings). In English, it can be translated to "Doll Festival". |
-| 26 | [くそみそテクニック](http://twitter.com/search?q=%e3%81%8f%e3%81%9d%e3%81%bf%e3%81%9d%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 27 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
-| 28 | [DLsiteの還付金](http://twitter.com/search?q=DLsite%e3%81%ae%e9%82%84%e4%bb%98%e9%87%91) | N/A |
-| 29 | [DLsi都](http://twitter.com/search?q=DLsi%e9%83%bd) | N/A |
-| 30 | [モバガチャ](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 31 | [弟子くん](http://twitter.com/search?q=%e5%bc%9f%e5%ad%90%e3%81%8f%e3%82%93) | N/A |
-| 32 | [るきしょせ](http://twitter.com/search?q=%e3%82%8b%e3%81%8d%e3%81%97%e3%82%87%e3%81%9b) | N/A |
-| 33 | [四月一日](http://twitter.com/search?q=%e5%9b%9b%e6%9c%88%e4%b8%80%e6%97%a5) | N/A |
-| 34 | [都民情報](http://twitter.com/search?q=%e9%83%bd%e6%b0%91%e6%83%85%e5%a0%b1) | N/A |
-| 35 | [誠お兄さん](http://twitter.com/search?q=%e8%aa%a0%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 36 | [新幹線遅延](http://twitter.com/search?q=%e6%96%b0%e5%b9%b9%e7%b7%9a%e9%81%85%e5%bb%b6) | N/A |
-| 37 | [ノットフェス](http://twitter.com/search?q=%e3%83%8e%e3%83%83%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9) | ノットフェス is a Japanese music festival held annually in Tokyo. The name is a combination of the words "note" and "festival", and it is an event that celebrates music from all genres. The festival features live performances from both established and up-and-coming artists, as well as DJ sets, workshops, and other activities. |
-| 38 | [アイコンと名前](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%81%a8%e5%90%8d%e5%89%8d) | N/A |
-| 39 | [ARK2](http://twitter.com/search?q=ARK2) | N/A |
-| 40 | [諏訪さん](http://twitter.com/search?q=%e8%ab%8f%e8%a8%aa%e3%81%95%e3%82%93) | N/A |
-| 41 | [ミトミ4部屋](http://twitter.com/search?q=%e3%83%9f%e3%83%88%e3%83%9f4%e9%83%a8%e5%b1%8b) | N/A |
-| 42 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 43 | [新年度の始まり](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
-| 44 | [おらこちゃん](http://twitter.com/search?q=%e3%81%8a%e3%82%89%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [本当のこと](http://twitter.com/search?q=%e6%9c%ac%e5%bd%93%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
-| 46 | [韓国世論](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e4%b8%96%e8%ab%96) | N/A |
-| 47 | [セクゾちゃん](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [新年度初日](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e5%88%9d%e6%97%a5) | N/A |
-| 49 | [ブロンズ像](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%83%b3%e3%82%ba%e5%83%8f) | N/A |
-| 50 | [大学の入学式](http://twitter.com/search?q=%e5%a4%a7%e5%ad%a6%e3%81%ae%e5%85%a5%e5%ad%a6%e5%bc%8f) | N/A |
+| 1 | [ブルプロ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%97%e3%83%ad) | N/A |
+| 2 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
+| 3 | [#三四郎ANN0](http://twitter.com/search?q=%23%e4%b8%89%e5%9b%9b%e9%83%8eANN0) | N/A |
+| 4 | [DLsi都](http://twitter.com/search?q=DLsi%e9%83%bd) | N/A |
+| 5 | [#新しいプロフィール画像](http://twitter.com/search?q=%23%e6%96%b0%e3%81%97%e3%81%84%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e7%94%bb%e5%83%8f) | N/A |
+| 6 | [#tjpwUSA](http://twitter.com/search?q=%23tjpwUSA) | N/A |
+| 7 | [刀子ちゃん](http://twitter.com/search?q=%e5%88%80%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 8 | [#theburn847](http://twitter.com/search?q=%23theburn847) | N/A |
+| 9 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 10 | [DLsiteの還付金](http://twitter.com/search?q=DLsite%e3%81%ae%e9%82%84%e4%bb%98%e9%87%91) | N/A |
+| 11 | [都民情報](http://twitter.com/search?q=%e9%83%bd%e6%b0%91%e6%83%85%e5%a0%b1) | N/A |
+| 12 | [#golf897](http://twitter.com/search?q=%23golf897) | N/A |
+| 13 | [奥村くん](http://twitter.com/search?q=%e5%a5%a5%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 14 | [プリンセスさま](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%81%95%e3%81%be) | N/A |
+| 15 | [くそみそテクニック](http://twitter.com/search?q=%e3%81%8f%e3%81%9d%e3%81%bf%e3%81%9d%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 16 | [魔法少女おじさん](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e5%b0%91%e5%a5%b3%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
+| 17 | [神宮寺レン](http://twitter.com/search?q=%e7%a5%9e%e5%ae%ae%e5%af%ba%e3%83%ac%e3%83%b3) | N/A |
+| 18 | [バクプリ](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%97%e3%83%aa) | N/A |
+| 19 | [第435回](http://twitter.com/search?q=%e7%ac%ac435%e5%9b%9e) | N/A |
+| 20 | [キティちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%86%e3%82%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [アイコンと名前](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%81%a8%e5%90%8d%e5%89%8d) | N/A |
+| 22 | [ぷりるふーる](http://twitter.com/search?q=%e3%81%b7%e3%82%8a%e3%82%8b%e3%81%b5%e3%83%bc%e3%82%8b) | N/A |
+| 23 | [オニフェッショナル](http://twitter.com/search?q=%e3%82%aa%e3%83%8b%e3%83%95%e3%82%a7%e3%83%83%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab) | N/A |
+| 24 | [マジホイ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9b%e3%82%a4) | N/A |
+| 25 | [あんさんぶるトレーニング](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%81%95%e3%82%93%e3%81%b6%e3%82%8b%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 26 | [Shining Channel](http://twitter.com/search?q=Shining+Channel) | N/A |
+| 27 | [the k4sen](http://twitter.com/search?q=the+k4sen) | N/A |
+| 28 | [カーヴェ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%b4%e3%82%a7) | カーヴェ is a Japanese word that means “curve” or “curved”. It is often used to describe something that has a curved shape or design. |
+| 29 | [ボーボボ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%9c%e3%83%9c) | N/A |
+| 30 | [Fate/Grail League](http://twitter.com/search?q=Fate%2fGrail+League) | N/A |
+| 31 | [シフティー](http://twitter.com/search?q=%e3%82%b7%e3%83%95%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 32 | [本当のこと](http://twitter.com/search?q=%e6%9c%ac%e5%bd%93%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
+| 33 | [ハンドトラッキング](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%89%e3%83%88%e3%83%a9%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 34 | [ピスサイ](http://twitter.com/search?q=%e3%83%94%e3%82%b9%e3%82%b5%e3%82%a4) | N/A |
+| 35 | [エリア会話](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%a2%e4%bc%9a%e8%a9%b1) | N/A |
+| 36 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
+| 37 | [サンリオコラボ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 38 | [アクトレス要請ツール](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%83%88%e3%83%ac%e3%82%b9%e8%a6%81%e8%ab%8b%e3%83%84%e3%83%bc%e3%83%ab) | N/A |
+| 39 | [英霊たち](http://twitter.com/search?q=%e8%8b%b1%e9%9c%8a%e3%81%9f%e3%81%a1) | N/A |
+| 40 | [特製壁紙60種プレゼント](http://twitter.com/search?q=%e7%89%b9%e8%a3%bd%e5%a3%81%e7%b4%9960%e7%a8%ae%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88) | N/A |
+| 41 | [プーさん](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%81%95%e3%82%93) | プーさん is the Japanese name for Winnie the Pooh, a popular character from A.A. Milne's books and Disney's animated films. In English, it translates to "Pooh". |
+| 42 | [出撃要請](http://twitter.com/search?q=%e5%87%ba%e6%92%83%e8%a6%81%e8%ab%8b) | N/A |
+| 43 | [四月一日](http://twitter.com/search?q=%e5%9b%9b%e6%9c%88%e4%b8%80%e6%97%a5) | N/A |
+| 44 | [ペリビット](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%93%e3%83%83%e3%83%88) | N/A |
+| 45 | [ピヨちゃん](http://twitter.com/search?q=%e3%83%94%e3%83%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [星見プロの超新星](http://twitter.com/search?q=%e6%98%9f%e8%a6%8b%e3%83%97%e3%83%ad%e3%81%ae%e8%b6%85%e6%96%b0%e6%98%9f) | N/A |
+| 47 | [野球大会](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e5%a4%a7%e4%bc%9a) | N/A |
+| 48 | [発売記念のかっちょいいカード](http://twitter.com/search?q=%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%81%ae%e3%81%8b%e3%81%a3%e3%81%a1%e3%82%87%e3%81%84%e3%81%84%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 49 | [新作TCGヴァイスシュヴァルツ](http://twitter.com/search?q=%e6%96%b0%e4%bd%9cTCG%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%b9%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%84) | N/A |
+| 50 | [聖川真斗](http://twitter.com/search?q=%e8%81%96%e5%b7%9d%e7%9c%9f%e6%96%97) | N/A |
 
 
 

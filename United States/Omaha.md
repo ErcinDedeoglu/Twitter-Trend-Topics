@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-04-01 01:43:33 UTC`
+📆 Last Updated: `2023-04-01 02:29:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 5 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 6 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 7 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 8 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 11 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 13 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 14 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 15 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 16 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 17 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 18 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 19 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 20 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 21 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 22 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 23 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 24 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 25 | [Ames](http://twitter.com/search?q=Ames) | N/A |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 28 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 29 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 30 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 31 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 32 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 33 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 34 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 35 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 36 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
-| 37 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 38 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 39 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 40 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 41 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
-| 42 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 43 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 44 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
-| 45 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 46 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 47 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
-| 48 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
-| 49 | [Deeds](http://twitter.com/search?q=Deeds) | N/A |
-| 50 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 1 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 5 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 6 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 7 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 8 | [#ROHSuperCardOfHonor](http://twitter.com/search?q=%23ROHSuperCardOfHonor) | N/A |
+| 9 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 10 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 11 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 12 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 13 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 14 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 15 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 16 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 17 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 18 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 19 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
+| 20 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 21 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 22 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 23 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 24 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 25 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 26 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 27 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 29 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 30 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 31 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 32 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 33 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 34 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 35 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 36 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 37 | [Lucha Bros](http://twitter.com/search?q=Lucha+Bros) | N/A |
+| 38 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 39 | [Graveman](http://twitter.com/search?q=Graveman) | N/A |
+| 40 | [Bobby Lashley](http://twitter.com/search?q=Bobby+Lashley) | N/A |
+| 41 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 42 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 43 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 44 | [Latino World Order](http://twitter.com/search?q=Latino+World+Order) | N/A |
+| 45 | [Jorge Soler](http://twitter.com/search?q=Jorge+Soler) | N/A |
+| 46 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 47 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 48 | [Blaine](http://twitter.com/search?q=Blaine) | N/A |
+| 49 | [Hawkeyes](http://twitter.com/search?q=Hawkeyes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-01 01:42:58 UTC`
+📆 Last Updated: `2023-04-01 02:29:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 3 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 4 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 5 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 6 | [#ProvaDeResistencia](http://twitter.com/search?q=%23ProvaDeResistencia) | N/A |
-| 7 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 8 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
-| 11 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
-| 12 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 13 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 14 | [#RodeoinTokyo](http://twitter.com/search?q=%23RodeoinTokyo) | N/A |
-| 15 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 16 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
-| 17 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 18 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 19 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 20 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 21 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 22 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
-| 23 | [Força Alface](http://twitter.com/search?q=For%c3%a7a+Alface) | N/A |
-| 24 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 25 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 26 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
-| 27 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
-| 28 | [Rodrigo Battaglia](http://twitter.com/search?q=Rodrigo+Battaglia) | N/A |
-| 29 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 30 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 31 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
-| 32 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 33 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 34 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 35 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 36 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 37 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 38 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 39 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 40 | [Raio](http://twitter.com/search?q=Raio) | N/A |
-| 41 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
-| 42 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 43 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 44 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 45 | [Borel](http://twitter.com/search?q=Borel) | N/A |
-| 46 | [Panini](http://twitter.com/search?q=Panini) | N/A |
-| 47 | [Claus](http://twitter.com/search?q=Claus) | N/A |
-| 48 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 49 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 50 | [Pedro Guimarães](http://twitter.com/search?q=Pedro+Guimar%c3%a3es) | N/A |
+| 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 3 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 4 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 6 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 8 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
+| 9 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 10 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
+| 11 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 12 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 13 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 14 | [MAIARA E MARAISA NO FAUSTÃO](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+FAUST%c3%83O) | N/A |
+| 15 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
+| 16 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 17 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 19 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
+| 20 | [HAPPY BIRTHDAY JOSH](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOSH) | N/A |
+| 21 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 22 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 23 | [David Braga](http://twitter.com/search?q=David+Braga) | N/A |
+| 24 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 25 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 26 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 27 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 28 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 29 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
+| 30 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
+| 31 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
+| 32 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
+| 33 | [James Cameron](http://twitter.com/search?q=James+Cameron) | N/A |
+| 34 | [Robson Bambu](http://twitter.com/search?q=Robson+Bambu) | Robson Bambu is a Brazilian footballer who currently plays for Botafogo. His name is derived from the Portuguese words for "Robson" (a given name) and "Bamboo" (a type of grass). In English, his name translates to "Robson Bamboo". |
+| 35 | [Banco Inter](http://twitter.com/search?q=Banco+Inter) | N/A |
+| 36 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 37 | [Hajun](http://twitter.com/search?q=Hajun) | N/A |
+| 38 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
+| 39 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 40 | [Andrey e Jair](http://twitter.com/search?q=Andrey+e+Jair) | N/A |
+| 41 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 42 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 43 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 44 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 45 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 46 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 47 | [Alien X](http://twitter.com/search?q=Alien+X) | N/A |
+| 48 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 49 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 50 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
 
 
 

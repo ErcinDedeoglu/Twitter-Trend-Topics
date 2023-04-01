@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-01 01:43:16 UTC`
+📆 Last Updated: `2023-04-01 02:29:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BookfluencerxGMMTV](http://twitter.com/search?q=%23BookfluencerxGMMTV) | N/A |
-| 2 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 3 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 4 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
-| 5 | [#Pilotดื้อเฮียก็หาว่าซน](http://twitter.com/search?q=%23Pilot%e0%b8%94%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%87%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%8b%e0%b8%99) | N/A |
-| 6 | [MORNING 01 NNINE](http://twitter.com/search?q=MORNING+01+NNINE) | N/A |
-| 7 | [1APR JOONG MORNING](http://twitter.com/search?q=1APR+JOONG+MORNING) | N/A |
-| 8 | [1 Morning Dunk](http://twitter.com/search?q=1+Morning+Dunk) | N/A |
-| 9 | [NNINE GROWNUP DAY1](http://twitter.com/search?q=NNINE+GROWNUP+DAY1) | N/A |
-| 10 | [HOLD YOUR HAND01 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND01+ENGFA) | N/A |
-| 11 | [April Fool's Day](http://twitter.com/search?q=April+Fool%27s+Day) | N/A |
-| 12 | [the scent notes d3](http://twitter.com/search?q=the+scent+notes+d3) | N/A |
-| 13 | [bambam comeback stage mcd](http://twitter.com/search?q=bambam+comeback+stage+mcd) | N/A |
-| 14 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 15 | [CHARLOTTE FIRST CONCERT](http://twitter.com/search?q=CHARLOTTE+FIRST+CONCERT) | N/A |
-| 16 | [welcome back msp](http://twitter.com/search?q=welcome+back+msp) | N/A |
-| 17 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 18 | [TENLEE IN TPOP STAGE](http://twitter.com/search?q=TENLEE+IN+TPOP+STAGE) | N/A |
-| 19 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 20 | [bambam on music bank](http://twitter.com/search?q=bambam+on+music+bank) | N/A |
-| 21 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 22 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
-| 23 | [BAMBAM HOME WITH YJYG](http://twitter.com/search?q=BAMBAM+HOME+WITH+YJYG) | N/A |
-| 24 | [bambam gm 31march](http://twitter.com/search?q=bambam+gm+31march) | N/A |
-| 25 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
-| 26 | [TOUCH MY BODY](http://twitter.com/search?q=TOUCH+MY+BODY) | N/A |
-| 27 | [BRIGHT x BVLGARI75th](http://twitter.com/search?q=BRIGHT+x+BVLGARI75th) | N/A |
-| 28 | [Morning JoongDunk](http://twitter.com/search?q=Morning+JoongDunk) | N/A |
-| 29 | [Nanon UC](http://twitter.com/search?q=Nanon+UC) | N/A |
-| 30 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
-| 31 | [april comes with tenlee](http://twitter.com/search?q=april+comes+with+tenlee) | N/A |
-| 32 | [KKAEWChuu Day](http://twitter.com/search?q=KKAEWChuu+Day) | N/A |
-| 33 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 34 | [TOP 30%](http://twitter.com/search?q=TOP+30%25) | N/A |
-| 35 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 36 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 37 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
-| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 39 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 40 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 41 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
-| 42 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
-| 43 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
-| 44 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
-| 45 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 46 | [#เอ๋ชนม์สวัสดิ์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%8a%e0%b8%99%e0%b8%a1%e0%b9%8c%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b4%e0%b9%8c) | N/A |
-| 47 | [#aBossandaBabeEP5](http://twitter.com/search?q=%23aBossandaBabeEP5) | N/A |
-| 48 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
-| 49 | [#TPopStageShowxPECK](http://twitter.com/search?q=%23TPopStageShowxPECK) | N/A |
-| 50 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 1 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
+| 2 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
+| 3 | [#Pilotดื้อเฮียก็หาว่าซน](http://twitter.com/search?q=%23Pilot%e0%b8%94%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%87%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%8b%e0%b8%99) | N/A |
+| 4 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 5 | [#เอ๋ชนม์สวัสดิ์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%8a%e0%b8%99%e0%b8%a1%e0%b9%8c%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b4%e0%b9%8c) | N/A |
+| 6 | [April Fool's Day](http://twitter.com/search?q=April+Fool%27s+Day) | N/A |
+| 7 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
+| 8 | [charlotte first concert](http://twitter.com/search?q=charlotte+first+concert) | N/A |
+| 9 | [the scent notes d3](http://twitter.com/search?q=the+scent+notes+d3) | N/A |
+| 10 | [bambam comeback stage mcd](http://twitter.com/search?q=bambam+comeback+stage+mcd) | N/A |
+| 11 | [welcome back msp](http://twitter.com/search?q=welcome+back+msp) | N/A |
+| 12 | [tenlee in tpop stage](http://twitter.com/search?q=tenlee+in+tpop+stage) | N/A |
+| 13 | [bambam on music bank](http://twitter.com/search?q=bambam+on+music+bank) | N/A |
+| 14 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 15 | [aespa tetris ost](http://twitter.com/search?q=aespa+tetris+ost) | N/A |
+| 16 | [patrick delicious romance](http://twitter.com/search?q=patrick+delicious+romance) | N/A |
+| 17 | [bright x bvlgari75th](http://twitter.com/search?q=bright+x+bvlgari75th) | N/A |
+| 18 | [bambam home with yjyg](http://twitter.com/search?q=bambam+home+with+yjyg) | N/A |
+| 19 | [nanon uc](http://twitter.com/search?q=nanon+uc) | N/A |
+| 20 | [bambam gm 31march](http://twitter.com/search?q=bambam+gm+31march) | N/A |
+| 21 | [TOUCH MY BODY](http://twitter.com/search?q=TOUCH+MY+BODY) | N/A |
+| 22 | [kkaewchuu day](http://twitter.com/search?q=kkaewchuu+day) | N/A |
+| 23 | [april comes with tenlee](http://twitter.com/search?q=april+comes+with+tenlee) | N/A |
+| 24 | [joyful day31 to engfa](http://twitter.com/search?q=joyful+day31+to+engfa) | N/A |
+| 25 | [TOP 30%](http://twitter.com/search?q=TOP+30%25) | N/A |
+| 26 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |
+| 27 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 28 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 29 | [#aBossandaBabeEP5](http://twitter.com/search?q=%23aBossandaBabeEP5) | N/A |
+| 30 | [#HaierXBaristabb0un](http://twitter.com/search?q=%23HaierXBaristabb0un) | N/A |
+| 31 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 32 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
+| 33 | [#TPopStageShowxPECK](http://twitter.com/search?q=%23TPopStageShowxPECK) | N/A |
+| 34 | [#กดบัตรแฟนมีตโนอึล](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
+| 35 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 36 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 37 | [#งานหนังสือ66](http://twitter.com/search?q=%23%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad66) | N/A |
+| 38 | [#nomin](http://twitter.com/search?q=%23nomin) | N/A |
+| 39 | [#teaserหอมกลิ่นความรัก](http://twitter.com/search?q=%23teaser%e0%b8%ab%e0%b8%ad%e0%b8%a1%e0%b8%81%e0%b8%a5%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
+| 40 | [#NanonXUntitledCase](http://twitter.com/search?q=%23NanonXUntitledCase) | N/A |
+| 41 | [#ลัฟวี่ไม่เอาธันเดอร์โดม](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%a7%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%98%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%94%e0%b8%a1) | N/A |
+| 42 | [#HELLO_TOUR_IN_BANGKOK](http://twitter.com/search?q=%23HELLO_TOUR_IN_BANGKOK) | N/A |
+| 43 | [#dojaejung_basenote](http://twitter.com/search?q=%23dojaejung_basenote) | N/A |
+| 44 | [#bamhome_ep11](http://twitter.com/search?q=%23bamhome_ep11) | N/A |
+| 45 | [#lmma2022xnunew](http://twitter.com/search?q=%23lmma2022xnunew) | N/A |
+| 46 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 47 | [#carrymeoutdday](http://twitter.com/search?q=%23carrymeoutdday) | N/A |
+| 48 | [#แบนสุพรรณหงส์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c) | N/A |
+| 49 | [#vivoV275GxWin](http://twitter.com/search?q=%23vivoV275GxWin) | N/A |
+| 50 | [#mcmexclusivedaywithnunew](http://twitter.com/search?q=%23mcmexclusivedaywithnunew) | N/A |
 
 
 

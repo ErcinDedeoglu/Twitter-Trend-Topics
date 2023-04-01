@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-01 01:43:04 UTC`
+📆 Last Updated: `2023-04-01 02:29:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,30 +19,30 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
 | 3 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
 | 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 6 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 5 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 7 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
 | 8 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 9 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
 | 10 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
 | 11 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 12 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 13 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 14 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 15 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 16 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 17 | [Smells](http://twitter.com/search?q=Smells) | N/A |
-| 18 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 19 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 21 | [Zsolt](http://twitter.com/search?q=Zsolt) | N/A |
-| 22 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 23 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 24 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 25 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 26 | [Ecken](http://twitter.com/search?q=Ecken) | N/A |
-| 27 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 28 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 12 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 13 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 14 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 15 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 16 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 17 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 18 | [Smells](http://twitter.com/search?q=Smells) | N/A |
+| 19 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 20 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 22 | [Zsolt](http://twitter.com/search?q=Zsolt) | N/A |
+| 23 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 24 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 25 | [Prost](http://twitter.com/search?q=Prost) | N/A |
+| 26 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 27 | [Ecken](http://twitter.com/search?q=Ecken) | N/A |
+| 28 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
 | 29 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
 | 30 | [freutag](http://twitter.com/search?q=freutag) | N/A |
 | 31 | [Lebensversicherung](http://twitter.com/search?q=Lebensversicherung) | N/A |
@@ -54,16 +54,16 @@ This is top 50 for [Germany](</Germany>)
 | 37 | [Flaschenwasser](http://twitter.com/search?q=Flaschenwasser) | N/A |
 | 38 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
 | 39 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 40 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 41 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 42 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 44 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 45 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 46 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 47 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 48 | [frauensauna](http://twitter.com/search?q=frauensauna) | N/A |
-| 49 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 40 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 42 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 43 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 44 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 45 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 46 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 47 | [frauensauna](http://twitter.com/search?q=frauensauna) | N/A |
+| 48 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-01 01:43:02 UTC`
+📆 Last Updated: `2023-04-01 02:29:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for [Germany](</Germany>)
 | 14 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 15 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
 | 16 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 17 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 18 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 19 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 20 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 21 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 23 | [frauensauna](http://twitter.com/search?q=frauensauna) | N/A |
-| 24 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 25 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 26 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 27 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 28 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 29 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 30 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 31 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 32 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
-| 33 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 18 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
+| 19 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 20 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 21 | [kittel](http://twitter.com/search?q=kittel) | N/A |
+| 22 | [frauensauna](http://twitter.com/search?q=frauensauna) | N/A |
+| 23 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 24 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 25 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 26 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 27 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 31 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 32 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 33 | [Mois](http://twitter.com/search?q=Mois) | N/A |
 | 34 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
 | 35 | [Aust](http://twitter.com/search?q=Aust) | N/A |
 | 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 37 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
 | 38 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
 | 39 | [portal in die zukunft](http://twitter.com/search?q=portal+in+die+zukunft) | N/A |
-| 40 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
+| 40 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |
 | 41 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
 | 42 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 | 43 | [benes](http://twitter.com/search?q=benes) | N/A |
-| 44 | [Leihmutterschaft](http://twitter.com/search?q=Leihmutterschaft) | N/A |
-| 45 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 46 | [Lebensversicherung](http://twitter.com/search?q=Lebensversicherung) | N/A |
-| 47 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
-| 48 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 49 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 44 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 45 | [Lebensversicherung](http://twitter.com/search?q=Lebensversicherung) | N/A |
+| 46 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 47 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 48 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 49 | [frau direktorin](http://twitter.com/search?q=frau+direktorin) | N/A |
 
 
 

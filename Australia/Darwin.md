@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-04-01 01:43:10 UTC`
+📆 Last Updated: `2023-04-01 02:29:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,15 +26,15 @@ This is top 50 for [Australia](</Australia>)
 | 9 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 11 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
-| 12 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 13 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 14 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 12 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
+| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 14 | [Constable](http://twitter.com/search?q=Constable) | N/A |
 | 15 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 16 | [porter davis](http://twitter.com/search?q=porter+davis) | N/A |
-| 17 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 18 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 19 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
-| 20 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 16 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
+| 17 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 18 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 20 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
 | 21 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
 | 22 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 23 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
@@ -54,8 +54,8 @@ This is top 50 for [Australia](</Australia>)
 | 37 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
 | 38 | [kerry packer](http://twitter.com/search?q=kerry+packer) | N/A |
 | 39 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 40 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 41 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 40 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 41 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 | 42 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
 | 43 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
 | 44 | [zac hosking](http://twitter.com/search?q=zac+hosking) | N/A |

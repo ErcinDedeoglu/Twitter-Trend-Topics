@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-01 01:43:41 UTC`
+📆 Last Updated: `2023-04-01 02:30:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Latvia
 | 3 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
 | 4 | [satekles](http://twitter.com/search?q=satekles) | N/A |
 | 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 6 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 6 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 7 | [delfi](http://twitter.com/search?q=delfi) | N/A |
 | 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 9 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for Latvia
 | 25 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
 | 26 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 27 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 28 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
+| 28 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
 | 29 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
 | 30 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
 | 31 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
 | 32 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 33 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 34 | [Zviedrijā](http://twitter.com/search?q=Zviedrij%c4%81) | N/A |
-| 35 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 36 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 37 | [ogres](http://twitter.com/search?q=ogres) | N/A |
-| 38 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 39 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 33 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 34 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 35 | [Zviedrijā](http://twitter.com/search?q=Zviedrij%c4%81) | N/A |
+| 36 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 37 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 38 | [ogres](http://twitter.com/search?q=ogres) | N/A |
+| 39 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
 | 40 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 41 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
 | 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 43 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 44 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 45 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 46 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 46 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
 | 47 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
 | 48 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
 | 49 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 50 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
+| 50 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
 
 
 

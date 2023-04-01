@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-04-01 01:42:58 UTC`
+📆 Last Updated: `2023-04-01 02:29:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [Artur](http://twitter.com/search?q=Artur) | N/A |
 | 6 | [#ProvaDeResistencia](http://twitter.com/search?q=%23ProvaDeResistencia) | N/A |
 | 7 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 8 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
-| 11 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
-| 12 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 13 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 14 | [#RodeoinTokyo](http://twitter.com/search?q=%23RodeoinTokyo) | N/A |
+| 8 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 9 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
+| 10 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 11 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
+| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 13 | [#RodeoinTokyo](http://twitter.com/search?q=%23RodeoinTokyo) | N/A |
+| 14 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
 | 15 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
 | 16 | [HINA'S FINAL ACT](http://twitter.com/search?q=HINA%27S+FINAL+ACT) | N/A |
-| 17 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 18 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 19 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 20 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 21 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 22 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
-| 23 | [Força Alface](http://twitter.com/search?q=For%c3%a7a+Alface) | N/A |
-| 24 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 25 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 26 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
-| 27 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
-| 28 | [Rodrigo Battaglia](http://twitter.com/search?q=Rodrigo+Battaglia) | N/A |
-| 29 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 30 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 31 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
-| 32 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 33 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 34 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 35 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 36 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 37 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 38 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 39 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 40 | [Raio](http://twitter.com/search?q=Raio) | N/A |
-| 41 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
+| 17 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 18 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 19 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 20 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
+| 21 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
+| 22 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 23 | [Fábio Gomes](http://twitter.com/search?q=F%c3%a1bio+Gomes) | N/A |
+| 24 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
+| 25 | [Mereceu](http://twitter.com/search?q=Mereceu) | N/A |
+| 26 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 27 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
+| 28 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 29 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 30 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
+| 31 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 32 | [Rodrigo Battaglia](http://twitter.com/search?q=Rodrigo+Battaglia) | N/A |
+| 33 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 34 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
+| 35 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
+| 36 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 37 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 38 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 39 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
+| 40 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
+| 41 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
 | 42 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 43 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 44 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 45 | [Borel](http://twitter.com/search?q=Borel) | N/A |
-| 46 | [Panini](http://twitter.com/search?q=Panini) | N/A |
-| 47 | [Claus](http://twitter.com/search?q=Claus) | N/A |
-| 48 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 49 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 50 | [Pedro Guimarães](http://twitter.com/search?q=Pedro+Guimar%c3%a3es) | N/A |
+| 43 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
+| 44 | [Raio](http://twitter.com/search?q=Raio) | N/A |
+| 45 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
+| 46 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 47 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 48 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
+| 49 | [Borel](http://twitter.com/search?q=Borel) | N/A |
+| 50 | [Panini](http://twitter.com/search?q=Panini) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-04-01 01:42:53 UTC`
+📆 Last Updated: `2023-04-01 02:29:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,44 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
-| 2 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 3 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 4 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 6 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 7 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
-| 8 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [Maru](http://twitter.com/search?q=Maru) | N/A |
-| 11 | [RULÉS IN MTV MIAW](http://twitter.com/search?q=RUL%c3%89S+IN+MTV+MIAW) | N/A |
-| 12 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 13 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 14 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 15 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 16 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 17 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
-| 18 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 19 | [As It Was](http://twitter.com/search?q=As+It+Was) | N/A |
-| 20 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
-| 21 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 22 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 23 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 24 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 25 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 26 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 28 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 29 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 30 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 31 | [#YaPagameBaks](http://twitter.com/search?q=%23YaPagameBaks) | N/A |
-| 32 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 33 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
-| 34 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
-| 35 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 36 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 37 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 38 | [#beckysangels](http://twitter.com/search?q=%23beckysangels) | N/A |
-| 39 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 40 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 41 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
-| 42 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 43 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
-| 44 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
-| 45 | [#AmloEsUnPeligroParaMexico](http://twitter.com/search?q=%23AmloEsUnPeligroParaMexico) | N/A |
-| 46 | [#GuadalupeTaddei](http://twitter.com/search?q=%23GuadalupeTaddei) | N/A |
+| 1 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
+| 2 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
+| 3 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [#Secom23](http://twitter.com/search?q=%23Secom23) | N/A |
+| 6 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 7 | [Taddei](http://twitter.com/search?q=Taddei) | N/A |
+| 8 | [Xbox Series S](http://twitter.com/search?q=Xbox+Series+S) | N/A |
+| 9 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
+| 10 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 11 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
+| 12 | [Selena Quintanilla](http://twitter.com/search?q=Selena+Quintanilla) | N/A |
+| 13 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 14 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 15 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 16 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
+| 17 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 18 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 19 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 20 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 21 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 22 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 23 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 24 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 25 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 26 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 27 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 28 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 29 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
+| 30 | [#LaCiudadYLaTransformación](http://twitter.com/search?q=%23LaCiudadYLaTransformaci%c3%b3n) | N/A |
+| 31 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 32 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 33 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
+| 34 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 35 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
+| 36 | [#PalNorte](http://twitter.com/search?q=%23PalNorte) | N/A |
+| 37 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 38 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-01 01:43:07 UTC`
+📆 Last Updated: `2023-04-01 02:29:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,38 +17,38 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 5 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
+| 3 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 4 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 7 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
 | 8 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
 | 9 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
 | 10 | [Troms](http://twitter.com/search?q=Troms) | N/A |
 | 11 | [bedre](http://twitter.com/search?q=bedre) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [Høres](http://twitter.com/search?q=H%c3%b8res) | N/A |
-| 14 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
-| 15 | [#nrkdebatten](http://twitter.com/search?q=%23nrkdebatten) | N/A |
-| 16 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
-| 17 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 18 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 19 | [reitan](http://twitter.com/search?q=reitan) | N/A |
-| 20 | [Takk](http://twitter.com/search?q=Takk) | N/A |
-| 21 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 22 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 24 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
-| 25 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
-| 26 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 27 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 28 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 29 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 34 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 14 | [Høres](http://twitter.com/search?q=H%c3%b8res) | N/A |
+| 15 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
+| 16 | [#nrkdebatten](http://twitter.com/search?q=%23nrkdebatten) | N/A |
+| 17 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 18 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
+| 19 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 20 | [reitan](http://twitter.com/search?q=reitan) | N/A |
+| 21 | [Takk](http://twitter.com/search?q=Takk) | N/A |
+| 22 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 23 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 25 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
+| 26 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
+| 27 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 28 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 29 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 30 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 32 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 33 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 34 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 35 | [tviler](http://twitter.com/search?q=tviler) | N/A |
 | 36 | [Terry](http://twitter.com/search?q=Terry) | N/A |
 | 37 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |

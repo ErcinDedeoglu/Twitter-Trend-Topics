@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-04-01 01:42:50 UTC`
+📆 Last Updated: `2023-04-01 02:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 3 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 6 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [#ROHSuperCardOfHonor](http://twitter.com/search?q=%23ROHSuperCardOfHonor) | N/A |
-| 9 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 10 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 11 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 12 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 13 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 14 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 15 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 16 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 17 | [Pretty Woman](http://twitter.com/search?q=Pretty+Woman) | N/A |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 20 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 21 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 22 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 23 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
-| 24 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 25 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 26 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 27 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 28 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 29 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 30 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 31 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
-| 32 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
-| 33 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
-| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 35 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 36 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 37 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 38 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 39 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 40 | [#5albums92](http://twitter.com/search?q=%235albums92) | N/A |
-| 41 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 42 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
-| 43 | [#MostHaunted](http://twitter.com/search?q=%23MostHaunted) | N/A |
-| 44 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 45 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 46 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
-| 47 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
-| 48 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
-| 49 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
-| 50 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 1 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 2 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 3 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 4 | [#stockportcounty](http://twitter.com/search?q=%23stockportcounty) | N/A |
+| 5 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 6 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 7 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 8 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
+| 9 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 10 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
+| 11 | [#BrexitHasFailed](http://twitter.com/search?q=%23BrexitHasFailed) | N/A |
+| 12 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 13 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
+| 14 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 15 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 16 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
+| 17 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 18 | [Jasper Wiese](http://twitter.com/search?q=Jasper+Wiese) | N/A |
+| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 20 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 21 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 22 | [Hooley](http://twitter.com/search?q=Hooley) | N/A |
+| 23 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
+| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 25 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
+| 26 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
+| 27 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 29 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
+| 30 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
+| 31 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 32 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
+| 33 | [Hull KR](http://twitter.com/search?q=Hull+KR) | N/A |
+| 34 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 35 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 36 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 37 | [Dara](http://twitter.com/search?q=Dara) | N/A |
+| 38 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 39 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 40 | [Vaughan](http://twitter.com/search?q=Vaughan) | N/A |
+| 41 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 42 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 43 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
+| 44 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
+| 45 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
+| 46 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 47 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
+| 48 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 49 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 50 | [Kemi](http://twitter.com/search?q=Kemi) | N/A |
 
 
 
