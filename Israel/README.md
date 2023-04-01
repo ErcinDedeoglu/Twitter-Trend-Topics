@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-01 11:18:07 UTC`
+📆 Last Updated: `2023-04-01 12:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
 | 2 | [סוג ב](http://twitter.com/search?q=%d7%a1%d7%95%d7%92+%d7%91) | N/A |
-| 3 | [מעמד האישה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%9e%d7%93+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
-| 4 | [חשבון פייק](http://twitter.com/search?q=%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%a4%d7%99%d7%99%d7%a7) | N/A |
-| 5 | [محمد العصيبي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
-| 6 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
-| 7 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
-| 8 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 9 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
-| 10 | [גישור פלילי](http://twitter.com/search?q=%d7%92%d7%99%d7%a9%d7%95%d7%a8+%d7%a4%d7%9c%d7%99%d7%9c%d7%99) | N/A |
-| 11 | [דנה ספקטור](http://twitter.com/search?q=%d7%93%d7%a0%d7%94+%d7%a1%d7%a4%d7%a7%d7%98%d7%95%d7%a8) | N/A |
-| 12 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 13 | [#ArbEgg](http://twitter.com/search?q=%23ArbEgg) | N/A |
-| 14 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 15 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
-| 16 | [אהוד בנאי](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a0%d7%90%d7%99) | N/A |
-| 17 | [ספק סביר](http://twitter.com/search?q=%d7%a1%d7%a4%d7%a7+%d7%a1%d7%91%d7%99%d7%a8) | N/A |
-| 18 | [דגל הקונפדרציה](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%94%d7%a7%d7%95%d7%a0%d7%a4%d7%93%d7%a8%d7%a6%d7%99%d7%94) | N/A |
-| 19 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 21 | [#shabbatshalom](http://twitter.com/search?q=%23shabbatshalom) | N/A |
-| 22 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 23 | [الجمعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 24 | [של הפרקליטות](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a4%d7%a8%d7%a7%d7%9c%d7%99%d7%98%d7%95%d7%aa) | N/A |
-| 25 | [בן של קיסר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a9%d7%9c+%d7%a7%d7%99%d7%a1%d7%a8) | N/A |
-| 26 | [שישי ערב](http://twitter.com/search?q=%d7%a9%d7%99%d7%a9%d7%99+%d7%a2%d7%a8%d7%91) | N/A |
-| 27 | [מני מזוז](http://twitter.com/search?q=%d7%9e%d7%a0%d7%99+%d7%9e%d7%96%d7%95%d7%96) | N/A |
-| 28 | [חולצה אפורה](http://twitter.com/search?q=%d7%97%d7%95%d7%9c%d7%a6%d7%94+%d7%90%d7%a4%d7%95%d7%a8%d7%94) | N/A |
-| 29 | [קאנון שאמאן](http://twitter.com/search?q=%d7%a7%d7%90%d7%a0%d7%95%d7%9f+%d7%a9%d7%90%d7%9e%d7%90%d7%9f) | N/A |
-| 30 | [אפס אלימות](http://twitter.com/search?q=%d7%90%d7%a4%d7%a1+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
-| 31 | [باب السلسله](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d9%87) | N/A |
-| 32 | [של מנחם בגין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%97%d7%9d+%d7%91%d7%92%d7%99%d7%9f) | N/A |
-| 33 | [מסר אישי](http://twitter.com/search?q=%d7%9e%d7%a1%d7%a8+%d7%90%d7%99%d7%a9%d7%99) | N/A |
-| 34 | [של אלמוג כהן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 35 | [البلده القديمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85%d9%87) | N/A |
-| 36 | [של מאי גולן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
-| 37 | [ראש ממשלה של](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a9%d7%9c) | N/A |
-| 38 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 39 | [הכפר״](http://twitter.com/search?q=%d7%94%d7%9b%d7%a4%d7%a8%d7%b4) | N/A |
-| 40 | [עם גדי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%92%d7%93%d7%99) | N/A |
-| 41 | [של משמרות](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a9%d7%9e%d7%a8%d7%95%d7%aa) | N/A |
-| 42 | [מי רצח](http://twitter.com/search?q=%d7%9e%d7%99+%d7%a8%d7%a6%d7%97) | N/A |
-| 43 | [דגלים אדומים](http://twitter.com/search?q=%d7%93%d7%92%d7%9c%d7%99%d7%9d+%d7%90%d7%93%d7%95%d7%9e%d7%99%d7%9d) | N/A |
-| 44 | [פאק ביידן](http://twitter.com/search?q=%d7%a4%d7%90%d7%a7+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
-| 45 | [מאיר ויזלטיר](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%95%d7%99%d7%96%d7%9c%d7%98%d7%99%d7%a8) | N/A |
-| 46 | [סם אונס](http://twitter.com/search?q=%d7%a1%d7%9d+%d7%90%d7%95%d7%a0%d7%a1) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [עליונות המשפט](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99%d7%95%d7%a0%d7%95%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
-| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 50 | [של האקדמיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%90%d7%a7%d7%93%d7%9e%d7%99%d7%94) | N/A |
+| 3 | [חשבון פייק](http://twitter.com/search?q=%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%a4%d7%99%d7%99%d7%a7) | N/A |
+| 4 | [מעמד האישה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%9e%d7%93+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
+| 5 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
+| 6 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 7 | [#ArbEgg](http://twitter.com/search?q=%23ArbEgg) | N/A |
+| 8 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 9 | [محمد العصيبي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
+| 10 | [דנה ספקטור](http://twitter.com/search?q=%d7%93%d7%a0%d7%94+%d7%a1%d7%a4%d7%a7%d7%98%d7%95%d7%a8) | N/A |
+| 11 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
+| 12 | [אהוד בנאי](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a0%d7%90%d7%99) | N/A |
+| 13 | [דגל הקונפדרציה](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%94%d7%a7%d7%95%d7%a0%d7%a4%d7%93%d7%a8%d7%a6%d7%99%d7%94) | N/A |
+| 14 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 15 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
+| 16 | [#shabbatshalom](http://twitter.com/search?q=%23shabbatshalom) | N/A |
+| 17 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
+| 18 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 20 | [الجمعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 21 | [של הפרקליטות](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a4%d7%a8%d7%a7%d7%9c%d7%99%d7%98%d7%95%d7%aa) | N/A |
+| 22 | [בן של קיסר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a9%d7%9c+%d7%a7%d7%99%d7%a1%d7%a8) | N/A |
+| 23 | [שישי ערב](http://twitter.com/search?q=%d7%a9%d7%99%d7%a9%d7%99+%d7%a2%d7%a8%d7%91) | N/A |
+| 24 | [חולצה אפורה](http://twitter.com/search?q=%d7%97%d7%95%d7%9c%d7%a6%d7%94+%d7%90%d7%a4%d7%95%d7%a8%d7%94) | N/A |
+| 25 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 26 | [אפס אלימות](http://twitter.com/search?q=%d7%90%d7%a4%d7%a1+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
+| 27 | [باب السلسله](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d9%87) | N/A |
+| 28 | [מני מזוז](http://twitter.com/search?q=%d7%9e%d7%a0%d7%99+%d7%9e%d7%96%d7%95%d7%96) | N/A |
+| 29 | [של מנחם בגין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%97%d7%9d+%d7%91%d7%92%d7%99%d7%9f) | N/A |
+| 30 | [מסר אישי](http://twitter.com/search?q=%d7%9e%d7%a1%d7%a8+%d7%90%d7%99%d7%a9%d7%99) | N/A |
+| 31 | [של אלמוג כהן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
+| 32 | [של מאי גולן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 33 | [ראש ממשלה של](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a9%d7%9c) | N/A |
+| 34 | [הכפר״](http://twitter.com/search?q=%d7%94%d7%9b%d7%a4%d7%a8%d7%b4) | N/A |
+| 35 | [עם גדי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%92%d7%93%d7%99) | N/A |
+| 36 | [של משמרות](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a9%d7%9e%d7%a8%d7%95%d7%aa) | N/A |
+| 37 | [מי רצח](http://twitter.com/search?q=%d7%9e%d7%99+%d7%a8%d7%a6%d7%97) | N/A |
+| 38 | [דגלים אדומים](http://twitter.com/search?q=%d7%93%d7%92%d7%9c%d7%99%d7%9d+%d7%90%d7%93%d7%95%d7%9e%d7%99%d7%9d) | N/A |
+| 39 | [פאק ביידן](http://twitter.com/search?q=%d7%a4%d7%90%d7%a7+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
+| 40 | [גישור פלילי](http://twitter.com/search?q=%d7%92%d7%99%d7%a9%d7%95%d7%a8+%d7%a4%d7%9c%d7%99%d7%9c%d7%99) | N/A |
+| 41 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 42 | [סם אונס](http://twitter.com/search?q=%d7%a1%d7%9d+%d7%90%d7%95%d7%a0%d7%a1) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [עליונות המשפט](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99%d7%95%d7%a0%d7%95%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
+| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 46 | [כהנא חי](http://twitter.com/search?q=%d7%9b%d7%94%d7%a0%d7%90+%d7%97%d7%99) | N/A |
+| 47 | [של האקדמיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%90%d7%a7%d7%93%d7%9e%d7%99%d7%94) | N/A |
+| 48 | [לואו קוסט](http://twitter.com/search?q=%d7%9c%d7%95%d7%90%d7%95+%d7%a7%d7%95%d7%a1%d7%98) | N/A |
+| 49 | [מכל הארץ](http://twitter.com/search?q=%d7%9e%d7%9b%d7%9c+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
+| 50 | [Temple Mount](http://twitter.com/search?q=Temple+Mount) | N/A |
 
 
 

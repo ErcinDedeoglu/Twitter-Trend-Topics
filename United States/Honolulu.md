@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-04-01 11:17:59 UTC`
+📆 Last Updated: `2023-04-01 12:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 2 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 6 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 7 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 8 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 9 | [#Wordle651](http://twitter.com/search?q=%23Wordle651) | N/A |
-| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 11 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
-| 12 | [#StrayKidsinLA](http://twitter.com/search?q=%23StrayKidsinLA) | N/A |
-| 13 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
-| 14 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 15 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 16 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 17 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 18 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 19 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 20 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 21 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 22 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 24 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 27 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 1 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 2 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 5 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 6 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 8 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 9 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 10 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 11 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 12 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 13 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 14 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 17 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 18 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 19 | [#Wordle651](http://twitter.com/search?q=%23Wordle651) | N/A |
+| 20 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 21 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 22 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 25 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
+| 26 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 27 | [No April](http://twitter.com/search?q=No+April) | N/A |
 | 28 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 29 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 30 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 31 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 32 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 33 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 34 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 35 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 36 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 37 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 38 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 39 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 40 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
-| 41 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
-| 42 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 43 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 44 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 45 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 46 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 47 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 48 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 29 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 30 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 31 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 32 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 33 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 34 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 36 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 37 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 38 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 39 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 40 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 41 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 42 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 43 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 44 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 45 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 46 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
+| 47 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 48 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
 
 
 

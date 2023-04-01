@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-01 11:18:03 UTC`
+📆 Last Updated: `2023-04-01 12:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 3 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 4 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 7 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 8 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 9 | [#Wordle651](http://twitter.com/search?q=%23Wordle651) | N/A |
-| 10 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 11 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 12 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
-| 13 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 14 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
-| 15 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 16 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 17 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 18 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 19 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 20 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 21 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 22 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 23 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 24 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 25 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 26 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 28 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 2 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 3 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 6 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 7 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 10 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 11 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 12 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 13 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 14 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 15 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 18 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 19 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 20 | [#Wordle651](http://twitter.com/search?q=%23Wordle651) | N/A |
+| 21 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 22 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 23 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 26 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
+| 27 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 28 | [No April](http://twitter.com/search?q=No+April) | N/A |
 | 29 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 30 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 31 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 32 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 33 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 34 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 30 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 31 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 32 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 33 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 34 | [Collected](http://twitter.com/search?q=Collected) | N/A |
 | 35 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 36 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 37 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 38 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 39 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 40 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 41 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
-| 42 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
-| 43 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 44 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 45 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 46 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 47 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 48 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 49 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 50 | [lisa bluder](http://twitter.com/search?q=lisa+bluder) | N/A |
+| 36 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 38 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 39 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 40 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 41 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 42 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 43 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 44 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 45 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 46 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 47 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 48 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
+| 49 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 50 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
 
 
 

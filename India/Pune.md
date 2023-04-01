@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-04-01 11:17:54 UTC`
+📆 Last Updated: `2023-04-01 12:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LeeTheRealDenim](http://twitter.com/search?q=%23LeeTheRealDenim) | N/A |
-| 2 | [#MPWelcomesNAMO](http://twitter.com/search?q=%23MPWelcomesNAMO) | N/A |
+| 1 | [#kalaram_temple](http://twitter.com/search?q=%23kalaram_temple) | N/A |
+| 2 | [#VandeBharat](http://twitter.com/search?q=%23VandeBharat) | N/A |
 | 3 | [#KKRvsPBKS](http://twitter.com/search?q=%23KKRvsPBKS) | N/A |
-| 4 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
-| 5 | [Rajat Sharma](http://twitter.com/search?q=Rajat+Sharma) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | ["Unibersity"](http://twitter.com/search?q=%22Unibersity%22) | N/A |
-| 8 | [Brigade Road](http://twitter.com/search?q=Brigade+Road) | N/A |
-| 9 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 10 | [Jitesh Sharma](http://twitter.com/search?q=Jitesh+Sharma) | Jitesh Sharma is a common Indian name. It is derived from the Sanskrit words "jita" meaning "victory" and "ish" meaning "lord". In English, it can be translated to mean "Lord of Victory". |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 13 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 14 | [Match 2](http://twitter.com/search?q=Match+2) | N/A |
-| 15 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 16 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 17 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 18 | [कमलापति रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%95%e0%a4%ae%e0%a4%b2%e0%a4%be%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 19 | [Bhopal](http://twitter.com/search?q=Bhopal) | N/A |
-| 20 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
-| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 22 | [1st Innings](http://twitter.com/search?q=1st+Innings) | N/A |
-| 23 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 24 | [Odisha](http://twitter.com/search?q=Odisha) | N/A |
-| 25 | [संचारी रोग नियंत्रण अभियान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a5%8b%e0%a4%97+%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a3+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 26 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
-| 27 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 28 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
-| 29 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 30 | [degree](http://twitter.com/search?q=degree) | N/A |
-| 31 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
-| 32 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 33 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 34 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
-| 35 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 36 | [संजय राउत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%89%e0%a4%a4) | N/A |
-| 37 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
-| 38 | [नगरी भोपाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a5%80+%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 39 | [रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 40 | [IITian](http://twitter.com/search?q=IITian) | N/A |
-| 41 | [#T20KaaAsliKhiladi](http://twitter.com/search?q=%23T20KaaAsliKhiladi) | N/A |
-| 42 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
-| 43 | [#ନୂଆଓଡ଼ିଶା](http://twitter.com/search?q=%23%e0%ac%a8%e0%ad%82%e0%ac%86%e0%ac%93%e0%ac%a1%e0%ac%bc%e0%ac%bf%e0%ac%b6%e0%ac%be) | N/A |
-| 44 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 45 | [#BCI_District_Allotment](http://twitter.com/search?q=%23BCI_District_Allotment) | N/A |
-| 46 | [#பில்லு_எங்க_ஆடு](http://twitter.com/search?q=%23%e0%ae%aa%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%af%81_%e0%ae%8e%e0%ae%99%e0%af%8d%e0%ae%95_%e0%ae%86%e0%ae%9f%e0%af%81) | N/A |
-| 47 | [#BCI_जिला_आवंटन_करो](http://twitter.com/search?q=%23BCI_%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%86%e0%a4%b5%e0%a4%82%e0%a4%9f%e0%a4%a8_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 48 | [#BitgetglobalFraud](http://twitter.com/search?q=%23BitgetglobalFraud) | N/A |
-| 49 | [#भत्ता_नहीं_भूपेश_के_छलावा](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%be_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6_%e0%a4%95%e0%a5%87_%e0%a4%9b%e0%a4%b2%e0%a4%be%e0%a4%b5%e0%a4%be) | N/A |
+| 4 | [#LeeTheRealDenim](http://twitter.com/search?q=%23LeeTheRealDenim) | N/A |
+| 5 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 6 | [Rajat Sharma](http://twitter.com/search?q=Rajat+Sharma) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Suresh R](http://twitter.com/search?q=Suresh+R) | N/A |
+| 9 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 12 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 13 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 14 | [Unibersity](http://twitter.com/search?q=Unibersity) | N/A |
+| 15 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 16 | [Brigade Road](http://twitter.com/search?q=Brigade+Road) | N/A |
+| 17 | [Ashok D](http://twitter.com/search?q=Ashok+D) | N/A |
+| 18 | [Southee](http://twitter.com/search?q=Southee) | N/A |
+| 19 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 20 | [Jitesh Sharma](http://twitter.com/search?q=Jitesh+Sharma) | Jitesh Sharma is a common Indian name. It is derived from the Sanskrit words "jita" meaning "victory" and "ish" meaning "lord". In English, it can be translated to mean "Lord of Victory". |
+| 21 | [कमलापति रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%95%e0%a4%ae%e0%a4%b2%e0%a4%be%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 22 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 23 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 24 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Match 2](http://twitter.com/search?q=Match+2) | N/A |
+| 27 | [Bhopal](http://twitter.com/search?q=Bhopal) | N/A |
+| 28 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
+| 29 | [कमलापति स्टेशन](http://twitter.com/search?q=%e0%a4%95%e0%a4%ae%e0%a4%b2%e0%a4%be%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 30 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 31 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 32 | [Raza](http://twitter.com/search?q=Raza) | N/A |
+| 33 | [श्री नरेन्द्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 34 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 35 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
+| 36 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 37 | [संचारी रोग नियंत्रण अभियान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a5%8b%e0%a4%97+%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a3+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 38 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 39 | [Narine](http://twitter.com/search?q=Narine) | N/A |
+| 40 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 41 | [Odisha](http://twitter.com/search?q=Odisha) | N/A |
+| 42 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 43 | [Degree](http://twitter.com/search?q=Degree) | N/A |
+| 44 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
+| 45 | [Utkal Divas](http://twitter.com/search?q=Utkal+Divas) | N/A |
+| 46 | [रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 47 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 48 | [#ChinglesGetsGOAT](http://twitter.com/search?q=%23ChinglesGetsGOAT) | N/A |
+| 49 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
 
 
 

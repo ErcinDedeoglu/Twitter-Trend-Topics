@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-01 11:17:28 UTC`
+📆 Last Updated: `2023-04-01 12:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 2 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
-| 3 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 5 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 13 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 14 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
+| 1 | [Ogum](http://twitter.com/search?q=Ogum) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 4 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 7 | [#ESPNnoStarplus](http://twitter.com/search?q=%23ESPNnoStarplus) | N/A |
+| 8 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 9 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 12 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
+| 13 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 14 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
 | 15 | [#LulaDay](http://twitter.com/search?q=%23LulaDay) | N/A |
-| 16 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 19 | [maiara e maraisa no faustão](http://twitter.com/search?q=maiara+e+maraisa+no+faust%c3%a3o) | N/A |
-| 20 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 21 | [Que Abril](http://twitter.com/search?q=Que+Abril) | N/A |
-| 22 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 23 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 24 | [amanda merece respeito](http://twitter.com/search?q=amanda+merece+respeito) | N/A |
-| 25 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 26 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 27 | [ÓDIO e NOJO](http://twitter.com/search?q=%c3%93DIO+e+NOJO) | N/A |
-| 28 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
-| 29 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 30 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
-| 31 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 32 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 33 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 34 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 35 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 37 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
-| 38 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 39 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 40 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 41 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 42 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 43 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 44 | [Jó 7](http://twitter.com/search?q=J%c3%b3+7) | N/A |
-| 45 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
-| 46 | [Meu Mês](http://twitter.com/search?q=Meu+M%c3%aas) | N/A |
-| 47 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 48 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 49 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 50 | [Bem-vindo Abril](http://twitter.com/search?q=Bem-vindo+Abril) | N/A |
+| 16 | [#DiaDaMentira](http://twitter.com/search?q=%23DiaDaMentira) | N/A |
+| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 18 | [Que Abril](http://twitter.com/search?q=Que+Abril) | N/A |
+| 19 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 20 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
+| 21 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 22 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 23 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 24 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 25 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 26 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 27 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 28 | [Malbec](http://twitter.com/search?q=Malbec) | N/A |
+| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 31 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 32 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 33 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 34 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 35 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 36 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
+| 37 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Fúria](http://twitter.com/search?q=F%c3%baria) | N/A |
+| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 41 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 42 | [Tardezinha](http://twitter.com/search?q=Tardezinha) | N/A |
+| 43 | [Monark](http://twitter.com/search?q=Monark) | Monark is a Swedish brand of bicycles and mopeds. The name Monark is derived from the Latin word for "king" or "monarch". In English, it can be translated to mean "king of the road". |
+| 44 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 45 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
+| 46 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
+| 47 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 48 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 49 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-04-01 11:17:55 UTC`
+📆 Last Updated: `2023-04-01 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 2 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
-| 3 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 2 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
+| 3 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
 | 4 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 5 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 6 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 7 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
-| 8 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 9 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
+| 5 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 6 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
+| 7 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 8 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 9 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
 | 10 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 11 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 12 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 13 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 14 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 15 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
-| 16 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
-| 17 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 18 | [Üzülmeyin](http://twitter.com/search?q=%c3%9cz%c3%bclmeyin) | N/A |
-| 19 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
-| 20 | [Üzgün](http://twitter.com/search?q=%c3%9czg%c3%bcn) | N/A |
-| 21 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
-| 22 | [Sayın Kılıçdaroğlu](http://twitter.com/search?q=Say%c4%b1n+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 23 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 24 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 25 | [Bozdağ](http://twitter.com/search?q=Bozda%c4%9f) | N/A |
-| 26 | [Bastığın](http://twitter.com/search?q=Bast%c4%b1%c4%9f%c4%b1n) | N/A |
-| 27 | [Müslümanlık](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanl%c4%b1k) | N/A |
-| 28 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 29 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 30 | [Camii](http://twitter.com/search?q=Camii) | N/A |
-| 31 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
-| 32 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
-| 33 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
-| 34 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 11 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 12 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 13 | [Kura](http://twitter.com/search?q=Kura) | N/A |
+| 14 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 15 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 16 | [Camiye](http://twitter.com/search?q=Camiye) | N/A |
+| 17 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
+| 18 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
+| 21 | [Bastığı](http://twitter.com/search?q=Bast%c4%b1%c4%9f%c4%b1) | N/A |
+| 22 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 23 | [Hoşçakal](http://twitter.com/search?q=Ho%c5%9f%c3%a7akal) | N/A |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Sıralama](http://twitter.com/search?q=S%c4%b1ralama) | N/A |
+| 26 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
+| 27 | [Üzülmeyin](http://twitter.com/search?q=%c3%9cz%c3%bclmeyin) | N/A |
+| 28 | [Önünü](http://twitter.com/search?q=%c3%96n%c3%bcn%c3%bc) | N/A |
+| 29 | [Üzgün](http://twitter.com/search?q=%c3%9czg%c3%bcn) | N/A |
+| 30 | [Müslümanlık](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanl%c4%b1k) | N/A |
+| 31 | [Bozdağ](http://twitter.com/search?q=Bozda%c4%9f) | N/A |
+| 32 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 33 | [Sayın Kılıçdaroğlu](http://twitter.com/search?q=Say%c4%b1n+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 34 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
 | 35 | [Yerde](http://twitter.com/search?q=Yerde) | N/A |
-| 36 | [Kabe](http://twitter.com/search?q=Kabe) | N/A |
-| 37 | [Pirom](http://twitter.com/search?q=Pirom) | N/A |
-| 38 | [İsmet İnönü](http://twitter.com/search?q=%c4%b0smet+%c4%b0n%c3%b6n%c3%bc) | N/A |
-| 39 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 40 | [Kasıtlı](http://twitter.com/search?q=Kas%c4%b1tl%c4%b1) | N/A |
-| 41 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 42 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
-| 43 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 44 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 45 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
-| 46 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
-| 47 | [Yanlışlıkla](http://twitter.com/search?q=Yanl%c4%b1%c5%9fl%c4%b1kla) | N/A |
+| 36 | [Başörtüsüne](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcs%c3%bcne) | N/A |
+| 37 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 38 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 39 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 40 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
+| 41 | [Kasıtlı](http://twitter.com/search?q=Kas%c4%b1tl%c4%b1) | N/A |
+| 42 | [İsmet İnönü](http://twitter.com/search?q=%c4%b0smet+%c4%b0n%c3%b6n%c3%bc) | N/A |
+| 43 | [Kabe](http://twitter.com/search?q=Kabe) | N/A |
+| 44 | [i̇lyas salman](http://twitter.com/search?q=i%cc%87lyas+salman) | N/A |
+| 45 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 46 | [Yanlışlıkla](http://twitter.com/search?q=Yanl%c4%b1%c5%9fl%c4%b1kla) | N/A |
+| 47 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
 
 
 

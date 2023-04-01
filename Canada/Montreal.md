@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-04-01 11:17:18 UTC`
+📆 Last Updated: `2023-04-01 12:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
 | 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 4 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 6 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 10 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 13 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 14 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 16 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 18 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 19 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 20 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 21 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
-| 22 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 23 | [toffoli](http://twitter.com/search?q=toffoli) | N/A |
-| 24 | [Obidient](http://twitter.com/search?q=Obidient) | N/A |
-| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 26 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 27 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 28 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
-| 29 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
-| 30 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 31 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 32 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 33 | [MCDONOUGH](http://twitter.com/search?q=MCDONOUGH) | N/A |
-| 34 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 35 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 36 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 37 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 38 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 39 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
-| 40 | [SHIBATA](http://twitter.com/search?q=SHIBATA) | N/A |
-| 41 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 44 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 45 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
-| 46 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 47 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 48 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 49 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 50 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 3 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 6 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 7 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 8 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 9 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 10 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 11 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 14 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 17 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 18 | [C-11](http://twitter.com/search?q=C-11) | N/A |
+| 19 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 20 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 21 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 22 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 23 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
+| 24 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 25 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 26 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 27 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
+| 28 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 29 | [Toffoli](http://twitter.com/search?q=Toffoli) | N/A |
+| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 31 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 33 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 34 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 35 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 36 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
+| 37 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 38 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 39 | [MCDONOUGH](http://twitter.com/search?q=MCDONOUGH) | N/A |
+| 40 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 43 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
+| 44 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 46 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 48 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 49 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
+| 50 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 
 
 

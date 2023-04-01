@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-01 11:17:38 UTC`
+📆 Last Updated: `2023-04-01 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,38 +20,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#MarhabanYaaRamadhan](http://twitter.com/search?q=%23MarhabanYaaRamadhan) | N/A |
 | 4 | [The Azhari](http://twitter.com/search?q=The+Azhari) | N/A |
 | 5 | [#KuisGRIRamadan](http://twitter.com/search?q=%23KuisGRIRamadan) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 8 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 11 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
-| 12 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
-| 13 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
-| 16 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 17 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 18 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 19 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 21 | [lee dohyun](http://twitter.com/search?q=lee+dohyun) | N/A |
-| 22 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 23 | [Plot Twist](http://twitter.com/search?q=Plot+Twist) | N/A |
-| 24 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 25 | [#RtoVinSeoul_Day1](http://twitter.com/search?q=%23RtoVinSeoul_Day1) | N/A |
-| 26 | [#D6_GoldenHourMark](http://twitter.com/search?q=%23D6_GoldenHourMark) | N/A |
-| 27 | [#UN1TYKLBB2023](http://twitter.com/search?q=%23UN1TYKLBB2023) | N/A |
-| 28 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
-| 29 | [#BookfluencerxWinnySatang](http://twitter.com/search?q=%23BookfluencerxWinnySatang) | N/A |
-| 30 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 31 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
-| 32 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
-| 33 | [#phumini](http://twitter.com/search?q=%23phumini) | N/A |
-| 34 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
-| 35 | [#UniversityOfEfexJKT48](http://twitter.com/search?q=%23UniversityOfEfexJKT48) | N/A |
-| 36 | [#BUILDACOLORFULDAY](http://twitter.com/search?q=%23BUILDACOLORFULDAY) | N/A |
-| 37 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
+| 6 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
+| 7 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 8 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [NAMJOON](http://twitter.com/search?q=NAMJOON) | N/A |
+| 11 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 12 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
+| 15 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 16 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
+| 17 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
+| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 19 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 22 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 23 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 24 | [Dewan Perwakilan Partai](http://twitter.com/search?q=Dewan+Perwakilan+Partai) | N/A |
+| 25 | [Bongkar](http://twitter.com/search?q=Bongkar) | N/A |
+| 26 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 27 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 28 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 29 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 30 | [#OxecurePHxHENDERY](http://twitter.com/search?q=%23OxecurePHxHENDERY) | N/A |
+| 31 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 32 | [#RtoVinSeoul_Day1](http://twitter.com/search?q=%23RtoVinSeoul_Day1) | N/A |
+| 33 | [#D6_GoldenHourMark](http://twitter.com/search?q=%23D6_GoldenHourMark) | N/A |
+| 34 | [#UN1TYKLBB2023](http://twitter.com/search?q=%23UN1TYKLBB2023) | N/A |
+| 35 | [#realmeC55WithPondPhuwin](http://twitter.com/search?q=%23realmeC55WithPondPhuwin) | N/A |
+| 36 | [#AzarineMakeup](http://twitter.com/search?q=%23AzarineMakeup) | N/A |
+| 37 | [#GAzarine](http://twitter.com/search?q=%23GAzarine) | N/A |
+| 38 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
+| 39 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
+| 40 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 41 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 42 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 43 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 44 | [#UniversityOfEfexJKT48](http://twitter.com/search?q=%23UniversityOfEfexJKT48) | N/A |
 
 
 
