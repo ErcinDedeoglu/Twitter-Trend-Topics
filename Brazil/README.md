@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-01 03:17:28 UTC`
+📆 Last Updated: `2023-04-01 04:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 3 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 4 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 5 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
-| 6 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 7 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 8 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 9 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 10 | [#GloboRepórter](http://twitter.com/search?q=%23GloboRep%c3%b3rter) | N/A |
-| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 12 | [MAIARA E MARAISA NO FAUSTÃO](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+FAUST%c3%83O) | N/A |
-| 13 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 14 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
-| 15 | [THE 1](http://twitter.com/search?q=THE+1) | N/A |
-| 16 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 17 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 18 | [Akkari](http://twitter.com/search?q=Akkari) | N/A |
-| 19 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
-| 20 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 21 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 22 | [Los Angeles Lakers](http://twitter.com/search?q=Los+Angeles+Lakers) | N/A |
-| 23 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
-| 24 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 25 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 26 | [EG Black](http://twitter.com/search?q=EG+Black) | N/A |
-| 27 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 28 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 29 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 30 | [david braga](http://twitter.com/search?q=david+braga) | N/A |
-| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 32 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 33 | [HAPPY BIRTHDAY JOSH](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOSH) | N/A |
-| 34 | [James Cameron](http://twitter.com/search?q=James+Cameron) | N/A |
-| 35 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
-| 36 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
-| 37 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
-| 38 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 39 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 40 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 41 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 42 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
-| 43 | [Banco Inter](http://twitter.com/search?q=Banco+Inter) | N/A |
-| 44 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 45 | [Brisa e Ari](http://twitter.com/search?q=Brisa+e+Ari) | N/A |
-| 46 | [Hajun](http://twitter.com/search?q=Hajun) | N/A |
-| 47 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
-| 48 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
-| 49 | [niki](http://twitter.com/search?q=niki) | N/A |
-| 50 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 3 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
+| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 5 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 6 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 7 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 8 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 9 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 10 | [#F2noBandSports](http://twitter.com/search?q=%23F2noBandSports) | N/A |
+| 11 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 12 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 13 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 16 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 17 | [The 1](http://twitter.com/search?q=The+1) | N/A |
+| 18 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 19 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 20 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
+| 21 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 22 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 23 | [Renata Vasconcellos](http://twitter.com/search?q=Renata+Vasconcellos) | N/A |
+| 24 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 25 | [akkari](http://twitter.com/search?q=akkari) | N/A |
+| 26 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 27 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
+| 28 | [FELIZ DIA DOS HOMENS](http://twitter.com/search?q=FELIZ+DIA+DOS+HOMENS) | N/A |
+| 29 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
+| 30 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 31 | [EG Black](http://twitter.com/search?q=EG+Black) | N/A |
+| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 33 | [Los Angeles Lakers](http://twitter.com/search?q=Los+Angeles+Lakers) | N/A |
+| 34 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
+| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 36 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 37 | [Kscerato](http://twitter.com/search?q=Kscerato) | N/A |
+| 38 | [MAIARA](http://twitter.com/search?q=MAIARA) | MAIARA is a female name of Brazilian origin. It is derived from the Tupi language and means "wise". |
+| 39 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 40 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 41 | [MARAISA](http://twitter.com/search?q=MARAISA) | MARAISA is a Brazilian musical duo composed of sisters Maiara and Maraisa. The name is a combination of their first names. The duo has released several albums and singles, and are known for their sertanejo music style. |
+| 42 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 43 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
+| 44 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
+| 45 | [James Cameron](http://twitter.com/search?q=James+Cameron) | N/A |
+| 46 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 47 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 48 | [HAPPY BIRTHDAY JOSH](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOSH) | N/A |
+| 49 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
+| 50 | [Dia da Mentira](http://twitter.com/search?q=Dia+da+Mentira) | N/A |
 
 
 

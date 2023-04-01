@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-04-01 03:17:18 UTC`
+📆 Last Updated: `2023-04-01 04:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [MilletinEvladı İnce](http://twitter.com/search?q=MilletinEvlad%c4%b1+%c4%b0nce) | N/A |
 | 2 | [EceKarataş Merkezde](http://twitter.com/search?q=EceKarata%c5%9f+Merkezde) | N/A |
 | 3 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 4 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 5 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 6 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 5 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 6 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
 | 7 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
 | 8 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 9 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 10 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 11 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 12 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
-| 13 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
+| 9 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 10 | [Levent](http://twitter.com/search?q=Levent) | N/A |
+| 11 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 12 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
+| 13 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
 | 14 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 15 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 16 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 17 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 18 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 19 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
-| 20 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
-| 21 | [Kadir İnanır](http://twitter.com/search?q=Kadir+%c4%b0nan%c4%b1r) | N/A |
-| 22 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 23 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
-| 24 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
-| 25 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 26 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
-| 27 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 28 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 29 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
-| 30 | [ÖZÜR DİLE MERAL AKŞENER](http://twitter.com/search?q=%c3%96Z%c3%9cR+D%c4%b0LE+MERAL+AK%c5%9eENER) | N/A |
+| 15 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
+| 16 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 17 | [Bilinçli](http://twitter.com/search?q=Bilin%c3%a7li) | N/A |
+| 18 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 19 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 20 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 21 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 22 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
+| 23 | [Kadir İnanır](http://twitter.com/search?q=Kadir+%c4%b0nan%c4%b1r) | N/A |
+| 24 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
+| 25 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
+| 26 | [ÖZÜR DİLE MERAL AKŞENER](http://twitter.com/search?q=%c3%96Z%c3%9cR+D%c4%b0LE+MERAL+AK%c5%9eENER) | N/A |
+| 27 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 28 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
+| 29 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
+| 30 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
 | 31 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 32 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 33 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 34 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
-| 35 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
-| 36 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
-| 37 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
-| 38 | [#yilmazguney](http://twitter.com/search?q=%23yilmazguney) | N/A |
-| 39 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 40 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 41 | [#KizilcikŞerbeti](http://twitter.com/search?q=%23Kizilcik%c5%9eerbeti) | N/A |
-| 42 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 43 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
+| 32 | [türkiye yüzyılı](http://twitter.com/search?q=t%c3%bcrkiye+y%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 33 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 34 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
+| 35 | [#stajvaattekalmasın](http://twitter.com/search?q=%23stajvaattekalmas%c4%b1n) | N/A |
+| 36 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
+| 37 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 38 | [#YılmazGüney](http://twitter.com/search?q=%23Y%c4%b1lmazG%c3%bcney) | N/A |
+| 39 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
+| 40 | [#KizilcikŞerbeti](http://twitter.com/search?q=%23Kizilcik%c5%9eerbeti) | N/A |
+| 41 | [#CHPyeOyYok](http://twitter.com/search?q=%23CHPyeOyYok) | N/A |
+| 42 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
+| 43 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
 | 44 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 45 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 45 | [#YalıCapkını](http://twitter.com/search?q=%23Yal%c4%b1Capk%c4%b1n%c4%b1) | N/A |
 | 46 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
-| 47 | [#TeşvikDeğilTekKalemMaaş](http://twitter.com/search?q=%23Te%c5%9fvikDe%c4%9filTekKalemMaa%c5%9f) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-01 03:17:32 UTC`
+📆 Last Updated: `2023-04-01 04:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Norway
 | 6 | [deadline day](http://twitter.com/search?q=deadline+day) | N/A |
 | 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 8 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
-| 9 | [#fursuitfriday](http://twitter.com/search?q=%23fursuitfriday) | N/A |
+| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 10 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
 | 11 | [bedre](http://twitter.com/search?q=bedre) | N/A |
 | 12 | [aalesund](http://twitter.com/search?q=aalesund) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Norway
 | 19 | [Trist](http://twitter.com/search?q=Trist) | N/A |
 | 20 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
 | 21 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 22 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 22 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
 | 23 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 24 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
 | 25 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Norway
 | 41 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
 | 42 | [reitan](http://twitter.com/search?q=reitan) | N/A |
 | 43 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 44 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
+| 44 | [mehl](http://twitter.com/search?q=mehl) | N/A |
 | 45 | [fant](http://twitter.com/search?q=fant) | N/A |
 | 46 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
 | 47 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 48 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 48 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 49 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
-| 50 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 50 | [knutsen](http://twitter.com/search?q=knutsen) | N/A |
 
 
 

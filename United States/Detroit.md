@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-04-01 03:17:21 UTC`
+📆 Last Updated: `2023-04-01 04:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 9 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 12 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 7 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 8 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 11 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 14 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 16 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 17 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 19 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 20 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 21 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 24 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 26 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 27 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 28 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 29 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 31 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 32 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 33 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 34 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 35 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 36 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 37 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 38 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 40 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 41 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 42 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 43 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 44 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 45 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 46 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 47 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 48 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 49 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
+| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 15 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 16 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 18 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 19 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 20 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 21 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 24 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 26 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 27 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 28 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 29 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 30 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 31 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 32 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 33 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 34 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 35 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 36 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 37 | [wendys](http://twitter.com/search?q=wendys) | N/A |
+| 38 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 39 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 40 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 41 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 42 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 43 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 44 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 45 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
+| 46 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 47 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 48 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
+| 49 | [Perk](http://twitter.com/search?q=Perk) | N/A |
 
 
 

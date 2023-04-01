@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-01 03:17:22 UTC`
+📆 Last Updated: `2023-04-01 04:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 2 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
-| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 4 | [Charlie Blackmon](http://twitter.com/search?q=Charlie+Blackmon) | N/A |
-| 5 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 6 | [#LakersNation](http://twitter.com/search?q=%23LakersNation) | N/A |
-| 7 | [#WoodstockAI](http://twitter.com/search?q=%23WoodstockAI) | N/A |
-| 8 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 9 | [Carlsbad](http://twitter.com/search?q=Carlsbad) | N/A |
-| 10 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 11 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 12 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 14 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 15 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 16 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 17 | [Happy TDOV](http://twitter.com/search?q=Happy+TDOV) | N/A |
-| 18 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 19 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 20 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 21 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 22 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 24 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 25 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 26 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 27 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 28 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 29 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 30 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 31 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 32 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
-| 33 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 34 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 35 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 36 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 37 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 38 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 39 | [Stacy](http://twitter.com/search?q=Stacy) | N/A |
-| 40 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 41 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 42 | [Eddie Kingston](http://twitter.com/search?q=Eddie+Kingston) | N/A |
-| 43 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 44 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
-| 45 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 46 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 47 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
-| 48 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 49 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
+| 3 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 9 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 12 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 14 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 17 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 20 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 21 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 22 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 23 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 24 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 25 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 26 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 27 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 28 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 29 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 30 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 31 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 32 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 33 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 34 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 35 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 36 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 37 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 38 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 39 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 40 | [wendys](http://twitter.com/search?q=wendys) | N/A |
+| 41 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 42 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 43 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 44 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 45 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 47 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
+| 48 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 49 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
+| 50 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
 
 
 

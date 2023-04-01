@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-04-01 03:16:42 UTC`
+📆 Last Updated: `2023-04-01 04:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 2 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
-| 3 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 4 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 5 | [Hooley](http://twitter.com/search?q=Hooley) | N/A |
-| 6 | [#slhkrlee](http://twitter.com/search?q=%23slhkrlee) | N/A |
-| 7 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [#ROHSuperCardOfHonor](http://twitter.com/search?q=%23ROHSuperCardOfHonor) | N/A |
-| 13 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 16 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 17 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 18 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 19 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 21 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 23 | [Athena](http://twitter.com/search?q=Athena) | N/A |
-| 24 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 25 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 27 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 28 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
-| 29 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 30 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 31 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 32 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
-| 33 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 34 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
-| 35 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 36 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 37 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 38 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 39 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 40 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
-| 41 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 42 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
-| 43 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
+| 1 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 2 | [#5albums92](http://twitter.com/search?q=%235albums92) | N/A |
+| 3 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 4 | [#SLHKRLee](http://twitter.com/search?q=%23SLHKRLee) | N/A |
+| 5 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 6 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 8 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 9 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 11 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
+| 12 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 13 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 14 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
+| 15 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 16 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
+| 17 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 18 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
+| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 20 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 22 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
+| 23 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 24 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 25 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 26 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
+| 27 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 28 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 30 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 31 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 32 | [Dara](http://twitter.com/search?q=Dara) | N/A |
+| 33 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 34 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
+| 35 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
+| 36 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 37 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
+| 38 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 39 | [Ghosts](http://twitter.com/search?q=Ghosts) | N/A |
+| 40 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 41 | [Driver](http://twitter.com/search?q=Driver) | N/A |
+| 42 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 43 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 44 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 45 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 46 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
+| 47 | [Hugh](http://twitter.com/search?q=Hugh) | N/A |
+| 48 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 49 | [Kemi Badenoch](http://twitter.com/search?q=Kemi+Badenoch) | N/A |
 
 
 

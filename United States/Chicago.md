@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-01 03:17:20 UTC`
+📆 Last Updated: `2023-04-01 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#C2E2](http://twitter.com/search?q=%23C2E2) | N/A |
-| 2 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 3 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 3 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 4 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 | 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 6 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
 | 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
 | 10 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 13 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 16 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 17 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 18 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 21 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 22 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 24 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 25 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 28 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 29 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 30 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 31 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 32 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 33 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 34 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 35 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 36 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 37 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 38 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 39 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 40 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 11 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 13 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 14 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 18 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 20 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 21 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 22 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 23 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 24 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 26 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 27 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 28 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 29 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 30 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 31 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 32 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 33 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 34 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 35 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 36 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 37 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 38 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 39 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 40 | [wendys](http://twitter.com/search?q=wendys) | N/A |
 | 41 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 42 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 43 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 44 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 45 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 46 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 47 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 48 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 49 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 50 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 42 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 43 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 44 | [Go Blue](http://twitter.com/search?q=Go+Blue) | N/A |
+| 45 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 46 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 47 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 48 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
+| 49 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 50 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
 
 
 

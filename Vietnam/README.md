@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-01 03:17:35 UTC`
+📆 Last Updated: `2023-04-01 04:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Vietnam
 | 6 | [#lisaxceline](http://twitter.com/search?q=%23lisaxceline) | N/A |
 | 7 | [bsumbody to sumone](http://twitter.com/search?q=bsumbody+to+sumone) | N/A |
 | 8 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
-| 9 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 9 | [better management of r to v](http://twitter.com/search?q=better+management+of+r+to+v) | N/A |
 | 10 | [bigger venues for r to v](http://twitter.com/search?q=bigger+venues+for+r+to+v) | N/A |
 | 11 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
 | 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for Vietnam
 | 22 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
 | 23 | [Quest](http://twitter.com/search?q=Quest) | N/A |
 | 24 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 25 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 25 | [starknet](http://twitter.com/search?q=starknet) | N/A |
 | 26 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 | 27 | [fff asean party](http://twitter.com/search?q=fff+asean+party) | N/A |
 | 28 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
@@ -53,10 +53,10 @@ This is top 50 for Vietnam
 | 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 37 | [Details](http://twitter.com/search?q=Details) | N/A |
 | 38 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 39 | [chia](http://twitter.com/search?q=chia) | N/A |
+| 39 | [Chia](http://twitter.com/search?q=Chia) | N/A |
 | 40 | [trung quốc](http://twitter.com/search?q=trung+qu%e1%bb%91c) | N/A |
 | 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 42 | [Tháng 4](http://twitter.com/search?q=Th%c3%a1ng+4) | N/A |
+| 42 | [tháng 4](http://twitter.com/search?q=th%c3%a1ng+4) | N/A |
 | 43 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
 | 44 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 45 | [Theo](http://twitter.com/search?q=Theo) | N/A |

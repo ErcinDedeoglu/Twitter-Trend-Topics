@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-04-01 03:16:46 UTC`
+📆 Last Updated: `2023-04-01 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 2 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
 | 3 | [#TenemosDerechoA](http://twitter.com/search?q=%23TenemosDerechoA) | N/A |
-| 4 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 5 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 6 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
-| 7 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 8 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
-| 9 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 10 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 4 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 5 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
+| 6 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
+| 7 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 8 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 9 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 10 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
 | 11 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
-| 12 | [Tramposos](http://twitter.com/search?q=Tramposos) | N/A |
-| 13 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 14 | [Sebastián Montoya](http://twitter.com/search?q=Sebasti%c3%a1n+Montoya) | N/A |
-| 15 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 12 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
+| 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 14 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 15 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
 | 16 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 17 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 18 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 19 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
-| 20 | [Mañosos](http://twitter.com/search?q=Ma%c3%b1osos) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 23 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 24 | [Armero](http://twitter.com/search?q=Armero) | N/A |
-| 25 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 26 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 27 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 28 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
-| 29 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 30 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 31 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 32 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 33 | [Aldair Quintana](http://twitter.com/search?q=Aldair+Quintana) | N/A |
-| 34 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
-| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 36 | [Aleja](http://twitter.com/search?q=Aleja) | N/A |
-| 37 | [Colapinto](http://twitter.com/search?q=Colapinto) | N/A |
-| 38 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 39 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 40 | [Fórmula 3](http://twitter.com/search?q=F%c3%b3rmula+3) | N/A |
-| 41 | [Genoveva](http://twitter.com/search?q=Genoveva) | N/A |
-| 42 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 43 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 44 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 45 | [Dama](http://twitter.com/search?q=Dama) | N/A |
-| 46 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 47 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
-| 48 | [Dane](http://twitter.com/search?q=Dane) | N/A |
-| 49 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 19 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 20 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 21 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 22 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
+| 23 | [Tramposos](http://twitter.com/search?q=Tramposos) | N/A |
+| 24 | [Mañosos](http://twitter.com/search?q=Ma%c3%b1osos) | N/A |
+| 25 | [armero](http://twitter.com/search?q=armero) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [Camilo Ávila](http://twitter.com/search?q=Camilo+%c3%81vila) | N/A |
+| 30 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 31 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 32 | [Sebastián Montoya](http://twitter.com/search?q=Sebasti%c3%a1n+Montoya) | N/A |
+| 33 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 34 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 35 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 36 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
+| 37 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 38 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
+| 39 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
+| 40 | [Genoveva](http://twitter.com/search?q=Genoveva) | N/A |
+| 41 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 42 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 43 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 44 | [Dama](http://twitter.com/search?q=Dama) | N/A |
+| 45 | [Llorelo](http://twitter.com/search?q=Llorelo) | N/A |
+| 46 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
+| 47 | [Boyacá Chicó](http://twitter.com/search?q=Boyac%c3%a1+Chic%c3%b3) | N/A |
+| 48 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 49 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
 
 
 

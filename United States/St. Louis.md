@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-04-01 03:17:26 UTC`
+📆 Last Updated: `2023-04-01 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#stlwx](http://twitter.com/search?q=%23stlwx) | N/A |
-| 2 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 6 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 9 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 10 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 11 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 13 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 14 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 15 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 16 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 17 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 18 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 19 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 20 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 21 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 23 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 24 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 26 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 27 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 28 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 29 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 30 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 31 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 32 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 33 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 34 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 35 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 36 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 37 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 38 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 39 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 40 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 41 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 42 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 43 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 44 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 45 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 46 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
-| 47 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 3 | [#stlwx](http://twitter.com/search?q=%23stlwx) | N/A |
+| 4 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 5 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 8 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 9 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 10 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 15 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 16 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 17 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 18 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 19 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 20 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 21 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 22 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 23 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 24 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 25 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 26 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 27 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 29 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 30 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 31 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 32 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
+| 33 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 34 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 35 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
+| 36 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 37 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 38 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 39 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 40 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 41 | [Stacy Keibler](http://twitter.com/search?q=Stacy+Keibler) | N/A |
+| 42 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 44 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 45 | [She is HER](http://twitter.com/search?q=She+is+HER) | N/A |
+| 46 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
+| 47 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
+| 48 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
+| 49 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
+| 50 | [The 1](http://twitter.com/search?q=The+1) | N/A |
 
 
 

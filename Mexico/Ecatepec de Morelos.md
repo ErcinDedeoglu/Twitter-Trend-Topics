@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-04-01 03:16:44 UTC`
+📆 Last Updated: `2023-04-01 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
-| 2 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
-| 3 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 4 | [ERES IMPLACABLE MATI](http://twitter.com/search?q=ERES+IMPLACABLE+MATI) | N/A |
-| 5 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 6 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
-| 7 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 8 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 9 | [Maru](http://twitter.com/search?q=Maru) | N/A |
-| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 11 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 12 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
-| 15 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 16 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 17 | [calum](http://twitter.com/search?q=calum) | N/A |
-| 18 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 20 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 21 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 22 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 23 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 24 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 25 | [Julieta Venegas](http://twitter.com/search?q=Julieta+Venegas) | N/A |
-| 26 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
-| 27 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 28 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 29 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 30 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 31 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 32 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
-| 33 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 34 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 35 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 36 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 37 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 38 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 39 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 40 | [#SupervivenciaEnExatlón](http://twitter.com/search?q=%23SupervivenciaEnExatl%c3%b3n) | N/A |
-| 41 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 42 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 43 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 44 | [#RULESINMTVMIAW](http://twitter.com/search?q=%23RULESINMTVMIAW) | N/A |
-| 45 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 46 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 47 | [#YaPagameBaks](http://twitter.com/search?q=%23YaPagameBaks) | N/A |
-| 48 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
-| 49 | [#beckysangels](http://twitter.com/search?q=%23beckysangels) | N/A |
+| 1 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
+| 2 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
+| 3 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 4 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 5 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 6 | [#poderosoconsalsa](http://twitter.com/search?q=%23poderosoconsalsa) | N/A |
+| 7 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 8 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 9 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 10 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 11 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 12 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
+| 13 | [RULÉS IN MTV MIAW](http://twitter.com/search?q=RUL%c3%89S+IN+MTV+MIAW) | N/A |
+| 14 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 15 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 16 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 18 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 19 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 20 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 21 | [De la Madrid](http://twitter.com/search?q=De+la+Madrid) | N/A |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 26 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 27 | [Horacio Villalobos](http://twitter.com/search?q=Horacio+Villalobos) | N/A |
+| 28 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 29 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
+| 30 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 31 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 32 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 33 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 34 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 35 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 36 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
+| 37 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
+| 38 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
+| 39 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 40 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 41 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 42 | [Hoy 31](http://twitter.com/search?q=Hoy+31) | N/A |
+| 43 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
+| 44 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
+| 45 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 46 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 47 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 48 | [Ana Francisca](http://twitter.com/search?q=Ana+Francisca) | N/A |
+| 49 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
 
 
 

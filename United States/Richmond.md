@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-04-01 03:17:25 UTC`
+📆 Last Updated: `2023-04-01 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 1 | [Hokie](http://twitter.com/search?q=Hokie) | N/A |
+| 2 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 5 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 6 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 12 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 15 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 17 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 20 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 25 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 26 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 27 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 29 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 30 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 31 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 32 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 33 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 34 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 35 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 36 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 37 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 38 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 39 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 40 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 41 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 42 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 43 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 44 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 45 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 46 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 47 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 48 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 49 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 50 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 4 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
+| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 6 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 9 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 10 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 11 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 12 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 13 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 14 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 15 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 18 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 19 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 20 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 21 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 22 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 24 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 25 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 26 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 27 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 28 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 29 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 30 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 31 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 32 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 33 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 34 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 35 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 36 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
+| 37 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 38 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 39 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
+| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 41 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 42 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 43 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 44 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 45 | [Stacy Keibler](http://twitter.com/search?q=Stacy+Keibler) | N/A |
+| 46 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 47 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 48 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 49 | [She is HER](http://twitter.com/search?q=She+is+HER) | N/A |
 
 
 

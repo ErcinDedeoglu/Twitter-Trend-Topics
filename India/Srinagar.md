@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-01 03:17:15 UTC`
+📆 Last Updated: `2023-04-01 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 2 | [#ConfluenceOfAllReligions](http://twitter.com/search?q=%23ConfluenceOfAllReligions) | N/A |
-| 3 | [#लोकतंत्र_का_चौथा_स्तंभ](http://twitter.com/search?q=%23%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%95%e0%a4%be_%e0%a4%9a%e0%a5%8c%e0%a4%a5%e0%a4%be_%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%82%e0%a4%ad) | N/A |
-| 4 | [Silent Mode](http://twitter.com/search?q=Silent+Mode) | N/A |
+| 1 | [#ConfluenceOfAllReligions](http://twitter.com/search?q=%23ConfluenceOfAllReligions) | N/A |
+| 2 | [#लोकतंत्र_का_चौथा_स्तंभ](http://twitter.com/search?q=%23%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%95%e0%a4%be_%e0%a4%9a%e0%a5%8c%e0%a4%a5%e0%a4%be_%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%82%e0%a4%ad) | N/A |
+| 3 | [Silent Mode](http://twitter.com/search?q=Silent+Mode) | N/A |
+| 4 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
 | 5 | [No Breaking News](http://twitter.com/search?q=No+Breaking+News) | N/A |
-| 6 | [#cskvsgt](http://twitter.com/search?q=%23cskvsgt) | N/A |
-| 7 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 8 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 6 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 7 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 8 | [#UtkalDivas](http://twitter.com/search?q=%23UtkalDivas) | N/A |
 | 9 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
-| 10 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 11 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 12 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 13 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 14 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 15 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 16 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 17 | [भारतीय मीडिया](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a5%80%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 18 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 19 | [भगवान जगन्नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%97%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 20 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 21 | [भारतीय रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 22 | [Arijit Singh](http://twitter.com/search?q=Arijit+Singh) | N/A |
-| 23 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 24 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 25 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
-| 26 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 27 | [Degree](http://twitter.com/search?q=Degree) | N/A |
-| 28 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 29 | [vijay shankar](http://twitter.com/search?q=vijay+shankar) | N/A |
-| 30 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 31 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
-| 32 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 33 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
-| 34 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 35 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 36 | [fancode t20fest](http://twitter.com/search?q=fancode+t20fest) | N/A |
-| 37 | [Project Tiger](http://twitter.com/search?q=Project+Tiger) | N/A |
-| 38 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 39 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 40 | [नगरी भोपाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a5%80+%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 41 | [saiya winning hearts](http://twitter.com/search?q=saiya+winning+hearts) | N/A |
-| 42 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 43 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 44 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
-| 45 | [गुरमीत राम रहीम](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a4%ae%e0%a5%80%e0%a4%a4+%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b9%e0%a5%80%e0%a4%ae) | N/A |
-| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 47 | [nita ambani](http://twitter.com/search?q=nita+ambani) | N/A |
+| 10 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 11 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 12 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 13 | [भगवान जगन्नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%97%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 14 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 15 | [भारतीय रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 16 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 17 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [भीम आर्मी](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae+%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80) | N/A |
+| 20 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 21 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 22 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 23 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 24 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
+| 25 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
+| 26 | [#UtkalaDibasa](http://twitter.com/search?q=%23UtkalaDibasa) | N/A |
+| 27 | [#ଉତ୍କଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%89%e0%ac%a4%e0%ad%8d%e0%ac%95%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
+| 28 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 29 | [#75thFoundationMonth](http://twitter.com/search?q=%2375thFoundationMonth) | N/A |
+| 30 | [#GodMorningSaturday](http://twitter.com/search?q=%23GodMorningSaturday) | N/A |
+| 31 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 32 | [#ShivakumaraSwamiji](http://twitter.com/search?q=%23ShivakumaraSwamiji) | N/A |
+| 33 | [#OdishaDay](http://twitter.com/search?q=%23OdishaDay) | N/A |
+| 34 | [#KeshavBaliramHedgewar](http://twitter.com/search?q=%23KeshavBaliramHedgewar) | N/A |
+| 35 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 36 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 37 | [#LSGvDC](http://twitter.com/search?q=%23LSGvDC) | N/A |
+| 38 | [#BandeUtkalaJanani](http://twitter.com/search?q=%23BandeUtkalaJanani) | N/A |
+| 39 | [#ବନ୍ଦେଉତ୍କଳଜନନୀ](http://twitter.com/search?q=%23%e0%ac%ac%e0%ac%a8%e0%ad%8d%e0%ac%a6%e0%ad%87%e0%ac%89%e0%ac%a4%e0%ad%8d%e0%ac%95%e0%ac%b3%e0%ac%9c%e0%ac%a8%e0%ac%a8%e0%ad%80) | N/A |
+| 40 | [#KKRvsPBKS](http://twitter.com/search?q=%23KKRvsPBKS) | N/A |
+| 41 | [#Saturdaythoughts](http://twitter.com/search?q=%23Saturdaythoughts) | N/A |
+| 42 | [#newfinancialyear](http://twitter.com/search?q=%23newfinancialyear) | N/A |
+| 43 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 44 | [#AndrewTate](http://twitter.com/search?q=%23AndrewTate) | N/A |
+| 45 | [#modidegree](http://twitter.com/search?q=%23modidegree) | N/A |
+| 46 | [#अल्लाह_कबीर](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 47 | [#NavjotSinghSidhu](http://twitter.com/search?q=%23NavjotSinghSidhu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-04-01 03:16:46 UTC`
+📆 Last Updated: `2023-04-01 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 2 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
-| 3 | [#TenemosDerechoA](http://twitter.com/search?q=%23TenemosDerechoA) | N/A |
-| 4 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 5 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 6 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
-| 7 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 8 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
-| 9 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 10 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 11 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
-| 12 | [Tramposos](http://twitter.com/search?q=Tramposos) | N/A |
-| 13 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 14 | [Sebastián Montoya](http://twitter.com/search?q=Sebasti%c3%a1n+Montoya) | N/A |
-| 15 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 16 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 17 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 18 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 19 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
-| 20 | [Mañosos](http://twitter.com/search?q=Ma%c3%b1osos) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 23 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 24 | [Armero](http://twitter.com/search?q=Armero) | N/A |
-| 25 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 26 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 27 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 28 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
-| 29 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 30 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 31 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 32 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 33 | [Aldair Quintana](http://twitter.com/search?q=Aldair+Quintana) | N/A |
-| 34 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
-| 35 | [Colapinto](http://twitter.com/search?q=Colapinto) | N/A |
-| 36 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 39 | [Fórmula 3](http://twitter.com/search?q=F%c3%b3rmula+3) | N/A |
-| 40 | [Genoveva](http://twitter.com/search?q=Genoveva) | N/A |
-| 41 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 42 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 43 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 44 | [Aleja](http://twitter.com/search?q=Aleja) | N/A |
-| 45 | [Dama](http://twitter.com/search?q=Dama) | N/A |
-| 46 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
-| 47 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 48 | [Dane](http://twitter.com/search?q=Dane) | N/A |
-| 49 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 50 | [Servicio Geológico Colombiano](http://twitter.com/search?q=Servicio+Geol%c3%b3gico+Colombiano) | N/A |
+| 1 | [#TenemosDerechoA](http://twitter.com/search?q=%23TenemosDerechoA) | N/A |
+| 2 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 3 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 4 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 5 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
+| 6 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
+| 7 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
+| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 9 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
+| 10 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [#RenuncieCorcho](http://twitter.com/search?q=%23RenuncieCorcho) | N/A |
+| 13 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 14 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 15 | [Levante Las Planas](http://twitter.com/search?q=Levante+Las+Planas) | N/A |
+| 16 | [#MovistarArena](http://twitter.com/search?q=%23MovistarArena) | N/A |
+| 17 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 18 | [#cuidadosintensivospara](http://twitter.com/search?q=%23cuidadosintensivospara) | N/A |
+| 19 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 20 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 21 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 22 | [Armero](http://twitter.com/search?q=Armero) | N/A |
+| 23 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
+| 24 | [DIAN](http://twitter.com/search?q=DIAN) | N/A |
+| 25 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 26 | [Gilinski](http://twitter.com/search?q=Gilinski) | N/A |
+| 27 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
+| 28 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
+| 29 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 30 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
+| 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 32 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 33 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
+| 34 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 35 | [herazo](http://twitter.com/search?q=herazo) | N/A |
+| 36 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 37 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
+| 38 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 39 | [Aerolíneas](http://twitter.com/search?q=Aerol%c3%adneas) | N/A |
+| 40 | [Manizales](http://twitter.com/search?q=Manizales) | N/A |
+| 41 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 42 | [Dama](http://twitter.com/search?q=Dama) | N/A |
+| 43 | [Impostor](http://twitter.com/search?q=Impostor) | N/A |
+| 44 | [Servicio Geológico Colombiano](http://twitter.com/search?q=Servicio+Geol%c3%b3gico+Colombiano) | N/A |
+| 45 | [aburridos](http://twitter.com/search?q=aburridos) | N/A |
+| 46 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 47 | [FAC 001](http://twitter.com/search?q=FAC+001) | N/A |
+| 48 | [jordan barrera](http://twitter.com/search?q=jordan+barrera) | N/A |
+| 49 | [Germán Gutiérrez](http://twitter.com/search?q=Germ%c3%a1n+Guti%c3%a9rrez) | N/A |
+| 50 | [Fuerza Aérea](http://twitter.com/search?q=Fuerza+A%c3%a9rea) | N/A |
 
 
 

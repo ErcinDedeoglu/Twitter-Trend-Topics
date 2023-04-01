@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-04-01 03:17:14 UTC`
+📆 Last Updated: `2023-04-01 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NationStandswithCJP](http://twitter.com/search?q=%23NationStandswithCJP) | N/A |
-| 2 | [#عدالتوں_کو_دھمکانا_بند_کرو](http://twitter.com/search?q=%23%d8%b9%d8%af%d8%a7%d9%84%d8%aa%d9%88%da%ba_%da%a9%d9%88_%d8%af%da%be%d9%85%da%a9%d8%a7%d9%86%d8%a7_%d8%a8%d9%86%d8%af_%da%a9%d8%b1%d9%88) | N/A |
-| 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
-| 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
-| 5 | [#Supreme_Court_Of_Pakistan](http://twitter.com/search?q=%23Supreme_Court_Of_Pakistan) | N/A |
+| 2 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
+| 3 | [#عدالتوں_کو_دھمکانا_بند_کرو](http://twitter.com/search?q=%23%d8%b9%d8%af%d8%a7%d9%84%d8%aa%d9%88%da%ba_%da%a9%d9%88_%d8%af%da%be%d9%85%da%a9%d8%a7%d9%86%d8%a7_%d8%a8%d9%86%d8%af_%da%a9%d8%b1%d9%88) | N/A |
+| 4 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
+| 5 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 7 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 8 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 9 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 10 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 11 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
-| 12 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 13 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
-| 14 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 15 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
-| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 17 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
-| 18 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 19 | [Absolutely YES](http://twitter.com/search?q=Absolutely+YES) | N/A |
-| 20 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
-| 21 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 22 | [2nd friday of ramadan](http://twitter.com/search?q=2nd+friday+of+ramadan) | N/A |
-| 23 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 24 | [salman taseer](http://twitter.com/search?q=salman+taseer) | N/A |
+| 7 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 8 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 9 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
+| 10 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
+| 11 | [April Fool](http://twitter.com/search?q=April+Fool) | N/A |
+| 12 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
+| 13 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 14 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 15 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
+| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 17 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 18 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
+| 19 | [mother of syeda](http://twitter.com/search?q=mother+of+syeda) | N/A |
+| 20 | [james anderson](http://twitter.com/search?q=james+anderson) | N/A |
+| 21 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 22 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
+| 23 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 24 | [Mir Ali](http://twitter.com/search?q=Mir+Ali) | N/A |
 | 25 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 26 | [sepoy irshad ullah](http://twitter.com/search?q=sepoy+irshad+ullah) | N/A |
-| 27 | [REGISTRAR](http://twitter.com/search?q=REGISTRAR) | N/A |
-| 28 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 29 | [London](http://twitter.com/search?q=London) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [Wowww](http://twitter.com/search?q=Wowww) | N/A |
-| 33 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 34 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 35 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 36 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 37 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 38 | [Okayy](http://twitter.com/search?q=Okayy) | N/A |
-| 39 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 40 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 41 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 42 | [False](http://twitter.com/search?q=False) | N/A |
-| 43 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 44 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 45 | [Samee](http://twitter.com/search?q=Samee) | N/A |
-| 46 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 47 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 48 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 49 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 50 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 26 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 27 | [Ruturaj Gaikwad](http://twitter.com/search?q=Ruturaj+Gaikwad) | N/A |
+| 28 | [Absolutely YES](http://twitter.com/search?q=Absolutely+YES) | N/A |
+| 29 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 30 | [VIII in India](http://twitter.com/search?q=VIII+in+India) | N/A |
+| 31 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 32 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 33 | [May Allah Pak](http://twitter.com/search?q=May+Allah+Pak) | N/A |
+| 34 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 35 | [Valid](http://twitter.com/search?q=Valid) | N/A |
+| 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 37 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 38 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
+| 39 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 40 | [Honey](http://twitter.com/search?q=Honey) | N/A |
+| 41 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 42 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 43 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 45 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 46 | [Deserved](http://twitter.com/search?q=Deserved) | N/A |
+| 47 | [Ahsan](http://twitter.com/search?q=Ahsan) | N/A |
+| 48 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 49 | [London](http://twitter.com/search?q=London) | N/A |
+| 50 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 
 
 

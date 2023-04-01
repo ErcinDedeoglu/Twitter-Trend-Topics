@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-01 03:17:32 UTC`
+📆 Last Updated: `2023-04-01 04:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,21 +18,21 @@ This is top 50 for Latvia
 | 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
 | 2 | [jūrmalā](http://twitter.com/search?q=j%c5%abrmal%c4%81) | N/A |
 | 3 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 4 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 5 | [satekles](http://twitter.com/search?q=satekles) | N/A |
-| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 8 | [delfi](http://twitter.com/search?q=delfi) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
-| 11 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 12 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
-| 13 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 14 | [csdd](http://twitter.com/search?q=csdd) | N/A |
-| 15 | [turies](http://twitter.com/search?q=turies) | N/A |
-| 16 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 17 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 18 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 4 | [satekles](http://twitter.com/search?q=satekles) | N/A |
+| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 6 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 7 | [delfi](http://twitter.com/search?q=delfi) | N/A |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
+| 10 | [No 1](http://twitter.com/search?q=No+1) | N/A |
+| 11 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
+| 12 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 13 | [csdd](http://twitter.com/search?q=csdd) | N/A |
+| 14 | [turies](http://twitter.com/search?q=turies) | N/A |
+| 15 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 16 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 17 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 18 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 19 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
 | 20 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
 | 21 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
@@ -43,27 +43,27 @@ This is top 50 for Latvia
 | 26 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 27 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 28 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 29 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
-| 30 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 31 | [tevi](http://twitter.com/search?q=tevi) | N/A |
-| 32 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
-| 33 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 34 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 35 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 36 | [Zviedrijā](http://twitter.com/search?q=Zviedrij%c4%81) | N/A |
-| 37 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 38 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 39 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 29 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 30 | [tevi](http://twitter.com/search?q=tevi) | N/A |
+| 31 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
+| 32 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 33 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 34 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 35 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 36 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 37 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 38 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 39 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
 | 40 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 41 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 42 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 45 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 46 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 47 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
-| 48 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 49 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 41 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 42 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
+| 43 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 46 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 47 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 48 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
+| 49 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
 | 50 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 

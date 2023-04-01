@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-01 03:17:26 UTC`
+📆 Last Updated: `2023-04-01 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 3 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 6 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 8 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 9 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 10 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
-| 11 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 12 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 13 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 14 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 15 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 16 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 17 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 18 | [Stacy](http://twitter.com/search?q=Stacy) | N/A |
-| 19 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 20 | [Eddie Kingston](http://twitter.com/search?q=Eddie+Kingston) | N/A |
-| 21 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 22 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
-| 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 24 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 25 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
-| 26 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 27 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 28 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 29 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 30 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 31 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 32 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 33 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 34 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 35 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
-| 36 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 37 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
-| 38 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 39 | [Graveman](http://twitter.com/search?q=Graveman) | N/A |
-| 40 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 41 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 42 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
-| 43 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
-| 44 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 45 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 46 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 47 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 48 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 49 | [THE 1](http://twitter.com/search?q=THE+1) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 6 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 7 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 10 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 12 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 15 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 16 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 18 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 19 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 20 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 23 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 24 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 25 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 26 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 27 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 28 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 29 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 30 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 31 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 32 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 33 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 34 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 35 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 36 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 37 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 38 | [wendys](http://twitter.com/search?q=wendys) | N/A |
+| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 40 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 41 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 42 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 43 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 44 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
+| 45 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 46 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
+| 47 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 48 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
+| 49 | [Perk](http://twitter.com/search?q=Perk) | N/A |
 
 
 

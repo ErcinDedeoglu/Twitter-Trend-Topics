@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-04-01 03:16:55 UTC`
+📆 Last Updated: `2023-04-01 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 2 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 3 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 4 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
-| 5 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 6 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 7 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 8 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 9 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 12 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
-| 13 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 14 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 15 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 17 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 18 | [bozen](http://twitter.com/search?q=bozen) | N/A |
-| 19 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 20 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
-| 21 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 22 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 23 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 24 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 25 | [serena rossi](http://twitter.com/search?q=serena+rossi) | N/A |
-| 26 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 27 | [Partita](http://twitter.com/search?q=Partita) | N/A |
-| 28 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
-| 29 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 30 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 31 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
-| 32 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
-| 33 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 34 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 35 | [Giuly](http://twitter.com/search?q=Giuly) | N/A |
-| 36 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 37 | [appendino](http://twitter.com/search?q=appendino) | N/A |
-| 38 | [Fariba](http://twitter.com/search?q=Fariba) | N/A |
-| 39 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 40 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 41 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 42 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 43 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 44 | [draghi](http://twitter.com/search?q=draghi) | N/A |
-| 45 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 46 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 47 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 48 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 49 | [tajani](http://twitter.com/search?q=tajani) | N/A |
+| 1 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 2 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
+| 3 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 4 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 5 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 6 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 7 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 8 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 9 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 10 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 11 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 12 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 13 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 14 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 15 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 16 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 17 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 18 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 19 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 20 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 21 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
+| 22 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
+| 23 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 24 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 25 | [Serena Rossi](http://twitter.com/search?q=Serena+Rossi) | N/A |
+| 26 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 27 | [specchia](http://twitter.com/search?q=specchia) | N/A |
+| 28 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 29 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 30 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 31 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 32 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 33 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 34 | [capuano](http://twitter.com/search?q=capuano) | N/A |
+| 35 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
+| 36 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 37 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 38 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 39 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 40 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 41 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 42 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
+| 43 | [Cavour](http://twitter.com/search?q=Cavour) | N/A |
+| 44 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 45 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 46 | [Sogni](http://twitter.com/search?q=Sogni) | N/A |
+| 47 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 48 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 49 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
 
 
 

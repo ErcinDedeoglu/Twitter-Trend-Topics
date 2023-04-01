@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-01 03:17:27 UTC`
+📆 Last Updated: `2023-04-01 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
-| 2 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 5 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 6 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 12 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 14 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 16 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 17 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 18 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 19 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 20 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 21 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 24 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 26 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 27 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 28 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 29 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 31 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 32 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 33 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 34 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 35 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 36 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 37 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 38 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 40 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 41 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 42 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 43 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 44 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 45 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 46 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 47 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 48 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 49 | [Berkey](http://twitter.com/search?q=Berkey) | N/A |
+| 1 | [#Knicks](http://twitter.com/search?q=%23Knicks) | N/A |
+| 2 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 3 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
+| 4 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 5 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 6 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 7 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 8 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 9 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 10 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 11 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 12 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 14 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 16 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 17 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 18 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 19 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 20 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 21 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 22 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 25 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 26 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 27 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 28 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 29 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 30 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 31 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 32 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 33 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 34 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 35 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 36 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 37 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 38 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 39 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 40 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 41 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 42 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 43 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
+| 44 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 45 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 46 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
+| 47 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 48 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 49 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-01 03:17:17 UTC`
+📆 Last Updated: `2023-04-01 04:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KORKMUYORUZ](http://twitter.com/search?q=%23KORKMUYORUZ) | N/A |
-| 2 | [MilletinEvladı İnce](http://twitter.com/search?q=MilletinEvlad%c4%b1+%c4%b0nce) | N/A |
-| 3 | [EceKarataş Merkezde](http://twitter.com/search?q=EceKarata%c5%9f+Merkezde) | N/A |
-| 4 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 5 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 6 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 7 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 8 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
-| 9 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 10 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
-| 11 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 12 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 13 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 14 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 15 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
-| 16 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
-| 17 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 18 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 19 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 20 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 21 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 22 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
-| 23 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
-| 24 | [Kadir İnanır](http://twitter.com/search?q=Kadir+%c4%b0nan%c4%b1r) | N/A |
-| 25 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 26 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
-| 27 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
-| 28 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 29 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
-| 30 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 31 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 32 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
-| 33 | [ÖZÜR DİLE MERAL AKŞENER](http://twitter.com/search?q=%c3%96Z%c3%9cR+D%c4%b0LE+MERAL+AK%c5%9eENER) | N/A |
-| 34 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 35 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 36 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 37 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
-| 38 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
-| 39 | [#yilmazguney](http://twitter.com/search?q=%23yilmazguney) | N/A |
-| 40 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 41 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 42 | [#KizilcikŞerbeti](http://twitter.com/search?q=%23Kizilcik%c5%9eerbeti) | N/A |
-| 43 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 44 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 45 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 46 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 47 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
-| 48 | [#TeşvikDeğilTekKalemMaaş](http://twitter.com/search?q=%23Te%c5%9fvikDe%c4%9filTekKalemMaa%c5%9f) | N/A |
-| 49 | [#YıldızDeBana](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1zDeBana) | N/A |
-| 50 | [#PDRyeYeniNormEkAtama](http://twitter.com/search?q=%23PDRyeYeniNormEkAtama) | N/A |
+| 1 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 2 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 3 | [Seccadeye](http://twitter.com/search?q=Seccadeye) | N/A |
+| 4 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 5 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 6 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 7 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
+| 8 | [#TeşvikDeğilTekKalemMaaş](http://twitter.com/search?q=%23Te%c5%9fvikDe%c4%9filTekKalemMaa%c5%9f) | N/A |
+| 9 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 10 | [DertEkmek DertEhliyet](http://twitter.com/search?q=DertEkmek+DertEhliyet) | N/A |
+| 11 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 12 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 13 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 14 | [Kurtlar](http://twitter.com/search?q=Kurtlar) | N/A |
+| 15 | [Özür](http://twitter.com/search?q=%c3%96z%c3%bcr) | N/A |
+| 16 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
+| 17 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
+| 18 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
+| 19 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 20 | [Milletin İKTİDARINDA](http://twitter.com/search?q=Milletin+%c4%b0KT%c4%b0DARINDA) | N/A |
+| 21 | [Esme](http://twitter.com/search?q=Esme) | N/A |
+| 22 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 23 | [İİBFkadrosuz SandıkOysuz](http://twitter.com/search?q=%c4%b0%c4%b0BFkadrosuz+Sand%c4%b1kOysuz) | N/A |
+| 24 | [Kemalim](http://twitter.com/search?q=Kemalim) | N/A |
+| 25 | [ERDOĞAN DA BİRLEŞELİM](http://twitter.com/search?q=ERDO%c4%9eAN+DA+B%c4%b0RLE%c5%9eEL%c4%b0M) | N/A |
+| 26 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 27 | [Avrupa Yakası](http://twitter.com/search?q=Avrupa+Yakas%c4%b1) | N/A |
+| 28 | [İfakat](http://twitter.com/search?q=%c4%b0fakat) | N/A |
+| 29 | [Emanet](http://twitter.com/search?q=Emanet) | N/A |
+| 30 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 31 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 32 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 33 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 34 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
+| 35 | [Ezel](http://twitter.com/search?q=Ezel) | N/A |
+| 36 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 37 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 38 | [Behzat Ç](http://twitter.com/search?q=Behzat+%c3%87) | N/A |
+| 39 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 40 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
+| 41 | [Yaşar](http://twitter.com/search?q=Ya%c5%9far) | N/A |
+| 42 | [Saldırı](http://twitter.com/search?q=Sald%c4%b1r%c4%b1) | N/A |
+| 43 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 44 | [Olayın](http://twitter.com/search?q=Olay%c4%b1n) | N/A |
+| 45 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
+| 46 | [Kurşun](http://twitter.com/search?q=Kur%c5%9fun) | N/A |
+| 47 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
+| 48 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
+| 49 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
 
 
 

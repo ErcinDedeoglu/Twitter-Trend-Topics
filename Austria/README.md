@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-01 03:17:28 UTC`
+📆 Last Updated: `2023-04-01 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Austria
 | 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 3 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 4 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 5 | [schmid](http://twitter.com/search?q=schmid) | N/A |
-| 6 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
-| 7 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 5 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
+| 6 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 7 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
 | 8 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
 | 9 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
 | 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 11 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 12 | [Mitbestimmung](http://twitter.com/search?q=Mitbestimmung) | N/A |
 | 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [sitzung](http://twitter.com/search?q=sitzung) | N/A |
-| 15 | [Saal](http://twitter.com/search?q=Saal) | N/A |
-| 16 | [Termine](http://twitter.com/search?q=Termine) | N/A |
-| 17 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 18 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
+| 14 | [Saal](http://twitter.com/search?q=Saal) | N/A |
+| 15 | [Termine](http://twitter.com/search?q=Termine) | N/A |
+| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 17 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 18 | [Herren](http://twitter.com/search?q=Herren) | N/A |
+| 19 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
+| 20 | [Sitzung](http://twitter.com/search?q=Sitzung) | N/A |
 | 21 | [stiftungen](http://twitter.com/search?q=stiftungen) | N/A |
-| 22 | [Herren](http://twitter.com/search?q=Herren) | N/A |
-| 23 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 24 | [Chats](http://twitter.com/search?q=Chats) | N/A |
-| 25 | [fernbleiben](http://twitter.com/search?q=fernbleiben) | N/A |
-| 26 | [inserate](http://twitter.com/search?q=inserate) | N/A |
-| 27 | [boulevard](http://twitter.com/search?q=boulevard) | N/A |
-| 28 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 29 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 30 | [Kellernazi](http://twitter.com/search?q=Kellernazi) | N/A |
-| 31 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 32 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 22 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 25 | [chats](http://twitter.com/search?q=chats) | N/A |
+| 26 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 27 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
+| 28 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
+| 29 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 30 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 31 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 32 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
 | 33 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 34 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
 | 35 | [eklat](http://twitter.com/search?q=eklat) | N/A |
-| 36 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 37 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
-| 38 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 39 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 40 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 41 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
-| 42 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 43 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 44 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 45 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 46 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 47 | [Methode](http://twitter.com/search?q=Methode) | N/A |
-| 48 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 49 | [ausreden](http://twitter.com/search?q=ausreden) | N/A |
-| 50 | [FPÖler](http://twitter.com/search?q=FP%c3%96ler) | N/A |
+| 36 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
+| 37 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 38 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 39 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
+| 40 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 41 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
+| 42 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 43 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 44 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 45 | [Methode](http://twitter.com/search?q=Methode) | N/A |
+| 46 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 47 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 48 | [fpöler](http://twitter.com/search?q=fp%c3%b6ler) | N/A |
+| 49 | [ANWESENHEIT](http://twitter.com/search?q=ANWESENHEIT) | N/A |
+| 50 | [positionierung](http://twitter.com/search?q=positionierung) | N/A |
 
 
 

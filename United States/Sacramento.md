@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-01 03:17:25 UTC`
+📆 Last Updated: `2023-04-01 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
 | 3 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 4 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 5 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 7 | [#DnDMovie](http://twitter.com/search?q=%23DnDMovie) | N/A |
-| 8 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 9 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 10 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 11 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 12 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 19 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 20 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 21 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 22 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 24 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 26 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 27 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 28 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 29 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 31 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 32 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 33 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 34 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 35 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 36 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 37 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 38 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 39 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 40 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 41 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
-| 42 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 43 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 44 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 45 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 46 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 47 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 48 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 49 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 50 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 9 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 12 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 14 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 17 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
+| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 20 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 21 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 22 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 23 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 24 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 25 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 26 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 27 | [Rodney Parham](http://twitter.com/search?q=Rodney+Parham) | N/A |
+| 28 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 29 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 30 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 31 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 32 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 33 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 34 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 35 | [TAKE COVER NOW](http://twitter.com/search?q=TAKE+COVER+NOW) | N/A |
+| 36 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
+| 37 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 38 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
+| 39 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 40 | [wendys](http://twitter.com/search?q=wendys) | N/A |
+| 41 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 42 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 43 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 44 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 45 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 46 | [The Algorithm](http://twitter.com/search?q=The+Algorithm) | N/A |
+| 47 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 48 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
+| 49 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 50 | [Normalizing](http://twitter.com/search?q=Normalizing) | N/A |
 
 
 

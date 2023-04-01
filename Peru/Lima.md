@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-01 03:16:48 UTC`
+📆 Last Updated: `2023-04-01 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 2 | [Olivares](http://twitter.com/search?q=Olivares) | N/A |
-| 3 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 5 | [Apdayc](http://twitter.com/search?q=Apdayc) | N/A |
-| 6 | [Loyola](http://twitter.com/search?q=Loyola) | N/A |
-| 7 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 8 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 9 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
-| 10 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
-| 11 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 12 | [Merly](http://twitter.com/search?q=Merly) | N/A |
-| 13 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
-| 14 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 15 | [Cristal](http://twitter.com/search?q=Cristal) | N/A |
-| 16 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
-| 17 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 18 | [Indecopi](http://twitter.com/search?q=Indecopi) | N/A |
-| 19 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 20 | [ENRIQUE WONG](http://twitter.com/search?q=ENRIQUE+WONG) | N/A |
-| 21 | [Carolina Braedt](http://twitter.com/search?q=Carolina+Braedt) | N/A |
-| 22 | [#BuddyDaddies](http://twitter.com/search?q=%23BuddyDaddies) | N/A |
-| 23 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
-| 24 | [artika](http://twitter.com/search?q=artika) | N/A |
-| 25 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 26 | [foro de madrid](http://twitter.com/search?q=foro+de+madrid) | N/A |
-| 27 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 28 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 29 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 30 | [Hildebrandt](http://twitter.com/search?q=Hildebrandt) | N/A |
-| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 32 | [Bellido](http://twitter.com/search?q=Bellido) | N/A |
-| 33 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 34 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
-| 35 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 37 | [GASPAR](http://twitter.com/search?q=GASPAR) | N/A |
-| 38 | [job 6](http://twitter.com/search?q=job+6) | N/A |
-| 39 | [Manco](http://twitter.com/search?q=Manco) | N/A |
-| 40 | [iTunes](http://twitter.com/search?q=iTunes) | N/A |
-| 41 | [Arena 1](http://twitter.com/search?q=Arena+1) | N/A |
-| 42 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
-| 43 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 44 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 45 | [Cadena](http://twitter.com/search?q=Cadena) | N/A |
-| 46 | [Comizzo](http://twitter.com/search?q=Comizzo) | N/A |
-| 47 | [becerra](http://twitter.com/search?q=becerra) | N/A |
-| 48 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 49 | [Cuidado](http://twitter.com/search?q=Cuidado) | N/A |
-| 50 | [Rodolfo Orellana](http://twitter.com/search?q=Rodolfo+Orellana) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
+| 3 | [Diego Haro](http://twitter.com/search?q=Diego+Haro) | N/A |
+| 4 | [Geiner Alvarado](http://twitter.com/search?q=Geiner+Alvarado) | N/A |
+| 5 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 6 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
+| 7 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 8 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 9 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 10 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
+| 11 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 12 | [Garcilaso](http://twitter.com/search?q=Garcilaso) | N/A |
+| 13 | [Apdayc](http://twitter.com/search?q=Apdayc) | N/A |
+| 14 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 15 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 16 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 17 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 18 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
+| 19 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 20 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 21 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 22 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
+| 23 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 25 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 26 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 27 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
+| 28 | [Zegarra](http://twitter.com/search?q=Zegarra) | N/A |
+| 29 | [carolina braedt](http://twitter.com/search?q=carolina+braedt) | N/A |
+| 30 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 31 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 32 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
+| 33 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 34 | [morsi](http://twitter.com/search?q=morsi) | N/A |
+| 35 | [Merly](http://twitter.com/search?q=Merly) | N/A |
+| 36 | [Murrugarra](http://twitter.com/search?q=Murrugarra) | N/A |
+| 37 | [Bassco Soyer](http://twitter.com/search?q=Bassco+Soyer) | N/A |
+| 38 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 39 | [Enrique Wong](http://twitter.com/search?q=Enrique+Wong) | N/A |
+| 40 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
+| 41 | [cueto](http://twitter.com/search?q=cueto) | N/A |
+| 42 | [Artika](http://twitter.com/search?q=Artika) | N/A |
+| 43 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
+| 44 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
+| 45 | [JERARQUÍA](http://twitter.com/search?q=JERARQU%c3%8dA) | N/A |
+| 46 | [Oriente o Norte](http://twitter.com/search?q=Oriente+o+Norte) | N/A |
+| 47 | [Cusco](http://twitter.com/search?q=Cusco) | N/A |
+| 48 | [Tu DT](http://twitter.com/search?q=Tu+DT) | N/A |
+| 49 | [Foráneo de la U](http://twitter.com/search?q=For%c3%a1neo+de+la+U) | N/A |
+| 50 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
 
 
 

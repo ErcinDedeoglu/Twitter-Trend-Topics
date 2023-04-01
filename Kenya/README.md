@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-01 03:17:31 UTC`
+📆 Last Updated: `2023-04-01 04:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kenya
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
-| 2 | [#teargasonnrg](http://twitter.com/search?q=%23teargasonnrg) | N/A |
-| 3 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
-| 4 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
-| 5 | [#JAHFLIGHT](http://twitter.com/search?q=%23JAHFLIGHT) | N/A |
-| 6 | [#clubkibokofestivallaunch](http://twitter.com/search?q=%23clubkibokofestivallaunch) | N/A |
-| 7 | [use kiboko 1](http://twitter.com/search?q=use+kiboko+1) | N/A |
-| 8 | [kdd or kbb](http://twitter.com/search?q=kdd+or+kbb) | N/A |
-| 9 | [Moha](http://twitter.com/search?q=Moha) | N/A |
+| 2 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
+| 3 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
+| 4 | [#clubkibokofestivallaunch](http://twitter.com/search?q=%23clubkibokofestivallaunch) | N/A |
+| 5 | [use kiboko 1](http://twitter.com/search?q=use+kiboko+1) | N/A |
+| 6 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 7 | [kdd or kbb](http://twitter.com/search?q=kdd+or+kbb) | N/A |
+| 8 | [Moha](http://twitter.com/search?q=Moha) | N/A |
+| 9 | [#WeLoveAfricanacity](http://twitter.com/search?q=%23WeLoveAfricanacity) | N/A |
 | 10 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 11 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 12 | [tribal queen wavinya](http://twitter.com/search?q=tribal+queen+wavinya) | N/A |
-| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 14 | [mater heart run](http://twitter.com/search?q=mater+heart+run) | N/A |
-| 15 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
-| 16 | [KDD 233P](http://twitter.com/search?q=KDD+233P) | N/A |
-| 17 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 18 | [Elijah](http://twitter.com/search?q=Elijah) | N/A |
-| 19 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 20 | [Anthony B](http://twitter.com/search?q=Anthony+B) | N/A |
-| 21 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 23 | [outering road](http://twitter.com/search?q=outering+road) | N/A |
-| 24 | [Gov Wavinya](http://twitter.com/search?q=Gov+Wavinya) | N/A |
-| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 26 | [rosemary oduor](http://twitter.com/search?q=rosemary+oduor) | N/A |
-| 27 | [nanyuki sports club expo](http://twitter.com/search?q=nanyuki+sports+club+expo) | N/A |
-| 28 | [kbb 233b](http://twitter.com/search?q=kbb+233b) | N/A |
-| 29 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 30 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
-| 31 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 32 | [congratulations joy](http://twitter.com/search?q=congratulations+joy) | N/A |
-| 33 | [attend realtors expo](http://twitter.com/search?q=attend+realtors+expo) | N/A |
-| 34 | [chat na robisearchict](http://twitter.com/search?q=chat+na+robisearchict) | N/A |
-| 35 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 36 | [free digitalmarketing leo](http://twitter.com/search?q=free+digitalmarketing+leo) | N/A |
-| 37 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
-| 38 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 39 | [dj fatxo](http://twitter.com/search?q=dj+fatxo) | N/A |
-| 40 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 41 | [dj evolve](http://twitter.com/search?q=dj+evolve) | N/A |
-| 42 | [kithure kindiki](http://twitter.com/search?q=kithure+kindiki) | N/A |
-| 43 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 44 | [imara daima](http://twitter.com/search?q=imara+daima) | N/A |
-| 45 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 46 | [Press](http://twitter.com/search?q=Press) | N/A |
-| 47 | [Come to Kenya](http://twitter.com/search?q=Come+to+Kenya) | N/A |
-| 48 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
-| 49 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 50 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 11 | [tribal queen wavinya](http://twitter.com/search?q=tribal+queen+wavinya) | N/A |
+| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 13 | [mater heart run](http://twitter.com/search?q=mater+heart+run) | N/A |
+| 14 | [KDD 233P](http://twitter.com/search?q=KDD+233P) | N/A |
+| 15 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 16 | [Anthony B](http://twitter.com/search?q=Anthony+B) | N/A |
+| 17 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 18 | [outering road](http://twitter.com/search?q=outering+road) | N/A |
+| 19 | [Gov Wavinya](http://twitter.com/search?q=Gov+Wavinya) | N/A |
+| 20 | [rosemary oduor](http://twitter.com/search?q=rosemary+oduor) | N/A |
+| 21 | [nanyuki sports club expo](http://twitter.com/search?q=nanyuki+sports+club+expo) | N/A |
+| 22 | [kbb 233b](http://twitter.com/search?q=kbb+233b) | N/A |
+| 23 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 24 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 25 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
+| 26 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 27 | [congratulations joy](http://twitter.com/search?q=congratulations+joy) | N/A |
+| 28 | [attend realtors expo](http://twitter.com/search?q=attend+realtors+expo) | N/A |
+| 29 | [chat na robisearchict](http://twitter.com/search?q=chat+na+robisearchict) | N/A |
+| 30 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
+| 31 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 32 | [free digitalmarketing leo](http://twitter.com/search?q=free+digitalmarketing+leo) | N/A |
+| 33 | [dj fatxo](http://twitter.com/search?q=dj+fatxo) | N/A |
+| 34 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 35 | [dj evolve](http://twitter.com/search?q=dj+evolve) | N/A |
+| 36 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 37 | [kithure kindiki](http://twitter.com/search?q=kithure+kindiki) | N/A |
+| 38 | [imara daima](http://twitter.com/search?q=imara+daima) | N/A |
+| 39 | [Press](http://twitter.com/search?q=Press) | N/A |
+| 40 | [Come to Kenya](http://twitter.com/search?q=Come+to+Kenya) | N/A |
+| 41 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 42 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 43 | [hotpoint lg](http://twitter.com/search?q=hotpoint+lg) | N/A |
+| 44 | [utalii gastronomy](http://twitter.com/search?q=utalii+gastronomy) | N/A |
+| 45 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
+| 46 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 47 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 48 | [Martha](http://twitter.com/search?q=Martha) | N/A |
+| 49 | [carrefour kenya](http://twitter.com/search?q=carrefour+kenya) | N/A |
+| 50 | [oracom group](http://twitter.com/search?q=oracom+group) | N/A |
 
 
 

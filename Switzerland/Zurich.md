@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-01 03:16:58 UTC`
+📆 Last Updated: `2023-04-01 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
-| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [#SRFArena](http://twitter.com/search?q=%23SRFArena) | N/A |
+| 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#SRFArena](http://twitter.com/search?q=%23SRFArena) | N/A |
+| 4 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
 | 5 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 7 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 6 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 8 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
 | 9 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 10 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
@@ -46,24 +46,24 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 29 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 30 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
 | 31 | [hochdeutsch](http://twitter.com/search?q=hochdeutsch) | N/A |
-| 32 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 33 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 34 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 35 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 37 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 38 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 39 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 40 | [anklage](http://twitter.com/search?q=anklage) | N/A |
-| 41 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 42 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 43 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 44 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 45 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 46 | [President](http://twitter.com/search?q=President) | N/A |
-| 47 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
-| 48 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 49 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 34 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 35 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 36 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 37 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 38 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 40 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 41 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 42 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 43 | [anklage](http://twitter.com/search?q=anklage) | N/A |
+| 44 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 45 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 46 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 47 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 48 | [President](http://twitter.com/search?q=President) | N/A |
+| 49 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
 
 
 
