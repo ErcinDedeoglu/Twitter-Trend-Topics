@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-01 13:17:43 UTC`
+📆 Last Updated: `2023-04-01 14:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 2 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
+| 2 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
 | 3 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 4 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
-| 5 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 6 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 7 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
-| 8 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 9 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 10 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
-| 11 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 14 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 15 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 16 | [#Secde](http://twitter.com/search?q=%23Secde) | N/A |
-| 17 | [Kura](http://twitter.com/search?q=Kura) | N/A |
+| 4 | [Gizlenen Haber](http://twitter.com/search?q=Gizlenen+Haber) | N/A |
+| 5 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
+| 6 | [#TSvKYS](http://twitter.com/search?q=%23TSvKYS) | N/A |
+| 7 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 8 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
+| 9 | [Orhan Ak](http://twitter.com/search?q=Orhan+Ak) | N/A |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
+| 12 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
+| 15 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
+| 16 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 17 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
 | 18 | [Maxi Gomez](http://twitter.com/search?q=Maxi+Gomez) | Maxi Gomez is a Spanish professional footballer who plays as a striker for Celta Vigo. His name translates to "Big Max" in English. |
-| 19 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 20 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 22 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 23 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
-| 24 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
-| 25 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 27 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 28 | [Sıralama](http://twitter.com/search?q=S%c4%b1ralama) | N/A |
-| 29 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
-| 30 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
-| 31 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
-| 32 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
-| 33 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 34 | [Gözünün](http://twitter.com/search?q=G%c3%b6z%c3%bcn%c3%bcn) | N/A |
-| 35 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 36 | [Bastığı](http://twitter.com/search?q=Bast%c4%b1%c4%9f%c4%b1) | N/A |
-| 37 | [Önünü](http://twitter.com/search?q=%c3%96n%c3%bcn%c3%bc) | N/A |
-| 38 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 39 | [Üzülmeyin](http://twitter.com/search?q=%c3%9cz%c3%bclmeyin) | N/A |
-| 40 | [Serdar](http://twitter.com/search?q=Serdar) | Serdar is a Turkish name meaning "commander" or "leader". |
-| 41 | [Hoşçakal](http://twitter.com/search?q=Ho%c5%9f%c3%a7akal) | N/A |
-| 42 | [Üzgün](http://twitter.com/search?q=%c3%9czg%c3%bcn) | N/A |
-| 43 | [Sayın Kılıçdaroğlu](http://twitter.com/search?q=Say%c4%b1n+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 44 | [Bozdağ](http://twitter.com/search?q=Bozda%c4%9f) | N/A |
-| 45 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 46 | [Başörtüsüne](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcs%c3%bcne) | N/A |
-| 47 | [Egemen](http://twitter.com/search?q=Egemen) | N/A |
-| 48 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
+| 19 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 20 | [Bartra](http://twitter.com/search?q=Bartra) | Bartra is a Spanish surname derived from the Basque language. It is believed to be derived from the words "bartz" (meaning "axe") and "ara" (meaning "stone"). In English, Bartra can be translated to mean "axe stone". |
+| 21 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 22 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 23 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 24 | [Kura](http://twitter.com/search?q=Kura) | N/A |
+| 25 | [Peres](http://twitter.com/search?q=Peres) | N/A |
+| 26 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 27 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
+| 30 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 33 | [Ilkay](http://twitter.com/search?q=Ilkay) | N/A |
+| 34 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
+| 35 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
+| 36 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Sıralama](http://twitter.com/search?q=S%c4%b1ralama) | N/A |
+| 39 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
+| 40 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 41 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 42 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 43 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 44 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
+| 45 | [Önünü](http://twitter.com/search?q=%c3%96n%c3%bcn%c3%bc) | N/A |
+| 46 | [Gözünün](http://twitter.com/search?q=G%c3%b6z%c3%bcn%c3%bcn) | N/A |
+| 47 | [Bastığı](http://twitter.com/search?q=Bast%c4%b1%c4%9f%c4%b1) | N/A |
+| 48 | [Yanlışlıkla](http://twitter.com/search?q=Yanl%c4%b1%c5%9fl%c4%b1kla) | N/A |
 
 
 

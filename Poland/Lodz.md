@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-01 13:17:12 UTC`
+📆 Last Updated: `2023-04-01 14:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 2 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 4 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
-| 5 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
-| 6 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
-| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 10 | [#domPremierLeague](http://twitter.com/search?q=%23domPremierLeague) | N/A |
-| 11 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 12 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 13 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 2 | [#KORMIE](http://twitter.com/search?q=%23KORMIE) | N/A |
+| 3 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 4 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 5 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 9 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 12 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 13 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
 | 14 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 15 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
-| 16 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 18 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 19 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
-| 22 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 23 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 24 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [100 Rosomaków](http://twitter.com/search?q=100+Rosomak%c3%b3w) | N/A |
-| 27 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
-| 28 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
-| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 30 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
-| 31 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
-| 32 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 33 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 15 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 16 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 17 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
+| 18 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
+| 21 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
+| 22 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
+| 23 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 24 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 25 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 26 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
+| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 28 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 29 | [Rosomak](http://twitter.com/search?q=Rosomak) | N/A |
+| 30 | [piasta](http://twitter.com/search?q=piasta) | N/A |
+| 31 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 32 | [lex kaczyński](http://twitter.com/search?q=lex+kaczy%c5%84ski) | N/A |
+| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 34 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
 | 35 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 36 | [oracz](http://twitter.com/search?q=oracz) | N/A |
-| 37 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 38 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 39 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 36 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
+| 37 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 38 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 39 | [matecki](http://twitter.com/search?q=matecki) | N/A |
 | 40 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
 | 41 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 42 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 43 | [podolski](http://twitter.com/search?q=podolski) | N/A |
-| 44 | [Słowenia](http://twitter.com/search?q=S%c5%82owenia) | N/A |
-| 45 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
-| 46 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
-| 47 | [placki ziemniaczane](http://twitter.com/search?q=placki+ziemniaczane) | N/A |
-| 48 | [1 Kwietnia](http://twitter.com/search?q=1+Kwietnia) | N/A |
-| 49 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 42 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 43 | [Korona](http://twitter.com/search?q=Korona) | N/A |
+| 44 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
+| 45 | [podolski](http://twitter.com/search?q=podolski) | N/A |
+| 46 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 47 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
+| 48 | [placki ziemniaczane](http://twitter.com/search?q=placki+ziemniaczane) | N/A |
+| 49 | [1 Kwietnia](http://twitter.com/search?q=1+Kwietnia) | N/A |
 
 
 

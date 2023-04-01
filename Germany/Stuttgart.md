@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-01 13:17:16 UTC`
+📆 Last Updated: `2023-04-01 14:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,48 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 3 | [#H96SVS](http://twitter.com/search?q=%23H96SVS) | N/A |
-| 4 | [#kscebs](http://twitter.com/search?q=%23kscebs) | N/A |
-| 5 | [april april](http://twitter.com/search?q=april+april) | N/A |
-| 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 2 | [#FCUVfB](http://twitter.com/search?q=%23FCUVfB) | N/A |
+| 3 | [#WOBFCA](http://twitter.com/search?q=%23WOBFCA) | N/A |
+| 4 | [#RBLM05](http://twitter.com/search?q=%23RBLM05) | N/A |
+| 5 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 8 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
 | 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 10 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 11 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 12 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 13 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 14 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 16 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
-| 17 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 20 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
-| 21 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
-| 22 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 23 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 24 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 25 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 26 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 27 | [bürgerrat](http://twitter.com/search?q=b%c3%bcrgerrat) | N/A |
-| 28 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
-| 29 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 30 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 33 | [Nielsen](http://twitter.com/search?q=Nielsen) | N/A |
-| 34 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 35 | [Luft aus dem Reifen](http://twitter.com/search?q=Luft+aus+dem+Reifen) | N/A |
-| 36 | [St. Pauli](http://twitter.com/search?q=St.+Pauli) | N/A |
-| 37 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 38 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 39 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
-| 40 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 41 | [brotdose](http://twitter.com/search?q=brotdose) | N/A |
-| 42 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
-| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 44 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 45 | [Tag im Jahr](http://twitter.com/search?q=Tag+im+Jahr) | N/A |
-| 46 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
-| 47 | [leihmutterschaft](http://twitter.com/search?q=leihmutterschaft) | N/A |
-| 48 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 49 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 10 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 11 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 12 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 13 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 16 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 17 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
+| 18 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 19 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 20 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 21 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
+| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 23 | [Waffenstillstand](http://twitter.com/search?q=Waffenstillstand) | N/A |
+| 24 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 25 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
+| 26 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
+| 27 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 28 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 29 | [#S04B04](http://twitter.com/search?q=%23S04B04) | N/A |
+| 30 | [#H96SVS](http://twitter.com/search?q=%23H96SVS) | N/A |
+| 31 | [#KSCEBS](http://twitter.com/search?q=%23KSCEBS) | N/A |
+| 32 | [#SCFBSC](http://twitter.com/search?q=%23SCFBSC) | N/A |
+| 33 | [#fcspssv](http://twitter.com/search?q=%23fcspssv) | N/A |
+| 34 | [#Tagesschau](http://twitter.com/search?q=%23Tagesschau) | N/A |
+| 35 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 36 | [#1april](http://twitter.com/search?q=%231april) | N/A |
+| 37 | [#goe0104](http://twitter.com/search?q=%23goe0104) | N/A |
+| 38 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 39 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 40 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 41 | [#GrueneInkompetenz](http://twitter.com/search?q=%23GrueneInkompetenz) | N/A |
+| 42 | [#Polizeiproblem](http://twitter.com/search?q=%23Polizeiproblem) | N/A |
+| 43 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
 
 
 
