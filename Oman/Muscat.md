@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-04-01 10:18:04 UTC`
+📆 Last Updated: `2023-04-01 11:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,39 +20,39 @@ This is top 50 for [Oman](</Oman>)
 | 3 | [#دفعه_2023](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_2023) | N/A |
 | 4 | [ستاندرد اند بورز](http://twitter.com/search?q=%d8%b3%d8%aa%d8%a7%d9%86%d8%af%d8%b1%d8%af+%d8%a7%d9%86%d8%af+%d8%a8%d9%88%d8%b1%d8%b2) | N/A |
 | 5 | [النظره المستقبليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 6 | [بنك مسقط](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d9%85%d8%b3%d9%82%d8%b7) | N/A |
+| 6 | [#موسم_رمضان_بالسعوديه](http://twitter.com/search?q=%23%d9%85%d9%88%d8%b3%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a8%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 7 | [التصنيف الايتماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%86%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 8 | [#موسم_رمضان_بالسعوديه](http://twitter.com/search?q=%23%d9%85%d9%88%d8%b3%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a8%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 8 | [بنك مسقط](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d9%85%d8%b3%d9%82%d8%b7) | N/A |
 | 9 | [#زد_رصيدك67](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8367) | N/A |
 | 10 | [راشد بن عزيز الخصيبي](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a8%d9%86+%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%ae%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
-| 11 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
-| 12 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 13 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
-| 14 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 15 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 16 | [السلطات الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 17 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 18 | [الاداء المالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 19 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
+| 12 | [سلطان الاسماعيلي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a) | N/A |
+| 13 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
+| 14 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
+| 15 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 16 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
+| 17 | [السلطات الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 18 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 19 | [الاداء المالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
 | 20 | [نادي فنجاء](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d9%81%d9%86%d8%ac%d8%a7%d8%a1) | N/A |
 | 21 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
 | 22 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
 | 23 | [بن فطيس](http://twitter.com/search?q=%d8%a8%d9%86+%d9%81%d8%b7%d9%8a%d8%b3) | N/A |
 | 24 | [الفرق الخيريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 25 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 26 | [الدين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 27 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
-| 28 | [الملك الفنجاوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%81%d9%86%d8%ac%d8%a7%d9%88%d9%8a) | N/A |
-| 29 | [الفرق الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
-| 30 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 31 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 32 | [القطاع الصحي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a) | N/A |
-| 33 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 25 | [الملك الفنجاوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%81%d9%86%d8%ac%d8%a7%d9%88%d9%8a) | N/A |
+| 26 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
+| 27 | [الدين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 28 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 29 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 30 | [الجوانب الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%86%d8%a8+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 31 | [القطاع الصحي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a) | N/A |
+| 32 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 33 | [الفرق الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
 | 34 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 35 | [الاسبوع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 36 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 37 | [نصف ريال](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%b1%d9%8a%d8%a7%d9%84) | N/A |
-| 38 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 37 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 38 | [نصف ريال](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%b1%d9%8a%d8%a7%d9%84) | N/A |
 | 39 | [بن احمد الفراهيدي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d9%87%d9%8a%d8%af%d9%8a) | N/A |
 | 40 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
 | 41 | [دار العطاء](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Oman](</Oman>)
 | 43 | [إدريس](http://twitter.com/search?q=%d8%a5%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
 | 44 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
 | 45 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 46 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 47 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 48 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 49 | [بن مسعود بن](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86) | N/A |
-| 50 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 46 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 47 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 48 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 49 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 50 | [بن مسعود بن](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86) | N/A |
 
 
 

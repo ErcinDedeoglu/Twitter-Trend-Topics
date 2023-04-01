@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-04-01 10:17:47 UTC`
+📆 Last Updated: `2023-04-01 11:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,36 +21,37 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [#RtoVinSeoul_Day1](http://twitter.com/search?q=%23RtoVinSeoul_Day1) | N/A |
 | 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 6 | [#D6_GoldenHourMark](http://twitter.com/search?q=%23D6_GoldenHourMark) | N/A |
-| 7 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 8 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 9 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
+| 7 | [#UN1TYKLBB2023](http://twitter.com/search?q=%23UN1TYKLBB2023) | N/A |
+| 8 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 9 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
-| 12 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
-| 13 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 11 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 12 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
+| 13 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
 | 14 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
-| 15 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 16 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
-| 17 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 18 | [Yesol](http://twitter.com/search?q=Yesol) | N/A |
-| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 20 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
-| 21 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
+| 17 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 18 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 19 | [Magda](http://twitter.com/search?q=Magda) | N/A |
+| 20 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 22 | [lee dohyun](http://twitter.com/search?q=lee+dohyun) | N/A |
-| 23 | [lim jiyeon](http://twitter.com/search?q=lim+jiyeon) | N/A |
-| 24 | [plot twist](http://twitter.com/search?q=plot+twist) | N/A |
-| 25 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 26 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 23 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 24 | [Plot Twist](http://twitter.com/search?q=Plot+Twist) | N/A |
+| 25 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 26 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
 | 27 | [#BookfluencerxWinnySatang](http://twitter.com/search?q=%23BookfluencerxWinnySatang) | N/A |
-| 28 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
-| 29 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
-| 30 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 28 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 29 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 30 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
 | 31 | [#phumini](http://twitter.com/search?q=%23phumini) | N/A |
-| 32 | [#UniversityOfEfexJKT48](http://twitter.com/search?q=%23UniversityOfEfexJKT48) | N/A |
+| 32 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
 | 33 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 34 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
 | 35 | [#BUILDACOLORFULDAY](http://twitter.com/search?q=%23BUILDACOLORFULDAY) | N/A |
 | 36 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
+| 37 | [#UniversityOfEfexJKT48](http://twitter.com/search?q=%23UniversityOfEfexJKT48) | N/A |
 
 
 

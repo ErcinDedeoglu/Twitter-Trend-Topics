@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-01 10:18:28 UTC`
+📆 Last Updated: `2023-04-01 11:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 4 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 5 | [#WCCH](http://twitter.com/search?q=%23WCCH) | N/A |
+| 2 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 4 | [#WCCH](http://twitter.com/search?q=%23WCCH) | N/A |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 6 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
 | 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 8 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 9 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 10 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
 | 11 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
 | 12 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 13 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
 | 14 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 15 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 16 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 17 | [Dorf](http://twitter.com/search?q=Dorf) | N/A |
-| 18 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 19 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 20 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 21 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 22 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 23 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
-| 24 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 25 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 26 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 27 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 28 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 31 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 15 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 16 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 17 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 20 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 21 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
+| 22 | [Dorf](http://twitter.com/search?q=Dorf) | N/A |
+| 23 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 24 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 25 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 26 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
+| 27 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
+| 28 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 29 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 30 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 31 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
 | 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 34 | [messer](http://twitter.com/search?q=messer) | N/A |
-| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 36 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 33 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 34 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 35 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 36 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 37 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
 | 38 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 39 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 40 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
-| 41 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 42 | [Meter](http://twitter.com/search?q=Meter) | N/A |
-| 43 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 44 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 45 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 46 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 47 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
-| 48 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 49 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
-| 50 | [Spur](http://twitter.com/search?q=Spur) | N/A |
+| 39 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 40 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 41 | [Meter](http://twitter.com/search?q=Meter) | N/A |
+| 42 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 43 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
+| 44 | [Spur](http://twitter.com/search?q=Spur) | N/A |
+| 45 | [Norden](http://twitter.com/search?q=Norden) | N/A |
+| 46 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 47 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 48 | [Grunde](http://twitter.com/search?q=Grunde) | N/A |
+| 49 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 50 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
 
 
 

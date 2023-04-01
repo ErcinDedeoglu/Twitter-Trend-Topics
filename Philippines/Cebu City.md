@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-01 10:17:54 UTC`
+📆 Last Updated: `2023-04-01 11:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#FELIPatAQUATICbeats](http://twitter.com/search?q=%23FELIPatAQUATICbeats) | N/A |
 | 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 3 | [#RtoVinSeoul_Day1](http://twitter.com/search?q=%23RtoVinSeoul_Day1) | N/A |
-| 4 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 7 | [#BenAndBenTheVlog](http://twitter.com/search?q=%23BenAndBenTheVlog) | N/A |
-| 8 | [#BBTVisBack](http://twitter.com/search?q=%23BBTVisBack) | N/A |
-| 9 | [BGYO AT UST ANGELICUM](http://twitter.com/search?q=BGYO+AT+UST+ANGELICUM) | N/A |
-| 10 | [DO LIFE OKAY](http://twitter.com/search?q=DO+LIFE+OKAY) | N/A |
-| 11 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 12 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 13 | [OH BOY](http://twitter.com/search?q=OH+BOY) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [LEE MUJIN](http://twitter.com/search?q=LEE+MUJIN) | N/A |
-| 16 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 17 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 18 | [hyun](http://twitter.com/search?q=hyun) | N/A |
-| 19 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 20 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 21 | [Queen Vice SatHERday](http://twitter.com/search?q=Queen+Vice+SatHERday) | N/A |
-| 22 | [Lim Ji Yeon](http://twitter.com/search?q=Lim+Ji+Yeon) | N/A |
-| 23 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 24 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 25 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 26 | [Alexa Ilacad](http://twitter.com/search?q=Alexa+Ilacad) | N/A |
-| 27 | [KD Estrada](http://twitter.com/search?q=KD+Estrada) | N/A |
-| 28 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
-| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 30 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 31 | [#KA1Anniversary](http://twitter.com/search?q=%23KA1Anniversary) | N/A |
-| 32 | [#ShowtimeVGfulDayEver](http://twitter.com/search?q=%23ShowtimeVGfulDayEver) | N/A |
-| 33 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
-| 34 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 35 | [#MaybellineXBINI](http://twitter.com/search?q=%23MaybellineXBINI) | N/A |
-| 36 | [#VGSOAMI](http://twitter.com/search?q=%23VGSOAMI) | N/A |
-| 37 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
-| 38 | [#TAG25Under25](http://twitter.com/search?q=%23TAG25Under25) | N/A |
-| 39 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
-| 40 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
-| 41 | [#VGfulNoontimeExperience](http://twitter.com/search?q=%23VGfulNoontimeExperience) | N/A |
-| 42 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
-| 43 | [#SB19xAtinAtSMMuntinlupa](http://twitter.com/search?q=%23SB19xAtinAtSMMuntinlupa) | N/A |
-| 44 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 45 | [#Glutanex](http://twitter.com/search?q=%23Glutanex) | N/A |
-| 46 | [#SongJiHyo](http://twitter.com/search?q=%23SongJiHyo) | N/A |
-| 47 | [#Chanty](http://twitter.com/search?q=%23Chanty) | N/A |
-| 48 | [#CosplayCarnival2023](http://twitter.com/search?q=%23CosplayCarnival2023) | N/A |
-| 49 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 50 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
+| 3 | [#KA1Anniversary](http://twitter.com/search?q=%23KA1Anniversary) | N/A |
+| 4 | [#RtoVinSeoul_Day1](http://twitter.com/search?q=%23RtoVinSeoul_Day1) | N/A |
+| 5 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
+| 6 | [#OxecurePHxHENDERY](http://twitter.com/search?q=%23OxecurePHxHENDERY) | N/A |
+| 7 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
+| 8 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [BINI FIT ME FRESH TINT MV](http://twitter.com/search?q=BINI+FIT+ME+FRESH+TINT+MV) | N/A |
+| 11 | [ZACHAM ALWAYS BARKADA](http://twitter.com/search?q=ZACHAM+ALWAYS+BARKADA) | N/A |
+| 12 | [DO LIFE OKAY](http://twitter.com/search?q=DO+LIFE+OKAY) | N/A |
+| 13 | [VXON BREAKING BAD MV](http://twitter.com/search?q=VXON+BREAKING+BAD+MV) | N/A |
+| 14 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 15 | [I JUST](http://twitter.com/search?q=I+JUST) | N/A |
+| 16 | [BGYO AT UST ANGELICUM](http://twitter.com/search?q=BGYO+AT+UST+ANGELICUM) | N/A |
+| 17 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 18 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 19 | [OH BOY](http://twitter.com/search?q=OH+BOY) | N/A |
+| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 21 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 22 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 23 | [lee mujin](http://twitter.com/search?q=lee+mujin) | N/A |
+| 24 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 25 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 26 | [hyun](http://twitter.com/search?q=hyun) | N/A |
+| 27 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
+| 28 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 29 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 30 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 31 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 33 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 34 | [#SimplyFrancine](http://twitter.com/search?q=%23SimplyFrancine) | N/A |
+| 35 | [#BBTVisBack](http://twitter.com/search?q=%23BBTVisBack) | N/A |
+| 36 | [#BenAndBenTheVlog](http://twitter.com/search?q=%23BenAndBenTheVlog) | N/A |
+| 37 | [#MaybellineXBINI](http://twitter.com/search?q=%23MaybellineXBINI) | N/A |
+| 38 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 39 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 40 | [#ShowtimeVGfulDayEver](http://twitter.com/search?q=%23ShowtimeVGfulDayEver) | N/A |
+| 41 | [#VGSOAMI](http://twitter.com/search?q=%23VGSOAMI) | N/A |
+| 42 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 43 | [#TAG25Under25](http://twitter.com/search?q=%23TAG25Under25) | N/A |
+| 44 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 45 | [#uaapvolleyball](http://twitter.com/search?q=%23uaapvolleyball) | N/A |
+| 46 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 47 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 48 | [#Chanty](http://twitter.com/search?q=%23Chanty) | N/A |
+| 49 | [#CosplayCarnival2023](http://twitter.com/search?q=%23CosplayCarnival2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-01 10:18:15 UTC`
+📆 Last Updated: `2023-04-01 11:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [#mnwx](http://twitter.com/search?q=%23mnwx) | N/A |
-| 3 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 4 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 4 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 5 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 8 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 9 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 8 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 9 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
 | 10 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 11 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
-| 12 | [#StrayKidsinLA](http://twitter.com/search?q=%23StrayKidsinLA) | N/A |
-| 13 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 14 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 15 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 16 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 18 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 19 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 20 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 21 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 22 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 23 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 24 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 25 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 26 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 27 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 28 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 29 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 30 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
-| 31 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 32 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 33 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 34 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 35 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 36 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 37 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 38 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 11 | [#Wordle651](http://twitter.com/search?q=%23Wordle651) | N/A |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [#EmoFight](http://twitter.com/search?q=%23EmoFight) | N/A |
+| 14 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 15 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 16 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 17 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 18 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 19 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 20 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 21 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 22 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 23 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 25 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 26 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 28 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 29 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 30 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 31 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 32 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 33 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 34 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 35 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 36 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 37 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 38 | [Departure](http://twitter.com/search?q=Departure) | N/A |
 | 39 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 40 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 41 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 42 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 43 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 44 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
-| 45 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 46 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 47 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 48 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 40 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 41 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
+| 42 | [Aprils](http://twitter.com/search?q=Aprils) | N/A |
+| 43 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 44 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 45 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 46 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 47 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 48 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
 | 49 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 50 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 50 | [lisa bluder](http://twitter.com/search?q=lisa+bluder) | N/A |
 
 
 

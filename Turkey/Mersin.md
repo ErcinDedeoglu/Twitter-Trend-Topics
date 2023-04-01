@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-01 10:18:07 UTC`
+📆 Last Updated: `2023-04-01 11:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
 | 5 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
 | 6 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 7 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 8 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 9 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 10 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 11 | [#Vakit5binVeKısmiVakti](http://twitter.com/search?q=%23Vakit5binVeK%c4%b1smiVakti) | N/A |
-| 12 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 13 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
-| 14 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 7 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
+| 8 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
+| 9 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 10 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
+| 11 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
+| 12 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 13 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 14 | [Camiye](http://twitter.com/search?q=Camiye) | N/A |
 | 15 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
-| 16 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 16 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
 | 17 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 18 | [Üzgün](http://twitter.com/search?q=%c3%9czg%c3%bcn) | N/A |
-| 19 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 20 | [Üzülmeyin](http://twitter.com/search?q=%c3%9cz%c3%bclmeyin) | N/A |
-| 21 | [Bastığın](http://twitter.com/search?q=Bast%c4%b1%c4%9f%c4%b1n) | N/A |
-| 22 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 23 | [Müslümanlık](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanl%c4%b1k) | N/A |
-| 24 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 25 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
-| 26 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
-| 27 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 28 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 29 | [Pirom](http://twitter.com/search?q=Pirom) | N/A |
-| 30 | [Kasıtlı](http://twitter.com/search?q=Kas%c4%b1tl%c4%b1) | N/A |
-| 31 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
-| 32 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 33 | [İsmet İnönü](http://twitter.com/search?q=%c4%b0smet+%c4%b0n%c3%b6n%c3%bc) | N/A |
-| 34 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
-| 35 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
-| 36 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 37 | [canan](http://twitter.com/search?q=canan) | N/A |
-| 38 | [Yanlışlıkla](http://twitter.com/search?q=Yanl%c4%b1%c5%9fl%c4%b1kla) | N/A |
-| 39 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
-| 40 | [Bunuda](http://twitter.com/search?q=Bunuda) | N/A |
-| 41 | [Hırsızlık](http://twitter.com/search?q=H%c4%b1rs%c4%b1zl%c4%b1k) | N/A |
-| 42 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 43 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
-| 44 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
-| 45 | [#YılmazGüney](http://twitter.com/search?q=%23Y%c4%b1lmazG%c3%bcney) | N/A |
-| 46 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
-| 47 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
+| 18 | [Üzülmeyin](http://twitter.com/search?q=%c3%9cz%c3%bclmeyin) | N/A |
+| 19 | [Üzgün](http://twitter.com/search?q=%c3%9czg%c3%bcn) | N/A |
+| 20 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 21 | [Sayın Kılıçdaroğlu](http://twitter.com/search?q=Say%c4%b1n+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 22 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 23 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
+| 24 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 25 | [Bozdağ](http://twitter.com/search?q=Bozda%c4%9f) | N/A |
+| 26 | [Bastığı](http://twitter.com/search?q=Bast%c4%b1%c4%9f%c4%b1) | N/A |
+| 27 | [Müslümanlık](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanl%c4%b1k) | N/A |
+| 28 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 29 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 30 | [Camii](http://twitter.com/search?q=Camii) | N/A |
+| 31 | [İslama](http://twitter.com/search?q=%c4%b0slama) | N/A |
+| 32 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
+| 33 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
+| 34 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 35 | [Kabe](http://twitter.com/search?q=Kabe) | N/A |
+| 36 | [Yerde](http://twitter.com/search?q=Yerde) | N/A |
+| 37 | [Pirom](http://twitter.com/search?q=Pirom) | N/A |
+| 38 | [İsmet İnönü](http://twitter.com/search?q=%c4%b0smet+%c4%b0n%c3%b6n%c3%bc) | N/A |
+| 39 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 40 | [Kasıtlı](http://twitter.com/search?q=Kas%c4%b1tl%c4%b1) | N/A |
+| 41 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 42 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
+| 43 | [Levent](http://twitter.com/search?q=Levent) | N/A |
+| 44 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
+| 45 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
+| 46 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
+| 47 | [Yanlışlıkla](http://twitter.com/search?q=Yanl%c4%b1%c5%9fl%c4%b1kla) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-01 10:17:41 UTC`
+📆 Last Updated: `2023-04-01 11:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 4 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
-| 5 | [#f95HSV](http://twitter.com/search?q=%23f95HSV) | N/A |
-| 6 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 7 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 5 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 6 | [#H96SVS](http://twitter.com/search?q=%23H96SVS) | N/A |
+| 7 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 10 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
-| 11 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 12 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 13 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 14 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 15 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 17 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
-| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 21 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 22 | [Polizeigewalt](http://twitter.com/search?q=Polizeigewalt) | N/A |
-| 23 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 24 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 25 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 26 | [Luft aus dem Reifen](http://twitter.com/search?q=Luft+aus+dem+Reifen) | N/A |
-| 27 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
-| 28 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
-| 29 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
-| 30 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 31 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 32 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 33 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 34 | [Tag im Jahr](http://twitter.com/search?q=Tag+im+Jahr) | N/A |
-| 35 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
-| 36 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 37 | [Flipper](http://twitter.com/search?q=Flipper) | N/A |
-| 38 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 39 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 40 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 41 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
-| 42 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
-| 43 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 44 | [Leihmutterschaft](http://twitter.com/search?q=Leihmutterschaft) | N/A |
-| 45 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 46 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
-| 47 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 48 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 49 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 11 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 12 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 13 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 14 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 15 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 18 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 19 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 20 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 24 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
+| 25 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 26 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 27 | [brotdose](http://twitter.com/search?q=brotdose) | N/A |
+| 28 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 29 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
+| 30 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 31 | [Polizeigewalt](http://twitter.com/search?q=Polizeigewalt) | N/A |
+| 32 | [Schornsteinfeger](http://twitter.com/search?q=Schornsteinfeger) | N/A |
+| 33 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 34 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 35 | [Luft aus dem Reifen](http://twitter.com/search?q=Luft+aus+dem+Reifen) | N/A |
+| 36 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 37 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 38 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 39 | [Sozialdemokraten](http://twitter.com/search?q=Sozialdemokraten) | N/A |
+| 40 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 41 | [Leihmutterschaft](http://twitter.com/search?q=Leihmutterschaft) | N/A |
+| 42 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 43 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
+| 44 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 45 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 46 | [Tag im Jahr](http://twitter.com/search?q=Tag+im+Jahr) | N/A |
+| 47 | [Beamten](http://twitter.com/search?q=Beamten) | N/A |
+| 48 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 49 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
 
 
 
