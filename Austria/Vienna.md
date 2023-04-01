@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-01 12:18:05 UTC`
+📆 Last Updated: `2023-04-01 13:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 3 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
-| 6 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 7 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
-| 8 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 2 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 4 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
+| 7 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
+| 8 | [Kern](http://twitter.com/search?q=Kern) | N/A |
 | 9 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 10 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 11 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 12 | [mitbestimmung](http://twitter.com/search?q=mitbestimmung) | N/A |
-| 13 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [inserate](http://twitter.com/search?q=inserate) | N/A |
-| 16 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 17 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 18 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
+| 11 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 12 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 13 | [mitbestimmung](http://twitter.com/search?q=mitbestimmung) | N/A |
+| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
+| 17 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 18 | [inserate](http://twitter.com/search?q=inserate) | N/A |
+| 19 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 20 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 21 | [Chats](http://twitter.com/search?q=Chats) | N/A |
 | 22 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 23 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 25 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
-| 26 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 27 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 28 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
-| 29 | [Termine](http://twitter.com/search?q=Termine) | N/A |
-| 30 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 31 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 32 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 33 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
-| 34 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 35 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
-| 36 | [Kreisky](http://twitter.com/search?q=Kreisky) | N/A |
-| 37 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 38 | [Leser](http://twitter.com/search?q=Leser) | N/A |
-| 39 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [Falter](http://twitter.com/search?q=Falter) | N/A |
-| 42 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 44 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
-| 45 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 46 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 47 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 48 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 49 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 50 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
+| 23 | [Dichand](http://twitter.com/search?q=Dichand) | N/A |
+| 24 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 26 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
+| 27 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 28 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 29 | [kellernazi](http://twitter.com/search?q=kellernazi) | N/A |
+| 30 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
+| 31 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
+| 32 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 33 | [Termine](http://twitter.com/search?q=Termine) | N/A |
+| 34 | [Kreisky](http://twitter.com/search?q=Kreisky) | N/A |
+| 35 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 36 | [Leser](http://twitter.com/search?q=Leser) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
+| 39 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
+| 40 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 43 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 44 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 45 | [Couch](http://twitter.com/search?q=Couch) | N/A |
+| 46 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 47 | [koalition mit der fpö](http://twitter.com/search?q=koalition+mit+der+fp%c3%b6) | N/A |
+| 48 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
+| 49 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 50 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 
 
 

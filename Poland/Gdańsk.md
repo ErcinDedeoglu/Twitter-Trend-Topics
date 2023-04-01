@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-01 12:18:04 UTC`
+📆 Last Updated: `2023-04-01 13:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 3 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 2 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 4 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
-| 5 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
-| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 7 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
-| 8 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 9 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 10 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 11 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
-| 12 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 13 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 17 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
-| 18 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
-| 19 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 20 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 22 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
-| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 24 | [Salaha](http://twitter.com/search?q=Salaha) | N/A |
-| 25 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 26 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 5 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
+| 6 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
+| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 10 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 11 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 12 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
+| 13 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 14 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 15 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 16 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 17 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
+| 18 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
+| 21 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 22 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 25 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 26 | [100 Rosomaków](http://twitter.com/search?q=100+Rosomak%c3%b3w) | N/A |
 | 27 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
-| 28 | [Oracz](http://twitter.com/search?q=Oracz) | N/A |
-| 29 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 30 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 31 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
-| 32 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 33 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
-| 34 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 35 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 36 | [Jarosław Kaczyński](http://twitter.com/search?q=Jaros%c5%82aw+Kaczy%c5%84ski) | N/A |
-| 37 | [podolski](http://twitter.com/search?q=podolski) | N/A |
-| 38 | [Słowenia](http://twitter.com/search?q=S%c5%82owenia) | N/A |
-| 39 | [Enha](http://twitter.com/search?q=Enha) | N/A |
-| 40 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 41 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 42 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
-| 43 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 44 | [placki ziemniaczane](http://twitter.com/search?q=placki+ziemniaczane) | N/A |
-| 45 | [Żart](http://twitter.com/search?q=%c5%bbart) | N/A |
-| 46 | [1 Kwietnia](http://twitter.com/search?q=1+Kwietnia) | N/A |
-| 47 | [Owsiak](http://twitter.com/search?q=Owsiak) | N/A |
-| 48 | [Szymczyka](http://twitter.com/search?q=Szymczyka) | N/A |
-| 49 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 50 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 28 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
+| 29 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
+| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 31 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
+| 32 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
+| 33 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 34 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 35 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 36 | [oracz](http://twitter.com/search?q=oracz) | N/A |
+| 37 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 38 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 39 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 40 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
+| 41 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
+| 42 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
+| 43 | [podolski](http://twitter.com/search?q=podolski) | N/A |
+| 44 | [Słowenia](http://twitter.com/search?q=S%c5%82owenia) | N/A |
+| 45 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
+| 46 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
+| 47 | [placki ziemniaczane](http://twitter.com/search?q=placki+ziemniaczane) | N/A |
+| 48 | [1 Kwietnia](http://twitter.com/search?q=1+Kwietnia) | N/A |
+| 49 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 50 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-01 12:18:41 UTC`
+📆 Last Updated: `2023-04-01 13:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 3 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 6 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 7 | [#ESPNnoStarplus](http://twitter.com/search?q=%23ESPNnoStarplus) | N/A |
-| 8 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 9 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
-| 10 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 11 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 12 | [#EBIN2ITxBecky](http://twitter.com/search?q=%23EBIN2ITxBecky) | N/A |
-| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 14 | [#LulaDay](http://twitter.com/search?q=%23LulaDay) | N/A |
-| 15 | [#DiaDaMentira](http://twitter.com/search?q=%23DiaDaMentira) | N/A |
-| 16 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 17 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 18 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 19 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 20 | [Que Abril](http://twitter.com/search?q=Que+Abril) | N/A |
-| 21 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 22 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
-| 23 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 24 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 25 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
-| 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 27 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 29 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 30 | [Malbec](http://twitter.com/search?q=Malbec) | N/A |
-| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 32 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 33 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 34 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 35 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 36 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 37 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
-| 38 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 40 | [Fúria](http://twitter.com/search?q=F%c3%baria) | N/A |
-| 41 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
-| 42 | [Tardezinha](http://twitter.com/search?q=Tardezinha) | N/A |
-| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 44 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 45 | [Monark](http://twitter.com/search?q=Monark) | Monark is a Swedish brand of bicycles and mopeds. The name Monark is derived from the Latin word for "king" or "monarch". In English, it can be translated to mean "king of the road". |
-| 46 | [Niki](http://twitter.com/search?q=Niki) | N/A |
-| 47 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 48 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
-| 49 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
-| 50 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 2 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 3 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 4 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 5 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 6 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [#ESPNnoStarplus](http://twitter.com/search?q=%23ESPNnoStarplus) | N/A |
+| 9 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 10 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 11 | [#LulaDay](http://twitter.com/search?q=%23LulaDay) | N/A |
+| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 13 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 14 | [#DiaDaMentira](http://twitter.com/search?q=%23DiaDaMentira) | N/A |
+| 15 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 17 | [O City](http://twitter.com/search?q=O+City) | N/A |
+| 18 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 20 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
+| 21 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 22 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 23 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 25 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 26 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 27 | [Que Abril](http://twitter.com/search?q=Que+Abril) | N/A |
+| 28 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 29 | [Bem-vindo Abril](http://twitter.com/search?q=Bem-vindo+Abril) | N/A |
+| 30 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 31 | [Malbec](http://twitter.com/search?q=Malbec) | N/A |
+| 32 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 33 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 34 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 35 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
+| 36 | [Dia de Flu](http://twitter.com/search?q=Dia+de+Flu) | N/A |
+| 37 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 38 | [FELIZ DIA DOS HOMENS](http://twitter.com/search?q=FELIZ+DIA+DOS+HOMENS) | N/A |
+| 39 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 40 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 42 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 43 | [Ogum](http://twitter.com/search?q=Ogum) | N/A |
+| 44 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 45 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 46 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 47 | [Tardezinha](http://twitter.com/search?q=Tardezinha) | N/A |
+| 48 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 49 | [Monark](http://twitter.com/search?q=Monark) | Monark is a Swedish brand of bicycles and mopeds. The name Monark is derived from the Latin word for "king" or "monarch". In English, it can be translated to mean "king of the road". |
+| 50 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
 
 
 

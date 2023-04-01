@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-04-01 12:18:18 UTC`
+📆 Last Updated: `2023-04-01 13:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 6 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 2 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 3 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 4 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 7 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 8 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 9 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 10 | [hyun](http://twitter.com/search?q=hyun) | N/A |
-| 11 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 12 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 16 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [lee mujin](http://twitter.com/search?q=lee+mujin) | N/A |
-| 19 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 20 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 21 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 22 | [MOUs](http://twitter.com/search?q=MOUs) | N/A |
-| 23 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 24 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 25 | [lim jiyeon](http://twitter.com/search?q=lim+jiyeon) | N/A |
-| 26 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 27 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 28 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 30 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 31 | [Noona](http://twitter.com/search?q=Noona) | N/A |
-| 32 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 35 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 36 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 37 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
-| 38 | [BTEEZ](http://twitter.com/search?q=BTEEZ) | N/A |
-| 39 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 40 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 42 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 43 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
-| 44 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 46 | [Fatin](http://twitter.com/search?q=Fatin) | N/A |
-| 47 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 48 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
-| 49 | [tori](http://twitter.com/search?q=tori) | N/A |
+| 8 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 11 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 12 | [hyun](http://twitter.com/search?q=hyun) | N/A |
+| 13 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 14 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 18 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 19 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [lee mujin](http://twitter.com/search?q=lee+mujin) | N/A |
+| 24 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 25 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 26 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 27 | [MOUs](http://twitter.com/search?q=MOUs) | N/A |
+| 28 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 29 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 30 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 31 | [lim jiyeon](http://twitter.com/search?q=lim+jiyeon) | N/A |
+| 32 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 33 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 35 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 36 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 37 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 38 | [noona](http://twitter.com/search?q=noona) | N/A |
+| 39 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 42 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 43 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 44 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 45 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 46 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 47 | [BTEEZ](http://twitter.com/search?q=BTEEZ) | N/A |
+| 48 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 49 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
 
 
 
