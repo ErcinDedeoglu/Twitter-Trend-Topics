@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-04-01 19:17:58 UTC`
+📆 Last Updated: `2023-04-01 20:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,45 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 2 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
 | 3 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 6 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 5 | [#NXTStandAndDeliver](http://twitter.com/search?q=%23NXTStandAndDeliver) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
 | 8 | [Belt](http://twitter.com/search?q=Belt) | N/A |
 | 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 16 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 17 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 18 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 19 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 20 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 21 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 22 | [Billboard Chris](http://twitter.com/search?q=Billboard+Chris) | N/A |
-| 23 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 26 | [Horgan](http://twitter.com/search?q=Horgan) | N/A |
-| 27 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 28 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 33 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 35 | [Inuit](http://twitter.com/search?q=Inuit) | N/A |
-| 36 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 37 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 40 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 41 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
-| 42 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
-| 43 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 44 | [#carbontax](http://twitter.com/search?q=%23carbontax) | N/A |
-| 45 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 46 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 10 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 11 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 13 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
+| 16 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 17 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 19 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 20 | [indi](http://twitter.com/search?q=indi) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 23 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 24 | [Billboard Chris](http://twitter.com/search?q=Billboard+Chris) | N/A |
+| 25 | [Horgan](http://twitter.com/search?q=Horgan) | N/A |
+| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 29 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 33 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 34 | [Carbon Tax](http://twitter.com/search?q=Carbon+Tax) | N/A |
+| 35 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 36 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 37 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 38 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 39 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
+| 40 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
 
 
 

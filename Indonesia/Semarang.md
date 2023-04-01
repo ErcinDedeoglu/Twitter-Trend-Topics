@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-01 19:17:22 UTC`
+📆 Last Updated: `2023-04-01 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [#MarhabanYaaRamadhan](http://twitter.com/search?q=%23MarhabanYaaRamadhan) | N/A |
-| 4 | [The Azhari](http://twitter.com/search?q=The+Azhari) | N/A |
-| 5 | [Marin](http://twitter.com/search?q=Marin) | N/A |
-| 6 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 7 | [#maunontonkhanzab](http://twitter.com/search?q=%23maunontonkhanzab) | N/A |
+| 2 | [#MarhabanYaaRamadhan](http://twitter.com/search?q=%23MarhabanYaaRamadhan) | N/A |
+| 3 | [The Azhari](http://twitter.com/search?q=The+Azhari) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [#maunontonkhanzab](http://twitter.com/search?q=%23maunontonkhanzab) | N/A |
+| 6 | [#maunontonkhanzab](http://twitter.com/search?q=%23maunontonkhanzab) | N/A |
+| 7 | [Marin](http://twitter.com/search?q=Marin) | N/A |
 | 8 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
-| 9 | [#AzarineXRedVelvet](http://twitter.com/search?q=%23AzarineXRedVelvet) | N/A |
-| 10 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 13 | [#kuisgriramadan](http://twitter.com/search?q=%23kuisgriramadan) | N/A |
+| 9 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 10 | [#AzarineXRedVelvet](http://twitter.com/search?q=%23AzarineXRedVelvet) | N/A |
+| 11 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 13 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
 | 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 16 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 20 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 15 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 16 | [Eiffel Tower](http://twitter.com/search?q=Eiffel+Tower) | N/A |
+| 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 21 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
 | 22 | [selamat psm](http://twitter.com/search?q=selamat+psm) | N/A |
 | 23 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
-| 24 | [Brad Binder](http://twitter.com/search?q=Brad+Binder) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 25 | [Brad Binder](http://twitter.com/search?q=Brad+Binder) | N/A |
 | 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 27 | [Gregoria Mariska Tunjung](http://twitter.com/search?q=Gregoria+Mariska+Tunjung) | N/A |
-| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 29 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 30 | [Andis](http://twitter.com/search?q=Andis) | N/A |
-| 31 | [Bambang Pacul](http://twitter.com/search?q=Bambang+Pacul) | N/A |
-| 32 | [Todd](http://twitter.com/search?q=Todd) | N/A |
-| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 28 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 29 | [Bambang Pacul](http://twitter.com/search?q=Bambang+Pacul) | N/A |
+| 30 | [Dumai](http://twitter.com/search?q=Dumai) | N/A |
+| 31 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 32 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 33 | [Andis](http://twitter.com/search?q=Andis) | N/A |
 | 34 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 35 | [Dumai](http://twitter.com/search?q=Dumai) | N/A |
-| 36 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
-| 37 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 38 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 39 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
+| 35 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
+| 36 | [Celsi](http://twitter.com/search?q=Celsi) | N/A |
+| 37 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 38 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 39 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 | 40 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
-| 41 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 42 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 43 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 44 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 45 | [Dewan Perwakilan Partai](http://twitter.com/search?q=Dewan+Perwakilan+Partai) | N/A |
-| 46 | [Celsi](http://twitter.com/search?q=Celsi) | N/A |
-| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 48 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 41 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 42 | [Dewan Perwakilan Partai](http://twitter.com/search?q=Dewan+Perwakilan+Partai) | N/A |
+| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 45 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 47 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 48 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
 | 49 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
 
 
