@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-01 00:28:47 UTC`
+📆 Last Updated: `2023-04-01 01:43:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
-| 2 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
-| 3 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 4 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 5 | [#happybdaylola](http://twitter.com/search?q=%23happybdaylola) | N/A |
-| 6 | [Jadel](http://twitter.com/search?q=Jadel) | N/A |
-| 7 | [Samantha Hudson](http://twitter.com/search?q=Samantha+Hudson) | N/A |
-| 8 | [#euforiatv3](http://twitter.com/search?q=%23euforiatv3) | N/A |
-| 9 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 10 | [Josie](http://twitter.com/search?q=Josie) | N/A |
-| 11 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 12 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 13 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 1 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
+| 2 | [#FirstDates31M](http://twitter.com/search?q=%23FirstDates31M) | N/A |
+| 3 | [#LevanteRealZaragoza](http://twitter.com/search?q=%23LevanteRealZaragoza) | N/A |
+| 4 | [#mamaobregon](http://twitter.com/search?q=%23mamaobregon) | N/A |
+| 5 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
+| 6 | [Copete](http://twitter.com/search?q=Copete) | N/A |
+| 7 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
+| 8 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
+| 9 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 10 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
+| 11 | [Zornoza](http://twitter.com/search?q=Zornoza) | N/A |
+| 12 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 13 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
 | 14 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 15 | [Merche](http://twitter.com/search?q=Merche) | N/A |
-| 16 | [Copete](http://twitter.com/search?q=Copete) | N/A |
-| 17 | [Moller](http://twitter.com/search?q=Moller) | N/A |
-| 18 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 19 | [Buesa](http://twitter.com/search?q=Buesa) | N/A |
-| 20 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
-| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 22 | [Camarón](http://twitter.com/search?q=Camar%c3%b3n) | N/A |
-| 23 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 24 | [Saracchi](http://twitter.com/search?q=Saracchi) | N/A |
-| 25 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 26 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 27 | [Zornoza](http://twitter.com/search?q=Zornoza) | N/A |
-| 28 | [Posición Pérez](http://twitter.com/search?q=Posici%c3%b3n+P%c3%a9rez) | N/A |
-| 29 | [Posición Alonso](http://twitter.com/search?q=Posici%c3%b3n+Alonso) | N/A |
-| 30 | [Itoudis](http://twitter.com/search?q=Itoudis) | N/A |
-| 31 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
-| 32 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
-| 33 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
-| 34 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
-| 35 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 36 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 38 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 39 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
-| 40 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 41 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 42 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 44 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 45 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
-| 46 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 47 | [#LaReunionSecreta](http://twitter.com/search?q=%23LaReunionSecreta) | N/A |
-| 48 | [#AustraliaDAZNF1](http://twitter.com/search?q=%23AustraliaDAZNF1) | N/A |
-| 49 | [#mamaobregon](http://twitter.com/search?q=%23mamaobregon) | N/A |
+| 15 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 16 | [Buesa](http://twitter.com/search?q=Buesa) | N/A |
+| 17 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 18 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 20 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 21 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
+| 22 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 23 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 24 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 25 | [Leo Messi](http://twitter.com/search?q=Leo+Messi) | N/A |
+| 26 | [El Mundo Today](http://twitter.com/search?q=El+Mundo+Today) | N/A |
+| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 28 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 30 | [Pino Montano](http://twitter.com/search?q=Pino+Montano) | N/A |
+| 31 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 32 | [Barbón](http://twitter.com/search?q=Barb%c3%b3n) | N/A |
+| 33 | [#LaReunionSecreta](http://twitter.com/search?q=%23LaReunionSecreta) | N/A |
+| 34 | [#RCDMallorcaOsasuna](http://twitter.com/search?q=%23RCDMallorcaOsasuna) | N/A |
+| 35 | [#L6CCancelados](http://twitter.com/search?q=%23L6CCancelados) | N/A |
+| 36 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
+| 37 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 38 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
+| 39 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 40 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 41 | [#30Monedas](http://twitter.com/search?q=%2330Monedas) | N/A |
+| 42 | [#ViernesDeDolores](http://twitter.com/search?q=%23ViernesDeDolores) | N/A |
+| 43 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 44 | [#EuroLeague](http://twitter.com/search?q=%23EuroLeague) | N/A |
+| 45 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 46 | [#LucaOne31M](http://twitter.com/search?q=%23LucaOne31M) | N/A |
+| 47 | [#YoMeRebelo31M](http://twitter.com/search?q=%23YoMeRebelo31M) | N/A |
+| 48 | [#Gianmarco31M](http://twitter.com/search?q=%23Gianmarco31M) | N/A |
 
 
 

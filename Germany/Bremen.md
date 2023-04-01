@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-01 00:28:44 UTC`
+📆 Last Updated: `2023-04-01 01:43:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 2 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
 | 3 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 4 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 5 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 6 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 7 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 4 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 5 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 6 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 8 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 9 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 10 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 9 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 10 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 11 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
 | 12 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 13 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 14 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 15 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 17 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 18 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 19 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 20 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 21 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 22 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 23 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 24 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 25 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 26 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 27 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 28 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 30 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 31 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 32 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 33 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 34 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 35 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 36 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
-| 37 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
-| 38 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 39 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 40 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 41 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 42 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
-| 43 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 44 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 45 | [Benes](http://twitter.com/search?q=Benes) | N/A |
-| 46 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 47 | [Leihmutterschaft](http://twitter.com/search?q=Leihmutterschaft) | N/A |
+| 13 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 14 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 15 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 16 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 17 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 18 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 19 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [frauensauna](http://twitter.com/search?q=frauensauna) | N/A |
+| 22 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 23 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 24 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 25 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 26 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 27 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 29 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 30 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 31 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 32 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 33 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 34 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 35 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 36 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 37 | [portal in die zukunft](http://twitter.com/search?q=portal+in+die+zukunft) | N/A |
+| 38 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
+| 39 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 40 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 41 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 42 | [Leihmutterschaft](http://twitter.com/search?q=Leihmutterschaft) | N/A |
+| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 44 | [Lebensversicherung](http://twitter.com/search?q=Lebensversicherung) | N/A |
+| 45 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 46 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 47 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-01 00:29:12 UTC`
+📆 Last Updated: `2023-04-01 01:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 1 | [#MiamiNFTWeek](http://twitter.com/search?q=%23MiamiNFTWeek) | N/A |
 | 2 | [#megaconorlando](http://twitter.com/search?q=%23megaconorlando) | N/A |
-| 3 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 4 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 5 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 5 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 6 | [Republic](http://twitter.com/search?q=Republic) | N/A |
 | 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 9 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 11 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 12 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 13 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 14 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 15 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 16 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 17 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 19 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 20 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 21 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
-| 22 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 24 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 25 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
-| 26 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
-| 27 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 28 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 29 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
-| 30 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 31 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
-| 32 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
-| 33 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
-| 34 | [Komander](http://twitter.com/search?q=Komander) | N/A |
-| 35 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 37 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
-| 38 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 39 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
-| 40 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 41 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 42 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 43 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 44 | [Transtifa](http://twitter.com/search?q=Transtifa) | N/A |
-| 45 | [Willie Mack](http://twitter.com/search?q=Willie+Mack) | Willie Mack is a slang term used to describe someone who is very cool, confident, and stylish. It can also be used to describe someone who is an expert at something. |
-| 46 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 47 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 48 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 49 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
-| 50 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 10 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 14 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 17 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 18 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 20 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 21 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 22 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 24 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 25 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 26 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 27 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 28 | [Ames](http://twitter.com/search?q=Ames) | N/A |
+| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 30 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 31 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 32 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 33 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 34 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 35 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 36 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 37 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 38 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 39 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
+| 40 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 41 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 42 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 43 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 44 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
+| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 46 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 47 | [Firehouse](http://twitter.com/search?q=Firehouse) | N/A |
+| 48 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
+| 49 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 50 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
 
 
 

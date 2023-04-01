@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-01 00:29:05 UTC`
+📆 Last Updated: `2023-04-01 01:43:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 2 | [#CSKvsGT](http://twitter.com/search?q=%23CSKvsGT) | N/A |
+| 2 | [#cskvsgt](http://twitter.com/search?q=%23cskvsgt) | N/A |
 | 3 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
-| 4 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
+| 4 | [#ConfluenceOfAllReligions](http://twitter.com/search?q=%23ConfluenceOfAllReligions) | N/A |
 | 5 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 6 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 7 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 8 | [Arijit Singh](http://twitter.com/search?q=Arijit+Singh) | N/A |
-| 9 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 10 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 11 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 12 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 13 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 14 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
-| 17 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 18 | [Degree](http://twitter.com/search?q=Degree) | N/A |
-| 19 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 20 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
-| 21 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
-| 22 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 23 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 24 | [fancode t20fest](http://twitter.com/search?q=fancode+t20fest) | N/A |
-| 25 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 26 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 27 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 28 | [nita ambani](http://twitter.com/search?q=nita+ambani) | N/A |
-| 29 | [saiya winning hearts](http://twitter.com/search?q=saiya+winning+hearts) | N/A |
-| 30 | [गुजरात हाई कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b9%e0%a4%be%e0%a4%88+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 31 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 32 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
+| 6 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 7 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 8 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 9 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 10 | [Foundation Month](http://twitter.com/search?q=Foundation+Month) | N/A |
+| 11 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 12 | [Arijit Singh](http://twitter.com/search?q=Arijit+Singh) | N/A |
+| 13 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 14 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 15 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 16 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 17 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 18 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 19 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
+| 20 | [Degree](http://twitter.com/search?q=Degree) | N/A |
+| 21 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
+| 22 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 23 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
+| 24 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
+| 25 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 26 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 27 | [fancode t20fest](http://twitter.com/search?q=fancode+t20fest) | N/A |
+| 28 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 29 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 30 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 31 | [nita ambani](http://twitter.com/search?q=nita+ambani) | N/A |
+| 32 | [saiya winning hearts](http://twitter.com/search?q=saiya+winning+hearts) | N/A |
 | 33 | [Impact](http://twitter.com/search?q=Impact) | N/A |
-| 34 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 35 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
-| 36 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 37 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
-| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 39 | [Gigi Hadid](http://twitter.com/search?q=Gigi+Hadid) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 42 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
-| 43 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [emma chamberlain](http://twitter.com/search?q=emma+chamberlain) | N/A |
-| 46 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 47 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 34 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 35 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
+| 36 | [गुजरात हाई कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b9%e0%a4%be%e0%a4%88+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 37 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 38 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 39 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 40 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 41 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 42 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 43 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 44 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 45 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 46 | [Shekar](http://twitter.com/search?q=Shekar) | N/A |
+| 47 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
 
 
 

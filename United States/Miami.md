@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-01 00:29:13 UTC`
+📆 Last Updated: `2023-04-01 01:43:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 2 | [#megaconorlando](http://twitter.com/search?q=%23megaconorlando) | N/A |
-| 3 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 4 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 5 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 9 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 10 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 11 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 12 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 13 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 14 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 16 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 19 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 20 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
-| 21 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 22 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 23 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 24 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
-| 25 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
-| 26 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 27 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 28 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
-| 29 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 30 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
-| 31 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
-| 32 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
-| 33 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 34 | [Komander](http://twitter.com/search?q=Komander) | N/A |
-| 35 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 36 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
-| 37 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 38 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
-| 39 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 40 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 41 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 42 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 43 | [Willie Mack](http://twitter.com/search?q=Willie+Mack) | Willie Mack is a slang term used to describe someone who is very cool, confident, and stylish. It can also be used to describe someone who is an expert at something. |
-| 44 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 45 | [Transtifa](http://twitter.com/search?q=Transtifa) | N/A |
-| 46 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 47 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 48 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 1 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 2 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 3 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
+| 4 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 5 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 6 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 7 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 9 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 10 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 11 | [#megaconorlando](http://twitter.com/search?q=%23megaconorlando) | N/A |
+| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 14 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 15 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 16 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 17 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 18 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 19 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 20 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 21 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 22 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 23 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 24 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 25 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 26 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 27 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 28 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 29 | [Bobby Lashley](http://twitter.com/search?q=Bobby+Lashley) | N/A |
+| 30 | [Latino World Order](http://twitter.com/search?q=Latino+World+Order) | N/A |
+| 31 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 32 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 33 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 34 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
+| 35 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 36 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 37 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 38 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 39 | [Athena](http://twitter.com/search?q=Athena) | N/A |
+| 40 | [Damn AD](http://twitter.com/search?q=Damn+AD) | N/A |
+| 41 | [The LWO](http://twitter.com/search?q=The+LWO) | N/A |
+| 42 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 43 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 44 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 45 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
+| 46 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 47 | [Battle Royal](http://twitter.com/search?q=Battle+Royal) | N/A |
+| 48 | [Top Dolla](http://twitter.com/search?q=Top+Dolla) | Top Dolla is a slang term used to refer to someone who is wealthy or has a lot of money. It can also be used to describe something that is of high quality or value. |
+| 49 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 50 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
 
 
 

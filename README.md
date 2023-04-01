@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-01 00:28:30 UTC`
+📆 Last Updated: `2023-04-01 01:42:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 2 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 3 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 7 | [#فوازير_غازي_الذيابي5](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a5) | N/A |
-| 8 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 9 | [#土曜はナニする](http://twitter.com/search?q=%23%e5%9c%9f%e6%9b%9c%e3%81%af%e3%83%8a%e3%83%8b%e3%81%99%e3%82%8b) | "#土曜はナニする" is a hashtag in Japanese that translates to "What are you doing on Saturdays?". It is used to ask people what they are doing on Saturdays. |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 12 | [MAIARA E MARAISA NO FAUSTÃO](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+FAUST%c3%83O) | N/A |
-| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 14 | [まことおにいさん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
-| 15 | [少子化財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e8%b2%a1%e6%ba%90) | N/A |
-| 16 | [兄さん卒業](http://twitter.com/search?q=%e5%85%84%e3%81%95%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
-| 17 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 18 | [新年度スタート](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
-| 19 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 20 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 21 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 22 | [誠お兄さん](http://twitter.com/search?q=%e8%aa%a0%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 23 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 24 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 25 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 26 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 27 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 28 | [EmrecanTemur İyikiDoğdun](http://twitter.com/search?q=EmrecanTemur+%c4%b0yikiDo%c4%9fdun) | N/A |
-| 29 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 30 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 31 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 32 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 33 | [社会保険料上乗せ検討](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e6%96%99%e4%b8%8a%e4%b9%97%e3%81%9b%e6%a4%9c%e8%a8%8e) | N/A |
-| 34 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 35 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 36 | [るきしょせ](http://twitter.com/search?q=%e3%82%8b%e3%81%8d%e3%81%97%e3%82%87%e3%81%9b) | N/A |
-| 37 | [Sevgili Nisan](http://twitter.com/search?q=Sevgili+Nisan) | N/A |
-| 38 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 39 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 40 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 41 | [Nigel McGuinness](http://twitter.com/search?q=Nigel+McGuinness) | N/A |
-| 42 | [MARCOS GINOCCHIO EN LAM](http://twitter.com/search?q=MARCOS+GINOCCHIO+EN+LAM) | N/A |
-| 43 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 44 | [السوق الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 45 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 46 | [新年度の始まり](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
-| 47 | [新年度初日](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e5%88%9d%e6%97%a5) | N/A |
-| 48 | [ミライクルクル](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%82%af%e3%83%ab%e3%82%af%e3%83%ab) | N/A |
-| 49 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
-| 50 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#فوازير_غازي_الذيابي5](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a5) | N/A |
+| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 5 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 6 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 7 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 8 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 12 | [Seccadeye](http://twitter.com/search?q=Seccadeye) | N/A |
+| 13 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
+| 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 15 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 18 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
+| 19 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 20 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 21 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 22 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 23 | [Hasan Karaman](http://twitter.com/search?q=Hasan+Karaman) | N/A |
+| 24 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 26 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [Khazri](http://twitter.com/search?q=Khazri) | N/A |
+| 29 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 30 | [Μοτο](http://twitter.com/search?q=%ce%9c%ce%bf%cf%84%ce%bf) | N/A |
+| 31 | [Sakho](http://twitter.com/search?q=Sakho) | N/A |
+| 32 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 33 | [刀子ちゃん](http://twitter.com/search?q=%e5%88%80%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 34 | [Josh Friedman](http://twitter.com/search?q=Josh+Friedman) | N/A |
+| 35 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 36 | [ابو موسي الاشعري](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d8%b1%d9%8a) | N/A |
+| 37 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 38 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 39 | [#OMMHSC](http://twitter.com/search?q=%23OMMHSC) | N/A |
+| 40 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 41 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
+| 42 | [#سوال_ابوفهد_اليومي3](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a3) | N/A |
+| 43 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 44 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 45 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 46 | [#رمضان_مع_ابو_فهد٢](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af%d9%a2) | N/A |
+| 47 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 48 | [#OlympiacosBC](http://twitter.com/search?q=%23OlympiacosBC) | N/A |
+| 49 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 50 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
 
 
 

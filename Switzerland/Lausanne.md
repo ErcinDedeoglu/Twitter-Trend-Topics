@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-01 00:28:48 UTC`
+📆 Last Updated: `2023-04-01 01:43:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 1 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 8 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 5 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 7 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 8 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
 | 9 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 10 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 12 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 14 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 15 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
-| 16 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 17 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 12 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 13 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Rabatt](http://twitter.com/search?q=Rabatt) | N/A |
+| 16 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 17 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
 | 18 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 19 | [Karte](http://twitter.com/search?q=Karte) | N/A |
-| 20 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
-| 21 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 22 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 23 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 24 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 25 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 27 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 28 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 29 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 30 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 31 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 32 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 33 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 34 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 37 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 38 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 39 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 40 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 41 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 42 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 43 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 44 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 45 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 46 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 47 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
-| 48 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 19 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 20 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
+| 21 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 22 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 23 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
+| 24 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
+| 25 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 26 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 27 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 28 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 29 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 30 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 31 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 32 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 35 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 36 | [anklage](http://twitter.com/search?q=anklage) | N/A |
+| 37 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 38 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 39 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 40 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 41 | [signal](http://twitter.com/search?q=signal) | N/A |
+| 42 | [President](http://twitter.com/search?q=President) | N/A |
+| 43 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
+| 44 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 45 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
+| 46 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 47 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 48 | [Renten](http://twitter.com/search?q=Renten) | N/A |
 
 
 

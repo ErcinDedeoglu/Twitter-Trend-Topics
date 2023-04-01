@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-04-01 00:28:46 UTC`
+📆 Last Updated: `2023-04-01 01:43:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
-| 2 | [#prelemi](http://twitter.com/search?q=%23prelemi) | N/A |
-| 3 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
+| 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 2 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
+| 3 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
 | 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 5 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 6 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 7 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 8 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
-| 9 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 10 | [Giuly](http://twitter.com/search?q=Giuly) | N/A |
-| 11 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 12 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 13 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 14 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 15 | [Giulietta](http://twitter.com/search?q=Giulietta) | N/A |
-| 16 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 17 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
-| 18 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 19 | [Senato](http://twitter.com/search?q=Senato) | N/A |
-| 20 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 21 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
-| 22 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 23 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 24 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 25 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 26 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 27 | [#Alcaraz](http://twitter.com/search?q=%23Alcaraz) | N/A |
-| 28 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 29 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
-| 30 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 31 | [#propagandaoperaia](http://twitter.com/search?q=%23propagandaoperaia) | N/A |
-| 32 | [#ATPMiami](http://twitter.com/search?q=%23ATPMiami) | N/A |
-| 33 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 34 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
-| 35 | [#giuliasalemi](http://twitter.com/search?q=%23giuliasalemi) | N/A |
-| 36 | [#GenoaReggina](http://twitter.com/search?q=%23GenoaReggina) | N/A |
-| 37 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 38 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 39 | [#1aprile](http://twitter.com/search?q=%231aprile) | N/A |
-| 40 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
-| 41 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 5 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 7 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 8 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 9 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 10 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 11 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 12 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 13 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 14 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 15 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 16 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 17 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 18 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
+| 19 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 20 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 21 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 22 | [Serena Rossi](http://twitter.com/search?q=Serena+Rossi) | N/A |
+| 23 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 24 | [senaldi](http://twitter.com/search?q=senaldi) | N/A |
+| 25 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
+| 26 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 27 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 28 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
+| 29 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 30 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 31 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 32 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 33 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 34 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 35 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 36 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 37 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 38 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 39 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 40 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 41 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 42 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 43 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 44 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 45 | [Giulietta](http://twitter.com/search?q=Giulietta) | N/A |
+| 46 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 47 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 48 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 49 | [Underdog](http://twitter.com/search?q=Underdog) | N/A |
 
 
 

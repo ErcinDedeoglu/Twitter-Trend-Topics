@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-01 00:28:30 UTC`
+📆 Last Updated: `2023-04-01 01:42:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 9 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 10 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 11 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
-| 12 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 14 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 15 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 16 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 18 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 19 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
-| 20 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 21 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 22 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 23 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 24 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 25 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 26 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 27 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 6 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 7 | [C-11](http://twitter.com/search?q=C-11) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 11 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [erin o'toole](http://twitter.com/search?q=erin+o%27toole) | N/A |
+| 14 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 16 | [PRAYER CIRCLE IN A FIELD](http://twitter.com/search?q=PRAYER+CIRCLE+IN+A+FIELD) | N/A |
+| 17 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
+| 18 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
+| 19 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 20 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 21 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 22 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 24 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 26 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
+| 27 | [daulton varsho](http://twitter.com/search?q=daulton+varsho) | N/A |
 | 28 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 31 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
-| 32 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 33 | [Kyle Connor](http://twitter.com/search?q=Kyle+Connor) | N/A |
-| 34 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 35 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 37 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 38 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
-| 39 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 40 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 41 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
-| 42 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 43 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 44 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 45 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 46 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 47 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 48 | [Stuart Skinner](http://twitter.com/search?q=Stuart+Skinner) | N/A |
-| 49 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 31 | [The Canadian Army](http://twitter.com/search?q=The+Canadian+Army) | N/A |
+| 32 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 33 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 34 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
+| 35 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
+| 36 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 37 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
+| 38 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 39 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 40 | [jordan romano](http://twitter.com/search?q=jordan+romano) | N/A |
+| 41 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 42 | [ATCO](http://twitter.com/search?q=ATCO) | N/A |
+| 43 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
+| 44 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 45 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
+| 46 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 47 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 48 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 49 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
 
 
 

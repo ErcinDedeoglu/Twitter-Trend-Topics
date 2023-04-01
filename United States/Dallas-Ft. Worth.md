@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-01 00:29:10 UTC`
+📆 Last Updated: `2023-04-01 01:43:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CapitalOneUltimateFan](http://twitter.com/search?q=%23CapitalOneUltimateFan) | N/A |
-| 2 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 3 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 5 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
-| 6 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 7 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 9 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 10 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 11 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 1 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 2 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
+| 3 | [#Jouvert](http://twitter.com/search?q=%23Jouvert) | N/A |
+| 4 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
+| 5 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 6 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
+| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 8 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
+| 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 10 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 11 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 12 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
 | 13 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 14 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 16 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 17 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 18 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 19 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 20 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 21 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 22 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 24 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 25 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 26 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
-| 27 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 28 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 29 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 30 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
-| 31 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
-| 32 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 33 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 34 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
-| 35 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 36 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
-| 37 | [Komander](http://twitter.com/search?q=Komander) | N/A |
-| 38 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
-| 39 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
-| 40 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 41 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 42 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
-| 43 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 44 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
-| 45 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 46 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 47 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 48 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 49 | [Transtifa](http://twitter.com/search?q=Transtifa) | N/A |
-| 50 | [Willie Mack](http://twitter.com/search?q=Willie+Mack) | Willie Mack is a slang term used to describe someone who is very cool, confident, and stylish. It can also be used to describe someone who is an expert at something. |
+| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 16 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 19 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
+| 22 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 23 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 24 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 25 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
+| 26 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 27 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
+| 28 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 29 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 31 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
+| 32 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
+| 33 | [Ames](http://twitter.com/search?q=Ames) | N/A |
+| 34 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 35 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 36 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 37 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
+| 38 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
+| 39 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
+| 40 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 41 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 42 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 43 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 44 | [Bishop Sankey](http://twitter.com/search?q=Bishop+Sankey) | N/A |
+| 45 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 46 | [Tates](http://twitter.com/search?q=Tates) | N/A |
+| 47 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 48 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 49 | [High Wind Warning](http://twitter.com/search?q=High+Wind+Warning) | N/A |
+| 50 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-04-01 00:29:01 UTC`
+📆 Last Updated: `2023-04-01 01:43:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#مسابقه_دعوه_بلحمر](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%af%d8%b9%d9%88%d9%87_%d8%a8%d9%84%d8%ad%d9%85%d8%b1) | N/A |
-| 2 | [#سعد_الشهري](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 1 | [#الاهلي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 2 | [#موسم_رمضان](http://twitter.com/search?q=%23%d9%85%d9%88%d8%b3%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 3 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 4 | [#فوازير_غازي_الذيابي5](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a5) | N/A |
-| 5 | [#مراحل_سلمان_بن_خالد](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 6 | [#مكافاه_مصرف_الراجحي8](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a8) | N/A |
-| 7 | [السوق الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 8 | [المراه العاقله](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%82%d9%84%d9%87) | N/A |
-| 9 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 10 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 11 | [دوري السله](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d9%87) | N/A |
-| 12 | [ابو موسي الاشعري](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d8%b1%d9%8a) | N/A |
-| 13 | [المجد الوثايقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%af+%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d9%8a%d9%82%d9%8a%d9%87) | N/A |
-| 14 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 15 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 16 | [10 رمضان](http://twitter.com/search?q=10+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 17 | [برج المملكه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87) | N/A |
-| 18 | [الشوط الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 19 | [القناه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 20 | [داود الشريان](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d8%af+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d8%a7%d9%86) | N/A |
-| 21 | [كره السله](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d9%87) | N/A |
-| 22 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
-| 23 | [الامه الاهلاويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 24 | [كره الطايره](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 4 | [#سعد_الشهري](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 5 | [#فوزيه_اللحيدان](http://twitter.com/search?q=%23%d9%81%d9%88%d8%b2%d9%8a%d9%87_%d8%a7%d9%84%d9%84%d8%ad%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 6 | [#فوازير_غازي_الذيابي5](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a5) | N/A |
+| 7 | [بن فطيس](http://twitter.com/search?q=%d8%a8%d9%86+%d9%81%d8%b7%d9%8a%d8%b3) | N/A |
+| 8 | [السوق الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 9 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 10 | [المراه العاقله](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%82%d9%84%d9%87) | N/A |
+| 11 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 12 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 13 | [ابو موسي الاشعري](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d8%b1%d9%8a) | N/A |
+| 14 | [10 رمضان](http://twitter.com/search?q=10+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 15 | [دوري السله](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d9%87) | N/A |
+| 16 | [داود الشريان](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d8%af+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d8%a7%d9%86) | N/A |
+| 17 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 18 | [السياحه الداخليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%87+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 19 | [المجد الوثايقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%af+%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 20 | [الشوط الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 21 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
+| 22 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
+| 23 | [برج المملكه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87) | N/A |
+| 24 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 25 | [علي السنحاني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d8%ad%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 27 | [1 رمضان 1443](http://twitter.com/search?q=1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+1443) | N/A |
-| 28 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 29 | [الدوري الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 30 | [ابو موسى](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 31 | [هوساوي](http://twitter.com/search?q=%d9%87%d9%88%d8%b3%d8%a7%d9%88%d9%8a) | N/A |
-| 32 | [الالعاب المختلفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d9%84%d9%81%d9%87) | N/A |
-| 33 | [اندرو تيت](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%88+%d8%aa%d9%8a%d8%aa) | N/A |
-| 34 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 35 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 36 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 37 | [علي بنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86%d8%aa%d9%8a) | N/A |
-| 38 | [فيصل بن فهد](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d9%81%d9%87%d8%af) | N/A |
-| 39 | [عبدالرزاق حمدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%ad%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 40 | [ابو بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
-| 41 | [#رمضان_مع_ابو_فهد2](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af2) | N/A |
-| 42 | [#مسابقه_طرق_الرياض10](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b610) | N/A |
-| 43 | [#عطر_الكلام_مع_الانماء](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%85_%d9%85%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1) | N/A |
-| 44 | [#الروشن9](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%869) | N/A |
-| 45 | [#المربع_الاخير9](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b19) | N/A |
-| 46 | [#سوال_ابوفهد_اليومي3](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a3) | N/A |
+| 26 | [الامه الاهلاويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 27 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
+| 28 | [القناه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 29 | [كره السله](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d9%87) | N/A |
+| 30 | [الالعاب المختلفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d9%84%d9%81%d9%87) | N/A |
+| 31 | [كره الطايره](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 32 | [هوساوي](http://twitter.com/search?q=%d9%87%d9%88%d8%b3%d8%a7%d9%88%d9%8a) | N/A |
+| 33 | [ابو موسى](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 34 | [اندرو تيت](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%88+%d8%aa%d9%8a%d8%aa) | N/A |
+| 35 | [المباراه القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 36 | [ماريا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7) | N/A |
+| 37 | [الدوري الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 38 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 39 | [فيصل بن فهد](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d9%81%d9%87%d8%af) | N/A |
+| 40 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 41 | [عبدالرزاق حمدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%ad%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 42 | [علي بنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86%d8%aa%d9%8a) | N/A |
+| 43 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 44 | [#مراحل_سلمان_بن_خالد](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 45 | [#مكافاه_مصرف_الراجحي8](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a8) | N/A |
+| 46 | [#مسابقه_طرق_الرياض10](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b610) | N/A |
 | 47 | [#مسابقه_المربع_نت10](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa10) | N/A |
-| 48 | [#العمودي_للعود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%85%d9%88%d8%af%d9%8a_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
-| 49 | [#مسابقه_السلامه_المروريه9](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%879) | N/A |
-| 50 | [#زد_رصيدك67](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8367) | N/A |
+| 48 | [#Ad_faz](http://twitter.com/search?q=%23Ad_faz) | N/A |
+| 49 | [#رمضان_مع_ابو_فهد2](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af2) | N/A |
+| 50 | [#عطر_الكلام_مع_الانماء](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%85_%d9%85%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-01 00:28:41 UTC`
+📆 Last Updated: `2023-04-01 01:42:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MARCOS GINOCCHIO EN LAM](http://twitter.com/search?q=MARCOS+GINOCCHIO+EN+LAM) | N/A |
-| 2 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
-| 3 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
-| 4 | [Durso](http://twitter.com/search?q=Durso) | N/A |
-| 5 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 6 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 7 | [Godoy](http://twitter.com/search?q=Godoy) | N/A |
-| 8 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 9 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
-| 10 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
-| 11 | [Trucco](http://twitter.com/search?q=Trucco) | N/A |
-| 12 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
-| 13 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 14 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 15 | [Alejo Veliz](http://twitter.com/search?q=Alejo+Veliz) | N/A |
-| 16 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
-| 17 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 18 | [Melluso](http://twitter.com/search?q=Melluso) | N/A |
-| 19 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
-| 20 | [Sforza](http://twitter.com/search?q=Sforza) | N/A |
-| 21 | [marti benza](http://twitter.com/search?q=marti+benza) | N/A |
-| 22 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 23 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
-| 24 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 25 | [Ascacibar](http://twitter.com/search?q=Ascacibar) | N/A |
-| 26 | [Bautista Barros Schelotto](http://twitter.com/search?q=Bautista+Barros+Schelotto) | N/A |
-| 27 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
-| 28 | [Nazarena](http://twitter.com/search?q=Nazarena) | N/A |
-| 29 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
-| 30 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 31 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 32 | [Colapinto](http://twitter.com/search?q=Colapinto) | N/A |
-| 33 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 34 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 35 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 36 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
-| 37 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 38 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 39 | [#LaPeorOposicionDeLaHistoria](http://twitter.com/search?q=%23LaPeorOposicionDeLaHistoria) | N/A |
-| 40 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 41 | [Soldano](http://twitter.com/search?q=Soldano) | N/A |
-| 42 | [Esponda](http://twitter.com/search?q=Esponda) | N/A |
-| 43 | [CONE Y COTY EN TWITCH](http://twitter.com/search?q=CONE+Y+COTY+EN+TWITCH) | N/A |
-| 44 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 45 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 46 | [Ganen](http://twitter.com/search?q=Ganen) | N/A |
-| 47 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
-| 48 | [Scolari](http://twitter.com/search?q=Scolari) | N/A |
-| 49 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 1 | [#HablaJeyEnC5N](http://twitter.com/search?q=%23HablaJeyEnC5N) | N/A |
+| 2 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
+| 3 | [CONE Y COTY EN TWITCH](http://twitter.com/search?q=CONE+Y+COTY+EN+TWITCH) | N/A |
+| 4 | [#LaPeorOposicionDeLaHistoria](http://twitter.com/search?q=%23LaPeorOposicionDeLaHistoria) | N/A |
+| 5 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 6 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 7 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 8 | [Migliore](http://twitter.com/search?q=Migliore) | N/A |
+| 9 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 10 | [Casa Rosada](http://twitter.com/search?q=Casa+Rosada) | N/A |
+| 11 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
+| 12 | [#CHORIGABES](http://twitter.com/search?q=%23CHORIGABES) | N/A |
+| 13 | [USD 20.000](http://twitter.com/search?q=USD+20.000) | N/A |
+| 14 | [Justicia de EEUU](http://twitter.com/search?q=Justicia+de+EEUU) | N/A |
+| 15 | [Juan Carr](http://twitter.com/search?q=Juan+Carr) | N/A |
+| 16 | [Expropiación de YPF](http://twitter.com/search?q=Expropiaci%c3%b3n+de+YPF) | N/A |
+| 17 | [Alfonsín](http://twitter.com/search?q=Alfons%c3%adn) | N/A |
+| 18 | [Arévalo](http://twitter.com/search?q=Ar%c3%a9valo) | N/A |
+| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 20 | [La Plata](http://twitter.com/search?q=La+Plata) | N/A |
+| 21 | [Gabriel Palumbo](http://twitter.com/search?q=Gabriel+Palumbo) | N/A |
+| 22 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 23 | [Vaca Muerta](http://twitter.com/search?q=Vaca+Muerta) | N/A |
+| 24 | [Murió](http://twitter.com/search?q=Muri%c3%b3) | N/A |
+| 25 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 26 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
+| 27 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 28 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 29 | [Concordia](http://twitter.com/search?q=Concordia) | N/A |
+| 30 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
+| 31 | [El Papa](http://twitter.com/search?q=El+Papa) | N/A |
+| 32 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
+| 33 | [#EdaYSerkan](http://twitter.com/search?q=%23EdaYSerkan) | N/A |
+| 34 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 35 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
+| 36 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 37 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 38 | [#JusticiaPorBlas](http://twitter.com/search?q=%23JusticiaPorBlas) | N/A |
+| 39 | [#Malvinas](http://twitter.com/search?q=%23Malvinas) | N/A |
 
 
 

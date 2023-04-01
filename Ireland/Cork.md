@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-01 00:28:42 UTC`
+📆 Last Updated: `2023-04-01 01:43:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 4 | [#beyondfriday](http://twitter.com/search?q=%23beyondfriday) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
 | 5 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
 | 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 7 | [Seanad](http://twitter.com/search?q=Seanad) | N/A |
 | 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [Duff](http://twitter.com/search?q=Duff) | N/A |
-| 10 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 11 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 12 | [Solidarity](http://twitter.com/search?q=Solidarity) | N/A |
-| 13 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 14 | [Student Council](http://twitter.com/search?q=Student+Council) | N/A |
-| 15 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 16 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
-| 17 | [Level 1](http://twitter.com/search?q=Level+1) | N/A |
-| 18 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 19 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 20 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 21 | [corporal duggan](http://twitter.com/search?q=corporal+duggan) | N/A |
-| 22 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
-| 23 | [Harps](http://twitter.com/search?q=Harps) | N/A |
-| 24 | [Johnny Kenny](http://twitter.com/search?q=Johnny+Kenny) | N/A |
-| 25 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 26 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 27 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 28 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 29 | [Roderic](http://twitter.com/search?q=Roderic) | N/A |
-| 30 | [Focus Ireland](http://twitter.com/search?q=Focus+Ireland) | N/A |
-| 31 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 32 | [Derry City](http://twitter.com/search?q=Derry+City) | N/A |
-| 33 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 34 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
-| 35 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
-| 36 | [Richmond Park](http://twitter.com/search?q=Richmond+Park) | N/A |
-| 37 | [Congratulations Aoife](http://twitter.com/search?q=Congratulations+Aoife) | N/A |
-| 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 39 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
-| 40 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
+| 9 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 10 | [Solidarity](http://twitter.com/search?q=Solidarity) | N/A |
+| 11 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 12 | [Student Council](http://twitter.com/search?q=Student+Council) | N/A |
+| 13 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 14 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
+| 15 | [Level 1](http://twitter.com/search?q=Level+1) | N/A |
+| 16 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 17 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 18 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 19 | [Harps](http://twitter.com/search?q=Harps) | N/A |
+| 20 | [corporal duggan](http://twitter.com/search?q=corporal+duggan) | N/A |
+| 21 | [oriel park](http://twitter.com/search?q=oriel+park) | N/A |
+| 22 | [johnny kenny](http://twitter.com/search?q=johnny+kenny) | N/A |
+| 23 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 24 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 25 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 26 | [Roderic](http://twitter.com/search?q=Roderic) | N/A |
+| 27 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 28 | [Focus Ireland](http://twitter.com/search?q=Focus+Ireland) | N/A |
+| 29 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 30 | [Derry City](http://twitter.com/search?q=Derry+City) | N/A |
+| 31 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 32 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
+| 33 | [Duff](http://twitter.com/search?q=Duff) | N/A |
+| 34 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 35 | [Richmond Park](http://twitter.com/search?q=Richmond+Park) | N/A |
+| 36 | [Congratulations Aoife](http://twitter.com/search?q=Congratulations+Aoife) | N/A |
+| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 38 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 40 | [lime rick](http://twitter.com/search?q=lime+rick) | N/A |
 | 41 | [Joey](http://twitter.com/search?q=Joey) | N/A |
 | 42 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
 | 43 | [vera pauw](http://twitter.com/search?q=vera+pauw) | N/A |
 | 44 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 45 | [PRSI](http://twitter.com/search?q=PRSI) | N/A |
-| 46 | [Robbie Keane](http://twitter.com/search?q=Robbie+Keane) | N/A |
+| 45 | [Robbie Keane](http://twitter.com/search?q=Robbie+Keane) | N/A |
+| 46 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
 | 47 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
-| 48 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 48 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
 
 
 
