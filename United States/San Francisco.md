@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-01 17:17:20 UTC`
+📆 Last Updated: `2023-04-01 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 2 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 3 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 4 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
 | 5 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
 | 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 7 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [#GeneralConference](http://twitter.com/search?q=%23GeneralConference) | N/A |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 17 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 18 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 23 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 24 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 25 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 26 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 27 | [Tiffany Stratton](http://twitter.com/search?q=Tiffany+Stratton) | N/A |
-| 28 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 29 | [Schism](http://twitter.com/search?q=Schism) | N/A |
-| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 31 | [Duke Hudson](http://twitter.com/search?q=Duke+Hudson) | N/A |
-| 32 | [Indi](http://twitter.com/search?q=Indi) | N/A |
-| 33 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 34 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 35 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
-| 36 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 37 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 38 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 39 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
-| 40 | [Tyler Bate](http://twitter.com/search?q=Tyler+Bate) | N/A |
-| 41 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 42 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 10 | [Indi](http://twitter.com/search?q=Indi) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 15 | [#CHEAVL](http://twitter.com/search?q=%23CHEAVL) | N/A |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [#GeneralConference](http://twitter.com/search?q=%23GeneralConference) | N/A |
+| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 19 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 20 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
+| 21 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 22 | [Tiffany Stratton](http://twitter.com/search?q=Tiffany+Stratton) | N/A |
+| 23 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 24 | [Joe Coffey](http://twitter.com/search?q=Joe+Coffey) | N/A |
+| 25 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 29 | [Gallus](http://twitter.com/search?q=Gallus) | N/A |
+| 30 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 31 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 32 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 33 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 34 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Dexter Lumis](http://twitter.com/search?q=Dexter+Lumis) | N/A |
+| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 38 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 39 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
+| 40 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 41 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 43 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 44 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 45 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 46 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 48 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
-| 49 | [Benny Blanco](http://twitter.com/search?q=Benny+Blanco) | N/A |
-| 50 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 44 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
+| 45 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 46 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 47 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
+| 48 | [Nice April](http://twitter.com/search?q=Nice+April) | N/A |
+| 49 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 50 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
 
 
 

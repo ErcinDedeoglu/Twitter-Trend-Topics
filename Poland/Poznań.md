@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-01 17:16:46 UTC`
+📆 Last Updated: `2023-04-01 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#LEGRCZ](http://twitter.com/search?q=%23LEGRCZ) | N/A |
 | 2 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
 | 3 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 4 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 5 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
-| 6 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 7 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 8 | [#LEGRAK](http://twitter.com/search?q=%23LEGRAK) | N/A |
+| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 5 | [#WISCHR](http://twitter.com/search?q=%23WISCHR) | N/A |
+| 6 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
+| 7 | [Papszuna](http://twitter.com/search?q=Papszuna) | N/A |
+| 8 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
 | 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [Bayernu](http://twitter.com/search?q=Bayernu) | N/A |
-| 11 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 12 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 13 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 14 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 17 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
-| 18 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 19 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [Chrobrego](http://twitter.com/search?q=Chrobrego) | N/A |
-| 22 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
-| 23 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 24 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 26 | [Rodriego](http://twitter.com/search?q=Rodriego) | N/A |
-| 27 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 28 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
-| 29 | [Korona](http://twitter.com/search?q=Korona) | N/A |
-| 30 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 31 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 32 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 33 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 34 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
-| 35 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
-| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 37 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 38 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 39 | [Siemianowicach Śląskich](http://twitter.com/search?q=Siemianowicach+%c5%9al%c4%85skich) | N/A |
-| 40 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 41 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
-| 42 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 43 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
-| 44 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 45 | [podolski](http://twitter.com/search?q=podolski) | N/A |
-| 46 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 47 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 48 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 49 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
+| 10 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 13 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
+| 14 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 15 | [Lasyk](http://twitter.com/search?q=Lasyk) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
+| 18 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 19 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 20 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 23 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 24 | [Kupi](http://twitter.com/search?q=Kupi) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Ekstraklasy](http://twitter.com/search?q=Ekstraklasy) | N/A |
+| 27 | [Pekharta](http://twitter.com/search?q=Pekharta) | N/A |
+| 28 | [Junca](http://twitter.com/search?q=Junca) | N/A |
+| 29 | [Ligi Narodowej](http://twitter.com/search?q=Ligi+Narodowej) | N/A |
+| 30 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
+| 31 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
+| 32 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
+| 33 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 35 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 36 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
+| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 38 | [Muci](http://twitter.com/search?q=Muci) | N/A |
+| 39 | [Chrobrego](http://twitter.com/search?q=Chrobrego) | N/A |
+| 40 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 42 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
+| 43 | [Musiolik](http://twitter.com/search?q=Musiolik) | N/A |
+| 44 | [Radzie Bezpieczeństwa ONZ](http://twitter.com/search?q=Radzie+Bezpiecze%c5%84stwa+ONZ) | N/A |
+| 45 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 46 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 47 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
+| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 49 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
 
 
 

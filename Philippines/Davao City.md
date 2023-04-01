@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-01 17:17:01 UTC`
+📆 Last Updated: `2023-04-01 18:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
-| 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 3 | [#FELIPatAQUATICbeats](http://twitter.com/search?q=%23FELIPatAQUATICbeats) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#ThankYouKCornerPH](http://twitter.com/search?q=%23ThankYouKCornerPH) | N/A |
-| 6 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 1 | [#DearInang](http://twitter.com/search?q=%23DearInang) | N/A |
+| 2 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 4 | [#FELIPatAQUATICbeats](http://twitter.com/search?q=%23FELIPatAQUATICbeats) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#ThankYouKCornerPH](http://twitter.com/search?q=%23ThankYouKCornerPH) | N/A |
 | 7 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 8 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
 | 9 | [sunlifebikecamp withdonny](http://twitter.com/search?q=sunlifebikecamp+withdonny) | N/A |
 | 10 | [VIBRENT ON NEWSTOKOYAN](http://twitter.com/search?q=VIBRENT+ON+NEWSTOKOYAN) | N/A |
 | 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 12 | [TRIE](http://twitter.com/search?q=TRIE) | N/A |
-| 13 | [Lee Do Hyun](http://twitter.com/search?q=Lee+Do+Hyun) | N/A |
-| 14 | [pienale](http://twitter.com/search?q=pienale) | N/A |
+| 13 | [pienale](http://twitter.com/search?q=pienale) | N/A |
+| 14 | [Lee Do Hyun](http://twitter.com/search?q=Lee+Do+Hyun) | N/A |
 | 15 | [ZACHAM ALWAYS BARKADA](http://twitter.com/search?q=ZACHAM+ALWAYS+BARKADA) | N/A |
 | 16 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
 | 17 | [BE THANKFUL LIKE HARUTO](http://twitter.com/search?q=BE+THANKFUL+LIKE+HARUTO) | N/A |
-| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 19 | [queen vice satherday](http://twitter.com/search?q=queen+vice+satherday) | N/A |
-| 20 | [DO LIFE OKAY](http://twitter.com/search?q=DO+LIFE+OKAY) | N/A |
+| 18 | [queen vice satherday](http://twitter.com/search?q=queen+vice+satherday) | N/A |
+| 19 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 20 | [do life okay](http://twitter.com/search?q=do+life+okay) | N/A |
 | 21 | [bgyo at ust angelicum](http://twitter.com/search?q=bgyo+at+ust+angelicum) | N/A |
 | 22 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
 | 23 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
-| 24 | [Lim Ji Yeon](http://twitter.com/search?q=Lim+Ji+Yeon) | N/A |
-| 25 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 26 | [VXON BREAKING BAD MV](http://twitter.com/search?q=VXON+BREAKING+BAD+MV) | N/A |
-| 27 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 30 | [birth month](http://twitter.com/search?q=birth+month) | N/A |
-| 31 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
-| 32 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
-| 33 | [Better Than Gold](http://twitter.com/search?q=Better+Than+Gold) | N/A |
-| 34 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 35 | [BINI FIT ME FRESH TINT MV](http://twitter.com/search?q=BINI+FIT+ME+FRESH+TINT+MV) | N/A |
-| 36 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 37 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 38 | [Lee Mujin](http://twitter.com/search?q=Lee+Mujin) | N/A |
-| 39 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 40 | [Fav Bside](http://twitter.com/search?q=Fav+Bside) | N/A |
-| 41 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 42 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
-| 43 | [taks](http://twitter.com/search?q=taks) | N/A |
-| 44 | [breaking bad mv out now](http://twitter.com/search?q=breaking+bad+mv+out+now) | N/A |
-| 45 | [Missing You](http://twitter.com/search?q=Missing+You) | N/A |
-| 46 | [coloureverywhere mv](http://twitter.com/search?q=coloureverywhere+mv) | N/A |
-| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 48 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 24 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 25 | [VXON BREAKING BAD MV](http://twitter.com/search?q=VXON+BREAKING+BAD+MV) | N/A |
+| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 28 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
+| 29 | [lalisa celine girl](http://twitter.com/search?q=lalisa+celine+girl) | N/A |
+| 30 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 31 | [BIRTH MONTH](http://twitter.com/search?q=BIRTH+MONTH) | N/A |
+| 32 | [BINI FIT ME FRESH TINT MV](http://twitter.com/search?q=BINI+FIT+ME+FRESH+TINT+MV) | N/A |
+| 33 | [lim ji yeon](http://twitter.com/search?q=lim+ji+yeon) | N/A |
+| 34 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 35 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 36 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
+| 37 | [lee mujin](http://twitter.com/search?q=lee+mujin) | N/A |
+| 38 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 39 | [Fav Bside](http://twitter.com/search?q=Fav+Bside) | N/A |
+| 40 | [Missing You](http://twitter.com/search?q=Missing+You) | N/A |
+| 41 | [taks](http://twitter.com/search?q=taks) | N/A |
+| 42 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 43 | [breaking bad mv out now](http://twitter.com/search?q=breaking+bad+mv+out+now) | N/A |
+| 44 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 45 | [coloureverywhere mv](http://twitter.com/search?q=coloureverywhere+mv) | N/A |
+| 46 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 47 | [Fav Title Track](http://twitter.com/search?q=Fav+Title+Track) | N/A |
+| 48 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
 
 
 

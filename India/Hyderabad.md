@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-04-01 17:17:11 UTC`
+📆 Last Updated: `2023-04-01 18:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LSGvDC](http://twitter.com/search?q=%23LSGvDC) | N/A |
+| 1 | [#LSGvsDC](http://twitter.com/search?q=%23LSGvsDC) | N/A |
 | 2 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 3 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 4 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
-| 5 | [#EvanLuthra](http://twitter.com/search?q=%23EvanLuthra) | N/A |
-| 6 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 8 | [Kyle Mayers](http://twitter.com/search?q=Kyle+Mayers) | N/A |
-| 9 | [Sohail T](http://twitter.com/search?q=Sohail+T) | N/A |
-| 10 | [Rajat Sharma](http://twitter.com/search?q=Rajat+Sharma) | N/A |
-| 11 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 14 | [Suresh R](http://twitter.com/search?q=Suresh+R) | N/A |
-| 15 | [Mahela J](http://twitter.com/search?q=Mahela+J) | N/A |
-| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 17 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 18 | [TWELVE HELLYLICIOUS YEARS](http://twitter.com/search?q=TWELVE+HELLYLICIOUS+YEARS) | N/A |
-| 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 20 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 4 | [#CHEAVL](http://twitter.com/search?q=%23CHEAVL) | N/A |
+| 5 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
+| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 7 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 12 | [Sohail T](http://twitter.com/search?q=Sohail+T) | N/A |
+| 13 | [Kyle Mayers](http://twitter.com/search?q=Kyle+Mayers) | N/A |
+| 14 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 15 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 16 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 17 | [Mahela J](http://twitter.com/search?q=Mahela+J) | N/A |
+| 18 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 19 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 20 | [Suresh R](http://twitter.com/search?q=Suresh+R) | N/A |
 | 21 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 23 | [Unibersity](http://twitter.com/search?q=Unibersity) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 27 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
-| 28 | [Khaleel](http://twitter.com/search?q=Khaleel) | N/A |
-| 29 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 31 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 33 | [संचारी रोग नियंत्रण अभियान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a5%8b%e0%a4%97+%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a3+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 34 | [Punjab Kings](http://twitter.com/search?q=Punjab+Kings) | Punjab Kings is the new name of the Indian Premier League (IPL) cricket team formerly known as Kings XI Punjab. The name was changed in 2021 to reflect the team's roots in the state of Punjab. The English translation of Punjab Kings is "Kings of Punjab". |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [सुरेश रैना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a5%87%e0%a4%b6+%e0%a4%b0%e0%a5%88%e0%a4%a8%e0%a4%be) | N/A |
-| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 38 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 39 | [Rishabh Pant](http://twitter.com/search?q=Rishabh+Pant) | Rishabh Pant is an Indian cricketer who plays for the Indian national cricket team. He is a wicket-keeper batsman and is known for his aggressive batting style. The name Rishabh Pant comes from the Sanskrit language and means "lord of success". |
-| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 41 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 42 | [Match 3](http://twitter.com/search?q=Match+3) | N/A |
-| 43 | [पंजाब किंग्स](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%95%e0%a4%bf%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b8) | N/A |
-| 44 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 45 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 46 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
-| 47 | [Patiala](http://twitter.com/search?q=Patiala) | N/A |
-| 48 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
+| 22 | [TWELVE HELLYLICIOUS YEARS](http://twitter.com/search?q=TWELVE+HELLYLICIOUS+YEARS) | N/A |
+| 23 | [Rajat Sharma](http://twitter.com/search?q=Rajat+Sharma) | N/A |
+| 24 | [Gowtham](http://twitter.com/search?q=Gowtham) | N/A |
+| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 26 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 27 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 28 | [Unibersity](http://twitter.com/search?q=Unibersity) | N/A |
+| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 30 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 31 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 32 | [Khaleel](http://twitter.com/search?q=Khaleel) | N/A |
+| 33 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 34 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
+| 35 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 36 | [Saree](http://twitter.com/search?q=Saree) | N/A |
+| 37 | [Punjab Kings](http://twitter.com/search?q=Punjab+Kings) | Punjab Kings is the new name of the Indian Premier League (IPL) cricket team formerly known as Kings XI Punjab. The name was changed in 2021 to reflect the team's roots in the state of Punjab. The English translation of Punjab Kings is "Kings of Punjab". |
+| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 39 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 40 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
+| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 44 | [Match 3](http://twitter.com/search?q=Match+3) | N/A |
+| 45 | [पंजाब किंग्स](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%95%e0%a4%bf%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b8) | N/A |
+| 46 | [Alia](http://twitter.com/search?q=Alia) | N/A |
+| 47 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 
