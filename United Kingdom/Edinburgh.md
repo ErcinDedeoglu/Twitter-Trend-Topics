@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-04-01 07:16:41 UTC`
+📆 Last Updated: `2023-04-01 08:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 1 | [April Fool](http://twitter.com/search?q=April+Fool) | N/A |
 | 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 3 | [April Fool](http://twitter.com/search?q=April+Fool) | N/A |
+| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 5 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 6 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 7 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 10 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 11 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 13 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 16 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 17 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 18 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
-| 21 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 22 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 23 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 24 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 27 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 28 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 29 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 30 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 31 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
-| 32 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 33 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
-| 34 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
-| 35 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 36 | [#ROHSuperCard](http://twitter.com/search?q=%23ROHSuperCard) | N/A |
-| 37 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
-| 38 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 39 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 40 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 5 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 7 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 8 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 9 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 10 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 11 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 13 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 14 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 15 | [Christopher Eccleston](http://twitter.com/search?q=Christopher+Eccleston) | N/A |
+| 16 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 19 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 22 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 23 | [Checks](http://twitter.com/search?q=Checks) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 26 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 27 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 28 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 29 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 30 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 31 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 32 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 35 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 36 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 37 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 38 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
+| 39 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
+| 40 | [#COYH](http://twitter.com/search?q=%23COYH) | N/A |
 | 41 | [#BrexitHasFailed](http://twitter.com/search?q=%23BrexitHasFailed) | N/A |
+| 42 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 43 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
+| 44 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
+| 45 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 46 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
+| 47 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 48 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 
 
 

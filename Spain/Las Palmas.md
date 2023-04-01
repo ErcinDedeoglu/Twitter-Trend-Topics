@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-04-01 07:16:59 UTC`
+📆 Last Updated: `2023-04-01 08:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 1 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
 | 2 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 4 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 5 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
-| 6 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 9 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 10 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 11 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 12 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
-| 13 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 14 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
-| 15 | [Putos Mercedes](http://twitter.com/search?q=Putos+Mercedes) | N/A |
-| 16 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 17 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
-| 18 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 19 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 20 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 21 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 23 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
-| 24 | [#svgala5](http://twitter.com/search?q=%23svgala5) | N/A |
-| 25 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 27 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 28 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 29 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 30 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 31 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 32 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 33 | [Libres 3](http://twitter.com/search?q=Libres+3) | N/A |
-| 34 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 35 | [Sazo](http://twitter.com/search?q=Sazo) | N/A |
-| 36 | [Mojón](http://twitter.com/search?q=Moj%c3%b3n) | N/A |
-| 37 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
-| 38 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 39 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 40 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 41 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 42 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
-| 43 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 44 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 45 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Sargeant](http://twitter.com/search?q=Sargeant) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 49 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 4 | [#AgropopularSemanaSanta](http://twitter.com/search?q=%23AgropopularSemanaSanta) | N/A |
+| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 10 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 11 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
+| 12 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 13 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 14 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
+| 15 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 16 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 17 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 18 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
+| 19 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 20 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 21 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 22 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 23 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 26 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 27 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 28 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 30 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
+| 31 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 32 | [Sazo](http://twitter.com/search?q=Sazo) | N/A |
+| 33 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 34 | [Libres 3](http://twitter.com/search?q=Libres+3) | N/A |
+| 35 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 37 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 38 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 39 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
+| 40 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
+| 41 | [#BienvenidoAbril](http://twitter.com/search?q=%23BienvenidoAbril) | N/A |
+| 42 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 43 | [#APOYOROCIO1A](http://twitter.com/search?q=%23APOYOROCIO1A) | N/A |
+| 44 | [#YoMeRebelo1A](http://twitter.com/search?q=%23YoMeRebelo1A) | N/A |
+| 45 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
 
 
 

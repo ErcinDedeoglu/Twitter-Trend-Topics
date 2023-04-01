@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-01 07:17:21 UTC`
+📆 Last Updated: `2023-04-01 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MuharremAmca Kazandı](http://twitter.com/search?q=MuharremAmca+Kazand%c4%b1) | N/A |
-| 2 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 3 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 2 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
 | 4 | [#1Nisan](http://twitter.com/search?q=%231Nisan) | N/A |
-| 5 | [Zekatla Bereketlensin](http://twitter.com/search?q=Zekatla+Bereketlensin) | Zekatla Bereketlensin is a Turkish phrase that translates to "May the blessings of charity be abundant". It is often used as a blessing or expression of goodwill. |
-| 6 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 7 | [Hasan Kaçan](http://twitter.com/search?q=Hasan+Ka%c3%a7an) | N/A |
-| 8 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
-| 9 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
-| 10 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 11 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 12 | [İİBFkadrosuz SandıkOysuz](http://twitter.com/search?q=%c4%b0%c4%b0BFkadrosuz+Sand%c4%b1kOysuz) | N/A |
-| 13 | [MuratDilmenerin SesiniDuy](http://twitter.com/search?q=MuratDilmenerin+SesiniDuy) | N/A |
-| 14 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 15 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
-| 16 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 17 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 18 | [gsbtayinbekliyor](http://twitter.com/search?q=gsbtayinbekliyor) | N/A |
-| 19 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 21 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 22 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
-| 23 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 24 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 25 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 26 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 27 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
-| 28 | [yedili masanın yalanı](http://twitter.com/search?q=yedili+masan%c4%b1n+yalan%c4%b1) | N/A |
-| 29 | [ömer faruk başaran](http://twitter.com/search?q=%c3%b6mer+faruk+ba%c5%9faran) | N/A |
-| 30 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 31 | [trt afrika yayıncılık zirvesi](http://twitter.com/search?q=trt+afrika+yay%c4%b1nc%c4%b1l%c4%b1k+zirvesi) | N/A |
-| 32 | [hurmaedit](http://twitter.com/search?q=hurmaedit) | N/A |
-| 33 | ["Piro"](http://twitter.com/search?q=%22Piro%22) | N/A |
-| 34 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 35 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 36 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
-| 37 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
-| 38 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 39 | [vaaddeğil yapıkayıt](http://twitter.com/search?q=vaadde%c4%9fil+yap%c4%b1kay%c4%b1t) | N/A |
-| 40 | [ülketv taşeronusor](http://twitter.com/search?q=%c3%bclketv+ta%c5%9feronusor) | N/A |
-| 41 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
-| 42 | [Parti İstanbul İl Başkanlığı](http://twitter.com/search?q=Parti+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 43 | [GELİYOR GELMEKTE OLAN](http://twitter.com/search?q=GEL%c4%b0YOR+GELMEKTE+OLAN) | N/A |
-| 44 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 45 | [HastaYaşlılara AcilTahliye](http://twitter.com/search?q=HastaYa%c5%9fl%c4%b1lara+AcilTahliye) | N/A |
-| 46 | [Milletin İKTİDARINDA](http://twitter.com/search?q=Milletin+%c4%b0KT%c4%b0DARINDA) | N/A |
-| 47 | [Fail](http://twitter.com/search?q=Fail) | N/A |
+| 5 | [Hasan Kaçan](http://twitter.com/search?q=Hasan+Ka%c3%a7an) | N/A |
+| 6 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 7 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
+| 8 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 9 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 10 | [Camiye](http://twitter.com/search?q=Camiye) | N/A |
+| 11 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 12 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 13 | [Ey Müslüman](http://twitter.com/search?q=Ey+M%c3%bcsl%c3%bcman) | N/A |
+| 14 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
+| 15 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 16 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 17 | [Günah](http://twitter.com/search?q=G%c3%bcnah) | N/A |
+| 18 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 21 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
+| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 23 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 24 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 25 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
+| 26 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 27 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
+| 28 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 29 | [Levent](http://twitter.com/search?q=Levent) | N/A |
+| 30 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
+| 31 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
+| 32 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
+| 33 | [#YılmazGüney](http://twitter.com/search?q=%23Y%c4%b1lmazG%c3%bcney) | N/A |
+| 34 | [#KanserHaftası](http://twitter.com/search?q=%23KanserHaftas%c4%b1) | N/A |
+| 35 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 36 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 37 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
+| 38 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
+| 39 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 40 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
+| 41 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 42 | [#EYTliSGKveABOyaTAKILDI](http://twitter.com/search?q=%23EYTliSGKveABOyaTAKILDI) | N/A |
+| 43 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
+| 44 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 45 | [#cevapistiyorum](http://twitter.com/search?q=%23cevapistiyorum) | N/A |
+| 46 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
 
 
 

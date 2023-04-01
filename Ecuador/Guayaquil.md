@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-01 07:16:48 UTC`
+📆 Last Updated: `2023-04-01 08:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 5 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 6 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 1 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
+| 2 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 3 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 4 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
+| 5 | [Punta Blanca](http://twitter.com/search?q=Punta+Blanca) | N/A |
+| 6 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
 | 7 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 9 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 10 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
-| 11 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
-| 12 | [Neisi Dajomes](http://twitter.com/search?q=Neisi+Dajomes) | N/A |
-| 13 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
-| 14 | [Obando](http://twitter.com/search?q=Obando) | N/A |
-| 15 | [Tamara Salazar](http://twitter.com/search?q=Tamara+Salazar) | N/A |
-| 16 | [sauces 9](http://twitter.com/search?q=sauces+9) | N/A |
-| 17 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
-| 18 | [Punta Blanca](http://twitter.com/search?q=Punta+Blanca) | N/A |
-| 19 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 20 | [Fortín](http://twitter.com/search?q=Fort%c3%adn) | N/A |
-| 21 | [Bryan Oña](http://twitter.com/search?q=Bryan+O%c3%b1a) | N/A |
-| 22 | [Plaza Lagos](http://twitter.com/search?q=Plaza+Lagos) | N/A |
-| 23 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
-| 24 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 25 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
-| 26 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 27 | [Calla](http://twitter.com/search?q=Calla) | N/A |
-| 28 | [Triviño](http://twitter.com/search?q=Trivi%c3%b1o) | N/A |
-| 29 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
-| 30 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 31 | [Banco Pichincha](http://twitter.com/search?q=Banco+Pichincha) | N/A |
-| 32 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 33 | [Loor](http://twitter.com/search?q=Loor) | N/A |
-| 34 | [MUERTE CRUZADA](http://twitter.com/search?q=MUERTE+CRUZADA) | N/A |
-| 35 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 36 | [José Delgado](http://twitter.com/search?q=Jos%c3%a9+Delgado) | N/A |
-| 37 | [Argumentos](http://twitter.com/search?q=Argumentos) | N/A |
-| 38 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 39 | [manuel c.c.](http://twitter.com/search?q=manuel+c.c.) | N/A |
-| 40 | [Comisión de Fiscalización](http://twitter.com/search?q=Comisi%c3%b3n+de+Fiscalizaci%c3%b3n) | N/A |
-| 41 | [tomebamba](http://twitter.com/search?q=tomebamba) | N/A |
-| 42 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 43 | [josé roberto acevedo mendoza](http://twitter.com/search?q=jos%c3%a9+roberto+acevedo+mendoza) | N/A |
-| 44 | [angie palacios](http://twitter.com/search?q=angie+palacios) | N/A |
-| 45 | [de jesús](http://twitter.com/search?q=de+jes%c3%bas) | N/A |
-| 46 | [Marielurde](http://twitter.com/search?q=Marielurde) | N/A |
-| 47 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 48 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
-| 49 | [Dreer](http://twitter.com/search?q=Dreer) | N/A |
-| 50 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 10 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 11 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 13 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 16 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 17 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
+| 18 | [Fortín](http://twitter.com/search?q=Fort%c3%adn) | N/A |
+| 19 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 20 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 21 | [Renato Ibarra](http://twitter.com/search?q=Renato+Ibarra) | N/A |
+| 22 | [#EcuadorenCrisis](http://twitter.com/search?q=%23EcuadorenCrisis) | N/A |
+| 23 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
+| 24 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 25 | [Obando](http://twitter.com/search?q=Obando) | N/A |
+| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 27 | [neisi dajomes](http://twitter.com/search?q=neisi+dajomes) | N/A |
+| 28 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
+| 29 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
+| 30 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 31 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 32 | [tamara salazar](http://twitter.com/search?q=tamara+salazar) | N/A |
+| 33 | [banco pichincha](http://twitter.com/search?q=banco+pichincha) | N/A |
+| 34 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 35 | [Triviño](http://twitter.com/search?q=Trivi%c3%b1o) | N/A |
+| 36 | [Don Naza](http://twitter.com/search?q=Don+Naza) | N/A |
+| 37 | [Rodrigo Paz Delgado](http://twitter.com/search?q=Rodrigo+Paz+Delgado) | N/A |
+| 38 | [Alexander Alvarado](http://twitter.com/search?q=Alexander+Alvarado) | N/A |
+| 39 | [sauces 9](http://twitter.com/search?q=sauces+9) | N/A |
+| 40 | [bryan oña](http://twitter.com/search?q=bryan+o%c3%b1a) | N/A |
+| 41 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
+| 42 | [Diana Carolina](http://twitter.com/search?q=Diana+Carolina) | N/A |
+| 43 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 44 | [olímpico atahualpa](http://twitter.com/search?q=ol%c3%admpico+atahualpa) | N/A |
+| 45 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
+| 46 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
+| 47 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 48 | [Colman](http://twitter.com/search?q=Colman) | N/A |
+| 49 | [Elizaga](http://twitter.com/search?q=Elizaga) | N/A |
+| 50 | [Repotenciados](http://twitter.com/search?q=Repotenciados) | N/A |
 
 
 

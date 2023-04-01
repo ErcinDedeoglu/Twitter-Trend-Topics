@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-01 07:17:27 UTC`
+📆 Last Updated: `2023-04-01 08:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 2 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 3 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 4 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 2 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 3 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 4 | [#WoodstockAI](http://twitter.com/search?q=%23WoodstockAI) | N/A |
 | 5 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 6 | [#PaleyFest](http://twitter.com/search?q=%23PaleyFest) | N/A |
-| 7 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 8 | [#WoodstockAI](http://twitter.com/search?q=%23WoodstockAI) | N/A |
-| 9 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 11 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 12 | [Charlie Blackmon](http://twitter.com/search?q=Charlie+Blackmon) | N/A |
-| 13 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 14 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 15 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 16 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
-| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 18 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 19 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 20 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 21 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
-| 22 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 23 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 24 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 25 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 26 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 28 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 31 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 32 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 34 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 35 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 36 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 37 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 38 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 39 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 40 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 42 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 43 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 44 | [cardoso](http://twitter.com/search?q=cardoso) | N/A |
-| 45 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 46 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 47 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 48 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 49 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 50 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 7 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 9 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 10 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 11 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 12 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 13 | [#TransDayofVisability](http://twitter.com/search?q=%23TransDayofVisability) | N/A |
+| 14 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 15 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 16 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 19 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 20 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 21 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 24 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 26 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 27 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 28 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 30 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 31 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 32 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 33 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 34 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 35 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 36 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 37 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 38 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 39 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 40 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 41 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 42 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 43 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
+| 44 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 45 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 46 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 47 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
+| 48 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 49 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 50 | [Kyle Lewis](http://twitter.com/search?q=Kyle+Lewis) | N/A |
 
 
 

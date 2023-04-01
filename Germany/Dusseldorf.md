@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-04-01 07:16:56 UTC`
+📆 Last Updated: `2023-04-01 08:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 6 | [#sgeboc](http://twitter.com/search?q=%23sgeboc) | N/A |
-| 7 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
-| 8 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 9 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 10 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 4 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
+| 5 | [#f95HSV](http://twitter.com/search?q=%23f95HSV) | N/A |
+| 6 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 7 | ['Gemüse'](http://twitter.com/search?q=%27Gem%c3%bcse%27) | N/A |
+| 8 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 9 | [#1april](http://twitter.com/search?q=%231april) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 14 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 15 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 17 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 18 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 19 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 22 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 24 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 25 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 26 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 27 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Ulli](http://twitter.com/search?q=Ulli) | N/A |
-| 30 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 31 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 32 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 33 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 34 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 35 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 36 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 37 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 38 | [Nebenkosten](http://twitter.com/search?q=Nebenkosten) | N/A |
-| 39 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 40 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 41 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 42 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 43 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 45 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 47 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 48 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
-| 49 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 50 | [Elke](http://twitter.com/search?q=Elke) | N/A |
+| 12 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 13 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 14 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
+| 15 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 16 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
+| 17 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 18 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
+| 19 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 20 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 21 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 24 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 25 | [Freund und Helfer](http://twitter.com/search?q=Freund+und+Helfer) | N/A |
+| 26 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 27 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 28 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 29 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 30 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 31 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 32 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 33 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
+| 34 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 35 | [Guten Morgen A.J.](http://twitter.com/search?q=Guten+Morgen+A.J.) | N/A |
+| 36 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 37 | [Machtdemonstration](http://twitter.com/search?q=Machtdemonstration) | N/A |
+| 38 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 39 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 40 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 43 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 44 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 45 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 46 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 47 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 48 | [Willy Brandt](http://twitter.com/search?q=Willy+Brandt) | N/A |
+| 49 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
+| 50 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Korea
 
-📆 Last Updated: `2023-04-01 07:17:35 UTC`
+📆 Last Updated: `2023-04-01 08:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,48 @@ This is top 50 for Korea
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#만우절_트친소](http://twitter.com/search?q=%23%eb%a7%8c%ec%9a%b0%ec%a0%88_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 2 | [위에화즈](http://twitter.com/search?q=%ec%9c%84%ec%97%90%ed%99%94%ec%a6%88) | N/A |
-| 3 | [#그림러_트친소](http://twitter.com/search?q=%23%ea%b7%b8%eb%a6%bc%eb%9f%ac_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 4 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 5 | [만루홈런](http://twitter.com/search?q=%eb%a7%8c%eb%a3%a8%ed%99%88%eb%9f%b0) | N/A |
-| 6 | [응원소리](http://twitter.com/search?q=%ec%9d%91%ec%9b%90%ec%86%8c%eb%a6%ac) | N/A |
-| 7 | [알칸타라](http://twitter.com/search?q=%ec%95%8c%ec%b9%b8%ed%83%80%eb%9d%bc) | N/A |
-| 8 | [이도현 임지연](http://twitter.com/search?q=%ec%9d%b4%eb%8f%84%ed%98%84+%ec%9e%84%ec%a7%80%ec%97%b0) | N/A |
-| 9 | [라이온즈](http://twitter.com/search?q=%eb%9d%bc%ec%9d%b4%ec%98%a8%ec%a6%88) | N/A |
-| 10 | [자이언츠](http://twitter.com/search?q=%ec%9e%90%ec%9d%b4%ec%96%b8%ec%b8%a0) | N/A |
-| 11 | [시구 윤석열](http://twitter.com/search?q=%ec%8b%9c%ea%b5%ac+%ec%9c%a4%ec%84%9d%ec%97%b4) | N/A |
-| 12 | [구미호뎐](http://twitter.com/search?q=%ea%b5%ac%eb%af%b8%ed%98%b8%eb%8e%90) | N/A |
-| 13 | [날씨 너무](http://twitter.com/search?q=%eb%82%a0%ec%94%a8+%eb%84%88%eb%ac%b4) | N/A |
-| 14 | [디스패치](http://twitter.com/search?q=%eb%94%94%ec%8a%a4%ed%8c%a8%ec%b9%98) | N/A |
-| 15 | [#배코야_생일축하해](http://twitter.com/search?q=%23%eb%b0%b0%ec%bd%94%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 16 | [n월의 석진](http://twitter.com/search?q=n%ec%9b%94%ec%9d%98+%ec%84%9d%ec%a7%84) | N/A |
-| 17 | [#아주그냥꽃미남이야](http://twitter.com/search?q=%23%ec%95%84%ec%a3%bc%ea%b7%b8%eb%83%a5%ea%bd%83%eb%af%b8%eb%82%a8%ec%9d%b4%ec%95%bc) | N/A |
-| 18 | [개막전 시구](http://twitter.com/search?q=%ea%b0%9c%eb%a7%89%ec%a0%84+%ec%8b%9c%ea%b5%ac) | N/A |
-| 19 | [야구 개막전](http://twitter.com/search?q=%ec%95%bc%ea%b5%ac+%ea%b0%9c%eb%a7%89%ec%a0%84) | N/A |
+| 1 | [더보이스](http://twitter.com/search?q=%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%8a%a4) | N/A |
+| 2 | [가비지타임 캐릭터](http://twitter.com/search?q=%ea%b0%80%eb%b9%84%ec%a7%80%ed%83%80%ec%9e%84+%ec%ba%90%eb%a6%ad%ed%84%b0) | N/A |
+| 3 | [#만우절_트친소](http://twitter.com/search?q=%23%eb%a7%8c%ec%9a%b0%ec%a0%88_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 4 | [구마유시](http://twitter.com/search?q=%ea%b5%ac%eb%a7%88%ec%9c%a0%ec%8b%9c) | N/A |
+| 5 | [리무진서비스](http://twitter.com/search?q=%eb%a6%ac%eb%ac%b4%ec%a7%84%ec%84%9c%eb%b9%84%ec%8a%a4) | N/A |
+| 6 | [위에화즈](http://twitter.com/search?q=%ec%9c%84%ec%97%90%ed%99%94%ec%a6%88) | N/A |
+| 7 | [만루홈런](http://twitter.com/search?q=%eb%a7%8c%eb%a3%a8%ed%99%88%eb%9f%b0) | N/A |
+| 8 | [#그림러_트친소](http://twitter.com/search?q=%23%ea%b7%b8%eb%a6%bc%eb%9f%ac_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 9 | [삼자범퇴](http://twitter.com/search?q=%ec%82%bc%ec%9e%90%eb%b2%94%ed%87%b4) | N/A |
+| 10 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
+| 11 | [라이온즈](http://twitter.com/search?q=%eb%9d%bc%ec%9d%b4%ec%98%a8%ec%a6%88) | N/A |
+| 12 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 13 | [키스타임](http://twitter.com/search?q=%ed%82%a4%ec%8a%a4%ed%83%80%ec%9e%84) | N/A |
+| 14 | [알칸타라](http://twitter.com/search?q=%ec%95%8c%ec%b9%b8%ed%83%80%eb%9d%bc) | N/A |
+| 15 | [자이언츠](http://twitter.com/search?q=%ec%9e%90%ec%9d%b4%ec%96%b8%ec%b8%a0) | N/A |
+| 16 | [응원소리](http://twitter.com/search?q=%ec%9d%91%ec%9b%90%ec%86%8c%eb%a6%ac) | N/A |
+| 17 | [#배코야_생일축하해](http://twitter.com/search?q=%23%eb%b0%b0%ec%bd%94%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 18 | [날씨 너무](http://twitter.com/search?q=%eb%82%a0%ec%94%a8+%eb%84%88%eb%ac%b4) | N/A |
+| 19 | [시구 윤석열](http://twitter.com/search?q=%ec%8b%9c%ea%b5%ac+%ec%9c%a4%ec%84%9d%ec%97%b4) | N/A |
 | 20 | [프로야구](http://twitter.com/search?q=%ed%94%84%eb%a1%9c%ec%95%bc%ea%b5%ac) | N/A |
-| 21 | [레드벨벳](http://twitter.com/search?q=%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
-| 22 | [거짓말이지](http://twitter.com/search?q=%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%b4%ec%a7%80) | N/A |
-| 23 | [석촌호수](http://twitter.com/search?q=%ec%84%9d%ec%b4%8c%ed%98%b8%ec%88%98) | N/A |
-| 24 | [모에모에뀽](http://twitter.com/search?q=%eb%aa%a8%ec%97%90%eb%aa%a8%ec%97%90%eb%80%bd) | N/A |
-| 25 | [기념 트친소](http://twitter.com/search?q=%ea%b8%b0%eb%85%90+%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 26 | [대본리딩](http://twitter.com/search?q=%eb%8c%80%eb%b3%b8%eb%a6%ac%eb%94%a9) | N/A |
+| 21 | [석촌호수](http://twitter.com/search?q=%ec%84%9d%ec%b4%8c%ed%98%b8%ec%88%98) | N/A |
+| 22 | [다이노스](http://twitter.com/search?q=%eb%8b%a4%ec%9d%b4%eb%85%b8%ec%8a%a4) | N/A |
+| 23 | [이도현 임지연](http://twitter.com/search?q=%ec%9d%b4%eb%8f%84%ed%98%84+%ec%9e%84%ec%a7%80%ec%97%b0) | N/A |
+| 24 | [개막전 시구](http://twitter.com/search?q=%ea%b0%9c%eb%a7%89%ec%a0%84+%ec%8b%9c%ea%b5%ac) | N/A |
+| 25 | [야구 개막](http://twitter.com/search?q=%ec%95%bc%ea%b5%ac+%ea%b0%9c%eb%a7%89) | N/A |
+| 26 | [레드벨벳](http://twitter.com/search?q=%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
 | 27 | [벚꽃놀이](http://twitter.com/search?q=%eb%b2%9a%ea%bd%83%eb%86%80%ec%9d%b4) | N/A |
-| 28 | [패왕별희](http://twitter.com/search?q=%ed%8c%a8%ec%99%95%eb%b3%84%ed%9d%ac) | N/A |
-| 29 | [사실 남자](http://twitter.com/search?q=%ec%82%ac%ec%8b%a4+%eb%82%a8%ec%9e%90) | N/A |
-| 30 | [누구신가](http://twitter.com/search?q=%eb%88%84%ea%b5%ac%ec%8b%a0%ea%b0%80) | N/A |
-| 31 | [벚꽃 구경](http://twitter.com/search?q=%eb%b2%9a%ea%bd%83+%ea%b5%ac%ea%b2%bd) | N/A |
-| 32 | [아이디 보고](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%94%94+%eb%b3%b4%ea%b3%a0) | N/A |
-| 33 | [생일 기념](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ea%b8%b0%eb%85%90) | N/A |
-| 34 | [하나미치](http://twitter.com/search?q=%ed%95%98%eb%82%98%eb%af%b8%ec%b9%98) | N/A |
-| 35 | [누구신지](http://twitter.com/search?q=%eb%88%84%ea%b5%ac%ec%8b%a0%ec%a7%80) | N/A |
-| 36 | [버밀리온](http://twitter.com/search?q=%eb%b2%84%eb%b0%80%eb%a6%ac%ec%98%a8) | N/A |
-| 37 | [누가 누구](http://twitter.com/search?q=%eb%88%84%ea%b0%80+%eb%88%84%ea%b5%ac) | N/A |
-| 38 | [에어리얼](http://twitter.com/search?q=%ec%97%90%ec%96%b4%eb%a6%ac%ec%96%bc) | 에어리얼 is a Korean word that refers to a type of air-filled mattress or cushion. It is often used as a bedding item, such as for camping or for sleeping on the floor. In English, it can be translated as "air mattress" or "air cushion". |
-| 39 | [사쿠라기](http://twitter.com/search?q=%ec%82%ac%ec%bf%a0%eb%9d%bc%ea%b8%b0) | N/A |
+| 28 | [구미호뎐](http://twitter.com/search?q=%ea%b5%ac%eb%af%b8%ed%98%b8%eb%8e%90) | N/A |
+| 29 | [패왕별희](http://twitter.com/search?q=%ed%8c%a8%ec%99%95%eb%b3%84%ed%9d%ac) | N/A |
+| 30 | [모에모에뀽](http://twitter.com/search?q=%eb%aa%a8%ec%97%90%eb%aa%a8%ec%97%90%eb%80%bd) | N/A |
+| 31 | [기념 트친소](http://twitter.com/search?q=%ea%b8%b0%eb%85%90+%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 32 | [벚꽃 구경](http://twitter.com/search?q=%eb%b2%9a%ea%bd%83+%ea%b5%ac%ea%b2%bd) | N/A |
+| 33 | [#김규빈](http://twitter.com/search?q=%23%ea%b9%80%ea%b7%9c%eb%b9%88) | N/A |
+| 34 | [대본리딩](http://twitter.com/search?q=%eb%8c%80%eb%b3%b8%eb%a6%ac%eb%94%a9) | N/A |
+| 35 | [거짓말이지](http://twitter.com/search?q=%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%b4%ec%a7%80) | N/A |
+| 36 | [디스패치](http://twitter.com/search?q=%eb%94%94%ec%8a%a4%ed%8c%a8%ec%b9%98) | N/A |
+| 37 | [하나미치](http://twitter.com/search?q=%ed%95%98%eb%82%98%eb%af%b8%ec%b9%98) | N/A |
+| 38 | [사실 남자](http://twitter.com/search?q=%ec%82%ac%ec%8b%a4+%eb%82%a8%ec%9e%90) | N/A |
+| 39 | [생일 기념](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ea%b8%b0%eb%85%90) | N/A |
+| 40 | [버밀리온](http://twitter.com/search?q=%eb%b2%84%eb%b0%80%eb%a6%ac%ec%98%a8) | N/A |
+| 41 | [누구신지](http://twitter.com/search?q=%eb%88%84%ea%b5%ac%ec%8b%a0%ec%a7%80) | N/A |
+| 42 | [누구신가](http://twitter.com/search?q=%eb%88%84%ea%b5%ac%ec%8b%a0%ea%b0%80) | N/A |
 
 
 

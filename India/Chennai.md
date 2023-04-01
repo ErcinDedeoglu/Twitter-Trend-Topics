@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-01 07:17:21 UTC`
+📆 Last Updated: `2023-04-01 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,47 @@ This is top 50 for [India](</India>)
 | 2 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
 | 3 | [Dube](http://twitter.com/search?q=Dube) | N/A |
 | 4 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
-| 5 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 5 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
 | 6 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 7 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Odisha](http://twitter.com/search?q=Odisha) | N/A |
-| 10 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 11 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
-| 12 | [संजय राउत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%89%e0%a4%a4) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Odisha](http://twitter.com/search?q=Odisha) | N/A |
+| 9 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 10 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
+| 11 | [संजय राउत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%89%e0%a4%a4) | N/A |
+| 12 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
 | 13 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 14 | [CBI Disappointing Us InSSRCase](http://twitter.com/search?q=CBI+Disappointing+Us+InSSRCase) | N/A |
-| 15 | [भारतीय रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [Silent Mode](http://twitter.com/search?q=Silent+Mode) | N/A |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [No Breaking News](http://twitter.com/search?q=No+Breaking+News) | N/A |
-| 20 | [नगरी भोपाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a5%80+%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 21 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 22 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
-| 23 | [महान राष्ट्रवादी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80) | N/A |
+| 14 | [भारतीय रिजर्व बैंक](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 15 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 16 | [University](http://twitter.com/search?q=University) | N/A |
+| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 18 | [संचारी रोग नियंत्रण अभियान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a5%8b%e0%a4%97+%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a3+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 21 | [महान राष्ट्रवादी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80) | N/A |
+| 22 | [Silent Mode](http://twitter.com/search?q=Silent+Mode) | N/A |
+| 23 | [ओडिशा राज्य](http://twitter.com/search?q=%e0%a4%93%e0%a4%a1%e0%a4%bf%e0%a4%b6%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
 | 24 | [करप्शन काल](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%aa%e0%a5%8d%e0%a4%b6%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 25 | [ओडिशा राज्य](http://twitter.com/search?q=%e0%a4%93%e0%a4%a1%e0%a4%bf%e0%a4%b6%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 25 | [No Breaking News](http://twitter.com/search?q=No+Breaking+News) | N/A |
 | 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 27 | [भगवान जगन्नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%97%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 30 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 31 | [University](http://twitter.com/search?q=University) | N/A |
-| 32 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 33 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 34 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 35 | [पावन धरा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a4%be) | N/A |
-| 36 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 37 | [राजा भोज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ad%e0%a5%8b%e0%a4%9c) | N/A |
-| 38 | [भीम आर्मी](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae+%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80) | N/A |
-| 39 | [नवजोत सिंह सिद्धू](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b5%e0%a4%9c%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a5%82) | N/A |
-| 40 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 41 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
-| 42 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 43 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 44 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 45 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
-| 46 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 27 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 28 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
+| 29 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 30 | [भगवान जगन्नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%97%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 31 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 32 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 33 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 34 | [नगरी भोपाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a5%80+%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 35 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 36 | [भीम आर्मी](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae+%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80) | N/A |
+| 37 | [कमलापति रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%95%e0%a4%ae%e0%a4%b2%e0%a4%be%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 38 | [नवजोत सिंह सिद्धू](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b5%e0%a4%9c%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a5%82) | N/A |
+| 39 | [Odia](http://twitter.com/search?q=Odia) | N/A |
+| 40 | [पावन धरा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a4%be) | N/A |
+| 41 | [भारतीय संस्कृति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf) | N/A |
+| 42 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
+| 43 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 44 | [राजा भोज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ad%e0%a5%8b%e0%a4%9c) | N/A |
+| 45 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
 
 
 

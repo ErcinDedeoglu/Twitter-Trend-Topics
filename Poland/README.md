@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-01 07:17:37 UTC`
+📆 Last Updated: `2023-04-01 08:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 2 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 3 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
-| 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 5 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 7 | [Mercedesa](http://twitter.com/search?q=Mercedesa) | N/A |
-| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 9 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 10 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 11 | [Darku](http://twitter.com/search?q=Darku) | N/A |
-| 12 | [Red Bulla](http://twitter.com/search?q=Red+Bulla) | N/A |
+| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 2 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
+| 3 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 4 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 5 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 6 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 7 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
+| 8 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 9 | [#piagór](http://twitter.com/search?q=%23piag%c3%b3r) | N/A |
+| 10 | [Red Bulla](http://twitter.com/search?q=Red+Bulla) | N/A |
+| 11 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
+| 12 | [Dziś 1](http://twitter.com/search?q=Dzi%c5%9b+1) | N/A |
 | 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 15 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 16 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 17 | [Kwiecień](http://twitter.com/search?q=Kwiecie%c5%84) | N/A |
-| 18 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 20 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 23 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 25 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
-| 26 | [PLACKI ZIEMNIACZANE](http://twitter.com/search?q=PLACKI+ZIEMNIACZANE) | N/A |
-| 27 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
-| 28 | [Szymczyk](http://twitter.com/search?q=Szymczyk) | N/A |
-| 29 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 30 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 14 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 17 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 20 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 22 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 24 | [Stadion Miejski](http://twitter.com/search?q=Stadion+Miejski) | N/A |
+| 25 | [Darku](http://twitter.com/search?q=Darku) | N/A |
+| 26 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
+| 27 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
+| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 29 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 31 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 32 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 33 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
-| 34 | [Paweł Śpiewak](http://twitter.com/search?q=Pawe%c5%82+%c5%9apiewak) | N/A |
-| 35 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 36 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 37 | [Zasłużone](http://twitter.com/search?q=Zas%c5%82u%c5%bcone) | N/A |
-| 38 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 39 | [Śniadek](http://twitter.com/search?q=%c5%9aniadek) | N/A |
-| 40 | [dawid kownacki](http://twitter.com/search?q=dawid+kownacki) | N/A |
-| 41 | [Strach](http://twitter.com/search?q=Strach) | N/A |
-| 42 | [Oracz](http://twitter.com/search?q=Oracz) | N/A |
-| 43 | [marcin w.](http://twitter.com/search?q=marcin+w.) | N/A |
-| 44 | [Sił Zbrojnych RP](http://twitter.com/search?q=Si%c5%82+Zbrojnych+RP) | N/A |
-| 45 | [lexusa](http://twitter.com/search?q=lexusa) | N/A |
-| 46 | [budyń](http://twitter.com/search?q=budy%c5%84) | N/A |
-| 47 | [podolski](http://twitter.com/search?q=podolski) | N/A |
-| 48 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 49 | [łowca](http://twitter.com/search?q=%c5%82owca) | N/A |
-| 50 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 32 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
+| 33 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 34 | [Lex Kaczyński](http://twitter.com/search?q=Lex+Kaczy%c5%84ski) | N/A |
+| 35 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
+| 36 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
+| 37 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 38 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 39 | [Szymczyka](http://twitter.com/search?q=Szymczyka) | N/A |
+| 40 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 41 | [Letalnicy](http://twitter.com/search?q=Letalnicy) | N/A |
+| 42 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
+| 43 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 44 | [Oracz](http://twitter.com/search?q=Oracz) | N/A |
+| 45 | [Hamiltona](http://twitter.com/search?q=Hamiltona) | N/A |
+| 46 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
+| 47 | [Mercedesa](http://twitter.com/search?q=Mercedesa) | N/A |
+| 48 | [Kwiecień](http://twitter.com/search?q=Kwiecie%c5%84) | N/A |
+| 49 | [Enha](http://twitter.com/search?q=Enha) | N/A |
+| 50 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
 
 
 

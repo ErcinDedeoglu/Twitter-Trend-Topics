@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-04-01 07:16:43 UTC`
+📆 Last Updated: `2023-04-01 08:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 3 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 8 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 9 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 2 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 3 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
+| 4 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
+| 5 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 6 | [April Fool](http://twitter.com/search?q=April+Fool) | N/A |
+| 7 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 10 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 11 | [Dover](http://twitter.com/search?q=Dover) | N/A |
 | 12 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 13 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 14 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 15 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 14 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
+| 15 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 16 | [Christopher Eccleston](http://twitter.com/search?q=Christopher+Eccleston) | N/A |
+| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 18 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 20 | [Daily Quordle 432](http://twitter.com/search?q=Daily+Quordle+432) | N/A |
-| 21 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 23 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 24 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 25 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 26 | [Mercs](http://twitter.com/search?q=Mercs) | N/A |
-| 27 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 28 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 29 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
-| 30 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 31 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 32 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
-| 35 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 36 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 37 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 38 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 39 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 41 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
-| 42 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 43 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
-| 44 | [Kemi](http://twitter.com/search?q=Kemi) | N/A |
-| 45 | [Indo-pacific](http://twitter.com/search?q=Indo-pacific) | N/A |
-| 46 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
-| 47 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
-| 48 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 23 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 24 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 25 | [Checks](http://twitter.com/search?q=Checks) | N/A |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 28 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 29 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 30 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 31 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 32 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 35 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 36 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 37 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 38 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 39 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 40 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 41 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 42 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
+| 43 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
+| 44 | [#BrexitHasFailed](http://twitter.com/search?q=%23BrexitHasFailed) | N/A |
+| 45 | [#COYH](http://twitter.com/search?q=%23COYH) | N/A |
+| 46 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 47 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
+| 48 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 
 
 

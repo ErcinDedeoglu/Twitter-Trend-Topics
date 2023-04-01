@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-01 07:17:34 UTC`
+📆 Last Updated: `2023-04-01 08:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 2 | [Tsai Ing-wen](http://twitter.com/search?q=Tsai+Ing-wen) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 3 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 6 | [República de China](http://twitter.com/search?q=Rep%c3%bablica+de+China) | N/A |
 | 7 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Guatemala
 | 30 | [Vader](http://twitter.com/search?q=Vader) | N/A |
 | 31 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
 | 32 | [Guastatoya](http://twitter.com/search?q=Guastatoya) | N/A |
-| 33 | [Baldizon](http://twitter.com/search?q=Baldizon) | N/A |
+| 33 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
 | 34 | [Yes Master](http://twitter.com/search?q=Yes+Master) | N/A |
 | 35 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
 | 36 | [marcos yax](http://twitter.com/search?q=marcos+yax) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Guatemala
 | 40 | [talamonti](http://twitter.com/search?q=talamonti) | N/A |
 | 41 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
 | 42 | [Psicología](http://twitter.com/search?q=Psicolog%c3%ada) | N/A |
-| 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 44 | [interamericana](http://twitter.com/search?q=interamericana) | N/A |
-| 45 | [Medicina](http://twitter.com/search?q=Medicina) | N/A |
-| 46 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 47 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 48 | [Dichosa](http://twitter.com/search?q=Dichosa) | N/A |
-| 49 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 50 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
+| 43 | [interamericana](http://twitter.com/search?q=interamericana) | N/A |
+| 44 | [Medicina](http://twitter.com/search?q=Medicina) | N/A |
+| 45 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 46 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 47 | [Dichosa](http://twitter.com/search?q=Dichosa) | N/A |
+| 48 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 49 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
+| 50 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
 
 
 

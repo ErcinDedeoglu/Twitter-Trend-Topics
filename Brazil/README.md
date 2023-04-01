@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-01 07:17:32 UTC`
+📆 Last Updated: `2023-04-01 08:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 4 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 3 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 5 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 6 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
 | 7 | [Russell](http://twitter.com/search?q=Russell) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for Brazil
 | 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 | 15 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 18 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 19 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
-| 20 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
-| 21 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 17 | [Primeiro de Abril](http://twitter.com/search?q=Primeiro+de+Abril) | N/A |
+| 18 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 19 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 20 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 21 | [Papa](http://twitter.com/search?q=Papa) | N/A |
 | 22 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 23 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 24 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 25 | [ocon](http://twitter.com/search?q=ocon) | N/A |
-| 26 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 27 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 29 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 30 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 31 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 32 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 23 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 24 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 25 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 27 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 28 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 29 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 30 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
+| 31 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 32 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 33 | [1º de Abril](http://twitter.com/search?q=1%c2%ba+de+Abril) | N/A |
-| 34 | [The 1](http://twitter.com/search?q=The+1) | N/A |
-| 35 | [Feliz 1](http://twitter.com/search?q=Feliz+1) | N/A |
-| 36 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 37 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 38 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
-| 39 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 34 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 35 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 36 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 37 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 38 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
+| 39 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
 | 40 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 41 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 42 | [Ragatanga](http://twitter.com/search?q=Ragatanga) | Ragatanga is a slang term used in Brazil to describe someone who is stylish, fashionable, and cool. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "stylish" or "trendy". |
-| 43 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 44 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 45 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 46 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 47 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 48 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
-| 49 | [Palmério Dória](http://twitter.com/search?q=Palm%c3%a9rio+D%c3%b3ria) | N/A |
-| 50 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 41 | [DOMI MERECE RESPEITO](http://twitter.com/search?q=DOMI+MERECE+RESPEITO) | N/A |
+| 42 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 43 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
+| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 45 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 46 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
+| 47 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
+| 48 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 49 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
+| 50 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
 
 
 

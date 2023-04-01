@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-04-01 07:16:52 UTC`
+📆 Last Updated: `2023-04-01 08:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,23 +17,23 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#31Mar](http://twitter.com/search?q=%2331Mar) | N/A |
 | 2 | [#MáximaConcienciaPopular](http://twitter.com/search?q=%23M%c3%a1ximaConcienciaPopular) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 6 | [#MaduroEsUnDuro](http://twitter.com/search?q=%23MaduroEsUnDuro) | N/A |
-| 7 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 5 | [#MaduroEsUnDuro](http://twitter.com/search?q=%23MaduroEsUnDuro) | N/A |
+| 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 8 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [Casos](http://twitter.com/search?q=Casos) | N/A |
+| 9 | [Casos](http://twitter.com/search?q=Casos) | N/A |
+| 10 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
 | 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 13 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 14 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
-| 15 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 12 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
+| 13 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 14 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 18 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 19 | [Macu](http://twitter.com/search?q=Macu) | N/A |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [Macu](http://twitter.com/search?q=Macu) | N/A |
+| 19 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
 | 20 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
 | 21 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 22 | [Hernán Gamboa](http://twitter.com/search?q=Hern%c3%a1n+Gamboa) | N/A |
@@ -45,10 +45,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 28 | [Wilson Ramos](http://twitter.com/search?q=Wilson+Ramos) | N/A |
 | 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 30 | [Faja Petrolífera del Orinoco](http://twitter.com/search?q=Faja+Petrol%c3%adfera+del+Orinoco) | N/A |
-| 31 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
-| 32 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 33 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 34 | [Juntas Regionales](http://twitter.com/search?q=Juntas+Regionales) | N/A |
+| 31 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 32 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 33 | [Juntas Regionales](http://twitter.com/search?q=Juntas+Regionales) | N/A |
+| 34 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
 | 35 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
 | 36 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
 | 37 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
@@ -58,11 +58,11 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 41 | [Jackeline Perico](http://twitter.com/search?q=Jackeline+Perico) | N/A |
 | 42 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
 | 43 | [Cherry Navarro](http://twitter.com/search?q=Cherry+Navarro) | N/A |
-| 44 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 45 | [daniel santos](http://twitter.com/search?q=daniel+santos) | N/A |
-| 46 | [Mirtha Pérez](http://twitter.com/search?q=Mirtha+P%c3%a9rez) | N/A |
-| 47 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
-| 48 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 44 | [daniel santos](http://twitter.com/search?q=daniel+santos) | N/A |
+| 45 | [Mirtha Pérez](http://twitter.com/search?q=Mirtha+P%c3%a9rez) | N/A |
+| 46 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
+| 47 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 48 | [IPASME](http://twitter.com/search?q=IPASME) | N/A |
 | 49 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
 | 50 | [Caiga](http://twitter.com/search?q=Caiga) | N/A |
 
