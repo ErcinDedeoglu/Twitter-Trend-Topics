@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-01 05:17:45 UTC`
+📆 Last Updated: `2023-04-01 06:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Dominican Republic
 | 12 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
 | 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 14 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 15 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 16 | [Vico C](http://twitter.com/search?q=Vico+C) | N/A |
-| 17 | [v república](http://twitter.com/search?q=v+rep%c3%bablica) | N/A |
-| 18 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 19 | [Liondy](http://twitter.com/search?q=Liondy) | N/A |
-| 20 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
-| 21 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 22 | [Cayo Levantado](http://twitter.com/search?q=Cayo+Levantado) | N/A |
-| 23 | [milagros ortiz bosch](http://twitter.com/search?q=milagros+ortiz+bosch) | N/A |
-| 24 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
-| 25 | [Peña Gómez](http://twitter.com/search?q=Pe%c3%b1a+G%c3%b3mez) | N/A |
-| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 27 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
-| 28 | [ONeil Cruz](http://twitter.com/search?q=ONeil+Cruz) | N/A |
-| 29 | [Martínez Pozo](http://twitter.com/search?q=Mart%c3%adnez+Pozo) | N/A |
-| 30 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 31 | [faride](http://twitter.com/search?q=faride) | N/A |
-| 32 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 33 | [kenya romero](http://twitter.com/search?q=kenya+romero) | N/A |
-| 34 | [Dominican](http://twitter.com/search?q=Dominican) | N/A |
-| 35 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
-| 36 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 37 | [Search "WATER"](http://twitter.com/search?q=Search+%22WATER%22) | N/A |
-| 38 | [Monte Plata](http://twitter.com/search?q=Monte+Plata) | N/A |
-| 39 | [#sergiomoya](http://twitter.com/search?q=%23sergiomoya) | N/A |
-| 40 | [pompeo](http://twitter.com/search?q=pompeo) | N/A |
-| 41 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
-| 42 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 43 | [ñeñeco](http://twitter.com/search?q=%c3%b1e%c3%b1eco) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
-| 46 | [el penco](http://twitter.com/search?q=el+penco) | N/A |
-| 47 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 48 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
-| 49 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 50 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
+| 15 | [Vico C](http://twitter.com/search?q=Vico+C) | N/A |
+| 16 | [v república](http://twitter.com/search?q=v+rep%c3%bablica) | N/A |
+| 17 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 18 | [Liondy](http://twitter.com/search?q=Liondy) | N/A |
+| 19 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 20 | [Cayo Levantado](http://twitter.com/search?q=Cayo+Levantado) | N/A |
+| 21 | [milagros ortiz bosch](http://twitter.com/search?q=milagros+ortiz+bosch) | N/A |
+| 22 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
+| 23 | [Peña Gómez](http://twitter.com/search?q=Pe%c3%b1a+G%c3%b3mez) | N/A |
+| 24 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 25 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
+| 26 | [ONeil Cruz](http://twitter.com/search?q=ONeil+Cruz) | N/A |
+| 27 | [Martínez Pozo](http://twitter.com/search?q=Mart%c3%adnez+Pozo) | N/A |
+| 28 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
+| 29 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 30 | [faride](http://twitter.com/search?q=faride) | N/A |
+| 31 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 32 | [kenya romero](http://twitter.com/search?q=kenya+romero) | N/A |
+| 33 | [Dominican](http://twitter.com/search?q=Dominican) | N/A |
+| 34 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
+| 35 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 36 | [Search "WATER"](http://twitter.com/search?q=Search+%22WATER%22) | N/A |
+| 37 | [Monte Plata](http://twitter.com/search?q=Monte+Plata) | N/A |
+| 38 | [#sergiomoya](http://twitter.com/search?q=%23sergiomoya) | N/A |
+| 39 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 40 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
+| 41 | [#mlbporteleantillas](http://twitter.com/search?q=%23mlbporteleantillas) | N/A |
+| 42 | [ñeñeco](http://twitter.com/search?q=%c3%b1e%c3%b1eco) | N/A |
+| 43 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 44 | [el penco](http://twitter.com/search?q=el+penco) | N/A |
+| 45 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 46 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
+| 47 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 48 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
+| 49 | [POPULAR](http://twitter.com/search?q=POPULAR) | N/A |
+| 50 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 
 
 

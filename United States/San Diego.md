@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-01 05:17:41 UTC`
+📆 Last Updated: `2023-04-01 06:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
-| 4 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 5 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 6 | [#PaleyFest](http://twitter.com/search?q=%23PaleyFest) | N/A |
-| 7 | [#WoodstockAI](http://twitter.com/search?q=%23WoodstockAI) | N/A |
-| 8 | [Charlie Blackmon](http://twitter.com/search?q=Charlie+Blackmon) | N/A |
-| 9 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 10 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 11 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 12 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 13 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 14 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 15 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 16 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 17 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 18 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 1 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 7 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 8 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 9 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 10 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 11 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 14 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 15 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 17 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
+| 18 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
 | 19 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 22 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 24 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 25 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 26 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 27 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 28 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 29 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 30 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 31 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 34 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 35 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 36 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 37 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 39 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 40 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 41 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 42 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 43 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 44 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 45 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 46 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 47 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
-| 50 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 20 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 21 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 23 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 24 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 25 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
+| 26 | [#ReyMysterio](http://twitter.com/search?q=%23ReyMysterio) | N/A |
+| 27 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 28 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 29 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 30 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 31 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 32 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 33 | [#tnwx](http://twitter.com/search?q=%23tnwx) | N/A |
+| 34 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 35 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 36 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 37 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
+| 38 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 
 
 

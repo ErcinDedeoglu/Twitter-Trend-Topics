@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-04-01 05:16:47 UTC`
+📆 Last Updated: `2023-04-01 06:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 2 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 3 | [#stockportcounty](http://twitter.com/search?q=%23stockportcounty) | N/A |
-| 4 | [cooper](http://twitter.com/search?q=cooper) | N/A |
-| 5 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 6 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 7 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 8 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 9 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 11 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 12 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 13 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 14 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
-| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 16 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 19 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 21 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
-| 22 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
-| 23 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
-| 24 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 25 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 26 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 27 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
-| 28 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 31 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 32 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
-| 33 | [rip jason](http://twitter.com/search?q=rip+jason) | N/A |
-| 34 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 35 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 36 | [vidic](http://twitter.com/search?q=vidic) | N/A |
-| 37 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
-| 38 | [Kathy Burke](http://twitter.com/search?q=Kathy+Burke) | N/A |
-| 39 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
-| 40 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
-| 41 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 42 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 43 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 44 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 45 | [spring term](http://twitter.com/search?q=spring+term) | N/A |
-| 46 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
-| 47 | [RIP Rocky](http://twitter.com/search?q=RIP+Rocky) | N/A |
-| 48 | [4% GDP](http://twitter.com/search?q=4%25+GDP) | N/A |
-| 49 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 1 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 2 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 9 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 11 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 14 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 16 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 17 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 18 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 19 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
+| 20 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 21 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
+| 22 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 23 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 26 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
+| 27 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 28 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 29 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 30 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 31 | [rip jason](http://twitter.com/search?q=rip+jason) | N/A |
+| 32 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 33 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
+| 34 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
+| 35 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
+| 36 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
+| 37 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 40 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 41 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
+| 42 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 43 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
+| 44 | [spring term](http://twitter.com/search?q=spring+term) | N/A |
+| 45 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
+| 46 | [Kathy Burke](http://twitter.com/search?q=Kathy+Burke) | N/A |
+| 47 | [rip rocky](http://twitter.com/search?q=rip+rocky) | N/A |
+| 48 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 49 | [pasg hapus](http://twitter.com/search?q=pasg+hapus) | N/A |
 
 
 

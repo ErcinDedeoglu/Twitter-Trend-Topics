@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-01 05:17:44 UTC`
+📆 Last Updated: `2023-04-01 06:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,37 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
-| 4 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
-| 5 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 6 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
-| 7 | [#almanegratvn](http://twitter.com/search?q=%23almanegratvn) | N/A |
-| 8 | [Giorgio](http://twitter.com/search?q=Giorgio) | N/A |
-| 9 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 11 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
-| 12 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 13 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 14 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
-| 15 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
-| 16 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 4 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
+| 5 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
+| 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 7 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 8 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
+| 9 | [Giorgio](http://twitter.com/search?q=Giorgio) | N/A |
+| 10 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
+| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 12 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 13 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 14 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 15 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 16 | [ministro jackson](http://twitter.com/search?q=ministro+jackson) | N/A |
+| 17 | [cecilia bolocco](http://twitter.com/search?q=cecilia+bolocco) | N/A |
 | 18 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
 | 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 20 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 21 | [cobquecura](http://twitter.com/search?q=cobquecura) | N/A |
-| 22 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 23 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
-| 24 | [karla rubilar](http://twitter.com/search?q=karla+rubilar) | N/A |
-| 25 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 26 | [ercilla](http://twitter.com/search?q=ercilla) | N/A |
-| 27 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 28 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
+| 22 | [cobquecura](http://twitter.com/search?q=cobquecura) | N/A |
+| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 24 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 25 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
+| 26 | [karla rubilar](http://twitter.com/search?q=karla+rubilar) | N/A |
+| 27 | [ercilla](http://twitter.com/search?q=ercilla) | N/A |
+| 28 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
 | 29 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 30 | [Ossandón](http://twitter.com/search?q=Ossand%c3%b3n) | N/A |
-| 31 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 30 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 31 | [Ossandón](http://twitter.com/search?q=Ossand%c3%b3n) | N/A |
 | 32 | [chascas](http://twitter.com/search?q=chascas) | N/A |
 | 33 | [camila miranda](http://twitter.com/search?q=camila+miranda) | N/A |
 | 34 | [Pelao](http://twitter.com/search?q=Pelao) | N/A |

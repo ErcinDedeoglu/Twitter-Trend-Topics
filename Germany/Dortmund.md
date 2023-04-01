@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-04-01 05:17:04 UTC`
+📆 Last Updated: `2023-04-01 06:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 3 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
-| 4 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 8 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 9 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 14 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 15 | [religionsunterricht](http://twitter.com/search?q=religionsunterricht) | N/A |
-| 16 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 19 | [Personalausfall](http://twitter.com/search?q=Personalausfall) | N/A |
-| 20 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 21 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
-| 22 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 23 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 24 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 25 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 26 | [frack](http://twitter.com/search?q=frack) | N/A |
-| 27 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 28 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 29 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 30 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 31 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
-| 32 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 33 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 1 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 2 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 5 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 9 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 10 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 11 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 12 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 13 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 14 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 15 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 16 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 17 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 18 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 19 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 21 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 22 | [frack](http://twitter.com/search?q=frack) | N/A |
+| 23 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 24 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
+| 25 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 26 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 27 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 29 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 30 | [Nebenkosten](http://twitter.com/search?q=Nebenkosten) | N/A |
+| 31 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 32 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 33 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
 | 34 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 35 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 37 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 38 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 39 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 40 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
-| 41 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 42 | [benes](http://twitter.com/search?q=benes) | N/A |
-| 43 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 44 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 45 | [lebensversicherung](http://twitter.com/search?q=lebensversicherung) | N/A |
-| 46 | [FORTUNA](http://twitter.com/search?q=FORTUNA) | N/A |
-| 47 | [shindy](http://twitter.com/search?q=shindy) | N/A |
-| 48 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 35 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 36 | [Willi](http://twitter.com/search?q=Willi) | N/A |
+| 37 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 38 | [Elke](http://twitter.com/search?q=Elke) | N/A |
+| 39 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 40 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 41 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 42 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 43 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 44 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
+| 45 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 46 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 47 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 48 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-04-01 05:17:40 UTC`
+📆 Last Updated: `2023-04-01 06:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 3 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 4 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 5 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 8 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
-| 9 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 10 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 11 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 15 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 16 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 17 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 18 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 19 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 20 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 21 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 22 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 23 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 24 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 25 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 26 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
-| 27 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 28 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 29 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 30 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 31 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
-| 32 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 33 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 34 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 35 | [Muta](http://twitter.com/search?q=Muta) | N/A |
-| 36 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
-| 37 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 38 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 39 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 41 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
-| 42 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 43 | [Maya Moore](http://twitter.com/search?q=Maya+Moore) | Maya Moore is an American professional basketball player who currently plays for the Minnesota Lynx of the Women's National Basketball Association (WNBA). She is a four-time WNBA champion, four-time WNBA All-Star, two-time Olympic gold medalist, and two-time NCAA champion. Moore is widely considered one of the greatest players in women's basketball history. |
-| 44 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 45 | [Kyle Lewis](http://twitter.com/search?q=Kyle+Lewis) | N/A |
-| 46 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
-| 47 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 48 | [She is HER](http://twitter.com/search?q=She+is+HER) | N/A |
-| 49 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 50 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 1 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 4 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 7 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 9 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 10 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 13 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 14 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 15 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 16 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
+| 17 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 18 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 19 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 20 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 22 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 23 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 24 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
+| 25 | [#ReyMysterio](http://twitter.com/search?q=%23ReyMysterio) | N/A |
+| 26 | [#CaitlinClark](http://twitter.com/search?q=%23CaitlinClark) | N/A |
+| 27 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 28 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 29 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 30 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 31 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 32 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 33 | [#tnwx](http://twitter.com/search?q=%23tnwx) | N/A |
+| 34 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 35 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 36 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 37 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
+| 38 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 
 
 

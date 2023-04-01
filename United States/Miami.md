@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-01 05:17:38 UTC`
+📆 Last Updated: `2023-04-01 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,42 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 3 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 4 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
-| 8 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 10 | [America](http://twitter.com/search?q=America) | N/A |
-| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 14 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 16 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
-| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 19 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
-| 20 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 21 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 25 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 26 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 29 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 30 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 32 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 33 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 34 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 36 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 37 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 39 | [Peyton Watson](http://twitter.com/search?q=Peyton+Watson) | N/A |
-| 40 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 41 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 42 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 43 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 44 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 45 | [Space Ghost](http://twitter.com/search?q=Space+Ghost) | N/A |
-| 46 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 47 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 48 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 49 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 4 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 7 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 9 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 12 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 13 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 14 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 15 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
+| 16 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 17 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 18 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 19 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 22 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 23 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
+| 24 | [#ReyMysterio](http://twitter.com/search?q=%23ReyMysterio) | N/A |
+| 25 | [#CaitlinClark](http://twitter.com/search?q=%23CaitlinClark) | N/A |
+| 26 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 27 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 28 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 29 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 30 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 31 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 32 | [#tnwx](http://twitter.com/search?q=%23tnwx) | N/A |
+| 33 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 34 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 35 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
+| 36 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-01 05:17:46 UTC`
+📆 Last Updated: `2023-04-01 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 3 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 4 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
-| 5 | [#F95HSV](http://twitter.com/search?q=%23F95HSV) | N/A |
-| 6 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 9 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 2 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 3 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 6 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
+| 7 | [#f95hsv](http://twitter.com/search?q=%23f95hsv) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 | 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 11 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 12 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 13 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 17 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 18 | [religionsunterricht](http://twitter.com/search?q=religionsunterricht) | N/A |
-| 19 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 21 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 22 | [Personalausfall](http://twitter.com/search?q=Personalausfall) | N/A |
-| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 24 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
-| 25 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 26 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 27 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 28 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 29 | [frack](http://twitter.com/search?q=frack) | N/A |
-| 30 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 31 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 32 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 33 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 34 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 35 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
-| 36 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 37 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 38 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 39 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 40 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 41 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 42 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 43 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
-| 44 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 45 | [benes](http://twitter.com/search?q=benes) | N/A |
-| 46 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 47 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 48 | [lebensversicherung](http://twitter.com/search?q=lebensversicherung) | N/A |
-| 49 | [FORTUNA](http://twitter.com/search?q=FORTUNA) | N/A |
-| 50 | [shindy](http://twitter.com/search?q=shindy) | N/A |
+| 11 | [Quali](http://twitter.com/search?q=Quali) | N/A |
+| 12 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 13 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 14 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 15 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 16 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 17 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 18 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 19 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 20 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 21 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 22 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 23 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 24 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 25 | [frack](http://twitter.com/search?q=frack) | N/A |
+| 26 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
+| 27 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 28 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 29 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 30 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 31 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
+| 32 | [Nebenkosten](http://twitter.com/search?q=Nebenkosten) | N/A |
+| 33 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 34 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 35 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
+| 36 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 37 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 38 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 39 | [Willi](http://twitter.com/search?q=Willi) | N/A |
+| 40 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 41 | [Elke](http://twitter.com/search?q=Elke) | N/A |
+| 42 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 43 | [Leonie](http://twitter.com/search?q=Leonie) | N/A |
+| 44 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 45 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 46 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 47 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 48 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 49 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
+| 50 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
 
 
 

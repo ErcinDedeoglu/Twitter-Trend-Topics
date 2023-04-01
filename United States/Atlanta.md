@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-01 05:17:33 UTC`
+📆 Last Updated: `2023-04-01 06:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 2 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 5 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 7 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 9 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 10 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 11 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 12 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 14 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 15 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
-| 16 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 17 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 18 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 20 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 21 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 22 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 23 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 24 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 25 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 26 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 27 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 28 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 29 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
-| 30 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 31 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 33 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
-| 34 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 35 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 36 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 37 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 38 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
-| 39 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
-| 40 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 41 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 42 | [Muta](http://twitter.com/search?q=Muta) | N/A |
-| 43 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
-| 44 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 45 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 46 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 47 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 48 | [Ric Flair](http://twitter.com/search?q=Ric+Flair) | N/A |
-| 49 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 50 | [Maya Moore](http://twitter.com/search?q=Maya+Moore) | Maya Moore is an American professional basketball player who currently plays for the Minnesota Lynx of the Women's National Basketball Association (WNBA). She is a four-time WNBA champion, four-time WNBA All-Star, two-time Olympic gold medalist, and two-time NCAA champion. Moore is widely considered one of the greatest players in women's basketball history. |
+| 1 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 4 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 5 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
+| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 7 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 8 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 9 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 10 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 11 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 14 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 15 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 17 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
+| 18 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 19 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 20 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 21 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 23 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 24 | [#STRAYKIDSINLA](http://twitter.com/search?q=%23STRAYKIDSINLA) | N/A |
+| 25 | [#ReyMysterio](http://twitter.com/search?q=%23ReyMysterio) | N/A |
+| 26 | [#CaitlinClark](http://twitter.com/search?q=%23CaitlinClark) | N/A |
+| 27 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 28 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 29 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 30 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 31 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 32 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 33 | [#tnwx](http://twitter.com/search?q=%23tnwx) | N/A |
+| 34 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 35 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 36 | [#TransVisibilityDay](http://twitter.com/search?q=%23TransVisibilityDay) | N/A |
+| 37 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 
 
 

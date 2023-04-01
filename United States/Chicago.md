@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-01 05:17:34 UTC`
+📆 Last Updated: `2023-04-01 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#C2E2](http://twitter.com/search?q=%23C2E2) | N/A |
-| 2 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 3 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 3 | [Graveman](http://twitter.com/search?q=Graveman) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 5 | [#Tornado](http://twitter.com/search?q=%23Tornado) | N/A |
 | 6 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [#JJSB7](http://twitter.com/search?q=%23JJSB7) | N/A |
-| 10 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 11 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 12 | [America](http://twitter.com/search?q=America) | N/A |
-| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 14 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 17 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 18 | [Belvidere](http://twitter.com/search?q=Belvidere) | N/A |
-| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 20 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 21 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 25 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 26 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 29 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 30 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 32 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 33 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 36 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 37 | [Peyton Watson](http://twitter.com/search?q=Peyton+Watson) | N/A |
-| 38 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 39 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
-| 40 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 41 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 42 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 43 | [Space Ghost](http://twitter.com/search?q=Space+Ghost) | N/A |
-| 44 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 45 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 46 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 47 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 48 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 49 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 50 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 8 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 9 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 13 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 15 | [Rick Steiner](http://twitter.com/search?q=Rick+Steiner) | N/A |
+| 16 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 17 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 18 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 19 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 20 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 21 | [Konnan](http://twitter.com/search?q=Konnan) | N/A |
+| 22 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 23 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 24 | [Lisa Bluder](http://twitter.com/search?q=Lisa+Bluder) | N/A |
+| 25 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
+| 26 | [SAD BEAUTIFUL TRAGIC](http://twitter.com/search?q=SAD+BEAUTIFUL+TRAGIC) | N/A |
+| 27 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 28 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 29 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 30 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 31 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 32 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
+| 33 | [Dante Martin](http://twitter.com/search?q=Dante+Martin) | N/A |
+| 34 | [Steven Kwan](http://twitter.com/search?q=Steven+Kwan) | N/A |
+| 35 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
+| 36 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 37 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 38 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 39 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 40 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 41 | [Muta](http://twitter.com/search?q=Muta) | N/A |
+| 42 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 43 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 44 | [Kyle Lewis](http://twitter.com/search?q=Kyle+Lewis) | N/A |
+| 45 | [Maya Moore](http://twitter.com/search?q=Maya+Moore) | Maya Moore is an American professional basketball player who currently plays for the Minnesota Lynx of the Women's National Basketball Association (WNBA). She is a four-time WNBA champion, four-time WNBA All-Star, two-time Olympic gold medalist, and two-time NCAA champion. Moore is widely considered one of the greatest players in women's basketball history. |
+| 46 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 47 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 48 | [Morbid Angel](http://twitter.com/search?q=Morbid+Angel) | N/A |
+| 49 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 50 | [She is HER](http://twitter.com/search?q=She+is+HER) | N/A |
 
 
 

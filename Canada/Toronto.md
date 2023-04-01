@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-01 05:16:46 UTC`
+📆 Last Updated: `2023-04-01 06:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 3 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 4 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 1 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 2 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 3 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 4 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
 | 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 7 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 8 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 9 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 13 | [Akwesasne](http://twitter.com/search?q=Akwesasne) | N/A |
-| 14 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 15 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 16 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 18 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 19 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 20 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 21 | [Erin O'Toole](http://twitter.com/search?q=Erin+O%27Toole) | N/A |
-| 22 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 23 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 24 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 25 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 26 | [Alberta](http://twitter.com/search?q=Alberta) | N/A |
-| 27 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 28 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 29 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 30 | [Canadian Army](http://twitter.com/search?q=Canadian+Army) | N/A |
-| 31 | [stuart skinner](http://twitter.com/search?q=stuart+skinner) | N/A |
-| 32 | [only one big sheggz](http://twitter.com/search?q=only+one+big+sheggz) | N/A |
-| 33 | [jordan romano](http://twitter.com/search?q=jordan+romano) | N/A |
-| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 35 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 36 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
-| 37 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 38 | [CRTC](http://twitter.com/search?q=CRTC) | N/A |
-| 39 | [arenado](http://twitter.com/search?q=arenado) | N/A |
-| 40 | [mayza](http://twitter.com/search?q=mayza) | N/A |
-| 41 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
-| 42 | [bichette](http://twitter.com/search?q=bichette) | N/A |
-| 43 | [LOCK HER UP](http://twitter.com/search?q=LOCK+HER+UP) | N/A |
-| 44 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 45 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 46 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 47 | [NANOS](http://twitter.com/search?q=NANOS) | N/A |
-| 48 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 49 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 50 | [manoah](http://twitter.com/search?q=manoah) | N/A |
+| 6 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 7 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Toffoli](http://twitter.com/search?q=Toffoli) | N/A |
+| 11 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 12 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 13 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 14 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 15 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 16 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 17 | [#WWEHallOfFame](http://twitter.com/search?q=%23WWEHallOfFame) | N/A |
+| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 19 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
+| 20 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 23 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 24 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
+| 25 | [Shibata](http://twitter.com/search?q=Shibata) | N/A |
+| 26 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 27 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 28 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 29 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 30 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 31 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 32 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 33 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 34 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 35 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 36 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 37 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 39 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 40 | [#Bellator293](http://twitter.com/search?q=%23Bellator293) | N/A |
+| 41 | [#TeamSasha](http://twitter.com/search?q=%23TeamSasha) | N/A |
+| 42 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 43 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 44 | [#TeamAnetra](http://twitter.com/search?q=%23TeamAnetra) | N/A |
+| 45 | [#WHLPlayoffs](http://twitter.com/search?q=%23WHLPlayoffs) | N/A |
+| 46 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 47 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 48 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 49 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 50 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 
 
 

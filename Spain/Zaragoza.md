@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-01 05:17:09 UTC`
+📆 Last Updated: `2023-04-01 06:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 2 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
-| 3 | [#euforiatv3](http://twitter.com/search?q=%23euforiatv3) | N/A |
-| 4 | [#LaReunionSecreta](http://twitter.com/search?q=%23LaReunionSecreta) | N/A |
-| 5 | [#LevanteRealZaragoza](http://twitter.com/search?q=%23LevanteRealZaragoza) | N/A |
-| 6 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 7 | [Copete](http://twitter.com/search?q=Copete) | N/A |
-| 8 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
-| 9 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 10 | [#mamaobregon](http://twitter.com/search?q=%23mamaobregon) | N/A |
-| 11 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 12 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 13 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
-| 14 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 15 | [Samantha Hudson](http://twitter.com/search?q=Samantha+Hudson) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Zornoza](http://twitter.com/search?q=Zornoza) | N/A |
-| 18 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
-| 19 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
-| 20 | [Buesa](http://twitter.com/search?q=Buesa) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 24 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 25 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 26 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 27 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 28 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 29 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 30 | [Galicia](http://twitter.com/search?q=Galicia) | N/A |
-| 31 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
-| 32 | [RENFE](http://twitter.com/search?q=RENFE) | N/A |
-| 33 | [mendy](http://twitter.com/search?q=mendy) | N/A |
-| 34 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 35 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 38 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 39 | [#yalıçapkını](http://twitter.com/search?q=%23yal%c4%b1%c3%a7apk%c4%b1n%c4%b1) | N/A |
-| 40 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 41 | [#tuzak](http://twitter.com/search?q=%23tuzak) | N/A |
-| 42 | [#EuroLeague](http://twitter.com/search?q=%23EuroLeague) | N/A |
-| 43 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 44 | [#ViernesdeDolores](http://twitter.com/search?q=%23ViernesdeDolores) | N/A |
-| 45 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 46 | [#AsturiasArde](http://twitter.com/search?q=%23AsturiasArde) | N/A |
-| 47 | [#DiaDeLaVisibilidadTrans](http://twitter.com/search?q=%23DiaDeLaVisibilidadTrans) | N/A |
-| 48 | [#CopaReinaLFEndesa](http://twitter.com/search?q=%23CopaReinaLFEndesa) | N/A |
-| 49 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 2 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 3 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 4 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 5 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 8 | [#AustraliaDAZNF1](http://twitter.com/search?q=%23AustraliaDAZNF1) | N/A |
+| 9 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
+| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 13 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 14 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 15 | [BANDERA ROJA](http://twitter.com/search?q=BANDERA+ROJA) | N/A |
+| 16 | [#FelizSábado](http://twitter.com/search?q=%23FelizS%c3%a1bado) | N/A |
+| 17 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
+| 18 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 19 | [Sargeant](http://twitter.com/search?q=Sargeant) | N/A |
+| 20 | [Cuquerella](http://twitter.com/search?q=Cuquerella) | N/A |
+| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 22 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 23 | [Sanganchao](http://twitter.com/search?q=Sanganchao) | N/A |
+| 24 | [Libres 3](http://twitter.com/search?q=Libres+3) | N/A |
+| 25 | [Zhou](http://twitter.com/search?q=Zhou) | N/A |
+| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 27 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
+| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 29 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
+| 30 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 31 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 32 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 33 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 34 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 35 | [Tsunoda](http://twitter.com/search?q=Tsunoda) | N/A |
+| 36 | [Benavides](http://twitter.com/search?q=Benavides) | N/A |
+| 37 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 38 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 39 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 40 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 42 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
+| 43 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 46 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 47 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 48 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 49 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
+| 50 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 
 
 

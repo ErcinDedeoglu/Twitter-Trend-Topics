@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-01 05:17:10 UTC`
+📆 Last Updated: `2023-04-01 06:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
+| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [troms](http://twitter.com/search?q=troms) | N/A |
+| 4 | [bama](http://twitter.com/search?q=bama) | N/A |
 | 5 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 6 | [deadline day](http://twitter.com/search?q=deadline+day) | N/A |
-| 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 8 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 9 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
-| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 11 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
-| 12 | [bedre](http://twitter.com/search?q=bedre) | N/A |
-| 13 | [aalesund](http://twitter.com/search?q=aalesund) | N/A |
-| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 15 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
-| 16 | [#Trondheim](http://twitter.com/search?q=%23Trondheim) | N/A |
-| 17 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 18 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 19 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 20 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 21 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
-| 22 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
-| 23 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 24 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 25 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 26 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
-| 27 | [#eliteserien](http://twitter.com/search?q=%23eliteserien) | N/A |
-| 28 | [Politiet](http://twitter.com/search?q=Politiet) | N/A |
-| 29 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 30 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 6 | [#FinTwit](http://twitter.com/search?q=%23FinTwit) | N/A |
+| 7 | [troms](http://twitter.com/search?q=troms) | N/A |
+| 8 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
+| 9 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 10 | [bedre](http://twitter.com/search?q=bedre) | N/A |
+| 11 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [maren mjelde](http://twitter.com/search?q=maren+mjelde) | N/A |
+| 14 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 15 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
+| 16 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 17 | [reitan](http://twitter.com/search?q=reitan) | N/A |
+| 18 | [Tenkte](http://twitter.com/search?q=Tenkte) | N/A |
+| 19 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 20 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 21 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 22 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
+| 23 | [samtidig](http://twitter.com/search?q=samtidig) | N/A |
+| 24 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 25 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 26 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
+| 27 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
+| 28 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 29 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 30 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
 | 31 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
-| 32 | [fotball](http://twitter.com/search?q=fotball) | N/A |
-| 33 | [tviler](http://twitter.com/search?q=tviler) | N/A |
-| 34 | [gleder](http://twitter.com/search?q=gleder) | N/A |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 37 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |
-| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 39 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
-| 40 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [sitter](http://twitter.com/search?q=sitter) | N/A |
-| 43 | [reitan](http://twitter.com/search?q=reitan) | N/A |
-| 44 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 45 | [mehl](http://twitter.com/search?q=mehl) | N/A |
-| 46 | [fant](http://twitter.com/search?q=fant) | N/A |
-| 47 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 48 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 49 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 33 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 34 | [tviler](http://twitter.com/search?q=tviler) | N/A |
+| 35 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 37 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 38 | [sitter](http://twitter.com/search?q=sitter) | N/A |
+| 39 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 40 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 41 | [mehl](http://twitter.com/search?q=mehl) | N/A |
+| 42 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 44 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
+| 45 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 48 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

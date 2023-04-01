@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-01 05:17:48 UTC`
+📆 Last Updated: `2023-04-01 06:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 4 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
-| 5 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
-| 6 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 7 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 9 | [ERES IMPLACABLE MATI](http://twitter.com/search?q=ERES+IMPLACABLE+MATI) | N/A |
-| 10 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
-| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 12 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 13 | [#poderosoconsalsa](http://twitter.com/search?q=%23poderosoconsalsa) | N/A |
-| 14 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 15 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 16 | [Morena](http://twitter.com/search?q=Morena) | N/A |
-| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 18 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 19 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
-| 20 | [Ashton](http://twitter.com/search?q=Ashton) | N/A |
-| 21 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
-| 22 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 23 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 24 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 27 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 28 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 29 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 30 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 31 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 32 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 33 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 34 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 35 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 36 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 39 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 40 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 41 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 42 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 43 | [toy toy](http://twitter.com/search?q=toy+toy) | N/A |
-| 44 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 45 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 46 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 47 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 48 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 50 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
+| 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 2 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 5 | [Ashton](http://twitter.com/search?q=Ashton) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 9 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 10 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
+| 11 | [#UntilWeMeetAgainJHOPE](http://twitter.com/search?q=%23UntilWeMeetAgainJHOPE) | N/A |
+| 12 | [#HaveASafeFlightOurHOPE](http://twitter.com/search?q=%23HaveASafeFlightOurHOPE) | N/A |
+| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 14 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
+| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 16 | [Mancuello](http://twitter.com/search?q=Mancuello) | N/A |
+| 17 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 19 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 20 | [ERES IMPLACABLE MATI](http://twitter.com/search?q=ERES+IMPLACABLE+MATI) | N/A |
+| 21 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 22 | [Sabotage](http://twitter.com/search?q=Sabotage) | N/A |
+| 23 | [#poderosoconsalsa](http://twitter.com/search?q=%23poderosoconsalsa) | N/A |
+| 24 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 25 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Morena](http://twitter.com/search?q=Morena) | N/A |
+| 28 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
+| 29 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 30 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 32 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 33 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 34 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
+| 35 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 36 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 37 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 38 | [consejera presidenta](http://twitter.com/search?q=consejera+presidenta) | N/A |
+| 39 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 40 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 41 | [Beatriz Paredes](http://twitter.com/search?q=Beatriz+Paredes) | N/A |
+| 42 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 43 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 44 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 45 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 46 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 47 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 48 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 49 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 50 | [De la Madrid](http://twitter.com/search?q=De+la+Madrid) | N/A |
 
 
 

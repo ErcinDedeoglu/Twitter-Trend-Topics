@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-04-01 05:17:33 UTC`
+📆 Last Updated: `2023-04-01 06:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 2 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 3 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 4 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 5 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 6 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 7 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 8 | [#yilmazguney](http://twitter.com/search?q=%23yilmazguney) | N/A |
-| 9 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 10 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 11 | [#StajlaBaharGelsin](http://twitter.com/search?q=%23StajlaBaharGelsin) | N/A |
-| 12 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 13 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 14 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 15 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
-| 16 | [Seyyid](http://twitter.com/search?q=Seyyid) | N/A |
-| 17 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 18 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 19 | [Bilinçli](http://twitter.com/search?q=Bilin%c3%a7li) | N/A |
-| 20 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
-| 21 | [rtük kızılcıkşerbetinedokunma](http://twitter.com/search?q=rt%c3%bck+k%c4%b1z%c4%b1lc%c4%b1k%c5%9ferbetinedokunma) | N/A |
-| 22 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
-| 23 | [Yersen](http://twitter.com/search?q=Yersen) | N/A |
-| 24 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 25 | [ÖZÜR DİLE MERAL AKŞENER](http://twitter.com/search?q=%c3%96Z%c3%9cR+D%c4%b0LE+MERAL+AK%c5%9eENER) | N/A |
-| 26 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 27 | [#SonCümleStajyerin](http://twitter.com/search?q=%23SonC%c3%bcmleStajyerin) | N/A |
-| 28 | [#StajVaatteKalmasın](http://twitter.com/search?q=%23StajVaatteKalmas%c4%b1n) | N/A |
-| 29 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
-| 30 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 31 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 32 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 33 | [#KizilcikSerbeti](http://twitter.com/search?q=%23KizilcikSerbeti) | N/A |
-| 34 | [#CHPyeOyYok](http://twitter.com/search?q=%23CHPyeOyYok) | N/A |
-| 35 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 1 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 2 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 3 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 4 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 5 | [#KORKMUYORUZ](http://twitter.com/search?q=%23KORKMUYORUZ) | N/A |
+| 6 | [zekatla bereketlensin](http://twitter.com/search?q=zekatla+bereketlensin) | N/A |
+| 7 | [#araseçim](http://twitter.com/search?q=%23arase%c3%a7im) | N/A |
+| 8 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 9 | [#HerşeyeZamMemuraGam](http://twitter.com/search?q=%23Her%c5%9feyeZamMemuraGam) | #HerşeyeZamMemuraGam is a Turkish phrase that translates to "No raise for the poor civil servant". It is used to express sympathy for those who are not receiving a salary increase despite their hard work. |
+| 10 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 11 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
+| 12 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 13 | [hasan karaman](http://twitter.com/search?q=hasan+karaman) | N/A |
+| 14 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 15 | [Rtük KızılcıkŞerbetineDokunma](http://twitter.com/search?q=Rt%c3%bck+K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbetineDokunma) | N/A |
+| 16 | [MilletinEvladı İnce](http://twitter.com/search?q=MilletinEvlad%c4%b1+%c4%b0nce) | N/A |
+| 17 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 18 | [ecekarataş merkezde](http://twitter.com/search?q=ecekarata%c5%9f+merkezde) | N/A |
+| 19 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 20 | [Panel](http://twitter.com/search?q=Panel) | N/A |
+| 21 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 22 | [muratdilmenerin sesiniduy](http://twitter.com/search?q=muratdilmenerin+sesiniduy) | N/A |
+| 23 | [iibfkadrosuz sandıkoysuz](http://twitter.com/search?q=iibfkadrosuz+sand%c4%b1koysuz) | N/A |
+| 24 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 25 | [gsbtayinbekliyor](http://twitter.com/search?q=gsbtayinbekliyor) | N/A |
+| 26 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 27 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
+| 28 | [hurmaedit](http://twitter.com/search?q=hurmaedit) | N/A |
+| 29 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
+| 30 | [Kilim](http://twitter.com/search?q=Kilim) | N/A |
+| 31 | [trt afrika yayıncılık zirvesi](http://twitter.com/search?q=trt+afrika+yay%c4%b1nc%c4%b1l%c4%b1k+zirvesi) | N/A |
+| 32 | [vaaddeğil yapıkayıt](http://twitter.com/search?q=vaadde%c4%9fil+yap%c4%b1kay%c4%b1t) | N/A |
+| 33 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 34 | [ömer faruk başaran](http://twitter.com/search?q=%c3%b6mer+faruk+ba%c5%9faran) | N/A |
+| 35 | [emrecantemur iyikidoğdun](http://twitter.com/search?q=emrecantemur+iyikido%c4%9fdun) | N/A |
+| 36 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 37 | [Müslüman](http://twitter.com/search?q=M%c3%bcsl%c3%bcman) | N/A |
+| 38 | [Yedili Masanın Yalanı](http://twitter.com/search?q=Yedili+Masan%c4%b1n+Yalan%c4%b1) | N/A |
+| 39 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 40 | [Piro](http://twitter.com/search?q=Piro) | N/A |
+| 41 | [Asena](http://twitter.com/search?q=Asena) | N/A |
+| 42 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 43 | [ÖVÜNMEK GİBİ OLSUN](http://twitter.com/search?q=%c3%96V%c3%9cNMEK+G%c4%b0B%c4%b0+OLSUN) | N/A |
+| 44 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 45 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 46 | [ülketv taşeronusor](http://twitter.com/search?q=%c3%bclketv+ta%c5%9feronusor) | N/A |
+| 47 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 48 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 49 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
 
 
 

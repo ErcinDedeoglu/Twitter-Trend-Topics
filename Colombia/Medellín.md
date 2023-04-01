@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-04-01 05:16:56 UTC`
+📆 Last Updated: `2023-04-01 06:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#tenemosderechoa](http://twitter.com/search?q=%23tenemosderechoa) | N/A |
-| 3 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 5 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
-| 6 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
-| 7 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [#renunciecorcho](http://twitter.com/search?q=%23renunciecorcho) | N/A |
-| 10 | [POPULISMO](http://twitter.com/search?q=POPULISMO) | N/A |
-| 11 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
-| 14 | [#cuidadosintensivospara](http://twitter.com/search?q=%23cuidadosintensivospara) | N/A |
-| 15 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 16 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 17 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 18 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 19 | [SAN ANDRÉS](http://twitter.com/search?q=SAN+ANDR%c3%89S) | N/A |
-| 20 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 21 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
-| 22 | [Armero](http://twitter.com/search?q=Armero) | N/A |
-| 23 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 24 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
-| 25 | [Young miko](http://twitter.com/search?q=Young+miko) | N/A |
-| 26 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
-| 27 | [herazo](http://twitter.com/search?q=herazo) | N/A |
-| 28 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
-| 29 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 30 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
-| 31 | [STIVEN VEGA](http://twitter.com/search?q=STIVEN+VEGA) | N/A |
-| 32 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 33 | [Aerolíneas](http://twitter.com/search?q=Aerol%c3%adneas) | N/A |
-| 34 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
-| 35 | [Gilinski](http://twitter.com/search?q=Gilinski) | N/A |
-| 36 | [Servicio Geológico Colombiano](http://twitter.com/search?q=Servicio+Geol%c3%b3gico+Colombiano) | N/A |
-| 37 | [aburridos](http://twitter.com/search?q=aburridos) | N/A |
-| 38 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 39 | [germán gutiérrez](http://twitter.com/search?q=germ%c3%a1n+guti%c3%a9rrez) | N/A |
-| 40 | [Fuerza Aérea](http://twitter.com/search?q=Fuerza+A%c3%a9rea) | N/A |
-| 41 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 42 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 43 | [junior 3 - alianza 1](http://twitter.com/search?q=junior+3+-+alianza+1) | N/A |
-| 44 | [Sura](http://twitter.com/search?q=Sura) | N/A |
-| 45 | [Alerta Naranja](http://twitter.com/search?q=Alerta+Naranja) | N/A |
-| 46 | [Levante Las Planas](http://twitter.com/search?q=Levante+Las+Planas) | N/A |
-| 47 | [Chochó](http://twitter.com/search?q=Choch%c3%b3) | N/A |
-| 48 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 49 | [Quiebra](http://twitter.com/search?q=Quiebra) | N/A |
-| 50 | [POPULISTA](http://twitter.com/search?q=POPULISTA) | N/A |
+| 1 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 2 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 3 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 5 | [#TenemosDerechoA](http://twitter.com/search?q=%23TenemosDerechoA) | N/A |
+| 6 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 7 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
+| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 9 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
+| 10 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
+| 11 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 12 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
+| 13 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 14 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 15 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 16 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 17 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 18 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 19 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 20 | [Buscar "Agua"](http://twitter.com/search?q=Buscar+%22Agua%22) | N/A |
+| 21 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 22 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 23 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 25 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
+| 26 | [Armero](http://twitter.com/search?q=Armero) | N/A |
+| 27 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 31 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 32 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 34 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 35 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
+| 36 | [coronell](http://twitter.com/search?q=coronell) | N/A |
+| 37 | [The 1](http://twitter.com/search?q=The+1) | N/A |
+| 38 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 39 | [Carlos Raúl Yepes](http://twitter.com/search?q=Carlos+Ra%c3%bal+Yepes) | N/A |
+| 40 | [Camilo Ávila](http://twitter.com/search?q=Camilo+%c3%81vila) | N/A |
+| 41 | [Dama](http://twitter.com/search?q=Dama) | N/A |
+| 42 | [Tramposos](http://twitter.com/search?q=Tramposos) | N/A |
+| 43 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 44 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 45 | [Sebastián Montoya](http://twitter.com/search?q=Sebasti%c3%a1n+Montoya) | N/A |
+| 46 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 47 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 49 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 50 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
 
 
 

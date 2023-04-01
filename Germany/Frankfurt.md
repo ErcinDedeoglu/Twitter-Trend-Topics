@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-04-01 05:17:05 UTC`
+📆 Last Updated: `2023-04-01 06:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
-| 3 | [#F95HSV](http://twitter.com/search?q=%23F95HSV) | N/A |
-| 4 | [#sgeboc](http://twitter.com/search?q=%23sgeboc) | N/A |
-| 5 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
-| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 8 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 9 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
-| 10 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 11 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 12 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 13 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 14 | [frack](http://twitter.com/search?q=frack) | N/A |
-| 15 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 16 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 17 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 18 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 19 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 20 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 21 | [mois](http://twitter.com/search?q=mois) | N/A |
-| 22 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 23 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 26 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 27 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 28 | [Quali](http://twitter.com/search?q=Quali) | N/A |
-| 29 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 30 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
-| 31 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 32 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 33 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
-| 34 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 35 | [nemeth](http://twitter.com/search?q=nemeth) | N/A |
-| 36 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
-| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 38 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 39 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 40 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
-| 41 | [Narzissmus](http://twitter.com/search?q=Narzissmus) | N/A |
-| 42 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 43 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 44 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 45 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 46 | [Benes](http://twitter.com/search?q=Benes) | N/A |
-| 47 | [camilla](http://twitter.com/search?q=camilla) | N/A |
-| 48 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 49 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 50 | [schweigegeld](http://twitter.com/search?q=schweigegeld) | N/A |
+| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 5 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 6 | [#f95hsv](http://twitter.com/search?q=%23f95hsv) | N/A |
+| 7 | [#SGEBOC](http://twitter.com/search?q=%23SGEBOC) | N/A |
+| 8 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 11 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 12 | [Qualifying](http://twitter.com/search?q=Qualifying) | N/A |
+| 13 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 14 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 15 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 16 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 17 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Moin Schubsi](http://twitter.com/search?q=Moin+Schubsi) | N/A |
+| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 21 | [religionsunterricht](http://twitter.com/search?q=religionsunterricht) | N/A |
+| 22 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 23 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 24 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 25 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 27 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 28 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 29 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 30 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 31 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 32 | [kilkenny](http://twitter.com/search?q=kilkenny) | N/A |
+| 33 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 34 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 35 | [frack](http://twitter.com/search?q=frack) | N/A |
+| 36 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 37 | [til schweiger](http://twitter.com/search?q=til+schweiger) | N/A |
+| 38 | [Bindestrich](http://twitter.com/search?q=Bindestrich) | N/A |
+| 39 | [Personalausfall](http://twitter.com/search?q=Personalausfall) | N/A |
+| 40 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 41 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 42 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 43 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 44 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 45 | [lukaschenko](http://twitter.com/search?q=lukaschenko) | N/A |
+| 46 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
+| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 48 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 49 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 50 | [Willi](http://twitter.com/search?q=Willi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-01 05:16:55 UTC`
+📆 Last Updated: `2023-04-01 06:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 2 | [#PodemosHablarCHV](http://twitter.com/search?q=%23PodemosHablarCHV) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 4 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
-| 5 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 6 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
-| 7 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 8 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
+| 6 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 7 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
+| 8 | [Giorgio](http://twitter.com/search?q=Giorgio) | N/A |
+| 9 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
+| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 11 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
 | 12 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 15 | [Giorgio](http://twitter.com/search?q=Giorgio) | N/A |
-| 16 | [Roberto Cox](http://twitter.com/search?q=Roberto+Cox) | N/A |
+| 13 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 14 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 15 | [ministro jackson](http://twitter.com/search?q=ministro+jackson) | N/A |
+| 16 | [cecilia bolocco](http://twitter.com/search?q=cecilia+bolocco) | N/A |
 | 17 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
-| 18 | [Tableton](http://twitter.com/search?q=Tableton) | N/A |
-| 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 20 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 21 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
-| 22 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 25 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 28 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 29 | [Temuco](http://twitter.com/search?q=Temuco) | N/A |
-| 30 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 31 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
-| 32 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 33 | [Blumel](http://twitter.com/search?q=Blumel) | N/A |
-| 34 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 35 | [cobquecura](http://twitter.com/search?q=cobquecura) | N/A |
-| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 37 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 38 | [galli](http://twitter.com/search?q=galli) | N/A |
-| 39 | [Dante Poli](http://twitter.com/search?q=Dante+Poli) | N/A |
-| 40 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 41 | [Yasna](http://twitter.com/search?q=Yasna) | N/A |
-| 42 | [Chadwick](http://twitter.com/search?q=Chadwick) | N/A |
-| 43 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 44 | [Longton](http://twitter.com/search?q=Longton) | N/A |
-| 45 | [paseo](http://twitter.com/search?q=paseo) | N/A |
-| 46 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 47 | [loncon](http://twitter.com/search?q=loncon) | N/A |
+| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 20 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
+| 21 | [cobquecura](http://twitter.com/search?q=cobquecura) | N/A |
+| 22 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 23 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
+| 24 | [karla rubilar](http://twitter.com/search?q=karla+rubilar) | N/A |
+| 25 | [ercilla](http://twitter.com/search?q=ercilla) | N/A |
+| 26 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 27 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 28 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 29 | [Ossandón](http://twitter.com/search?q=Ossand%c3%b3n) | N/A |
+| 30 | [chascas](http://twitter.com/search?q=chascas) | N/A |
+| 31 | [camila miranda](http://twitter.com/search?q=camila+miranda) | N/A |
+| 32 | [Pelao](http://twitter.com/search?q=Pelao) | N/A |
+| 33 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 34 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 35 | [Chadwick](http://twitter.com/search?q=Chadwick) | N/A |
+| 36 | [villa Francia](http://twitter.com/search?q=villa+Francia) | N/A |
+| 37 | [Loncon](http://twitter.com/search?q=Loncon) | N/A |
+| 38 | [Yasna Lewin](http://twitter.com/search?q=Yasna+Lewin) | N/A |
+| 39 | [Galli](http://twitter.com/search?q=Galli) | N/A |
+| 40 | [Paseo](http://twitter.com/search?q=Paseo) | N/A |
+| 41 | ["Expertos"](http://twitter.com/search?q=%22Expertos%22) | N/A |
+| 42 | [Enlodar](http://twitter.com/search?q=Enlodar) | N/A |
+| 43 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 44 | [Larraín](http://twitter.com/search?q=Larra%c3%adn) | N/A |
+| 45 | [pitutos](http://twitter.com/search?q=pitutos) | N/A |
+| 46 | [Blumel](http://twitter.com/search?q=Blumel) | N/A |
+| 47 | [Dante Poli](http://twitter.com/search?q=Dante+Poli) | N/A |
+| 48 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 49 | [Gomorra](http://twitter.com/search?q=Gomorra) | N/A |
 
 
 
