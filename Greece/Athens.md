@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Athens
 
-📆 Last Updated: `2023-04-01 15:17:43 UTC`
+📆 Last Updated: `2023-04-01 16:17:55 UTC`
 
 🔧 Updated every 1 hour!
 

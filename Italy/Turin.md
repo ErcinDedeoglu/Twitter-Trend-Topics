@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-04-01 15:17:40 UTC`
+📆 Last Updated: `2023-04-01 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#verissimo](http://twitter.com/search?q=%23verissimo) | N/A |
-| 2 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 5 | [L'acqua](http://twitter.com/search?q=L%27acqua) | N/A |
-| 6 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 7 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 8 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 9 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Vinitaly](http://twitter.com/search?q=Vinitaly) | N/A |
-| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 15 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 16 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 17 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
-| 18 | [#ultimagenerazione](http://twitter.com/search?q=%23ultimagenerazione) | N/A |
-| 19 | [#pescedaprile](http://twitter.com/search?q=%23pescedaprile) | N/A |
-| 20 | [#CremoneseAtalanta](http://twitter.com/search?q=%23CremoneseAtalanta) | N/A |
-| 21 | [#InterFiorentina](http://twitter.com/search?q=%23InterFiorentina) | N/A |
-| 22 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 23 | [#Barcaccia](http://twitter.com/search?q=%23Barcaccia) | N/A |
-| 24 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 25 | [#1april](http://twitter.com/search?q=%231april) | N/A |
-| 26 | [#CagliariSudtirol](http://twitter.com/search?q=%23CagliariSudtirol) | N/A |
-| 27 | [#paganinidirettore](http://twitter.com/search?q=%23paganinidirettore) | N/A |
-| 28 | [#Spalletti](http://twitter.com/search?q=%23Spalletti) | N/A |
-| 29 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 30 | [#forzaCasteddu](http://twitter.com/search?q=%23forzaCasteddu) | N/A |
-| 31 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
-| 32 | [#SerieBKT](http://twitter.com/search?q=%23SerieBKT) | N/A |
-| 33 | [#italgym](http://twitter.com/search?q=%23italgym) | N/A |
-| 34 | [#primoaprile](http://twitter.com/search?q=%23primoaprile) | N/A |
-| 35 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 36 | [#LeStagioniDellAmore](http://twitter.com/search?q=%23LeStagioniDellAmore) | N/A |
-| 37 | [#OpenAI](http://twitter.com/search?q=%23OpenAI) | N/A |
-| 38 | [#JuveVerona](http://twitter.com/search?q=%23JuveVerona) | N/A |
-| 39 | [#ÖzgeGürel](http://twitter.com/search?q=%23%c3%96zgeG%c3%bcrel) | N/A |
-| 40 | [#LaRussa_DIMETTITI](http://twitter.com/search?q=%23LaRussa_DIMETTITI) | N/A |
-| 41 | [#NikiEnchantix](http://twitter.com/search?q=%23NikiEnchantix) | N/A |
-| 42 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
+| 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 2 | [#1aprile](http://twitter.com/search?q=%231aprile) | N/A |
+| 3 | [#pescedaprile](http://twitter.com/search?q=%23pescedaprile) | N/A |
+| 4 | [#InterFiorentina](http://twitter.com/search?q=%23InterFiorentina) | N/A |
+| 5 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 6 | [Barcaccia](http://twitter.com/search?q=Barcaccia) | N/A |
+| 7 | [made in italy](http://twitter.com/search?q=made+in+italy) | N/A |
+| 8 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 9 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 10 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 11 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 12 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 13 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 14 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Buon 1](http://twitter.com/search?q=Buon+1) | N/A |
+| 17 | [Forza Inter](http://twitter.com/search?q=Forza+Inter) | N/A |
+| 18 | [Fekeli](http://twitter.com/search?q=Fekeli) | N/A |
+| 19 | [resistenza](http://twitter.com/search?q=resistenza) | N/A |
+| 20 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 21 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 22 | [Alex Marquez](http://twitter.com/search?q=Alex+Marquez) | N/A |
+| 23 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
+| 24 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
+| 25 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 29 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
+| 30 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 31 | [Carbone](http://twitter.com/search?q=Carbone) | N/A |
+| 32 | [Piera](http://twitter.com/search?q=Piera) | N/A |
+| 33 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 34 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 37 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 38 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 39 | [L'acqua](http://twitter.com/search?q=L%27acqua) | N/A |
+| 40 | [benvenuto aprile](http://twitter.com/search?q=benvenuto+aprile) | N/A |
+| 41 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 42 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
+| 43 | [As It Was](http://twitter.com/search?q=As+It+Was) | N/A |
+| 44 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
+| 45 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 46 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 47 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 48 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 49 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
 
 
 
