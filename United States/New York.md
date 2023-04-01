@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-31 23:17:33 UTC`
+📆 Last Updated: `2023-04-01 00:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 2 | [#istandwithevan](http://twitter.com/search?q=%23istandwithevan) | N/A |
-| 3 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 4 | [Women's History Month](http://twitter.com/search?q=Women%27s+History+Month) | N/A |
-| 5 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 6 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 7 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 9 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 10 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 11 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 12 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 13 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 14 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 15 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
-| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 17 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 18 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 19 | [#tornado](http://twitter.com/search?q=%23tornado) | N/A |
-| 20 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 22 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 23 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 24 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 25 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 26 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 27 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 28 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 29 | [Covington, TN](http://twitter.com/search?q=Covington%2c+TN) | N/A |
-| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 31 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 32 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 33 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 34 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 35 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 36 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 37 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 1 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 2 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 3 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 4 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 5 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 6 | [#istandwithevan](http://twitter.com/search?q=%23istandwithevan) | N/A |
+| 7 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 8 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
+| 9 | [Women's History Month](http://twitter.com/search?q=Women%27s+History+Month) | N/A |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 13 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 16 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 17 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 18 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 19 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 20 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 21 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 23 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 24 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 25 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 26 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 27 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 28 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 29 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
+| 30 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
+| 31 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 32 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 33 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 34 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 35 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
+| 36 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 37 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
 | 38 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
-| 39 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
-| 40 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 41 | [Solon](http://twitter.com/search?q=Solon) | N/A |
-| 42 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 43 | [Keota](http://twitter.com/search?q=Keota) | N/A |
-| 44 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
-| 45 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 46 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 47 | [Women's Final Four](http://twitter.com/search?q=Women%27s+Final+Four) | N/A |
-| 48 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
-| 49 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 50 | [Coralville](http://twitter.com/search?q=Coralville) | N/A |
+| 39 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 40 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 41 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
+| 42 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 43 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
+| 44 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 45 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 46 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 47 | [Transtifa](http://twitter.com/search?q=Transtifa) | N/A |
+| 48 | [Willie Mack](http://twitter.com/search?q=Willie+Mack) | Willie Mack is a slang term used to describe someone who is very cool, confident, and stylish. It can also be used to describe someone who is an expert at something. |
+| 49 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 50 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
 
 
 

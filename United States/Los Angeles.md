@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-31 23:17:31 UTC`
+📆 Last Updated: `2023-04-01 00:29:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SiSePuede](http://twitter.com/search?q=%23SiSePuede) | N/A |
-| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 3 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 4 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 5 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 6 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 7 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 8 | [#WaleMania](http://twitter.com/search?q=%23WaleMania) | N/A |
-| 9 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 10 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 11 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 13 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 14 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 18 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 19 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 20 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 21 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 22 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 24 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 25 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 26 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 27 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 28 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 29 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 30 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 31 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 32 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 33 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 34 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 35 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 36 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 37 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 38 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 39 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 40 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 41 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 42 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 43 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 44 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 45 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 46 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 47 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 48 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
-| 49 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
-| 50 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 1 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 2 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 3 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 4 | [#CesarChavezDay](http://twitter.com/search?q=%23CesarChavezDay) | N/A |
+| 5 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
+| 6 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
+| 7 | [#MAGATears](http://twitter.com/search?q=%23MAGATears) | N/A |
+| 8 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 9 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 10 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 11 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 12 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 13 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 14 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 15 | [Transgender](http://twitter.com/search?q=Transgender) | N/A |
+| 16 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 17 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 18 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 19 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 20 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 21 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 22 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 23 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 24 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 25 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 26 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 27 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 28 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 29 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 30 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 31 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 32 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
+| 33 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
+| 34 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 35 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 36 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 37 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 38 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
+| 39 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 40 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
+| 41 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 42 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 43 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 44 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
+| 45 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 46 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
+| 47 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 48 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 49 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 50 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
 
 
 

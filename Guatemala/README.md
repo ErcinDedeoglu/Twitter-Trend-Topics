@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-31 23:17:40 UTC`
+📆 Last Updated: `2023-04-01 00:29:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 2 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 3 | [Guastatoya](http://twitter.com/search?q=Guastatoya) | N/A |
-| 4 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 5 | [#VueltaBantrab](http://twitter.com/search?q=%23VueltaBantrab) | N/A |
-| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 7 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
-| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 9 | [USAC](http://twitter.com/search?q=USAC) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
-| 12 | [#AccionesQueTransforman](http://twitter.com/search?q=%23AccionesQueTransforman) | N/A |
-| 13 | [Yes Master](http://twitter.com/search?q=Yes+Master) | N/A |
-| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 15 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Interamericana](http://twitter.com/search?q=Interamericana) | N/A |
-| 18 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 19 | [Dall'Anese](http://twitter.com/search?q=Dall%27Anese) | N/A |
-| 20 | [Vader](http://twitter.com/search?q=Vader) | N/A |
-| 21 | [carlos pineda](http://twitter.com/search?q=carlos+pineda) | N/A |
-| 22 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [dichosa](http://twitter.com/search?q=dichosa) | N/A |
-| 26 | [Baldizon](http://twitter.com/search?q=Baldizon) | N/A |
-| 27 | [Luna de Xelajú](http://twitter.com/search?q=Luna+de+Xelaj%c3%ba) | N/A |
-| 28 | [Psicología](http://twitter.com/search?q=Psicolog%c3%ada) | N/A |
-| 29 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 33 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
-| 34 | [República de China](http://twitter.com/search?q=Rep%c3%bablica+de+China) | N/A |
-| 35 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 36 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 39 | [Oscar Sevilla](http://twitter.com/search?q=Oscar+Sevilla) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [ixchiguán y tajumulco](http://twitter.com/search?q=ixchigu%c3%a1n+y+tajumulco) | N/A |
-| 42 | [Madres](http://twitter.com/search?q=Madres) | N/A |
-| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 44 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 45 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 46 | [Gaby Moreno](http://twitter.com/search?q=Gaby+Moreno) | N/A |
-| 47 | [Sammy Morales](http://twitter.com/search?q=Sammy+Morales) | N/A |
-| 48 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 49 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 50 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 1 | [Tsai Ing-wen](http://twitter.com/search?q=Tsai+Ing-wen) | N/A |
+| 2 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 3 | [República de China](http://twitter.com/search?q=Rep%c3%bablica+de+China) | N/A |
+| 4 | [#VisitaTaiwánGT](http://twitter.com/search?q=%23VisitaTaiw%c3%a1nGT) | N/A |
+| 5 | [USAC](http://twitter.com/search?q=USAC) | N/A |
+| 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 7 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
+| 8 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 10 | [#VueltaBantrab](http://twitter.com/search?q=%23VueltaBantrab) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 13 | [Guastatoya](http://twitter.com/search?q=Guastatoya) | N/A |
+| 14 | [Suger](http://twitter.com/search?q=Suger) | N/A |
+| 15 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 16 | [tactic](http://twitter.com/search?q=tactic) | N/A |
+| 17 | [Marcos Yax](http://twitter.com/search?q=Marcos+Yax) | N/A |
+| 18 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
+| 19 | [Galeno](http://twitter.com/search?q=Galeno) | N/A |
+| 20 | [Gaby Moreno](http://twitter.com/search?q=Gaby+Moreno) | N/A |
+| 21 | [Dall'Anese](http://twitter.com/search?q=Dall%27Anese) | N/A |
+| 22 | [Baldizon](http://twitter.com/search?q=Baldizon) | N/A |
+| 23 | [Vader](http://twitter.com/search?q=Vader) | N/A |
+| 24 | [Yes Master](http://twitter.com/search?q=Yes+Master) | N/A |
+| 25 | [Luna de Xelajú](http://twitter.com/search?q=Luna+de+Xelaj%c3%ba) | N/A |
+| 26 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
+| 27 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 28 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
+| 29 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 30 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 31 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 32 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 34 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 35 | [Dichosa](http://twitter.com/search?q=Dichosa) | N/A |
+| 36 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
+| 37 | [Interamericana](http://twitter.com/search?q=Interamericana) | N/A |
+| 38 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
+| 39 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 40 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
+| 41 | [Psicología](http://twitter.com/search?q=Psicolog%c3%ada) | N/A |
+| 42 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 43 | [Sammy Morales](http://twitter.com/search?q=Sammy+Morales) | N/A |
+| 44 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
+| 47 | [Madres](http://twitter.com/search?q=Madres) | N/A |
+| 48 | [banrural](http://twitter.com/search?q=banrural) | N/A |
+| 49 | [ixchiguán y tajumulco](http://twitter.com/search?q=ixchigu%c3%a1n+y+tajumulco) | N/A |
+| 50 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
 
 
 

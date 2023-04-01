@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-03-31 23:17:24 UTC`
+📆 Last Updated: `2023-04-01 00:29:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GTvsCSK](http://twitter.com/search?q=%23GTvsCSK) | N/A |
-| 2 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 1 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 2 | [#CSKvsGT](http://twitter.com/search?q=%23CSKvsGT) | N/A |
 | 3 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
-| 4 | [#TheGreatIndianMusical](http://twitter.com/search?q=%23TheGreatIndianMusical) | N/A |
-| 5 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 6 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 7 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
-| 8 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
-| 9 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 10 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 11 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 12 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
-| 13 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
-| 14 | [Gigi Hadid](http://twitter.com/search?q=Gigi+Hadid) | N/A |
-| 15 | [Impact](http://twitter.com/search?q=Impact) | N/A |
-| 16 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 17 | [Nita Ambani](http://twitter.com/search?q=Nita+Ambani) | N/A |
-| 18 | [Wide](http://twitter.com/search?q=Wide) | N/A |
+| 4 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
+| 5 | [#RamNavami](http://twitter.com/search?q=%23RamNavami) | N/A |
+| 6 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 7 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 8 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 9 | [Arijit Singh](http://twitter.com/search?q=Arijit+Singh) | N/A |
+| 10 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 11 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 12 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 13 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 14 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 15 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 16 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 17 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
+| 18 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
 | 19 | [Degree](http://twitter.com/search?q=Degree) | N/A |
-| 20 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 21 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 22 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
-| 23 | [rayudu](http://twitter.com/search?q=rayudu) | N/A |
-| 24 | [Hangargekar](http://twitter.com/search?q=Hangargekar) | N/A |
-| 25 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 26 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
-| 27 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 28 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 29 | [Pretorius](http://twitter.com/search?q=Pretorius) | N/A |
-| 30 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 31 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 32 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 33 | [Deepak](http://twitter.com/search?q=Deepak) | N/A |
-| 34 | [गुजरात यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 35 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
-| 36 | [Entire Political Science](http://twitter.com/search?q=Entire+Political+Science) | N/A |
-| 37 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
-| 38 | [गुजरात कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 39 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
-| 40 | [#JioCrash](http://twitter.com/search?q=%23JioCrash) | N/A |
-| 41 | [#IconicAApril](http://twitter.com/search?q=%23IconicAApril) | N/A |
-| 42 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
-| 43 | [#NMACC](http://twitter.com/search?q=%23NMACC) | N/A |
-| 44 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
-| 45 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
-| 46 | [#hotstar](http://twitter.com/search?q=%23hotstar) | N/A |
-| 47 | [#GTvsCHE](http://twitter.com/search?q=%23GTvsCHE) | N/A |
-| 48 | [#cskteam](http://twitter.com/search?q=%23cskteam) | N/A |
-| 49 | [#ArijitSingh](http://twitter.com/search?q=%23ArijitSingh) | N/A |
+| 20 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
+| 21 | [Bhojpuri](http://twitter.com/search?q=Bhojpuri) | N/A |
+| 22 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
+| 23 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 24 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 25 | [fancode t20fest](http://twitter.com/search?q=fancode+t20fest) | N/A |
+| 26 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 27 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 28 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 29 | [nita ambani](http://twitter.com/search?q=nita+ambani) | N/A |
+| 30 | [saiya winning hearts](http://twitter.com/search?q=saiya+winning+hearts) | N/A |
+| 31 | [गुजरात हाई कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b9%e0%a4%be%e0%a4%88+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 32 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 33 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
+| 34 | [Impact](http://twitter.com/search?q=Impact) | N/A |
+| 35 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 36 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 37 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 38 | [डिग्री सार्वजनिक](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 39 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 40 | [Gigi Hadid](http://twitter.com/search?q=Gigi+Hadid) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 43 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
+| 44 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [emma chamberlain](http://twitter.com/search?q=emma+chamberlain) | N/A |
+| 47 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 48 | [विनय रतन सिंह](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%b0%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 49 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 50 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
 
 
 

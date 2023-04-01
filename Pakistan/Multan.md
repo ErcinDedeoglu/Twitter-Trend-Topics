@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-31 23:17:21 UTC`
+📆 Last Updated: `2023-04-01 00:29:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
 | 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 7 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 8 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 9 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 6 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
+| 7 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 8 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 9 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 10 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
-| 11 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
-| 12 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 13 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 14 | [wife of prophet](http://twitter.com/search?q=wife+of+prophet) | N/A |
-| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 11 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 12 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
+| 13 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
+| 14 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 15 | [Wife of Prophet](http://twitter.com/search?q=Wife+of+Prophet) | N/A |
 | 16 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
-| 17 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 18 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
-| 19 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 20 | [2nd Friday of Ramadan](http://twitter.com/search?q=2nd+Friday+of+Ramadan) | N/A |
-| 21 | [Broken](http://twitter.com/search?q=Broken) | N/A |
-| 22 | [Salman Taseer](http://twitter.com/search?q=Salman+Taseer) | N/A |
-| 23 | [hazrat muhammad](http://twitter.com/search?q=hazrat+muhammad) | N/A |
-| 24 | [mingle](http://twitter.com/search?q=mingle) | N/A |
-| 25 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 26 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 27 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 28 | [sepoy irshad ullah](http://twitter.com/search?q=sepoy+irshad+ullah) | N/A |
-| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 30 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 31 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
-| 34 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 35 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 36 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 37 | [YAYY](http://twitter.com/search?q=YAYY) | N/A |
-| 38 | [Mera](http://twitter.com/search?q=Mera) | N/A |
-| 39 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 40 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 41 | [Mtlb](http://twitter.com/search?q=Mtlb) | N/A |
-| 42 | [London](http://twitter.com/search?q=London) | N/A |
-| 43 | [Samee](http://twitter.com/search?q=Samee) | N/A |
-| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 45 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 46 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 47 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 48 | [quaid e azam](http://twitter.com/search?q=quaid+e+azam) | N/A |
-| 49 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
+| 17 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 19 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 20 | [mir ali](http://twitter.com/search?q=mir+ali) | N/A |
+| 21 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 22 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 23 | [Hazrat Muhammad](http://twitter.com/search?q=Hazrat+Muhammad) | N/A |
+| 24 | [Ruturaj Gaikwad](http://twitter.com/search?q=Ruturaj+Gaikwad) | N/A |
+| 25 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
+| 26 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 27 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 28 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 29 | [20 Million](http://twitter.com/search?q=20+Million) | N/A |
+| 30 | [Naughty](http://twitter.com/search?q=Naughty) | N/A |
+| 31 | [Valid](http://twitter.com/search?q=Valid) | N/A |
+| 32 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 33 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 34 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 35 | [Tahajjud](http://twitter.com/search?q=Tahajjud) | N/A |
+| 36 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 37 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 38 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 39 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 40 | [Madam](http://twitter.com/search?q=Madam) | N/A |
+| 41 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 42 | [Best of Luck](http://twitter.com/search?q=Best+of+Luck) | N/A |
+| 43 | [Undoubtedly](http://twitter.com/search?q=Undoubtedly) | N/A |
+| 44 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 45 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 46 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 47 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 48 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 49 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 
 
 

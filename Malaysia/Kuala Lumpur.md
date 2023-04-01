@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-31 23:17:11 UTC`
+📆 Last Updated: `2023-04-01 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 2 | [#tds2inkl](http://twitter.com/search?q=%23tds2inkl) | N/A |
-| 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 1 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 3 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
 | 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 5 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
 | 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 7 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 8 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [rising actor junhoe](http://twitter.com/search?q=rising+actor+junhoe) | N/A |
-| 11 | [najib](http://twitter.com/search?q=najib) | N/A |
-| 12 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 13 | [always with me](http://twitter.com/search?q=always+with+me) | N/A |
-| 14 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 15 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
-| 16 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 17 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
-| 18 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 19 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 20 | [yuju](http://twitter.com/search?q=yuju) | N/A |
-| 21 | [uitm](http://twitter.com/search?q=uitm) | N/A |
-| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 23 | [yes 5g](http://twitter.com/search?q=yes+5g) | N/A |
-| 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 27 | [src international](http://twitter.com/search?q=src+international) | N/A |
-| 28 | [plkn](http://twitter.com/search?q=plkn) | N/A |
-| 29 | [mileapo in mumbai](http://twitter.com/search?q=mileapo+in+mumbai) | N/A |
-| 30 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
-| 31 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 34 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 35 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 36 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 37 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
-| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [Woww](http://twitter.com/search?q=Woww) | N/A |
-| 40 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 41 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 42 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 43 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 44 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
-| 45 | [syed saddiq](http://twitter.com/search?q=syed+saddiq) | N/A |
-| 46 | [ipoh](http://twitter.com/search?q=ipoh) | N/A |
-| 47 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 48 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 49 | [Universe](http://twitter.com/search?q=Universe) | N/A |
-| 50 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 9 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 10 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 11 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 12 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 13 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 16 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
+| 17 | [BTEEZ](http://twitter.com/search?q=BTEEZ) | N/A |
+| 18 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
+| 19 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 20 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 21 | [src international](http://twitter.com/search?q=src+international) | N/A |
+| 22 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 23 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 24 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 25 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 26 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 27 | [Yes 5G](http://twitter.com/search?q=Yes+5G) | N/A |
+| 28 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 29 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 30 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 31 | [plkn](http://twitter.com/search?q=plkn) | N/A |
+| 32 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
+| 33 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 34 | [Scara](http://twitter.com/search?q=Scara) | N/A |
+| 35 | [uitm](http://twitter.com/search?q=uitm) | N/A |
+| 36 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 38 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
+| 39 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 40 | [Thanks for the GA](http://twitter.com/search?q=Thanks+for+the+GA) | N/A |
+| 41 | [fatin](http://twitter.com/search?q=fatin) | N/A |
+| 42 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
+| 43 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 44 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
+| 45 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 47 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
+| 48 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 50 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
 
 
 

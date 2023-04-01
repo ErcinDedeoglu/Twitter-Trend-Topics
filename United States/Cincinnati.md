@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-31 23:17:29 UTC`
+📆 Last Updated: `2023-04-01 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 2 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 3 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 9 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 10 | [#MFAMGauntlet](http://twitter.com/search?q=%23MFAMGauntlet) | N/A |
-| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 14 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
-| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 16 | [Cesar Chavez](http://twitter.com/search?q=Cesar+Chavez) | N/A |
-| 17 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 18 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 20 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 22 | [Peoria](http://twitter.com/search?q=Peoria) | N/A |
-| 23 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 24 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 25 | [Hot Springs](http://twitter.com/search?q=Hot+Springs) | N/A |
-| 26 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 28 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 29 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 30 | [Tristan Tate](http://twitter.com/search?q=Tristan+Tate) | N/A |
-| 31 | [Benzino](http://twitter.com/search?q=Benzino) | N/A |
-| 32 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 33 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 35 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 36 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 37 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 38 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 39 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 40 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 41 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
-| 42 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
-| 43 | [Sonic the Hedgehog](http://twitter.com/search?q=Sonic+the+Hedgehog) | N/A |
-| 44 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 45 | [Tates](http://twitter.com/search?q=Tates) | N/A |
-| 46 | [Coeur](http://twitter.com/search?q=Coeur) | N/A |
-| 47 | [Dale Hansen](http://twitter.com/search?q=Dale+Hansen) | N/A |
-| 48 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
-| 49 | [Gurley](http://twitter.com/search?q=Gurley) | N/A |
-| 50 | [Latocha](http://twitter.com/search?q=Latocha) | N/A |
+| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 2 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 3 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 6 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 10 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 11 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 12 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 13 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 14 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 16 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 19 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 20 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 21 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 22 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 24 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 25 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
+| 26 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
+| 27 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 28 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 29 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 30 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 31 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
+| 32 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
+| 33 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 34 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 35 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 37 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
+| 38 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 39 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
+| 40 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 41 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 42 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 43 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 44 | [Willie Mack](http://twitter.com/search?q=Willie+Mack) | Willie Mack is a slang term used to describe someone who is very cool, confident, and stylish. It can also be used to describe someone who is an expert at something. |
+| 45 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 46 | [Transtifa](http://twitter.com/search?q=Transtifa) | N/A |
+| 47 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 48 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 49 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 50 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
 
 
 

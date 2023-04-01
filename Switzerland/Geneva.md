@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-31 23:17:02 UTC`
+📆 Last Updated: `2023-04-01 00:28:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
@@ -26,29 +26,29 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
 | 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 14 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 15 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
-| 16 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
-| 17 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 18 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 19 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 20 | [Karte](http://twitter.com/search?q=Karte) | N/A |
-| 21 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
-| 22 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 23 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 24 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 25 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 27 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 28 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 29 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 30 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 31 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 32 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 33 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 34 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 13 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 14 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 15 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 16 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 17 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
+| 18 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 19 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
+| 20 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 21 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 22 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 23 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 24 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 26 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 27 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 28 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 29 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 30 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 31 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 32 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 33 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 35 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 36 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 37 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
@@ -58,11 +58,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
 | 42 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 43 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 44 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 45 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 46 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 47 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 48 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 44 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 45 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 46 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 47 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 48 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
 
 
 

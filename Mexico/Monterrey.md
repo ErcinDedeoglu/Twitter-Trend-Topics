@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-31 23:16:47 UTC`
+📆 Last Updated: `2023-04-01 00:28:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,47 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
-| 2 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
-| 3 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
-| 6 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
-| 7 | [EL INE NO SE TOCA](http://twitter.com/search?q=EL+INE+NO+SE+TOCA) | N/A |
-| 8 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 9 | [Yolanda Saldivar](http://twitter.com/search?q=Yolanda+Saldivar) | N/A |
-| 10 | [Sega Genesis](http://twitter.com/search?q=Sega+Genesis) | N/A |
-| 11 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 12 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 13 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 14 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 15 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 16 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 17 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 1 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 3 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 4 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 5 | [#YaPagameBaks](http://twitter.com/search?q=%23YaPagameBaks) | N/A |
+| 6 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 7 | [#RumoresxSpotify](http://twitter.com/search?q=%23RumoresxSpotify) | N/A |
+| 8 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
+| 9 | [Maru](http://twitter.com/search?q=Maru) | N/A |
+| 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 11 | [As It Was](http://twitter.com/search?q=As+It+Was) | N/A |
+| 12 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 13 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 14 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 15 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 16 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 17 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
 | 18 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 19 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 20 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 21 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 22 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 23 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 24 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 25 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 26 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 27 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 28 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
-| 29 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
-| 30 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
-| 31 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
-| 32 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
-| 33 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 34 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 35 | [#BenSulayem](http://twitter.com/search?q=%23BenSulayem) | N/A |
-| 36 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 19 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 20 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 21 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
+| 22 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 23 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 24 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 25 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 26 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 27 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 28 | [Rosa Icela Rodríguez](http://twitter.com/search?q=Rosa+Icela+Rodr%c3%adguez) | N/A |
+| 29 | [Tellez](http://twitter.com/search?q=Tellez) | N/A |
+| 30 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 31 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 32 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 33 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 34 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
+| 35 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 36 | [#QuieroMisBoletosParaMario](http://twitter.com/search?q=%23QuieroMisBoletosParaMario) | N/A |
 | 37 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 38 | [#enestefin](http://twitter.com/search?q=%23enestefin) | N/A |
-| 39 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
+| 38 | [#SelenaQuintanilla](http://twitter.com/search?q=%23SelenaQuintanilla) | N/A |
+| 39 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 | 40 | [#NiUnVotoALosCorruptos](http://twitter.com/search?q=%23NiUnVotoALosCorruptos) | N/A |
-| 41 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 42 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 43 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 44 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
+| 41 | [#AmloEsUnPeligroParaMexico](http://twitter.com/search?q=%23AmloEsUnPeligroParaMexico) | N/A |
 
 
 

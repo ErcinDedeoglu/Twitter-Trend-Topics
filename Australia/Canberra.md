@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-31 23:17:05 UTC`
+📆 Last Updated: `2023-04-01 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLPiesTigers](http://twitter.com/search?q=%23AFLPiesTigers) | N/A |
-| 2 | [#NRLRaidersPanthers](http://twitter.com/search?q=%23NRLRaidersPanthers) | N/A |
-| 3 | [#nrlsouthsstorm](http://twitter.com/search?q=%23nrlsouthsstorm) | N/A |
-| 4 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 2 | [#AFLPiesTigers](http://twitter.com/search?q=%23AFLPiesTigers) | N/A |
+| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 4 | [#NRLRaidersPanthers](http://twitter.com/search?q=%23NRLRaidersPanthers) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [doug mulray](http://twitter.com/search?q=doug+mulray) | N/A |
+| 6 | [#afldogslions](http://twitter.com/search?q=%23afldogslions) | N/A |
 | 7 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 10 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 11 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 12 | [ricky stuart](http://twitter.com/search?q=ricky+stuart) | N/A |
-| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 14 | [porter davis](http://twitter.com/search?q=porter+davis) | N/A |
-| 15 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 16 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 17 | [ash johnson](http://twitter.com/search?q=ash+johnson) | N/A |
-| 18 | [darcy cameron](http://twitter.com/search?q=darcy+cameron) | N/A |
-| 19 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 20 | [john farnham](http://twitter.com/search?q=john+farnham) | N/A |
-| 21 | [jamarra](http://twitter.com/search?q=jamarra) | N/A |
-| 22 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 23 | [jim's mowing](http://twitter.com/search?q=jim%27s+mowing) | N/A |
-| 24 | [Salmon](http://twitter.com/search?q=Salmon) | N/A |
-| 25 | [frampton](http://twitter.com/search?q=frampton) | N/A |
-| 26 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 27 | [daniher](http://twitter.com/search?q=daniher) | N/A |
-| 28 | [collingwood](http://twitter.com/search?q=collingwood) | N/A |
-| 29 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 30 | [cowan](http://twitter.com/search?q=cowan) | N/A |
-| 31 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
-| 32 | [Clive](http://twitter.com/search?q=Clive) | N/A |
-| 33 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 34 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 35 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 36 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
-| 37 | [kerry packer](http://twitter.com/search?q=kerry+packer) | N/A |
-| 38 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 39 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 40 | [zac hosking](http://twitter.com/search?q=zac+hosking) | N/A |
-| 41 | [weak gutted dog](http://twitter.com/search?q=weak+gutted+dog) | N/A |
-| 42 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 43 | [darcy moore](http://twitter.com/search?q=darcy+moore) | N/A |
-| 44 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 45 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
-| 46 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 47 | [rapana](http://twitter.com/search?q=rapana) | N/A |
+| 8 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 9 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
+| 10 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 11 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 12 | [Congratulations Laura](http://twitter.com/search?q=Congratulations+Laura) | N/A |
+| 13 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 14 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 15 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 17 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
+| 18 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 19 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 20 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 22 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 23 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 24 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
+| 25 | [jamarra](http://twitter.com/search?q=jamarra) | N/A |
+| 26 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
+| 27 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
+| 28 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 29 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 30 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 31 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
+| 32 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 33 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 34 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
+| 35 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 36 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 37 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
+| 38 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 39 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 40 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 41 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
+| 42 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 43 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 44 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 45 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 46 | [riewoldt](http://twitter.com/search?q=riewoldt) | N/A |
+| 47 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 48 | [McStay](http://twitter.com/search?q=McStay) | N/A |
 
 
 

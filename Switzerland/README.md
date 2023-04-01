@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-31 23:17:46 UTC`
+📆 Last Updated: `2023-04-01 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 6 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for Switzerland
 | 11 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
 | 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 13 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 17 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
-| 18 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
-| 19 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 20 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 21 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 22 | [Karte](http://twitter.com/search?q=Karte) | N/A |
-| 23 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
-| 24 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 25 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 26 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 27 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 29 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 30 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 31 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 32 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 33 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 34 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 35 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 36 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 38 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 39 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 40 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 41 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 42 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 43 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 44 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 45 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 46 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 47 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 48 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 49 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 50 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 16 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 17 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 18 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 19 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
+| 20 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
+| 21 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 22 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 23 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 24 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 26 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 27 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 28 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 29 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 30 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 31 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 32 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 33 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 36 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 37 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
+| 38 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
+| 39 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 40 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 41 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 42 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 43 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 44 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 45 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 46 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 47 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 48 | [Kosova](http://twitter.com/search?q=Kosova) | N/A |
+| 49 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 50 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
 
 
 

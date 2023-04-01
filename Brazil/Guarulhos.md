@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-31 23:16:53 UTC`
+📆 Last Updated: `2023-04-01 00:28:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 2 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 3 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 4 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 5 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 6 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 7 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 8 | [LUAN EM AMERICANA](http://twitter.com/search?q=LUAN+EM+AMERICANA) | N/A |
-| 9 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 10 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 11 | [#ProvaDeResistencia](http://twitter.com/search?q=%23ProvaDeResistencia) | N/A |
-| 12 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
-| 13 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 14 | [#GlobalServiceResumes](http://twitter.com/search?q=%23GlobalServiceResumes) | N/A |
-| 15 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
-| 16 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 17 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 18 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 19 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 20 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 21 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 22 | [Força Alface](http://twitter.com/search?q=For%c3%a7a+Alface) | N/A |
-| 23 | [Quarteto Fantástico](http://twitter.com/search?q=Quarteto+Fant%c3%a1stico) | N/A |
-| 24 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 25 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 26 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
-| 27 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 28 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 29 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 30 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
-| 31 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 32 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 33 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
-| 34 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 35 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 36 | [Borel](http://twitter.com/search?q=Borel) | N/A |
-| 37 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 38 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 39 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 40 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 41 | [Papu Gomez](http://twitter.com/search?q=Papu+Gomez) | Papu Gomez is a nickname for the Argentine footballer Alejandro Gomez. It is derived from his first name, Alejandro, and his nickname, Papu. The term Papu Gomez is used to refer to the player in a friendly and affectionate way. In English, it could be translated as "Papu the Great". |
-| 42 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 43 | [Fabíola](http://twitter.com/search?q=Fab%c3%adola) | N/A |
-| 44 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 45 | [Pedro Guimarães](http://twitter.com/search?q=Pedro+Guimar%c3%a3es) | N/A |
-| 46 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 47 | [Claus](http://twitter.com/search?q=Claus) | N/A |
-| 48 | [Pantaleão](http://twitter.com/search?q=Pantale%c3%a3o) | N/A |
-| 49 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 50 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
+| 1 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
+| 2 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 3 | [Guerreira](http://twitter.com/search?q=Guerreira) | N/A |
+| 4 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
+| 5 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 6 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 7 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 8 | [Líder](http://twitter.com/search?q=L%c3%adder) | N/A |
+| 9 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 10 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 11 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
+| 12 | [MAIARA E MARAISA NO FAUSTÃO](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+FAUST%c3%83O) | N/A |
+| 13 | [#ProudOfYouBecky](http://twitter.com/search?q=%23ProudOfYouBecky) | N/A |
+| 14 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 15 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 16 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 17 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 18 | [David Braga](http://twitter.com/search?q=David+Braga) | N/A |
+| 19 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 20 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 21 | [BLACK 700K NO IG](http://twitter.com/search?q=BLACK+700K+NO+IG) | N/A |
+| 22 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 23 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
+| 24 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 25 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 26 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 27 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 28 | [JOGOS VORARMYS](http://twitter.com/search?q=JOGOS+VORARMYS) | N/A |
+| 29 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 30 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 31 | [#f3nobandsports](http://twitter.com/search?q=%23f3nobandsports) | N/A |
+| 32 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 33 | [Robson Bambu](http://twitter.com/search?q=Robson+Bambu) | Robson Bambu is a Brazilian footballer who currently plays for Botafogo. His name is derived from the Portuguese words for "Robson" (a given name) and "Bamboo" (a type of grass). In English, his name translates to "Robson Bamboo". |
+| 34 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 35 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 36 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 37 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 38 | [cocielo](http://twitter.com/search?q=cocielo) | N/A |
+| 39 | [Vasco TV](http://twitter.com/search?q=Vasco+TV) | N/A |
+| 40 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 41 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 42 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 43 | [Andrey e Jair](http://twitter.com/search?q=Andrey+e+Jair) | N/A |
+| 44 | [Maia Kealoha](http://twitter.com/search?q=Maia+Kealoha) | N/A |
+| 45 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 46 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 47 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 48 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 49 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 50 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
 
 
 

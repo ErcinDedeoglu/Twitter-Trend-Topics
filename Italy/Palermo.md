@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-31 23:16:59 UTC`
+📆 Last Updated: `2023-04-01 00:28:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,47 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 2 | [Specchia](http://twitter.com/search?q=Specchia) | N/A |
-| 3 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 4 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 5 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 6 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 7 | [Ignazio](http://twitter.com/search?q=Ignazio) | N/A |
-| 8 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 9 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 10 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 11 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 12 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 13 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 14 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 15 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 16 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 17 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
-| 18 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
-| 19 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
-| 20 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
-| 21 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
-| 22 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 23 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 24 | [#GenoaReggina](http://twitter.com/search?q=%23GenoaReggina) | N/A |
-| 25 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 26 | [#NikiEnchantix](http://twitter.com/search?q=%23NikiEnchantix) | N/A |
-| 27 | [#Resistenza](http://twitter.com/search?q=%23Resistenza) | N/A |
-| 28 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 29 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
-| 30 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 31 | [#isola](http://twitter.com/search?q=%23isola) | N/A |
-| 32 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 33 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
-| 34 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 35 | [#SalviamoSSN](http://twitter.com/search?q=%23SalviamoSSN) | N/A |
-| 36 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 37 | [#ÖzgeGürel](http://twitter.com/search?q=%23%c3%96zgeG%c3%bcrel) | N/A |
-| 38 | [#25aprile](http://twitter.com/search?q=%2325aprile) | N/A |
-| 39 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
-| 40 | [#Paratici](http://twitter.com/search?q=%23Paratici) | N/A |
+| 1 | [#GS30](http://twitter.com/search?q=%23GS30) | N/A |
+| 2 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 3 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 4 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 5 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
+| 6 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 7 | [Giuly](http://twitter.com/search?q=Giuly) | N/A |
+| 8 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 9 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 10 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 11 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 12 | [Giulietta](http://twitter.com/search?q=Giulietta) | N/A |
+| 13 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 14 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 15 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 16 | [Senato](http://twitter.com/search?q=Senato) | N/A |
+| 17 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 18 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 19 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 20 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 21 | [#prelemi](http://twitter.com/search?q=%23prelemi) | N/A |
+| 22 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
+| 23 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 24 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 25 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 26 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 27 | [#Alcaraz](http://twitter.com/search?q=%23Alcaraz) | N/A |
+| 28 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 29 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
+| 30 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 31 | [#propagandaoperaia](http://twitter.com/search?q=%23propagandaoperaia) | N/A |
+| 32 | [#ATPMiami](http://twitter.com/search?q=%23ATPMiami) | N/A |
+| 33 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 34 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
+| 35 | [#giuliasalemi](http://twitter.com/search?q=%23giuliasalemi) | N/A |
+| 36 | [#GenoaReggina](http://twitter.com/search?q=%23GenoaReggina) | N/A |
+| 37 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 38 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 39 | [#1aprile](http://twitter.com/search?q=%231aprile) | N/A |
+| 40 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
+| 41 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
 
 
 

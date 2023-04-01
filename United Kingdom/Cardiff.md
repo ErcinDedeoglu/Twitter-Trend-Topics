@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-31 23:16:41 UTC`
+📆 Last Updated: `2023-04-01 00:28:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 3 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 7 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 8 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 5 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 6 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 7 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 8 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
 | 9 | [Pretty Woman](http://twitter.com/search?q=Pretty+Woman) | N/A |
-| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 11 | [Matty Harris](http://twitter.com/search?q=Matty+Harris) | N/A |
-| 12 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 13 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
-| 14 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 15 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 16 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 10 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 11 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 12 | [Matty Harris](http://twitter.com/search?q=Matty+Harris) | N/A |
+| 13 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 14 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 15 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
 | 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 18 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 19 | [Jasper Wiese](http://twitter.com/search?q=Jasper+Wiese) | N/A |
-| 20 | [Hooley](http://twitter.com/search?q=Hooley) | N/A |
-| 21 | [Brownhill](http://twitter.com/search?q=Brownhill) | N/A |
-| 22 | [Abdull](http://twitter.com/search?q=Abdull) | N/A |
-| 23 | [Joanna Lumley](http://twitter.com/search?q=Joanna+Lumley) | N/A |
-| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 25 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 26 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 27 | [Alan Carr](http://twitter.com/search?q=Alan+Carr) | N/A |
-| 28 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 18 | [Olpherts](http://twitter.com/search?q=Olpherts) | N/A |
+| 19 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 20 | [Jasper Wiese](http://twitter.com/search?q=Jasper+Wiese) | N/A |
+| 21 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 22 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 23 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
+| 24 | [Brownhill](http://twitter.com/search?q=Brownhill) | N/A |
+| 25 | [Alan Carr](http://twitter.com/search?q=Alan+Carr) | N/A |
+| 26 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 27 | [TDOV](http://twitter.com/search?q=TDOV) | N/A |
+| 28 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
 | 29 | [York Hall](http://twitter.com/search?q=York+Hall) | N/A |
-| 30 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
-| 31 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
-| 32 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 30 | [Chairman Bill](http://twitter.com/search?q=Chairman+Bill) | N/A |
+| 31 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
+| 32 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
 | 33 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 34 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 35 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
-| 36 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 37 | [Tony Mowbray](http://twitter.com/search?q=Tony+Mowbray) | N/A |
-| 38 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 41 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 42 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
-| 43 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 44 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
-| 45 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 46 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 47 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 48 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 36 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 37 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 38 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 40 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
+| 41 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 42 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 43 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
+| 44 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 45 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 46 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 47 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 48 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
 
 
 

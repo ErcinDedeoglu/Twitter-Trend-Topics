@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-31 23:17:32 UTC`
+📆 Last Updated: `2023-04-01 00:29:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mnwx](http://twitter.com/search?q=%23mnwx) | N/A |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 4 | [#BUMBLEC](http://twitter.com/search?q=%23BUMBLEC) | N/A |
-| 5 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 6 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 7 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 9 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 10 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
-| 13 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 14 | [#tornado](http://twitter.com/search?q=%23tornado) | N/A |
-| 15 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 17 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 18 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 19 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
-| 20 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 21 | [Iowa City](http://twitter.com/search?q=Iowa+City) | N/A |
-| 22 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 24 | [Covington, TN](http://twitter.com/search?q=Covington%2c+TN) | N/A |
-| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 26 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 27 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 28 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 29 | [RED RUBY SPED UP](http://twitter.com/search?q=RED+RUBY+SPED+UP) | N/A |
-| 30 | [Ricky Vaughn](http://twitter.com/search?q=Ricky+Vaughn) | N/A |
-| 31 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 32 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 33 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
-| 34 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
-| 35 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 36 | [Solon](http://twitter.com/search?q=Solon) | N/A |
-| 37 | [Bittrex](http://twitter.com/search?q=Bittrex) | N/A |
-| 38 | [Keota](http://twitter.com/search?q=Keota) | N/A |
-| 39 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
-| 40 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 41 | [Ryan Neal](http://twitter.com/search?q=Ryan+Neal) | N/A |
-| 42 | [Women's Final Four](http://twitter.com/search?q=Women%27s+Final+Four) | N/A |
-| 43 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
-| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 45 | [Coralville](http://twitter.com/search?q=Coralville) | N/A |
-| 46 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 47 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 48 | [Elliot Cadeau](http://twitter.com/search?q=Elliot+Cadeau) | N/A |
-| 49 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 50 | [Sigourney](http://twitter.com/search?q=Sigourney) | N/A |
+| 1 | [LeBron](http://twitter.com/search?q=LeBron) | N/A |
+| 2 | [#mnwx](http://twitter.com/search?q=%23mnwx) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 6 | [#SupercardOfHonor](http://twitter.com/search?q=%23SupercardOfHonor) | N/A |
+| 7 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 10 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 11 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 12 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 13 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 14 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 16 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 19 | [Wynne](http://twitter.com/search?q=Wynne) | N/A |
+| 20 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 21 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 22 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 23 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
+| 24 | [Kitley](http://twitter.com/search?q=Kitley) | N/A |
+| 25 | [VA Tech](http://twitter.com/search?q=VA+Tech) | N/A |
+| 26 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 27 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 28 | [DoorDash](http://twitter.com/search?q=DoorDash) | N/A |
+| 29 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 30 | [Traylor](http://twitter.com/search?q=Traylor) | N/A |
+| 31 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
+| 32 | [Taurasi](http://twitter.com/search?q=Taurasi) | N/A |
+| 33 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 34 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 35 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 36 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
+| 37 | [Douglass Mackey](http://twitter.com/search?q=Douglass+Mackey) | N/A |
+| 38 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
+| 39 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 40 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 41 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 42 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 43 | [Willie Mack](http://twitter.com/search?q=Willie+Mack) | Willie Mack is a slang term used to describe someone who is very cool, confident, and stylish. It can also be used to describe someone who is an expert at something. |
+| 44 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 45 | [Transtifa](http://twitter.com/search?q=Transtifa) | N/A |
+| 46 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 47 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 48 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 49 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
+| 50 | [Ark 2](http://twitter.com/search?q=Ark+2) | N/A |
 
 
 
