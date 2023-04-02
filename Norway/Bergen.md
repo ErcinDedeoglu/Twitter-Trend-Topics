@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-02 04:18:39 UTC`
+📆 Last Updated: `2023-04-02 05:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for [Norway](</Norway>)
 | 21 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
 | 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 23 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 24 | [Faen](http://twitter.com/search?q=Faen) | N/A |
+| 24 | [FAEN](http://twitter.com/search?q=FAEN) | N/A |
 | 25 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
@@ -57,11 +57,11 @@ This is top 50 for [Norway](</Norway>)
 | 40 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
 | 41 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 | 42 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
-| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 44 | [troms](http://twitter.com/search?q=troms) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [stjørdal](http://twitter.com/search?q=stj%c3%b8rdal) | N/A |
-| 47 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 43 | [troms](http://twitter.com/search?q=troms) | N/A |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [stjørdal](http://twitter.com/search?q=stj%c3%b8rdal) | N/A |
+| 46 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 48 | [Trøim](http://twitter.com/search?q=Tr%c3%b8im) | N/A |
 
 

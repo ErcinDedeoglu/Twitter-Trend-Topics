@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-02 04:19:17 UTC`
+📆 Last Updated: `2023-04-02 05:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MalvinasArgentinas](http://twitter.com/search?q=%23MalvinasArgentinas) | N/A |
-| 2 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 3 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
-| 4 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 5 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 6 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
-| 7 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
-| 8 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 2 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 3 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 4 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
+| 5 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 6 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 7 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 8 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
 | 9 | [Día del Veterano](http://twitter.com/search?q=D%c3%ada+del+Veterano) | N/A |
-| 10 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
-| 11 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 12 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 13 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 14 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 15 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
-| 16 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 17 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 18 | [Acosta](http://twitter.com/search?q=Acosta) | N/A |
-| 19 | [Ardoni](http://twitter.com/search?q=Ardoni) | N/A |
-| 20 | [Boggio](http://twitter.com/search?q=Boggio) | N/A |
-| 21 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 22 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
-| 23 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 24 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 25 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
-| 26 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 27 | [Martin Fierro](http://twitter.com/search?q=Martin+Fierro) | N/A |
-| 28 | [EL CLUB ES DE LOS SOCIOS](http://twitter.com/search?q=EL+CLUB+ES+DE+LOS+SOCIOS) | N/A |
-| 29 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 30 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 31 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 32 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 33 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 34 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 35 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 36 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
-| 37 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 38 | [Cara de Paty](http://twitter.com/search?q=Cara+de+Paty) | N/A |
-| 39 | [Roca Sánchez](http://twitter.com/search?q=Roca+S%c3%a1nchez) | N/A |
-| 40 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
-| 41 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 10 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 11 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
+| 12 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 13 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 14 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 15 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 16 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 19 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 21 | [Acosta](http://twitter.com/search?q=Acosta) | N/A |
+| 22 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 23 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 24 | [Ardoni](http://twitter.com/search?q=Ardoni) | N/A |
+| 25 | [Boggio](http://twitter.com/search?q=Boggio) | N/A |
+| 26 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 27 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
+| 28 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 29 | [Martin Fierro](http://twitter.com/search?q=Martin+Fierro) | N/A |
+| 30 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 31 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
+| 32 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 33 | [EL CLUB ES DE LOS SOCIOS](http://twitter.com/search?q=EL+CLUB+ES+DE+LOS+SOCIOS) | N/A |
+| 34 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 35 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 36 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 37 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
+| 38 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 39 | [Cara de Paty](http://twitter.com/search?q=Cara+de+Paty) | N/A |
+| 40 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 41 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
 | 42 | [Vigliano](http://twitter.com/search?q=Vigliano) | N/A |
-| 43 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
-| 44 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 45 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 43 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 44 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 45 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 46 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
-| 47 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
+| 47 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
 | 48 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 49 | [Dabove](http://twitter.com/search?q=Dabove) | N/A |
-| 50 | [Sigali](http://twitter.com/search?q=Sigali) | N/A |
+| 49 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 50 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
 
 
 

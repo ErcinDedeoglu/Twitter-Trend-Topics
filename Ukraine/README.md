@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-02 04:19:26 UTC`
+📆 Last Updated: `2023-04-02 05:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Ukraine
 | ------- | ------------ | ------------ |
 | 1 | [#Bucha](http://twitter.com/search?q=%23Bucha) | N/A |
 | 2 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 3 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
+| 3 | [Security Council](http://twitter.com/search?q=Security+Council) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 6 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 7 | [паша мерседес](http://twitter.com/search?q=%d0%bf%d0%b0%d1%88%d0%b0+%d0%bc%d0%b5%d1%80%d1%81%d0%b5%d0%b4%d0%b5%d1%81) | N/A |
-| 8 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 9 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
-| 10 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
-| 11 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 12 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 13 | [бучи](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b8) | N/A |
+| 5 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 6 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 7 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 8 | [Паша Мерседес](http://twitter.com/search?q=%d0%9f%d0%b0%d1%88%d0%b0+%d0%9c%d0%b5%d1%80%d1%81%d0%b5%d0%b4%d0%b5%d1%81) | N/A |
+| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 10 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
+| 11 | [трамп](http://twitter.com/search?q=%d1%82%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
+| 12 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 13 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 14 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
 | 15 | [рошен](http://twitter.com/search?q=%d1%80%d0%be%d1%88%d0%b5%d0%bd) | N/A |
-| 16 | [#SarcasmAtItsFinest](http://twitter.com/search?q=%23SarcasmAtItsFinest) | N/A |
-| 17 | [Буче](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d0%b5) | N/A |
-| 18 | [JDAM](http://twitter.com/search?q=JDAM) | N/A |
-| 19 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 20 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 21 | [Бучу](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d1%83) | N/A |
-| 22 | [Lavra](http://twitter.com/search?q=Lavra) | N/A |
-| 23 | [дай бог](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9+%d0%b1%d0%be%d0%b3) | N/A |
-| 24 | [#Kherson](http://twitter.com/search?q=%23Kherson) | N/A |
-| 25 | [лавре](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b2%d1%80%d0%b5) | N/A |
-| 26 | [новая](http://twitter.com/search?q=%d0%bd%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 27 | [днепре](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80%d0%b5) | N/A |
-| 28 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 29 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 30 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 31 | [UNSC](http://twitter.com/search?q=UNSC) | N/A |
-| 32 | [Avdiivka](http://twitter.com/search?q=Avdiivka) | N/A |
-| 33 | [джису](http://twitter.com/search?q=%d0%b4%d0%b6%d0%b8%d1%81%d1%83) | N/A |
-| 34 | [олег](http://twitter.com/search?q=%d0%be%d0%bb%d0%b5%d0%b3) | N/A |
-| 35 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
-| 36 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
-| 37 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
-| 38 | [Земле](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 39 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 40 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
-| 41 | [смотря](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
-| 42 | [Какого](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 43 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 44 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 45 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 46 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 47 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 48 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 49 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 50 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
+| 16 | [#SarcasmAlert](http://twitter.com/search?q=%23SarcasmAlert) | N/A |
+| 17 | [буче](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b5) | N/A |
+| 18 | [Бучи](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d0%b8) | N/A |
+| 19 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 20 | [Бучу](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d1%83) | N/A |
+| 21 | [Lavra](http://twitter.com/search?q=Lavra) | N/A |
+| 22 | [дай бог](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9+%d0%b1%d0%be%d0%b3) | N/A |
+| 23 | [#Kherson](http://twitter.com/search?q=%23Kherson) | N/A |
+| 24 | [лавре](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b2%d1%80%d0%b5) | N/A |
+| 25 | [новая](http://twitter.com/search?q=%d0%bd%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
+| 26 | [днепре](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80%d0%b5) | N/A |
+| 27 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 28 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 29 | [Avdiivka](http://twitter.com/search?q=Avdiivka) | N/A |
+| 30 | [джису](http://twitter.com/search?q=%d0%b4%d0%b6%d0%b8%d1%81%d1%83) | N/A |
+| 31 | [олег](http://twitter.com/search?q=%d0%be%d0%bb%d0%b5%d0%b3) | N/A |
+| 32 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
+| 33 | [Германию](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
+| 34 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 35 | [земле](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 36 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 37 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 38 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 39 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 40 | [Какого](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 41 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 42 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 43 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 44 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
+| 45 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 46 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 47 | [UNSC](http://twitter.com/search?q=UNSC) | N/A |
+| 48 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 49 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
+| 50 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-04-02 04:19:06 UTC`
+📆 Last Updated: `2023-04-02 05:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 2 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 3 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 4 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 5 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 6 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 7 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 5 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 6 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 7 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
 | 8 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 9 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 10 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 11 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 12 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 13 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 14 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 9 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 10 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 11 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 12 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 13 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 14 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 | 15 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 16 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 17 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 18 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 19 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 20 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 21 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
-| 22 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 24 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 25 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 26 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 28 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 29 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 30 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 31 | [#DreamvilleFest2023](http://twitter.com/search?q=%23DreamvilleFest2023) | N/A |
-| 32 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 33 | [El Generico](http://twitter.com/search?q=El+Generico) | N/A |
-| 34 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 35 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 36 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 37 | [Lil Uzi](http://twitter.com/search?q=Lil+Uzi) | N/A |
-| 38 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 39 | [#TheTenCommandments](http://twitter.com/search?q=%23TheTenCommandments) | N/A |
-| 40 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 41 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 42 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 43 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 44 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 45 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 46 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 47 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 48 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 49 | [Corey Graves](http://twitter.com/search?q=Corey+Graves) | N/A |
-| 50 | [Civale](http://twitter.com/search?q=Civale) | N/A |
+| 16 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 17 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 18 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 19 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 20 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 21 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 22 | [#GamebredBoxing4](http://twitter.com/search?q=%23GamebredBoxing4) | N/A |
+| 23 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 24 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 25 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 26 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 27 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 28 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 30 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 31 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 32 | [#DreamvilleFest2023](http://twitter.com/search?q=%23DreamvilleFest2023) | N/A |
+| 33 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 34 | [El Generico](http://twitter.com/search?q=El+Generico) | N/A |
+| 35 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 36 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 37 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 38 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Lil Uzi Vert](http://twitter.com/search?q=Lil+Uzi+Vert) | N/A |
+| 41 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 42 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 43 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 44 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 45 | [Roy Jones](http://twitter.com/search?q=Roy+Jones) | N/A |
+| 46 | [Jacare](http://twitter.com/search?q=Jacare) | N/A |
+| 47 | [Pettis](http://twitter.com/search?q=Pettis) | N/A |
+| 48 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 49 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 50 | [Theory](http://twitter.com/search?q=Theory) | N/A |
 
 
 

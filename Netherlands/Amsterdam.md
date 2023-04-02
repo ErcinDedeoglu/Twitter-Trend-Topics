@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-02 04:18:36 UTC`
+📆 Last Updated: `2023-04-02 05:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#necpsv](http://twitter.com/search?q=%23necpsv) | N/A |
-| 2 | [#azhee](http://twitter.com/search?q=%23azhee) | N/A |
-| 3 | [#1april](http://twitter.com/search?q=%231april) | N/A |
-| 4 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 5 | [#camemm](http://twitter.com/search?q=%23camemm) | N/A |
-| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 7 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 8 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 9 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 10 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 11 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 12 | [oever](http://twitter.com/search?q=oever) | N/A |
-| 13 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [boscagli](http://twitter.com/search?q=boscagli) | N/A |
-| 16 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 18 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
-| 19 | [luuk de jong](http://twitter.com/search?q=luuk+de+jong) | N/A |
-| 20 | [fc emmen](http://twitter.com/search?q=fc+emmen) | N/A |
-| 21 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 22 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 23 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [kikker](http://twitter.com/search?q=kikker) | N/A |
-| 26 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 27 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
-| 28 | [het is 1](http://twitter.com/search?q=het+is+1) | N/A |
-| 29 | [geen 1](http://twitter.com/search?q=geen+1) | N/A |
-| 30 | [Wissel](http://twitter.com/search?q=Wissel) | N/A |
-| 31 | [Koers](http://twitter.com/search?q=Koers) | N/A |
-| 32 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 33 | [johan vollenbroek](http://twitter.com/search?q=johan+vollenbroek) | N/A |
-| 34 | [cocu](http://twitter.com/search?q=cocu) | N/A |
-| 35 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 36 | [peter r. de vries](http://twitter.com/search?q=peter+r.+de+vries) | N/A |
-| 37 | [vlap](http://twitter.com/search?q=vlap) | N/A |
-| 38 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 39 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
-| 40 | [proost](http://twitter.com/search?q=proost) | N/A |
-| 41 | [eurocommissaris](http://twitter.com/search?q=eurocommissaris) | N/A |
-| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 45 | [Mous](http://twitter.com/search?q=Mous) | N/A |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 47 | [VN-Veiligheidsraad](http://twitter.com/search?q=VN-Veiligheidsraad) | N/A |
-| 48 | [Gefeliciteerd Bart](http://twitter.com/search?q=Gefeliciteerd+Bart) | N/A |
-| 49 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 50 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [#NECPSV](http://twitter.com/search?q=%23NECPSV) | N/A |
+| 4 | [#MaxVerstappen](http://twitter.com/search?q=%23MaxVerstappen) | N/A |
+| 5 | [#azhee](http://twitter.com/search?q=%23azhee) | N/A |
+| 6 | [Go Max](http://twitter.com/search?q=Go+Max) | N/A |
+| 7 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 8 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 11 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 12 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 13 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 14 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 15 | [gijp](http://twitter.com/search?q=gijp) | N/A |
+| 16 | [oever](http://twitter.com/search?q=oever) | N/A |
+| 17 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [boscagli](http://twitter.com/search?q=boscagli) | N/A |
+| 21 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 24 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
+| 25 | [luuk de jong](http://twitter.com/search?q=luuk+de+jong) | N/A |
+| 26 | [fc emmen](http://twitter.com/search?q=fc+emmen) | N/A |
+| 27 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 28 | [drommel](http://twitter.com/search?q=drommel) | N/A |
+| 29 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 31 | [kikker](http://twitter.com/search?q=kikker) | N/A |
+| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 33 | [Koers](http://twitter.com/search?q=Koers) | N/A |
+| 34 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
+| 35 | [het is 1](http://twitter.com/search?q=het+is+1) | N/A |
+| 36 | [geen 1](http://twitter.com/search?q=geen+1) | N/A |
+| 37 | [Wissel](http://twitter.com/search?q=Wissel) | N/A |
+| 38 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 39 | [johan vollenbroek](http://twitter.com/search?q=johan+vollenbroek) | N/A |
+| 40 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 41 | [peter r. de vries](http://twitter.com/search?q=peter+r.+de+vries) | N/A |
+| 42 | [Koffie](http://twitter.com/search?q=Koffie) | N/A |
+| 43 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
+| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 45 | [vlap](http://twitter.com/search?q=vlap) | N/A |
+| 46 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
+| 47 | [eurocommissaris](http://twitter.com/search?q=eurocommissaris) | N/A |
+| 48 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
 
 
 

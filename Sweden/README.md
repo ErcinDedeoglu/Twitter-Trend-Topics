@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-02 04:19:26 UTC`
+📆 Last Updated: `2023-04-02 05:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 3 | [Aprilskämt](http://twitter.com/search?q=Aprilsk%c3%a4mt) | N/A |
 | 4 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
@@ -31,8 +31,8 @@ This is top 50 for Sweden
 | 14 | [#fotbollströjefredag](http://twitter.com/search?q=%23fotbollstr%c3%b6jefredag) | N/A |
 | 15 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
 | 16 | [SKMA](http://twitter.com/search?q=SKMA) | N/A |
-| 17 | [kalmar](http://twitter.com/search?q=kalmar) | N/A |
-| 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 17 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 18 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
 | 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 20 | [framåt malmö](http://twitter.com/search?q=fram%c3%a5t+malm%c3%b6) | N/A |
 | 21 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
@@ -43,27 +43,27 @@ This is top 50 for Sweden
 | 26 | [al hakim](http://twitter.com/search?q=al+hakim) | N/A |
 | 27 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
 | 28 | [schulman](http://twitter.com/search?q=schulman) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 31 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 33 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 34 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 35 | [nyköping](http://twitter.com/search?q=nyk%c3%b6ping) | N/A |
-| 36 | [asoro](http://twitter.com/search?q=asoro) | N/A |
-| 37 | [findell](http://twitter.com/search?q=findell) | N/A |
-| 38 | [taha ali](http://twitter.com/search?q=taha+ali) | N/A |
-| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 30 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 34 | [nyköping](http://twitter.com/search?q=nyk%c3%b6ping) | N/A |
+| 35 | [asoro](http://twitter.com/search?q=asoro) | N/A |
+| 36 | [findell](http://twitter.com/search?q=findell) | N/A |
+| 37 | [taha ali](http://twitter.com/search?q=taha+ali) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 40 | [tamas](http://twitter.com/search?q=tamas) | N/A |
-| 41 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 42 | [Guds](http://twitter.com/search?q=Guds) | N/A |
-| 43 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
-| 44 | [Superettan](http://twitter.com/search?q=Superettan) | N/A |
+| 41 | [Guds](http://twitter.com/search?q=Guds) | N/A |
+| 42 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
+| 43 | [Superettan](http://twitter.com/search?q=Superettan) | N/A |
+| 44 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 45 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 46 | [mjällby aif](http://twitter.com/search?q=mj%c3%a4llby+aif) | N/A |
-| 47 | [christoffer](http://twitter.com/search?q=christoffer) | N/A |
+| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 48 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 49 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 49 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
 | 50 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 
 

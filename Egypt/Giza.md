@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-04-02 04:18:53 UTC`
+📆 Last Updated: `2023-04-02 05:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,31 +23,31 @@ This is top 50 for [Egypt](</Egypt>)
 | 6 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
 | 7 | [#مسلسل_الاجهر](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
 | 8 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 9 | [١١ رمضان](http://twitter.com/search?q=%d9%a1%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 10 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
-| 11 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 9 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
+| 10 | [١١ رمضان](http://twitter.com/search?q=%d9%a1%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
 | 12 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 13 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 13 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
 | 14 | [استاد القاهره](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
-| 15 | [11 رمضان](http://twitter.com/search?q=11+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 16 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 17 | [#العاشر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 18 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
-| 19 | [احمد الاحمر](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 20 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 21 | [#احمد_فهمي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d9%81%d9%87%d9%85%d9%8a) | N/A |
-| 22 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 23 | [بابا الشغلانه](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%a7%d9%84%d8%b4%d8%ba%d9%84%d8%a7%d9%86%d9%87) | N/A |
-| 24 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 25 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
-| 26 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 27 | [يابن اللعيبه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
-| 28 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
-| 29 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 30 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 31 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 32 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 33 | [سلو الحياه الخوف](http://twitter.com/search?q=%d8%b3%d9%84%d9%88+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%ae%d9%88%d9%81) | N/A |
+| 15 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 16 | [#العاشر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 17 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
+| 18 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 19 | [11 رمضان](http://twitter.com/search?q=11+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 20 | [#احمد_فهمي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d9%81%d9%87%d9%85%d9%8a) | N/A |
+| 21 | [احمد الاحمر](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 22 | [بابا الشغلانه](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%a7%d9%84%d8%b4%d8%ba%d9%84%d8%a7%d9%86%d9%87) | N/A |
+| 23 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 24 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 25 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 26 | [يابن اللعيبه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
+| 27 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
+| 28 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
+| 29 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
+| 30 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 31 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 32 | [سلو الحياه الخوف](http://twitter.com/search?q=%d8%b3%d9%84%d9%88+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%ae%d9%88%d9%81) | N/A |
+| 33 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 34 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
 | 35 | [الفرص الضايعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%b5+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9%d9%87) | N/A |
 | 36 | [رامي ربيعة](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d8%b1%d8%a8%d9%8a%d8%b9%d8%a9) | N/A |
@@ -59,10 +59,10 @@ This is top 50 for [Egypt](</Egypt>)
 | 42 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
 | 43 | [ذكري العاشر](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
 | 44 | [علي الفرص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d8%b5) | N/A |
-| 45 | [استاد الرعب](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d8%b1%d8%b9%d8%a8) | N/A |
-| 46 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 47 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
-| 48 | [منظر الجمهور](http://twitter.com/search?q=%d9%85%d9%86%d8%b8%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
+| 45 | [علي لطفي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%84%d8%b7%d9%81%d9%8a) | N/A |
+| 46 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
+| 47 | [منظر الجمهور](http://twitter.com/search?q=%d9%85%d9%86%d8%b8%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
+| 48 | [استاد الرعب](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d8%b1%d8%b9%d8%a8) | N/A |
 | 49 | [شاي العروسه](http://twitter.com/search?q=%d8%b4%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b3%d9%87) | N/A |
 | 50 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
 
