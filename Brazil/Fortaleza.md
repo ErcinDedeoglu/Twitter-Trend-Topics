@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-02 16:17:01 UTC`
+📆 Last Updated: `2023-04-02 17:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 4 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 1 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 3 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 4 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
 | 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 6 | [#TeaPortoSeguroDocshoes](http://twitter.com/search?q=%23TeaPortoSeguroDocshoes) | N/A |
-| 7 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
-| 8 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 9 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 11 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 14 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 15 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
-| 16 | [Dia Mundial de Conscientização](http://twitter.com/search?q=Dia+Mundial+de+Conscientiza%c3%a7%c3%a3o) | N/A |
-| 17 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 19 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 20 | [Espectro Autista](http://twitter.com/search?q=Espectro+Autista) | N/A |
-| 21 | [Esporte Espetacular](http://twitter.com/search?q=Esporte+Espetacular) | N/A |
-| 22 | [Transtorno](http://twitter.com/search?q=Transtorno) | N/A |
-| 23 | [Yasuo](http://twitter.com/search?q=Yasuo) | N/A |
-| 24 | [Yone](http://twitter.com/search?q=Yone) | N/A |
-| 25 | [Diogo Moreira](http://twitter.com/search?q=Diogo+Moreira) | N/A |
-| 26 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 28 | [Bomba Patch](http://twitter.com/search?q=Bomba+Patch) | N/A |
-| 29 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 32 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
-| 33 | [Jerusalém](http://twitter.com/search?q=Jerusal%c3%a9m) | N/A |
-| 34 | [Equivocada](http://twitter.com/search?q=Equivocada) | N/A |
-| 35 | [Campanharo](http://twitter.com/search?q=Campanharo) | N/A |
-| 36 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 37 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 38 | [Poze](http://twitter.com/search?q=Poze) | N/A |
-| 39 | [Dener](http://twitter.com/search?q=Dener) | N/A |
-| 40 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 41 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 42 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 43 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
-| 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 45 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
-| 46 | [Empatia](http://twitter.com/search?q=Empatia) | N/A |
-| 47 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 48 | [Filho de Davi](http://twitter.com/search?q=Filho+de+Davi) | N/A |
-| 49 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 50 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 6 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 7 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 8 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
+| 9 | [#TeaPortoSeguroDocshoes](http://twitter.com/search?q=%23TeaPortoSeguroDocshoes) | N/A |
+| 10 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 11 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 12 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 13 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 14 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 15 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 16 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 17 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 18 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
+| 19 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 20 | [D-DAY IS COMING](http://twitter.com/search?q=D-DAY+IS+COMING) | N/A |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 23 | [bruna marquezine](http://twitter.com/search?q=bruna+marquezine) | N/A |
+| 24 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 25 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 26 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 28 | [Dia Mundial de Conscientização](http://twitter.com/search?q=Dia+Mundial+de+Conscientiza%c3%a7%c3%a3o) | N/A |
+| 29 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 30 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 31 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 32 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 33 | [Espectro Autista](http://twitter.com/search?q=Espectro+Autista) | N/A |
+| 34 | [Bobô](http://twitter.com/search?q=Bob%c3%b4) | N/A |
+| 35 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 39 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
+| 40 | [Transtorno](http://twitter.com/search?q=Transtorno) | N/A |
+| 41 | [Veigar](http://twitter.com/search?q=Veigar) | N/A |
+| 42 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 43 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 44 | [esporte espetacular](http://twitter.com/search?q=esporte+espetacular) | N/A |
+| 45 | [Yone](http://twitter.com/search?q=Yone) | N/A |
+| 46 | [Diogo Moreira](http://twitter.com/search?q=Diogo+Moreira) | N/A |
+| 47 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 48 | [Yasuo](http://twitter.com/search?q=Yasuo) | N/A |
+| 49 | [jodie](http://twitter.com/search?q=jodie) | N/A |
+| 50 | [Poze](http://twitter.com/search?q=Poze) | N/A |
 
 
 

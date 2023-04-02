@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-04-02 16:17:21 UTC`
+📆 Last Updated: `2023-04-02 17:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DAcongress2023](http://twitter.com/search?q=%23DAcongress2023) | N/A |
+| 1 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
 | 2 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
-| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 4 | [Derek](http://twitter.com/search?q=Derek) | N/A |
-| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 6 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 7 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 3 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 4 | [#papgeld](http://twitter.com/search?q=%23papgeld) | N/A |
+| 5 | [#DAcongress2023](http://twitter.com/search?q=%23DAcongress2023) | N/A |
+| 6 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 7 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 8 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 11 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 12 | [John Steenhuisen](http://twitter.com/search?q=John+Steenhuisen) | N/A |
+| 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 10 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 11 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 12 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
 | 13 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 14 | [Magala](http://twitter.com/search?q=Magala) | N/A |
-| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 15 | [John Steenhuisen](http://twitter.com/search?q=John+Steenhuisen) | N/A |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
 | 18 | [Mpho Phalatse](http://twitter.com/search?q=Mpho+Phalatse) | N/A |
-| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 23 | [Big Benz](http://twitter.com/search?q=Big+Benz) | N/A |
-| 24 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 25 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 26 | [Solly Malatsi](http://twitter.com/search?q=Solly+Malatsi) | N/A |
-| 27 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 30 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 31 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 32 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 33 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 34 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 35 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 37 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [Khosi for Africa](http://twitter.com/search?q=Khosi+for+Africa) | N/A |
-| 40 | [THE ULTIMATE TITAN THABANG](http://twitter.com/search?q=THE+ULTIMATE+TITAN+THABANG) | N/A |
-| 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 42 | [Mido](http://twitter.com/search?q=Mido) | N/A |
-| 43 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 44 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 45 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
-| 46 | [THANK YOU TITAN THABANG](http://twitter.com/search?q=THANK+YOU+TITAN+THABANG) | N/A |
-| 47 | [roodepoort](http://twitter.com/search?q=roodepoort) | N/A |
-| 48 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
-| 49 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 50 | [nelisa at 26](http://twitter.com/search?q=nelisa+at+26) | N/A |
+| 19 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
+| 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Big Benz](http://twitter.com/search?q=Big+Benz) | N/A |
+| 26 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 27 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [Solly Malatsi](http://twitter.com/search?q=Solly+Malatsi) | N/A |
+| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 31 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 32 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
+| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 36 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 37 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 38 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 39 | [THANK YOU TITAN THABANG](http://twitter.com/search?q=THANK+YOU+TITAN+THABANG) | N/A |
+| 40 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 42 | [Cobra](http://twitter.com/search?q=Cobra) | N/A |
+| 43 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 44 | [THE ULTIMATE TITAN THABANG](http://twitter.com/search?q=THE+ULTIMATE+TITAN+THABANG) | N/A |
+| 45 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 46 | [Samke](http://twitter.com/search?q=Samke) | N/A |
+| 47 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 49 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 50 | [Khosi for Africa](http://twitter.com/search?q=Khosi+for+Africa) | N/A |
 
 
 

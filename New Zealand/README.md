@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-02 16:17:44 UTC`
+📆 Last Updated: `2023-04-02 17:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for New Zealand
 | 1 | [#NRLSharksWarriors](http://twitter.com/search?q=%23NRLSharksWarriors) | N/A |
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 4 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 7 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 8 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 8 | [eden park](http://twitter.com/search?q=eden+park) | N/A |
 | 9 | [up the wahs](http://twitter.com/search?q=up+the+wahs) | N/A |
 | 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
 | 11 | [Super Over](http://twitter.com/search?q=Super+Over) | N/A |
@@ -31,8 +31,8 @@ This is top 50 for New Zealand
 | 14 | [Parker](http://twitter.com/search?q=Parker) | N/A |
 | 15 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 | 16 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
-| 17 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 18 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 18 | [kiwibank](http://twitter.com/search?q=kiwibank) | N/A |
 | 19 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
 | 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 21 | [Damien](http://twitter.com/search?q=Damien) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for New Zealand
 | 39 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 40 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
 | 41 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 42 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 43 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
-| 44 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
-| 47 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
-| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 49 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 50 | [randwick](http://twitter.com/search?q=randwick) | N/A |
+| 42 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
+| 43 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
+| 46 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 47 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 48 | [randwick](http://twitter.com/search?q=randwick) | N/A |
+| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 50 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-02 16:17:08 UTC`
+📆 Last Updated: `2023-04-02 17:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Spain](</Spain>)
 | 5 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
 | 6 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 7 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 8 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 9 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 10 | [Lucas Vázquez](http://twitter.com/search?q=Lucas+V%c3%a1zquez) | Lucas Vázquez is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. His name translates to "Light of the Vázquez" in English. |
-| 11 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 12 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 13 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 8 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 9 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 10 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 11 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 12 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 13 | [Helio](http://twitter.com/search?q=Helio) | N/A |
 | 14 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 15 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 16 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 15 | [Lucas Vázquez](http://twitter.com/search?q=Lucas+V%c3%a1zquez) | Lucas Vázquez is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. His name translates to "Light of the Vázquez" in English. |
+| 16 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 17 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 18 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 19 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 19 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 20 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
 | 21 | [Asenjo](http://twitter.com/search?q=Asenjo) | N/A |
-| 22 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 23 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 24 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 25 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 26 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 27 | [Odriozola](http://twitter.com/search?q=Odriozola) | N/A |
-| 28 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 29 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
-| 30 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
-| 31 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 32 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
-| 33 | [Roque Mesa](http://twitter.com/search?q=Roque+Mesa) | N/A |
-| 34 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
-| 35 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 36 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 37 | [David Almansa](http://twitter.com/search?q=David+Almansa) | N/A |
-| 38 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 39 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
-| 40 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 41 | [Referente](http://twitter.com/search?q=Referente) | N/A |
-| 42 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 43 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 44 | [La Borriquita](http://twitter.com/search?q=La+Borriquita) | N/A |
-| 45 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 46 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 47 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 48 | [Carvalhal](http://twitter.com/search?q=Carvalhal) | N/A |
-| 49 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 22 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 23 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 25 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 26 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 27 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 28 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 29 | [#LaRoca63](http://twitter.com/search?q=%23LaRoca63) | N/A |
+| 30 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 31 | [Vega Gimeno](http://twitter.com/search?q=Vega+Gimeno) | N/A |
+| 32 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 33 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
+| 34 | [Odriozola](http://twitter.com/search?q=Odriozola) | N/A |
+| 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 36 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
+| 37 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 38 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
+| 39 | [David Almansa](http://twitter.com/search?q=David+Almansa) | N/A |
+| 40 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 41 | [La Borriquita](http://twitter.com/search?q=La+Borriquita) | N/A |
+| 42 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 43 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
+| 44 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 45 | [Anxo Carro](http://twitter.com/search?q=Anxo+Carro) | N/A |
+| 46 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
+| 47 | [Roque Mesa](http://twitter.com/search?q=Roque+Mesa) | N/A |
+| 48 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 49 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
 
 
 

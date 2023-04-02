@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-02 16:17:41 UTC`
+📆 Last Updated: `2023-04-02 17:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 2 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 3 | [#LGBTQIAgoodvibes](http://twitter.com/search?q=%23LGBTQIAgoodvibes) | N/A |
-| 4 | [#ASMRCSA](http://twitter.com/search?q=%23ASMRCSA) | N/A |
-| 5 | [#STBUL](http://twitter.com/search?q=%23STBUL) | N/A |
-| 6 | [#FCNSDR](http://twitter.com/search?q=%23FCNSDR) | N/A |
+| 1 | [#LGBTQIAgoodvibes](http://twitter.com/search?q=%23LGBTQIAgoodvibes) | N/A |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [#ASMRCSA](http://twitter.com/search?q=%23ASMRCSA) | N/A |
+| 4 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 5 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 6 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
 | 7 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 8 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 10 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 11 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 12 | [Girotto](http://twitter.com/search?q=Girotto) | N/A |
-| 13 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
-| 14 | [Nueve](http://twitter.com/search?q=Nueve) | N/A |
-| 15 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 16 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 17 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 18 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 19 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 20 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
-| 21 | [Furyo](http://twitter.com/search?q=Furyo) | N/A |
-| 22 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 23 | [edon](http://twitter.com/search?q=edon) | N/A |
-| 24 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 25 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 26 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 27 | [Zhegrova](http://twitter.com/search?q=Zhegrova) | N/A |
-| 28 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 29 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 30 | [Flandres](http://twitter.com/search?q=Flandres) | N/A |
-| 31 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
-| 32 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 33 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
-| 34 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 35 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
-| 36 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 37 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 38 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 39 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
-| 40 | [Pépé](http://twitter.com/search?q=P%c3%a9p%c3%a9) | N/A |
-| 41 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 43 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 44 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 45 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 46 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
-| 47 | [AESH](http://twitter.com/search?q=AESH) | N/A |
-| 48 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 49 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 50 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 8 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
+| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 10 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 13 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
+| 14 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 15 | [Girotto](http://twitter.com/search?q=Girotto) | N/A |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [Diop](http://twitter.com/search?q=Diop) | N/A |
+| 18 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 19 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
+| 20 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 21 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 23 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 24 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 25 | [NUEVE](http://twitter.com/search?q=NUEVE) | N/A |
+| 26 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 28 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 29 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 30 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 31 | [Golovin](http://twitter.com/search?q=Golovin) | N/A |
+| 32 | [Furyo](http://twitter.com/search?q=Furyo) | N/A |
+| 33 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 34 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
+| 35 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 36 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 37 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 38 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 39 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
+| 40 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 41 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 42 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
+| 43 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 44 | [Digard](http://twitter.com/search?q=Digard) | N/A |
+| 45 | [FC Nantes](http://twitter.com/search?q=FC+Nantes) | N/A |
+| 46 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 47 | [Zhegrova](http://twitter.com/search?q=Zhegrova) | N/A |
+| 48 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 49 | [AESH](http://twitter.com/search?q=AESH) | N/A |
+| 50 | [Flandres](http://twitter.com/search?q=Flandres) | N/A |
 
 
 
