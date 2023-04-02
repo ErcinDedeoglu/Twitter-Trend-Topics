@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-01 23:19:04 UTC`
+📆 Last Updated: `2023-04-02 00:30:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 2 | [#FCUVfB](http://twitter.com/search?q=%23FCUVfB) | N/A |
-| 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 5 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 6 | [#FCKFCH](http://twitter.com/search?q=%23FCKFCH) | N/A |
-| 7 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 8 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
-| 9 | [Känguru](http://twitter.com/search?q=K%c3%a4nguru) | N/A |
-| 10 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
-| 11 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 12 | [Pietro](http://twitter.com/search?q=Pietro) | N/A |
-| 13 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 14 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 15 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 16 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 17 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 18 | [Spinne](http://twitter.com/search?q=Spinne) | N/A |
-| 19 | [Sänger](http://twitter.com/search?q=S%c3%a4nger) | N/A |
-| 20 | [Gesang](http://twitter.com/search?q=Gesang) | N/A |
-| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 22 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 25 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 26 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 27 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
-| 28 | [Töne](http://twitter.com/search?q=T%c3%b6ne) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
-| 31 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 32 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 33 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 34 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 35 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 36 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 37 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 38 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 41 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [elfer](http://twitter.com/search?q=elfer) | N/A |
-| 44 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 45 | [#DieShowderShows](http://twitter.com/search?q=%23DieShowderShows) | N/A |
-| 46 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 47 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 48 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 49 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 50 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 1 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 3 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 5 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 6 | [#FCUVfB](http://twitter.com/search?q=%23FCUVfB) | N/A |
+| 7 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 8 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 11 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
+| 12 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 13 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 14 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 15 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
+| 16 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
+| 17 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 18 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 19 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 20 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 21 | [Peris](http://twitter.com/search?q=Peris) | N/A |
+| 22 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 23 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 24 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 25 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
+| 26 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 27 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 28 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 29 | [Menderes](http://twitter.com/search?q=Menderes) | N/A |
+| 30 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 31 | [Jan Josef Liefers](http://twitter.com/search?q=Jan+Josef+Liefers) | N/A |
+| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 33 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 34 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 35 | [Sänger](http://twitter.com/search?q=S%c3%a4nger) | N/A |
+| 36 | [Daniel Boschmann](http://twitter.com/search?q=Daniel+Boschmann) | N/A |
+| 37 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 38 | [Känguru](http://twitter.com/search?q=K%c3%a4nguru) | N/A |
+| 39 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 40 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 41 | [Laura Wontorra](http://twitter.com/search?q=Laura+Wontorra) | N/A |
+| 42 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
+| 43 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 44 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 45 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 46 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
+| 47 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 49 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 50 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
 
 
 

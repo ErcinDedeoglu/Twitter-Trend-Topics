@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-01 23:19:12 UTC`
+📆 Last Updated: `2023-04-02 00:30:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
-| 2 | [オホッピー](http://twitter.com/search?q=%e3%82%aa%e3%83%9b%e3%83%83%e3%83%94%e3%83%bc) | N/A |
-| 3 | [#THD03](http://twitter.com/search?q=%23THD03) | N/A |
-| 4 | [#永田詩央里生誕祭2023](http://twitter.com/search?q=%23%e6%b0%b8%e7%94%b0%e8%a9%a9%e5%a4%ae%e9%87%8c%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
-| 5 | [レンドン](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%83%89%e3%83%b3) | N/A |
-| 6 | [#ファンラジ795](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%b3%e3%83%a9%e3%82%b8795) | N/A |
-| 7 | [#中村嶺亜誕生祭2023](http://twitter.com/search?q=%23%e4%b8%ad%e6%9d%91%e5%b6%ba%e4%ba%9c%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 8 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
-| 9 | [#すたぽら結成2周年記念](http://twitter.com/search?q=%23%e3%81%99%e3%81%9f%e3%81%bd%e3%82%89%e7%b5%90%e6%88%902%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5) | N/A |
-| 10 | [タイバニ](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%90%e3%83%8b) | N/A |
-| 11 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
-| 12 | [ムドリク](http://twitter.com/search?q=%e3%83%a0%e3%83%89%e3%83%aa%e3%82%af) | ムドリク is a Japanese word that means "to be lost in thought". It is used to describe someone who is daydreaming or lost in their own thoughts. |
-| 13 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
-| 14 | [ジェラルディーナ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%a9%e3%83%ab%e3%83%87%e3%82%a3%e3%83%bc%e3%83%8a) | ジェラルディーナ is a Japanese female given name. It is derived from the Italian name Gerardo, which means "brave spearman". In English, it can be translated to mean "brave warrior". |
-| 15 | [蛇足さん](http://twitter.com/search?q=%e8%9b%87%e8%b6%b3%e3%81%95%e3%82%93) | N/A |
-| 16 | [マリアエレーナ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%a2%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%8a) | マリアエレーナ is a Japanese song composed by Yumi Matsutoya. The title translates to "Maria Elena" in English. The song is about a woman who has been betrayed by her lover and is trying to find the strength to move on. |
-| 17 | [ポタジェ](http://twitter.com/search?q=%e3%83%9d%e3%82%bf%e3%82%b8%e3%82%a7) | ポタジェ is a type of Japanese traditional folk art. It is a form of paper cutting, where intricate designs are cut out of paper using scissors. The designs often feature animals, plants, and other motifs from nature. In English, it is sometimes referred to as "papercutting" or "papercutting art". |
-| 18 | [ナムさん](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%81%95%e3%82%93) | N/A |
-| 19 | [交際報告](http://twitter.com/search?q=%e4%ba%a4%e9%9a%9b%e5%a0%b1%e5%91%8a) | N/A |
-| 20 | [ボンゴレリング](http://twitter.com/search?q=%e3%83%9c%e3%83%b3%e3%82%b4%e3%83%ac%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
-| 21 | [きーやん](http://twitter.com/search?q=%e3%81%8d%e3%83%bc%e3%82%84%e3%82%93) | N/A |
-| 22 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
-| 23 | [ノースブリッジ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b9%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8) | ノースブリッジ is a district in Singapore. It is located in the north of the city and is known for its shopping malls, restaurants, and entertainment venues. In English, it means North Bridge. |
-| 24 | [天国大魔境](http://twitter.com/search?q=%e5%a4%a9%e5%9b%bd%e5%a4%a7%e9%ad%94%e5%a2%83) | N/A |
-| 25 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
-| 26 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 27 | [ジェズス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%ba%e3%82%b9) | N/A |
-| 28 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
-| 29 | [夜あそび](http://twitter.com/search?q=%e5%a4%9c%e3%81%82%e3%81%9d%e3%81%b3) | N/A |
-| 30 | [企業ロゴ](http://twitter.com/search?q=%e4%bc%81%e6%a5%ad%e3%83%ad%e3%82%b4) | 企業ロゴ (Kigyou Logo) is a Japanese term for a company logo. It is a visual representation of a company's identity, used to promote recognition and brand awareness. In English, it is often referred to as a corporate logo or business logo. |
-| 31 | [浪川さん](http://twitter.com/search?q=%e6%b5%aa%e5%b7%9d%e3%81%95%e3%82%93) | 浪川さん is a Japanese honorific title used to refer to someone with the surname "Namikawa". It is similar to the English title of "Mr. Namikawa". |
-| 32 | [赤レンガ倉庫](http://twitter.com/search?q=%e8%b5%a4%e3%83%ac%e3%83%b3%e3%82%ac%e5%80%89%e5%ba%ab) | N/A |
-| 33 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
-| 34 | [下野さん](http://twitter.com/search?q=%e4%b8%8b%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 35 | [なぁちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%81%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 36 | [春ちゃん](http://twitter.com/search?q=%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 37 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
-| 38 | [シャイニングチャンネル](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
-| 39 | [BABYMETAL](http://twitter.com/search?q=BABYMETAL) | N/A |
-| 40 | [藤浪さん](http://twitter.com/search?q=%e8%97%a4%e6%b5%aa%e3%81%95%e3%82%93) | N/A |
-| 41 | [藤浪くん](http://twitter.com/search?q=%e8%97%a4%e6%b5%aa%e3%81%8f%e3%82%93) | N/A |
-| 42 | [後任候補](http://twitter.com/search?q=%e5%be%8c%e4%bb%bb%e5%80%99%e8%a3%9c) | N/A |
-| 43 | [メジャー初登板](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e5%88%9d%e7%99%bb%e6%9d%bf) | N/A |
-| 44 | [ゼ・リカルド監督](http://twitter.com/search?q=%e3%82%bc%e3%83%bb%e3%83%aa%e3%82%ab%e3%83%ab%e3%83%89%e7%9b%a3%e7%9d%a3) | N/A |
-| 45 | [元鹿島指揮官ザーゴ氏ら](http://twitter.com/search?q=%e5%85%83%e9%b9%bf%e5%b3%b6%e6%8c%87%e6%8f%ae%e5%ae%98%e3%82%b6%e3%83%bc%e3%82%b4%e6%b0%8f%e3%82%89) | N/A |
-| 46 | [藤浪大炎上](http://twitter.com/search?q=%e8%97%a4%e6%b5%aa%e5%a4%a7%e7%82%8e%e4%b8%8a) | N/A |
-| 47 | [うたプリ](http://twitter.com/search?q=%e3%81%86%e3%81%9f%e3%83%97%e3%83%aa) | N/A |
-| 48 | [エンゼルス打線](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9%e6%89%93%e7%b7%9a) | N/A |
-| 49 | [メジャーの洗礼](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%b4%97%e7%a4%bc) | N/A |
-| 50 | [野原雅也さん](http://twitter.com/search?q=%e9%87%8e%e5%8e%9f%e9%9b%85%e4%b9%9f%e3%81%95%e3%82%93) | N/A |
+| 1 | [藤浪大炎上](http://twitter.com/search?q=%e8%97%a4%e6%b5%aa%e5%a4%a7%e7%82%8e%e4%b8%8a) | N/A |
+| 2 | [#がっちりマンデー](http://twitter.com/search?q=%23%e3%81%8c%e3%81%a3%e3%81%a1%e3%82%8a%e3%83%9e%e3%83%b3%e3%83%87%e3%83%bc) | N/A |
+| 3 | [#アンジーラジオ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%b3%e3%82%b8%e3%83%bc%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
+| 4 | [メジャーの洗礼](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%b4%97%e7%a4%bc) | N/A |
+| 5 | [ジャックドール](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 6 | [アブダクション](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%80%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 7 | [#ゴーラッシュ](http://twitter.com/search?q=%23%e3%82%b4%e3%83%bc%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 8 | [結婚・子供](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e3%83%bb%e5%ad%90%e4%be%9b) | N/A |
+| 9 | [#NHK俳句](http://twitter.com/search?q=%23NHK%e4%bf%b3%e5%8f%a5) | N/A |
+| 10 | [少子化対策の陰](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e5%af%be%e7%ad%96%e3%81%ae%e9%99%b0) | N/A |
+| 11 | [#ボクらの時代](http://twitter.com/search?q=%23%e3%83%9c%e3%82%af%e3%82%89%e3%81%ae%e6%99%82%e4%bb%a3) | N/A |
+| 12 | [秋葉さん](http://twitter.com/search?q=%e7%a7%8b%e8%91%89%e3%81%95%e3%82%93) | N/A |
+| 13 | [エンゼルス打線](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9%e6%89%93%e7%b7%9a) | N/A |
+| 14 | [信長さん](http://twitter.com/search?q=%e4%bf%a1%e9%95%b7%e3%81%95%e3%82%93) | N/A |
+| 15 | [吾郎ちゃん](http://twitter.com/search?q=%e5%90%be%e9%83%8e%e3%81%a1%e3%82%83%e3%82%93) | 吾郎ちゃん is a nickname for the Japanese name "Gorou". It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 16 | [ヴェルトライゼンデ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%83%88%e3%83%a9%e3%82%a4%e3%82%bc%e3%83%b3%e3%83%87) | ヴェルトライゼンデ is a German phrase meaning "the golden age". It is often used to refer to a period of time in which there was great prosperity and cultural achievement. |
+| 17 | [上松さん](http://twitter.com/search?q=%e4%b8%8a%e6%9d%be%e3%81%95%e3%82%93) | N/A |
+| 18 | [第436回](http://twitter.com/search?q=%e7%ac%ac436%e5%9b%9e) | N/A |
+| 19 | [関東事変](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e4%ba%8b%e5%a4%89) | N/A |
+| 20 | [朝食バイキング](http://twitter.com/search?q=%e6%9c%9d%e9%a3%9f%e3%83%90%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 21 | [マリアエレーナ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%a2%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%8a) | マリアエレーナ is a Japanese song composed by Yumi Matsutoya. The title translates to "Maria Elena" in English. The song is about a woman who has been betrayed by her lover and is trying to find the strength to move on. |
+| 22 | [藤浪選手](http://twitter.com/search?q=%e8%97%a4%e6%b5%aa%e9%81%b8%e6%89%8b) | N/A |
+| 23 | [イザナの声](http://twitter.com/search?q=%e3%82%a4%e3%82%b6%e3%83%8a%e3%81%ae%e5%a3%b0) | N/A |
+| 24 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
+| 25 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
+| 26 | [日曜出勤](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
+| 27 | [阪神競馬場](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%ab%b6%e9%a6%ac%e5%a0%b4) | N/A |
+| 28 | [藤浪投手](http://twitter.com/search?q=%e8%97%a4%e6%b5%aa%e6%8a%95%e6%89%8b) | N/A |
+| 29 | [報道特集](http://twitter.com/search?q=%e5%a0%b1%e9%81%93%e7%89%b9%e9%9b%86) | N/A |
+| 30 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | キュアウィング (Kyuu Wingu) is a Japanese term for a type of healing technique that uses the power of positive energy to help people heal from physical and emotional pain. It is based on the idea that the power of love and kindness can be used to heal and restore balance in a person's life. The technique involves sending positive energy to the person in need, either through touch or visualization. |
+| 31 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 32 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 33 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
+| 34 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 35 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
+| 36 | [あなたのナイト](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 37 | [スカイラブハリケーン](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%96%e3%83%8f%e3%83%aa%e3%82%b1%e3%83%bc%e3%83%b3) | N/A |
+| 38 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 39 | [逃走中のアニメ](http://twitter.com/search?q=%e9%80%83%e8%b5%b0%e4%b8%ad%e3%81%ae%e3%82%a2%e3%83%8b%e3%83%a1) | N/A |
+| 40 | [つばさくん](http://twitter.com/search?q=%e3%81%a4%e3%81%b0%e3%81%95%e3%81%8f%e3%82%93) | N/A |
+| 41 | [あげはさん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%95%e3%82%93) | N/A |
+| 42 | [祢音ちゃん](http://twitter.com/search?q=%e7%a5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 43 | [体格ブラザーズ](http://twitter.com/search?q=%e4%bd%93%e6%a0%bc%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
+| 44 | [ぷいきゅあ](http://twitter.com/search?q=%e3%81%b7%e3%81%84%e3%81%8d%e3%82%85%e3%81%82) | ぷいきゅあ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
+| 45 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [ヤーキターイ](http://twitter.com/search?q=%e3%83%a4%e3%83%bc%e3%82%ad%e3%82%bf%e3%83%bc%e3%82%a4) | N/A |
+| 47 | [変身シーン](http://twitter.com/search?q=%e5%a4%89%e8%ba%ab%e3%82%b7%e3%83%bc%e3%83%b3) | 変身シーン is a Japanese term that literally translates to "transformation scene." It is used to refer to a scene in a movie, TV show, or other media where a character undergoes a transformation, usually from one form to another. This could be anything from an animal transforming into a human, or a superhero changing into their costume. |
+| 48 | [ねおんちゃん](http://twitter.com/search?q=%e3%81%ad%e3%81%8a%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [闘牛ゲーム](http://twitter.com/search?q=%e9%97%98%e7%89%9b%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 50 | [道長くん](http://twitter.com/search?q=%e9%81%93%e9%95%b7%e3%81%8f%e3%82%93) | 道長くん is a Japanese nickname meaning "Mr. Long Road". It is often used to refer to someone who has been on a long journey or has experienced many hardships. |
 
 
 

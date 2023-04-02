@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-01 23:19:16 UTC`
+📆 Last Updated: `2023-04-02 00:30:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [qtum](http://twitter.com/search?q=qtum) | N/A |
 | 11 | [mukbang 4h sáng với jungkook](http://twitter.com/search?q=mukbang+4h+s%c3%a1ng+v%e1%bb%9bi+jungkook) | N/A |
 | 12 | [London](http://twitter.com/search?q=London) | N/A |
-| 13 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 14 | [Tháng 4](http://twitter.com/search?q=Th%c3%a1ng+4) | N/A |
-| 15 | [châu âu](http://twitter.com/search?q=ch%c3%a2u+%c3%a2u) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
-| 18 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 19 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 20 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 21 | [better management of r to v](http://twitter.com/search?q=better+management+of+r+to+v) | N/A |
-| 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 23 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
-| 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 28 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 29 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 30 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 31 | [nhanh](http://twitter.com/search?q=nhanh) | N/A |
-| 32 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 33 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 34 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 36 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 37 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 38 | [Sing](http://twitter.com/search?q=Sing) | N/A |
-| 39 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 40 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 41 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
-| 42 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 43 | [PiBridge](http://twitter.com/search?q=PiBridge) | N/A |
-| 44 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 47 | [nha trang](http://twitter.com/search?q=nha+trang) | N/A |
-| 48 | [thiệt](http://twitter.com/search?q=thi%e1%bb%87t) | N/A |
-| 49 | [Linh](http://twitter.com/search?q=Linh) | N/A |
-| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 14 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 15 | [Tháng 4](http://twitter.com/search?q=Th%c3%a1ng+4) | N/A |
+| 16 | [châu âu](http://twitter.com/search?q=ch%c3%a2u+%c3%a2u) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
+| 19 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 20 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 21 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 23 | [better management of r to v](http://twitter.com/search?q=better+management+of+r+to+v) | N/A |
+| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 25 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
+| 26 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 27 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 28 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 29 | [Ho Chi Minh city](http://twitter.com/search?q=Ho+Chi+Minh+city) | N/A |
+| 30 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 31 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 32 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 33 | [nhanh](http://twitter.com/search?q=nhanh) | N/A |
+| 34 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 35 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 36 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
+| 39 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 40 | [Sing](http://twitter.com/search?q=Sing) | N/A |
+| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 42 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 43 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 44 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
+| 45 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 46 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 47 | [PiBridge](http://twitter.com/search?q=PiBridge) | N/A |
+| 48 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 49 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 50 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
 
 
 

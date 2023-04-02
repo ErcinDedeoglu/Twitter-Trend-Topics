@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-04-01 23:19:32 UTC`
+📆 Last Updated: `2023-04-02 00:30:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 2 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 3 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 4 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 5 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 6 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 7 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 8 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 9 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 10 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
-| 11 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 12 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 13 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 14 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 15 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 16 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 18 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 19 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 20 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 21 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 22 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 23 | [Dean Thompson](http://twitter.com/search?q=Dean+Thompson) | N/A |
-| 24 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 25 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 26 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 27 | [Mitch Garver](http://twitter.com/search?q=Mitch+Garver) | N/A |
-| 28 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 29 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 31 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 32 | [Josh Harrison](http://twitter.com/search?q=Josh+Harrison) | N/A |
-| 33 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 34 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
-| 35 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 36 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
-| 37 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
-| 38 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 39 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 40 | [Mark Canha](http://twitter.com/search?q=Mark+Canha) | N/A |
-| 41 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
-| 42 | [Brandon Crawford](http://twitter.com/search?q=Brandon+Crawford) | N/A |
-| 43 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 44 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 45 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 46 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 47 | [Go Owls](http://twitter.com/search?q=Go+Owls) | N/A |
-| 48 | [Stephen A Smith](http://twitter.com/search?q=Stephen+A+Smith) | N/A |
-| 49 | [Wet Paint](http://twitter.com/search?q=Wet+Paint) | N/A |
+| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 2 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 3 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 4 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 7 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 8 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 9 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 10 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
+| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 12 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 13 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 14 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 16 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 17 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
+| 18 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 19 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 20 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 21 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 22 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 23 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 24 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 25 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 26 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 27 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 28 | [#DreamvilleFest2023](http://twitter.com/search?q=%23DreamvilleFest2023) | N/A |
+| 29 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 30 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 31 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 32 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
+| 33 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 34 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 35 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 36 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 37 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 38 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 39 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 40 | [John Higgins](http://twitter.com/search?q=John+Higgins) | N/A |
+| 41 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 42 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 43 | [Angel of Empire](http://twitter.com/search?q=Angel+of+Empire) | N/A |
+| 44 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 45 | [America The Beautiful](http://twitter.com/search?q=America+The+Beautiful) | N/A |
+| 46 | [Weatherspoon](http://twitter.com/search?q=Weatherspoon) | N/A |
+| 47 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 48 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 49 | [Dean Thompson](http://twitter.com/search?q=Dean+Thompson) | N/A |
 
 
 

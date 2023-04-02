@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-01 23:19:35 UTC`
+📆 Last Updated: `2023-04-02 00:30:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 2 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
+| 3 | [Florida Derby](http://twitter.com/search?q=Florida+Derby) | N/A |
 | 4 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
-| 5 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 6 | [#Marlins](http://twitter.com/search?q=%23Marlins) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 9 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 10 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 12 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 13 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 14 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 15 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 16 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 17 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 18 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 19 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 20 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 21 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 22 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 23 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 24 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 25 | [Dean Thompson](http://twitter.com/search?q=Dean+Thompson) | N/A |
-| 26 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 27 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 28 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 29 | [Mitch Garver](http://twitter.com/search?q=Mitch+Garver) | N/A |
-| 30 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 31 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 32 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 33 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 34 | [Josh Harrison](http://twitter.com/search?q=Josh+Harrison) | N/A |
-| 35 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 36 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
-| 37 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 38 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
-| 39 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
-| 40 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 41 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 42 | [Mark Canha](http://twitter.com/search?q=Mark+Canha) | N/A |
-| 43 | [Andy Fletcher](http://twitter.com/search?q=Andy+Fletcher) | N/A |
-| 44 | [Brandon Crawford](http://twitter.com/search?q=Brandon+Crawford) | N/A |
-| 45 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 46 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 47 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 48 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 49 | [Stephen A Smith](http://twitter.com/search?q=Stephen+A+Smith) | N/A |
+| 5 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 6 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 7 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 8 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 12 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 13 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 14 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 17 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 18 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 19 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
+| 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 21 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 22 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 23 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 24 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 25 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 26 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
+| 27 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 28 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 29 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 30 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 31 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 32 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 33 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 34 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 35 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 36 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 37 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 38 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
+| 39 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 40 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 41 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 42 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 43 | [John Higgins](http://twitter.com/search?q=John+Higgins) | N/A |
+| 44 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 45 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 46 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 47 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 48 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 49 | [Angel of Empire](http://twitter.com/search?q=Angel+of+Empire) | N/A |
 
 
 

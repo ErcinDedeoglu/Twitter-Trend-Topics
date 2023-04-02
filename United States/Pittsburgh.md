@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-01 23:19:33 UTC`
+📆 Last Updated: `2023-04-02 00:30:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 2 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 1 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 2 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
 | 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 4 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 4 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
 | 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 6 | [Bryan Rust](http://twitter.com/search?q=Bryan+Rust) | N/A |
-| 7 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 8 | [#pawx](http://twitter.com/search?q=%23pawx) | N/A |
-| 9 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 10 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 11 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 12 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 13 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
-| 14 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 15 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 7 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 8 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 9 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 10 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 11 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 12 | [#pawx](http://twitter.com/search?q=%23pawx) | N/A |
+| 13 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 14 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 15 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 17 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 18 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 19 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 20 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 21 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 22 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 23 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 24 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 25 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 26 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 27 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 28 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 30 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
-| 31 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 32 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 33 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 34 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 35 | [Dean Thompson](http://twitter.com/search?q=Dean+Thompson) | N/A |
-| 36 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 37 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 38 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 39 | [Mitch Garver](http://twitter.com/search?q=Mitch+Garver) | N/A |
-| 40 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 41 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 42 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 43 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 44 | [Josh Harrison](http://twitter.com/search?q=Josh+Harrison) | N/A |
-| 45 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 46 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
-| 47 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 48 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
-| 49 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
-| 50 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 18 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 20 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 21 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 23 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 24 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 25 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 26 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 27 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
+| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 29 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 31 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 32 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 33 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 34 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
+| 35 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 36 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 37 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 38 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 39 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 40 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 41 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 42 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 43 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 44 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 45 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 46 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 47 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
+| 48 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 49 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 50 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
 
 
 
