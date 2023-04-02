@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-02 17:17:40 UTC`
+📆 Last Updated: `2023-04-02 18:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
 | 2 | [#spafey](http://twitter.com/search?q=%23spafey) | N/A |
-| 3 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
+| 3 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
 | 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 5 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 5 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
 | 6 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 7 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 7 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 8 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
-| 9 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 9 | [Higler](http://twitter.com/search?q=Higler) | N/A |
 | 10 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 11 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 12 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 11 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 12 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
 | 13 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 14 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 15 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 16 | [Oratmangoen](http://twitter.com/search?q=Oratmangoen) | N/A |
-| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 18 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 19 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 14 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 15 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 16 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 17 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 20 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 21 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 22 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Verrips](http://twitter.com/search?q=Verrips) | N/A |
-| 25 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 26 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 27 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 30 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
-| 31 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 32 | [Koers](http://twitter.com/search?q=Koers) | N/A |
-| 33 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 34 | [Sittard](http://twitter.com/search?q=Sittard) | N/A |
+| 21 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 23 | [Verrips](http://twitter.com/search?q=Verrips) | N/A |
+| 24 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 27 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 28 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 29 | [Koers](http://twitter.com/search?q=Koers) | N/A |
+| 30 | [Sittard](http://twitter.com/search?q=Sittard) | N/A |
+| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 32 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 33 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 34 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
 | 35 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
 | 36 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 37 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 37 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 38 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
 | 39 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 40 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
-| 41 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 42 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
-| 43 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 44 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
-| 45 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
-| 46 | [Paterberg](http://twitter.com/search?q=Paterberg) | N/A |
-| 47 | [Vriends](http://twitter.com/search?q=Vriends) | N/A |
-| 48 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 49 | [Provinciebestuurders](http://twitter.com/search?q=Provinciebestuurders) | N/A |
-| 50 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 40 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 41 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
+| 42 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 43 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 44 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
+| 45 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
+| 46 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
+| 47 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 48 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
+| 49 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 50 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
 
 
 

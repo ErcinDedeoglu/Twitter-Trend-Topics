@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-04-02 17:17:38 UTC`
+📆 Last Updated: `2023-04-02 18:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#KOEBMG](http://twitter.com/search?q=%23KOEBMG) | N/A |
 | 5 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
 | 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [#MANvsING](http://twitter.com/search?q=%23MANvsING) | N/A |
+| 7 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
 | 8 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 9 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
-| 10 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 11 | [Jule](http://twitter.com/search?q=Jule) | N/A |
-| 12 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 13 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 14 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 15 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 16 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 18 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 19 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 20 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 21 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 9 | [Jule](http://twitter.com/search?q=Jule) | N/A |
+| 10 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
+| 11 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
+| 12 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
+| 13 | [Pietta](http://twitter.com/search?q=Pietta) | N/A |
+| 14 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
+| 17 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 18 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 19 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 20 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 22 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 23 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 24 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 25 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 26 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 27 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 28 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 23 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 24 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
+| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 26 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 27 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 28 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 29 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
 | 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 32 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 34 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
-| 35 | ['Fahrrad'](http://twitter.com/search?q=%27Fahrrad%27) | N/A |
-| 36 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 37 | [Hofmann](http://twitter.com/search?q=Hofmann) | N/A |
-| 38 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 39 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 40 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
-| 41 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 42 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 43 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 44 | [Dämmung](http://twitter.com/search?q=D%c3%a4mmung) | N/A |
-| 45 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 46 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
-| 47 | [Wände](http://twitter.com/search?q=W%c3%a4nde) | N/A |
-| 48 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 49 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 50 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 31 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 32 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 33 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 34 | [Farke](http://twitter.com/search?q=Farke) | N/A |
+| 35 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
+| 36 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 37 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
+| 38 | ['Fahrrad'](http://twitter.com/search?q=%27Fahrrad%27) | N/A |
+| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 40 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 41 | [Hofmann](http://twitter.com/search?q=Hofmann) | N/A |
+| 42 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 43 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 44 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
+| 45 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 46 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 47 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 48 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 50 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
 
 
 
