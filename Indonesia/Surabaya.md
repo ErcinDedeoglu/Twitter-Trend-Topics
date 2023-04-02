@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-04-02 12:18:30 UTC`
+📆 Last Updated: `2023-04-02 13:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DoosanPitcherDokyeom](http://twitter.com/search?q=%23DoosanPitcherDokyeom) | N/A |
-| 2 | [#꿈을이룬_두산투수_이도겸](http://twitter.com/search?q=%23%ea%bf%88%ec%9d%84%ec%9d%b4%eb%a3%ac_%eb%91%90%ec%82%b0%ed%88%ac%ec%88%98_%ec%9d%b4%eb%8f%84%ea%b2%b8) | N/A |
-| 3 | [hasto kristiyanto](http://twitter.com/search?q=hasto+kristiyanto) | N/A |
-| 4 | [mark potter](http://twitter.com/search?q=mark+potter) | N/A |
-| 5 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
-| 6 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
-| 7 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
-| 8 | [The Azhari](http://twitter.com/search?q=The+Azhari) | N/A |
-| 9 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
-| 10 | [Pupus Mimpi Anak Bangsa](http://twitter.com/search?q=Pupus+Mimpi+Anak+Bangsa) | N/A |
-| 11 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
-| 12 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
-| 13 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 14 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 15 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 16 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 18 | [Koplak](http://twitter.com/search?q=Koplak) | N/A |
-| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 20 | [David](http://twitter.com/search?q=David) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
-| 23 | [Dumai](http://twitter.com/search?q=Dumai) | N/A |
-| 24 | [Perspirex](http://twitter.com/search?q=Perspirex) | N/A |
-| 25 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 26 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 27 | [Sharing Smiles with Ohm](http://twitter.com/search?q=Sharing+Smiles+with+Ohm) | N/A |
-| 28 | [PraMel](http://twitter.com/search?q=PraMel) | N/A |
-| 29 | [Bahar](http://twitter.com/search?q=Bahar) | N/A |
-| 30 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 31 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 32 | [Kak Fauzan](http://twitter.com/search?q=Kak+Fauzan) | N/A |
-| 33 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 36 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 37 | [Marin](http://twitter.com/search?q=Marin) | N/A |
-| 38 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 39 | [Nex Carlos](http://twitter.com/search?q=Nex+Carlos) | N/A |
-| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 41 | [Avsec](http://twitter.com/search?q=Avsec) | N/A |
-| 42 | [WOOBIN](http://twitter.com/search?q=WOOBIN) | N/A |
-| 43 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Bambang Pacul](http://twitter.com/search?q=Bambang+Pacul) | N/A |
-| 46 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 47 | [Ucok](http://twitter.com/search?q=Ucok) | N/A |
-| 48 | [Yoo Teo](http://twitter.com/search?q=Yoo+Teo) | N/A |
-| 49 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 50 | [Magda](http://twitter.com/search?q=Magda) | N/A |
+| 1 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 2 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
+| 3 | [mark potter](http://twitter.com/search?q=mark+potter) | N/A |
+| 4 | [#spainmaster2023](http://twitter.com/search?q=%23spainmaster2023) | N/A |
+| 5 | [#เอ๋าไปคอนกับแฟนเฉย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%b2%e0%b9%84%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b9%80%e0%b8%89%e0%b8%a2) | N/A |
+| 6 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
+| 7 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
+| 8 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
+| 9 | [hasto kristiyanto](http://twitter.com/search?q=hasto+kristiyanto) | N/A |
+| 10 | [Jaehyuk](http://twitter.com/search?q=Jaehyuk) | N/A |
+| 11 | [Gregoria Mariska Tunjung](http://twitter.com/search?q=Gregoria+Mariska+Tunjung) | N/A |
+| 12 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
+| 13 | [Shindu](http://twitter.com/search?q=Shindu) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Koplak](http://twitter.com/search?q=Koplak) | N/A |
+| 16 | [Pupus Mimpi Anak Bangsa](http://twitter.com/search?q=Pupus+Mimpi+Anak+Bangsa) | N/A |
+| 17 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 18 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 19 | [Bapakku](http://twitter.com/search?q=Bapakku) | N/A |
+| 20 | [Ucok](http://twitter.com/search?q=Ucok) | N/A |
+| 21 | [Seblak](http://twitter.com/search?q=Seblak) | N/A |
+| 22 | [PraMel](http://twitter.com/search?q=PraMel) | N/A |
+| 23 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 24 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 26 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 27 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
+| 28 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
+| 29 | [#GalaxyA04](http://twitter.com/search?q=%23GalaxyA04) | N/A |
+| 30 | [#PastiAwesomeDuluan](http://twitter.com/search?q=%23PastiAwesomeDuluan) | N/A |
+| 31 | [#คริสสิงโต](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%aa%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%95) | N/A |
+| 32 | [#pdkapanaja](http://twitter.com/search?q=%23pdkapanaja) | N/A |
+| 33 | [#ShootingStarInSeoul](http://twitter.com/search?q=%23ShootingStarInSeoul) | N/A |
+| 34 | [#JENNIEforCHANEL22](http://twitter.com/search?q=%23JENNIEforCHANEL22) | N/A |
+| 35 | [#DukaTimnas](http://twitter.com/search?q=%23DukaTimnas) | N/A |
+| 36 | [#d5_goldenhourmark](http://twitter.com/search?q=%23d5_goldenhourmark) | N/A |
+| 37 | [#ShootingStarAsiaTour](http://twitter.com/search?q=%23ShootingStarAsiaTour) | N/A |
+| 38 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
+| 39 | [#HypeBoy1stWin](http://twitter.com/search?q=%23HypeBoy1stWin) | N/A |
+| 40 | [#GiTalk](http://twitter.com/search?q=%23GiTalk) | N/A |
+| 41 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
+| 42 | [#TegarBersamaGanjar](http://twitter.com/search?q=%23TegarBersamaGanjar) | N/A |
+| 43 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 44 | [#TayNewFMinHK](http://twitter.com/search?q=%23TayNewFMinHK) | N/A |
 
 
 

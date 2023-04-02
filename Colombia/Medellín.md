@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-04-02 12:18:18 UTC`
+📆 Last Updated: `2023-04-02 13:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#CosasQueSonUnaEstafa](http://twitter.com/search?q=%23CosasQueSonUnaEstafa) | N/A |
 | 3 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
 | 4 | [#BarbosaCandidato](http://twitter.com/search?q=%23BarbosaCandidato) | N/A |
-| 5 | [#MicrófonosParaLosAgresores](http://twitter.com/search?q=%23Micr%c3%b3fonosParaLosAgresores) | N/A |
-| 6 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
-| 7 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
-| 8 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
-| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 10 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
-| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 5 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
+| 6 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
+| 7 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
+| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 9 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 10 | [Stiven Vega](http://twitter.com/search?q=Stiven+Vega) | N/A |
+| 11 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 14 | [Decente](http://twitter.com/search?q=Decente) | N/A |
-| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
-| 19 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
+| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 19 | [Cambio Colombia](http://twitter.com/search?q=Cambio+Colombia) | N/A |
 | 20 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
-| 21 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 22 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 23 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
-| 24 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 21 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 22 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
+| 23 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 24 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 25 | [Argiro](http://twitter.com/search?q=Argiro) | N/A |
 | 26 | [luisk](http://twitter.com/search?q=luisk) | N/A |
-| 27 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
+| 27 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
 | 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Pisa](http://twitter.com/search?q=Pisa) | N/A |
-| 30 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 31 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
-| 32 | [Yepes](http://twitter.com/search?q=Yepes) | N/A |
-| 33 | [Armero](http://twitter.com/search?q=Armero) | N/A |
-| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 35 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 36 | [Gabriel Jesús](http://twitter.com/search?q=Gabriel+Jes%c3%bas) | N/A |
-| 37 | [Cristy](http://twitter.com/search?q=Cristy) | N/A |
-| 38 | [Representan](http://twitter.com/search?q=Representan) | N/A |
-| 39 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 40 | [marmolejo](http://twitter.com/search?q=marmolejo) | N/A |
-| 41 | [autuori](http://twitter.com/search?q=autuori) | N/A |
-| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
+| 30 | [Pisa](http://twitter.com/search?q=Pisa) | N/A |
+| 31 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 32 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
+| 33 | [Yepes](http://twitter.com/search?q=Yepes) | N/A |
+| 34 | [Cristy](http://twitter.com/search?q=Cristy) | N/A |
+| 35 | [Armero](http://twitter.com/search?q=Armero) | N/A |
+| 36 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 37 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
+| 38 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 39 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 40 | [Gabriel Jesús](http://twitter.com/search?q=Gabriel+Jes%c3%bas) | N/A |
+| 41 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 42 | [marmolejo](http://twitter.com/search?q=marmolejo) | N/A |
 | 43 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 44 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 44 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 45 | [Ángel Barajas](http://twitter.com/search?q=%c3%81ngel+Barajas) | N/A |
-| 46 | [y si no es conmigo](http://twitter.com/search?q=y+si+no+es+conmigo) | N/A |
-| 47 | [brochero](http://twitter.com/search?q=brochero) | N/A |
-| 48 | [This Is Us](http://twitter.com/search?q=This+Is+Us) | N/A |
+| 46 | [Representan](http://twitter.com/search?q=Representan) | N/A |
+| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 48 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
 | 49 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-02 12:18:27 UTC`
+📆 Last Updated: `2023-04-02 13:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 2 | [#Sumar2A](http://twitter.com/search?q=%23Sumar2A) | N/A |
-| 3 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 6 | [#DiaMundialAutismo](http://twitter.com/search?q=%23DiaMundialAutismo) | N/A |
-| 7 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
-| 8 | [#LeerYTal](http://twitter.com/search?q=%23LeerYTal) | N/A |
-| 9 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 10 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 11 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 12 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 14 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 15 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 16 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 17 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 18 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
-| 19 | [San Julián](http://twitter.com/search?q=San+Juli%c3%a1n) | N/A |
-| 20 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 21 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 22 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 23 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
-| 24 | [Hans Christian Andersen](http://twitter.com/search?q=Hans+Christian+Andersen) | N/A |
-| 25 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 26 | [Borriquita](http://twitter.com/search?q=Borriquita) | N/A |
-| 27 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 28 | [Sanción](http://twitter.com/search?q=Sanci%c3%b3n) | N/A |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 30 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 31 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 32 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 33 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 35 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 36 | [Palmas](http://twitter.com/search?q=Palmas) | N/A |
-| 37 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 38 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 39 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 40 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
-| 41 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 42 | [Restar](http://twitter.com/search?q=Restar) | N/A |
+| 3 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 4 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 5 | [Carles Pérez](http://twitter.com/search?q=Carles+P%c3%a9rez) | N/A |
+| 6 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 7 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [#DiaMundialAutismo](http://twitter.com/search?q=%23DiaMundialAutismo) | N/A |
+| 10 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
+| 11 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 12 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
+| 13 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 14 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 15 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 16 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
+| 17 | [Anthony Randolph](http://twitter.com/search?q=Anthony+Randolph) | N/A |
+| 18 | [Borriquita](http://twitter.com/search?q=Borriquita) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 21 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 22 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 23 | [Gioconda Belli](http://twitter.com/search?q=Gioconda+Belli) | N/A |
+| 24 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 25 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
+| 26 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
+| 27 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 29 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
+| 30 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 31 | [van der poel](http://twitter.com/search?q=van+der+poel) | N/A |
+| 32 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 33 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 34 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
+| 35 | [San Julián](http://twitter.com/search?q=San+Juli%c3%a1n) | N/A |
+| 36 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 37 | [Izquierda Unida](http://twitter.com/search?q=Izquierda+Unida) | N/A |
+| 38 | [Hans Christian Andersen](http://twitter.com/search?q=Hans+Christian+Andersen) | N/A |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 41 | [Restar](http://twitter.com/search?q=Restar) | N/A |
+| 42 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
 | 43 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 44 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 45 | [Señor Jesucristo](http://twitter.com/search?q=Se%c3%b1or+Jesucristo) | N/A |
-| 46 | [Letizia](http://twitter.com/search?q=Letizia) | N/A |
-| 47 | [Izquierda Unida](http://twitter.com/search?q=Izquierda+Unida) | N/A |
-| 48 | [María Santísima](http://twitter.com/search?q=Mar%c3%ada+Sant%c3%adsima) | N/A |
-| 49 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 44 | [Palmas](http://twitter.com/search?q=Palmas) | N/A |
+| 45 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 46 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 47 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 49 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
 
 
 

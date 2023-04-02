@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-02 12:18:31 UTC`
+📆 Last Updated: `2023-04-02 13:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 3 | [#imacelebrityau](http://twitter.com/search?q=%23imacelebrityau) | N/A |
-| 4 | [#NRLBulldogsCowboys](http://twitter.com/search?q=%23NRLBulldogsCowboys) | N/A |
-| 5 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 6 | [#AFLFreoEagles](http://twitter.com/search?q=%23AFLFreoEagles) | N/A |
-| 7 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 8 | [#couchpeloton](http://twitter.com/search?q=%23couchpeloton) | N/A |
-| 9 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 10 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 11 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 12 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
-| 13 | [Dicko](http://twitter.com/search?q=Dicko) | N/A |
-| 14 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 15 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 16 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 18 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 19 | [Shaun Johnson](http://twitter.com/search?q=Shaun+Johnson) | N/A |
-| 20 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Round 3](http://twitter.com/search?q=Round+3) | N/A |
-| 23 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 24 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 26 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 27 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
-| 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 29 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
-| 30 | [#NRLSharksWarriors](http://twitter.com/search?q=%23NRLSharksWarriors) | N/A |
-| 31 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 32 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 33 | [#MCYvCBR](http://twitter.com/search?q=%23MCYvCBR) | N/A |
-| 34 | [#AFLDeesSwans](http://twitter.com/search?q=%23AFLDeesSwans) | N/A |
-| 35 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 36 | [#AFLSunsCats](http://twitter.com/search?q=%23AFLSunsCats) | N/A |
-| 37 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 4 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 5 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 6 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 8 | [#AFLSunsCats](http://twitter.com/search?q=%23AFLSunsCats) | N/A |
+| 9 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 11 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 12 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 13 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 14 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 15 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 16 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
+| 17 | [Spud](http://twitter.com/search?q=Spud) | N/A |
+| 18 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 19 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 20 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 21 | [Phil Coorey](http://twitter.com/search?q=Phil+Coorey) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 24 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 25 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 26 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 28 | [Liz Ellis](http://twitter.com/search?q=Liz+Ellis) | N/A |
+| 29 | [shaun johnson](http://twitter.com/search?q=shaun+johnson) | N/A |
+| 30 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 31 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 32 | [Dicko](http://twitter.com/search?q=Dicko) | N/A |
+| 33 | [tony barry](http://twitter.com/search?q=tony+barry) | N/A |
+| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 35 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 36 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 37 | [menzies](http://twitter.com/search?q=menzies) | N/A |
+| 38 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
+| 39 | [Nikki Savva](http://twitter.com/search?q=Nikki+Savva) | N/A |
+| 40 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 41 | [Shuey](http://twitter.com/search?q=Shuey) | N/A |
+| 42 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 43 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 45 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 46 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 47 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 48 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 49 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 50 | [Max King](http://twitter.com/search?q=Max+King) | N/A |
 
 
 

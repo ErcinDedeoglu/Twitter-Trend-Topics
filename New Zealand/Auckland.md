@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-02 12:18:49 UTC`
+📆 Last Updated: `2023-04-02 13:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLSharksWarriors](http://twitter.com/search?q=%23NRLSharksWarriors) | N/A |
-| 2 | [#NRLBulldogsCowboys](http://twitter.com/search?q=%23NRLBulldogsCowboys) | N/A |
-| 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 5 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 7 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 8 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
-| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 10 | [Super Over](http://twitter.com/search?q=Super+Over) | N/A |
-| 11 | [Shaun Johnson](http://twitter.com/search?q=Shaun+Johnson) | N/A |
+| 9 | [Up the Wahs](http://twitter.com/search?q=Up+the+Wahs) | N/A |
+| 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 11 | [Super Over](http://twitter.com/search?q=Super+Over) | N/A |
 | 12 | [Curran](http://twitter.com/search?q=Curran) | N/A |
-| 13 | [Parker](http://twitter.com/search?q=Parker) | N/A |
-| 14 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 15 | [Paula Bennett](http://twitter.com/search?q=Paula+Bennett) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
-| 18 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 19 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 20 | [Damien](http://twitter.com/search?q=Damien) | N/A |
-| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 22 | [Jack Tame](http://twitter.com/search?q=Jack+Tame) | N/A |
-| 23 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 24 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 13 | [shaun johnson](http://twitter.com/search?q=shaun+johnson) | N/A |
+| 14 | [Parker](http://twitter.com/search?q=Parker) | N/A |
+| 15 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 16 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
+| 17 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 18 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
+| 19 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 21 | [Damien](http://twitter.com/search?q=Damien) | N/A |
+| 22 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 23 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 24 | [Jack Tame](http://twitter.com/search?q=Jack+Tame) | N/A |
 | 25 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 26 | [Matt King](http://twitter.com/search?q=Matt+King) | N/A |
-| 27 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 28 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 32 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 33 | [Winston Peters](http://twitter.com/search?q=Winston+Peters) | N/A |
-| 34 | [Sande](http://twitter.com/search?q=Sande) | N/A |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 36 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 37 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 38 | [KiwiSaver](http://twitter.com/search?q=KiwiSaver) | N/A |
-| 39 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 40 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 41 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 42 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 43 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
-| 44 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [new zealander of the year](http://twitter.com/search?q=new+zealander+of+the+year) | N/A |
+| 26 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
+| 27 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 28 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 29 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 33 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 34 | [Winston Peters](http://twitter.com/search?q=Winston+Peters) | N/A |
+| 35 | [sande](http://twitter.com/search?q=sande) | N/A |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 38 | [mike king](http://twitter.com/search?q=mike+king) | N/A |
+| 39 | [kiwisaver](http://twitter.com/search?q=kiwisaver) | N/A |
+| 40 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 41 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 42 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 43 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 44 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
+| 45 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 49 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
-| 50 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 48 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
+| 49 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
+| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 
 
 

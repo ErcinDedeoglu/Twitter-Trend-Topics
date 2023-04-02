@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-02 12:18:50 UTC`
+📆 Last Updated: `2023-04-02 13:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 4 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 7 | [#WaysToCatchAMan](http://twitter.com/search?q=%23WaysToCatchAMan) | N/A |
-| 8 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 9 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 10 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 11 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 12 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 14 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 15 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 16 | [King of Israel](http://twitter.com/search?q=King+of+Israel) | N/A |
-| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 18 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 19 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 20 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 21 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 22 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 23 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 24 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 25 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
-| 26 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 29 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 31 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 33 | [contrasted](http://twitter.com/search?q=contrasted) | N/A |
+| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 3 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 5 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 6 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 7 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 8 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 9 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
+| 12 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
+| 13 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 14 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 15 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
+| 16 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 17 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 18 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
+| 19 | [King of Israel](http://twitter.com/search?q=King+of+Israel) | N/A |
+| 20 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 21 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 22 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 23 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 24 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 25 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 26 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 27 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 28 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
+| 29 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 30 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 31 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 32 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 34 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 36 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 35 | [Miller Lite](http://twitter.com/search?q=Miller+Lite) | N/A |
+| 36 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 37 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 39 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 40 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 41 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 42 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 43 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
-| 44 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 45 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 46 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 38 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 39 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 40 | [Marvin Gaye](http://twitter.com/search?q=Marvin+Gaye) | N/A |
+| 41 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 42 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 43 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 44 | [Made in China](http://twitter.com/search?q=Made+in+China) | N/A |
+| 45 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
 | 47 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 48 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 49 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 50 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 48 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 50 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
 
 
 
