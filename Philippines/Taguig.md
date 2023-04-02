@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-04-02 10:17:32 UTC`
+📆 Last Updated: `2023-04-02 11:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDS2inMNL](http://twitter.com/search?q=%23TDS2inMNL) | N/A |
-| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 3 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 1 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 2 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 3 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
 | 4 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
-| 5 | [#JENNIEforCHANEL22](http://twitter.com/search?q=%23JENNIEforCHANEL22) | N/A |
-| 6 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 7 | [#TENaciousDLSU](http://twitter.com/search?q=%23TENaciousDLSU) | N/A |
-| 8 | [Go USTe](http://twitter.com/search?q=Go+USTe) | N/A |
-| 9 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 10 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 11 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 12 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 13 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 14 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 5 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
+| 6 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
+| 7 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 8 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 9 | [#DaigPuppetNoMore](http://twitter.com/search?q=%23DaigPuppetNoMore) | N/A |
+| 10 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 11 | [#JENNIEforCHANEL22](http://twitter.com/search?q=%23JENNIEforCHANEL22) | N/A |
+| 12 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 13 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
+| 14 | [Boom](http://twitter.com/search?q=Boom) | N/A |
 | 15 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 16 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 17 | [Thea](http://twitter.com/search?q=Thea) | N/A |
-| 18 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 19 | [WTB LFS](http://twitter.com/search?q=WTB+LFS) | N/A |
-| 20 | [VIP STANDING](http://twitter.com/search?q=VIP+STANDING) | N/A |
-| 21 | [Chanwoo](http://twitter.com/search?q=Chanwoo) | N/A |
-| 22 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 23 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 25 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 26 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 27 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 30 | [HAPPY SUNdate KDLEX](http://twitter.com/search?q=HAPPY+SUNdate+KDLEX) | N/A |
-| 31 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
-| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 33 | [WTT LFT PH](http://twitter.com/search?q=WTT+LFT+PH) | N/A |
-| 34 | [VIP Seated](http://twitter.com/search?q=VIP+Seated) | N/A |
-| 35 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 36 | [SEE YOU 7DREAM](http://twitter.com/search?q=SEE+YOU+7DREAM) | N/A |
-| 37 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 38 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
-| 39 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 40 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 41 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 42 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
-| 43 | [SEE U](http://twitter.com/search?q=SEE+U) | N/A |
-| 44 | [FEARLESS DIVA JONA](http://twitter.com/search?q=FEARLESS+DIVA+JONA) | N/A |
-| 45 | [ASAPriLIVEwith QueenJONA](http://twitter.com/search?q=ASAPriLIVEwith+QueenJONA) | N/A |
-| 46 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 47 | [VIVOREE MATAPANG MEDIATOUR](http://twitter.com/search?q=VIVOREE+MATAPANG+MEDIATOUR) | N/A |
-| 48 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 49 | [THANK YOUUU](http://twitter.com/search?q=THANK+YOUUU) | N/A |
-| 50 | [ANJI ABRILAKAS MAKASENTI](http://twitter.com/search?q=ANJI+ABRILAKAS+MAKASENTI) | N/A |
+| 16 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 17 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
+| 18 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 19 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 20 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 21 | [Queen Tigress](http://twitter.com/search?q=Queen+Tigress) | N/A |
+| 22 | [MOTHER EYA](http://twitter.com/search?q=MOTHER+EYA) | N/A |
+| 23 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 24 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 25 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [Thea](http://twitter.com/search?q=Thea) | N/A |
+| 28 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 29 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 30 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 31 | [WTB LFS](http://twitter.com/search?q=WTB+LFS) | N/A |
+| 32 | [Chanwoo](http://twitter.com/search?q=Chanwoo) | N/A |
+| 33 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 34 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 35 | [VIP STANDING](http://twitter.com/search?q=VIP+STANDING) | N/A |
+| 36 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 37 | [VIP Seated](http://twitter.com/search?q=VIP+Seated) | N/A |
+| 38 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 39 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 40 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 41 | [WTT LFT PH](http://twitter.com/search?q=WTT+LFT+PH) | N/A |
+| 42 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
+| 43 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 44 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
+| 45 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
+| 46 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 47 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 48 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
+| 49 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 50 | [VIVOREE MATAPANG MEDIATOUR](http://twitter.com/search?q=VIVOREE+MATAPANG+MEDIATOUR) | N/A |
 
 
 

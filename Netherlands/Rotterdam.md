@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-02 10:17:23 UTC`
+📆 Last Updated: `2023-04-02 11:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 3 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
+| 1 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
+| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 3 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
 | 4 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 5 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 6 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
-| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 8 | [Arnout Jaspers](http://twitter.com/search?q=Arnout+Jaspers) | N/A |
-| 9 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 11 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 14 | [Baas](http://twitter.com/search?q=Baas) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 17 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 18 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 20 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 21 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 22 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 23 | [Koers](http://twitter.com/search?q=Koers) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 26 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
-| 27 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 28 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 29 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 30 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 33 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 34 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
-| 35 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 36 | [Oever](http://twitter.com/search?q=Oever) | N/A |
-| 37 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 38 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 39 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 40 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 41 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 42 | [Provinciebestuurders](http://twitter.com/search?q=Provinciebestuurders) | N/A |
-| 43 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
-| 44 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 45 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 47 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 48 | [het is 1](http://twitter.com/search?q=het+is+1) | N/A |
-| 49 | [Richting](http://twitter.com/search?q=Richting) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 6 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 7 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 8 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 9 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 10 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 11 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
+| 12 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 13 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 14 | [Arnout Jaspers](http://twitter.com/search?q=Arnout+Jaspers) | N/A |
+| 15 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 16 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Baas](http://twitter.com/search?q=Baas) | N/A |
+| 19 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 22 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 24 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 25 | [Koers](http://twitter.com/search?q=Koers) | N/A |
+| 26 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 27 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 28 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 29 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 31 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 32 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 33 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 34 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 35 | [Adelaarshorst](http://twitter.com/search?q=Adelaarshorst) | N/A |
+| 36 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
+| 37 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 38 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
+| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 40 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 41 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 42 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 43 | [Provinciebestuurders](http://twitter.com/search?q=Provinciebestuurders) | N/A |
+| 44 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 45 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 46 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 47 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 48 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
+| 49 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 50 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 
 
 

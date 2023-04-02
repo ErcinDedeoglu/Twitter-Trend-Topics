@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-04-02 10:17:44 UTC`
+📆 Last Updated: `2023-04-02 11:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
-| 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 3 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 4 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
-| 5 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 1 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 2 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
+| 3 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
+| 4 | [#YenidenPevrulKavlak](http://twitter.com/search?q=%23YenidenPevrulKavlak) | N/A |
+| 5 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
 | 6 | [DibYedegeTercihAc](http://twitter.com/search?q=DibYedegeTercihAc) | N/A |
-| 7 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
-| 10 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 11 | [Balamir](http://twitter.com/search?q=Balamir) | N/A |
-| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 13 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
-| 14 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 7 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 8 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
+| 9 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 10 | [Kürk Mantolu Madonna](http://twitter.com/search?q=K%c3%bcrk+Mantolu+Madonna) | N/A |
+| 11 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 12 | [Balamir](http://twitter.com/search?q=Balamir) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Sayın Genel Başkanım](http://twitter.com/search?q=Say%c4%b1n+Genel+Ba%c5%9fkan%c4%b1m) | N/A |
+| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
-| 18 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
-| 19 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 20 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 22 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
-| 23 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
-| 24 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 25 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
-| 26 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 27 | [#YenidenPevrulKavlak](http://twitter.com/search?q=%23YenidenPevrulKavlak) | N/A |
-| 28 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 29 | [#avrupastüdyosu](http://twitter.com/search?q=%23avrupast%c3%bcdyosu) | N/A |
-| 30 | [#ABOKısmi5000Haklarınıİstiyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Haklar%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
-| 31 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 32 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 33 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
-| 34 | [#GerçekGündem](http://twitter.com/search?q=%23Ger%c3%a7ekG%c3%bcndem) | N/A |
-| 35 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
-| 36 | [#bitmekbilmiyor](http://twitter.com/search?q=%23bitmekbilmiyor) | N/A |
-| 37 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 38 | [#benolsam](http://twitter.com/search?q=%23benolsam) | N/A |
-| 39 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
-| 40 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 41 | [#SeccademeBasma](http://twitter.com/search?q=%23SeccademeBasma) | N/A |
-| 42 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 43 | [#HerseyeZamMemuraGam](http://twitter.com/search?q=%23HerseyeZamMemuraGam) | N/A |
-| 44 | [#derbi](http://twitter.com/search?q=%23derbi) | #Derbi is a Spanish term used to refer to a rivalry between two teams or cities. It is often used in the context of sports, but can also be used to refer to any type of rivalry between two entities. In English, it can be translated as "rivalry" or "clash". |
-| 45 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
-| 46 | [#FatihBozoğlututuklansın](http://twitter.com/search?q=%23FatihBozo%c4%9flututuklans%c4%b1n) | N/A |
+| 17 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 20 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
+| 21 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
+| 22 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 23 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 24 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
+| 25 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 26 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
+| 27 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
+| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 29 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
+| 30 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 31 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 32 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 33 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 34 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
+| 35 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
+| 36 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 37 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 38 | [#avrupastüdyosu](http://twitter.com/search?q=%23avrupast%c3%bcdyosu) | N/A |
+| 39 | [#ABOKısmi5000Haklarınıİstiyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Haklar%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
+| 40 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 41 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
+| 42 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 43 | [#GerçekGündem](http://twitter.com/search?q=%23Ger%c3%a7ekG%c3%bcndem) | N/A |
+| 44 | [#benolsam](http://twitter.com/search?q=%23benolsam) | N/A |
+| 45 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 46 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
+| 47 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
+| 48 | [#SeccademeBasma](http://twitter.com/search?q=%23SeccademeBasma) | N/A |
+| 49 | [#derbi](http://twitter.com/search?q=%23derbi) | #Derbi is a Spanish term used to refer to a rivalry between two teams or cities. It is often used in the context of sports, but can also be used to refer to any type of rivalry between two entities. In English, it can be translated as "rivalry" or "clash". |
+| 50 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
 
 
 

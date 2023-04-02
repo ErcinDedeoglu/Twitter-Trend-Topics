@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-02 10:17:18 UTC`
+📆 Last Updated: `2023-04-02 11:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 4 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 5 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
-| 6 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 7 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 8 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 9 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 10 | [BRAWO OLEK](http://twitter.com/search?q=BRAWO+OLEK) | N/A |
-| 11 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 12 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Sainza](http://twitter.com/search?q=Sainza) | N/A |
-| 15 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 17 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 18 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
-| 19 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 20 | [Maść](http://twitter.com/search?q=Ma%c5%9b%c4%87) | N/A |
+| 6 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 7 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
+| 8 | [Anze](http://twitter.com/search?q=Anze) | N/A |
+| 9 | [Dawidem](http://twitter.com/search?q=Dawidem) | N/A |
+| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 11 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 12 | [BRAWO OLEK](http://twitter.com/search?q=BRAWO+OLEK) | N/A |
+| 13 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 14 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 15 | [sainza](http://twitter.com/search?q=sainza) | N/A |
+| 16 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 19 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
+| 20 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
 | 21 | [Suchoń](http://twitter.com/search?q=Sucho%c5%84) | N/A |
 | 22 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 23 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 24 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
-| 25 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
-| 26 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 27 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 28 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
-| 29 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 30 | [Święty Janie Pawle II](http://twitter.com/search?q=%c5%9awi%c4%99ty+Janie+Pawle+II) | N/A |
-| 31 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 32 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 33 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 35 | [Papszuna](http://twitter.com/search?q=Papszuna) | N/A |
-| 36 | [Aleksander Zniszczoł](http://twitter.com/search?q=Aleksander+Zniszczo%c5%82) | N/A |
-| 37 | [Russella](http://twitter.com/search?q=Russella) | N/A |
-| 38 | [barkę](http://twitter.com/search?q=bark%c4%99) | N/A |
-| 39 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
-| 40 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
-| 41 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 42 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
-| 43 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 44 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
-| 45 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 46 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 47 | [Halvor](http://twitter.com/search?q=Halvor) | N/A |
-| 48 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 49 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 23 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 24 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 25 | [Arłukowicz](http://twitter.com/search?q=Ar%c5%82ukowicz) | N/A |
+| 26 | [Zajca](http://twitter.com/search?q=Zajca) | N/A |
+| 27 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
+| 28 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 29 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 32 | [Russella](http://twitter.com/search?q=Russella) | N/A |
+| 33 | [Papszuna](http://twitter.com/search?q=Papszuna) | N/A |
+| 34 | [Dawidzie](http://twitter.com/search?q=Dawidzie) | N/A |
+| 35 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 36 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
+| 37 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
+| 38 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
+| 39 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 40 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 41 | [Maść](http://twitter.com/search?q=Ma%c5%9b%c4%87) | N/A |
+| 42 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
+| 43 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
+| 44 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 45 | [Polaku](http://twitter.com/search?q=Polaku) | N/A |
+| 46 | [Barkę](http://twitter.com/search?q=Bark%c4%99) | N/A |
+| 47 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
+| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 49 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
 
 
 

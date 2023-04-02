@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-02 10:17:42 UTC`
+📆 Last Updated: `2023-04-02 11:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SRHvRR](http://twitter.com/search?q=%23SRHvRR) | N/A |
-| 2 | [#BachpanKaYaarMario](http://twitter.com/search?q=%23BachpanKaYaarMario) | N/A |
-| 3 | [BLOCKBUSTER BHOLAA](http://twitter.com/search?q=BLOCKBUSTER+BHOLAA) | N/A |
-| 4 | [#HappyBirthdayAjayDevgn](http://twitter.com/search?q=%23HappyBirthdayAjayDevgn) | N/A |
-| 5 | [Flop Bhola Flop Ajay](http://twitter.com/search?q=Flop+Bhola+Flop+Ajay) | N/A |
-| 6 | [#WeWantDataProtectionBill](http://twitter.com/search?q=%23WeWantDataProtectionBill) | N/A |
-| 7 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 8 | [Baba Jai Guru Dev's Apeal](http://twitter.com/search?q=Baba+Jai+Guru+Dev%27s+Apeal) | N/A |
-| 9 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
-| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 11 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 12 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 13 | [Justice 4SSR Non Negotiable](http://twitter.com/search?q=Justice+4SSR+Non+Negotiable) | N/A |
-| 14 | [HAPPY ANNIVERSARY ARYLIE](http://twitter.com/search?q=HAPPY+ANNIVERSARY+ARYLIE) | N/A |
-| 15 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Match 4](http://twitter.com/search?q=Match+4) | N/A |
-| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 19 | [Supari](http://twitter.com/search?q=Supari) | N/A |
-| 20 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [Sehwag](http://twitter.com/search?q=Sehwag) | N/A |
-| 25 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
-| 26 | [Yuvi](http://twitter.com/search?q=Yuvi) | N/A |
-| 27 | [Race](http://twitter.com/search?q=Race) | N/A |
-| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 29 | [Aeronautical Test Range](http://twitter.com/search?q=Aeronautical+Test+Range) | N/A |
-| 30 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 31 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 33 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 34 | [कादर अल्लाह](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a6%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 35 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 36 | [#ThalapathyOnINSTAGRAM](http://twitter.com/search?q=%23ThalapathyOnINSTAGRAM) | N/A |
-| 37 | [#DeepakChaurasiaKe30Saal](http://twitter.com/search?q=%23DeepakChaurasiaKe30Saal) | N/A |
-| 38 | [#MatchReadyBNaturalDeNaal](http://twitter.com/search?q=%23MatchReadyBNaturalDeNaal) | N/A |
-| 39 | [#WorldCup2011](http://twitter.com/search?q=%23WorldCup2011) | N/A |
-| 40 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 41 | [#RCBvsMI](http://twitter.com/search?q=%23RCBvsMI) | N/A |
-| 42 | [#BiharViolence](http://twitter.com/search?q=%23BiharViolence) | N/A |
-| 43 | [#Redmi12Cgiveaway](http://twitter.com/search?q=%23Redmi12Cgiveaway) | N/A |
-| 44 | [#VarunDhawan](http://twitter.com/search?q=%23VarunDhawan) | N/A |
-| 45 | [#BigOnSpeedBigOnStyle](http://twitter.com/search?q=%23BigOnSpeedBigOnStyle) | N/A |
-| 46 | [#SalimDurani](http://twitter.com/search?q=%23SalimDurani) | N/A |
-| 47 | [#XiaomiFanFestival](http://twitter.com/search?q=%23XiaomiFanFestival) | N/A |
-| 48 | [#BJPGuj_CPR_Abhiyan](http://twitter.com/search?q=%23BJPGuj_CPR_Abhiyan) | N/A |
-| 49 | [#Be_Vegitarian_Avoid_Drugs](http://twitter.com/search?q=%23Be_Vegitarian_Avoid_Drugs) | N/A |
+| 2 | [#ThalapathyOnINSTAGRAM](http://twitter.com/search?q=%23ThalapathyOnINSTAGRAM) | N/A |
+| 3 | [#बिहार_का_सम्राट_सम्राटचौधरी](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a4%be_%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f_%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 4 | [Buttler](http://twitter.com/search?q=Buttler) | N/A |
+| 5 | [Chris G](http://twitter.com/search?q=Chris+G) | N/A |
+| 6 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
+| 7 | [Jaiswal](http://twitter.com/search?q=Jaiswal) | N/A |
+| 8 | [Flop Bhola Flop Ajay](http://twitter.com/search?q=Flop+Bhola+Flop+Ajay) | N/A |
+| 9 | [BLOCKBUSTER BHOLAA](http://twitter.com/search?q=BLOCKBUSTER+BHOLAA) | N/A |
+| 10 | [Jos the Boss](http://twitter.com/search?q=Jos+the+Boss) | N/A |
+| 11 | [राजेंद्र राठौड़](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%a1%e0%a4%bc) | N/A |
+| 12 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 13 | [Baba Jai Guru Dev's Apeal](http://twitter.com/search?q=Baba+Jai+Guru+Dev%27s+Apeal) | N/A |
+| 14 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 15 | [HAPPY ANNIVERSARY ARYLIE](http://twitter.com/search?q=HAPPY+ANNIVERSARY+ARYLIE) | N/A |
+| 16 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 17 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 18 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 19 | [Justice 4SSR Non Negotiable](http://twitter.com/search?q=Justice+4SSR+Non+Negotiable) | N/A |
+| 20 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
+| 21 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 22 | [Adil Rashid](http://twitter.com/search?q=Adil+Rashid) | N/A |
+| 23 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
+| 24 | [Uppal](http://twitter.com/search?q=Uppal) | N/A |
+| 25 | [Delhi Metro](http://twitter.com/search?q=Delhi+Metro) | N/A |
+| 26 | [match 4](http://twitter.com/search?q=match+4) | N/A |
+| 27 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 28 | [Supari](http://twitter.com/search?q=Supari) | N/A |
+| 29 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 30 | [Ajay Devgan](http://twitter.com/search?q=Ajay+Devgan) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 33 | [Sehwag](http://twitter.com/search?q=Sehwag) | N/A |
+| 34 | [Yuvi](http://twitter.com/search?q=Yuvi) | N/A |
+| 35 | [बिहार सरकार](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 36 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
+| 37 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 39 | [Aishwarya](http://twitter.com/search?q=Aishwarya) | N/A |
+| 40 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 41 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 42 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 43 | [#भैराराम_का_अकाउंट_रिकवर_करो](http://twitter.com/search?q=%23%e0%a4%ad%e0%a5%88%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%95%e0%a4%be%e0%a4%89%e0%a4%82%e0%a4%9f_%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a4%b5%e0%a4%b0_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 44 | [#HappyBirthdayAjayDevgn](http://twitter.com/search?q=%23HappyBirthdayAjayDevgn) | N/A |
+| 45 | [#BachpanKaYaarMario](http://twitter.com/search?q=%23BachpanKaYaarMario) | N/A |
+| 46 | [#RajasthanRoyals](http://twitter.com/search?q=%23RajasthanRoyals) | N/A |
+| 47 | [#WeatherAgricultureFarmers](http://twitter.com/search?q=%23WeatherAgricultureFarmers) | N/A |
+| 48 | [#RCBvsMI](http://twitter.com/search?q=%23RCBvsMI) | N/A |
+| 49 | [#DeepakChaurasiaKe30Saal](http://twitter.com/search?q=%23DeepakChaurasiaKe30Saal) | N/A |
 
 
 

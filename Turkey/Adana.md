@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-02 10:17:43 UTC`
+📆 Last Updated: `2023-04-02 11:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | Onyekuru is a Nigerian name derived from the Igbo language. It means “God's work” or “God's creation” in English. |
+| 1 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
 | 2 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
-| 3 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 4 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 5 | [DibYedegeTercihAc](http://twitter.com/search?q=DibYedegeTercihAc) | N/A |
-| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
-| 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 3 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
+| 4 | [DibYedegeTercihAc](http://twitter.com/search?q=DibYedegeTercihAc) | N/A |
+| 5 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 6 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
+| 7 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 8 | [Kürk Mantolu Madonna](http://twitter.com/search?q=K%c3%bcrk+Mantolu+Madonna) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 10 | [Balamir](http://twitter.com/search?q=Balamir) | N/A |
-| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 12 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
-| 13 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 16 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
-| 17 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
-| 18 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 19 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 20 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 21 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
-| 22 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
-| 23 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 24 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
-| 25 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
-| 26 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
-| 27 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 28 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 29 | [#avrupastüdyosu](http://twitter.com/search?q=%23avrupast%c3%bcdyosu) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Sayın Genel Başkanım](http://twitter.com/search?q=Say%c4%b1n+Genel+Ba%c5%9fkan%c4%b1m) | N/A |
+| 13 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 18 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
+| 19 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
+| 20 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 21 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 22 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
+| 23 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 24 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
+| 25 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
+| 26 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 27 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
+| 28 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 29 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
 | 30 | [#YenidenPevrulKavlak](http://twitter.com/search?q=%23YenidenPevrulKavlak) | N/A |
-| 31 | [#ABOKısmi5000Haklarınıİstiyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Haklar%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
-| 32 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 33 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 34 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
-| 35 | [#GerçekGündem](http://twitter.com/search?q=%23Ger%c3%a7ekG%c3%bcndem) | N/A |
-| 36 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
-| 37 | [#bitmekbilmiyor](http://twitter.com/search?q=%23bitmekbilmiyor) | N/A |
-| 38 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 39 | [#benolsam](http://twitter.com/search?q=%23benolsam) | N/A |
-| 40 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
-| 41 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 42 | [#SeccademeBasma](http://twitter.com/search?q=%23SeccademeBasma) | N/A |
-| 43 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 44 | [#HerseyeZamMemuraGam](http://twitter.com/search?q=%23HerseyeZamMemuraGam) | N/A |
-| 45 | [#derbi](http://twitter.com/search?q=%23derbi) | #Derbi is a Spanish term used to refer to a rivalry between two teams or cities. It is often used in the context of sports, but can also be used to refer to any type of rivalry between two entities. In English, it can be translated as "rivalry" or "clash". |
-| 46 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 31 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
+| 32 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 33 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
+| 34 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
+| 35 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 36 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 37 | [#avrupastüdyosu](http://twitter.com/search?q=%23avrupast%c3%bcdyosu) | N/A |
+| 38 | [#ABOKısmi5000Haklarınıİstiyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Haklar%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
+| 39 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 40 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
+| 41 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 42 | [#GerçekGündem](http://twitter.com/search?q=%23Ger%c3%a7ekG%c3%bcndem) | N/A |
+| 43 | [#benolsam](http://twitter.com/search?q=%23benolsam) | N/A |
+| 44 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 45 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
 
 
 
