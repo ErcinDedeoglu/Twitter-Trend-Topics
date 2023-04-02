@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-02 14:17:25 UTC`
+📆 Last Updated: `2023-04-02 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 2 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
-| 3 | [Bomba Patch](http://twitter.com/search?q=Bomba+Patch) | N/A |
-| 4 | [Dia Mundial de Conscientização](http://twitter.com/search?q=Dia+Mundial+de+Conscientiza%c3%a7%c3%a3o) | N/A |
-| 5 | [Jerusalém](http://twitter.com/search?q=Jerusal%c3%a9m) | N/A |
-| 6 | [Espectro Autista](http://twitter.com/search?q=Espectro+Autista) | N/A |
-| 7 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 8 | [Transtorno](http://twitter.com/search?q=Transtorno) | N/A |
-| 9 | [#TeamFredNicacio](http://twitter.com/search?q=%23TeamFredNicacio) | N/A |
-| 10 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
-| 11 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 12 | [globo rural](http://twitter.com/search?q=globo+rural) | N/A |
-| 13 | [Filho de Davi](http://twitter.com/search?q=Filho+de+Davi) | N/A |
-| 14 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 15 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 16 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 18 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 21 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [#AvantiPalestra](http://twitter.com/search?q=%23AvantiPalestra) | N/A |
-| 26 | [Poze](http://twitter.com/search?q=Poze) | N/A |
-| 27 | [Igreja](http://twitter.com/search?q=Igreja) | N/A |
-| 28 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 29 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
-| 30 | [DataFolha](http://twitter.com/search?q=DataFolha) | N/A |
-| 31 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 32 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
-| 33 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 34 | [Gusttavo Lima](http://twitter.com/search?q=Gusttavo+Lima) | N/A |
-| 35 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 36 | [Árias](http://twitter.com/search?q=%c3%81rias) | N/A |
-| 37 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 38 | [ESTOU COM LULA](http://twitter.com/search?q=ESTOU+COM+LULA) | N/A |
-| 39 | [Filipe Luís](http://twitter.com/search?q=Filipe+Lu%c3%ads) | N/A |
-| 40 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 41 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 42 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 43 | [Thiago André](http://twitter.com/search?q=Thiago+Andr%c3%a9) | N/A |
-| 44 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 45 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 46 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 47 | [#tardezinha](http://twitter.com/search?q=%23tardezinha) | N/A |
+| 1 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 2 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 3 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
+| 4 | [#TeaPortoSeguroDocshoes](http://twitter.com/search?q=%23TeaPortoSeguroDocshoes) | N/A |
+| 5 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 6 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 7 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 8 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 9 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
+| 10 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 11 | [Dia Mundial de Conscientização](http://twitter.com/search?q=Dia+Mundial+de+Conscientiza%c3%a7%c3%a3o) | N/A |
+| 12 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
+| 13 | [Diogo Moreira](http://twitter.com/search?q=Diogo+Moreira) | N/A |
+| 14 | [Espectro Autista](http://twitter.com/search?q=Espectro+Autista) | N/A |
+| 15 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
+| 16 | [Jerusalém](http://twitter.com/search?q=Jerusal%c3%a9m) | N/A |
+| 17 | [Transtorno](http://twitter.com/search?q=Transtorno) | N/A |
+| 18 | [Bomba Patch](http://twitter.com/search?q=Bomba+Patch) | N/A |
+| 19 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 20 | [Equivocada](http://twitter.com/search?q=Equivocada) | N/A |
+| 21 | [Esporte Espetacular](http://twitter.com/search?q=Esporte+Espetacular) | N/A |
+| 22 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 23 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 24 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 25 | [Poze](http://twitter.com/search?q=Poze) | N/A |
+| 26 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
+| 27 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 28 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
+| 29 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 30 | [Filho de Davi](http://twitter.com/search?q=Filho+de+Davi) | N/A |
+| 31 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 32 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 33 | [Capitu](http://twitter.com/search?q=Capitu) | N/A |
+| 34 | [Dia 2](http://twitter.com/search?q=Dia+2) | Dia 2 is a Spanish phrase meaning "Day 2". It is used to refer to the second day of an event or activity. |
+| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 36 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 37 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
+| 38 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 40 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
+| 41 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 42 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
+| 43 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 44 | [Igreja](http://twitter.com/search?q=Igreja) | N/A |
+| 45 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 47 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 48 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 49 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 50 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
 
 
 

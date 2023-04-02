@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-04-02 14:17:16 UTC`
+📆 Last Updated: `2023-04-02 15:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,48 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 2 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 6 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
-| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 11 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 12 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 13 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 15 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 6 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
+| 7 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 9 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 13 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 14 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 16 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
 | 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 19 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 20 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 21 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 | 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 24 | [john mcdavid](http://twitter.com/search?q=john+mcdavid) | N/A |
-| 25 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
-| 26 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 27 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 28 | [zohorna](http://twitter.com/search?q=zohorna) | N/A |
-| 29 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
-| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 31 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 24 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 25 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 26 | [john mcdavid](http://twitter.com/search?q=john+mcdavid) | N/A |
+| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 28 | [MAID](http://twitter.com/search?q=MAID) | N/A |
+| 29 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 30 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 31 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
 | 32 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 33 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 34 | [John Horgan](http://twitter.com/search?q=John+Horgan) | N/A |
-| 35 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 36 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 37 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 38 | [Red Robinson](http://twitter.com/search?q=Red+Robinson) | N/A |
-| 39 | [Becher](http://twitter.com/search?q=Becher) | N/A |
-| 40 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 41 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 42 | [Barbara Kay](http://twitter.com/search?q=Barbara+Kay) | N/A |
-| 43 | [Vancouver Police](http://twitter.com/search?q=Vancouver+Police) | N/A |
-| 44 | [Billboard Chris](http://twitter.com/search?q=Billboard+Chris) | N/A |
-| 45 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [Barbara Kay](http://twitter.com/search?q=Barbara+Kay) | N/A |
+| 36 | [Becher](http://twitter.com/search?q=Becher) | N/A |
+| 37 | [Red Robinson](http://twitter.com/search?q=Red+Robinson) | N/A |
+| 38 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 39 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 40 | [Guilbeault](http://twitter.com/search?q=Guilbeault) | N/A |
+| 41 | [Horgan](http://twitter.com/search?q=Horgan) | N/A |
+| 42 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 43 | [Billboard Chris](http://twitter.com/search?q=Billboard+Chris) | N/A |
+| 44 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 45 | [Vancouver Police](http://twitter.com/search?q=Vancouver+Police) | N/A |
 | 46 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
 | 47 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
 | 48 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |

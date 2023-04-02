@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-02 14:17:28 UTC`
+📆 Last Updated: `2023-04-02 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNSDR](http://twitter.com/search?q=%23FCNSDR) | N/A |
-| 2 | [#SB29TFC](http://twitter.com/search?q=%23SB29TFC) | N/A |
-| 3 | [#LOSCFCL](http://twitter.com/search?q=%23LOSCFCL) | N/A |
-| 4 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 5 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 6 | [Zhegrova](http://twitter.com/search?q=Zhegrova) | N/A |
-| 7 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 8 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 9 | [Edon](http://twitter.com/search?q=Edon) | N/A |
-| 10 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 11 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 12 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 13 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 14 | [Cookie Dingler](http://twitter.com/search?q=Cookie+Dingler) | N/A |
-| 15 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 16 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 17 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 18 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
-| 19 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 20 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
-| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 22 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
-| 23 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 24 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 25 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 26 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
-| 27 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
-| 28 | [Terrorisme](http://twitter.com/search?q=Terrorisme) | N/A |
-| 29 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 30 | [Chrétiens](http://twitter.com/search?q=Chr%c3%a9tiens) | N/A |
-| 31 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 32 | [Gros](http://twitter.com/search?q=Gros) | N/A |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Le 2](http://twitter.com/search?q=Le+2) | N/A |
-| 36 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 37 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 38 | [villeneuve](http://twitter.com/search?q=villeneuve) | N/A |
-| 39 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 40 | [#EXEvMHR](http://twitter.com/search?q=%23EXEvMHR) | N/A |
-| 41 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 42 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 43 | [#SCOOGCN](http://twitter.com/search?q=%23SCOOGCN) | N/A |
-| 44 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 45 | [#TourDesFlandres](http://twitter.com/search?q=%23TourDesFlandres) | N/A |
-| 46 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
-| 47 | [#autisme](http://twitter.com/search?q=%23autisme) | N/A |
-| 48 | [#RondeVanVlaanderen](http://twitter.com/search?q=%23RondeVanVlaanderen) | N/A |
+| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [#FCNSDR](http://twitter.com/search?q=%23FCNSDR) | N/A |
+| 4 | [#SB29TFC](http://twitter.com/search?q=%23SB29TFC) | N/A |
+| 5 | [Girotto](http://twitter.com/search?q=Girotto) | N/A |
+| 6 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 7 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 8 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 9 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 12 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
+| 13 | [Nueve](http://twitter.com/search?q=Nueve) | N/A |
+| 14 | [Furyo](http://twitter.com/search?q=Furyo) | N/A |
+| 15 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 16 | [Zhegrova](http://twitter.com/search?q=Zhegrova) | N/A |
+| 17 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
+| 18 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 19 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 20 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 21 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 22 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
+| 23 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
+| 24 | [Edon](http://twitter.com/search?q=Edon) | N/A |
+| 25 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 26 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 27 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 28 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 29 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 30 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 31 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
+| 32 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 33 | [Pépé](http://twitter.com/search?q=P%c3%a9p%c3%a9) | N/A |
+| 34 | [Cookie Dingler](http://twitter.com/search?q=Cookie+Dingler) | N/A |
+| 35 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 36 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 37 | [FC Nantes](http://twitter.com/search?q=FC+Nantes) | N/A |
+| 38 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 39 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 40 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 41 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 42 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 43 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 44 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 45 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 46 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 47 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
+| 48 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
 
 
 

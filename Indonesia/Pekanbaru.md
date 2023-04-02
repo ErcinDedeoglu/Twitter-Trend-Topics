@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-04-02 14:17:34 UTC`
+📆 Last Updated: `2023-04-02 15:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YOONJAEHYUK](http://twitter.com/search?q=%23YOONJAEHYUK) | N/A |
-| 2 | [#ジェヒョク](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%92%e3%83%a7%e3%82%af) | N/A |
-| 3 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 4 | [#IveIVE_Tracklist](http://twitter.com/search?q=%23IveIVE_Tracklist) | N/A |
-| 5 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
-| 6 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
-| 7 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
-| 8 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
-| 9 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
-| 10 | [mark potter](http://twitter.com/search?q=mark+potter) | N/A |
-| 11 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 12 | [Gregoria Mariska Tunjung](http://twitter.com/search?q=Gregoria+Mariska+Tunjung) | N/A |
-| 13 | [Arbani](http://twitter.com/search?q=Arbani) | N/A |
-| 14 | [Shindu](http://twitter.com/search?q=Shindu) | N/A |
-| 15 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
-| 18 | [Azizi](http://twitter.com/search?q=Azizi) | N/A |
-| 19 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 20 | [Koplak](http://twitter.com/search?q=Koplak) | N/A |
-| 21 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 22 | [Pupus Mimpi Anak Bangsa](http://twitter.com/search?q=Pupus+Mimpi+Anak+Bangsa) | N/A |
-| 23 | [Seblak](http://twitter.com/search?q=Seblak) | N/A |
-| 24 | [Kobo](http://twitter.com/search?q=Kobo) | N/A |
-| 25 | [Bapakku](http://twitter.com/search?q=Bapakku) | N/A |
-| 26 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
-| 27 | [PraMel](http://twitter.com/search?q=PraMel) | N/A |
-| 28 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 30 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
-| 31 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
-| 32 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
-| 33 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
-| 34 | [#เอ๋าไปคอนกับแฟนเฉย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%b2%e0%b9%84%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b9%80%e0%b8%89%e0%b8%a2) | N/A |
-| 35 | [#spainmaster2023](http://twitter.com/search?q=%23spainmaster2023) | N/A |
-| 36 | [#GangnamClinicXPondPhuwin](http://twitter.com/search?q=%23GangnamClinicXPondPhuwin) | N/A |
-| 37 | [#คริสสิงโต](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%aa%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%95) | N/A |
-| 38 | [#GalaxyA04](http://twitter.com/search?q=%23GalaxyA04) | N/A |
-| 39 | [#PastiAwesomeDuluan](http://twitter.com/search?q=%23PastiAwesomeDuluan) | N/A |
-| 40 | [#PDKapanAja](http://twitter.com/search?q=%23PDKapanAja) | N/A |
-| 41 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
-| 42 | [#KinnPorscheTheSeries](http://twitter.com/search?q=%23KinnPorscheTheSeries) | N/A |
-| 43 | [#ShootingStarInSeoul](http://twitter.com/search?q=%23ShootingStarInSeoul) | N/A |
-| 44 | [#JENNIEforCHANEL22](http://twitter.com/search?q=%23JENNIEforCHANEL22) | N/A |
-| 45 | [#ShootingStarAsiaTour](http://twitter.com/search?q=%23ShootingStarAsiaTour) | N/A |
-| 46 | [#HypeBoy1stWin](http://twitter.com/search?q=%23HypeBoy1stWin) | N/A |
-| 47 | [#DukaTimnas](http://twitter.com/search?q=%23DukaTimnas) | N/A |
-| 48 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
-| 49 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
+| 1 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 2 | [#YOONJAEHYUK](http://twitter.com/search?q=%23YOONJAEHYUK) | N/A |
+| 3 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 4 | [#ジェヒョク](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%92%e3%83%a7%e3%82%af) | N/A |
+| 5 | [THE BLOTTER PAPER D1](http://twitter.com/search?q=THE+BLOTTER+PAPER+D1) | N/A |
+| 6 | [#DOJAEJUNG_BlendingProcess](http://twitter.com/search?q=%23DOJAEJUNG_BlendingProcess) | N/A |
+| 7 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
+| 8 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 9 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 10 | [My Life](http://twitter.com/search?q=My+Life) | N/A |
+| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 12 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
+| 13 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 14 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 15 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
+| 16 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
+| 17 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 18 | [mark potter](http://twitter.com/search?q=mark+potter) | N/A |
+| 19 | [Buff](http://twitter.com/search?q=Buff) | N/A |
+| 20 | [Arbani](http://twitter.com/search?q=Arbani) | N/A |
+| 21 | [Gregoria Mariska Tunjung](http://twitter.com/search?q=Gregoria+Mariska+Tunjung) | N/A |
+| 22 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 23 | [D-DAY](http://twitter.com/search?q=D-DAY) | N/A |
+| 24 | [Shindu](http://twitter.com/search?q=Shindu) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [Dibalik](http://twitter.com/search?q=Dibalik) | N/A |
+| 27 | [Azizi](http://twitter.com/search?q=Azizi) | N/A |
+| 28 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 30 | [Pak Jokowi](http://twitter.com/search?q=Pak+Jokowi) | N/A |
+| 31 | [koplak](http://twitter.com/search?q=koplak) | N/A |
+| 32 | [Abah](http://twitter.com/search?q=Abah) | N/A |
+| 33 | [Pakde](http://twitter.com/search?q=Pakde) | N/A |
+| 34 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
+| 35 | [Pupus Mimpi Anak Bangsa](http://twitter.com/search?q=Pupus+Mimpi+Anak+Bangsa) | N/A |
+| 36 | [Kobo](http://twitter.com/search?q=Kobo) | N/A |
+| 37 | [Bapakku](http://twitter.com/search?q=Bapakku) | N/A |
+| 38 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 39 | [Seblak](http://twitter.com/search?q=Seblak) | N/A |
+| 40 | [#cemburublind](http://twitter.com/search?q=%23cemburublind) | N/A |
+| 41 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
+| 42 | [#IveIVE_Tracklist](http://twitter.com/search?q=%23IveIVE_Tracklist) | N/A |
+| 43 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 44 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
+| 45 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
+| 46 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
+| 47 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
+| 48 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
+| 49 | [#เอ๋าไปคอนกับแฟนเฉย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%b2%e0%b9%84%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b9%80%e0%b8%89%e0%b8%a2) | N/A |
 
 
 

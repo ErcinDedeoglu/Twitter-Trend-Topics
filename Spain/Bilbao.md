@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-02 14:17:32 UTC`
+📆 Last Updated: `2023-04-02 15:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 2 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 3 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 4 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 5 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 6 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 7 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 8 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 9 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 10 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 11 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 12 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 13 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 14 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
-| 15 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Carles Pérez](http://twitter.com/search?q=Carles+P%c3%a9rez) | N/A |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 20 | [Referente](http://twitter.com/search?q=Referente) | N/A |
-| 21 | [#LeerYTal](http://twitter.com/search?q=%23LeerYTal) | N/A |
-| 22 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
-| 23 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
-| 24 | [#DiaMundialAutismo](http://twitter.com/search?q=%23DiaMundialAutismo) | N/A |
-| 25 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 26 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
-| 27 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
-| 28 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 29 | [Fouto](http://twitter.com/search?q=Fouto) | N/A |
-| 30 | [Anthony Randolph](http://twitter.com/search?q=Anthony+Randolph) | N/A |
-| 31 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
-| 32 | [Huesca](http://twitter.com/search?q=Huesca) | N/A |
-| 33 | [Borriquita](http://twitter.com/search?q=Borriquita) | N/A |
-| 34 | [El Celta](http://twitter.com/search?q=El+Celta) | N/A |
-| 35 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 36 | [Gioconda Belli](http://twitter.com/search?q=Gioconda+Belli) | N/A |
-| 37 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 38 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
-| 39 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 40 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 41 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 42 | [RESTAR](http://twitter.com/search?q=RESTAR) | N/A |
-| 43 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 44 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
-| 45 | [Palmas](http://twitter.com/search?q=Palmas) | N/A |
-| 46 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 47 | [Izquierda Unida](http://twitter.com/search?q=Izquierda+Unida) | N/A |
-| 48 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 49 | [San Julián](http://twitter.com/search?q=San+Juli%c3%a1n) | N/A |
+| 1 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 5 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 6 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 7 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 8 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 9 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 10 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 11 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 12 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 13 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 14 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 15 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 17 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
+| 18 | [Asenjo](http://twitter.com/search?q=Asenjo) | N/A |
+| 19 | [David Almansa](http://twitter.com/search?q=David+Almansa) | N/A |
+| 20 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 21 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
+| 22 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 23 | [Roque Mesa](http://twitter.com/search?q=Roque+Mesa) | N/A |
+| 24 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 25 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 26 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 27 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 28 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 30 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 31 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 32 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 33 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
+| 34 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 35 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 36 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
+| 37 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 38 | [Carvalhal](http://twitter.com/search?q=Carvalhal) | N/A |
+| 39 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 40 | [la borriquita](http://twitter.com/search?q=la+borriquita) | N/A |
+| 41 | [Jesús Despojado](http://twitter.com/search?q=Jes%c3%bas+Despojado) | N/A |
+| 42 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
+| 43 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
+| 44 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 45 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
+| 46 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
+| 47 | [#DiaMundialAutismo](http://twitter.com/search?q=%23DiaMundialAutismo) | N/A |
+| 48 | [Carles Pérez](http://twitter.com/search?q=Carles+P%c3%a9rez) | N/A |
+| 49 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
 
 
 

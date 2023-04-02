@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-02 14:17:23 UTC`
+📆 Last Updated: `2023-04-02 15:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#portedearmas](http://twitter.com/search?q=%23portedearmas) | N/A |
-| 2 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 3 | [BURRAI](http://twitter.com/search?q=BURRAI) | N/A |
-| 4 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
-| 5 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 6 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
-| 7 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 8 | [Antes de Correa](http://twitter.com/search?q=Antes+de+Correa) | N/A |
-| 9 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 10 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 11 | [#EcuadorenCrisis](http://twitter.com/search?q=%23EcuadorenCrisis) | N/A |
-| 12 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
-| 13 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 14 | [Juan Carlos Holguín](http://twitter.com/search?q=Juan+Carlos+Holgu%c3%adn) | N/A |
-| 15 | [La Purga](http://twitter.com/search?q=La+Purga) | N/A |
-| 16 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
-| 17 | [Roditti](http://twitter.com/search?q=Roditti) | N/A |
-| 18 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 19 | [Los Ríos](http://twitter.com/search?q=Los+R%c3%ados) | N/A |
-| 20 | [Obando](http://twitter.com/search?q=Obando) | N/A |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 4 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 5 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 6 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
+| 7 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 8 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
+| 9 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
+| 10 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
+| 11 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 12 | [Antes de Correa](http://twitter.com/search?q=Antes+de+Correa) | N/A |
+| 13 | [#EcuadorenCrisis](http://twitter.com/search?q=%23EcuadorenCrisis) | N/A |
+| 14 | [cortez](http://twitter.com/search?q=cortez) | N/A |
+| 15 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 16 | [Roditti](http://twitter.com/search?q=Roditti) | N/A |
+| 17 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 18 | [la purga](http://twitter.com/search?q=la+purga) | N/A |
+| 19 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 20 | [Los Ríos](http://twitter.com/search?q=Los+R%c3%ados) | N/A |
 | 21 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 22 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 22 | [Obando](http://twitter.com/search?q=Obando) | N/A |
 | 23 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
-| 24 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 25 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 26 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 27 | [gustavo manrique](http://twitter.com/search?q=gustavo+manrique) | N/A |
-| 28 | [EMELEC](http://twitter.com/search?q=EMELEC) | N/A |
-| 29 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 30 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
-| 31 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 32 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 33 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 36 | [punta blanca](http://twitter.com/search?q=punta+blanca) | N/A |
-| 37 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 38 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 24 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 25 | [gustavo manrique](http://twitter.com/search?q=gustavo+manrique) | N/A |
+| 26 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 27 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 28 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 29 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 30 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 31 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
+| 32 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
+| 33 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 34 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 35 | [punta blanca](http://twitter.com/search?q=punta+blanca) | N/A |
+| 36 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 37 | [holguín](http://twitter.com/search?q=holgu%c3%adn) | N/A |
+| 38 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 39 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
 | 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 41 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
-| 42 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
-| 43 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
-| 44 | [Zona 8](http://twitter.com/search?q=Zona+8) | N/A |
-| 45 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 46 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 47 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 48 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
-| 49 | [reina del cisne](http://twitter.com/search?q=reina+del+cisne) | N/A |
-| 50 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
+| 41 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 42 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 43 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 44 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
+| 45 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
+| 46 | [reina del cisne](http://twitter.com/search?q=reina+del+cisne) | N/A |
+| 47 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 48 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-02 14:18:04 UTC`
+📆 Last Updated: `2023-04-02 15:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,41 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 2 | [Palme](http://twitter.com/search?q=Palme) | N/A |
-| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 4 | [#InterFiorentina](http://twitter.com/search?q=%23InterFiorentina) | N/A |
-| 5 | [#domenicain](http://twitter.com/search?q=%23domenicain) | N/A |
-| 6 | [#2aprile](http://twitter.com/search?q=%232aprile) | N/A |
-| 7 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 9 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 10 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 11 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 13 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 15 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 16 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 19 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 20 | [Jerry Calà](http://twitter.com/search?q=Jerry+Cal%c3%a0) | N/A |
-| 21 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 22 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 23 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 24 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 25 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 26 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 27 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
-| 28 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 29 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 30 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 31 | [emanuel lo](http://twitter.com/search?q=emanuel+lo) | N/A |
-| 32 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 33 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 34 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 35 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 36 | [Petagna](http://twitter.com/search?q=Petagna) | N/A |
-| 37 | [Trentin](http://twitter.com/search?q=Trentin) | N/A |
-| 38 | [Il Presidente del Senato](http://twitter.com/search?q=Il+Presidente+del+Senato) | N/A |
-| 39 | [PizzAut](http://twitter.com/search?q=PizzAut) | N/A |
-| 40 | [Chivu](http://twitter.com/search?q=Chivu) | N/A |
-| 41 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 42 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
-| 43 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 44 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 45 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
-| 46 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 47 | [Sequoia](http://twitter.com/search?q=Sequoia) | N/A |
-| 48 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
-| 49 | [Mara Venier](http://twitter.com/search?q=Mara+Venier) | N/A |
-| 50 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
+| 1 | [#MonzaLazio](http://twitter.com/search?q=%23MonzaLazio) | N/A |
+| 2 | [#domenicain](http://twitter.com/search?q=%23domenicain) | N/A |
+| 3 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 4 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 5 | [#RyuichiSakamoto](http://twitter.com/search?q=%23RyuichiSakamoto) | N/A |
+| 6 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
+| 7 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
+| 8 | [Palme](http://twitter.com/search?q=Palme) | N/A |
+| 9 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 10 | [jerry calà](http://twitter.com/search?q=jerry+cal%c3%a0) | N/A |
+| 11 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
+| 12 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 13 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 14 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 17 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 18 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 19 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 20 | [#Pogacar](http://twitter.com/search?q=%23Pogacar) | N/A |
+| 21 | [#SpeziaSalernitana](http://twitter.com/search?q=%23SpeziaSalernitana) | N/A |
+| 22 | [#eurosportciclismo](http://twitter.com/search?q=%23eurosportciclismo) | N/A |
+| 23 | [#GiroDelleFiandre](http://twitter.com/search?q=%23GiroDelleFiandre) | N/A |
+| 24 | [#RondeVanVlaanderen](http://twitter.com/search?q=%23RondeVanVlaanderen) | N/A |
+| 25 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 26 | [#Sarri](http://twitter.com/search?q=%23Sarri) | N/A |
+| 27 | [#2aprile](http://twitter.com/search?q=%232aprile) | N/A |
+| 28 | [#RomaSampdoria](http://twitter.com/search?q=%23RomaSampdoria) | N/A |
+| 29 | [#GiornataMondialeAutismo](http://twitter.com/search?q=%23GiornataMondialeAutismo) | N/A |
+| 30 | [#Vinitaly2023](http://twitter.com/search?q=%23Vinitaly2023) | N/A |
+| 31 | [#BolognaUdinese](http://twitter.com/search?q=%23BolognaUdinese) | N/A |
+| 32 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
+| 33 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
+| 34 | [#italgym](http://twitter.com/search?q=%23italgym) | N/A |
+| 35 | [#Sainz](http://twitter.com/search?q=%23Sainz) | N/A |
 
 
 

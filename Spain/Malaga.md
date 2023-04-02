@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-04-02 14:17:32 UTC`
+📆 Last Updated: `2023-04-02 15:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Julián](http://twitter.com/search?q=San+Juli%c3%a1n) | N/A |
-| 2 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 3 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 4 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 5 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 6 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 7 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 8 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 9 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 10 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 11 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 12 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 13 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 14 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 15 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
-| 16 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [Carles Pérez](http://twitter.com/search?q=Carles+P%c3%a9rez) | N/A |
-| 19 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 20 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 21 | [Referente](http://twitter.com/search?q=Referente) | N/A |
-| 22 | [#LeerYTal](http://twitter.com/search?q=%23LeerYTal) | N/A |
-| 23 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
-| 24 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
-| 25 | [#DiaMundialAutismo](http://twitter.com/search?q=%23DiaMundialAutismo) | N/A |
-| 26 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
-| 27 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 28 | [#SpainLovesFreenBecky](http://twitter.com/search?q=%23SpainLovesFreenBecky) | N/A |
-| 29 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
-| 30 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 31 | [Fouto](http://twitter.com/search?q=Fouto) | N/A |
-| 32 | [Anthony Randolph](http://twitter.com/search?q=Anthony+Randolph) | N/A |
-| 33 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
-| 34 | [Huesca](http://twitter.com/search?q=Huesca) | N/A |
-| 35 | [Borriquita](http://twitter.com/search?q=Borriquita) | N/A |
-| 36 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 37 | [Gioconda Belli](http://twitter.com/search?q=Gioconda+Belli) | N/A |
-| 38 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 39 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 40 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
-| 41 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 42 | [alpine](http://twitter.com/search?q=alpine) | N/A |
-| 43 | [RESTAR](http://twitter.com/search?q=RESTAR) | N/A |
-| 44 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 45 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
-| 46 | [Palmas](http://twitter.com/search?q=Palmas) | N/A |
-| 47 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 48 | [Izquierda Unida](http://twitter.com/search?q=Izquierda+Unida) | N/A |
-| 49 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 50 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 1 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 2 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 4 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 5 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 6 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 7 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 8 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 9 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 10 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 11 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 13 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 14 | [Asenjo](http://twitter.com/search?q=Asenjo) | N/A |
+| 15 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 16 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
+| 17 | [David Almansa](http://twitter.com/search?q=David+Almansa) | N/A |
+| 18 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 19 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
+| 20 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 21 | [Roque Mesa](http://twitter.com/search?q=Roque+Mesa) | N/A |
+| 22 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 24 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 25 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 26 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 27 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 28 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 29 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 30 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 31 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 32 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 33 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
+| 34 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
+| 35 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 36 | [Carvalhal](http://twitter.com/search?q=Carvalhal) | N/A |
+| 37 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
+| 38 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
+| 39 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
+| 40 | [La Borriquita](http://twitter.com/search?q=La+Borriquita) | N/A |
+| 41 | [Jesús Despojado](http://twitter.com/search?q=Jes%c3%bas+Despojado) | N/A |
+| 42 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 43 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
+| 44 | [#DiaMundialAutismo](http://twitter.com/search?q=%23DiaMundialAutismo) | N/A |
+| 45 | [#LeerYTal](http://twitter.com/search?q=%23LeerYTal) | N/A |
+| 46 | [Carles Pérez](http://twitter.com/search?q=Carles+P%c3%a9rez) | N/A |
+| 47 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
+| 48 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
+| 49 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 50 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
 
 
 

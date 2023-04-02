@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-04-02 14:17:57 UTC`
+📆 Last Updated: `2023-04-02 15:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,49 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 4 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 5 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
-| 6 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 7 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 8 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 9 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 11 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 13 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
-| 14 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
-| 15 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 16 | [Former Arkansas Gov](http://twitter.com/search?q=Former+Arkansas+Gov) | N/A |
-| 17 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 18 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 19 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
-| 20 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 21 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 22 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 23 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 24 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 25 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 26 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 27 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 28 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 29 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 30 | [King of Israel](http://twitter.com/search?q=King+of+Israel) | N/A |
-| 31 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 32 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 33 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 34 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 35 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 36 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 37 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
-| 38 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 39 | [Bud Lite](http://twitter.com/search?q=Bud+Lite) | N/A |
-| 40 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 41 | [Miller Lite](http://twitter.com/search?q=Miller+Lite) | N/A |
-| 42 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 43 | [Marvin Gaye](http://twitter.com/search?q=Marvin+Gaye) | N/A |
-| 44 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 45 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
+| 5 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 7 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 8 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 9 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 10 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 11 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 12 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 13 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 15 | [IKF in CF](http://twitter.com/search?q=IKF+in+CF) | N/A |
+| 16 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 17 | [Former Arkansas Gov](http://twitter.com/search?q=Former+Arkansas+Gov) | N/A |
+| 18 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
+| 19 | [Wokeness](http://twitter.com/search?q=Wokeness) | N/A |
+| 20 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 21 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 22 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 23 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 24 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 25 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 26 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 27 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
+| 28 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 29 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 30 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 31 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
+| 32 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 33 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 34 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 35 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 36 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
+| 37 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 38 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 39 | [mango butter](http://twitter.com/search?q=mango+butter) | N/A |
+| 40 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 41 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [Sam's Vibe](http://twitter.com/search?q=Sam%27s+Vibe) | N/A |
+| 44 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 45 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 
 
 
