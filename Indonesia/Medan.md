@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-02 20:16:49 UTC`
+📆 Last Updated: `2023-04-02 21:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 2 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
-| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 5 | [#TaliKasihHRDBacot](http://twitter.com/search?q=%23TaliKasihHRDBacot) | N/A |
-| 6 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 9 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 10 | [McTom](http://twitter.com/search?q=McTom) | N/A |
-| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 13 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 14 | [ORA MUNTIR](http://twitter.com/search?q=ORA+MUNTIR) | N/A |
-| 15 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 17 | [D-DAY IS COMING](http://twitter.com/search?q=D-DAY+IS+COMING) | N/A |
-| 18 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 19 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 20 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 21 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 26 | [Sleman](http://twitter.com/search?q=Sleman) | N/A |
-| 27 | [David](http://twitter.com/search?q=David) | N/A |
-| 28 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 29 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 30 | [Duty After School](http://twitter.com/search?q=Duty+After+School) | N/A |
-| 31 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
-| 32 | [#TanyaIqbaal](http://twitter.com/search?q=%23TanyaIqbaal) | N/A |
-| 33 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
-| 34 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 35 | [#ArgentinaGP](http://twitter.com/search?q=%23ArgentinaGP) | N/A |
-| 36 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 37 | [#FML_SEVENTEEN](http://twitter.com/search?q=%23FML_SEVENTEEN) | N/A |
-| 38 | [#HBDAJAYSURAJAY](http://twitter.com/search?q=%23HBDAJAYSURAJAY) | N/A |
-| 39 | [#YOONJAEHYUK](http://twitter.com/search?q=%23YOONJAEHYUK) | N/A |
-| 40 | [#Happy1stAnvKinnPorsche](http://twitter.com/search?q=%23Happy1stAnvKinnPorsche) | N/A |
-| 41 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 42 | [#KinnPorscheTheSeries](http://twitter.com/search?q=%23KinnPorscheTheSeries) | N/A |
-| 43 | [#เอ๋าไปคอนกับแฟนเฉย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%b2%e0%b9%84%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b9%80%e0%b8%89%e0%b8%a2) | N/A |
+| 1 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 2 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 3 | [hasto kristiyanto](http://twitter.com/search?q=hasto+kristiyanto) | N/A |
+| 4 | [#DoosanPitcherDokyeom](http://twitter.com/search?q=%23DoosanPitcherDokyeom) | N/A |
+| 5 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 6 | [#꿈을이룬_두산투수_이도겸](http://twitter.com/search?q=%23%ea%bf%88%ec%9d%84%ec%9d%b4%eb%a3%ac_%eb%91%90%ec%82%b0%ed%88%ac%ec%88%98_%ec%9d%b4%eb%8f%84%ea%b2%b8) | N/A |
+| 7 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 8 | [#YOONJAEHYUK](http://twitter.com/search?q=%23YOONJAEHYUK) | N/A |
+| 9 | [#maunontonkhanzab](http://twitter.com/search?q=%23maunontonkhanzab) | N/A |
+| 10 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 17 | [ORA MUNTIR](http://twitter.com/search?q=ORA+MUNTIR) | N/A |
+| 18 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 19 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 20 | [the azhari](http://twitter.com/search?q=the+azhari) | N/A |
+| 21 | [pupus mimpi anak bangsa](http://twitter.com/search?q=pupus+mimpi+anak+bangsa) | N/A |
+| 22 | [THE BLOTTER PAPER D1](http://twitter.com/search?q=THE+BLOTTER+PAPER+D1) | N/A |
+| 23 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 24 | [Nagelsman](http://twitter.com/search?q=Nagelsman) | N/A |
+| 25 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 26 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
+| 27 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 28 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 29 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 30 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 31 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 32 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
+| 33 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 34 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 35 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 36 | [Gregoria Mariska Tunjung](http://twitter.com/search?q=Gregoria+Mariska+Tunjung) | N/A |
+| 37 | [pramel](http://twitter.com/search?q=pramel) | N/A |
+| 38 | [McTom](http://twitter.com/search?q=McTom) | N/A |
+| 39 | [minggu palma](http://twitter.com/search?q=minggu+palma) | N/A |
+| 40 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
+| 41 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 42 | [Done Ce](http://twitter.com/search?q=Done+Ce) | N/A |
+| 43 | [Pak Bondan](http://twitter.com/search?q=Pak+Bondan) | N/A |
+| 44 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 45 | [April Mop](http://twitter.com/search?q=April+Mop) | N/A |
+| 46 | [Bahar](http://twitter.com/search?q=Bahar) | N/A |
+| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 49 | [Sharing Smiles with Ohm](http://twitter.com/search?q=Sharing+Smiles+with+Ohm) | N/A |
+| 50 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-02 20:16:39 UTC`
+📆 Last Updated: `2023-04-02 21:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
 | 2 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 3 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
-| 4 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 5 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 6 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 7 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 8 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
-| 9 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 10 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 11 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 12 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 13 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 14 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 15 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 17 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 18 | [Nanda Costa](http://twitter.com/search?q=Nanda+Costa) | N/A |
-| 19 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
-| 20 | [#FinalPaulistãoNaRecord](http://twitter.com/search?q=%23FinalPaulist%c3%a3oNaRecord) | N/A |
-| 21 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
-| 22 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 23 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 24 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
-| 25 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 26 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [Gustavo Gomez](http://twitter.com/search?q=Gustavo+Gomez) | N/A |
-| 29 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
-| 30 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
-| 31 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 32 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
-| 33 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 34 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
-| 35 | [Xayah](http://twitter.com/search?q=Xayah) | N/A |
-| 36 | [Gustavo Lopes](http://twitter.com/search?q=Gustavo+Lopes) | N/A |
-| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 38 | [FRED NO DOMINGÃO](http://twitter.com/search?q=FRED+NO+DOMING%c3%83O) | N/A |
-| 39 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
-| 40 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 41 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
-| 42 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 43 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
-| 44 | [Route](http://twitter.com/search?q=Route) | N/A |
-| 45 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 47 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
-| 48 | [Wizer](http://twitter.com/search?q=Wizer) | N/A |
-| 49 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 50 | [Luan Dias](http://twitter.com/search?q=Luan+Dias) | N/A |
+| 3 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 4 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 5 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 6 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
+| 7 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 8 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 9 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
+| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 11 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 14 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 15 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 16 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 17 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 18 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 19 | [FRED NO DOMINGÃO](http://twitter.com/search?q=FRED+NO+DOMING%c3%83O) | N/A |
+| 20 | [Nanda Costa](http://twitter.com/search?q=Nanda+Costa) | N/A |
+| 21 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 22 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 23 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 24 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 25 | [Luan Dias](http://twitter.com/search?q=Luan+Dias) | N/A |
+| 26 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 27 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
+| 28 | [#FinalPaulistãoNaRecord](http://twitter.com/search?q=%23FinalPaulist%c3%a3oNaRecord) | N/A |
+| 29 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 30 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 31 | [Igão](http://twitter.com/search?q=Ig%c3%a3o) | N/A |
+| 32 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 33 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
+| 34 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 35 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 36 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 37 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 38 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 39 | [Holy Water](http://twitter.com/search?q=Holy+Water) | N/A |
+| 40 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
+| 41 | [Vanderlan](http://twitter.com/search?q=Vanderlan) | N/A |
+| 42 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
+| 43 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 44 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 45 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 47 | [Facincani](http://twitter.com/search?q=Facincani) | N/A |
+| 48 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
+| 49 | [Route](http://twitter.com/search?q=Route) | N/A |
+| 50 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 
 
 

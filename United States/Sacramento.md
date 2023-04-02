@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-02 20:17:14 UTC`
+📆 Last Updated: `2023-04-02 21:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 2 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 3 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 4 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 5 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 6 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 7 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
-| 8 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 9 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
-| 10 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
-| 11 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 12 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 13 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 16 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 17 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 18 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 19 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 20 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 24 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 25 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 26 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 27 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 28 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 29 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 30 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
-| 31 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 32 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 33 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 34 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 35 | [Nolan Gorman](http://twitter.com/search?q=Nolan+Gorman) | N/A |
-| 36 | [Jeffrey Springs](http://twitter.com/search?q=Jeffrey+Springs) | N/A |
-| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
-| 40 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 41 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 43 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 44 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 45 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 46 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 47 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
-| 48 | [MacKenzie Gore](http://twitter.com/search?q=MacKenzie+Gore) | N/A |
-| 49 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 1 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 2 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 3 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 4 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 5 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 6 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 7 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 8 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 9 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 10 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 11 | [NY Times](http://twitter.com/search?q=NY+Times) | N/A |
+| 12 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 13 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 15 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 16 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 17 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 18 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 19 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 20 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 21 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 22 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 23 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 25 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 26 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 27 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 29 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 30 | [Travis Porter](http://twitter.com/search?q=Travis+Porter) | N/A |
+| 31 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
+| 32 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 35 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 37 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
+| 38 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 39 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
+| 42 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 43 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 44 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
+| 45 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 46 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 47 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 48 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 49 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 
 
 

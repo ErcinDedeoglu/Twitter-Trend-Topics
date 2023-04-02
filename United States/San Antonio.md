@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-02 20:17:15 UTC`
+📆 Last Updated: `2023-04-02 21:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 1 | [#wffselfie](http://twitter.com/search?q=%23wffselfie) | N/A |
 | 2 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 3 | [American Airlines Center](http://twitter.com/search?q=American+Airlines+Center) | N/A |
+| 3 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
 | 4 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
-| 5 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 6 | [Wemby](http://twitter.com/search?q=Wemby) | N/A |
-| 7 | [#GeneralConference](http://twitter.com/search?q=%23GeneralConference) | N/A |
-| 8 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 9 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 11 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 12 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 13 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
-| 14 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 15 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 16 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 19 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 20 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 21 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 22 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 23 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 26 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 27 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 28 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 29 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 31 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 32 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
-| 33 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 34 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 35 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 36 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 37 | [Houck](http://twitter.com/search?q=Houck) | N/A |
-| 38 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 39 | [Nolan Gorman](http://twitter.com/search?q=Nolan+Gorman) | N/A |
-| 40 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 41 | [Jeffrey Springs](http://twitter.com/search?q=Jeffrey+Springs) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 45 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 47 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 49 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 5 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
+| 6 | [American Airlines Center](http://twitter.com/search?q=American+Airlines+Center) | N/A |
+| 7 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 8 | [Wemby](http://twitter.com/search?q=Wemby) | N/A |
+| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 10 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
+| 11 | [IndyCar](http://twitter.com/search?q=IndyCar) | IndyCar is a type of open-wheel auto racing that is sanctioned by the IndyCar Series. It is one of the most popular forms of motorsport in the United States and features drivers competing in single-seat, open-wheel cars on oval and road courses. The series was founded in 1996 and has since grown to include races in countries around the world. |
+| 12 | [#PPG375](http://twitter.com/search?q=%23PPG375) | N/A |
+| 13 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 14 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 15 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 16 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 17 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 18 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 19 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 20 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 23 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 24 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 27 | [Travis Porter](http://twitter.com/search?q=Travis+Porter) | N/A |
+| 28 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
+| 29 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 32 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 33 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 34 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 35 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 36 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 38 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 39 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
+| 40 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
+| 41 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 42 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
+| 43 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 44 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 45 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 46 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 47 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 48 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 49 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 50 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 
 
 

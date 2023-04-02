@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-02 20:16:39 UTC`
+📆 Last Updated: `2023-04-02 21:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 2 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 3 | [pardal](http://twitter.com/search?q=pardal) | N/A |
-| 4 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 5 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 6 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 7 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
-| 8 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 9 | [#TeaPortoSeguroDocshoes](http://twitter.com/search?q=%23TeaPortoSeguroDocshoes) | N/A |
-| 10 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [Verdão](http://twitter.com/search?q=Verd%c3%a3o) | N/A |
-| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 14 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 15 | [Grazi](http://twitter.com/search?q=Grazi) | N/A |
-| 16 | [Campeonato Paulista](http://twitter.com/search?q=Campeonato+Paulista) | N/A |
-| 17 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 18 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
-| 19 | [Dia Mundial de Conscientização](http://twitter.com/search?q=Dia+Mundial+de+Conscientiza%c3%a7%c3%a3o) | N/A |
-| 20 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 21 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 22 | [#VCTAmericas](http://twitter.com/search?q=%23VCTAmericas) | N/A |
-| 23 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
-| 24 | [Igreja](http://twitter.com/search?q=Igreja) | N/A |
-| 25 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 26 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
-| 27 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 28 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 29 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 30 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
-| 31 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 32 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 33 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 34 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 35 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 36 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 37 | [Nanda Costa](http://twitter.com/search?q=Nanda+Costa) | N/A |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 40 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 41 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
-| 42 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 45 | [Gustavo Gomez](http://twitter.com/search?q=Gustavo+Gomez) | N/A |
-| 46 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
-| 47 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
-| 48 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 49 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
-| 50 | [Xayah](http://twitter.com/search?q=Xayah) | N/A |
+| 1 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
+| 2 | [Gustavo Lopes](http://twitter.com/search?q=Gustavo+Lopes) | N/A |
+| 3 | [Jojo Toddynho](http://twitter.com/search?q=Jojo+Toddynho) | N/A |
+| 4 | [pardal](http://twitter.com/search?q=pardal) | N/A |
+| 5 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 6 | [Real Brasília](http://twitter.com/search?q=Real+Bras%c3%adlia) | N/A |
+| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 8 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 12 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
+| 13 | [Verdão](http://twitter.com/search?q=Verd%c3%a3o) | N/A |
+| 14 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 15 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 16 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 17 | [#indynacultura](http://twitter.com/search?q=%23indynacultura) | N/A |
+| 18 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 19 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 21 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
+| 22 | [Campeonato Paulista](http://twitter.com/search?q=Campeonato+Paulista) | N/A |
+| 23 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 24 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 25 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 26 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 27 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
+| 28 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 29 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 30 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 34 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 35 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 36 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 37 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 38 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 39 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 40 | [Nanda Costa](http://twitter.com/search?q=Nanda+Costa) | N/A |
+| 41 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 42 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 43 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 44 | [Luan Dias](http://twitter.com/search?q=Luan+Dias) | N/A |
+| 45 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 46 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
+| 47 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 48 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 49 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 50 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
 
 
 

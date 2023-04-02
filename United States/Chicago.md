@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-02 20:17:09 UTC`
+📆 Last Updated: `2023-04-02 21:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Colas](http://twitter.com/search?q=Colas) | N/A |
-| 2 | [RISP](http://twitter.com/search?q=RISP) | N/A |
-| 3 | [Yoan](http://twitter.com/search?q=Yoan) | N/A |
-| 4 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 5 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 6 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 7 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 8 | [#c2e22023](http://twitter.com/search?q=%23c2e22023) | N/A |
-| 9 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 10 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 1 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 2 | [Colas](http://twitter.com/search?q=Colas) | N/A |
+| 3 | [RISP](http://twitter.com/search?q=RISP) | N/A |
+| 4 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 5 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 6 | [#c2e22023](http://twitter.com/search?q=%23c2e22023) | N/A |
+| 7 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 8 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Clark](http://twitter.com/search?q=Clark) | N/A |
 | 11 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
-| 12 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 13 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 14 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 15 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
+| 12 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
+| 13 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 14 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 15 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
 | 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 17 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 18 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 19 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 20 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 21 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 22 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 27 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 28 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 29 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 31 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 32 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
-| 33 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 34 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 35 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 36 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 37 | [Nolan Gorman](http://twitter.com/search?q=Nolan+Gorman) | N/A |
-| 38 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
-| 39 | [Jeffrey Springs](http://twitter.com/search?q=Jeffrey+Springs) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 44 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 45 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 46 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 48 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 49 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 50 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
+| 17 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 18 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 19 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 22 | [Travis Porter](http://twitter.com/search?q=Travis+Porter) | N/A |
+| 23 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
+| 24 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 27 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 29 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
+| 30 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 33 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
+| 34 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 35 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
+| 36 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 37 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 38 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 39 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 40 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 42 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 43 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 44 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 45 | [HOOPIN](http://twitter.com/search?q=HOOPIN) | N/A |
+| 46 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
+| 47 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 49 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 50 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
 
 
 
