@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-02 03:17:53 UTC`
+📆 Last Updated: `2023-04-02 04:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,16 +33,16 @@ This is top 50 for [Latvia](</Latvia>)
 | 16 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 17 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
 | 18 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
-| 19 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 20 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 21 | [delfi](http://twitter.com/search?q=delfi) | N/A |
-| 22 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
-| 23 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 24 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
-| 25 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 26 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 27 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
-| 28 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 19 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 20 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 21 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
+| 22 | [delfi](http://twitter.com/search?q=delfi) | N/A |
+| 23 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
+| 24 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 25 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
+| 26 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
+| 27 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 28 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
 | 29 | [laba](http://twitter.com/search?q=laba) | N/A |
 | 30 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -60,11 +60,11 @@ This is top 50 for [Latvia](</Latvia>)
 | 43 | [No 1](http://twitter.com/search?q=No+1) | N/A |
 | 44 | [levitu](http://twitter.com/search?q=levitu) | N/A |
 | 45 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 46 | [liels](http://twitter.com/search?q=liels) | N/A |
-| 47 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
-| 48 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 49 | [turies](http://twitter.com/search?q=turies) | N/A |
-| 50 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 46 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 47 | [liels](http://twitter.com/search?q=liels) | N/A |
+| 48 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
+| 49 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 50 | [turies](http://twitter.com/search?q=turies) | N/A |
 
 
 

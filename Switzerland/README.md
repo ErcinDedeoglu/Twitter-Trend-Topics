@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-02 03:18:38 UTC`
+📆 Last Updated: `2023-04-02 04:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
 | 2 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 3 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 4 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 5 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 6 | [#wcch](http://twitter.com/search?q=%23wcch) | N/A |
 | 7 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 8 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
@@ -30,7 +30,7 @@ This is top 50 for Switzerland
 | 13 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 15 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 16 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 16 | [süden](http://twitter.com/search?q=s%c3%bcden) | N/A |
 | 17 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 19 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for Switzerland
 | 29 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 30 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
 | 31 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 32 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 32 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
 | 33 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
 | 34 | [Diskriminierung](http://twitter.com/search?q=Diskriminierung) | N/A |
 | 35 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Switzerland
 | 46 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
 | 47 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
 | 48 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 49 | [grunde](http://twitter.com/search?q=grunde) | N/A |
+| 49 | [Grunde](http://twitter.com/search?q=Grunde) | N/A |
 | 50 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
 
 

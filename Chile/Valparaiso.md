@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-02 03:17:38 UTC`
+📆 Last Updated: `2023-04-02 04:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestlemaniaCL](http://twitter.com/search?q=%23WrestlemaniaCL) | N/A |
-| 2 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
-| 3 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 2 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 3 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
 | 4 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
 | 5 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 6 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 7 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
-| 8 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 9 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 10 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 11 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 12 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 13 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 7 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 8 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
+| 9 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 10 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 11 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 12 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 13 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
 | 14 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 15 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 16 | [Ale Valle](http://twitter.com/search?q=Ale+Valle) | N/A |
-| 17 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 18 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
-| 19 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 20 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 21 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
-| 22 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 23 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
-| 24 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 25 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 26 | [La CUT](http://twitter.com/search?q=La+CUT) | N/A |
-| 27 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 28 | [Longton](http://twitter.com/search?q=Longton) | N/A |
-| 29 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 30 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 31 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 32 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 33 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 36 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
-| 37 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 38 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
-| 39 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 41 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
-| 42 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 15 | [Rhea Ripley](http://twitter.com/search?q=Rhea+Ripley) | N/A |
+| 16 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 17 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
+| 18 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
+| 19 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 21 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 22 | [La CUT](http://twitter.com/search?q=La+CUT) | N/A |
+| 23 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 24 | [Ale Valle](http://twitter.com/search?q=Ale+Valle) | N/A |
+| 25 | [Rollins](http://twitter.com/search?q=Rollins) | N/A |
+| 26 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 28 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 29 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 30 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 31 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 32 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 33 | [Longton](http://twitter.com/search?q=Longton) | N/A |
+| 34 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 35 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 37 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 38 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 39 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
+| 40 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 41 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 42 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 43 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 44 | [Gerardo Varela](http://twitter.com/search?q=Gerardo+Varela) | N/A |
 | 45 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 46 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 47 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 46 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 47 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
 
 
 

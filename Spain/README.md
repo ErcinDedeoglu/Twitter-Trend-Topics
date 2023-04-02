@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-02 03:18:38 UTC`
+📆 Last Updated: `2023-04-02 04:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 2 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
-| 3 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 4 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 3 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 4 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 5 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 6 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 7 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 10 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 11 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 12 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
-| 13 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
-| 14 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
-| 15 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 16 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 17 | [#InformeCumple50](http://twitter.com/search?q=%23InformeCumple50) | N/A |
-| 18 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 19 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 20 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 21 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 22 | [Olabe](http://twitter.com/search?q=Olabe) | N/A |
-| 23 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 25 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 26 | [pablo torre](http://twitter.com/search?q=pablo+torre) | N/A |
-| 27 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 28 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 29 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 31 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 32 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
-| 33 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
-| 36 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 37 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
-| 38 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 39 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 40 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 41 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 42 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 43 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 44 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 45 | [Binder](http://twitter.com/search?q=Binder) | N/A |
-| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 6 | [Sábado de Pasión](http://twitter.com/search?q=S%c3%a1bado+de+Pasi%c3%b3n) | N/A |
+| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 9 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 11 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
+| 12 | [#TCMS2](http://twitter.com/search?q=%23TCMS2) | N/A |
+| 13 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 14 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
+| 15 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 17 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 18 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 19 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 20 | [Olabe](http://twitter.com/search?q=Olabe) | N/A |
+| 21 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 22 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 23 | [pablo torre](http://twitter.com/search?q=pablo+torre) | N/A |
+| 24 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 25 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 26 | [Nissany](http://twitter.com/search?q=Nissany) | N/A |
+| 27 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 28 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 29 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
+| 30 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
+| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 32 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 33 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 34 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
+| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [Los Mercedes](http://twitter.com/search?q=Los+Mercedes) | N/A |
+| 37 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 38 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 39 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 40 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 41 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 42 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 43 | [Binder](http://twitter.com/search?q=Binder) | N/A |
+| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 45 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 46 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
 | 47 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 48 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 49 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 50 | [Informe Semanal](http://twitter.com/search?q=Informe+Semanal) | N/A |
 
 
 

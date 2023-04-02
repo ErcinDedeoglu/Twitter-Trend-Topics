@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-02 03:17:52 UTC`
+📆 Last Updated: `2023-04-02 04:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 13 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 14 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 14 | [süden](http://twitter.com/search?q=s%c3%bcden) | N/A |
 | 15 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 16 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 17 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 27 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 28 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
 | 29 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 30 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 30 | [laubbläser](http://twitter.com/search?q=laubbl%c3%a4ser) | N/A |
 | 31 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
 | 32 | [Diskriminierung](http://twitter.com/search?q=Diskriminierung) | N/A |
 | 33 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |

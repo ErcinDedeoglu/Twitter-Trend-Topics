@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-02 03:18:12 UTC`
+📆 Last Updated: `2023-04-02 04:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#جوتا_کس_کو_پڑا](http://twitter.com/search?q=%23%d8%ac%d9%88%d8%aa%d8%a7_%da%a9%d8%b3_%da%a9%d9%88_%d9%be%da%91%d8%a7) | N/A |
-| 2 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
-| 3 | [#جذباتی_تب_کیوں_نہیں_ہوئے](http://twitter.com/search?q=%23%d8%ac%d8%b0%d8%a8%d8%a7%d8%aa%db%8c_%d8%aa%d8%a8_%da%a9%db%8c%d9%88%da%ba_%d9%86%db%81%db%8c%da%ba_%db%81%d9%88%d8%a6%db%92) | N/A |
+| 1 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
+| 2 | [#جذباتی_تب_کیوں_نہیں_ہوئے](http://twitter.com/search?q=%23%d8%ac%d8%b0%d8%a8%d8%a7%d8%aa%db%8c_%d8%aa%d8%a8_%da%a9%db%8c%d9%88%da%ba_%d9%86%db%81%db%8c%da%ba_%db%81%d9%88%d8%a6%db%92) | N/A |
+| 3 | [#جوتا_کس_کو_پڑا](http://twitter.com/search?q=%23%d8%ac%d9%88%d8%aa%d8%a7_%da%a9%d8%b3_%da%a9%d9%88_%d9%be%da%91%d8%a7) | N/A |
 | 4 | [#NoCommentNoReach](http://twitter.com/search?q=%23NoCommentNoReach) | N/A |
 | 5 | [#بائیکاٹ_PDM_سوشل_میڈیا](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a6%db%8c%da%a9%d8%a7%d9%b9_PDM_%d8%b3%d9%88%d8%b4%d9%84_%d9%85%db%8c%da%88%db%8c%d8%a7) | N/A |
 | 6 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
@@ -31,11 +31,11 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 16 | [University of Peshawar](http://twitter.com/search?q=University+of+Peshawar) | N/A |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 19 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 20 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 18 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 | 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 23 | [mother of fatima](http://twitter.com/search?q=mother+of+fatima) | N/A |
 | 24 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
@@ -45,14 +45,14 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 28 | [zakat-sadaqat](http://twitter.com/search?q=zakat-sadaqat) | N/A |
 | 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 30 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 31 | [ehsaas](http://twitter.com/search?q=ehsaas) | N/A |
+| 31 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
 | 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 33 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 35 | [Honest](http://twitter.com/search?q=Honest) | N/A |
 | 36 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 37 | [Dayal Singh](http://twitter.com/search?q=Dayal+Singh) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [dayal singh](http://twitter.com/search?q=dayal+singh) | N/A |
 | 39 | [kech](http://twitter.com/search?q=kech) | N/A |
 | 40 | [Warner](http://twitter.com/search?q=Warner) | N/A |
 | 41 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
@@ -60,9 +60,9 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 43 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 44 | [Golden](http://twitter.com/search?q=Golden) | N/A |
 | 45 | [W Salam](http://twitter.com/search?q=W+Salam) | N/A |
-| 46 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 47 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 48 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 46 | [Mazy](http://twitter.com/search?q=Mazy) | N/A |
+| 47 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
+| 48 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 49 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
 | 50 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 

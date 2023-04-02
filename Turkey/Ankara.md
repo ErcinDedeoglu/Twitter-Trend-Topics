@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-04-02 03:18:17 UTC`
+📆 Last Updated: `2023-04-02 04:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
-| 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 3 | [#Kastamonu](http://twitter.com/search?q=%23Kastamonu) | N/A |
-| 4 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
-| 5 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
-| 6 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 7 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 8 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 9 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 10 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 11 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
-| 12 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | Onyekuru is a Nigerian name derived from the Igbo language. It means “God's work” or “God's creation” in English. |
-| 13 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
-| 14 | [Yetenekler](http://twitter.com/search?q=Yetenekler) | N/A |
-| 15 | [Caminin](http://twitter.com/search?q=Caminin) | N/A |
-| 16 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 17 | [Berabere](http://twitter.com/search?q=Berabere) | N/A |
-| 18 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
-| 19 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
-| 20 | [şampiyon](http://twitter.com/search?q=%c5%9fampiyon) | N/A |
-| 21 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 22 | [Ak Parti'ye](http://twitter.com/search?q=Ak+Parti%27ye) | N/A |
-| 23 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 24 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 25 | [BayKemalGelecek TaşeronBitecek](http://twitter.com/search?q=BayKemalGelecek+Ta%c5%9feronBitecek) | N/A |
-| 26 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
-| 27 | [Topunuz](http://twitter.com/search?q=Topunuz) | N/A |
-| 28 | [Montella](http://twitter.com/search?q=Montella) | N/A |
-| 29 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 30 | [#LeylaileMecnun](http://twitter.com/search?q=%23LeylaileMecnun) | N/A |
-| 31 | [#LaleOrtaİstifa](http://twitter.com/search?q=%23LaleOrta%c4%b0stifa) | N/A |
-| 32 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
-| 33 | [#2NisanOtizmFarkındalıkGünü](http://twitter.com/search?q=%232NisanOtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 34 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
-| 35 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 36 | [#TekYürekEkAtama](http://twitter.com/search?q=%23TekY%c3%bcrekEkAtama) | N/A |
-| 37 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 38 | [#GSvsADS](http://twitter.com/search?q=%23GSvsADS) | N/A |
-| 39 | [#şakagibi](http://twitter.com/search?q=%23%c5%9fakagibi) | N/A |
-| 40 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 41 | [#BeyazLeke](http://twitter.com/search?q=%23BeyazLeke) | N/A |
-| 42 | [#GönülDağı](http://twitter.com/search?q=%23G%c3%b6n%c3%bclDa%c4%9f%c4%b1) | N/A |
-| 43 | [#sorumvar](http://twitter.com/search?q=%23sorumvar) | N/A |
-| 44 | [#HerseyeZamMemuraGam](http://twitter.com/search?q=%23HerseyeZamMemuraGam) | N/A |
-| 45 | [#OlaylarveGörüşler](http://twitter.com/search?q=%23OlaylarveG%c3%b6r%c3%bc%c5%9fler) | N/A |
-| 46 | [#Mcbukararındangeridön](http://twitter.com/search?q=%23Mcbukarar%c4%b1ndangerid%c3%b6n) | N/A |
-| 47 | [#FatihBozoğlututuklansın](http://twitter.com/search?q=%23FatihBozo%c4%9flututuklans%c4%b1n) | N/A |
+| 1 | [MuharremAbi Kazanacakmısın](http://twitter.com/search?q=MuharremAbi+Kazanacakm%c4%b1s%c4%b1n) | N/A |
+| 2 | [#GSvADS](http://twitter.com/search?q=%23GSvADS) | N/A |
+| 3 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
+| 4 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 5 | [#GüleGüleAKP](http://twitter.com/search?q=%23G%c3%bcleG%c3%bcleAKP) | N/A |
+| 6 | [#araseçim](http://twitter.com/search?q=%23arase%c3%a7im) | N/A |
+| 7 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
+| 8 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | Onyekuru is a Nigerian name derived from the Igbo language. It means “God's work” or “God's creation” in English. |
+| 9 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
+| 10 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
+| 11 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 12 | [muharremamca kazandı](http://twitter.com/search?q=muharremamca+kazand%c4%b1) | N/A |
+| 13 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
+| 14 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 15 | [dibyedegetercihac](http://twitter.com/search?q=dibyedegetercihac) | N/A |
+| 16 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 17 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
+| 18 | [İcardi](http://twitter.com/search?q=%c4%b0cardi) | N/A |
+| 19 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 20 | [bozdoğan iyiparti](http://twitter.com/search?q=bozdo%c4%9fan+iyiparti) | N/A |
+| 21 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 22 | [zekatla bereketlensin](http://twitter.com/search?q=zekatla+bereketlensin) | N/A |
+| 23 | [piktesöğr kadrosunerede](http://twitter.com/search?q=piktes%c3%b6%c4%9fr+kadrosunerede) | N/A |
+| 24 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
+| 25 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 26 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 27 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 28 | [iibfkadrosuz sandıkoysuz](http://twitter.com/search?q=iibfkadrosuz+sand%c4%b1koysuz) | N/A |
+| 29 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 30 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
+| 31 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 32 | [BayKemalGelecek TaşeronBitecek](http://twitter.com/search?q=BayKemalGelecek+Ta%c5%9feronBitecek) | N/A |
+| 33 | [gizlenen haber](http://twitter.com/search?q=gizlenen+haber) | N/A |
+| 34 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
+| 35 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
+| 36 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
+| 37 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 38 | [Montella](http://twitter.com/search?q=Montella) | N/A |
+| 39 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
+| 40 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
+| 41 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 42 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 43 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 44 | [Müslüman](http://twitter.com/search?q=M%c3%bcsl%c3%bcman) | N/A |
+| 45 | [Özür](http://twitter.com/search?q=%c3%96z%c3%bcr) | N/A |
+| 46 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
+| 47 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 48 | [Yusuf Yazıcı](http://twitter.com/search?q=Yusuf+Yaz%c4%b1c%c4%b1) | Yusuf Yazıcı is a Turkish professional footballer who plays as a midfielder for Lille OSC in the French Ligue 1. His name translates to "Joseph Writer" in English. |
+| 49 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
 
 
 

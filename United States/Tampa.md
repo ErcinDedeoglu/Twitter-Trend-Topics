@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-02 03:18:28 UTC`
+📆 Last Updated: `2023-04-02 04:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 2 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 3 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
-| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 7 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 8 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 9 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 10 | [#OPNation](http://twitter.com/search?q=%23OPNation) | N/A |
-| 11 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 12 | [#OnPatrolLive](http://twitter.com/search?q=%23OnPatrolLive) | N/A |
-| 13 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 14 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 15 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 17 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 20 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 21 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 22 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 24 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 25 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 26 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 28 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 29 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 30 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 31 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 32 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 33 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
-| 34 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 35 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 36 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 37 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 38 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 39 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 40 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 41 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 42 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
-| 43 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 44 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 45 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 46 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 47 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 48 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 49 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 50 | [Corey Graves](http://twitter.com/search?q=Corey+Graves) | N/A |
+| 3 | [Coach L](http://twitter.com/search?q=Coach+L) | N/A |
+| 4 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 5 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 7 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
+| 8 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 9 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 10 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 11 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 12 | [#OPNation](http://twitter.com/search?q=%23OPNation) | N/A |
+| 13 | [#OnPatrolLive](http://twitter.com/search?q=%23OnPatrolLive) | N/A |
+| 14 | [#Boycott60Minutes](http://twitter.com/search?q=%23Boycott60Minutes) | N/A |
+| 15 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
+| 16 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 18 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 19 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 20 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 21 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 22 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 23 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 24 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 25 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 26 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 27 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 28 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 29 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 30 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 31 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 32 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 34 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 35 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 36 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 37 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 38 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 39 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 40 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 41 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 42 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 43 | [El Generico](http://twitter.com/search?q=El+Generico) | N/A |
+| 44 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 45 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 46 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 47 | [Lil Uzi](http://twitter.com/search?q=Lil+Uzi) | N/A |
+| 48 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 49 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 50 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
 
 
 
