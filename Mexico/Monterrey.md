@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-04-02 21:15:52 UTC`
+📆 Last Updated: `2023-04-02 22:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
 | 3 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
 | 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 7 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
-| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 9 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 5 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
+| 6 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 7 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
+| 8 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 10 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 11 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
-| 12 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 15 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 16 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
-| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 18 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
-| 19 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 20 | [Carlos Briseño](http://twitter.com/search?q=Carlos+Brise%c3%b1o) | N/A |
-| 21 | [Diente](http://twitter.com/search?q=Diente) | N/A |
-| 22 | [#10AñosDeCD9](http://twitter.com/search?q=%2310A%c3%b1osDeCD9) | N/A |
-| 23 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
-| 24 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 25 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 26 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 11 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 13 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 14 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 15 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 17 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 18 | [#autismo](http://twitter.com/search?q=%23autismo) | N/A |
+| 19 | [Carlos Briseño](http://twitter.com/search?q=Carlos+Brise%c3%b1o) | N/A |
+| 20 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
+| 21 | [#FACEno2Billboard200](http://twitter.com/search?q=%23FACEno2Billboard200) | N/A |
+| 22 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 23 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 24 | [#10AñosDeCD9](http://twitter.com/search?q=%2310A%c3%b1osDeCD9) | N/A |
+| 25 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 26 | [Diente](http://twitter.com/search?q=Diente) | N/A |
 | 27 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 28 | [#FACEno2Billboard200](http://twitter.com/search?q=%23FACEno2Billboard200) | N/A |
-| 29 | [#autismo](http://twitter.com/search?q=%23autismo) | N/A |
-| 30 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 31 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 32 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 33 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
-| 34 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 35 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 36 | [Carlos González](http://twitter.com/search?q=Carlos+Gonz%c3%a1lez) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 40 | [Culebro](http://twitter.com/search?q=Culebro) | N/A |
-| 41 | [Grosjean](http://twitter.com/search?q=Grosjean) | N/A |
-| 42 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 43 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 44 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 45 | [Rector](http://twitter.com/search?q=Rector) | Rector is a term used in some Christian denominations to refer to a senior official in charge of a church or parish. In the Catholic Church, the rector is the head of a parish and is responsible for its spiritual and administrative leadership. In other denominations, such as the Anglican Church, the rector is usually the priest in charge of a parish. |
-| 46 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 47 | [Maxi Araujo](http://twitter.com/search?q=Maxi+Araujo) | N/A |
+| 28 | [Rector](http://twitter.com/search?q=Rector) | Rector is a term used in some Christian denominations to refer to a senior official in charge of a church or parish. In the Catholic Church, the rector is the head of a parish and is responsible for its spiritual and administrative leadership. In other denominations, such as the Anglican Church, the rector is usually the priest in charge of a parish. |
+| 29 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
+| 30 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 32 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 33 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 34 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 35 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 36 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
+| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 39 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 40 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 43 | [Culebro](http://twitter.com/search?q=Culebro) | N/A |
+| 44 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 45 | [Carlos González](http://twitter.com/search?q=Carlos+Gonz%c3%a1lez) | N/A |
+| 46 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 48 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 49 | [Nemesio Diez](http://twitter.com/search?q=Nemesio+Diez) | N/A |
-| 50 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 49 | [Maxi Araujo](http://twitter.com/search?q=Maxi+Araujo) | N/A |
+| 50 | [Guadiana](http://twitter.com/search?q=Guadiana) | N/A |
 
 
 

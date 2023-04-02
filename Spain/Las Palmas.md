@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-04-02 21:16:03 UTC`
+📆 Last Updated: `2023-04-02 22:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
-| 3 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 4 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 5 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 1 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
+| 2 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 3 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 4 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 5 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 6 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 7 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
-| 10 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 11 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 12 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 13 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 14 | [#IMPHierro](http://twitter.com/search?q=%23IMPHierro) | N/A |
-| 15 | [#SecretosFamilia2Abr](http://twitter.com/search?q=%23SecretosFamilia2Abr) | N/A |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 17 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 18 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 19 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
-| 20 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 21 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
-| 22 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
-| 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 24 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 25 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 26 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 27 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 28 | [Joaquín](http://twitter.com/search?q=Joaqu%c3%adn) | Joaquín is a Spanish name derived from the Hebrew name Yehoyakim, which means "God will establish". In English, it is usually translated as Joaquin. |
-| 29 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 30 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 33 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 34 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 35 | [José Hierro](http://twitter.com/search?q=Jos%c3%a9+Hierro) | N/A |
-| 36 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
-| 37 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 38 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
-| 39 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 40 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 41 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 42 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 43 | [Diego Sánchez](http://twitter.com/search?q=Diego+S%c3%a1nchez) | N/A |
-| 44 | [Brais](http://twitter.com/search?q=Brais) | Brais is a French word meaning "embrace". It is often used to describe a hug or an embrace between two people. |
-| 45 | [#AdaraSv2A](http://twitter.com/search?q=%23AdaraSv2A) | N/A |
-| 46 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 47 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 7 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 8 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 9 | [#SecretosFamilia2Abr](http://twitter.com/search?q=%23SecretosFamilia2Abr) | N/A |
+| 10 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 13 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 14 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
+| 15 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 16 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [Joaquín](http://twitter.com/search?q=Joaqu%c3%adn) | Joaquín is a Spanish name derived from the Hebrew name Yehoyakim, which means "God will establish". In English, it is usually translated as Joaquin. |
+| 19 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 20 | [#IMPHierro](http://twitter.com/search?q=%23IMPHierro) | N/A |
+| 21 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 22 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 23 | [#AdaraSv2A](http://twitter.com/search?q=%23AdaraSv2A) | N/A |
+| 24 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
+| 25 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
+| 26 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 27 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 28 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 29 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
+| 30 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 33 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 35 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 36 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 37 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
+| 38 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
+| 39 | [Luis Aragonés](http://twitter.com/search?q=Luis+Aragon%c3%a9s) | N/A |
+| 40 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 41 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 42 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 43 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 44 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 45 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 46 | [José Hierro](http://twitter.com/search?q=Jos%c3%a9+Hierro) | N/A |
+| 47 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 | 48 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 49 | [Ferrao](http://twitter.com/search?q=Ferrao) | N/A |
+| 49 | [Colau](http://twitter.com/search?q=Colau) | N/A |
 
 
 

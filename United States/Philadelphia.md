@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-02 21:16:29 UTC`
+📆 Last Updated: `2023-04-02 22:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 2 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 3 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 4 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 5 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 6 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
-| 7 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
+| 1 | [Kris Letang](http://twitter.com/search?q=Kris+Letang) | N/A |
+| 2 | [#1Kris](http://twitter.com/search?q=%231Kris) | N/A |
+| 3 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 4 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 5 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 6 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 8 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 9 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
-| 10 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 11 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 13 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 14 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 15 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 18 | [Travis Porter](http://twitter.com/search?q=Travis+Porter) | N/A |
-| 19 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 20 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 23 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 25 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
-| 26 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
-| 27 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 29 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 30 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 31 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
-| 32 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
-| 33 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 34 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 35 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 36 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 37 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 38 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 39 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 40 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 41 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 42 | [HOOPIN](http://twitter.com/search?q=HOOPIN) | N/A |
-| 43 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
-| 44 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 46 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 47 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
-| 48 | [Logan O'Hoppe](http://twitter.com/search?q=Logan+O%27Hoppe) | N/A |
-| 49 | [HEAT CHECK](http://twitter.com/search?q=HEAT+CHECK) | N/A |
-| 50 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 9 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 10 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 11 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 12 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 13 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 14 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
+| 15 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 16 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 17 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 18 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
+| 19 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 20 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 21 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 22 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 23 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 24 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 25 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 26 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 27 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 28 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
+| 29 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 30 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
+| 31 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
+| 34 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
+| 35 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
+| 36 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
+| 37 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
+| 38 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
+| 39 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 40 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
+| 41 | [But LSU](http://twitter.com/search?q=But+LSU) | N/A |
+| 42 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
+| 43 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 44 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 45 | [Coach Kim](http://twitter.com/search?q=Coach+Kim) | N/A |
+| 46 | [Happy for LSU](http://twitter.com/search?q=Happy+for+LSU) | N/A |
+| 47 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 48 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 49 | [Officials](http://twitter.com/search?q=Officials) | N/A |
+| 50 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
 
 
 

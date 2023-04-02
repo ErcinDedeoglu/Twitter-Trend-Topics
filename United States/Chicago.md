@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-02 21:16:25 UTC`
+📆 Last Updated: `2023-04-02 22:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 2 | [Colas](http://twitter.com/search?q=Colas) | N/A |
-| 3 | [RISP](http://twitter.com/search?q=RISP) | N/A |
-| 4 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 5 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 6 | [#c2e22023](http://twitter.com/search?q=%23c2e22023) | N/A |
-| 7 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 8 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 10 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 11 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
-| 12 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
-| 13 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 14 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
-| 15 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 17 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 18 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 19 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 22 | [Travis Porter](http://twitter.com/search?q=Travis+Porter) | N/A |
-| 23 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 24 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 27 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
-| 30 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
-| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
-| 34 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 35 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
-| 36 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 37 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 38 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 39 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 40 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 42 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 43 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 44 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 45 | [HOOPIN](http://twitter.com/search?q=HOOPIN) | N/A |
+| 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 2 | [Coby](http://twitter.com/search?q=Coby) | N/A |
+| 3 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 4 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
+| 5 | [Yoan](http://twitter.com/search?q=Yoan) | N/A |
+| 6 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 7 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 8 | [RISP](http://twitter.com/search?q=RISP) | N/A |
+| 9 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
+| 10 | [Colas](http://twitter.com/search?q=Colas) | N/A |
+| 11 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 12 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 13 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 14 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 16 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 17 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 18 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 19 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 20 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 21 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 22 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 23 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 24 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 25 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 26 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 27 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 28 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
+| 29 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 30 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 31 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 32 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 33 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 34 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 35 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 36 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 37 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 38 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
+| 39 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 40 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
+| 41 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 43 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
+| 44 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
+| 45 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
 | 46 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
-| 47 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 49 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 50 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
+| 47 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
+| 48 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
+| 49 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
+| 50 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
 
 
 
