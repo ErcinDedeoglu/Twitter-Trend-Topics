@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sapporo
 
-📆 Last Updated: `2023-04-02 15:17:44 UTC`
+📆 Last Updated: `2023-04-02 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ななにー](http://twitter.com/search?q=%23%e3%81%aa%e3%81%aa%e3%81%ab%e3%83%bc) | #ななにー is a hashtag used on social media in Japan. It is a play on words that combines the Japanese words for seven (なな) and two (にー). It is often used to express joy or excitement, similar to the English phrase "Yay!" |
+| 1 | [#ブルプロ](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%83%97%e3%83%ad) | N/A |
 | 2 | [立て続け](http://twitter.com/search?q=%e7%ab%8b%e3%81%a6%e7%b6%9a%e3%81%91) | N/A |
-| 3 | [#ブルプロ](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%83%97%e3%83%ad) | N/A |
+| 3 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
 | 4 | [エントリー](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
-| 5 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
-| 6 | [坂本龍一さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e9%be%8d%e4%b8%80%e3%81%95%e3%82%93) | N/A |
-| 7 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 8 | [ラストエンペラー](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%82%a8%e3%83%b3%e3%83%9a%e3%83%a9%e3%83%bc) | N/A |
-| 9 | [#髙橋海人誕生祭2023](http://twitter.com/search?q=%23%e9%ab%99%e6%a9%8b%e6%b5%b7%e4%ba%ba%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 10 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 11 | [#海人ハッピーバースデー](http://twitter.com/search?q=%23%e6%b5%b7%e4%ba%ba%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc) | N/A |
-| 12 | [坂本さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
-| 13 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
-| 14 | [世界のサカモト](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e3%82%b5%e3%82%ab%e3%83%a2%e3%83%88) | N/A |
+| 5 | [坂本龍一さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e9%be%8d%e4%b8%80%e3%81%95%e3%82%93) | N/A |
+| 6 | [#海人ハッピーバースデー](http://twitter.com/search?q=%23%e6%b5%b7%e4%ba%ba%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc) | N/A |
+| 7 | [#髙橋海人誕生祭2023](http://twitter.com/search?q=%23%e9%ab%99%e6%a9%8b%e6%b5%b7%e4%ba%ba%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 8 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 10 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
+| 11 | [ラストエンペラー](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%82%a8%e3%83%b3%e3%83%9a%e3%83%a9%e3%83%bc) | N/A |
+| 12 | [#永瀬廉入所12周年](http://twitter.com/search?q=%23%e6%b0%b8%e7%80%ac%e5%bb%89%e5%85%a5%e6%89%8012%e5%91%a8%e5%b9%b4) | N/A |
+| 13 | [坂本さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 14 | [細野さん](http://twitter.com/search?q=%e7%b4%b0%e9%87%8e%e3%81%95%e3%82%93) | N/A |
 | 15 | [幸宏さん](http://twitter.com/search?q=%e5%b9%b8%e5%ae%8f%e3%81%95%e3%82%93) | N/A |
-| 16 | [がん闘病力尽く](http://twitter.com/search?q=%e3%81%8c%e3%82%93%e9%97%98%e7%97%85%e5%8a%9b%e5%b0%bd%e3%81%8f) | N/A |
-| 17 | [細野さん](http://twitter.com/search?q=%e7%b4%b0%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 18 | [日本人初快挙](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%ba%ba%e5%88%9d%e5%bf%ab%e6%8c%99) | N/A |
-| 19 | [ライディーン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3) | ライディーン is a Japanese word that means "leader" or "guide". It is often used to refer to someone who takes the lead in a group or organization. |
-| 20 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
-| 21 | [energy flow](http://twitter.com/search?q=energy+flow) | N/A |
-| 22 | [スポニチアネックス](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%8b%e3%83%81%e3%82%a2%e3%83%8d%e3%83%83%e3%82%af%e3%82%b9) | スポニチアネックス (Sponichi Annex) is a Japanese news website operated by the Sports Nippon newspaper. It provides news and information about sports, entertainment, lifestyle, and other topics. The name is a combination of the words "Sports Nippon" and "Annex". |
-| 23 | [ガラスのブルース](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b9%e3%81%ae%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9) | N/A |
-| 24 | [戦場のメリークリスマス](http://twitter.com/search?q=%e6%88%a6%e5%a0%b4%e3%81%ae%e3%83%a1%e3%83%aa%e3%83%bc%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9) | N/A |
-| 25 | [坂本教授](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e6%95%99%e6%8e%88) | N/A |
-| 26 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 27 | [天体観測](http://twitter.com/search?q=%e5%a4%a9%e4%bd%93%e8%a6%b3%e6%b8%ac) | N/A |
-| 28 | [ロストマン](http://twitter.com/search?q=%e3%83%ad%e3%82%b9%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
-| 29 | [ユキヒロさん](http://twitter.com/search?q=%e3%83%a6%e3%82%ad%e3%83%92%e3%83%ad%e3%81%95%e3%82%93) | ユキヒロさん is a Japanese name. It is written in kanji as 雪広さん and can be translated to mean "Mr. Snow Wide". |
-| 30 | [高橋さん](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e3%81%95%e3%82%93) | N/A |
-| 31 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 32 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 33 | [中谷美紀](http://twitter.com/search?q=%e4%b8%ad%e8%b0%b7%e7%be%8e%e7%b4%80) | N/A |
-| 34 | [海人くん](http://twitter.com/search?q=%e6%b5%b7%e4%ba%ba%e3%81%8f%e3%82%93) | N/A |
-| 35 | [RYDEEN](http://twitter.com/search?q=RYDEEN) | RYDEEN is a song by the Japanese electronic music group Yellow Magic Orchestra. The title is derived from the Japanese words for "ride" and "dance". In English, it can be interpreted as a call to dance and ride the rhythm of the music. |
-| 36 | [藤原基央](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e5%9f%ba%e5%a4%ae) | N/A |
-| 37 | [教授の訃報](http://twitter.com/search?q=%e6%95%99%e6%8e%88%e3%81%ae%e8%a8%83%e5%a0%b1) | N/A |
-| 38 | [飼育難易度](http://twitter.com/search?q=%e9%a3%bc%e8%82%b2%e9%9b%a3%e6%98%93%e5%ba%a6) | 飼育難易度 (shīyù nányìdù) is a Japanese term that translates to "difficulty of keeping/raising" and refers to the difficulty of taking care of a particular pet or animal. It is used to describe how difficult it is to look after a certain type of pet, such as a dog, cat, or bird. |
-| 39 | [ルージュマジック](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 40 | [教授の曲](http://twitter.com/search?q=%e6%95%99%e6%8e%88%e3%81%ae%e6%9b%b2) | N/A |
-| 41 | [藤くんのインタビュー](http://twitter.com/search?q=%e8%97%a4%e3%81%8f%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 42 | [教授の音楽](http://twitter.com/search?q=%e6%95%99%e6%8e%88%e3%81%ae%e9%9f%b3%e6%a5%bd) | N/A |
-| 43 | [千のナイフ](http://twitter.com/search?q=%e5%8d%83%e3%81%ae%e3%83%8a%e3%82%a4%e3%83%95) | N/A |
-| 44 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
-| 45 | [アキバレンジャー](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%90%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 46 | [砂の果実](http://twitter.com/search?q=%e7%a0%82%e3%81%ae%e6%9e%9c%e5%ae%9f) | N/A |
-| 47 | [ダブルタイトル](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab) | N/A |
-| 48 | [バンプ特集](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%97%e7%89%b9%e9%9b%86) | N/A |
-| 49 | [Mr.Lawrence](http://twitter.com/search?q=Mr.Lawrence) | N/A |
-| 50 | [オネアミスの翼](http://twitter.com/search?q=%e3%82%aa%e3%83%8d%e3%82%a2%e3%83%9f%e3%82%b9%e3%81%ae%e7%bf%bc) | N/A |
+| 16 | [世界のサカモト](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e3%82%b5%e3%82%ab%e3%83%a2%e3%83%88) | N/A |
+| 17 | [アザール](http://twitter.com/search?q=%e3%82%a2%e3%82%b6%e3%83%bc%e3%83%ab) | N/A |
+| 18 | [がん闘病力尽く](http://twitter.com/search?q=%e3%81%8c%e3%82%93%e9%97%98%e7%97%85%e5%8a%9b%e5%b0%bd%e3%81%8f) | N/A |
+| 19 | [日本人初快挙](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%ba%ba%e5%88%9d%e5%bf%ab%e6%8c%99) | N/A |
+| 20 | [ライディーン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3) | ライディーン is a Japanese word that means "leader" or "guide". It is often used to refer to someone who takes the lead in a group or organization. |
+| 21 | [ダブルタイトル](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab) | N/A |
+| 22 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
+| 23 | [energy flow](http://twitter.com/search?q=energy+flow) | N/A |
+| 24 | [海人くん](http://twitter.com/search?q=%e6%b5%b7%e4%ba%ba%e3%81%8f%e3%82%93) | N/A |
+| 25 | [戦場のメリークリスマス](http://twitter.com/search?q=%e6%88%a6%e5%a0%b4%e3%81%ae%e3%83%a1%e3%83%aa%e3%83%bc%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9) | N/A |
+| 26 | [殴り合い](http://twitter.com/search?q=%e6%ae%b4%e3%82%8a%e5%90%88%e3%81%84) | N/A |
+| 27 | [ガラスのブルース](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b9%e3%81%ae%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9) | N/A |
+| 28 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 29 | [坂本教授](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e6%95%99%e6%8e%88) | N/A |
+| 30 | [かっきー](http://twitter.com/search?q=%e3%81%8b%e3%81%a3%e3%81%8d%e3%83%bc) | N/A |
+| 31 | [スポニチアネックス](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%8b%e3%83%81%e3%82%a2%e3%83%8d%e3%83%83%e3%82%af%e3%82%b9) | スポニチアネックス (Sponichi Annex) is a Japanese news website operated by the Sports Nippon newspaper. It provides news and information about sports, entertainment, lifestyle, and other topics. The name is a combination of the words "Sports Nippon" and "Annex". |
+| 32 | [天体観測](http://twitter.com/search?q=%e5%a4%a9%e4%bd%93%e8%a6%b3%e6%b8%ac) | N/A |
+| 33 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
+| 34 | [中谷美紀](http://twitter.com/search?q=%e4%b8%ad%e8%b0%b7%e7%be%8e%e7%b4%80) | N/A |
+| 35 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
+| 36 | [ユーステス](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%82%b9%e3%83%86%e3%82%b9) | ユーステス is a Japanese phrase that roughly translates to "you are the best". It is often used as an expression of admiration or appreciation. |
+| 37 | [飼育難易度](http://twitter.com/search?q=%e9%a3%bc%e8%82%b2%e9%9b%a3%e6%98%93%e5%ba%a6) | 飼育難易度 (shīyù nányìdù) is a Japanese term that translates to "difficulty of keeping/raising" and refers to the difficulty of taking care of a particular pet or animal. It is used to describe how difficult it is to look after a certain type of pet, such as a dog, cat, or bird. |
+| 38 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 39 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
+| 40 | [教授の訃報](http://twitter.com/search?q=%e6%95%99%e6%8e%88%e3%81%ae%e8%a8%83%e5%a0%b1) | N/A |
+| 41 | [ロストマン](http://twitter.com/search?q=%e3%83%ad%e3%82%b9%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
+| 42 | [ロドリゴ](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e3%82%b4) | ロドリゴ is a Spanish name. It is derived from the Latin name Rodericus, which means "famous power". In English, it can be translated to mean "famous ruler". |
+| 43 | [第437回](http://twitter.com/search?q=%e7%ac%ac437%e5%9b%9e) | N/A |
+| 44 | [ユキヒロさん](http://twitter.com/search?q=%e3%83%a6%e3%82%ad%e3%83%92%e3%83%ad%e3%81%95%e3%82%93) | ユキヒロさん is a Japanese name. It is written in kanji as 雪広さん and can be translated to mean "Mr. Snow Wide". |
+| 45 | [高橋さん](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e3%81%95%e3%82%93) | N/A |
+| 46 | [RYDEEN](http://twitter.com/search?q=RYDEEN) | RYDEEN is a song by the Japanese electronic music group Yellow Magic Orchestra. The title is derived from the Japanese words for "ride" and "dance". In English, it can be interpreted as a call to dance and ride the rhythm of the music. |
+| 47 | [砂の果実](http://twitter.com/search?q=%e7%a0%82%e3%81%ae%e6%9e%9c%e5%ae%9f) | N/A |
+| 48 | [しずくちゃん](http://twitter.com/search?q=%e3%81%97%e3%81%9a%e3%81%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [ジェヒョク](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%92%e3%83%a7%e3%82%af) | N/A |
+| 50 | [照史くんミュージカル](http://twitter.com/search?q=%e7%85%a7%e5%8f%b2%e3%81%8f%e3%82%93%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
 
 
 

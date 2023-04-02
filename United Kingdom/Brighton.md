@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-04-02 15:17:22 UTC`
+📆 Last Updated: `2023-04-02 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 2 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 3 | [Bexhill](http://twitter.com/search?q=Bexhill) | N/A |
-| 4 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 5 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 6 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 7 | [Green Army](http://twitter.com/search?q=Green+Army) | N/A |
-| 8 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 9 | [Rwandan](http://twitter.com/search?q=Rwandan) | N/A |
-| 10 | [Championship](http://twitter.com/search?q=Championship) | N/A |
-| 11 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 12 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 14 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 16 | [#labourdoorstep](http://twitter.com/search?q=%23labourdoorstep) | N/A |
-| 17 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 18 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 19 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 20 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 21 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 22 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 23 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 24 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 25 | [Simon Calder](http://twitter.com/search?q=Simon+Calder) | N/A |
-| 26 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 27 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 28 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
-| 29 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 30 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 32 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 33 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 34 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 35 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 36 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
-| 37 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 39 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
-| 40 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 41 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
-| 42 | [Ospreys](http://twitter.com/search?q=Ospreys) | Ospreys are large birds of prey that are found on every continent except Antarctica. They have a distinctive black and white plumage, long wings, and a hooked beak. Ospreys feed mainly on fish, which they catch by swooping down from the air and grabbing them with their talons. The name "osprey" comes from the Latin words for "bird of prey". |
-| 43 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 44 | [Bernabei](http://twitter.com/search?q=Bernabei) | N/A |
-| 45 | [Selles](http://twitter.com/search?q=Selles) | N/A |
-| 46 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
-| 47 | [Merry Christmas Mr Lawrence](http://twitter.com/search?q=Merry+Christmas+Mr+Lawrence) | N/A |
-| 48 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 49 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 1 | [Majorca](http://twitter.com/search?q=Majorca) | N/A |
+| 2 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 3 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 6 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 7 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 8 | [london stadium](http://twitter.com/search?q=london+stadium) | N/A |
+| 9 | [#labourdoorstep](http://twitter.com/search?q=%23labourdoorstep) | N/A |
+| 10 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 11 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
+| 12 | [Bexhill](http://twitter.com/search?q=Bexhill) | N/A |
+| 13 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
+| 14 | [#WorldAutismDay](http://twitter.com/search?q=%23WorldAutismDay) | N/A |
+| 15 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 16 | [#HeinekenChampionsCup](http://twitter.com/search?q=%23HeinekenChampionsCup) | N/A |
+| 17 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 18 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 19 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 20 | [Green Army](http://twitter.com/search?q=Green+Army) | N/A |
+| 21 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 23 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 24 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 26 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 27 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
+| 28 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 29 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
+| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 31 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 32 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 34 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 35 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 36 | [Merry Christmas Mr Lawrence](http://twitter.com/search?q=Merry+Christmas+Mr+Lawrence) | N/A |
+| 37 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 38 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 39 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 40 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 41 | [St James](http://twitter.com/search?q=St+James) | N/A |
+| 42 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 43 | [Ospreys](http://twitter.com/search?q=Ospreys) | Ospreys are large birds of prey that are found on every continent except Antarctica. They have a distinctive black and white plumage, long wings, and a hooked beak. Ospreys feed mainly on fish, which they catch by swooping down from the air and grabbing them with their talons. The name "osprey" comes from the Latin words for "bird of prey". |
+| 44 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 45 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
+| 49 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-02 15:18:14 UTC`
+📆 Last Updated: `2023-04-02 16:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 2 | [I DON'T UNDERSTAND BUT I LUV U](http://twitter.com/search?q=I+DON%27T+UNDERSTAND+BUT+I+LUV+U) | N/A |
-| 3 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 4 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 5 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
-| 6 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
-| 7 | [2 TITLE TRACKS](http://twitter.com/search?q=2+TITLE+TRACKS) | N/A |
-| 8 | [#BINI_FitMeFreshTint](http://twitter.com/search?q=%23BINI_FitMeFreshTint) | N/A |
-| 9 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
-| 10 | [#IveIVE_Tracklist](http://twitter.com/search?q=%23IveIVE_Tracklist) | N/A |
-| 11 | [GET WELL SOON JAEHYUK](http://twitter.com/search?q=GET+WELL+SOON+JAEHYUK) | N/A |
-| 12 | [THE BLOTTER PAPER D1](http://twitter.com/search?q=THE+BLOTTER+PAPER+D1) | N/A |
-| 13 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
-| 14 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 15 | [STREAM FLOWER NOW](http://twitter.com/search?q=STREAM+FLOWER+NOW) | N/A |
-| 16 | [BBJASON TILNEXTWAVE](http://twitter.com/search?q=BBJASON+TILNEXTWAVE) | N/A |
-| 17 | [CONGRATS UST](http://twitter.com/search?q=CONGRATS+UST) | N/A |
-| 18 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 1 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 2 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
+| 3 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
+| 4 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 5 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
+| 6 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 7 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 8 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 9 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 10 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 11 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
+| 12 | [2 TITLE TRACKS](http://twitter.com/search?q=2+TITLE+TRACKS) | N/A |
+| 13 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
+| 14 | [April Shower](http://twitter.com/search?q=April+Shower) | N/A |
+| 15 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
+| 16 | [GET WELL SOON JAEHYUK](http://twitter.com/search?q=GET+WELL+SOON+JAEHYUK) | N/A |
+| 17 | [THE BLOTTER PAPER D1](http://twitter.com/search?q=THE+BLOTTER+PAPER+D1) | N/A |
+| 18 | [DOUBLE TITLE TRACK](http://twitter.com/search?q=DOUBLE+TITLE+TRACK) | N/A |
 | 19 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 20 | [D-DAY](http://twitter.com/search?q=D-DAY) | N/A |
-| 21 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
-| 22 | [Estes](http://twitter.com/search?q=Estes) | Estes is a Spanish surname derived from the Latin word "Este", meaning "east". It is also a place name in several countries, including the United States. |
-| 23 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 24 | [SAVEMASUNGI WITH NADINE](http://twitter.com/search?q=SAVEMASUNGI+WITH+NADINE) | N/A |
-| 25 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 26 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 27 | [KARINA AT MANA AWARDS](http://twitter.com/search?q=KARINA+AT+MANA+AWARDS) | N/A |
-| 28 | [ISANG TAONG PAKIKIDIGMA](http://twitter.com/search?q=ISANG+TAONG+PAKIKIDIGMA) | N/A |
-| 29 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 30 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 31 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 32 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 33 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 34 | [Angel](http://twitter.com/search?q=Angel) | N/A |
-| 35 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 36 | [WTB LFS](http://twitter.com/search?q=WTB+LFS) | N/A |
-| 37 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 38 | [VIP Standing](http://twitter.com/search?q=VIP+Standing) | N/A |
-| 39 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 40 | [#ジェヒョク](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%92%e3%83%a7%e3%82%af) | N/A |
-| 41 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 20 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 21 | [STREAM FLOWER NOW](http://twitter.com/search?q=STREAM+FLOWER+NOW) | N/A |
+| 22 | [INITIAL BLUSH](http://twitter.com/search?q=INITIAL+BLUSH) | N/A |
+| 23 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
+| 24 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
+| 25 | [bbjason tilnextwave](http://twitter.com/search?q=bbjason+tilnextwave) | N/A |
+| 26 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
+| 27 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 28 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 29 | [KARINA AT MANA AWARDS](http://twitter.com/search?q=KARINA+AT+MANA+AWARDS) | N/A |
+| 30 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 31 | [ISANG TAONG PAKIKIDIGMA](http://twitter.com/search?q=ISANG+TAONG+PAKIKIDIGMA) | N/A |
+| 32 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 33 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
+| 34 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 35 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 36 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 37 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 38 | [WTB LFS](http://twitter.com/search?q=WTB+LFS) | N/A |
+| 39 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 40 | [VIP Standing](http://twitter.com/search?q=VIP+Standing) | N/A |
+| 41 | [#BINI_FitMeFreshTint](http://twitter.com/search?q=%23BINI_FitMeFreshTint) | N/A |
 | 42 | [#DOJAEJUNG_BlendingProcess](http://twitter.com/search?q=%23DOJAEJUNG_BlendingProcess) | N/A |
-| 43 | [#D7toLOVESTRUCK](http://twitter.com/search?q=%23D7toLOVESTRUCK) | N/A |
-| 44 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 43 | [#IveIVE_Tracklist](http://twitter.com/search?q=%23IveIVE_Tracklist) | N/A |
+| 44 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
 | 45 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 46 | [#theclashbagonghamon](http://twitter.com/search?q=%23theclashbagonghamon) | N/A |
-| 47 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 48 | [#DaigPuppetNoMore](http://twitter.com/search?q=%23DaigPuppetNoMore) | N/A |
-| 49 | [#NadineLustreYT](http://twitter.com/search?q=%23NadineLustreYT) | N/A |
-| 50 | [#VCTPacific](http://twitter.com/search?q=%23VCTPacific) | N/A |
+| 46 | [#ジェヒョク](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%92%e3%83%a7%e3%82%af) | N/A |
+| 47 | [#D7toLOVESTRUCK](http://twitter.com/search?q=%23D7toLOVESTRUCK) | N/A |
+| 48 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 49 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
+| 50 | [#DaigPuppetNoMore](http://twitter.com/search?q=%23DaigPuppetNoMore) | N/A |
 
 
 

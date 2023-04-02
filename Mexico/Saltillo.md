@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-02 15:17:27 UTC`
+📆 Last Updated: `2023-04-02 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 6 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
-| 7 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [D-DAY IS COMING](http://twitter.com/search?q=D-DAY+IS+COMING) | N/A |
+| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 7 | [AGUST D IS COMING](http://twitter.com/search?q=AGUST+D+IS+COMING) | N/A |
+| 8 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
 | 9 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
-| 10 | [teotihuacán](http://twitter.com/search?q=teotihuac%c3%a1n) | N/A |
-| 11 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 12 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 13 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 14 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 15 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 16 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 18 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
-| 19 | [tano](http://twitter.com/search?q=tano) | N/A |
-| 20 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 21 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 22 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 27 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
-| 28 | [Sparta Rotterdam](http://twitter.com/search?q=Sparta+Rotterdam) | N/A |
-| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 30 | [Telcel](http://twitter.com/search?q=Telcel) | N/A |
-| 31 | [Eredivisie](http://twitter.com/search?q=Eredivisie) | N/A |
-| 32 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 10 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 11 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 12 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Telcel](http://twitter.com/search?q=Telcel) | N/A |
+| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 16 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 17 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 18 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 19 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 20 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
+| 23 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 25 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 26 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 27 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 28 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
+| 31 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 33 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 34 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 35 | [Maru](http://twitter.com/search?q=Maru) | N/A |
+| 34 | [Maru](http://twitter.com/search?q=Maru) | N/A |
+| 35 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
 | 36 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 37 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 38 | [pal norte](http://twitter.com/search?q=pal+norte) | N/A |
-| 39 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 40 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 41 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 42 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 43 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 44 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 45 | [Escándalo](http://twitter.com/search?q=Esc%c3%a1ndalo) | N/A |
-| 46 | [death by a thousand cuts](http://twitter.com/search?q=death+by+a+thousand+cuts) | N/A |
-| 47 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
-| 48 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 37 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 38 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
+| 39 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
+| 40 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 41 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
+| 42 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 43 | [Sparta Rotterdam](http://twitter.com/search?q=Sparta+Rotterdam) | N/A |
+| 44 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
+| 45 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 46 | [Trastorno del Espectro Autista](http://twitter.com/search?q=Trastorno+del+Espectro+Autista) | N/A |
+| 47 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 48 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 
 
 

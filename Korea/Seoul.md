@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seoul
 
-📆 Last Updated: `2023-04-02 15:17:46 UTC`
+📆 Last Updated: `2023-04-02 16:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [에이프릴](http://twitter.com/search?q=%ec%97%90%ec%9d%b4%ed%94%84%eb%a6%b4) | N/A |
-| 2 | [트리컬러](http://twitter.com/search?q=%ed%8a%b8%eb%a6%ac%ec%bb%ac%eb%9f%ac) | N/A |
+| 1 | [이번 앨범](http://twitter.com/search?q=%ec%9d%b4%eb%b2%88+%ec%95%a8%eb%b2%94) | N/A |
+| 2 | [#ShootingStarInSeoul](http://twitter.com/search?q=%23ShootingStarInSeoul) | N/A |
 | 3 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
-| 4 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
-| 5 | [#세운파도타러온날](http://twitter.com/search?q=%23%ec%84%b8%ec%9a%b4%ed%8c%8c%eb%8f%84%ed%83%80%eb%9f%ac%ec%98%a8%eb%82%a0) | N/A |
-| 6 | [#정세운](http://twitter.com/search?q=%23%ec%a0%95%ec%84%b8%ec%9a%b4) | N/A |
-| 7 | [성우분들](http://twitter.com/search?q=%ec%84%b1%ec%9a%b0%eb%b6%84%eb%93%a4) | N/A |
-| 8 | [#THEWAVE](http://twitter.com/search?q=%23THEWAVE) | N/A |
-| 9 | [사카모토](http://twitter.com/search?q=%ec%82%ac%ec%b9%b4%eb%aa%a8%ed%86%a0) | N/A |
-| 10 | [트랙리스트](http://twitter.com/search?q=%ed%8a%b8%eb%9e%99%eb%a6%ac%ec%8a%a4%ed%8a%b8) | N/A |
-| 11 | [마이라이프](http://twitter.com/search?q=%eb%a7%88%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%94%84) | N/A |
-| 12 | [고인의 명복](http://twitter.com/search?q=%ea%b3%a0%ec%9d%b8%ec%9d%98+%eb%aa%85%eb%b3%b5) | N/A |
-| 13 | [퍼포팀 노래](http://twitter.com/search?q=%ed%8d%bc%ed%8f%ac%ed%8c%80+%eb%85%b8%eb%9e%98) | N/A |
-| 14 | [포카시세는 150.0](http://twitter.com/search?q=%ed%8f%ac%ec%b9%b4%ec%8b%9c%ec%84%b8%eb%8a%94+150.0) | N/A |
-| 15 | [어거스트](http://twitter.com/search?q=%ec%96%b4%ea%b1%b0%ec%8a%a4%ed%8a%b8) | N/A |
-| 16 | [정규 3집](http://twitter.com/search?q=%ec%a0%95%ea%b7%9c+3%ec%a7%91) | N/A |
-| 17 | [머리 기현이](http://twitter.com/search?q=%eb%a8%b8%eb%a6%ac+%ea%b8%b0%ed%98%84%ec%9d%b4) | N/A |
-| 18 | [메인 보컬](http://twitter.com/search?q=%eb%a9%94%ec%9d%b8+%eb%b3%b4%ec%bb%ac) | N/A |
-| 19 | [트릴로지](http://twitter.com/search?q=%ed%8a%b8%eb%a6%b4%eb%a1%9c%ec%a7%80) | N/A |
-| 20 | [개빠순이](http://twitter.com/search?q=%ea%b0%9c%eb%b9%a0%ec%88%9c%ec%9d%b4) | N/A |
-| 21 | [더비 생일](http://twitter.com/search?q=%eb%8d%94%eb%b9%84+%ec%83%9d%ec%9d%bc) | N/A |
-| 22 | [대만태섭](http://twitter.com/search?q=%eb%8c%80%eb%a7%8c%ed%83%9c%ec%84%ad) | N/A |
-| 23 | [다정한 정대만](http://twitter.com/search?q=%eb%8b%a4%ec%a0%95%ed%95%9c+%ec%a0%95%eb%8c%80%eb%a7%8c) | N/A |
-| 24 | [성화 생일](http://twitter.com/search?q=%ec%84%b1%ed%99%94+%ec%83%9d%ec%9d%bc) | N/A |
-| 25 | [메인 댄서](http://twitter.com/search?q=%eb%a9%94%ec%9d%b8+%eb%8c%84%ec%84%9c) | N/A |
-| 26 | [미스터 로렌스](http://twitter.com/search?q=%eb%af%b8%ec%8a%a4%ed%84%b0+%eb%a1%9c%eb%a0%8c%ec%8a%a4) | N/A |
-| 27 | [부산 게릴라](http://twitter.com/search?q=%eb%b6%80%ec%82%b0+%ea%b2%8c%eb%a6%b4%eb%9d%bc) | N/A |
-| 28 | [서브 댄서](http://twitter.com/search?q=%ec%84%9c%eb%b8%8c+%eb%8c%84%ec%84%9c) | N/A |
-| 29 | [리드 댄서](http://twitter.com/search?q=%eb%a6%ac%eb%93%9c+%eb%8c%84%ec%84%9c) | N/A |
-| 30 | [정규앨범](http://twitter.com/search?q=%ec%a0%95%ea%b7%9c%ec%95%a8%eb%b2%94) | N/A |
-| 31 | [입덕 이유](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%ec%9d%b4%ec%9c%a0) | N/A |
-| 32 | [서브 보컬](http://twitter.com/search?q=%ec%84%9c%eb%b8%8c+%eb%b3%b4%ec%bb%ac) | N/A |
-| 33 | [결혼할 투디남자](http://twitter.com/search?q=%ea%b2%b0%ed%98%bc%ed%95%a0+%ed%88%ac%eb%94%94%eb%82%a8%ec%9e%90) | N/A |
-| 34 | [콘서트 공지](http://twitter.com/search?q=%ec%bd%98%ec%84%9c%ed%8a%b8+%ea%b3%b5%ec%a7%80) | N/A |
-| 35 | [메인래퍼](http://twitter.com/search?q=%eb%a9%94%ec%9d%b8%eb%9e%98%ed%8d%bc) | N/A |
-| 36 | [리드 보컬](http://twitter.com/search?q=%eb%a6%ac%eb%93%9c+%eb%b3%b4%ec%bb%ac) | N/A |
-| 37 | [리드 래퍼](http://twitter.com/search?q=%eb%a6%ac%eb%93%9c+%eb%9e%98%ed%8d%bc) | N/A |
-| 38 | [임시유닛](http://twitter.com/search?q=%ec%9e%84%ec%8b%9c%ec%9c%a0%eb%8b%9b) | N/A |
-| 39 | [변태력 측정](http://twitter.com/search?q=%eb%b3%80%ed%83%9c%eb%a0%a5+%ec%b8%a1%ec%a0%95) | 변태력 측정 is a psychological test used to measure the level of perversion in an individual. It is used to assess the degree of sexual deviance and can be used to diagnose various types of paraphilias. The test consists of a series of questions that measure an individual's responses to various sexual stimuli. The results are then used to determine the level of perversion in the individual. In English, it is known as the Perversion Scale Test. |
-| 40 | [나의 변태력](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%eb%b3%80%ed%83%9c%eb%a0%a5) | 나의 변태력 is a Korean phrase that literally translates to "my laziness". It is used to describe someone who is very lazy or unmotivated. |
-| 41 | [얼마정도](http://twitter.com/search?q=%ec%96%bc%eb%a7%88%ec%a0%95%eb%8f%84) | 얼마정도 is a phrase in Korean that means "about how much" or "approximately how much". It is used to ask someone for an estimate of a certain amount. |
-| 42 | [진실게임](http://twitter.com/search?q=%ec%a7%84%ec%8b%a4%ea%b2%8c%ec%9e%84) | N/A |
-| 43 | [자고 했을때](http://twitter.com/search?q=%ec%9e%90%ea%b3%a0+%ed%96%88%ec%9d%84%eb%95%8c) | N/A |
-| 44 | [입덕 캐릭터](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%ec%ba%90%eb%a6%ad%ed%84%b0) | N/A |
-| 45 | [수하 생일](http://twitter.com/search?q=%ec%88%98%ed%95%98+%ec%83%9d%ec%9d%bc) | N/A |
-| 46 | [트윙크 하코](http://twitter.com/search?q=%ed%8a%b8%ec%9c%99%ed%81%ac+%ed%95%98%ec%bd%94) | N/A |
-| 47 | [작사 작곡](http://twitter.com/search?q=%ec%9e%91%ec%82%ac+%ec%9e%91%ea%b3%a1) | N/A |
-| 48 | [사쿠란보](http://twitter.com/search?q=%ec%82%ac%ec%bf%a0%eb%9e%80%eb%b3%b4) | N/A |
-| 49 | [사쿠마레](http://twitter.com/search?q=%ec%82%ac%ec%bf%a0%eb%a7%88%eb%a0%88) | N/A |
-| 50 | [가라오케](http://twitter.com/search?q=%ea%b0%80%eb%9d%bc%ec%98%a4%ec%bc%80) | 가라오케 is a Japanese phrase that means "Let's go!" or "Come on!" in English. |
+| 4 | [말레이시아](http://twitter.com/search?q=%eb%a7%90%eb%a0%88%ec%9d%b4%ec%8b%9c%ec%95%84) | N/A |
+| 5 | [다정한 사람](http://twitter.com/search?q=%eb%8b%a4%ec%a0%95%ed%95%9c+%ec%82%ac%eb%9e%8c) | N/A |
+| 6 | [도로공사](http://twitter.com/search?q=%eb%8f%84%eb%a1%9c%ea%b3%b5%ec%82%ac) | N/A |
+| 7 | [가치관 취향캐](http://twitter.com/search?q=%ea%b0%80%ec%b9%98%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 8 | [외관 취향캐](http://twitter.com/search?q=%ec%99%b8%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 9 | [불교박람회](http://twitter.com/search?q=%eb%b6%88%ea%b5%90%eb%b0%95%eb%9e%8c%ed%9a%8c) | N/A |
+| 10 | [성격 취향캐](http://twitter.com/search?q=%ec%84%b1%ea%b2%a9+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 11 | [트리컬러](http://twitter.com/search?q=%ed%8a%b8%eb%a6%ac%ec%bb%ac%eb%9f%ac) | N/A |
+| 12 | [반쪽하트](http://twitter.com/search?q=%eb%b0%98%ec%aa%bd%ed%95%98%ed%8a%b8) | N/A |
+| 13 | [마음 달성](http://twitter.com/search?q=%eb%a7%88%ec%9d%8c+%eb%8b%ac%ec%84%b1) | N/A |
+| 14 | [몰래 짝사랑](http://twitter.com/search?q=%eb%aa%b0%eb%9e%98+%ec%a7%9d%ec%82%ac%eb%9e%91) | N/A |
+| 15 | [싫어하는 이유](http://twitter.com/search?q=%ec%8b%ab%ec%96%b4%ed%95%98%eb%8a%94+%ec%9d%b4%ec%9c%a0) | N/A |
+| 16 | [있는 연생](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ec%97%b0%ec%83%9d) | N/A |
+| 17 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
+| 18 | [#세운파도타러온날](http://twitter.com/search?q=%23%ec%84%b8%ec%9a%b4%ed%8c%8c%eb%8f%84%ed%83%80%eb%9f%ac%ec%98%a8%eb%82%a0) | N/A |
+| 19 | [#정세운](http://twitter.com/search?q=%23%ec%a0%95%ec%84%b8%ec%9a%b4) | N/A |
+| 20 | [트랙리스트](http://twitter.com/search?q=%ed%8a%b8%eb%9e%99%eb%a6%ac%ec%8a%a4%ed%8a%b8) | N/A |
+| 21 | [사카모토](http://twitter.com/search?q=%ec%82%ac%ec%b9%b4%eb%aa%a8%ed%86%a0) | N/A |
+| 22 | [마이라이프](http://twitter.com/search?q=%eb%a7%88%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%94%84) | N/A |
+| 23 | [고인의 명복](http://twitter.com/search?q=%ea%b3%a0%ec%9d%b8%ec%9d%98+%eb%aa%85%eb%b3%b5) | N/A |
+| 24 | [어거스트](http://twitter.com/search?q=%ec%96%b4%ea%b1%b0%ec%8a%a4%ed%8a%b8) | N/A |
+| 25 | [꼬들 457](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+457) | N/A |
+| 26 | [퍼포팀 노래](http://twitter.com/search?q=%ed%8d%bc%ed%8f%ac%ed%8c%80+%eb%85%b8%eb%9e%98) | N/A |
+| 27 | [우리 지훈](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%a7%80%ed%9b%88) | N/A |
+| 28 | [빌어먹을 세상](http://twitter.com/search?q=%eb%b9%8c%ec%96%b4%eb%a8%b9%ec%9d%84+%ec%84%b8%ec%83%81) | N/A |
+| 29 | [트릴로지](http://twitter.com/search?q=%ed%8a%b8%eb%a6%b4%eb%a1%9c%ec%a7%80) | N/A |
+| 30 | [향수 엠디](http://twitter.com/search?q=%ed%96%a5%ec%88%98+%ec%97%a0%eb%94%94) | N/A |
+| 31 | [무드 스트리트](http://twitter.com/search?q=%eb%ac%b4%eb%93%9c+%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8) | N/A |
+| 32 | [선공개곡](http://twitter.com/search?q=%ec%84%a0%ea%b3%b5%ea%b0%9c%ea%b3%a1) | N/A |
+| 33 | [르세라핌](http://twitter.com/search?q=%eb%a5%b4%ec%84%b8%eb%9d%bc%ed%95%8c) | 르세라핌 is a French phrase meaning "Let's go!" or "Let's do it!" It is often used as an expression of enthusiasm and encouragement. |
+| 34 | [수하 생일](http://twitter.com/search?q=%ec%88%98%ed%95%98+%ec%83%9d%ec%9d%bc) | N/A |
+| 35 | [더비 생일](http://twitter.com/search?q=%eb%8d%94%eb%b9%84+%ec%83%9d%ec%9d%bc) | N/A |
+| 36 | [섹시샤워](http://twitter.com/search?q=%ec%84%b9%ec%8b%9c%ec%83%a4%ec%9b%8c) | N/A |
+| 37 | [포카시세는 150.0](http://twitter.com/search?q=%ed%8f%ac%ec%b9%b4%ec%8b%9c%ec%84%b8%eb%8a%94+150.0) | N/A |
+| 38 | [향수 이름](http://twitter.com/search?q=%ed%96%a5%ec%88%98+%ec%9d%b4%eb%a6%84) | N/A |
+| 39 | [노래 제목](http://twitter.com/search?q=%eb%85%b8%eb%9e%98+%ec%a0%9c%eb%aa%a9) | N/A |
+| 40 | [입덕 이유](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%ec%9d%b4%ec%9c%a0) | N/A |
+| 41 | [정규 3집](http://twitter.com/search?q=%ec%a0%95%ea%b7%9c+3%ec%a7%91) | N/A |
+| 42 | [서브 보컬](http://twitter.com/search?q=%ec%84%9c%eb%b8%8c+%eb%b3%b4%ec%bb%ac) | N/A |
+| 43 | [프로레슬링](http://twitter.com/search?q=%ed%94%84%eb%a1%9c%eb%a0%88%ec%8a%ac%eb%a7%81) | N/A |
+| 44 | [메인 보컬](http://twitter.com/search?q=%eb%a9%94%ec%9d%b8+%eb%b3%b4%ec%bb%ac) | N/A |
+| 45 | [성화 생일](http://twitter.com/search?q=%ec%84%b1%ed%99%94+%ec%83%9d%ec%9d%bc) | N/A |
+| 46 | [대만태섭](http://twitter.com/search?q=%eb%8c%80%eb%a7%8c%ed%83%9c%ec%84%ad) | N/A |
+| 47 | [입덕 캐릭터](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%ec%ba%90%eb%a6%ad%ed%84%b0) | N/A |
+| 48 | [개빠순이](http://twitter.com/search?q=%ea%b0%9c%eb%b9%a0%ec%88%9c%ec%9d%b4) | N/A |
+| 49 | [정규앨범](http://twitter.com/search?q=%ec%a0%95%ea%b7%9c%ec%95%a8%eb%b2%94) | N/A |
+| 50 | [콘서트 공지](http://twitter.com/search?q=%ec%bd%98%ec%84%9c%ed%8a%b8+%ea%b3%b5%ec%a7%80) | N/A |
 
 
 

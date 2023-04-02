@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-04-02 15:17:35 UTC`
+📆 Last Updated: `2023-04-02 16:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#KOEBMG](http://twitter.com/search?q=%23KOEBMG) | N/A |
-| 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 1 | [#KOEBMG](http://twitter.com/search?q=%23KOEBMG) | N/A |
+| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 3 | [#fcbbvb](http://twitter.com/search?q=%23fcbbvb) | N/A |
 | 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 5 | [#maskedsinger](http://twitter.com/search?q=%23maskedsinger) | N/A |
-| 6 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
+| 5 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
+| 6 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
 | 7 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 8 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
 | 9 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
-| 10 | [Jule](http://twitter.com/search?q=Jule) | N/A |
-| 11 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 12 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 13 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 14 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 15 | [kobel](http://twitter.com/search?q=kobel) | N/A |
-| 16 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
+| 10 | [Farke](http://twitter.com/search?q=Farke) | N/A |
+| 11 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
+| 12 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 13 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 14 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
+| 15 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 16 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
 | 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 18 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 19 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 20 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 21 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 19 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 20 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 21 | [Hofmann](http://twitter.com/search?q=Hofmann) | N/A |
+| 22 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 23 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 24 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 24 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 | 25 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
 | 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 27 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 28 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 29 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 28 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
+| 29 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 30 | ['Fahrrad'](http://twitter.com/search?q=%27Fahrrad%27) | N/A |
-| 31 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 32 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 33 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 34 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 35 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 36 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 37 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
-| 38 | [Zwayer](http://twitter.com/search?q=Zwayer) | N/A |
-| 39 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 40 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 41 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 42 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
-| 43 | [Rennleitung](http://twitter.com/search?q=Rennleitung) | N/A |
-| 44 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 45 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 46 | [Khama](http://twitter.com/search?q=Khama) | N/A |
-| 47 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 48 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 49 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 50 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 31 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 32 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 33 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 34 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 35 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 36 | [Wände](http://twitter.com/search?q=W%c3%a4nde) | N/A |
+| 37 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 38 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 39 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 40 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 41 | [felix zwayer](http://twitter.com/search?q=felix+zwayer) | N/A |
+| 42 | [Bauernhaus](http://twitter.com/search?q=Bauernhaus) | N/A |
+| 43 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 44 | [Dämmung](http://twitter.com/search?q=D%c3%a4mmung) | N/A |
+| 45 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 46 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 47 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
+| 48 | [Spenden](http://twitter.com/search?q=Spenden) | N/A |
+| 49 | [Khama](http://twitter.com/search?q=Khama) | N/A |
+| 50 | [Impressum](http://twitter.com/search?q=Impressum) | N/A |
 
 
 

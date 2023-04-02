@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-04-02 15:18:15 UTC`
+📆 Last Updated: `2023-04-02 16:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United States
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 2 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 | 3 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
-| 4 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 6 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 7 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 8 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 9 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 10 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
-| 11 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 13 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
-| 14 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 15 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 16 | [IKF in CF](http://twitter.com/search?q=IKF+in+CF) | N/A |
-| 17 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 18 | [Wokeness](http://twitter.com/search?q=Wokeness) | N/A |
-| 19 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 20 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
-| 21 | [Former Arkansas Gov](http://twitter.com/search?q=Former+Arkansas+Gov) | N/A |
-| 22 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 23 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 24 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 25 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 26 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 27 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 28 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
-| 29 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 30 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
-| 31 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 32 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 33 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 34 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 35 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 36 | [MATZ](http://twitter.com/search?q=MATZ) | N/A |
-| 37 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 38 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 39 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 40 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 41 | [mango butter](http://twitter.com/search?q=mango+butter) | N/A |
-| 42 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 43 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 44 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 4 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 5 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 6 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
+| 7 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 11 | [#벚꽃이_만개한_성화의_봄날](http://twitter.com/search?q=%23%eb%b2%9a%ea%bd%83%ec%9d%b4_%eb%a7%8c%ea%b0%9c%ed%95%9c_%ec%84%b1%ed%99%94%ec%9d%98_%eb%b4%84%eb%82%a0) | N/A |
+| 12 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 13 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 14 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 16 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 17 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 18 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 19 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 20 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 21 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 22 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 23 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [IKF in CF](http://twitter.com/search?q=IKF+in+CF) | N/A |
+| 26 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 27 | [Yellow Magic Orchestra](http://twitter.com/search?q=Yellow+Magic+Orchestra) | N/A |
+| 28 | [Wokeness](http://twitter.com/search?q=Wokeness) | N/A |
+| 29 | [Former Arkansas Gov](http://twitter.com/search?q=Former+Arkansas+Gov) | N/A |
+| 30 | [No Labels](http://twitter.com/search?q=No+Labels) | N/A |
+| 31 | [The Last Emperor](http://twitter.com/search?q=The+Last+Emperor) | N/A |
+| 32 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 33 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 34 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 35 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 36 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
+| 37 | [Mr. Lawrence](http://twitter.com/search?q=Mr.+Lawrence) | N/A |
+| 38 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 39 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 40 | [Jets or Bears](http://twitter.com/search?q=Jets+or+Bears) | N/A |
+| 41 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 42 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 43 | [Agassi](http://twitter.com/search?q=Agassi) | N/A |
+| 44 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
 | 45 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Sam's Vibe](http://twitter.com/search?q=Sam%27s+Vibe) | N/A |
-| 48 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 49 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 50 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 46 | [Jack Webb](http://twitter.com/search?q=Jack+Webb) | N/A |
+| 47 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 49 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 50 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
 
 
 

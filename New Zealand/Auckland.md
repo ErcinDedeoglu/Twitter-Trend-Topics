@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-02 15:18:00 UTC`
+📆 Last Updated: `2023-04-02 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,13 +45,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 28 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 29 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 33 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 34 | [winston peters](http://twitter.com/search?q=winston+peters) | N/A |
-| 35 | [Sande](http://twitter.com/search?q=Sande) | N/A |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Mike King](http://twitter.com/search?q=Mike+King) | N/A |
+| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 32 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 33 | [winston peters](http://twitter.com/search?q=winston+peters) | N/A |
+| 34 | [Sande](http://twitter.com/search?q=Sande) | N/A |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [mike king](http://twitter.com/search?q=mike+king) | N/A |
 | 38 | [kiwisaver](http://twitter.com/search?q=kiwisaver) | N/A |
 | 39 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 40 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 43 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
 | 44 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
 | 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 48 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
-| 49 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
-| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 46 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
+| 47 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
+| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 49 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 50 | [randwick](http://twitter.com/search?q=randwick) | N/A |
 
 
 
