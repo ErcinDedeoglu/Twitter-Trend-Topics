@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-02 06:19:14 UTC`
+📆 Last Updated: `2023-04-02 07:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
-| 2 | [#شعنينه_مباركه](http://twitter.com/search?q=%23%d8%b4%d8%b9%d9%86%d9%8a%d9%86%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 1 | [#شعنينه_مباركه](http://twitter.com/search?q=%23%d8%b4%d8%b9%d9%86%d9%8a%d9%86%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 2 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
 | 3 | [#احد_الشعانين](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%af_%d8%a7%d9%84%d8%b4%d8%b9%d8%a7%d9%86%d9%8a%d9%86) | N/A |
 | 4 | [#لبنان_بيتوحد_حول_التوحد](http://twitter.com/search?q=%23%d9%84%d8%a8%d9%86%d8%a7%d9%86_%d8%a8%d9%8a%d8%aa%d9%88%d8%ad%d8%af_%d8%ad%d9%88%d9%84_%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d8%af) | N/A |
 | 5 | [#اليوم_العالمي_للابتسامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d9%87) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for Lebanon
 | 18 | [نضال السبع](http://twitter.com/search?q=%d9%86%d8%b6%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
 | 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 20 | [اليوم الحادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
-| 21 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 21 | [علي بعبدا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
 | 22 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
 | 23 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 24 | [سمير جعجع](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
 | 25 | [علي القصر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d8%b1) | N/A |
-| 26 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 27 | [علي بعبدا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
-| 28 | [قصر بعبدا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
-| 29 | [العهد السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 30 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 31 | [باول نيسان](http://twitter.com/search?q=%d8%a8%d8%a7%d9%88%d9%84+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 32 | [السيده الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 33 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 34 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 35 | [جان قصير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%86+%d9%82%d8%b5%d9%8a%d8%b1) | N/A |
-| 36 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 37 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 38 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 39 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 40 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
-| 41 | [اشرف الناس](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 42 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
-| 43 | [شهر نيسان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 44 | [وليد جنبلاط](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
-| 45 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 46 | [حقوق السحب الخاصه](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 47 | [الجمعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 48 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 49 | [السيدة خديجة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9+%d8%ae%d8%af%d9%8a%d8%ac%d8%a9) | N/A |
-| 50 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 26 | [قصر بعبدا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
+| 27 | [العهد السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 28 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 29 | [باول نيسان](http://twitter.com/search?q=%d8%a8%d8%a7%d9%88%d9%84+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
+| 30 | [السيده الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 31 | [اشرف الناس](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 32 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 33 | [جان قصير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%86+%d9%82%d8%b5%d9%8a%d8%b1) | N/A |
+| 34 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 35 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 36 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 37 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 38 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
+| 39 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 40 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 41 | [شهر نيسان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
+| 42 | [وليد جنبلاط](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 43 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 44 | [حقوق السحب الخاصه](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 45 | [الجمعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 46 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 47 | [السيدة خديجة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9+%d8%ae%d8%af%d9%8a%d8%ac%d8%a9) | N/A |
+| 48 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 49 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 50 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
 
 
 

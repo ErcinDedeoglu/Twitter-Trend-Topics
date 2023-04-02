@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-02 06:19:00 UTC`
+📆 Last Updated: `2023-04-02 07:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 2 | [Civale](http://twitter.com/search?q=Civale) | N/A |
-| 3 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 1 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 2 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 3 | [Naylor](http://twitter.com/search?q=Naylor) | N/A |
 | 4 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 5 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 6 | [Naylor](http://twitter.com/search?q=Naylor) | N/A |
-| 7 | [#AllForCincy](http://twitter.com/search?q=%23AllForCincy) | N/A |
-| 8 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 10 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
-| 11 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 13 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 14 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 15 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 16 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 18 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 5 | [#AllForCincy](http://twitter.com/search?q=%23AllForCincy) | N/A |
+| 6 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
+| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 8 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 9 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 10 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 11 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 12 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 13 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 19 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 20 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 20 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 21 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 23 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 25 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 24 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 25 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
 | 26 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 27 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 29 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 31 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 32 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 33 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 34 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 35 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 36 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 37 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 38 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 39 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 40 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 41 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
-| 42 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 43 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 44 | [Dogboe](http://twitter.com/search?q=Dogboe) | N/A |
-| 45 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 46 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 47 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 48 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 49 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 50 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 27 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 30 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 31 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 32 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 33 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 34 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 35 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 36 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 37 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 38 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 39 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 41 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 42 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 43 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 44 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 45 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 46 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 47 | [Dogboe](http://twitter.com/search?q=Dogboe) | N/A |
+| 48 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 49 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 50 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
 
 
 

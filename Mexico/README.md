@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-02 06:19:14 UTC`
+📆 Last Updated: `2023-04-02 07:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 2 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 3 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 4 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 5 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
-| 6 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 7 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 9 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 10 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
-| 11 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 13 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 14 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 15 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 16 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 17 | [#NoMeRajo](http://twitter.com/search?q=%23NoMeRajo) | N/A |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [#ClasicoTapatio](http://twitter.com/search?q=%23ClasicoTapatio) | N/A |
-| 20 | [Liga MX](http://twitter.com/search?q=Liga+MX) | Liga MX is the top division of professional football in Mexico. It is also known as Liga BBVA MX, due to its sponsorship by BBVA. The league consists of 18 teams and is divided into two tournaments: Apertura (opening) and Clausura (closing). The winner of each tournament qualifies for the CONCACAF Champions League. In English, Liga MX translates to Mexican League. |
-| 21 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 22 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 23 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
-| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 27 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 28 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 29 | [Chiquete](http://twitter.com/search?q=Chiquete) | N/A |
-| 30 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 31 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 32 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 33 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
-| 34 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
-| 35 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 36 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
-| 37 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 38 | [Escándalo](http://twitter.com/search?q=Esc%c3%a1ndalo) | N/A |
-| 39 | [Briseño](http://twitter.com/search?q=Brise%c3%b1o) | N/A |
-| 40 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 41 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 42 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 43 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 44 | [Pablo Aguilar](http://twitter.com/search?q=Pablo+Aguilar) | N/A |
-| 45 | [Piojo Alvarado](http://twitter.com/search?q=Piojo+Alvarado) | N/A |
-| 46 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 47 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 48 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 49 | [Nervo](http://twitter.com/search?q=Nervo) | N/A |
-| 50 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 1 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 4 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 6 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 7 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 8 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 9 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 13 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 14 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
+| 15 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 16 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 19 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 20 | [#F1DriveroftheDay](http://twitter.com/search?q=%23F1DriveroftheDay) | N/A |
+| 21 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 22 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 23 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 24 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
+| 25 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 26 | [#NoMeRajo](http://twitter.com/search?q=%23NoMeRajo) | N/A |
+| 27 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 28 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 29 | [BANDERA ROJA](http://twitter.com/search?q=BANDERA+ROJA) | N/A |
+| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 33 | [Liga MX](http://twitter.com/search?q=Liga+MX) | Liga MX is the top division of professional football in Mexico. It is also known as Liga BBVA MX, due to its sponsorship by BBVA. The league consists of 18 teams and is divided into two tournaments: Apertura (opening) and Clausura (closing). The winner of each tournament qualifies for the CONCACAF Champions League. In English, Liga MX translates to Mexican League. |
+| 34 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 35 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 36 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 37 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 38 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 39 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 40 | [Escándalo](http://twitter.com/search?q=Esc%c3%a1ndalo) | N/A |
+| 41 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 42 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 43 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 44 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 45 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 46 | [Chiquete](http://twitter.com/search?q=Chiquete) | N/A |
+| 47 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 48 | [Fernando Ortiz](http://twitter.com/search?q=Fernando+Ortiz) | N/A |
+| 49 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
+| 50 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
 
 
 

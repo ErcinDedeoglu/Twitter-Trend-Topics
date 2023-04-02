@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-02 06:18:23 UTC`
+📆 Last Updated: `2023-04-02 07:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MalvinasArgentinas](http://twitter.com/search?q=%23MalvinasArgentinas) | N/A |
-| 2 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 3 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 4 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 5 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 6 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 7 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 11 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 13 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
-| 14 | [Día del Veterano](http://twitter.com/search?q=D%c3%ada+del+Veterano) | N/A |
-| 15 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 16 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 17 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 18 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
-| 19 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 20 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 21 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
-| 22 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 25 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [Ardoni](http://twitter.com/search?q=Ardoni) | N/A |
-| 28 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 29 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 30 | [Martin Fierro](http://twitter.com/search?q=Martin+Fierro) | N/A |
-| 31 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
-| 32 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 33 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 34 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 35 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 36 | [Cara de Paty](http://twitter.com/search?q=Cara+de+Paty) | N/A |
-| 37 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
-| 38 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 39 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 40 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 1 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 2 | [#MalvinasArgentinas](http://twitter.com/search?q=%23MalvinasArgentinas) | N/A |
+| 3 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 4 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 5 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 11 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 12 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 13 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 14 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 16 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 17 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
+| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 19 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 20 | [Día del Veterano](http://twitter.com/search?q=D%c3%ada+del+Veterano) | N/A |
+| 21 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 22 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 23 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 24 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 25 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
+| 26 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 27 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 28 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 29 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 30 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 31 | [Ardoni](http://twitter.com/search?q=Ardoni) | N/A |
+| 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 33 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 34 | [Martin Fierro](http://twitter.com/search?q=Martin+Fierro) | N/A |
+| 35 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 36 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 37 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 38 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
+| 39 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 40 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 41 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 42 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
+| 42 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
 | 43 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 44 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 45 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 46 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 47 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 48 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 49 | [Monzón](http://twitter.com/search?q=Monz%c3%b3n) | N/A |
+| 44 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 45 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 46 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 47 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 48 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 49 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-02 06:19:11 UTC`
+📆 Last Updated: `2023-04-02 07:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 2 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 4 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 6 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 9 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 10 | [Villeneuve](http://twitter.com/search?q=Villeneuve) | N/A |
-| 11 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 13 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 14 | [#SRFCRCL](http://twitter.com/search?q=%23SRFCRCL) | N/A |
-| 15 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 16 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 17 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 18 | [#radiodeter](http://twitter.com/search?q=%23radiodeter) | N/A |
-| 19 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
-| 20 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 21 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 22 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
-| 23 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 26 | [6h45](http://twitter.com/search?q=6h45) | N/A |
-| 27 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Le GP](http://twitter.com/search?q=Le+GP) | N/A |
-| 30 | [Merco](http://twitter.com/search?q=Merco) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 33 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 34 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 35 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 37 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 40 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 41 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 42 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 43 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
-| 44 | [Gazo](http://twitter.com/search?q=Gazo) | N/A |
-| 45 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 46 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 47 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 48 | [Nissany](http://twitter.com/search?q=Nissany) | N/A |
-| 49 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 50 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 3 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 4 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 5 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 6 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 7 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 15 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 17 | [Villeneuve](http://twitter.com/search?q=Villeneuve) | N/A |
+| 18 | [#SRFCRCL](http://twitter.com/search?q=%23SRFCRCL) | N/A |
+| 19 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
+| 20 | [DRAPEAU ROUGE](http://twitter.com/search?q=DRAPEAU+ROUGE) | N/A |
+| 21 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 22 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 23 | [#radiodeter](http://twitter.com/search?q=%23radiodeter) | N/A |
+| 24 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 25 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 26 | [1er Avril](http://twitter.com/search?q=1er+Avril) | N/A |
+| 27 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 28 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
+| 29 | [Ce GP](http://twitter.com/search?q=Ce+GP) | N/A |
+| 30 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 31 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 32 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 34 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 35 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 36 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 37 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 40 | [Le GP](http://twitter.com/search?q=Le+GP) | N/A |
+| 41 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 42 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 43 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 44 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 45 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 46 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 47 | [Abu Dhabi 2021](http://twitter.com/search?q=Abu+Dhabi+2021) | N/A |
+| 48 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 49 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
+| 50 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
 
 
 

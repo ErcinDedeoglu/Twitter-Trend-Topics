@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-02 06:18:56 UTC`
+📆 Last Updated: `2023-04-02 07:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SunilGroverInUK](http://twitter.com/search?q=%23SunilGroverInUK) | N/A |
-| 2 | [#True_Allah_Kabir](http://twitter.com/search?q=%23True_Allah_Kabir) | N/A |
-| 3 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
-| 4 | [#BJPGuj_CPR_Abhiyan](http://twitter.com/search?q=%23BJPGuj_CPR_Abhiyan) | N/A |
-| 5 | [Lifetime Imprisonment](http://twitter.com/search?q=Lifetime+Imprisonment) | N/A |
-| 6 | [No Sterling Witness](http://twitter.com/search?q=No+Sterling+Witness) | N/A |
-| 7 | [Ahmedabad Aur Jodhpur](http://twitter.com/search?q=Ahmedabad+Aur+Jodhpur) | N/A |
-| 8 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 9 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 11 | [Justice 4SSR Non Negotiable](http://twitter.com/search?q=Justice+4SSR+Non+Negotiable) | N/A |
-| 12 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 14 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 16 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
-| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [Varun Dhawan](http://twitter.com/search?q=Varun+Dhawan) | N/A |
-| 19 | [Aeronautical Test Range](http://twitter.com/search?q=Aeronautical+Test+Range) | N/A |
-| 20 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Quran Sharif](http://twitter.com/search?q=Quran+Sharif) | N/A |
-| 24 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 26 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 27 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 28 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 29 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 30 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 31 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 32 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 33 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
-| 34 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 35 | [Prophet Muhammad's God](http://twitter.com/search?q=Prophet+Muhammad%27s+God) | N/A |
-| 36 | [Yuvi](http://twitter.com/search?q=Yuvi) | N/A |
-| 37 | [Hazrat Muhammad](http://twitter.com/search?q=Hazrat+Muhammad) | N/A |
-| 38 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 39 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 40 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 41 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 42 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 43 | [पवित्र पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [2nd April](http://twitter.com/search?q=2nd+April) | N/A |
-| 46 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 47 | [God Kabir](http://twitter.com/search?q=God+Kabir) | N/A |
-| 48 | [बिहार शरीफ](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b6%e0%a4%b0%e0%a5%80%e0%a4%ab) | N/A |
+| 1 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
+| 2 | [#Kavin](http://twitter.com/search?q=%23Kavin) | N/A |
+| 3 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 4 | [#BachpanKaYaarMario](http://twitter.com/search?q=%23BachpanKaYaarMario) | N/A |
+| 5 | [#SunilGroverInUK](http://twitter.com/search?q=%23SunilGroverInUK) | N/A |
+| 6 | [#DeepakChaurasiaKe30Saal](http://twitter.com/search?q=%23DeepakChaurasiaKe30Saal) | N/A |
+| 7 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
+| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 9 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 10 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Justice 4SSR Non Negotiable](http://twitter.com/search?q=Justice+4SSR+Non+Negotiable) | N/A |
+| 13 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 14 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 15 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 18 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 20 | [Lifetime Imprisonment](http://twitter.com/search?q=Lifetime+Imprisonment) | N/A |
+| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 22 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
+| 23 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 24 | [No Sterling Witness](http://twitter.com/search?q=No+Sterling+Witness) | N/A |
+| 25 | [Ahmedabad Aur Jodhpur](http://twitter.com/search?q=Ahmedabad+Aur+Jodhpur) | N/A |
+| 26 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 27 | [Stop Targeting Hindus](http://twitter.com/search?q=Stop+Targeting+Hindus) | N/A |
+| 28 | [Aeronautical Test Range](http://twitter.com/search?q=Aeronautical+Test+Range) | N/A |
+| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 30 | [Quran Sharif](http://twitter.com/search?q=Quran+Sharif) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [Supari](http://twitter.com/search?q=Supari) | N/A |
+| 33 | [Yuvi](http://twitter.com/search?q=Yuvi) | N/A |
+| 34 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 35 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 36 | [कादर अल्लाह](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a6%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 37 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 38 | [Sehwag](http://twitter.com/search?q=Sehwag) | N/A |
+| 39 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 40 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 41 | [Hazrat Muhammad](http://twitter.com/search?q=Hazrat+Muhammad) | N/A |
+| 42 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 43 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 44 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 45 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
+| 46 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 47 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 48 | [2nd April](http://twitter.com/search?q=2nd+April) | N/A |
+| 49 | [#WorldCup2011](http://twitter.com/search?q=%23WorldCup2011) | N/A |
+| 50 | [#BJPGuj_CPR_Abhiyan](http://twitter.com/search?q=%23BJPGuj_CPR_Abhiyan) | N/A |
 
 
 

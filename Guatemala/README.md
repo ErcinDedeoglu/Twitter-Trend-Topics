@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-02 06:19:12 UTC`
+📆 Last Updated: `2023-04-02 07:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 2 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 5 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 6 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
-| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 8 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 10 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 11 | [Xelajú](http://twitter.com/search?q=Xelaj%c3%ba) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
-| 14 | [Contreras](http://twitter.com/search?q=Contreras) | N/A |
-| 15 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
-| 16 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 17 | [#VisitaTaiwánGT](http://twitter.com/search?q=%23VisitaTaiw%c3%a1nGT) | N/A |
-| 18 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
-| 19 | [Ixil](http://twitter.com/search?q=Ixil) | N/A |
-| 20 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
-| 21 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
-| 22 | [Tsai Ing-wen](http://twitter.com/search?q=Tsai+Ing-wen) | N/A |
-| 23 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [antigua gfc](http://twitter.com/search?q=antigua+gfc) | N/A |
-| 26 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 29 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 30 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
-| 31 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
+| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 2 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 5 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 6 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 7 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
+| 11 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 12 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 13 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 14 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 17 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
+| 18 | [Contreras](http://twitter.com/search?q=Contreras) | N/A |
+| 19 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
+| 20 | [#VisitaTaiwánGT](http://twitter.com/search?q=%23VisitaTaiw%c3%a1nGT) | N/A |
+| 21 | [Ixil](http://twitter.com/search?q=Ixil) | N/A |
+| 22 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
+| 23 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
+| 24 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
+| 25 | [Tsai Ing-wen](http://twitter.com/search?q=Tsai+Ing-wen) | N/A |
+| 26 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
+| 27 | [Xelajú](http://twitter.com/search?q=Xelaj%c3%ba) | N/A |
+| 28 | [antigua gfc](http://twitter.com/search?q=antigua+gfc) | N/A |
+| 29 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 33 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 33 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
+| 34 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
+| 35 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
 | 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 37 | [república de china](http://twitter.com/search?q=rep%c3%bablica+de+china) | N/A |
 | 38 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
 | 39 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
 | 40 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
 | 41 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 43 | [excelentísima sra](http://twitter.com/search?q=excelent%c3%adsima+sra) | N/A |
+| 42 | [excelentísima sra](http://twitter.com/search?q=excelent%c3%adsima+sra) | N/A |
+| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 44 | [GENOCIDA](http://twitter.com/search?q=GENOCIDA) | N/A |
 | 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
+| 46 | [virginia laparra](http://twitter.com/search?q=virginia+laparra) | N/A |
 | 47 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
 | 48 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
 | 49 | [jorge garcía silva](http://twitter.com/search?q=jorge+garc%c3%ada+silva) | N/A |

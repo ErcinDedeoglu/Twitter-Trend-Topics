@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-02 06:18:24 UTC`
+📆 Last Updated: `2023-04-02 07:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
 | 2 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
-| 3 | [Russella](http://twitter.com/search?q=Russella) | N/A |
-| 4 | [#legrcz](http://twitter.com/search?q=%23legrcz) | N/A |
-| 5 | [Albona](http://twitter.com/search?q=Albona) | N/A |
-| 6 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
+| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 5 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 6 | [Russella](http://twitter.com/search?q=Russella) | N/A |
 | 7 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 9 | [Hamiltona](http://twitter.com/search?q=Hamiltona) | N/A |
-| 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
-| 13 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 14 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 15 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 19 | [Mercedesa](http://twitter.com/search?q=Mercedesa) | N/A |
-| 20 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 21 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
-| 22 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 23 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 24 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 25 | [papszuna](http://twitter.com/search?q=papszuna) | N/A |
-| 26 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 27 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 28 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 29 | [planicy](http://twitter.com/search?q=planicy) | N/A |
-| 30 | [kupi](http://twitter.com/search?q=kupi) | N/A |
-| 31 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 32 | [rosomaki](http://twitter.com/search?q=rosomaki) | N/A |
-| 33 | [śniadek](http://twitter.com/search?q=%c5%9bniadek) | N/A |
-| 34 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 35 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
-| 36 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
-| 37 | [miedzi](http://twitter.com/search?q=miedzi) | N/A |
-| 38 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 39 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 40 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 41 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
-| 42 | [Tour de France](http://twitter.com/search?q=Tour+de+France) | N/A |
-| 43 | [dziś 1](http://twitter.com/search?q=dzi%c5%9b+1) | N/A |
-| 44 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 45 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 46 | [wyrzykowski](http://twitter.com/search?q=wyrzykowski) | N/A |
-| 47 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 48 | [LIGI NARODOWEJ](http://twitter.com/search?q=LIGI+NARODOWEJ) | N/A |
-| 49 | [Radzie Bezpieczeństwa ONZ](http://twitter.com/search?q=Radzie+Bezpiecze%c5%84stwa+ONZ) | N/A |
-| 50 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 11 | [Niedziela Palmowa](http://twitter.com/search?q=Niedziela+Palmowa) | N/A |
+| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 13 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 16 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 17 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 18 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 21 | [Albona](http://twitter.com/search?q=Albona) | N/A |
+| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 23 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 24 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 25 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
+| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 27 | [Mercedesa](http://twitter.com/search?q=Mercedesa) | N/A |
+| 28 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 29 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
+| 30 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 31 | [Leclerca](http://twitter.com/search?q=Leclerca) | N/A |
+| 32 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 33 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 34 | [papszuna](http://twitter.com/search?q=papszuna) | N/A |
+| 35 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 36 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 37 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 38 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 39 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
+| 40 | [dobrego](http://twitter.com/search?q=dobrego) | N/A |
+| 41 | [Rosomaki](http://twitter.com/search?q=Rosomaki) | N/A |
+| 42 | [śniadek](http://twitter.com/search?q=%c5%9bniadek) | N/A |
+| 43 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 44 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
+| 45 | [Jezus Chrystus](http://twitter.com/search?q=Jezus+Chrystus) | N/A |
+| 46 | [miedzi](http://twitter.com/search?q=miedzi) | N/A |
+| 47 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 48 | [Ojca](http://twitter.com/search?q=Ojca) | N/A |
+| 49 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 50 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
 
 
 
