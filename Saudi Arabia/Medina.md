@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-04-02 19:17:28 UTC`
+📆 Last Updated: `2023-04-02 20:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#فوازير_غازي_الذيابي6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a6) | N/A |
-| 2 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 3 | [#سوال_ابوفهد_اليومي5](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a5) | N/A |
+| 2 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 3 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
 | 4 | [#هدايا_العبداللطيف_الرمضانيه](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 5 | [#هدايا_MobilyPay](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_MobilyPay) | N/A |
-| 6 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 7 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 8 | [#الروشن11](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8611) | N/A |
-| 9 | [قول لياو](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%84%d9%8a%d8%a7%d9%88) | N/A |
-| 10 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 11 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 12 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
-| 13 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 14 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
-| 15 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 16 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
-| 17 | [ويلسون](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
-| 18 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 19 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 20 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 21 | [الليل المظلم](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%85) | N/A |
-| 22 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 23 | [انتوني](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a) | انتوني is an Arabic word that means "you" or "yours". It is used as a term of endearment or affection. |
-| 24 | [حبيب الحبيب](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 25 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 26 | [فينالدوم](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d8%a7%d9%84%d8%af%d9%88%d9%85) | N/A |
-| 27 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
-| 28 | [فاران](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%a7%d9%86) | N/A |
-| 29 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 30 | [ماتيتش](http://twitter.com/search?q=%d9%85%d8%a7%d8%aa%d9%8a%d8%aa%d8%b4) | N/A |
-| 31 | [بلد الوليد](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 32 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 33 | [رؤوف خليف](http://twitter.com/search?q=%d8%b1%d8%a4%d9%88%d9%81+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
-| 34 | [سامبدوريا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%a8%d8%af%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 35 | [ديبالا](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%84%d8%a7) | N/A |
-| 36 | [جيمس بارك](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 37 | [ماي لايف](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a+%d9%84%d8%a7%d9%8a%d9%81) | N/A |
-| 38 | [عبدالله الزميلي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b2%d9%85%d9%8a%d9%84%d9%8a) | N/A |
-| 39 | [غراهام بوتر](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
-| 40 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
-| 41 | [١١ رمضان](http://twitter.com/search?q=%d9%a1%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 42 | [الايتين الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 43 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 44 | [11 رمضان](http://twitter.com/search?q=11+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 45 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 46 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 47 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 48 | [اليوم الحادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
-| 49 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 50 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 5 | [#ام_القرني_تنخاكم1](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%851) | N/A |
+| 6 | [#سوال_ابوفهد_اليومي5](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a5) | N/A |
+| 7 | [#ام_بطي_تنخاكم2](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%a8%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%852) | N/A |
+| 8 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 9 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 10 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 11 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 12 | [لياو الثالث](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%88+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 13 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 14 | [الليل المظلم](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%85) | N/A |
+| 15 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 16 | [قول لياو](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%84%d9%8a%d8%a7%d9%88) | N/A |
+| 17 | [غراهام بوتر](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
+| 18 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 19 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 20 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
+| 21 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
+| 22 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
+| 23 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 24 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 25 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 26 | [البيق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d9%82) | N/A |
+| 27 | [ويلسون](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
+| 28 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 29 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
+| 30 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 31 | [كبير ايطاليا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 32 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 33 | [انتوني](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a) | انتوني is an Arabic word that means "you" or "yours". It is used as a term of endearment or affection. |
+| 34 | [فاران](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%a7%d9%86) | N/A |
+| 35 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
+| 36 | [الكالتشيو](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%88) | N/A |
+| 37 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 38 | [فينالدوم](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d8%a7%d9%84%d8%af%d9%88%d9%85) | N/A |
+| 39 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
+| 40 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 41 | [ماتيتش](http://twitter.com/search?q=%d9%85%d8%a7%d8%aa%d9%8a%d8%aa%d8%b4) | N/A |
+| 42 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 43 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 44 | [حبيب الحبيب](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 45 | [جيمس بارك](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 46 | [سامبدوريا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%a8%d8%af%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 47 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 48 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
+| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 50 | [الايتين الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
 
 
 

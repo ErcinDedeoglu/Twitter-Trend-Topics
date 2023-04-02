@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-04-02 19:17:09 UTC`
+📆 Last Updated: `2023-04-02 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SB29TFC](http://twitter.com/search?q=%23SB29TFC) | N/A |
-| 2 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 2 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 3 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
-| 4 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 5 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 6 | [#LGBTQIAgoodvibes](http://twitter.com/search?q=%23LGBTQIAgoodvibes) | N/A |
-| 7 | [#circo0901](http://twitter.com/search?q=%23circo0901) | N/A |
-| 8 | [Bénédicte Taurine](http://twitter.com/search?q=B%c3%a9n%c3%a9dicte+Taurine) | N/A |
-| 9 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 10 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 11 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
-| 12 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 14 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
-| 15 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Olivier Faure](http://twitter.com/search?q=Olivier+Faure) | N/A |
-| 18 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 19 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 20 | [Élue](http://twitter.com/search?q=%c3%89lue) | N/A |
-| 21 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 22 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 23 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 24 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 25 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 26 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 27 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 28 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 29 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 30 | [Saint-Pétersbourg](http://twitter.com/search?q=Saint-P%c3%a9tersbourg) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 33 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 34 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
-| 35 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
-| 36 | [Daniil](http://twitter.com/search?q=Daniil) | N/A |
-| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 39 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 40 | [Socialiste](http://twitter.com/search?q=Socialiste) | N/A |
-| 41 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 42 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 43 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 44 | [Maripan](http://twitter.com/search?q=Maripan) | N/A |
-| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 46 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 47 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 48 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 50 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 4 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 5 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 6 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 7 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 8 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
+| 9 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 10 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 11 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 12 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 13 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 14 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 15 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [#LGBTQIAgoodvibes](http://twitter.com/search?q=%23LGBTQIAgoodvibes) | N/A |
+| 18 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 20 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 21 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [#capital](http://twitter.com/search?q=%23capital) | N/A |
+| 24 | [Bénédicte Taurine](http://twitter.com/search?q=B%c3%a9n%c3%a9dicte+Taurine) | N/A |
+| 25 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
+| 26 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
+| 27 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 28 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 29 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 30 | [#circo0901](http://twitter.com/search?q=%23circo0901) | N/A |
+| 31 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 32 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 33 | [Élue](http://twitter.com/search?q=%c3%89lue) | N/A |
+| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 35 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 36 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 37 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 38 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 39 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 40 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 41 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 42 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 43 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
+| 44 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 45 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 47 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 48 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 49 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 50 | [Lyonnais](http://twitter.com/search?q=Lyonnais) | N/A |
 
 
 

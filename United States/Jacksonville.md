@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-02 19:17:41 UTC`
+📆 Last Updated: `2023-04-02 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 2 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 3 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 5 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 6 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 7 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 8 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 9 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 10 | [#INDYCAR](http://twitter.com/search?q=%23INDYCAR) | N/A |
-| 11 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
-| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 13 | [#PPG375](http://twitter.com/search?q=%23PPG375) | N/A |
-| 14 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 15 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 17 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 18 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 19 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 20 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
-| 21 | [Jeffrey Springs](http://twitter.com/search?q=Jeffrey+Springs) | N/A |
-| 22 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 23 | [Houck](http://twitter.com/search?q=Houck) | N/A |
-| 24 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
-| 25 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 26 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 27 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 28 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
-| 29 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 30 | [President Nelson](http://twitter.com/search?q=President+Nelson) | N/A |
-| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 32 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 33 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 34 | [McEnroe](http://twitter.com/search?q=McEnroe) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [Nolan Gorman](http://twitter.com/search?q=Nolan+Gorman) | N/A |
-| 37 | [Chris Bassitt](http://twitter.com/search?q=Chris+Bassitt) | N/A |
-| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 39 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 40 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 41 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 42 | [MacKenzie Gore](http://twitter.com/search?q=MacKenzie+Gore) | N/A |
-| 43 | [Agassi](http://twitter.com/search?q=Agassi) | N/A |
-| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 45 | [Grosjean](http://twitter.com/search?q=Grosjean) | N/A |
-| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 47 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 48 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 49 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 50 | [Higgy](http://twitter.com/search?q=Higgy) | N/A |
+| 1 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 2 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 3 | [#LIVGolf](http://twitter.com/search?q=%23LIVGolf) | N/A |
+| 4 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 5 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 6 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 7 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
+| 8 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 11 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 14 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 15 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 16 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 17 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 18 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 22 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 23 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 24 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 25 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
+| 26 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 27 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 28 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
+| 29 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 30 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 31 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 32 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 33 | [Nolan Gorman](http://twitter.com/search?q=Nolan+Gorman) | N/A |
+| 34 | [Hamlin](http://twitter.com/search?q=Hamlin) | Hamlin is a surname of English origin. It is derived from the Old English words "ham" and "linn," meaning "homestead by the pool." |
+| 35 | [Jeffrey Springs](http://twitter.com/search?q=Jeffrey+Springs) | N/A |
+| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 37 | [Yeley](http://twitter.com/search?q=Yeley) | N/A |
+| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 39 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 40 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 43 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 44 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 45 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
+| 46 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
+| 47 | [MacKenzie Gore](http://twitter.com/search?q=MacKenzie+Gore) | N/A |
+| 48 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 49 | [Chris Bassitt](http://twitter.com/search?q=Chris+Bassitt) | N/A |
+| 50 | [Adam Duvall](http://twitter.com/search?q=Adam+Duvall) | N/A |
 
 
 
