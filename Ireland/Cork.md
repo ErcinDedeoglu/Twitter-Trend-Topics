@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-02 13:17:31 UTC`
+📆 Last Updated: `2023-04-02 14:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
 | 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 3 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 6 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
-| 7 | [Eoin](http://twitter.com/search?q=Eoin) | N/A |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 11 | [Jack Grealish](http://twitter.com/search?q=Jack+Grealish) | N/A |
-| 12 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 13 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 15 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
-| 16 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 17 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Tipperary](http://twitter.com/search?q=Tipperary) | N/A |
-| 20 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 21 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 22 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 23 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 24 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 25 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 26 | [Neale](http://twitter.com/search?q=Neale) | N/A |
-| 27 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 28 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 30 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 31 | [ross byrne](http://twitter.com/search?q=ross+byrne) | N/A |
-| 32 | [Evictions](http://twitter.com/search?q=Evictions) | N/A |
-| 33 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 35 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 36 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 37 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
-| 38 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 39 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 42 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 43 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 44 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 45 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 46 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 48 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 49 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 4 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 7 | [#shavmun](http://twitter.com/search?q=%23shavmun) | N/A |
+| 8 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
+| 9 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 10 | [Eoin](http://twitter.com/search?q=Eoin) | N/A |
+| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [10mins 1st Half](http://twitter.com/search?q=10mins+1st+Half) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 16 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 17 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 18 | [Kildare](http://twitter.com/search?q=Kildare) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 21 | [Tipperary](http://twitter.com/search?q=Tipperary) | N/A |
+| 22 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 24 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 25 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 27 | [ayling](http://twitter.com/search?q=ayling) | N/A |
+| 28 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
+| 29 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 30 | [Gavan](http://twitter.com/search?q=Gavan) | N/A |
+| 31 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 32 | [Neale](http://twitter.com/search?q=Neale) | N/A |
+| 33 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 34 | [Evictions](http://twitter.com/search?q=Evictions) | N/A |
+| 35 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 36 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 37 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 38 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 39 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 40 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 42 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 43 | [Offaly](http://twitter.com/search?q=Offaly) | N/A |
+| 44 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 45 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 47 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 48 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 49 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-04-02 13:17:39 UTC`
+📆 Last Updated: `2023-04-02 14:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Australia](</Australia>)
 | 5 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
 | 6 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
 | 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 8 | [#AFLSunsCats](http://twitter.com/search?q=%23AFLSunsCats) | N/A |
-| 9 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 8 | [#AFLFreoEagles](http://twitter.com/search?q=%23AFLFreoEagles) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 11 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 12 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 13 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 14 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 15 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 16 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
+| 13 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 14 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 15 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
+| 16 | [Burton](http://twitter.com/search?q=Burton) | N/A |
 | 17 | [Spud](http://twitter.com/search?q=Spud) | N/A |
-| 18 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 19 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 20 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
-| 21 | [Phil Coorey](http://twitter.com/search?q=Phil+Coorey) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 24 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 25 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 26 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Liz Ellis](http://twitter.com/search?q=Liz+Ellis) | N/A |
-| 29 | [shaun johnson](http://twitter.com/search?q=shaun+johnson) | N/A |
-| 30 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 31 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 32 | [Dicko](http://twitter.com/search?q=Dicko) | N/A |
-| 33 | [tony barry](http://twitter.com/search?q=tony+barry) | N/A |
-| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 35 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 36 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 37 | [menzies](http://twitter.com/search?q=menzies) | N/A |
-| 38 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
-| 39 | [Nikki Savva](http://twitter.com/search?q=Nikki+Savva) | N/A |
-| 40 | [Roshena](http://twitter.com/search?q=Roshena) | N/A |
-| 41 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 42 | [Shuey](http://twitter.com/search?q=Shuey) | N/A |
-| 43 | [george russell](http://twitter.com/search?q=george+russell) | N/A |
-| 44 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 18 | [Phil Coorey](http://twitter.com/search?q=Phil+Coorey) | N/A |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 21 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 22 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 23 | [shaun johnson](http://twitter.com/search?q=shaun+johnson) | N/A |
+| 24 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 25 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 26 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 27 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 28 | [Dicko](http://twitter.com/search?q=Dicko) | N/A |
+| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 30 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 31 | [tony barry](http://twitter.com/search?q=tony+barry) | N/A |
+| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 33 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 34 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 35 | [Nikki Savva](http://twitter.com/search?q=Nikki+Savva) | N/A |
+| 36 | [Roshena](http://twitter.com/search?q=Roshena) | N/A |
+| 37 | [Shuey](http://twitter.com/search?q=Shuey) | N/A |
+| 38 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 39 | [Menzies](http://twitter.com/search?q=Menzies) | N/A |
+| 40 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 43 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 44 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 45 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 46 | [Voss](http://twitter.com/search?q=Voss) | N/A |
 | 47 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 48 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 49 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 50 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 48 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 49 | [heppell](http://twitter.com/search?q=heppell) | N/A |
+| 50 | [Logue](http://twitter.com/search?q=Logue) | N/A |
 
 
 

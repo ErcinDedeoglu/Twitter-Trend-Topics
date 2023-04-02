@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-04-02 13:18:01 UTC`
+📆 Last Updated: `2023-04-02 14:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
 | 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 4 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 5 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 6 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 7 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 8 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
-| 11 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
-| 12 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 13 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 14 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
-| 15 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 16 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 17 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 18 | [King of Israel](http://twitter.com/search?q=King+of+Israel) | N/A |
+| 5 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
+| 6 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 7 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 8 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 9 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 11 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 12 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
+| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 14 | [Dick Morris](http://twitter.com/search?q=Dick+Morris) | N/A |
+| 15 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
+| 16 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 17 | [Former Arkansas Gov](http://twitter.com/search?q=Former+Arkansas+Gov) | N/A |
+| 18 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
 | 19 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 20 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 21 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 22 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 23 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 24 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 25 | [best match](http://twitter.com/search?q=best+match) | N/A |
-| 26 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 27 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
-| 28 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 29 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 30 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 31 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 32 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 33 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 34 | [Miller Lite](http://twitter.com/search?q=Miller+Lite) | N/A |
-| 35 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 36 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 37 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 38 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 39 | [Marvin Gaye](http://twitter.com/search?q=Marvin+Gaye) | N/A |
-| 40 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 41 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 42 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 43 | [Made in China](http://twitter.com/search?q=Made+in+China) | N/A |
-| 44 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 45 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 46 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
-| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 49 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 20 | [Blessed is He](http://twitter.com/search?q=Blessed+is+He) | N/A |
+| 21 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 22 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 23 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 24 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 25 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 26 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 27 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 28 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
+| 29 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 30 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 31 | [King of Israel](http://twitter.com/search?q=King+of+Israel) | N/A |
+| 32 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 33 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 34 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 35 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 36 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 37 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
+| 38 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
+| 39 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 40 | [Bud Lite](http://twitter.com/search?q=Bud+Lite) | N/A |
+| 41 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 42 | [Miller Lite](http://twitter.com/search?q=Miller+Lite) | N/A |
+| 43 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 44 | [Marvin Gaye](http://twitter.com/search?q=Marvin+Gaye) | N/A |
+| 45 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 46 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 47 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 49 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-02 13:17:58 UTC`
+📆 Last Updated: `2023-04-02 14:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 5 | [#nzvsl](http://twitter.com/search?q=%23nzvsl) | N/A |
 | 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 7 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 8 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 33 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 34 | [Winston Peters](http://twitter.com/search?q=Winston+Peters) | N/A |
+| 34 | [winston peters](http://twitter.com/search?q=winston+peters) | N/A |
 | 35 | [sande](http://twitter.com/search?q=sande) | N/A |
 | 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 | 38 | [mike king](http://twitter.com/search?q=mike+king) | N/A |
 | 39 | [kiwisaver](http://twitter.com/search?q=kiwisaver) | N/A |
-| 40 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 41 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 42 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 40 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 41 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 42 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 43 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 | 44 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
 | 45 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
 | 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 48 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
-| 49 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
-| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 49 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
+| 50 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
 
 
 

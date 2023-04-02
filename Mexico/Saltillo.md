@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-02 13:17:25 UTC`
+📆 Last Updated: `2023-04-02 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
-| 2 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 4 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 6 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
 | 7 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 9 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 8 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 10 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 11 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
 | 12 | [Tano](http://twitter.com/search?q=Tano) | N/A |
 | 13 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 14 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
-| 15 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 19 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 19 | [Russell](http://twitter.com/search?q=Russell) | N/A |
 | 20 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
-| 21 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 22 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 23 | [Maru](http://twitter.com/search?q=Maru) | N/A |
-| 24 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 25 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 26 | [safety car](http://twitter.com/search?q=safety+car) | N/A |
-| 27 | [CISNEROS](http://twitter.com/search?q=CISNEROS) | N/A |
-| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 21 | [Telcel](http://twitter.com/search?q=Telcel) | N/A |
+| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 23 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 24 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 25 | [Maru](http://twitter.com/search?q=Maru) | N/A |
+| 26 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 27 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 28 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
 | 29 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 31 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 32 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
-| 33 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 34 | [death by a thousand cuts](http://twitter.com/search?q=death+by+a+thousand+cuts) | N/A |
-| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 36 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 37 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 38 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 39 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 40 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 42 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 43 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 31 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
+| 32 | [death by a thousand cuts](http://twitter.com/search?q=death+by+a+thousand+cuts) | N/A |
+| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 35 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 36 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 37 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 38 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 39 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 40 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 41 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 42 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 43 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
 | 44 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
 | 45 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 46 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 47 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 48 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 47 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 48 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
 
 
 

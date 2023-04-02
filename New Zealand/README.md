@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-02 13:18:12 UTC`
+📆 Last Updated: `2023-04-02 14:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for New Zealand
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 5 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
+| 5 | [#nzvsl](http://twitter.com/search?q=%23nzvsl) | N/A |
 | 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 7 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 8 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for New Zealand
 | 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 21 | [Damien](http://twitter.com/search?q=Damien) | N/A |
 | 22 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 23 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 23 | [liz gunn](http://twitter.com/search?q=liz+gunn) | N/A |
 | 24 | [Jack Tame](http://twitter.com/search?q=Jack+Tame) | N/A |
 | 25 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 26 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for New Zealand
 | 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 | 38 | [mike king](http://twitter.com/search?q=mike+king) | N/A |
 | 39 | [kiwisaver](http://twitter.com/search?q=kiwisaver) | N/A |
-| 40 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 41 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 42 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 40 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 41 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 42 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 43 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 | 44 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
 | 45 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
 | 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 48 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
-| 49 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
-| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 49 | [Nasty](http://twitter.com/search?q=Nasty) | N/A |
+| 50 | [Trans Day of Visibility](http://twitter.com/search?q=Trans+Day+of+Visibility) | N/A |
 
 
 

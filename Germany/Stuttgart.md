@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-02 13:17:34 UTC`
+📆 Last Updated: `2023-04-02 14:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 3 | [#fcbbvb](http://twitter.com/search?q=%23fcbbvb) | N/A |
+| 4 | [#KOEBMG](http://twitter.com/search?q=%23KOEBMG) | N/A |
 | 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 7 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 7 | [#maskedsinger](http://twitter.com/search?q=%23maskedsinger) | N/A |
+| 8 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
 | 9 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 10 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 11 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
+| 10 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
+| 11 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
 | 12 | [Jule](http://twitter.com/search?q=Jule) | N/A |
 | 13 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 14 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 17 | [Khama](http://twitter.com/search?q=Khama) | N/A |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 19 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 20 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 15 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 17 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 18 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 20 | [zwangsgebühren](http://twitter.com/search?q=zwangsgeb%c3%bchren) | N/A |
 | 21 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
 | 22 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
 | 23 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
-| 24 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 25 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 26 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 27 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
-| 28 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 29 | [Gerland](http://twitter.com/search?q=Gerland) | N/A |
-| 30 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
-| 31 | ['Fahrrad'](http://twitter.com/search?q=%27Fahrrad%27) | N/A |
+| 24 | [Felix Zwayer](http://twitter.com/search?q=Felix+Zwayer) | N/A |
+| 25 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 27 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 28 | [Khama](http://twitter.com/search?q=Khama) | N/A |
+| 29 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 30 | ['Fahrrad'](http://twitter.com/search?q=%27Fahrrad%27) | N/A |
+| 31 | [Gerland](http://twitter.com/search?q=Gerland) | N/A |
 | 32 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 33 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 35 | [Weidenfeller](http://twitter.com/search?q=Weidenfeller) | N/A |
-| 36 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 37 | [Rennleitung](http://twitter.com/search?q=Rennleitung) | N/A |
-| 38 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 39 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 40 | [Kind zur Welt](http://twitter.com/search?q=Kind+zur+Welt) | N/A |
-| 41 | [schloss](http://twitter.com/search?q=schloss) | N/A |
-| 42 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 43 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 44 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 45 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 46 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 47 | [Spielraum](http://twitter.com/search?q=Spielraum) | N/A |
-| 48 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 49 | [Aktion Mensch](http://twitter.com/search?q=Aktion+Mensch) | N/A |
-| 50 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
+| 33 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 34 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 37 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 38 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 39 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 40 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 41 | [Rennleitung](http://twitter.com/search?q=Rennleitung) | N/A |
+| 42 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 43 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 44 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 45 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 46 | [Kind zur Welt](http://twitter.com/search?q=Kind+zur+Welt) | N/A |
+| 47 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 48 | [Geld für Kinder](http://twitter.com/search?q=Geld+f%c3%bcr+Kinder) | N/A |
+| 49 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 50 | [Lebensformen](http://twitter.com/search?q=Lebensformen) | N/A |
 
 
 

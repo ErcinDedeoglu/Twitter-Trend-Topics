@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-04-02 13:17:30 UTC`
+📆 Last Updated: `2023-04-02 14:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
 | 6 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 7 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 8 | [Queseras del Medio](http://twitter.com/search?q=Queseras+del+Medio) | N/A |
+| 8 | [Mesías](http://twitter.com/search?q=Mes%c3%adas) | N/A |
 | 9 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 10 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 11 | [José Antonio Páez](http://twitter.com/search?q=Jos%c3%a9+Antonio+P%c3%a1ez) | N/A |
-| 12 | [#felizsabado](http://twitter.com/search?q=%23felizsabado) | N/A |
-| 13 | [alfredo chirinos](http://twitter.com/search?q=alfredo+chirinos) | N/A |
-| 14 | [#máximaconcienciapopular](http://twitter.com/search?q=%23m%c3%a1ximaconcienciapopular) | N/A |
-| 15 | [Olvany Gaspari](http://twitter.com/search?q=Olvany+Gaspari) | N/A |
-| 16 | [Mesías](http://twitter.com/search?q=Mes%c3%adas) | N/A |
-| 17 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
-| 18 | [Mage](http://twitter.com/search?q=Mage) | N/A |
-| 19 | [El 2](http://twitter.com/search?q=El+2) | N/A |
-| 20 | [Macu](http://twitter.com/search?q=Macu) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 24 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 26 | [día mundial de la educación](http://twitter.com/search?q=d%c3%ada+mundial+de+la+educaci%c3%b3n) | N/A |
-| 27 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
-| 28 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 29 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 30 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 32 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 35 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
-| 36 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 37 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 10 | [#felizsabado](http://twitter.com/search?q=%23felizsabado) | N/A |
+| 11 | [Olvany Gaspari](http://twitter.com/search?q=Olvany+Gaspari) | N/A |
+| 12 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
+| 13 | [Mage](http://twitter.com/search?q=Mage) | N/A |
+| 14 | [José Antonio Páez](http://twitter.com/search?q=Jos%c3%a9+Antonio+P%c3%a1ez) | N/A |
+| 15 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
+| 16 | [Queseras del Medio](http://twitter.com/search?q=Queseras+del+Medio) | N/A |
+| 17 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 18 | [Macu](http://twitter.com/search?q=Macu) | N/A |
+| 19 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 21 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 22 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [día mundial de la educación](http://twitter.com/search?q=d%c3%ada+mundial+de+la+educaci%c3%b3n) | N/A |
+| 25 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 26 | [Trastorno del Espectro Autista](http://twitter.com/search?q=Trastorno+del+Espectro+Autista) | N/A |
+| 27 | [Juan Pablo II](http://twitter.com/search?q=Juan+Pablo+II) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 30 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 31 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 32 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 33 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
+| 34 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 35 | [El 2](http://twitter.com/search?q=El+2) | N/A |
+| 36 | [Coopertone](http://twitter.com/search?q=Coopertone) | N/A |
+| 37 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
 | 38 | [Carolina Perpetuo](http://twitter.com/search?q=Carolina+Perpetuo) | N/A |
-| 39 | [Sofía Loren](http://twitter.com/search?q=Sof%c3%ada+Loren) | N/A |
-| 40 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 43 | [cherry navarro](http://twitter.com/search?q=cherry+navarro) | N/A |
-| 44 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 45 | [ley de extinción de dominio](http://twitter.com/search?q=ley+de+extinci%c3%b3n+de+dominio) | N/A |
-| 46 | [la lucha](http://twitter.com/search?q=la+lucha) | N/A |
-| 47 | [Coopertone](http://twitter.com/search?q=Coopertone) | N/A |
-| 48 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 49 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 39 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 40 | [apure](http://twitter.com/search?q=apure) | N/A |
+| 41 | [ley de extinción de dominio](http://twitter.com/search?q=ley+de+extinci%c3%b3n+de+dominio) | N/A |
+| 42 | [Sofía Loren](http://twitter.com/search?q=Sof%c3%ada+Loren) | N/A |
+| 43 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 44 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 45 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 46 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 47 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 48 | [daniel alvarado](http://twitter.com/search?q=daniel+alvarado) | N/A |
 
 
 
