@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-02 07:18:48 UTC`
+📆 Last Updated: `2023-04-02 08:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 4 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 5 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 6 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 7 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 9 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 10 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 11 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 5 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 6 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 7 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
 | 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 14 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 19 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 20 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 24 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 25 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 26 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 27 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 28 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 29 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 18 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 19 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 20 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 23 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 24 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 25 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 26 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 27 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 29 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
 | 30 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 31 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 33 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 36 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 37 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 38 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 39 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 40 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 41 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 42 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 43 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 44 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 45 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 46 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 47 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 48 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
-| 49 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 50 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 31 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 32 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 34 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 35 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 36 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 37 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 38 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 39 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 40 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 41 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 42 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 43 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 44 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 45 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 46 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 47 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 49 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 50 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 
 
 

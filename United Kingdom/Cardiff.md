@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-02 07:17:48 UTC`
+📆 Last Updated: `2023-04-02 08:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 2 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 3 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 7 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
-| 8 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 9 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 10 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 11 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 12 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 13 | [Crofty](http://twitter.com/search?q=Crofty) | N/A |
-| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 15 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 16 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 17 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 18 | [Abu Dhabi 2021](http://twitter.com/search?q=Abu+Dhabi+2021) | N/A |
-| 19 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 20 | [Oh George](http://twitter.com/search?q=Oh+George) | N/A |
-| 21 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 22 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 23 | [Mercs](http://twitter.com/search?q=Mercs) | N/A |
-| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 26 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 27 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 28 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 29 | [Ted Kravitz](http://twitter.com/search?q=Ted+Kravitz) | N/A |
-| 30 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 31 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 32 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 34 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 35 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 36 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 39 | [Jenson](http://twitter.com/search?q=Jenson) | N/A |
-| 40 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 43 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
-| 44 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 45 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 46 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 47 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 48 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
+| 8 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 9 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 10 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 11 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 12 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 13 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 14 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 15 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 16 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 17 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 18 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 19 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 20 | [Crofty](http://twitter.com/search?q=Crofty) | N/A |
+| 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 22 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 24 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 25 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 26 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 27 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 28 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 29 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 30 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 31 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 33 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 34 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 35 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 36 | [Ted Kravitz](http://twitter.com/search?q=Ted+Kravitz) | N/A |
+| 37 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
+| 38 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
+| 39 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 41 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 42 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 43 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 44 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
+| 45 | [Simon Calder](http://twitter.com/search?q=Simon+Calder) | N/A |
+| 46 | [Jenson](http://twitter.com/search?q=Jenson) | N/A |
+| 47 | [Mercs](http://twitter.com/search?q=Mercs) | N/A |
+| 48 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 
 
 

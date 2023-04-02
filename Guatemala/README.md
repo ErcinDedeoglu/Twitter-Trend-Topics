@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-02 07:18:54 UTC`
+📆 Last Updated: `2023-04-02 08:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,39 +16,39 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 4 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 5 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 6 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 7 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 10 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
-| 11 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 12 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 13 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 14 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
-| 18 | [Contreras](http://twitter.com/search?q=Contreras) | N/A |
-| 19 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
-| 20 | [#VisitaTaiwánGT](http://twitter.com/search?q=%23VisitaTaiw%c3%a1nGT) | N/A |
-| 21 | [Ixil](http://twitter.com/search?q=Ixil) | N/A |
-| 22 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
-| 23 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
-| 24 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
-| 25 | [Tsai Ing-wen](http://twitter.com/search?q=Tsai+Ing-wen) | N/A |
+| 2 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
+| 9 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 10 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 11 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 13 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
+| 16 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
+| 17 | [#VisitaTaiwánGT](http://twitter.com/search?q=%23VisitaTaiw%c3%a1nGT) | N/A |
+| 18 | [Ixil](http://twitter.com/search?q=Ixil) | N/A |
+| 19 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
+| 20 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
+| 21 | [Contreras](http://twitter.com/search?q=Contreras) | N/A |
+| 22 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
+| 23 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 24 | [Tsai Ing-wen](http://twitter.com/search?q=Tsai+Ing-wen) | N/A |
+| 25 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 26 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
 | 27 | [Xelajú](http://twitter.com/search?q=Xelaj%c3%ba) | N/A |
 | 28 | [antigua gfc](http://twitter.com/search?q=antigua+gfc) | N/A |
 | 29 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
 | 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 31 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 33 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
-| 34 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
+| 32 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
+| 33 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
+| 34 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 | 35 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
 | 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 37 | [república de china](http://twitter.com/search?q=rep%c3%bablica+de+china) | N/A |

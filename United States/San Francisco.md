@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-02 07:18:48 UTC`
+📆 Last Updated: `2023-04-02 08:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 2 | [Gregor](http://twitter.com/search?q=Gregor) | N/A |
+| 2 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
 | 3 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
-| 4 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
-| 5 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 6 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 7 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 8 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
+| 4 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 5 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
+| 6 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 7 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
+| 8 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
 | 9 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 10 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 11 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 12 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 13 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 14 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 15 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 16 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
-| 17 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 18 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 19 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 11 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 12 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 13 | [#NCAAFinalFour](http://twitter.com/search?q=%23NCAAFinalFour) | N/A |
+| 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 15 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 16 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 20 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
 | 21 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 22 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 25 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 27 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 30 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 31 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 32 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 33 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 34 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 35 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 36 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 25 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 26 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 27 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 31 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 32 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 33 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 34 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
 | 37 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 38 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 42 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 43 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 44 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 45 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 46 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 47 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 48 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 49 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 50 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 38 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 39 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 41 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 42 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 43 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 44 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 45 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 46 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 47 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 48 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 49 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 50 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
 
 
 

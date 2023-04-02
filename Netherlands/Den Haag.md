@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-02 07:18:08 UTC`
+📆 Last Updated: `2023-04-02 08:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 3 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 4 | [#MaxVerstappen](http://twitter.com/search?q=%23MaxVerstappen) | N/A |
-| 5 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 3 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 4 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 7 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 10 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 11 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 13 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
-| 14 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 16 | [Go Max](http://twitter.com/search?q=Go+Max) | N/A |
-| 17 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 19 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 20 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 21 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 22 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 23 | [Provinciebestuurders](http://twitter.com/search?q=Provinciebestuurders) | N/A |
-| 24 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 25 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 26 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 27 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [boscagli](http://twitter.com/search?q=boscagli) | N/A |
-| 30 | [Koers](http://twitter.com/search?q=Koers) | N/A |
-| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 32 | [Olav](http://twitter.com/search?q=Olav) | N/A |
-| 33 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
-| 34 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 35 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 36 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 37 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 38 | [Oever](http://twitter.com/search?q=Oever) | N/A |
-| 39 | [Martijn](http://twitter.com/search?q=Martijn) | N/A |
-| 40 | [kikker](http://twitter.com/search?q=kikker) | N/A |
-| 41 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 42 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 43 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 44 | [het is 1](http://twitter.com/search?q=het+is+1) | N/A |
-| 45 | [geen 1](http://twitter.com/search?q=geen+1) | N/A |
-| 46 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 47 | [wissel](http://twitter.com/search?q=wissel) | N/A |
-| 48 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 49 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 7 | [#MaxVerstappen](http://twitter.com/search?q=%23MaxVerstappen) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 10 | [Russel](http://twitter.com/search?q=Russel) | N/A |
+| 11 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 12 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 13 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 14 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 15 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 17 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
+| 18 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 19 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 21 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 22 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 23 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 24 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 25 | [Andries](http://twitter.com/search?q=Andries) | N/A |
+| 26 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 27 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 28 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 29 | [Provinciebestuurders](http://twitter.com/search?q=Provinciebestuurders) | N/A |
+| 30 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 31 | [boscagli](http://twitter.com/search?q=boscagli) | N/A |
+| 32 | [Koers](http://twitter.com/search?q=Koers) | N/A |
+| 33 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 35 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 36 | [Tata Steel](http://twitter.com/search?q=Tata+Steel) | N/A |
+| 37 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
+| 38 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 39 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 40 | [Oever](http://twitter.com/search?q=Oever) | N/A |
+| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 42 | [drommel](http://twitter.com/search?q=drommel) | N/A |
+| 43 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 44 | [Olav](http://twitter.com/search?q=Olav) | N/A |
+| 45 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 46 | [Kikker](http://twitter.com/search?q=Kikker) | N/A |
+| 47 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 48 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 49 | [het is 1](http://twitter.com/search?q=het+is+1) | N/A |
 
 
 

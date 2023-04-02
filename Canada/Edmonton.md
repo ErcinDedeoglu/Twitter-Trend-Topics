@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-04-02 07:17:47 UTC`
+📆 Last Updated: `2023-04-02 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 2 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 8 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 9 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 6 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 7 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 10 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 11 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 15 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 16 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 17 | [Red Robinson](http://twitter.com/search?q=Red+Robinson) | N/A |
-| 18 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 19 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 22 | [Becher](http://twitter.com/search?q=Becher) | N/A |
-| 23 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 24 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 25 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 26 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 27 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 28 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 30 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 31 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 32 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 34 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 35 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 36 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 37 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 38 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 39 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 40 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 41 | [#GamebredBoxing4](http://twitter.com/search?q=%23GamebredBoxing4) | N/A |
-| 42 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 11 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 14 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 15 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 16 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 22 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 23 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 24 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 25 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
+| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 28 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 29 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 30 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 31 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 32 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 33 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 34 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 35 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 36 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 37 | [Horgan](http://twitter.com/search?q=Horgan) | N/A |
+| 38 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 39 | [Becher](http://twitter.com/search?q=Becher) | N/A |
+| 40 | [gausman](http://twitter.com/search?q=gausman) | N/A |
+| 41 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 42 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
+| 45 | [Red Robinson](http://twitter.com/search?q=Red+Robinson) | N/A |
+| 46 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 47 | [Zohorna](http://twitter.com/search?q=Zohorna) | N/A |
+| 48 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 49 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 50 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 
 
 

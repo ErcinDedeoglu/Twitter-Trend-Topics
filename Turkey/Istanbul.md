@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-02 07:18:38 UTC`
+📆 Last Updated: `2023-04-02 08:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,41 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 2 | [#GSvADS](http://twitter.com/search?q=%23GSvADS) | N/A |
-| 3 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 4 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 5 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 1 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 3 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
+| 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 5 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
+| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
-| 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 10 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
-| 11 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | Onyekuru is a Nigerian name derived from the Igbo language. It means “God's work” or “God's creation” in English. |
-| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 13 | [Mutlu Pazarlar](http://twitter.com/search?q=Mutlu+Pazarlar) | N/A |
-| 14 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 16 | [Bakara](http://twitter.com/search?q=Bakara) | N/A |
-| 17 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 18 | [MuharremAbi Kazanacakmısın](http://twitter.com/search?q=MuharremAbi+Kazanacakm%c4%b1s%c4%b1n) | N/A |
-| 19 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
-| 20 | [dibyedegetercihac](http://twitter.com/search?q=dibyedegetercihac) | N/A |
-| 21 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 22 | [Hasan Kaçan](http://twitter.com/search?q=Hasan+Ka%c3%a7an) | N/A |
-| 23 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
-| 24 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
-| 25 | [bozdoğan iyiparti](http://twitter.com/search?q=bozdo%c4%9fan+iyiparti) | N/A |
-| 26 | [zekatla bereketlensin](http://twitter.com/search?q=zekatla+bereketlensin) | N/A |
-| 27 | [piktesöğr kadrosunerede](http://twitter.com/search?q=piktes%c3%b6%c4%9fr+kadrosunerede) | N/A |
-| 28 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 29 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 30 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 31 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 32 | [iibfkadrosuz sandıkoysuz](http://twitter.com/search?q=iibfkadrosuz+sand%c4%b1koysuz) | N/A |
-| 33 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 34 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 36 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 37 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 38 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 39 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
-| 40 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 41 | [Bilerek](http://twitter.com/search?q=Bilerek) | N/A |
-| 42 | [gizlenen haber](http://twitter.com/search?q=gizlenen+haber) | N/A |
-| 43 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 44 | [BayKemalGelecek TaşeronBitecek](http://twitter.com/search?q=BayKemalGelecek+Ta%c5%9feronBitecek) | N/A |
-| 45 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 46 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
-| 47 | [Ayakkabı](http://twitter.com/search?q=Ayakkab%c4%b1) | N/A |
-| 48 | [AffıVeren SeçimiAlır](http://twitter.com/search?q=Aff%c4%b1Veren+Se%c3%a7imiAl%c4%b1r) | N/A |
-| 49 | [BAY KEMALE OY YOK](http://twitter.com/search?q=BAY+KEMALE+OY+YOK) | N/A |
-| 50 | [Halı](http://twitter.com/search?q=Hal%c4%b1) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 10 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 11 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 12 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 14 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 15 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 16 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
+| 17 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 18 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 19 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 20 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 21 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 22 | [#benolsam](http://twitter.com/search?q=%23benolsam) | N/A |
+| 23 | [#BitmekBilmiyor](http://twitter.com/search?q=%23BitmekBilmiyor) | N/A |
+| 24 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
+| 25 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 26 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
+| 27 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
+| 28 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
+| 29 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
+| 30 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
+| 31 | [#HerseyeZamMemuraGam](http://twitter.com/search?q=%23HerseyeZamMemuraGam) | N/A |
+| 32 | [#Kastamonu](http://twitter.com/search?q=%23Kastamonu) | N/A |
+| 33 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 34 | [#FatihBozoğlututuklansın](http://twitter.com/search?q=%23FatihBozo%c4%9flututuklans%c4%b1n) | N/A |
+| 35 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
 
 
 
