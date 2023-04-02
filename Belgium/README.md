@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-02 01:45:07 UTC`
+📆 Last Updated: `2023-04-02 02:30:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 2 | [#sergnt](http://twitter.com/search?q=%23sergnt) | N/A |
-| 3 | [#KVOSTA](http://twitter.com/search?q=%23KVOSTA) | N/A |
+| 3 | [#kvosta](http://twitter.com/search?q=%23kvosta) | N/A |
 | 4 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 5 | [#wescha](http://twitter.com/search?q=%23wescha) | N/A |
 | 6 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for Belgium
 | 22 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 23 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 24 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 25 | [Perica](http://twitter.com/search?q=Perica) | N/A |
-| 26 | [Westerlo](http://twitter.com/search?q=Westerlo) | N/A |
+| 25 | [perica](http://twitter.com/search?q=perica) | N/A |
+| 26 | [westerlo](http://twitter.com/search?q=westerlo) | N/A |
 | 27 | [jong groen](http://twitter.com/search?q=jong+groen) | N/A |
-| 28 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 30 | [conner rousseau](http://twitter.com/search?q=conner+rousseau) | N/A |
-| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 28 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 29 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 30 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 31 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
 | 32 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 33 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 34 | [Gift Orban](http://twitter.com/search?q=Gift+Orban) | N/A |
-| 35 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 37 | [flémalle](http://twitter.com/search?q=fl%c3%a9malle) | N/A |
-| 38 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 40 | [zulte](http://twitter.com/search?q=zulte) | N/A |
-| 41 | [de grote peiling](http://twitter.com/search?q=de+grote+peiling) | N/A |
-| 42 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 43 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 44 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 45 | [Witte](http://twitter.com/search?q=Witte) | N/A |
-| 46 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 47 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 48 | [alexander de croo](http://twitter.com/search?q=alexander+de+croo) | N/A |
-| 49 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 50 | [jan van looveren](http://twitter.com/search?q=jan+van+looveren) | N/A |
+| 33 | [Gift Orban](http://twitter.com/search?q=Gift+Orban) | N/A |
+| 34 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [flémalle](http://twitter.com/search?q=fl%c3%a9malle) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [zulte](http://twitter.com/search?q=zulte) | N/A |
+| 39 | [de grote peiling](http://twitter.com/search?q=de+grote+peiling) | N/A |
+| 40 | [Conner Rousseau](http://twitter.com/search?q=Conner+Rousseau) | N/A |
+| 41 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 42 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 43 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 44 | [Witte](http://twitter.com/search?q=Witte) | N/A |
+| 45 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 46 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 47 | [alexander de croo](http://twitter.com/search?q=alexander+de+croo) | N/A |
+| 48 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 49 | [jan van looveren](http://twitter.com/search?q=jan+van+looveren) | N/A |
+| 50 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
 
 
 

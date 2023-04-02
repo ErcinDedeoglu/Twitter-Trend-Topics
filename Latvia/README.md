@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-02 01:45:11 UTC`
+📆 Last Updated: `2023-04-02 02:30:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,14 +43,14 @@ This is top 50 for Latvia
 | 26 | [Pret](http://twitter.com/search?q=Pret) | N/A |
 | 27 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
 | 28 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 29 | [Laba](http://twitter.com/search?q=Laba) | N/A |
+| 29 | [laba](http://twitter.com/search?q=laba) | N/A |
 | 30 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 32 | [veselību](http://twitter.com/search?q=vesel%c4%abbu) | N/A |
 | 33 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 34 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 35 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 36 | [VIENMĒR](http://twitter.com/search?q=VIENM%c4%92R) | N/A |
+| 36 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 37 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
 | 38 | [ogres](http://twitter.com/search?q=ogres) | N/A |
 | 39 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |

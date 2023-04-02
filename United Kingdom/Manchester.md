@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-04-02 01:44:23 UTC`
+📆 Last Updated: `2023-04-02 02:30:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Prime](http://twitter.com/search?q=%23Prime) | N/A |
+| 1 | [Prime](http://twitter.com/search?q=Prime) | N/A |
 | 2 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 3 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 3 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 4 | [Sack](http://twitter.com/search?q=Sack) | N/A |
 | 5 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 6 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 8 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
 | 9 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 10 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 11 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 12 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 13 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 14 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 15 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 16 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 17 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 18 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
-| 19 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 22 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 23 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 26 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 27 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 28 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 29 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 30 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 31 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 32 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 12 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 13 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 14 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 16 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 17 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 18 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
+| 19 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 20 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 21 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
+| 22 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 23 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 24 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 26 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 27 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 28 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 29 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 30 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 31 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
+| 32 | [Otis](http://twitter.com/search?q=Otis) | N/A |
 | 33 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
 | 34 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 35 | [Klitschko](http://twitter.com/search?q=Klitschko) | N/A |
-| 36 | [Frank Bruno](http://twitter.com/search?q=Frank+Bruno) | N/A |
-| 37 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
-| 38 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 39 | [Wardley](http://twitter.com/search?q=Wardley) | N/A |
-| 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 41 | [Rhea Ripley](http://twitter.com/search?q=Rhea+Ripley) | N/A |
-| 42 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 43 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 44 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 45 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 46 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
-| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 48 | [Owens](http://twitter.com/search?q=Owens) | N/A |
-| 49 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 50 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
+| 36 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
+| 37 | [Frank Bruno](http://twitter.com/search?q=Frank+Bruno) | N/A |
+| 38 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
+| 39 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 40 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 41 | [Wardley](http://twitter.com/search?q=Wardley) | N/A |
+| 42 | [Rhea Ripley](http://twitter.com/search?q=Rhea+Ripley) | N/A |
+| 43 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 44 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 45 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 46 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 47 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 48 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
+| 49 | [Owens](http://twitter.com/search?q=Owens) | N/A |
+| 50 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 
 
 

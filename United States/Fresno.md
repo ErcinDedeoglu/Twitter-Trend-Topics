@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-02 01:45:01 UTC`
+📆 Last Updated: `2023-04-02 02:30:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 2 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 3 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 4 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 5 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 6 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 7 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 8 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 9 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
+| 3 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 4 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 5 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
+| 6 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 7 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 8 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 9 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
 | 10 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
-| 11 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
-| 12 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 13 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
-| 14 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 15 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 16 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 17 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 18 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
-| 19 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
-| 20 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 21 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 22 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 23 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 24 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 25 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 26 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 27 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 28 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 29 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 30 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 31 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 32 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 33 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 34 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 35 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 36 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 37 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 38 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 39 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 40 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 41 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 42 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 43 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
-| 44 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 45 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 46 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 47 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
-| 48 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
-| 49 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 50 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 11 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 12 | [Blackmon](http://twitter.com/search?q=Blackmon) | N/A |
+| 13 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 14 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 15 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
+| 16 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 17 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
+| 18 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 19 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 20 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 21 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 22 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
+| 23 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 24 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 25 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 26 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
+| 27 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 28 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 29 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 30 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 31 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 32 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 34 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 35 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 36 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 37 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 38 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 39 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 40 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 41 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 42 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 43 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 44 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 45 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 46 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 47 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 48 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 49 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
 
 
 

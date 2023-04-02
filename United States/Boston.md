@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-02 01:44:59 UTC`
+📆 Last Updated: `2023-04-02 02:30:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NERevs](http://twitter.com/search?q=%23NERevs) | N/A |
-| 2 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 3 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 2 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 3 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
 | 4 | [#DirtyWater](http://twitter.com/search?q=%23DirtyWater) | N/A |
 | 5 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 6 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 7 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
-| 8 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 9 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 6 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 7 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 8 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 10 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 | 11 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 12 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 13 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 12 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 13 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
 | 14 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 15 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 16 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 17 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 18 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 19 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 20 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
-| 21 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 22 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 23 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 24 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 25 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 26 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 27 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 28 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 29 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 30 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 31 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
-| 32 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 33 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 34 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 35 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
-| 36 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
-| 37 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 38 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 39 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 40 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 41 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 42 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 43 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
-| 44 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
-| 45 | [Shawn Michaels](http://twitter.com/search?q=Shawn+Michaels) | N/A |
-| 46 | [BUZZER BEATER](http://twitter.com/search?q=BUZZER+BEATER) | N/A |
-| 47 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 48 | [MadBum](http://twitter.com/search?q=MadBum) | N/A |
-| 49 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 50 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
+| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 16 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 17 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 18 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 19 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 20 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 21 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 22 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 23 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 24 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 25 | [#DreamvilleFest2023](http://twitter.com/search?q=%23DreamvilleFest2023) | N/A |
+| 26 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 27 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 28 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 29 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 30 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 31 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 32 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
+| 33 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 34 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 35 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 36 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 37 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 38 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 39 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 40 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 41 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 42 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 43 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 44 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 45 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 46 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 47 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 48 | [Prison Dom](http://twitter.com/search?q=Prison+Dom) | N/A |
+| 49 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 50 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
 
 
 

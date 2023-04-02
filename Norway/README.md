@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-02 01:45:11 UTC`
+📆 Last Updated: `2023-04-02 02:31:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,11 +29,11 @@ This is top 50 for Norway
 | 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [stemmemyren](http://twitter.com/search?q=stemmemyren) | N/A |
 | 14 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
-| 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 17 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 19 | [Aprilsnarr](http://twitter.com/search?q=Aprilsnarr) | N/A |
+| 19 | [aprilsnarr](http://twitter.com/search?q=aprilsnarr) | N/A |
 | 20 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
 | 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
@@ -52,17 +52,17 @@ This is top 50 for Norway
 | 35 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 36 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
 | 37 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 38 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
-| 39 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 42 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 43 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
-| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 45 | [troms](http://twitter.com/search?q=troms) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [stjørdal](http://twitter.com/search?q=stj%c3%b8rdal) | N/A |
-| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 38 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 40 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 41 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 42 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [troms](http://twitter.com/search?q=troms) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [stjørdal](http://twitter.com/search?q=stj%c3%b8rdal) | N/A |
+| 47 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 48 | [Trøim](http://twitter.com/search?q=Tr%c3%b8im) | N/A |
 | 49 | [skeid](http://twitter.com/search?q=skeid) | N/A |
 | 50 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-04-02 01:45:04 UTC`
+📆 Last Updated: `2023-04-02 02:30:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForTheCrown](http://twitter.com/search?q=%23ForTheCrown) | N/A |
-| 2 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 3 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
-| 4 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 5 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
+| 1 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 2 | [Ari Lennox](http://twitter.com/search?q=Ari+Lennox) | N/A |
+| 3 | [#ForTheCrown](http://twitter.com/search?q=%23ForTheCrown) | N/A |
+| 4 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
+| 5 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
 | 6 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 7 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 8 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 9 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 10 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 11 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 12 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 13 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 14 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 15 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 16 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 17 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
-| 18 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 19 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 20 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 23 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 24 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 25 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 26 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 27 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 28 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
-| 29 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 31 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 32 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
-| 33 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
-| 34 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 35 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 36 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 37 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 38 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 39 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 40 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
-| 41 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
-| 42 | [Shawn Michaels](http://twitter.com/search?q=Shawn+Michaels) | N/A |
-| 43 | [BUZZER BEATER](http://twitter.com/search?q=BUZZER+BEATER) | N/A |
-| 44 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 45 | [MadBum](http://twitter.com/search?q=MadBum) | N/A |
-| 46 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 47 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
-| 48 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 49 | [R-Truth](http://twitter.com/search?q=R-Truth) | N/A |
-| 50 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 8 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 9 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 10 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 11 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 12 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 13 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 14 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 15 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 16 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 18 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 19 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 20 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 21 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 22 | [#DreamvilleFest2023](http://twitter.com/search?q=%23DreamvilleFest2023) | N/A |
+| 23 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 24 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 25 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 26 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
+| 27 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 28 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 29 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 30 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 31 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
+| 32 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 33 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 34 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 35 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 36 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 37 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 38 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 39 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 40 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 41 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 42 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 43 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 44 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 45 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 46 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 47 | [Prison Dom](http://twitter.com/search?q=Prison+Dom) | N/A |
+| 48 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 49 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 50 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
 
 
 

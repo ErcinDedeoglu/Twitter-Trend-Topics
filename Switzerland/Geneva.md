@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-02 01:44:38 UTC`
+📆 Last Updated: `2023-04-02 02:30:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 2 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 5 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
@@ -30,23 +30,23 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 14 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
 | 15 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 16 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 17 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 16 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 17 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
 | 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 19 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 20 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
-| 21 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 22 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 23 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 24 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 26 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 27 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 19 | [zusammenbruch](http://twitter.com/search?q=zusammenbruch) | N/A |
+| 20 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 21 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 22 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 25 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 26 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 27 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
 | 28 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 | 29 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
 | 30 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
 | 31 | [Diskriminierung](http://twitter.com/search?q=Diskriminierung) | N/A |
-| 32 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 32 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
 | 33 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
 | 34 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
 | 35 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-02 01:44:27 UTC`
+📆 Last Updated: `2023-04-02 02:30:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 2 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 3 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 4 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 5 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 6 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 7 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 8 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
-| 9 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 10 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 11 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 12 | [NEW SKUAD](http://twitter.com/search?q=NEW+SKUAD) | N/A |
-| 13 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 14 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
-| 15 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 16 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
-| 17 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 18 | [#BTSXATTACKONTITAN](http://twitter.com/search?q=%23BTSXATTACKONTITAN) | N/A |
-| 19 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 20 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 21 | [ATTACK ON BANGTAN](http://twitter.com/search?q=ATTACK+ON+BANGTAN) | N/A |
-| 22 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 23 | [Y SI NO ES CONMIGO](http://twitter.com/search?q=Y+SI+NO+ES+CONMIGO) | N/A |
-| 24 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 25 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 26 | [#Rayados](http://twitter.com/search?q=%23Rayados) | N/A |
-| 27 | [Vamos América](http://twitter.com/search?q=Vamos+Am%c3%a9rica) | N/A |
-| 28 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 29 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 30 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 31 | [SI ES CONTIGO PT 2](http://twitter.com/search?q=SI+ES+CONTIGO+PT+2) | N/A |
-| 32 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 33 | [Estadio Hidalgo](http://twitter.com/search?q=Estadio+Hidalgo) | N/A |
-| 34 | [Unicel](http://twitter.com/search?q=Unicel) | N/A |
-| 35 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 36 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 37 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 38 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 39 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 40 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 41 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 42 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
-| 43 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 44 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
-| 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 46 | [Clásico Tapatío](http://twitter.com/search?q=Cl%c3%a1sico+Tapat%c3%ado) | N/A |
-| 47 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 48 | [Tecate](http://twitter.com/search?q=Tecate) | N/A |
-| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 1 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 2 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 3 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 4 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 5 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 6 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 7 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 8 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 9 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 10 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 11 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 12 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 13 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 14 | [Jona](http://twitter.com/search?q=Jona) | N/A |
+| 15 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 16 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 17 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 18 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
+| 19 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 20 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 21 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 22 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 23 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 24 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 25 | [NEW SKUAD](http://twitter.com/search?q=NEW+SKUAD) | N/A |
+| 26 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 27 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 29 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 30 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 31 | [Eddie Guerrero](http://twitter.com/search?q=Eddie+Guerrero) | N/A |
+| 32 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
+| 33 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 34 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
+| 35 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 36 | [#BTSXATTACKONTITAN](http://twitter.com/search?q=%23BTSXATTACKONTITAN) | N/A |
+| 37 | [ATTACK ON BANGTAN](http://twitter.com/search?q=ATTACK+ON+BANGTAN) | N/A |
+| 38 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 40 | [Vamos América](http://twitter.com/search?q=Vamos+Am%c3%a9rica) | N/A |
+| 41 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 42 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
+| 43 | [#LigaMX](http://twitter.com/search?q=%23LigaMX) | N/A |
+| 44 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 45 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 46 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 47 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 48 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 49 | [SI ES CONTIGO PT 2](http://twitter.com/search?q=SI+ES+CONTIGO+PT+2) | N/A |
 
 
 

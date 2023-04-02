@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-02 01:45:07 UTC`
+📆 Last Updated: `2023-04-02 02:30:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,19 +51,19 @@ This is top 50 for Austria
 | 34 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
 | 35 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
 | 36 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 37 | [pracker](http://twitter.com/search?q=pracker) | N/A |
-| 38 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 39 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 40 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 41 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 42 | [Termine](http://twitter.com/search?q=Termine) | N/A |
-| 43 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 44 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 45 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 46 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 47 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 48 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 49 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
+| 37 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
+| 38 | [pracker](http://twitter.com/search?q=pracker) | N/A |
+| 39 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 40 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 41 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 42 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 43 | [Termine](http://twitter.com/search?q=Termine) | N/A |
+| 44 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 45 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 47 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 48 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 49 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
 | 50 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
 
 

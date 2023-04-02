@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-02 01:45:10 UTC`
+📆 Last Updated: `2023-04-02 02:30:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,35 +23,35 @@ This is top 50 for Lebanon
 | 6 | [١ نيسان](http://twitter.com/search?q=%d9%a1+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
 | 7 | [#الانتخابات_البلديه_بوقتها](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa_%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87_%d8%a8%d9%88%d9%82%d8%aa%d9%87%d8%a7) | N/A |
 | 8 | [سليمان فرنجية](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d8%a9) | N/A |
-| 9 | [محور الممانعه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%85%d8%a7%d9%86%d8%b9%d9%87) | N/A |
+| 9 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 10 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 11 | [نضال السبع](http://twitter.com/search?q=%d9%86%d8%b6%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 14 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 15 | [وزير السياحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%87) | N/A |
-| 16 | [الخليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 17 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 18 | [خديجه بنت خويلد](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a8%d9%86%d8%aa+%d8%ae%d9%88%d9%8a%d9%84%d8%af) | N/A |
-| 19 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 20 | [باول نيسان](http://twitter.com/search?q=%d8%a8%d8%a7%d9%88%d9%84+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 21 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 22 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 23 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 24 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 25 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 11 | [محور الممانعه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%85%d8%a7%d9%86%d8%b9%d9%87) | N/A |
+| 12 | [نضال السبع](http://twitter.com/search?q=%d9%86%d8%b6%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
+| 13 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 14 | [وزير السياحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%87) | N/A |
+| 15 | [الخليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 16 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 17 | [خديجه بنت خويلد](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a8%d9%86%d8%aa+%d8%ae%d9%88%d9%8a%d9%84%d8%af) | N/A |
+| 18 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 21 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 22 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 23 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 24 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 25 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 26 | [سمير جعجع](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
-| 27 | [علي بعبدا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
-| 28 | [علي القصر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d8%b1) | N/A |
+| 27 | [علي القصر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d8%b1) | N/A |
+| 28 | [العهد السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
 | 29 | [قصر بعبدا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
-| 30 | [العهد السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 31 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 32 | [السيده الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 33 | [السيدة خديجة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9+%d8%ae%d8%af%d9%8a%d8%ac%d8%a9) | N/A |
-| 34 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 35 | [جان قصير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%86+%d9%82%d8%b5%d9%8a%d8%b1) | N/A |
-| 36 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
-| 37 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 30 | [علي بعبدا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b9%d8%a8%d8%af%d8%a7) | N/A |
+| 31 | [السيده الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 32 | [باول نيسان](http://twitter.com/search?q=%d8%a8%d8%a7%d9%88%d9%84+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
+| 33 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 34 | [جان قصير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%86+%d9%82%d8%b5%d9%8a%d8%b1) | N/A |
+| 35 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 36 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 37 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
 | 38 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
 | 39 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
 | 40 | [شهر نيسان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Lebanon
 | 42 | [حقوق السحب الخاصه](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
 | 43 | [الجمعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 44 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 45 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 46 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 47 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 48 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 45 | [السيدة خديجة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9+%d8%ae%d8%af%d9%8a%d8%ac%d8%a9) | N/A |
+| 46 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 47 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 48 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
 | 49 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 50 | [10 رمضان](http://twitter.com/search?q=10+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 50 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-02 01:45:08 UTC`
+📆 Last Updated: `2023-04-02 02:30:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Belarus
 | 4 | [#nftart](http://twitter.com/search?q=%23nftart) | N/A |
 | 5 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
 | 6 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 7 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 7 | [китай](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
 | 8 | [GM Fren](http://twitter.com/search?q=GM+Fren) | N/A |
 | 9 | [послание президента](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5+%d0%bf%d1%80%d0%b5%d0%b7%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d0%b0) | N/A |
 | 10 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for Belarus
 | 13 | [посланием](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc) | N/A |
 | 14 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
 | 15 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 16 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 16 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
 | 17 | [послания](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
 | 18 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
 | 19 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |

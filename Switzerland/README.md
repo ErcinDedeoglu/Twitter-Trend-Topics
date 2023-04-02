@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-02 01:45:13 UTC`
+📆 Last Updated: `2023-04-02 02:31:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 2 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 5 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
@@ -36,14 +36,14 @@ This is top 50 for Switzerland
 | 19 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
 | 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 21 | [zusammenbruch](http://twitter.com/search?q=zusammenbruch) | N/A |
-| 22 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
-| 23 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 24 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 25 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 29 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 22 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 23 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 24 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 27 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 28 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 29 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
 | 30 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 | 31 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
 | 32 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |

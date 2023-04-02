@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-02 01:45:06 UTC`
+📆 Last Updated: `2023-04-02 02:30:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 2 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 3 | [Let's Go Canes](http://twitter.com/search?q=Let%27s+Go+Canes) | N/A |
-| 4 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 5 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 6 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 7 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 9 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
-| 10 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 11 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 12 | [#StandAndDeliver](http://twitter.com/search?q=%23StandAndDeliver) | N/A |
-| 13 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 14 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 15 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 16 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 17 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 18 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 19 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 20 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 21 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 22 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 23 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 24 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 25 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 26 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 27 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 29 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 30 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 31 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 32 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 33 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 34 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
-| 35 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 36 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 37 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 38 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
-| 39 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
-| 40 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 41 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 42 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 43 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 44 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 45 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 46 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
-| 47 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
-| 48 | [Shawn Michaels](http://twitter.com/search?q=Shawn+Michaels) | N/A |
-| 49 | [BUZZER BEATER](http://twitter.com/search?q=BUZZER+BEATER) | N/A |
+| 1 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 2 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
+| 5 | [Let's Go Canes](http://twitter.com/search?q=Let%27s+Go+Canes) | N/A |
+| 6 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 7 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 8 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 9 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 10 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 11 | [#OnPatrolLive](http://twitter.com/search?q=%23OnPatrolLive) | N/A |
+| 12 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 13 | [#megacon2023](http://twitter.com/search?q=%23megacon2023) | N/A |
+| 14 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 15 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 16 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 17 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 20 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 21 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 24 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 25 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 26 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 27 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 28 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 29 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 30 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 31 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 32 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 33 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 34 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 35 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 36 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 37 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 38 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
+| 39 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 40 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 41 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 42 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 43 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 44 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 45 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 46 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 47 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 48 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 49 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
 
 
 

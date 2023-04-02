@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-02 01:45:12 UTC`
+📆 Last Updated: `2023-04-02 02:31:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Panama
 | 9 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 10 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 | 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 13 | [Pacto Ético Digital](http://twitter.com/search?q=Pacto+%c3%89tico+Digital) | N/A |
-| 14 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 15 | [Centenario](http://twitter.com/search?q=Centenario) | N/A |
-| 16 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 17 | [Chanis](http://twitter.com/search?q=Chanis) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [Ken Buchanan](http://twitter.com/search?q=Ken+Buchanan) | N/A |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 22 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 12 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 13 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 14 | [Pacto Ético Digital](http://twitter.com/search?q=Pacto+%c3%89tico+Digital) | N/A |
+| 15 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 16 | [Centenario](http://twitter.com/search?q=Centenario) | N/A |
+| 17 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 18 | [Chanis](http://twitter.com/search?q=Chanis) | N/A |
+| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 20 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [Ken Buchanan](http://twitter.com/search?q=Ken+Buchanan) | N/A |
 | 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 | 25 | [Otro Camino](http://twitter.com/search?q=Otro+Camino) | N/A |
-| 26 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
-| 29 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 30 | [Javier Cruz](http://twitter.com/search?q=Javier+Cruz) | N/A |
-| 31 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 32 | [Jornada 1️⃣2️⃣](http://twitter.com/search?q=Jornada+1%ef%b8%8f%e2%83%a32%ef%b8%8f%e2%83%a3) | N/A |
-| 33 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 34 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 35 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 37 | [nito cortizo](http://twitter.com/search?q=nito+cortizo) | N/A |
-| 38 | [#SoyDAU](http://twitter.com/search?q=%23SoyDAU) | N/A |
-| 39 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 40 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 43 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 46 | [Acaso](http://twitter.com/search?q=Acaso) | N/A |
-| 47 | [#EstoEsCAI](http://twitter.com/search?q=%23EstoEsCAI) | N/A |
-| 48 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 49 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 50 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
+| 30 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 31 | [Javier Cruz](http://twitter.com/search?q=Javier+Cruz) | N/A |
+| 32 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 33 | [Jornada 1️⃣2️⃣](http://twitter.com/search?q=Jornada+1%ef%b8%8f%e2%83%a32%ef%b8%8f%e2%83%a3) | N/A |
+| 34 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 35 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 36 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 38 | [Jornada 12](http://twitter.com/search?q=Jornada+12) | N/A |
+| 39 | [nito cortizo](http://twitter.com/search?q=nito+cortizo) | N/A |
+| 40 | [#SoyDAU](http://twitter.com/search?q=%23SoyDAU) | N/A |
+| 41 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 42 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 44 | [Capira](http://twitter.com/search?q=Capira) | N/A |
+| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 46 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 47 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 48 | [Acaso](http://twitter.com/search?q=Acaso) | N/A |
+| 49 | [#EstoEsCAI](http://twitter.com/search?q=%23EstoEsCAI) | N/A |
+| 50 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 
 
 
