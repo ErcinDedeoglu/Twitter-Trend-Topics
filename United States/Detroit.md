@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-04-02 08:18:54 UTC`
+📆 Last Updated: `2023-04-02 09:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 4 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 6 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 7 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
+| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 10 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
 | 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 12 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 13 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 14 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 15 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 12 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 13 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 14 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 | 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 18 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 19 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 20 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 23 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 24 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 25 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 26 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 27 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 28 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 29 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 30 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 31 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 32 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 17 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 18 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 19 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 20 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
+| 21 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 22 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 23 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 25 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 26 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 27 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 28 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 29 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 30 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 31 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 32 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
 | 33 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 34 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 35 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 36 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 37 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 38 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 39 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 40 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 41 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 42 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 34 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 35 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 36 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 37 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 38 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 39 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 40 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 41 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 42 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
 | 43 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 44 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 45 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 46 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 47 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 48 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 49 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 50 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 44 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 45 | [#Wordle652](http://twitter.com/search?q=%23Wordle652) | N/A |
+| 46 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 47 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 48 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 49 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 50 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-02 08:18:49 UTC`
+📆 Last Updated: `2023-04-02 09:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#Kavin](http://twitter.com/search?q=%23Kavin) | N/A |
 | 2 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 4 | [#DeepakChaurasiaKe30Saal](http://twitter.com/search?q=%23DeepakChaurasiaKe30Saal) | N/A |
-| 5 | [#WeWantDataProtectionBill](http://twitter.com/search?q=%23WeWantDataProtectionBill) | N/A |
-| 6 | [#SunilGroverInUK](http://twitter.com/search?q=%23SunilGroverInUK) | N/A |
-| 7 | [Flop Bhola Flop Ajay](http://twitter.com/search?q=Flop+Bhola+Flop+Ajay) | N/A |
-| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 9 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 12 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 13 | [Justice 4SSR Non Negotiable](http://twitter.com/search?q=Justice+4SSR+Non+Negotiable) | N/A |
-| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 15 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 16 | [HAPPY ANNIVERSARY ARYLIE](http://twitter.com/search?q=HAPPY+ANNIVERSARY+ARYLIE) | N/A |
-| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 19 | [Lifetime Imprisonment](http://twitter.com/search?q=Lifetime+Imprisonment) | N/A |
-| 20 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
-| 21 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
-| 22 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 23 | [No Sterling Witness](http://twitter.com/search?q=No+Sterling+Witness) | N/A |
+| 3 | [#BachpanKaYaarMario](http://twitter.com/search?q=%23BachpanKaYaarMario) | N/A |
+| 4 | [BLOCKBUSTER BHOLAA](http://twitter.com/search?q=BLOCKBUSTER+BHOLAA) | N/A |
+| 5 | [Flop Bhola Flop Ajay](http://twitter.com/search?q=Flop+Bhola+Flop+Ajay) | N/A |
+| 6 | [#DeepakChaurasiaKe30Saal](http://twitter.com/search?q=%23DeepakChaurasiaKe30Saal) | N/A |
+| 7 | [#HappyBirthdayAjayDevgn](http://twitter.com/search?q=%23HappyBirthdayAjayDevgn) | N/A |
+| 8 | [#MatchReadyBNaturalDeNaal](http://twitter.com/search?q=%23MatchReadyBNaturalDeNaal) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 10 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
+| 11 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 14 | [Baba Jai Guru Dev's Apeal](http://twitter.com/search?q=Baba+Jai+Guru+Dev%27s+Apeal) | N/A |
+| 15 | [Justice 4SSR Non Negotiable](http://twitter.com/search?q=Justice+4SSR+Non+Negotiable) | N/A |
+| 16 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 17 | [HAPPY ANNIVERSARY ARYLIE](http://twitter.com/search?q=HAPPY+ANNIVERSARY+ARYLIE) | N/A |
+| 18 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 19 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 20 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 23 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
 | 24 | [Supari](http://twitter.com/search?q=Supari) | N/A |
-| 25 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 26 | [Ahmedabad Aur Jodhpur](http://twitter.com/search?q=Ahmedabad+Aur+Jodhpur) | N/A |
-| 27 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 28 | [Yuvi](http://twitter.com/search?q=Yuvi) | N/A |
-| 29 | [Stop Targeting Hindus](http://twitter.com/search?q=Stop+Targeting+Hindus) | N/A |
-| 30 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 31 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 32 | [Aeronautical Test Range](http://twitter.com/search?q=Aeronautical+Test+Range) | N/A |
-| 33 | [कादर अल्लाह](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a6%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 34 | [Sehwag](http://twitter.com/search?q=Sehwag) | N/A |
-| 35 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 36 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 37 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 38 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 39 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 40 | [#BachpanKaYaarMario](http://twitter.com/search?q=%23BachpanKaYaarMario) | N/A |
-| 41 | [#WorldCup2011](http://twitter.com/search?q=%23WorldCup2011) | N/A |
-| 42 | [#MatchReadyBNaturalDeNaal](http://twitter.com/search?q=%23MatchReadyBNaturalDeNaal) | N/A |
-| 43 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 44 | [#BJPGuj_CPR_Abhiyan](http://twitter.com/search?q=%23BJPGuj_CPR_Abhiyan) | N/A |
-| 45 | [#True_Allah_Kabir](http://twitter.com/search?q=%23True_Allah_Kabir) | N/A |
-| 46 | [#RCBvMI](http://twitter.com/search?q=%23RCBvMI) | N/A |
-| 47 | [#SalimDurani](http://twitter.com/search?q=%23SalimDurani) | N/A |
-| 48 | [#SRHvsRR](http://twitter.com/search?q=%23SRHvsRR) | N/A |
-| 49 | [#BigOnSpeedBigOnStyle](http://twitter.com/search?q=%23BigOnSpeedBigOnStyle) | N/A |
-| 50 | [#Redmi12Cgiveaway](http://twitter.com/search?q=%23Redmi12Cgiveaway) | N/A |
+| 25 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 26 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 27 | [Yuvi](http://twitter.com/search?q=Yuvi) | N/A |
+| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 29 | [Race](http://twitter.com/search?q=Race) | N/A |
+| 30 | [Stop Targeting Hindus](http://twitter.com/search?q=Stop+Targeting+Hindus) | N/A |
+| 31 | [Sehwag](http://twitter.com/search?q=Sehwag) | N/A |
+| 32 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 33 | [Aeronautical Test Range](http://twitter.com/search?q=Aeronautical+Test+Range) | N/A |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 36 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 37 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 38 | [कादर अल्लाह](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a6%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 39 | [Lifetime Imprisonment](http://twitter.com/search?q=Lifetime+Imprisonment) | N/A |
+| 40 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 41 | [No Sterling Witness](http://twitter.com/search?q=No+Sterling+Witness) | N/A |
+| 42 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 43 | [#SunilGroverInUK](http://twitter.com/search?q=%23SunilGroverInUK) | N/A |
+| 44 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 45 | [#WeWantDataProtectionBill](http://twitter.com/search?q=%23WeWantDataProtectionBill) | N/A |
+| 46 | [#WorldCup2011](http://twitter.com/search?q=%23WorldCup2011) | N/A |
+| 47 | [#RCBvMI](http://twitter.com/search?q=%23RCBvMI) | N/A |
+| 48 | [#BigOnSpeedBigOnStyle](http://twitter.com/search?q=%23BigOnSpeedBigOnStyle) | N/A |
+| 49 | [#Redmi12Cgiveaway](http://twitter.com/search?q=%23Redmi12Cgiveaway) | N/A |
+| 50 | [#SRHvRR](http://twitter.com/search?q=%23SRHvRR) | N/A |
 
 
 

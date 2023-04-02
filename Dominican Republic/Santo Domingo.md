@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-02 08:18:06 UTC`
+📆 Last Updated: `2023-04-02 09:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,20 +18,20 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 3 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Mami Jordan](http://twitter.com/search?q=Mami+Jordan) | N/A |
-| 7 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 7 | [Mami Jordan](http://twitter.com/search?q=Mami+Jordan) | N/A |
 | 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 9 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 11 | [Ángel Lockward](http://twitter.com/search?q=%c3%81ngel+Lockward) | N/A |
-| 12 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 13 | [elías piña](http://twitter.com/search?q=el%c3%adas+pi%c3%b1a) | N/A |
+| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 10 | [ángel lockward](http://twitter.com/search?q=%c3%a1ngel+lockward) | N/A |
+| 11 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 12 | [elías piña](http://twitter.com/search?q=el%c3%adas+pi%c3%b1a) | N/A |
+| 13 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 14 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 15 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 17 | [Vico C](http://twitter.com/search?q=Vico+C) | N/A |
+| 17 | [vico c](http://twitter.com/search?q=vico+c) | N/A |
 | 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 19 | [La Insuperable](http://twitter.com/search?q=La+Insuperable) | N/A |
 | 20 | [Russell](http://twitter.com/search?q=Russell) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 22 | [hondo valle](http://twitter.com/search?q=hondo+valle) | N/A |
 | 23 | [Censo](http://twitter.com/search?q=Censo) | N/A |
 | 24 | [wilson camacho](http://twitter.com/search?q=wilson+camacho) | N/A |
-| 25 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 25 | [gaga](http://twitter.com/search?q=gaga) | N/A |
 | 26 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
 | 27 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
 | 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
