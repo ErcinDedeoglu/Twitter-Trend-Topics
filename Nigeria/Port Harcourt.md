@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-04-02 09:18:27 UTC`
+📆 Last Updated: `2023-04-02 10:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
 | 2 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
-| 3 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 4 | [#TankAndTummy](http://twitter.com/search?q=%23TankAndTummy) | N/A |
+| 3 | [#DungeonsAndDragonsMovie](http://twitter.com/search?q=%23DungeonsAndDragonsMovie) | N/A |
+| 4 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
 | 5 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
 | 6 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
-| 7 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 7 | [Audio](http://twitter.com/search?q=Audio) | N/A |
 | 8 | [Yes Mummy](http://twitter.com/search?q=Yes+Mummy) | N/A |
-| 9 | [Audio](http://twitter.com/search?q=Audio) | N/A |
+| 9 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
 | 10 | [Religious War](http://twitter.com/search?q=Religious+War) | N/A |
-| 11 | [Congratulations AJ](http://twitter.com/search?q=Congratulations+AJ) | N/A |
+| 11 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
 | 12 | [Rinu](http://twitter.com/search?q=Rinu) | N/A |
-| 13 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 14 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
-| 15 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 16 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 17 | [#TinubuIsADrugDealer](http://twitter.com/search?q=%23TinubuIsADrugDealer) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 21 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 22 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 23 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Tinubu and APC](http://twitter.com/search?q=Tinubu+and+APC) | N/A |
-| 26 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 27 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 28 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
-| 29 | [Kwara](http://twitter.com/search?q=Kwara) | N/A |
-| 30 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
-| 31 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
-| 32 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 33 | [Obidiots](http://twitter.com/search?q=Obidiots) | N/A |
-| 34 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 35 | [Agulu](http://twitter.com/search?q=Agulu) | N/A |
-| 36 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 37 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 38 | [#TinubuLeaveYorubasAlone](http://twitter.com/search?q=%23TinubuLeaveYorubasAlone) | N/A |
-| 39 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 13 | [#TankAndTummy](http://twitter.com/search?q=%23TankAndTummy) | N/A |
+| 14 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [Congratulations AJ](http://twitter.com/search?q=Congratulations+AJ) | N/A |
+| 17 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
+| 18 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 22 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 24 | [Kwara](http://twitter.com/search?q=Kwara) | N/A |
+| 25 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 28 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 29 | [Tinubu and APC](http://twitter.com/search?q=Tinubu+and+APC) | N/A |
+| 30 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 31 | [Jermaine Franklin](http://twitter.com/search?q=Jermaine+Franklin) | N/A |
+| 32 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 33 | [The APC](http://twitter.com/search?q=The+APC) | N/A |
+| 34 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
+| 35 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
+| 36 | [Agulu](http://twitter.com/search?q=Agulu) | N/A |
+| 37 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 38 | [#TinubuIsADrugDealer](http://twitter.com/search?q=%23TinubuIsADrugDealer) | N/A |
+| 39 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 40 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 41 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 42 | [#WrestleMania39](http://twitter.com/search?q=%23WrestleMania39) | N/A |
+| 43 | [#TinubuLeaveYorubasAlone](http://twitter.com/search?q=%23TinubuLeaveYorubasAlone) | N/A |
 
 
 

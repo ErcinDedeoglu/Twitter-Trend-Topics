@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-02 09:18:03 UTC`
+📆 Last Updated: `2023-04-02 10:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,54 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 5 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 6 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 7 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 8 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 9 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 10 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 2 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 4 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 5 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 6 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 10 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
 | 11 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 12 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 14 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 16 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 17 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 18 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 19 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
-| 20 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 21 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 22 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
-| 23 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 24 | [Día del Veterano](http://twitter.com/search?q=D%c3%ada+del+Veterano) | N/A |
-| 25 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
-| 26 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 27 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 29 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 30 | [Vélez](http://twitter.com/search?q=V%c3%a9lez) | N/A |
-| 31 | [Martin Fierro](http://twitter.com/search?q=Martin+Fierro) | N/A |
-| 32 | [Huracan](http://twitter.com/search?q=Huracan) | N/A |
-| 33 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 16 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 17 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 18 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 19 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 21 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 22 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 24 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 25 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 26 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 27 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 28 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 29 | [felices 115](http://twitter.com/search?q=felices+115) | N/A |
+| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 31 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 34 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 35 | [cazares](http://twitter.com/search?q=cazares) | N/A |
+| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 37 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 38 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
+| 39 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 40 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 41 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 42 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 43 | [Eskenazi](http://twitter.com/search?q=Eskenazi) | N/A |
+| 44 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 45 | [POL FERNÁNDEZ](http://twitter.com/search?q=POL+FERN%c3%81NDEZ) | N/A |
+| 46 | [Casa Rosada](http://twitter.com/search?q=Casa+Rosada) | N/A |
+| 47 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 48 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
+| 49 | [niembro](http://twitter.com/search?q=niembro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-02 09:18:57 UTC`
+📆 Last Updated: `2023-04-02 10:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,20 +16,20 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#كويتيين_نرفض_حكومه_منتخبه](http://twitter.com/search?q=%23%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%8a%d9%86_%d9%86%d8%b1%d9%81%d8%b6_%d8%ad%d9%83%d9%88%d9%85%d9%87_%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%87) | N/A |
-| 2 | [#احمد_النواف](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 3 | [#سعود_الركيبي](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af_%d8%a7%d9%84%d8%b1%d9%83%d9%8a%d8%a8%d9%8a) | N/A |
+| 2 | [#سعود_الركيبي](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af_%d8%a7%d9%84%d8%b1%d9%83%d9%8a%d8%a8%d9%8a) | N/A |
+| 3 | [#احمد_النواف](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
 | 4 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 5 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 6 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 7 | [#بفزعه_اهل_الكويت_نسعدهم](http://twitter.com/search?q=%23%d8%a8%d9%81%d8%b2%d8%b9%d9%87_%d8%a7%d9%87%d9%84_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa_%d9%86%d8%b3%d8%b9%d8%af%d9%87%d9%85) | N/A |
+| 5 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 6 | [#بفزعه_اهل_الكويت_نسعدهم](http://twitter.com/search?q=%23%d8%a8%d9%81%d8%b2%d8%b9%d9%87_%d8%a7%d9%87%d9%84_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa_%d9%86%d8%b3%d8%b9%d8%af%d9%87%d9%85) | N/A |
+| 7 | [#بنت_المجال](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%aa_%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84) | N/A |
 | 8 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
 | 9 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 10 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 11 | [11 رمضان](http://twitter.com/search?q=11+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 12 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
 | 13 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 14 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 15 | [صندوق البريد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
+| 14 | [صندوق البريد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
+| 15 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
 | 16 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
 | 17 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 18 | [بن فطيس](http://twitter.com/search?q=%d8%a8%d9%86+%d9%81%d8%b7%d9%8a%d8%b3) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Kuwait
 | 26 | [ربه منزل](http://twitter.com/search?q=%d8%b1%d8%a8%d9%87+%d9%85%d9%86%d8%b2%d9%84) | N/A |
 | 27 | [امير القلوب](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%82%d9%84%d9%88%d8%a8) | N/A |
 | 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
+| 29 | [غياث المستغيثين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%a7%d8%ab+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab%d9%8a%d9%86) | N/A |
 | 30 | [عمل اللازم](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%84%d8%a7%d8%b2%d9%85) | N/A |
 | 31 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
 | 32 | [حمد الصالح](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
 | 33 | [عبدالقادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | N/A |
 | 34 | [القطاع النفطي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a) | N/A |
-| 35 | [غياث المستغيثين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%a7%d8%ab+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab%d9%8a%d9%86) | N/A |
+| 35 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
 | 36 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 37 | [غاز البروبان](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2+%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d8%a8%d8%a7%d9%86) | N/A |
 | 38 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
 | 39 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 40 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
 | 41 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 43 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
-| 44 | [بابا جابر](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 45 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 46 | [يوسف سيف](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b3%d9%8a%d9%81) | N/A |
-| 47 | [الدوري الالماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 49 | [الدوام المرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%86) | N/A |
-| 50 | [اليوم الحادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
+| 42 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
+| 43 | [بابا جابر](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 44 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
+| 45 | [يوسف سيف](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b3%d9%8a%d9%81) | N/A |
+| 46 | [الدوري الالماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 48 | [اليوم الحادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
+| 49 | [ميناء الاحمدي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 50 | [حارس السالميه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
 
 
 

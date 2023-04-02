@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-02 09:18:43 UTC`
+📆 Last Updated: `2023-04-02 10:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 7 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 8 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 10 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 13 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 7 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
+| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 9 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 11 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 17 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 18 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 21 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 22 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
-| 23 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 24 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 25 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 26 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 27 | [#BanGDream5th](http://twitter.com/search?q=%23BanGDream5th) | N/A |
-| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 29 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 30 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 31 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 32 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 33 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 34 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 35 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 36 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 37 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 15 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 17 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
+| 18 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 19 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 22 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 23 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 24 | [#BanGDream5th](http://twitter.com/search?q=%23BanGDream5th) | N/A |
+| 25 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 26 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 27 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 28 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 30 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 31 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 32 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 33 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 34 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 35 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 36 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 37 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
 | 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 39 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 40 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
-| 41 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 42 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 43 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 44 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 45 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 46 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 47 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 48 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 49 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 40 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 41 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 42 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 43 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 45 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 46 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 47 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 48 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 49 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
 | 50 | [Albon](http://twitter.com/search?q=Albon) | N/A |
 
 

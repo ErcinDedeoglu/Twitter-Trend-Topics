@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-04-02 09:18:19 UTC`
+📆 Last Updated: `2023-04-02 10:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 2 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 3 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 4 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
-| 5 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
-| 6 | [#シーホース三河](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%83%9b%e3%83%bc%e3%82%b9%e4%b8%89%e6%b2%b3) | N/A |
-| 7 | [#中日ドラゴンズ](http://twitter.com/search?q=%23%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
-| 8 | [#SKE48春のチームコンサート2023](http://twitter.com/search?q=%23SKE48%e6%98%a5%e3%81%ae%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%882023) | N/A |
-| 9 | [#dragons](http://twitter.com/search?q=%23dragons) | N/A |
-| 10 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 11 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 12 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | キュアウィング (Kyuu Wingu) is a Japanese term for a type of healing technique that uses the power of positive energy to help people heal from physical and emotional pain. It is based on the idea that the power of love and kindness can be used to heal and restore balance in a person's life. The technique involves sending positive energy to the person in need, either through touch or visualization. |
-| 13 | [東京ドーム](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%89%e3%83%bc%e3%83%a0) | 東京ドーム is a large stadium located in Tokyo, Japan. It is the home of the Yomiuri Giants baseball team and has hosted a variety of events, including concerts, sporting events, and conventions. The name "東京ドーム" translates to "Tokyo Dome" in English. |
+| 1 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
+| 2 | [ルメール](http://twitter.com/search?q=%e3%83%ab%e3%83%a1%e3%83%bc%e3%83%ab) | ルメール is a French surname. It is derived from the Germanic name "Rudmer" which means "famous power". In English, the name would be "Rudmer". |
+| 3 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
+| 4 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 5 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
+| 6 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 7 | [#swallows](http://twitter.com/search?q=%23swallows) | N/A |
+| 8 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
+| 9 | [#中日ドラゴンズ](http://twitter.com/search?q=%23%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 10 | [#シーホース三河](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%83%9b%e3%83%bc%e3%82%b9%e4%b8%89%e6%b2%b3) | N/A |
+| 11 | [#SKE48春のチームコンサート2023](http://twitter.com/search?q=%23SKE48%e6%98%a5%e3%81%ae%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%882023) | N/A |
+| 12 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
+| 13 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
 | 14 | [ジャックドール](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
 | 15 | [開幕3連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%953%e9%80%a3%e5%8b%9d) | N/A |
-| 16 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
-| 17 | [スターズオンアース](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e3%82%aa%e3%83%b3%e3%82%a2%e3%83%bc%e3%82%b9) | N/A |
-| 18 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
+| 16 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
+| 17 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
+| 18 | [スターズオンアース](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e3%82%aa%e3%83%b3%e3%82%a2%e3%83%bc%e3%82%b9) | N/A |
 | 19 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
 | 20 | [池田さん](http://twitter.com/search?q=%e6%b1%a0%e7%94%b0%e3%81%95%e3%82%93) | 池田さん is a Japanese honorific title used to refer to someone with the surname Ikeda. It is similar to the English title of "Mr. Ikeda" or "Mrs. Ikeda". |
 | 21 | [ランニングホームラン](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 22 | [ダブスタクソ親父](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%82%b9%e3%82%bf%e3%82%af%e3%82%bd%e8%a6%aa%e7%88%b6) | ダブスタクソ親父 is a slang term used in Japan to refer to someone who is a strict and overbearing father. It literally translates to "double-standard father". |
-| 23 | [池田秀一さん](http://twitter.com/search?q=%e6%b1%a0%e7%94%b0%e7%a7%80%e4%b8%80%e3%81%95%e3%82%93) | 池田秀一さん is the name of a Japanese politician. In English, it would be translated as "Mr. Hidekazu Ikeda". |
-| 24 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
-| 25 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 26 | [サインツ](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%84) | N/A |
+| 22 | [ミライドン優勝](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%83%89%e3%83%b3%e5%84%aa%e5%8b%9d) | N/A |
+| 23 | [ライダー金時](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e9%87%91%e6%99%82) | N/A |
+| 24 | [牛久大仏](http://twitter.com/search?q=%e7%89%9b%e4%b9%85%e5%a4%a7%e4%bb%8f) | N/A |
+| 25 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
+| 26 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
 | 27 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
-| 28 | [ヴェルトライゼンデ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%83%88%e3%83%a9%e3%82%a4%e3%82%bc%e3%83%b3%e3%83%87) | ヴェルトライゼンデ is a German phrase meaning "the golden age". It is often used to refer to a period of time in which there was great prosperity and cultural achievement. |
-| 29 | [武豊騎手](http://twitter.com/search?q=%e6%ad%a6%e8%b1%8a%e9%a8%8e%e6%89%8b) | 武豊騎手 (Takeyuki Uchida) is a Japanese jockey who has won numerous races in Japan and abroad. He is one of the most successful jockeys in Japan, having won the Japan Cup, the Tokyo Yushun (Japanese Derby), and the Tenno Sho (Emperor's Cup). His English name is Takeyuki Uchida. |
-| 30 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
-| 31 | [開幕3タテ](http://twitter.com/search?q=%e9%96%8b%e5%b9%953%e3%82%bf%e3%83%86) | N/A |
-| 32 | [ジェラルディーナ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%a9%e3%83%ab%e3%83%87%e3%82%a3%e3%83%bc%e3%83%8a) | ジェラルディーナ is a Japanese female given name. It is derived from the Italian name Gerardo, which means "brave spearman". In English, it can be translated to mean "brave warrior". |
-| 33 | [角田くん](http://twitter.com/search?q=%e8%a7%92%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
-| 34 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
-| 35 | [わしほー](http://twitter.com/search?q=%e3%82%8f%e3%81%97%e3%81%bb%e3%83%bc) | N/A |
-| 36 | [マリアエレーナ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%a2%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%8a) | マリアエレーナ is a Japanese song composed by Yumi Matsutoya. The title translates to "Maria Elena" in English. The song is about a woman who has been betrayed by her lover and is trying to find the strength to move on. |
-| 37 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
-| 38 | [確信歩き](http://twitter.com/search?q=%e7%a2%ba%e4%bf%a1%e6%ad%a9%e3%81%8d) | N/A |
-| 39 | [ローリングスタート](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
-| 40 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 41 | [テーオーシリウス](http://twitter.com/search?q=%e3%83%86%e3%83%bc%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%aa%e3%82%a6%e3%82%b9) | N/A |
-| 42 | [グルーシャ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a3) | N/A |
-| 43 | [開幕カード](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 44 | [岡田采配](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e9%87%87%e9%85%8d) | N/A |
-| 45 | [リスタート](http://twitter.com/search?q=%e3%83%aa%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
-| 46 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 47 | [公式BOOTH](http://twitter.com/search?q=%e5%85%ac%e5%bc%8fBOOTH) | 公式BOOTH is an online marketplace in Japan that specializes in selling digital products such as music, comics, books, and games. It is similar to other online stores such as Amazon and iTunes. The name "公式BOOTH" translates to "Official Booth" in English. |
-| 48 | [うさほー](http://twitter.com/search?q=%e3%81%86%e3%81%95%e3%81%bb%e3%83%bc) | N/A |
-| 49 | [野間さん](http://twitter.com/search?q=%e9%87%8e%e9%96%93%e3%81%95%e3%82%93) | N/A |
-| 50 | [Cホール](http://twitter.com/search?q=C%e3%83%9b%e3%83%bc%e3%83%ab) | Cホール (C Hall) is a type of concert hall in Japan. It is a medium-sized venue, typically seating between 500 and 1,500 people. It is used for concerts, theatrical performances, and other events. In English, it can be translated as "C Hall". |
+| 28 | [池田秀一さん](http://twitter.com/search?q=%e6%b1%a0%e7%94%b0%e7%a7%80%e4%b8%80%e3%81%95%e3%82%93) | 池田秀一さん is the name of a Japanese politician. In English, it would be translated as "Mr. Hidekazu Ikeda". |
+| 29 | [ダブスタクソ親父](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%82%b9%e3%82%bf%e3%82%af%e3%82%bd%e8%a6%aa%e7%88%b6) | ダブスタクソ親父 is a slang term used in Japan to refer to someone who is a strict and overbearing father. It literally translates to "double-standard father". |
+| 30 | [KORN](http://twitter.com/search?q=KORN) | N/A |
+| 31 | [Comma](http://twitter.com/search?q=Comma) | N/A |
+| 32 | [開幕3タテ](http://twitter.com/search?q=%e9%96%8b%e5%b9%953%e3%82%bf%e3%83%86) | N/A |
+| 33 | [武豊騎手](http://twitter.com/search?q=%e6%ad%a6%e8%b1%8a%e9%a8%8e%e6%89%8b) | 武豊騎手 (Takeyuki Uchida) is a Japanese jockey who has won numerous races in Japan and abroad. He is one of the most successful jockeys in Japan, having won the Japan Cup, the Tokyo Yushun (Japanese Derby), and the Tenno Sho (Emperor's Cup). His English name is Takeyuki Uchida. |
+| 34 | [妖怪ランキング](http://twitter.com/search?q=%e5%a6%96%e6%80%aa%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 35 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
+| 36 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 37 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
+| 38 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
+| 39 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
+| 40 | [飼育難易度](http://twitter.com/search?q=%e9%a3%bc%e8%82%b2%e9%9b%a3%e6%98%93%e5%ba%a6) | 飼育難易度 (shīyù nányìdù) is a Japanese term that translates to "difficulty of keeping/raising" and refers to the difficulty of taking care of a particular pet or animal. It is used to describe how difficult it is to look after a certain type of pet, such as a dog, cat, or bird. |
+| 41 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
+| 42 | [ローリングスタート](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
+| 43 | [サインツ](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%84) | N/A |
+| 44 | [ジェターク家](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%bf%e3%83%bc%e3%82%af%e5%ae%b6) | N/A |
+| 45 | [開幕カード](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 46 | [グルーシャ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a3) | N/A |
+| 47 | [わしほー](http://twitter.com/search?q=%e3%82%8f%e3%81%97%e3%81%bb%e3%83%bc) | N/A |
+| 48 | [妻と愛人](http://twitter.com/search?q=%e5%a6%bb%e3%81%a8%e6%84%9b%e4%ba%ba) | N/A |
+| 49 | [角田くん](http://twitter.com/search?q=%e8%a7%92%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
+| 50 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
 
 
 

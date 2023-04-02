@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-02 09:18:50 UTC`
+📆 Last Updated: `2023-04-02 10:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [United States](</United States>)
 | 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 5 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 6 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 11 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 13 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 8 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 14 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 15 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 18 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 19 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 20 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
-| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 22 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 23 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 24 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 25 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 26 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 27 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 28 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 29 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 30 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 16 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
+| 17 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 18 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 21 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 23 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 24 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 25 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 26 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 27 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 28 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 29 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 30 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
 | 31 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 32 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 33 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 34 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 32 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 33 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 34 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
 | 35 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 36 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 37 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
-| 38 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 39 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 40 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 41 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 42 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 43 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 45 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 46 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 47 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 48 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 49 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 37 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 38 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 39 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 40 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 41 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 42 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 43 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 44 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 45 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 46 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 47 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 48 | [Pat Mcafee](http://twitter.com/search?q=Pat+Mcafee) | N/A |
+| 49 | [Albon](http://twitter.com/search?q=Albon) | N/A |
 
 
 
