@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-04-02 02:30:26 UTC`
+📆 Last Updated: `2023-04-02 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Greece](</Greece>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#j2us](http://twitter.com/search?q=%23j2us) | #j2us is an abbreviation for "Japan to US," which refers to the movement of people, goods, and services from Japan to the United States. |
-| 2 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
+| 1 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
+| 2 | [#j2us](http://twitter.com/search?q=%23j2us) | #j2us is an abbreviation for "Japan to US," which refers to the movement of people, goods, and services from Japan to the United States. |
 | 3 | [#spitimetomega](http://twitter.com/search?q=%23spitimetomega) | N/A |
 | 4 | [#pinokio](http://twitter.com/search?q=%23pinokio) | N/A |
 | 5 | [#Πρωταπριλια](http://twitter.com/search?q=%23%ce%a0%cf%81%cf%89%cf%84%ce%b1%cf%80%cf%81%ce%b9%ce%bb%ce%b9%ce%b1) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [Greece](</Greece>)
 | 10 | [ναταλια](http://twitter.com/search?q=%ce%bd%ce%b1%cf%84%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
 | 11 | [Τηνο](http://twitter.com/search?q=%ce%a4%ce%b7%ce%bd%ce%bf) | N/A |
 | 12 | [εοκα](http://twitter.com/search?q=%ce%b5%ce%bf%ce%ba%ce%b1) | N/A |
-| 13 | [Μπανε](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%bd%ce%b5) | N/A |
+| 13 | [μπανε](http://twitter.com/search?q=%ce%bc%cf%80%ce%b1%ce%bd%ce%b5) | N/A |
 | 14 | [μοτο](http://twitter.com/search?q=%ce%bc%ce%bf%cf%84%ce%bf) | N/A |
 | 15 | [αγια παρασκευη](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b9%ce%b1+%cf%80%ce%b1%cf%81%ce%b1%cf%83%ce%ba%ce%b5%cf%85%ce%b7) | N/A |
 | 16 | [ΠΑΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%9f%ce%9a) | N/A |
 | 17 | [απριλη](http://twitter.com/search?q=%ce%b1%cf%80%cf%81%ce%b9%ce%bb%ce%b7) | N/A |
-| 18 | [Σαρμπελ](http://twitter.com/search?q=%ce%a3%ce%b1%cf%81%ce%bc%cf%80%ce%b5%ce%bb) | N/A |
-| 19 | [Μερκουρη](http://twitter.com/search?q=%ce%9c%ce%b5%cf%81%ce%ba%ce%bf%cf%85%cf%81%ce%b7) | N/A |
+| 18 | [σαρμπελ](http://twitter.com/search?q=%cf%83%ce%b1%cf%81%ce%bc%cf%80%ce%b5%ce%bb) | N/A |
+| 19 | [μερκουρη](http://twitter.com/search?q=%ce%bc%ce%b5%cf%81%ce%ba%ce%bf%cf%85%cf%81%ce%b7) | N/A |
 | 20 | [1 Απριλιου](http://twitter.com/search?q=1+%ce%91%cf%80%cf%81%ce%b9%ce%bb%ce%b9%ce%bf%cf%85) | N/A |
 | 21 | [κοκοτας](http://twitter.com/search?q=%ce%ba%ce%bf%ce%ba%ce%bf%cf%84%ce%b1%cf%82) | N/A |
-| 22 | [Τερλεγκα](http://twitter.com/search?q=%ce%a4%ce%b5%cf%81%ce%bb%ce%b5%ce%b3%ce%ba%ce%b1) | N/A |
+| 22 | [τερλεγκα](http://twitter.com/search?q=%cf%84%ce%b5%cf%81%ce%bb%ce%b5%ce%b3%ce%ba%ce%b1) | N/A |
 | 23 | [τραμπ](http://twitter.com/search?q=%cf%84%cf%81%ce%b1%ce%bc%cf%80) | N/A |
-| 24 | [Καλαματα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b1%ce%bc%ce%b1%cf%84%ce%b1) | N/A |
+| 24 | [καλαματα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b1%ce%bc%ce%b1%cf%84%ce%b1) | N/A |
 | 25 | [γιαννης κυραστας](http://twitter.com/search?q=%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7%cf%82+%ce%ba%cf%85%cf%81%ce%b1%cf%83%cf%84%ce%b1%cf%82) | N/A |
-| 26 | [Γερμανου](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%bf%cf%85) | N/A |
-| 27 | [Βανδη](http://twitter.com/search?q=%ce%92%ce%b1%ce%bd%ce%b4%ce%b7) | N/A |
-| 28 | [Τερνα](http://twitter.com/search?q=%ce%a4%ce%b5%cf%81%ce%bd%ce%b1) | N/A |
-| 29 | [σαββατου](http://twitter.com/search?q=%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
-| 30 | [Ιντρακατ](http://twitter.com/search?q=%ce%99%ce%bd%cf%84%cf%81%ce%b1%ce%ba%ce%b1%cf%84) | N/A |
-| 31 | [μπλακ](http://twitter.com/search?q=%ce%bc%cf%80%ce%bb%ce%b1%ce%ba) | N/A |
-| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 33 | [τζουλια](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%cf%85%ce%bb%ce%b9%ce%b1) | N/A |
-| 34 | [λεβεντογιαννης](http://twitter.com/search?q=%ce%bb%ce%b5%ce%b2%ce%b5%ce%bd%cf%84%ce%bf%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7%cf%82) | N/A |
-| 35 | [καθαρα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%b8%ce%b1%cf%81%ce%b1) | N/A |
-| 36 | [πινοκιο](http://twitter.com/search?q=%cf%80%ce%b9%ce%bd%ce%bf%ce%ba%ce%b9%ce%bf) | N/A |
-| 37 | [αναστοπουλου](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%85) | N/A |
-| 38 | [ημισκουμπρια](http://twitter.com/search?q=%ce%b7%ce%bc%ce%b9%cf%83%ce%ba%ce%bf%cf%85%ce%bc%cf%80%cf%81%ce%b9%ce%b1) | N/A |
-| 39 | [μπεη](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b7) | N/A |
-| 40 | [μαριαννα](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%ce%b9%ce%b1%ce%bd%ce%bd%ce%b1) | N/A |
-| 41 | [Μιχαλολιακος](http://twitter.com/search?q=%ce%9c%ce%b9%cf%87%ce%b1%ce%bb%ce%bf%ce%bb%ce%b9%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
-| 42 | [μαρια πολυδουρη](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%ce%b9%ce%b1+%cf%80%ce%bf%ce%bb%cf%85%ce%b4%ce%bf%cf%85%cf%81%ce%b7) | N/A |
-| 43 | [Ραπτη](http://twitter.com/search?q=%ce%a1%ce%b1%cf%80%cf%84%ce%b7) | N/A |
-| 44 | [σταικουρας](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%b9%ce%ba%ce%bf%cf%85%cf%81%ce%b1%cf%82) | N/A |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [κιεβου](http://twitter.com/search?q=%ce%ba%ce%b9%ce%b5%ce%b2%ce%bf%cf%85) | N/A |
-| 47 | [περισσο](http://twitter.com/search?q=%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%83%ce%bf) | N/A |
-| 48 | [ντορτμουντ](http://twitter.com/search?q=%ce%bd%cf%84%ce%bf%cf%81%cf%84%ce%bc%ce%bf%cf%85%ce%bd%cf%84) | N/A |
-| 49 | [Ραγκουση](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b3%ce%ba%ce%bf%cf%85%cf%83%ce%b7) | N/A |
-| 50 | [λιβερπουλ](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b2%ce%b5%cf%81%cf%80%ce%bf%cf%85%ce%bb) | N/A |
+| 26 | [γερμανου](http://twitter.com/search?q=%ce%b3%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%bf%cf%85) | N/A |
+| 27 | [Τερνα](http://twitter.com/search?q=%ce%a4%ce%b5%cf%81%ce%bd%ce%b1) | N/A |
+| 28 | [σαββατου](http://twitter.com/search?q=%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
+| 29 | [ιντρακατ](http://twitter.com/search?q=%ce%b9%ce%bd%cf%84%cf%81%ce%b1%ce%ba%ce%b1%cf%84) | N/A |
+| 30 | [μπλακ](http://twitter.com/search?q=%ce%bc%cf%80%ce%bb%ce%b1%ce%ba) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [τζουλια](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%cf%85%ce%bb%ce%b9%ce%b1) | N/A |
+| 33 | [καθαρα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%b8%ce%b1%cf%81%ce%b1) | N/A |
+| 34 | [πινοκιο](http://twitter.com/search?q=%cf%80%ce%b9%ce%bd%ce%bf%ce%ba%ce%b9%ce%bf) | N/A |
+| 35 | [αναστοπουλου](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%85) | N/A |
+| 36 | [ημισκουμπρια](http://twitter.com/search?q=%ce%b7%ce%bc%ce%b9%cf%83%ce%ba%ce%bf%cf%85%ce%bc%cf%80%cf%81%ce%b9%ce%b1) | N/A |
+| 37 | [μπεη](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b7) | N/A |
+| 38 | [μαριαννα](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%ce%b9%ce%b1%ce%bd%ce%bd%ce%b1) | N/A |
+| 39 | [μιχαλολιακος](http://twitter.com/search?q=%ce%bc%ce%b9%cf%87%ce%b1%ce%bb%ce%bf%ce%bb%ce%b9%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
+| 40 | [μαρια πολυδουρη](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%ce%b9%ce%b1+%cf%80%ce%bf%ce%bb%cf%85%ce%b4%ce%bf%cf%85%cf%81%ce%b7) | N/A |
+| 41 | [ραπτη](http://twitter.com/search?q=%cf%81%ce%b1%cf%80%cf%84%ce%b7) | N/A |
+| 42 | [σταικουρας](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%b9%ce%ba%ce%bf%cf%85%cf%81%ce%b1%cf%82) | N/A |
+| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 44 | [κιεβου](http://twitter.com/search?q=%ce%ba%ce%b9%ce%b5%ce%b2%ce%bf%cf%85) | N/A |
+| 45 | [περισσο](http://twitter.com/search?q=%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%83%ce%bf) | N/A |
+| 46 | [ντορτμουντ](http://twitter.com/search?q=%ce%bd%cf%84%ce%bf%cf%81%cf%84%ce%bc%ce%bf%cf%85%ce%bd%cf%84) | N/A |
+| 47 | [Ραγκουση](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b3%ce%ba%ce%bf%cf%85%cf%83%ce%b7) | N/A |
+| 48 | [λιβερπουλ](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b2%ce%b5%cf%81%cf%80%ce%bf%cf%85%ce%bb) | N/A |
+| 49 | [Γουοκαπ](http://twitter.com/search?q=%ce%93%ce%bf%cf%85%ce%bf%ce%ba%ce%b1%cf%80) | N/A |
+| 50 | [σαββατα](http://twitter.com/search?q=%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%b1) | N/A |
 
 
 

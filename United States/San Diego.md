@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-02 02:30:53 UTC`
+📆 Last Updated: `2023-04-02 03:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Padres](http://twitter.com/search?q=Padres) | N/A |
 | 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 3 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 4 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 5 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 6 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 7 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
-| 8 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 9 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 10 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 11 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 12 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
-| 13 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 14 | [Blackmon](http://twitter.com/search?q=Blackmon) | N/A |
-| 15 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 16 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
-| 17 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 18 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
-| 19 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 20 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 21 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 22 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 23 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 25 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
-| 26 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 27 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 28 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
-| 29 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 30 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 31 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 32 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 33 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 4 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [MadBum](http://twitter.com/search?q=MadBum) | N/A |
+| 7 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 8 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
+| 9 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
+| 10 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 11 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 12 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 13 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 14 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 15 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
+| 16 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
+| 17 | [Blackmon](http://twitter.com/search?q=Blackmon) | N/A |
+| 18 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 19 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 21 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 22 | [Brandon Crawford](http://twitter.com/search?q=Brandon+Crawford) | N/A |
+| 23 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
+| 24 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 25 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 27 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 28 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 29 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 30 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 31 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 32 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 33 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
 | 34 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 35 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 36 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 37 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 38 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 39 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 40 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 41 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 42 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 43 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 44 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 45 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 46 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 47 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 48 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 49 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 50 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
+| 35 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 36 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 37 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 38 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 39 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 40 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 41 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 42 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 43 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 44 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 45 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 46 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 47 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 48 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 49 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 50 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
 
 
 

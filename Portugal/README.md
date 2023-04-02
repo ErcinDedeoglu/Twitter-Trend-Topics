@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-02 02:31:00 UTC`
+📆 Last Updated: `2023-04-02 03:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Portugal
 | 8 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
 | 9 | [#cariocanasporttv](http://twitter.com/search?q=%23cariocanasporttv) | N/A |
 | 10 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 11 | [#SousaVeiga](http://twitter.com/search?q=%23SousaVeiga) | N/A |
+| 11 | [#sousaveiga](http://twitter.com/search?q=%23sousaveiga) | N/A |
 | 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 13 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 | 14 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
@@ -41,14 +41,14 @@ This is top 50 for Portugal
 | 24 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 25 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
 | 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [O City](http://twitter.com/search?q=O+City) | N/A |
-| 28 | [afonso moreira](http://twitter.com/search?q=afonso+moreira) | N/A |
-| 29 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 30 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 32 | [Ivan Almeida](http://twitter.com/search?q=Ivan+Almeida) | N/A |
-| 33 | [Martim Moniz](http://twitter.com/search?q=Martim+Moniz) | N/A |
-| 34 | [Domingues](http://twitter.com/search?q=Domingues) | N/A |
+| 27 | [Domingues](http://twitter.com/search?q=Domingues) | N/A |
+| 28 | [O City](http://twitter.com/search?q=O+City) | N/A |
+| 29 | [afonso moreira](http://twitter.com/search?q=afonso+moreira) | N/A |
+| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 31 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 33 | [ivan almeida](http://twitter.com/search?q=ivan+almeida) | N/A |
+| 34 | [Martim Moniz](http://twitter.com/search?q=Martim+Moniz) | N/A |
 | 35 | [Marafona](http://twitter.com/search?q=Marafona) | N/A |
 | 36 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
 | 37 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
@@ -57,14 +57,14 @@ This is top 50 for Portugal
 | 40 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 41 | [Maria Leal](http://twitter.com/search?q=Maria+Leal) | N/A |
 | 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Paulo Bento](http://twitter.com/search?q=Paulo+Bento) | N/A |
-| 44 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 43 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 44 | [Paulo Bento](http://twitter.com/search?q=Paulo+Bento) | N/A |
 | 45 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 46 | [SEM MENTIRA](http://twitter.com/search?q=SEM+MENTIRA) | N/A |
-| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 49 | [diogo jota](http://twitter.com/search?q=diogo+jota) | N/A |
-| 50 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [diogo jota](http://twitter.com/search?q=diogo+jota) | N/A |
+| 49 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 50 | [Perez](http://twitter.com/search?q=Perez) | N/A |
 
 
 

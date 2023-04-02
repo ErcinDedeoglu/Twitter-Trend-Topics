@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-02 02:30:36 UTC`
+📆 Last Updated: `2023-04-02 03:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,20 +23,20 @@ This is top 50 for [Kenya](</Kenya>)
 | 6 | [#CheAvl](http://twitter.com/search?q=%23CheAvl) | N/A |
 | 7 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 8 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
-| 9 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 10 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
+| 9 | [#ARSLEE](http://twitter.com/search?q=%23ARSLEE) | N/A |
+| 10 | [#MegaMonday](http://twitter.com/search?q=%23MegaMonday) | N/A |
 | 11 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
-| 12 | [Mancity](http://twitter.com/search?q=Mancity) | N/A |
+| 12 | [ManCity](http://twitter.com/search?q=ManCity) | N/A |
 | 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 14 | [Cafe Ole Kisumu](http://twitter.com/search?q=Cafe+Ole+Kisumu) | N/A |
-| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 16 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 17 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 18 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 19 | [wakadinali](http://twitter.com/search?q=wakadinali) | N/A |
-| 20 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 21 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 22 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
+| 14 | [Fools](http://twitter.com/search?q=Fools) | N/A |
+| 15 | [cafe ole kisumu](http://twitter.com/search?q=cafe+ole+kisumu) | N/A |
+| 16 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 17 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 18 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 19 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 20 | [wakadinali](http://twitter.com/search?q=wakadinali) | N/A |
+| 21 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 23 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 | 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 25 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
@@ -44,22 +44,22 @@ This is top 50 for [Kenya](</Kenya>)
 | 27 | [mc saba j and tk lyon](http://twitter.com/search?q=mc+saba+j+and+tk+lyon) | N/A |
 | 28 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 30 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 31 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
-| 32 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 34 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 35 | [UPDF](http://twitter.com/search?q=UPDF) | N/A |
+| 30 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
+| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 32 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 33 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 35 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 36 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 37 | [Whispering](http://twitter.com/search?q=Whispering) | N/A |
 | 38 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
 | 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 41 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 42 | [im bank](http://twitter.com/search?q=im+bank) | N/A |
-| 43 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 44 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 45 | [Benny Blanco](http://twitter.com/search?q=Benny+Blanco) | N/A |
+| 41 | [UPDF](http://twitter.com/search?q=UPDF) | N/A |
+| 42 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 43 | [im bank](http://twitter.com/search?q=im+bank) | N/A |
+| 44 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 45 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
 | 46 | [stephen maloba](http://twitter.com/search?q=stephen+maloba) | N/A |
 | 47 | [malava](http://twitter.com/search?q=malava) | N/A |
 | 48 | [Moha](http://twitter.com/search?q=Moha) | N/A |

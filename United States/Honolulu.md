@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-04-02 02:30:49 UTC`
+📆 Last Updated: `2023-04-02 03:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
 | 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 3 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 4 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 5 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 6 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 8 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 9 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 10 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 11 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 12 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 13 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 14 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 15 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 16 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 3 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 4 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 5 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 6 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 7 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 8 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 9 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 10 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 11 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 12 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 13 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 14 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 15 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 16 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
 | 17 | [#DreamvilleFest2023](http://twitter.com/search?q=%23DreamvilleFest2023) | N/A |
-| 18 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 19 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 20 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 21 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
-| 22 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 23 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 24 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 25 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 26 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
-| 27 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 28 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 29 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 30 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 31 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 32 | [#TheTenCommandments](http://twitter.com/search?q=%23TheTenCommandments) | N/A |
-| 33 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 34 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 35 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 36 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 37 | [Prime](http://twitter.com/search?q=Prime) | N/A |
-| 38 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 39 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 40 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 41 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 42 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 43 | [Prison Dom](http://twitter.com/search?q=Prison+Dom) | N/A |
-| 44 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
-| 45 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 46 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 47 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
-| 48 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 18 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 19 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 20 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 21 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 22 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 23 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 24 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 25 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 26 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 27 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 28 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 29 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 30 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
+| 31 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
+| 32 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 33 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 34 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 35 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 36 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 37 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 38 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 39 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 40 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 41 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
+| 42 | [Clingan](http://twitter.com/search?q=Clingan) | N/A |
+| 43 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 44 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 45 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 46 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 47 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 48 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 49 | [Prime](http://twitter.com/search?q=Prime) | N/A |
 
 
 

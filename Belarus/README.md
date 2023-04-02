@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-02 02:30:56 UTC`
+📆 Last Updated: `2023-04-02 03:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,19 +25,19 @@ This is top 50 for Belarus
 | 8 | [GM Fren](http://twitter.com/search?q=GM+Fren) | N/A |
 | 9 | [послание президента](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5+%d0%bf%d1%80%d0%b5%d0%b7%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d0%b0) | N/A |
 | 10 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 11 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 12 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
+| 11 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 12 | [смотри](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
 | 13 | [посланием](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc) | N/A |
 | 14 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
 | 15 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 16 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
-| 17 | [послания](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
-| 18 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 16 | [послания](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
+| 17 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 18 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
 | 19 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 20 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | N/A |
 | 21 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
 | 22 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 23 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 23 | [ладно](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 25 | [россией](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
 | 26 | [прям](http://twitter.com/search?q=%d0%bf%d1%80%d1%8f%d0%bc) | N/A |

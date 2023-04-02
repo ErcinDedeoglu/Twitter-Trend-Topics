@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-02 02:30:06 UTC`
+📆 Last Updated: `2023-04-02 03:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 1 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 2 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 3 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 4 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 5 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 6 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
-| 7 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 8 | [John McDavid](http://twitter.com/search?q=John+McDavid) | N/A |
-| 9 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 10 | [Sens](http://twitter.com/search?q=Sens) | N/A |
-| 11 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 12 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 13 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 14 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 15 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 16 | [Zohorna](http://twitter.com/search?q=Zohorna) | N/A |
-| 17 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 18 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 19 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 20 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 21 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 22 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 24 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 3 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 4 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 5 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 6 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 7 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 8 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 9 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 10 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 11 | [John McDavid](http://twitter.com/search?q=John+McDavid) | N/A |
+| 12 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 13 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 14 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 16 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 17 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
+| 18 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 19 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 20 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 21 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 22 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 23 | [Zohorna](http://twitter.com/search?q=Zohorna) | N/A |
+| 24 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 25 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 26 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 27 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 28 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 29 | [West Lorne](http://twitter.com/search?q=West+Lorne) | N/A |
-| 30 | [#KraftHockeyville](http://twitter.com/search?q=%23KraftHockeyville) | N/A |
-| 31 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
-| 32 | [HNIC](http://twitter.com/search?q=HNIC) | N/A |
-| 33 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
-| 34 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
-| 35 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 36 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 37 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
-| 38 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 39 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 40 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 41 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 42 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 43 | [#GoMooseGo](http://twitter.com/search?q=%23GoMooseGo) | N/A |
-| 44 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
-| 45 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 46 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
+| 26 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 27 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 29 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 30 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 31 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 32 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 33 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 34 | [West Lorne](http://twitter.com/search?q=West+Lorne) | N/A |
+| 35 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 36 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 37 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
+| 38 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
+| 39 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
+| 40 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 41 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 42 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 43 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 44 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 45 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 46 | [#WHLPlayoffs](http://twitter.com/search?q=%23WHLPlayoffs) | N/A |
+| 47 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
+| 48 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 49 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
 
 
 

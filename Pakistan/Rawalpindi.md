@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-04-02 02:30:41 UTC`
+📆 Last Updated: `2023-04-02 03:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 9 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
 | 10 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
-| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 11 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
+| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 14 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
 | 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 16 | [University of Peshawar](http://twitter.com/search?q=University+of+Peshawar) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 23 | [mother of fatima](http://twitter.com/search?q=mother+of+fatima) | N/A |
 | 24 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 25 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
-| 26 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 27 | [donate now](http://twitter.com/search?q=donate+now) | N/A |
-| 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 29 | [zakat-sadaqat](http://twitter.com/search?q=zakat-sadaqat) | N/A |
-| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 31 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 32 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Honest](http://twitter.com/search?q=Honest) | N/A |
-| 38 | [Dayal Singh](http://twitter.com/search?q=Dayal+Singh) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [kech](http://twitter.com/search?q=kech) | N/A |
-| 41 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 42 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 43 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 44 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 45 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 46 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 47 | [German](http://twitter.com/search?q=German) | N/A |
-| 48 | [Outstanding](http://twitter.com/search?q=Outstanding) | N/A |
-| 49 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 50 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 26 | [donate now](http://twitter.com/search?q=donate+now) | N/A |
+| 27 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 28 | [zakat-sadaqat](http://twitter.com/search?q=zakat-sadaqat) | N/A |
+| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 30 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 31 | [ehsaas](http://twitter.com/search?q=ehsaas) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 35 | [Honest](http://twitter.com/search?q=Honest) | N/A |
+| 36 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 37 | [Dayal Singh](http://twitter.com/search?q=Dayal+Singh) | N/A |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [kech](http://twitter.com/search?q=kech) | N/A |
+| 40 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 41 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 42 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 43 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 44 | [Golden](http://twitter.com/search?q=Golden) | N/A |
+| 45 | [W Salam](http://twitter.com/search?q=W+Salam) | N/A |
+| 46 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
+| 47 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 48 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 49 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 50 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 
 
 

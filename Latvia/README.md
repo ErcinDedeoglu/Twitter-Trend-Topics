@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-02 02:30:59 UTC`
+📆 Last Updated: `2023-04-02 03:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Latvia
 | 7 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 8 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
 | 9 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 10 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 10 | [tevi](http://twitter.com/search?q=tevi) | N/A |
 | 11 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
 | 12 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Latvia
 | 19 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 20 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 | 21 | [delfi](http://twitter.com/search?q=delfi) | N/A |
-| 22 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
+| 22 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
 | 23 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
 | 24 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
 | 25 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |

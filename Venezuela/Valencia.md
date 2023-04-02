@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-02 02:30:14 UTC`
+📆 Last Updated: `2023-04-02 03:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#OfensivaMoral](http://twitter.com/search?q=%23OfensivaMoral) | N/A |
 | 2 | [#1Abr](http://twitter.com/search?q=%231Abr) | N/A |
-| 3 | [#31Mar](http://twitter.com/search?q=%2331Mar) | N/A |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 4 | [#31Mar](http://twitter.com/search?q=%2331Mar) | N/A |
 | 5 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
 | 6 | [#MáximaConcienciaPopular](http://twitter.com/search?q=%23M%c3%a1ximaConcienciaPopular) | N/A |
 | 7 | [Bienvenido Abril](http://twitter.com/search?q=Bienvenido+Abril) | N/A |
 | 8 | [Olvany Gaspari](http://twitter.com/search?q=Olvany+Gaspari) | N/A |
 | 9 | [Macu](http://twitter.com/search?q=Macu) | N/A |
-| 10 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 10 | [Odor](http://twitter.com/search?q=Odor) | N/A |
 | 11 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 12 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 13 | [Bautista](http://twitter.com/search?q=Bautista) | N/A |
+| 12 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 13 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
 | 14 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 15 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 16 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
-| 17 | [Mage](http://twitter.com/search?q=Mage) | N/A |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 19 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 20 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 21 | [La Lucha](http://twitter.com/search?q=La+Lucha) | N/A |
-| 22 | [Día Mundial de la Educación](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Educaci%c3%b3n) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 18 | [Día Mundial de la Educación](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Educaci%c3%b3n) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Mage](http://twitter.com/search?q=Mage) | N/A |
+| 21 | [Bautista](http://twitter.com/search?q=Bautista) | N/A |
+| 22 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
+| 23 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 24 | [Carolina Perpetuo](http://twitter.com/search?q=Carolina+Perpetuo) | N/A |
-| 25 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
-| 26 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 27 | [Sofía Loren](http://twitter.com/search?q=Sof%c3%ada+Loren) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Delsa Solórzano](http://twitter.com/search?q=Delsa+Sol%c3%b3rzano) | N/A |
-| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [Zamuro](http://twitter.com/search?q=Zamuro) | N/A |
-| 32 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
-| 33 | [América Alonso](http://twitter.com/search?q=Am%c3%a9rica+Alonso) | N/A |
-| 34 | [Florida Derby](http://twitter.com/search?q=Florida+Derby) | N/A |
-| 35 | [Piolín](http://twitter.com/search?q=Piol%c3%adn) | N/A |
-| 36 | [Casos](http://twitter.com/search?q=Casos) | N/A |
-| 37 | [Cherry Navarro](http://twitter.com/search?q=Cherry+Navarro) | N/A |
-| 38 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
-| 39 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 40 | [Miguel Otero Silva](http://twitter.com/search?q=Miguel+Otero+Silva) | N/A |
-| 41 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
-| 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 43 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
-| 44 | [Estropajo](http://twitter.com/search?q=Estropajo) | N/A |
-| 45 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 46 | [Daniel Alvarado](http://twitter.com/search?q=Daniel+Alvarado) | N/A |
-| 47 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 48 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 49 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 25 | [Sofía Loren](http://twitter.com/search?q=Sof%c3%ada+Loren) | N/A |
+| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Zamuro](http://twitter.com/search?q=Zamuro) | N/A |
+| 29 | [Ley de Extinción de Dominio](http://twitter.com/search?q=Ley+de+Extinci%c3%b3n+de+Dominio) | N/A |
+| 30 | [América Alonso](http://twitter.com/search?q=Am%c3%a9rica+Alonso) | N/A |
+| 31 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 32 | [Florida Derby](http://twitter.com/search?q=Florida+Derby) | N/A |
+| 33 | [Piolín](http://twitter.com/search?q=Piol%c3%adn) | N/A |
+| 34 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 35 | [Casos](http://twitter.com/search?q=Casos) | N/A |
+| 36 | [Cherry Navarro](http://twitter.com/search?q=Cherry+Navarro) | N/A |
+| 37 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
+| 38 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 39 | [Miguel Otero Silva](http://twitter.com/search?q=Miguel+Otero+Silva) | N/A |
+| 40 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 41 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 42 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
+| 43 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 44 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 45 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
+| 46 | [Estropajo](http://twitter.com/search?q=Estropajo) | N/A |
+| 47 | [La Lucha](http://twitter.com/search?q=La+Lucha) | N/A |
+| 48 | [Palmeros de Chacao](http://twitter.com/search?q=Palmeros+de+Chacao) | N/A |
+| 49 | [Daniel Alvarado](http://twitter.com/search?q=Daniel+Alvarado) | N/A |
 
 
 

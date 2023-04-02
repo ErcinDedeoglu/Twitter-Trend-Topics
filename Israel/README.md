@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-02 02:30:58 UTC`
+📆 Last Updated: `2023-04-02 03:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,26 +20,26 @@ This is top 50 for Israel
 | 3 | [סוג ב](http://twitter.com/search?q=%d7%a1%d7%95%d7%92+%d7%91) | N/A |
 | 4 | [צהוב שני](http://twitter.com/search?q=%d7%a6%d7%94%d7%95%d7%91+%d7%a9%d7%a0%d7%99) | N/A |
 | 5 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 6 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [פיגוע דריסה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%93%d7%a8%d7%99%d7%a1%d7%94) | N/A |
-| 9 | [של השוטר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a9%d7%95%d7%98%d7%a8) | N/A |
+| 6 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 7 | [פיגוע דריסה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%93%d7%a8%d7%99%d7%a1%d7%94) | N/A |
+| 8 | [של השוטר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a9%d7%95%d7%98%d7%a8) | N/A |
+| 9 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
 | 10 | [מעמד האישה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%9e%d7%93+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
 | 11 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
 | 12 | [חשבון פייק](http://twitter.com/search?q=%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%a4%d7%99%d7%99%d7%a7) | N/A |
 | 13 | [#ArbEgg](http://twitter.com/search?q=%23ArbEgg) | N/A |
-| 14 | [עד תום](http://twitter.com/search?q=%d7%a2%d7%93+%d7%aa%d7%95%d7%9d) | N/A |
-| 15 | [חסות של](http://twitter.com/search?q=%d7%97%d7%a1%d7%95%d7%aa+%d7%a9%d7%9c) | N/A |
-| 16 | [محمد العصيبي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
-| 17 | [מכבי חיפה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 18 | [ילדה בת](http://twitter.com/search?q=%d7%99%d7%9c%d7%93%d7%94+%d7%91%d7%aa) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [של חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 21 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 22 | [קרן פלס](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%a4%d7%9c%d7%a1) | N/A |
-| 23 | [שער צהוב](http://twitter.com/search?q=%d7%a9%d7%a2%d7%a8+%d7%a6%d7%94%d7%95%d7%91) | N/A |
-| 24 | [סטר סיטי](http://twitter.com/search?q=%d7%a1%d7%98%d7%a8+%d7%a1%d7%99%d7%98%d7%99) | N/A |
-| 25 | [עם ציציות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a6%d7%99%d7%a6%d7%99%d7%95%d7%aa) | N/A |
+| 14 | [מכבי חיפה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [של חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 17 | [חסות של](http://twitter.com/search?q=%d7%97%d7%a1%d7%95%d7%aa+%d7%a9%d7%9c) | N/A |
+| 18 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 19 | [קרן פלס](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%a4%d7%9c%d7%a1) | N/A |
+| 20 | [עד תום](http://twitter.com/search?q=%d7%a2%d7%93+%d7%aa%d7%95%d7%9d) | N/A |
+| 21 | [שער צהוב](http://twitter.com/search?q=%d7%a9%d7%a2%d7%a8+%d7%a6%d7%94%d7%95%d7%91) | N/A |
+| 22 | [محمد العصيبي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
+| 23 | [סטר סיטי](http://twitter.com/search?q=%d7%a1%d7%98%d7%a8+%d7%a1%d7%99%d7%98%d7%99) | N/A |
+| 24 | [עם ציציות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a6%d7%99%d7%a6%d7%99%d7%95%d7%aa) | N/A |
+| 25 | [ילדה בת](http://twitter.com/search?q=%d7%99%d7%9c%d7%93%d7%94+%d7%91%d7%aa) | N/A |
 | 26 | [נערה בת](http://twitter.com/search?q=%d7%a0%d7%a2%d7%a8%d7%94+%d7%91%d7%aa) | N/A |
 | 27 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
 | 28 | [הפועל באר שבע](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%91%d7%90%d7%a8+%d7%a9%d7%91%d7%a2) | N/A |
@@ -49,12 +49,12 @@ This is top 50 for Israel
 | 32 | [רמי גרשון](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%92%d7%a8%d7%a9%d7%95%d7%9f) | N/A |
 | 33 | [של הרבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a8%d7%91%d7%99) | N/A |
 | 34 | [רצח אופי](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%90%d7%95%d7%a4%d7%99) | N/A |
-| 35 | [תנאי שחרור](http://twitter.com/search?q=%d7%aa%d7%a0%d7%90%d7%99+%d7%a9%d7%97%d7%a8%d7%95%d7%a8) | N/A |
-| 36 | [יואב הורוביץ](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%94%d7%95%d7%a8%d7%95%d7%91%d7%99%d7%a5) | N/A |
-| 37 | [משה איבגי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 38 | [של פיירו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%99%d7%a8%d7%95) | N/A |
-| 39 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
-| 40 | [מעצר בית](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a6%d7%a8+%d7%91%d7%99%d7%aa) | N/A |
+| 35 | [יואב הורוביץ](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%94%d7%95%d7%a8%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 36 | [של פיירו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%99%d7%a8%d7%95) | N/A |
+| 37 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
+| 38 | [תנאי שחרור](http://twitter.com/search?q=%d7%aa%d7%a0%d7%90%d7%99+%d7%a9%d7%97%d7%a8%d7%95%d7%a8) | N/A |
+| 39 | [מעצר בית](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a6%d7%a8+%d7%91%d7%99%d7%aa) | N/A |
+| 40 | [משה איבגי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
 | 41 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 42 | [גשר יהודית](http://twitter.com/search?q=%d7%92%d7%a9%d7%a8+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa) | N/A |
 | 43 | [כהנא חי](http://twitter.com/search?q=%d7%9b%d7%94%d7%a0%d7%90+%d7%97%d7%99) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-02 02:30:25 UTC`
+📆 Last Updated: `2023-04-02 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,9 +27,9 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 11 | [Expo](http://twitter.com/search?q=Expo) | N/A |
 | 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 13 | [#1april](http://twitter.com/search?q=%231april) | N/A |
-| 14 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 15 | [#vårpåminplanet](http://twitter.com/search?q=%23v%c3%a5rp%c3%a5minplanet) | N/A |
+| 13 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
+| 14 | [#vårpåminplanet](http://twitter.com/search?q=%23v%c3%a5rp%c3%a5minplanet) | N/A |
+| 15 | [#fotbollströjefredag](http://twitter.com/search?q=%23fotbollstr%c3%b6jefredag) | N/A |
 | 16 | [SKMA](http://twitter.com/search?q=SKMA) | N/A |
 | 17 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
 | 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
@@ -55,12 +55,12 @@ This is top 50 for [Sweden](</Sweden>)
 | 38 | [taha ali](http://twitter.com/search?q=taha+ali) | N/A |
 | 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 40 | [tamas](http://twitter.com/search?q=tamas) | N/A |
-| 41 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
-| 42 | [Superettan](http://twitter.com/search?q=Superettan) | N/A |
-| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 44 | [Guds](http://twitter.com/search?q=Guds) | N/A |
-| 45 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 46 | [mjällby aif](http://twitter.com/search?q=mj%c3%a4llby+aif) | N/A |
+| 41 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 42 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
+| 43 | [Superettan](http://twitter.com/search?q=Superettan) | N/A |
+| 44 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 45 | [mjällby aif](http://twitter.com/search?q=mj%c3%a4llby+aif) | N/A |
+| 46 | [Guds](http://twitter.com/search?q=Guds) | N/A |
 | 47 | [Christoffer](http://twitter.com/search?q=Christoffer) | N/A |
 | 48 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 49 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |

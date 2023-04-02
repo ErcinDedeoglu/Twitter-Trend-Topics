@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-02 02:30:35 UTC`
+📆 Last Updated: `2023-04-02 03:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,18 +22,18 @@ This is top 50 for [Algeria](</Algeria>)
 | 5 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
 | 6 | [ياسمين بلقايد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%85%d9%8a%d9%86+%d8%a8%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
 | 7 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
-| 8 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 9 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 10 | [قصر المسافر](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%81%d8%b1) | N/A |
+| 8 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
+| 9 | [قصر المسافر](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%81%d8%b1) | N/A |
+| 10 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 11 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
 | 12 | [باب الواد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%88%d8%a7%d8%af) | N/A |
 | 13 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 14 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
 | 15 | [#Mahrez](http://twitter.com/search?q=%23Mahrez) | N/A |
 | 16 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 17 | [أرسنال](http://twitter.com/search?q=%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 18 | [حسن عريبي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b9%d8%b1%d9%8a%d8%a8%d9%8a) | N/A |
-| 19 | [#شبيبه_القبايل](http://twitter.com/search?q=%23%d8%b4%d8%a8%d9%8a%d8%a8%d9%87_%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d9%8a%d9%84) | N/A |
+| 17 | [#شبيبه_القبايل](http://twitter.com/search?q=%23%d8%b4%d8%a8%d9%8a%d8%a8%d9%87_%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d9%8a%d9%84) | N/A |
+| 18 | [أرسنال](http://twitter.com/search?q=%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
+| 19 | [حسن عريبي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b9%d8%b1%d9%8a%d8%a8%d9%8a) | N/A |
 | 20 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
 | 21 | [التلفزيون العمومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a) | N/A |
 | 22 | [#الدامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%85%d9%87) | N/A |

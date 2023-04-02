@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-02 02:30:48 UTC`
+📆 Last Updated: `2023-04-02 03:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 1 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 2 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
 | 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 4 | [ethan hawke](http://twitter.com/search?q=ethan+hawke) | N/A |
-| 5 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 6 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 7 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
-| 8 | [#capitaloneultimatefan](http://twitter.com/search?q=%23capitaloneultimatefan) | N/A |
-| 9 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
-| 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 6 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
+| 7 | [#capitaloneultimatefan](http://twitter.com/search?q=%23capitaloneultimatefan) | N/A |
+| 8 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 9 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 10 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
 | 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
 | 12 | [Mitch Garver](http://twitter.com/search?q=Mitch+Garver) | N/A |
-| 13 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
+| 13 | [#StraightUpTX](http://twitter.com/search?q=%23StraightUpTX) | N/A |
 | 14 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
 | 15 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 16 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 16 | [Joe Kelly](http://twitter.com/search?q=Joe+Kelly) | N/A |
 | 17 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
-| 18 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 19 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 22 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 23 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 24 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 25 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 18 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 20 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 21 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 22 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 23 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 24 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 25 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
 | 26 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 28 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 29 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 27 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 28 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 29 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
 | 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 31 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 32 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 33 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 34 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 35 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
-| 36 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 37 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 38 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 39 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 40 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 41 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
-| 42 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 43 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 44 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 45 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 46 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 47 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 48 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 31 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 32 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 33 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 34 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 35 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 36 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 37 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 38 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 39 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 40 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 41 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 42 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 43 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 44 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 45 | [VIVA LA RAZA](http://twitter.com/search?q=VIVA+LA+RAZA) | N/A |
+| 46 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 47 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 48 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
 | 49 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 50 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 50 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-02 02:30:07 UTC`
+📆 Last Updated: `2023-04-02 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,43 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Prime](http://twitter.com/search?q=Prime) | N/A |
-| 3 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 4 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 5 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 6 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 7 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 8 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 9 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 10 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 12 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 13 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 14 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 16 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 17 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 18 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 19 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 20 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 21 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
-| 22 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 23 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 24 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 27 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 28 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 29 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 30 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 31 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 32 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 33 | [Derrick James](http://twitter.com/search?q=Derrick+James) | N/A |
-| 34 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 35 | [Klitschko](http://twitter.com/search?q=Klitschko) | N/A |
-| 36 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 37 | [Frank Bruno](http://twitter.com/search?q=Frank+Bruno) | N/A |
-| 38 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
-| 39 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 40 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 41 | [Wardley](http://twitter.com/search?q=Wardley) | N/A |
-| 42 | [Rhea Ripley](http://twitter.com/search?q=Rhea+Ripley) | N/A |
-| 43 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 44 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 45 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 46 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 47 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 48 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
-| 49 | [Owens](http://twitter.com/search?q=Owens) | N/A |
+| 1 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 2 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 3 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 4 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 5 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 6 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 7 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 8 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 9 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 10 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 11 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 12 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 13 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 14 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 15 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
+| 16 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 17 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 18 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 19 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 20 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 22 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 25 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 26 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 27 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 28 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 29 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 30 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
+| 31 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 32 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 33 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
+| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 35 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 36 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 37 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
 
 
 
