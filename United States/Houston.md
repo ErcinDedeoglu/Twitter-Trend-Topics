@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-02 18:18:07 UTC`
+📆 Last Updated: `2023-04-02 19:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 3 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 4 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 5 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 6 | [#INDYCAR](http://twitter.com/search?q=%23INDYCAR) | N/A |
-| 7 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 8 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
-| 9 | [#PPG375](http://twitter.com/search?q=%23PPG375) | N/A |
-| 10 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 11 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 12 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 13 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 16 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 18 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 19 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 21 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
-| 24 | [President Nelson](http://twitter.com/search?q=President+Nelson) | N/A |
-| 25 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 30 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 31 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 32 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 3 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 5 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
+| 6 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 7 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 8 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 9 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 10 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 11 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 12 | [#INDYCAR](http://twitter.com/search?q=%23INDYCAR) | N/A |
+| 13 | [Tommy Pham](http://twitter.com/search?q=Tommy+Pham) | Tommy Pham is a Vietnamese name. It is derived from the words "thọ" (meaning "long life") and "phạm" (meaning "good"). The name can be translated to mean "long life and good fortune". |
+| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 15 | [#PPG375](http://twitter.com/search?q=%23PPG375) | N/A |
+| 16 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 17 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 18 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 19 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 20 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 21 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
+| 22 | [Jeffrey Springs](http://twitter.com/search?q=Jeffrey+Springs) | N/A |
+| 23 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 24 | [Houck](http://twitter.com/search?q=Houck) | N/A |
+| 25 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 26 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 27 | [Asa Hutchinson](http://twitter.com/search?q=Asa+Hutchinson) | N/A |
+| 28 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 29 | [President Nelson](http://twitter.com/search?q=President+Nelson) | N/A |
+| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 31 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 32 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 33 | [McEnroe](http://twitter.com/search?q=McEnroe) | N/A |
-| 34 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 35 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 36 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 37 | [Agassi](http://twitter.com/search?q=Agassi) | N/A |
-| 38 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 39 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 40 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 41 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 43 | [Sting Ray Robb](http://twitter.com/search?q=Sting+Ray+Robb) | N/A |
-| 44 | [Ian Anderson](http://twitter.com/search?q=Ian+Anderson) | N/A |
-| 45 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 46 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 47 | [Laffy](http://twitter.com/search?q=Laffy) | N/A |
-| 48 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
-| 49 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 50 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 36 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 37 | [Chris Bassitt](http://twitter.com/search?q=Chris+Bassitt) | N/A |
+| 38 | [Agassi](http://twitter.com/search?q=Agassi) | N/A |
+| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 40 | [MacKenzie Gore](http://twitter.com/search?q=MacKenzie+Gore) | N/A |
+| 41 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 42 | [Nolan Gorman](http://twitter.com/search?q=Nolan+Gorman) | N/A |
+| 43 | [Grosjean](http://twitter.com/search?q=Grosjean) | N/A |
+| 44 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 45 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 46 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 47 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 48 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 49 | [Higgy](http://twitter.com/search?q=Higgy) | N/A |
+| 50 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
 
 
 

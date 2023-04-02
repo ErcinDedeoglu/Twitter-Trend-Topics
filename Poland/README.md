@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-02 18:18:20 UTC`
+📆 Last Updated: `2023-04-02 19:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LPOPOG](http://twitter.com/search?q=%23LPOPOG) | N/A |
-| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 2 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
 | 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 4 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
-| 5 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 6 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
-| 7 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
-| 8 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 9 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 4 | [#LPOPOG](http://twitter.com/search?q=%23LPOPOG) | N/A |
+| 5 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
+| 6 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 7 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 8 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 9 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
 | 10 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
 | 11 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 12 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
-| 13 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 14 | [Kostasa](http://twitter.com/search?q=Kostasa) | N/A |
-| 15 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 16 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 17 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 18 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
-| 19 | [Anze](http://twitter.com/search?q=Anze) | N/A |
-| 20 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
-| 21 | [Arłukowicz](http://twitter.com/search?q=Ar%c5%82ukowicz) | N/A |
-| 22 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 23 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 24 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
+| 12 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
+| 13 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 14 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 15 | [Mariusz Wlazły](http://twitter.com/search?q=Mariusz+Wlaz%c5%82y) | N/A |
+| 16 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
+| 17 | [Kostasa](http://twitter.com/search?q=Kostasa) | N/A |
+| 18 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
+| 19 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 20 | [Arłukowicz](http://twitter.com/search?q=Ar%c5%82ukowicz) | N/A |
+| 21 | [Anze](http://twitter.com/search?q=Anze) | N/A |
+| 22 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 23 | [Miarą](http://twitter.com/search?q=Miar%c4%85) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 25 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
-| 26 | [Władlen Tatarski](http://twitter.com/search?q=W%c5%82adlen+Tatarski) | N/A |
-| 27 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 28 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 29 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 30 | [Barkę](http://twitter.com/search?q=Bark%c4%99) | N/A |
-| 31 | [Grosicki](http://twitter.com/search?q=Grosicki) | N/A |
-| 32 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
-| 33 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 26 | [Prowokacja](http://twitter.com/search?q=Prowokacja) | N/A |
+| 27 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 28 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
+| 29 | [Barkę](http://twitter.com/search?q=Bark%c4%99) | N/A |
+| 30 | [Władlen Tatarski](http://twitter.com/search?q=W%c5%82adlen+Tatarski) | N/A |
+| 31 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
+| 32 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
+| 33 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
 | 34 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
 | 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [Prowokacja](http://twitter.com/search?q=Prowokacja) | N/A |
-| 37 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 36 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 37 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
 | 38 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 39 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
-| 40 | [Dawidem](http://twitter.com/search?q=Dawidem) | N/A |
-| 41 | [Grek](http://twitter.com/search?q=Grek) | N/A |
-| 42 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 43 | [Święty Janie Pawle II](http://twitter.com/search?q=%c5%9awi%c4%99ty+Janie+Pawle+II) | N/A |
-| 44 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 45 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
-| 46 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 39 | [Dawidem](http://twitter.com/search?q=Dawidem) | N/A |
+| 40 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
+| 41 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 42 | [Święty Janie Pawle II](http://twitter.com/search?q=%c5%9awi%c4%99ty+Janie+Pawle+II) | N/A |
+| 43 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 44 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 45 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 46 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 48 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
-| 49 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 50 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 49 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 50 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 
 
 
