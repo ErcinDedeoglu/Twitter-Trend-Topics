@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-04-02 11:17:52 UTC`
+📆 Last Updated: `2023-04-02 12:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 2 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 4 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 5 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 7 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 8 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
-| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 6 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 7 | [#WaysToCatchAMan](http://twitter.com/search?q=%23WaysToCatchAMan) | N/A |
+| 8 | [#costofliving](http://twitter.com/search?q=%23costofliving) | N/A |
+| 9 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
 | 10 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 11 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 13 | [#Wordle652](http://twitter.com/search?q=%23Wordle652) | N/A |
-| 14 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 18 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 19 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
-| 20 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
-| 23 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 24 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
-| 25 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
-| 26 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
-| 27 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
-| 28 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 30 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 31 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 32 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 33 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 34 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 35 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 36 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 37 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 38 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 40 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 41 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 42 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 43 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 44 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 45 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 46 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
-| 47 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 48 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 49 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 50 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 11 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 13 | [OMG Moment of the Night](http://twitter.com/search?q=OMG+Moment+of+the+Night) | N/A |
+| 14 | [Leroy](http://twitter.com/search?q=Leroy) | N/A |
+| 15 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 16 | [King of Israel](http://twitter.com/search?q=King+of+Israel) | N/A |
+| 17 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 18 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 19 | [Best Performer](http://twitter.com/search?q=Best+Performer) | N/A |
+| 20 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 21 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 22 | [Best Entrance](http://twitter.com/search?q=Best+Entrance) | N/A |
+| 23 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 24 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 25 | [Grandmaster of Drip](http://twitter.com/search?q=Grandmaster+of+Drip) | N/A |
+| 26 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 29 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 31 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 33 | [contrasted](http://twitter.com/search?q=contrasted) | N/A |
+| 34 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 36 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 37 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 38 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 39 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 41 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 42 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 43 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 44 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 45 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 46 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 47 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 48 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 49 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 50 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
 
 
 

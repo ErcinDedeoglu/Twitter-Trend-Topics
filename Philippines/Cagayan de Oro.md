@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-04-02 11:17:37 UTC`
+📆 Last Updated: `2023-04-02 12:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
 | 4 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
 | 5 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 6 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 7 | [#DaigPuppetNoMore](http://twitter.com/search?q=%23DaigPuppetNoMore) | N/A |
-| 8 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 6 | [#DaigPuppetNoMore](http://twitter.com/search?q=%23DaigPuppetNoMore) | N/A |
+| 7 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 8 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
 | 9 | [#JENNIEforCHANEL22](http://twitter.com/search?q=%23JENNIEforCHANEL22) | N/A |
-| 10 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 11 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 12 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 10 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
+| 11 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 12 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
 | 13 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 14 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 15 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
-| 16 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 17 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 18 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 19 | [Queen Tigress](http://twitter.com/search?q=Queen+Tigress) | N/A |
-| 20 | [MOTHER EYA](http://twitter.com/search?q=MOTHER+EYA) | N/A |
-| 21 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 22 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 23 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 25 | [Thea](http://twitter.com/search?q=Thea) | N/A |
-| 26 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 27 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 28 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 29 | [WTB LFS](http://twitter.com/search?q=WTB+LFS) | N/A |
-| 30 | [Chanwoo](http://twitter.com/search?q=Chanwoo) | N/A |
-| 31 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 32 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 33 | [VIP STANDING](http://twitter.com/search?q=VIP+STANDING) | N/A |
-| 34 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 14 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 15 | [SAVEMASUNGI WITH NADINE](http://twitter.com/search?q=SAVEMASUNGI+WITH+NADINE) | N/A |
+| 16 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 17 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
+| 18 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 19 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 20 | [Queen Tigress](http://twitter.com/search?q=Queen+Tigress) | N/A |
+| 21 | [KARINA AT MANA AWARDS](http://twitter.com/search?q=KARINA+AT+MANA+AWARDS) | N/A |
+| 22 | [MOTHER EYA](http://twitter.com/search?q=MOTHER+EYA) | N/A |
+| 23 | [jurado](http://twitter.com/search?q=jurado) | N/A |
+| 24 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 25 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [Thea](http://twitter.com/search?q=Thea) | N/A |
+| 28 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 29 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 30 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 31 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 32 | [WTB LFS PH](http://twitter.com/search?q=WTB+LFS+PH) | N/A |
+| 33 | [chanwoo](http://twitter.com/search?q=chanwoo) | N/A |
+| 34 | [VIP STANDING](http://twitter.com/search?q=VIP+STANDING) | N/A |
 | 35 | [VIP Seated](http://twitter.com/search?q=VIP+Seated) | N/A |
-| 36 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 37 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 38 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 39 | [WTT LFT PH](http://twitter.com/search?q=WTT+LFT+PH) | N/A |
-| 40 | [YOU BETTER KNOW](http://twitter.com/search?q=YOU+BETTER+KNOW) | N/A |
-| 41 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 42 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
-| 43 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 44 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
-| 45 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 46 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 47 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 49 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 50 | [VIVOREE MATAPANG MEDIATOUR](http://twitter.com/search?q=VIVOREE+MATAPANG+MEDIATOUR) | N/A |
+| 36 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 37 | [WTT LFT PH](http://twitter.com/search?q=WTT+LFT+PH) | N/A |
+| 38 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 39 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 40 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 41 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
+| 42 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 43 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 44 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 45 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
+| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 47 | [SEE U](http://twitter.com/search?q=SEE+U) | N/A |
+| 48 | [HAPPY SUNdate KDLEX](http://twitter.com/search?q=HAPPY+SUNdate+KDLEX) | N/A |
+| 49 | [THANK YOU SO MUCH](http://twitter.com/search?q=THANK+YOU+SO+MUCH) | N/A |
+| 50 | [THANK U](http://twitter.com/search?q=THANK+U) | N/A |
 
 
 

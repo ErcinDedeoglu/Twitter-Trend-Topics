@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-02 11:17:49 UTC`
+📆 Last Updated: `2023-04-02 12:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
-| 2 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
-| 3 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
-| 4 | [#YenidenPevrulKavlak](http://twitter.com/search?q=%23YenidenPevrulKavlak) | N/A |
-| 5 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 6 | [DibYedegeTercihAc](http://twitter.com/search?q=DibYedegeTercihAc) | N/A |
-| 7 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 8 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
-| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 10 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
-| 11 | [Kürk Mantolu Madonna](http://twitter.com/search?q=K%c3%bcrk+Mantolu+Madonna) | N/A |
-| 12 | [Balamir](http://twitter.com/search?q=Balamir) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Sayın Genel Başkanım](http://twitter.com/search?q=Say%c4%b1n+Genel+Ba%c5%9fkan%c4%b1m) | N/A |
-| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 19 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
-| 20 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
-| 21 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
+| 1 | [#SeninleOlduSensizOlmaz](http://twitter.com/search?q=%23SeninleOlduSensizOlmaz) | N/A |
+| 2 | [Uğur](http://twitter.com/search?q=U%c4%9fur) | N/A |
+| 3 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 4 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 5 | [#msü2023](http://twitter.com/search?q=%23ms%c3%bc2023) | N/A |
+| 6 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
+| 7 | [#YenidenPevrulKavlak](http://twitter.com/search?q=%23YenidenPevrulKavlak) | N/A |
+| 8 | [DibYedegeTercihAc](http://twitter.com/search?q=DibYedegeTercihAc) | N/A |
+| 9 | [Bülent Turan](http://twitter.com/search?q=B%c3%bclent+Turan) | N/A |
+| 10 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 11 | [Türk Metal Sendikamızın 17](http://twitter.com/search?q=T%c3%bcrk+Metal+Sendikam%c4%b1z%c4%b1n+17) | N/A |
+| 12 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 13 | [Soğan 25](http://twitter.com/search?q=So%c4%9fan+25) | N/A |
+| 14 | [Kürk Mantolu Madonna](http://twitter.com/search?q=K%c3%bcrk+Mantolu+Madonna) | N/A |
+| 15 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 16 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 18 | [Sayın Genel Başkanım](http://twitter.com/search?q=Say%c4%b1n+Genel+Ba%c5%9fkan%c4%b1m) | N/A |
+| 19 | [Teşkilatımıza](http://twitter.com/search?q=Te%c5%9fkilat%c4%b1m%c4%b1za) | N/A |
+| 20 | [Balamir](http://twitter.com/search?q=Balamir) | N/A |
+| 21 | [EhliyetVarsa OyVar](http://twitter.com/search?q=EhliyetVarsa+OyVar) | N/A |
 | 22 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 23 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
-| 24 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
-| 25 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 26 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 27 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
-| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 29 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
-| 30 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 31 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 32 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 33 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
-| 34 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
-| 35 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 36 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 37 | [#avrupastüdyosu](http://twitter.com/search?q=%23avrupast%c3%bcdyosu) | N/A |
-| 38 | [#ABOKısmi5000Haklarınıİstiyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Haklar%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
-| 39 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
-| 40 | [#GerçekGündem](http://twitter.com/search?q=%23Ger%c3%a7ekG%c3%bcndem) | N/A |
-| 41 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 42 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 43 | [#benolsam](http://twitter.com/search?q=%23benolsam) | N/A |
-| 44 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 45 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
-| 46 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
-| 47 | [#SeccademeBasma](http://twitter.com/search?q=%23SeccademeBasma) | N/A |
-| 48 | [#derbi](http://twitter.com/search?q=%23derbi) | #Derbi is a Spanish term used to refer to a rivalry between two teams or cities. It is often used in the context of sports, but can also be used to refer to any type of rivalry between two entities. In English, it can be translated as "rivalry" or "clash". |
-| 49 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 50 | [#biletdevret](http://twitter.com/search?q=%23biletdevret) | N/A |
+| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Saygıyla](http://twitter.com/search?q=Sayg%c4%b1yla) | N/A |
+| 26 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
+| 27 | [Kobra Murat](http://twitter.com/search?q=Kobra+Murat) | N/A |
+| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 29 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 30 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
+| 33 | [Patates](http://twitter.com/search?q=Patates) | N/A |
+| 34 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
+| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [Gençliğin](http://twitter.com/search?q=Gen%c3%a7li%c4%9fin) | N/A |
+| 37 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 38 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 39 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 40 | [#20binalmıyorMemur](http://twitter.com/search?q=%2320binalm%c4%b1yorMemur) | N/A |
+| 41 | [#OtizmFarkındalıkGünü](http://twitter.com/search?q=%23OtizmFark%c4%b1ndal%c4%b1kG%c3%bcn%c3%bc) | N/A |
+| 42 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
+| 43 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 44 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 45 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 46 | [#ABOKısmi5000Haklarınıİstiyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Haklar%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
+| 47 | [#GerçekGündem](http://twitter.com/search?q=%23Ger%c3%a7ekG%c3%bcndem) | N/A |
+| 48 | [#ArtıkSıraStajda](http://twitter.com/search?q=%23Art%c4%b1kS%c4%b1raStajda) | N/A |
+| 49 | [#2000LerMeclise](http://twitter.com/search?q=%232000LerMeclise) | N/A |
+| 50 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-04-02 11:17:17 UTC`
+📆 Last Updated: `2023-04-02 12:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,39 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 2 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 6 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 7 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 8 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 9 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 10 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
-| 11 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 12 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
-| 13 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 14 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 15 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
-| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 18 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 19 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 20 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 4 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 6 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 7 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 8 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 9 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 10 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 11 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 12 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 13 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 14 | [larcamon](http://twitter.com/search?q=larcamon) | N/A |
+| 15 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
+| 16 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 17 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 20 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
 | 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 22 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 23 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 24 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 26 | [larcamon](http://twitter.com/search?q=larcamon) | N/A |
-| 27 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 29 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 30 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 31 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 32 | [#NeverGiveUp](http://twitter.com/search?q=%23NeverGiveUp) | N/A |
-| 33 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 34 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 35 | [jiménez](http://twitter.com/search?q=jim%c3%a9nez) | N/A |
-| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 22 | [maru](http://twitter.com/search?q=maru) | N/A |
+| 23 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 24 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
+| 25 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 26 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 27 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 28 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 29 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 30 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 31 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 32 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 33 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 36 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 37 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 38 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 39 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 40 | [WE WILL WAIT FOR YOU J-HOPE](http://twitter.com/search?q=WE+WILL+WAIT+FOR+YOU+J-HOPE) | N/A |
+| 41 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 42 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 43 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 44 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 45 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 46 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
+| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 48 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 49 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 50 | [chequito](http://twitter.com/search?q=chequito) | N/A |
 
 
 

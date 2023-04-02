@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-02 11:18:06 UTC`
+📆 Last Updated: `2023-04-02 12:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 2 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 3 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 4 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 5 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 6 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 7 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 8 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
-| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 11 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 12 | [Rwandan](http://twitter.com/search?q=Rwandan) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
-| 15 | [Jos Buttler](http://twitter.com/search?q=Jos+Buttler) | N/A |
-| 16 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 17 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 18 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 19 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 20 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 21 | [Nandy](http://twitter.com/search?q=Nandy) | N/A |
-| 22 | [Bexhill](http://twitter.com/search?q=Bexhill) | N/A |
-| 23 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 26 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 27 | [Dingwall](http://twitter.com/search?q=Dingwall) | N/A |
-| 28 | [British Pakistani](http://twitter.com/search?q=British+Pakistani) | N/A |
-| 29 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
-| 30 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
-| 31 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 32 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 33 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 34 | [Simon Calder](http://twitter.com/search?q=Simon+Calder) | N/A |
-| 35 | [Abu Dhabi 2021](http://twitter.com/search?q=Abu+Dhabi+2021) | N/A |
-| 36 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 37 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
-| 38 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 39 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 40 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 41 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 42 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 43 | [Crofty](http://twitter.com/search?q=Crofty) | N/A |
-| 44 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 46 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 47 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 48 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 49 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 50 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 1 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
+| 2 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 3 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 4 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 5 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
+| 6 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 7 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 8 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 9 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 10 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
+| 11 | [#ROSCEL](http://twitter.com/search?q=%23ROSCEL) | N/A |
+| 12 | [#WorldAutismAwarenessDay](http://twitter.com/search?q=%23WorldAutismAwarenessDay) | N/A |
+| 13 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 14 | [Rwandan](http://twitter.com/search?q=Rwandan) | N/A |
+| 15 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 16 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
+| 17 | [Bunny Shaw](http://twitter.com/search?q=Bunny+Shaw) | N/A |
+| 18 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 19 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 20 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 21 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 22 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 23 | [Dingwall](http://twitter.com/search?q=Dingwall) | N/A |
+| 24 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
+| 25 | [Nandy](http://twitter.com/search?q=Nandy) | N/A |
+| 26 | [Jos Buttler](http://twitter.com/search?q=Jos+Buttler) | N/A |
+| 27 | [John Redwood](http://twitter.com/search?q=John+Redwood) | N/A |
+| 28 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 31 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 33 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 34 | [Bexhill](http://twitter.com/search?q=Bexhill) | N/A |
+| 35 | [Tour of Flanders](http://twitter.com/search?q=Tour+of+Flanders) | N/A |
+| 36 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 37 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 38 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 39 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 41 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 42 | [Simon Calder](http://twitter.com/search?q=Simon+Calder) | N/A |
+| 43 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
+| 44 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 45 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 46 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 47 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 48 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 49 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 50 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 
 
 

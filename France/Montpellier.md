@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-02 11:17:24 UTC`
+📆 Last Updated: `2023-04-02 12:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 2 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 3 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 4 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 5 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 6 | [#autisme](http://twitter.com/search?q=%23autisme) | N/A |
-| 7 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 2 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 3 | [#LOSCFCL](http://twitter.com/search?q=%23LOSCFCL) | N/A |
+| 4 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 5 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 6 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 7 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
 | 8 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
-| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 13 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [Terrorisme](http://twitter.com/search?q=Terrorisme) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 18 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 19 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
-| 20 | [jacques villeneuve](http://twitter.com/search?q=jacques+villeneuve) | N/A |
-| 21 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 22 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
-| 23 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 24 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
-| 25 | [Chrétiens](http://twitter.com/search?q=Chr%c3%a9tiens) | N/A |
-| 26 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 27 | [Gros](http://twitter.com/search?q=Gros) | N/A |
-| 28 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 29 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
-| 30 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 31 | [Burkina Faso](http://twitter.com/search?q=Burkina+Faso) | N/A |
-| 32 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 33 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 34 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 35 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 36 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 37 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 38 | [Flandres](http://twitter.com/search?q=Flandres) | N/A |
-| 39 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 40 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 9 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 10 | [Cookie Dingler](http://twitter.com/search?q=Cookie+Dingler) | N/A |
+| 11 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 15 | [Henri Guaino](http://twitter.com/search?q=Henri+Guaino) | N/A |
+| 16 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
+| 17 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
+| 18 | [Terrorisme](http://twitter.com/search?q=Terrorisme) | N/A |
+| 19 | [Ronde](http://twitter.com/search?q=Ronde) | N/A |
+| 20 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 21 | [Flandres](http://twitter.com/search?q=Flandres) | N/A |
+| 22 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 23 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 24 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 26 | [Gros](http://twitter.com/search?q=Gros) | N/A |
+| 27 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
+| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 29 | [Chrétiens](http://twitter.com/search?q=Chr%c3%a9tiens) | N/A |
+| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 31 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 32 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 33 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 34 | [Burkina Faso](http://twitter.com/search?q=Burkina+Faso) | N/A |
+| 35 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 36 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 38 | [Villeneuve](http://twitter.com/search?q=Villeneuve) | N/A |
+| 39 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 40 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
 | 41 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 42 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 43 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 44 | [#LOSCFCL](http://twitter.com/search?q=%23LOSCFCL) | N/A |
-| 45 | [#TousEnBleu](http://twitter.com/search?q=%23TousEnBleu) | N/A |
-| 46 | [#marathondeparis](http://twitter.com/search?q=%23marathondeparis) | N/A |
-| 47 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 48 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
+| 42 | [#autisme](http://twitter.com/search?q=%23autisme) | N/A |
+| 43 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 44 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 45 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
+| 46 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 47 | [#marathondeparis](http://twitter.com/search?q=%23marathondeparis) | N/A |
+| 48 | [#TousEnBleu](http://twitter.com/search?q=%23TousEnBleu) | N/A |
 
 
 

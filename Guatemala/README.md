@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-02 11:18:01 UTC`
+📆 Last Updated: `2023-04-02 12:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 3 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 4 | [#clausura2023](http://twitter.com/search?q=%23clausura2023) | N/A |
-| 5 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 8 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 9 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 1 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [#clausura2023](http://twitter.com/search?q=%23clausura2023) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 6 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 7 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 8 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 9 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 11 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
 | 12 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
@@ -40,10 +40,10 @@ This is top 50 for Guatemala
 | 23 | [xelajú](http://twitter.com/search?q=xelaj%c3%ba) | N/A |
 | 24 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
 | 25 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 27 | [antigua gfc](http://twitter.com/search?q=antigua+gfc) | N/A |
-| 28 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [antigua gfc](http://twitter.com/search?q=antigua+gfc) | N/A |
+| 27 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 30 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 31 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
 | 32 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Guatemala
 | 38 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
 | 39 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
 | 40 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 41 | [LEWANDOWSKI](http://twitter.com/search?q=LEWANDOWSKI) | N/A |
+| 41 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 42 | [excelentísima sra](http://twitter.com/search?q=excelent%c3%adsima+sra) | N/A |
 | 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 44 | [Genocida](http://twitter.com/search?q=Genocida) | N/A |

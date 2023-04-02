@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-04-02 11:17:23 UTC`
+📆 Last Updated: `2023-04-02 12:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SRFCRCL](http://twitter.com/search?q=%23SRFCRCL) | N/A |
-| 2 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 3 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 4 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 5 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 6 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 7 | [#autisme](http://twitter.com/search?q=%23autisme) | N/A |
-| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 9 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 10 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 11 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
-| 14 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 15 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 17 | [Terrorisme](http://twitter.com/search?q=Terrorisme) | N/A |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 20 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
-| 21 | [Jacques Villeneuve](http://twitter.com/search?q=Jacques+Villeneuve) | N/A |
-| 22 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
-| 25 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 26 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
-| 27 | [Chrétiens](http://twitter.com/search?q=Chr%c3%a9tiens) | N/A |
-| 28 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 29 | [Gros](http://twitter.com/search?q=Gros) | N/A |
-| 30 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 31 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 1 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 2 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 3 | [#LOSCFCL](http://twitter.com/search?q=%23LOSCFCL) | N/A |
+| 4 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 5 | [#autisme](http://twitter.com/search?q=%23autisme) | N/A |
+| 6 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 7 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 8 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 9 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 10 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 11 | [Cookie Dingler](http://twitter.com/search?q=Cookie+Dingler) | N/A |
+| 12 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 13 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 16 | [Henri Guaino](http://twitter.com/search?q=Henri+Guaino) | N/A |
+| 17 | [Semaine Sainte](http://twitter.com/search?q=Semaine+Sainte) | N/A |
+| 18 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
+| 19 | [Terrorisme](http://twitter.com/search?q=Terrorisme) | N/A |
+| 20 | [Ronde](http://twitter.com/search?q=Ronde) | N/A |
+| 21 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 22 | [Flandres](http://twitter.com/search?q=Flandres) | N/A |
+| 23 | [Hosanna](http://twitter.com/search?q=Hosanna) | N/A |
+| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 25 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 27 | [Gros](http://twitter.com/search?q=Gros) | N/A |
+| 28 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
+| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 30 | [Chrétiens](http://twitter.com/search?q=Chr%c3%a9tiens) | N/A |
+| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 32 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 33 | [Burkina Faso](http://twitter.com/search?q=Burkina+Faso) | N/A |
-| 34 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 35 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 36 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 38 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 39 | [Flandres](http://twitter.com/search?q=Flandres) | N/A |
-| 40 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 41 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 33 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 35 | [Burkina Faso](http://twitter.com/search?q=Burkina+Faso) | N/A |
+| 36 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 37 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 38 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 39 | [Villeneuve](http://twitter.com/search?q=Villeneuve) | N/A |
+| 40 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 41 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
 | 42 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 43 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 44 | [#LOSCFCL](http://twitter.com/search?q=%23LOSCFCL) | N/A |
-| 45 | [#TousEnBleu](http://twitter.com/search?q=%23TousEnBleu) | N/A |
-| 46 | [#marathondeparis](http://twitter.com/search?q=%23marathondeparis) | N/A |
-| 47 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
-| 48 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
-| 49 | [#CourseDansUnTitre](http://twitter.com/search?q=%23CourseDansUnTitre) | N/A |
-| 50 | [#FreebetPMU](http://twitter.com/search?q=%23FreebetPMU) | N/A |
+| 43 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 44 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 45 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
+| 46 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 47 | [#marathondeparis](http://twitter.com/search?q=%23marathondeparis) | N/A |
+| 48 | [#TousEnBleu](http://twitter.com/search?q=%23TousEnBleu) | N/A |
+| 49 | [#SB29TFC](http://twitter.com/search?q=%23SB29TFC) | N/A |
 
 
 
