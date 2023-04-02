@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-02 00:30:50 UTC`
+📆 Last Updated: `2023-04-02 01:44:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WeAreTheA](http://twitter.com/search?q=%23WeAreTheA) | N/A |
-| 2 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 3 | [Spencer Strider](http://twitter.com/search?q=Spencer+Strider) | N/A |
-| 4 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 7 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 8 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 9 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 10 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 13 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 14 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 15 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 16 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 17 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 18 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 19 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 20 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 2 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
+| 3 | [Olson](http://twitter.com/search?q=Olson) | N/A |
+| 4 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 5 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 6 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 7 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 8 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 9 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 10 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 11 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 12 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 13 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 14 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 15 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 16 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 17 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 18 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 19 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 20 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
 | 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 22 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 23 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
-| 24 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 25 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 26 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 27 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 28 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
-| 29 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 30 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 31 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 32 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 33 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 34 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 35 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 36 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
-| 37 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 38 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 39 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 40 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 41 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 42 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 43 | [John Higgins](http://twitter.com/search?q=John+Higgins) | N/A |
-| 44 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 45 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 46 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 47 | [Angel of Empire](http://twitter.com/search?q=Angel+of+Empire) | N/A |
-| 48 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 49 | [America The Beautiful](http://twitter.com/search?q=America+The+Beautiful) | N/A |
-| 50 | [Weatherspoon](http://twitter.com/search?q=Weatherspoon) | N/A |
+| 22 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 23 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 24 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 25 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 26 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 27 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 28 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 29 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 30 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 31 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 32 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 33 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 34 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
+| 35 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
+| 36 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 37 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 38 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 39 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
+| 40 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 41 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 42 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
+| 43 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
+| 44 | [Shawn Michaels](http://twitter.com/search?q=Shawn+Michaels) | N/A |
+| 45 | [BUZZER BEATER](http://twitter.com/search?q=BUZZER+BEATER) | N/A |
+| 46 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 47 | [MadBum](http://twitter.com/search?q=MadBum) | N/A |
+| 48 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 49 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
+| 50 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
 
 
 

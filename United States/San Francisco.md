@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-02 00:30:58 UTC`
+📆 Last Updated: `2023-04-02 01:45:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
-| 2 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 3 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 4 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
-| 5 | [#VCTAmericas](http://twitter.com/search?q=%23VCTAmericas) | N/A |
-| 6 | [SoFi Stadium](http://twitter.com/search?q=SoFi+Stadium) | N/A |
-| 7 | [#EFFYGAYLA](http://twitter.com/search?q=%23EFFYGAYLA) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 3 | [Doval](http://twitter.com/search?q=Doval) | N/A |
+| 4 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
+| 5 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 6 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 7 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
 | 8 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 9 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 10 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
-| 11 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 12 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 13 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 14 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
-| 15 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 20 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 21 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 23 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 24 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 25 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 26 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 27 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 28 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 29 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 30 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 31 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 32 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 33 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
-| 34 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 35 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 36 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 37 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 38 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 39 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 40 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 41 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 42 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 43 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 44 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 45 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
-| 46 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 47 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 48 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 49 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 50 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 9 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
+| 10 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
+| 11 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
+| 12 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 13 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
+| 14 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 15 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 16 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 17 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 18 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 19 | [Shasta County](http://twitter.com/search?q=Shasta+County) | N/A |
+| 20 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
+| 21 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 22 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 23 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 24 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 25 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 26 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 27 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 28 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 29 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 30 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 31 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 32 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 33 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 34 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 35 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 36 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 37 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 38 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 39 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 40 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 41 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 42 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 43 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 44 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 45 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 46 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 47 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 48 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
+| 49 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
+| 50 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
 
 
 

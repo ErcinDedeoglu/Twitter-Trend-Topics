@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-04-02 00:30:54 UTC`
+📆 Last Updated: `2023-04-02 01:45:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 2 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 2 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 | 3 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 4 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 7 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 8 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 9 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 10 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 12 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 13 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 14 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 16 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 17 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
-| 18 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 19 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 20 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 21 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 22 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 4 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 5 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 6 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 7 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 8 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 9 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 10 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 11 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 12 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
+| 13 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 14 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 15 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 16 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 19 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 20 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 21 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 22 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 23 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 24 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 25 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 26 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 27 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 28 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 29 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 30 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 31 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
-| 32 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 33 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 34 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 35 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 36 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 37 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
-| 38 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 39 | [John Higgins](http://twitter.com/search?q=John+Higgins) | N/A |
-| 40 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 41 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 42 | [Angel of Empire](http://twitter.com/search?q=Angel+of+Empire) | N/A |
-| 43 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 44 | [America The Beautiful](http://twitter.com/search?q=America+The+Beautiful) | N/A |
-| 45 | [Weatherspoon](http://twitter.com/search?q=Weatherspoon) | N/A |
-| 46 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 47 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 24 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 25 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 26 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 27 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 28 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
+| 29 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
+| 30 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 31 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 32 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 33 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
+| 34 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 35 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 36 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
+| 37 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
+| 38 | [Shawn Michaels](http://twitter.com/search?q=Shawn+Michaels) | N/A |
+| 39 | [BUZZER BEATER](http://twitter.com/search?q=BUZZER+BEATER) | N/A |
+| 40 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 41 | [MadBum](http://twitter.com/search?q=MadBum) | N/A |
+| 42 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 43 | [Damn FAU](http://twitter.com/search?q=Damn+FAU) | N/A |
+| 44 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
+| 45 | [R-Truth](http://twitter.com/search?q=R-Truth) | N/A |
+| 46 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 47 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 48 | [SD State](http://twitter.com/search?q=SD+State) | N/A |
 
 
 

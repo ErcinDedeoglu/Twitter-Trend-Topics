@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-02 00:30:20 UTC`
+📆 Last Updated: `2023-04-02 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 3 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 5 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 3 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
 | 6 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 7 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
 | 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
+| 10 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 | 11 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 | 12 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
 | 13 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
 | 14 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
-| 15 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
+| 15 | [Match](http://twitter.com/search?q=Match) | N/A |
 | 16 | [Meister](http://twitter.com/search?q=Meister) | N/A |
 | 17 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 18 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 19 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 20 | [Peris](http://twitter.com/search?q=Peris) | N/A |
-| 21 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 22 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 23 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 24 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
+| 18 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 19 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 20 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 21 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 22 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 23 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
+| 24 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
 | 25 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 26 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 27 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 28 | [Menderes](http://twitter.com/search?q=Menderes) | N/A |
+| 26 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 27 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 28 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
 | 29 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 30 | [Jan Josef Liefers](http://twitter.com/search?q=Jan+Josef+Liefers) | N/A |
+| 30 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
 | 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 33 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 34 | [Daniel Boschmann](http://twitter.com/search?q=Daniel+Boschmann) | N/A |
-| 35 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 36 | [Känguru](http://twitter.com/search?q=K%c3%a4nguru) | N/A |
-| 37 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 38 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 39 | [Laura Wontorra](http://twitter.com/search?q=Laura+Wontorra) | N/A |
-| 40 | [Wheelie](http://twitter.com/search?q=Wheelie) | N/A |
-| 41 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
-| 42 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 43 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 44 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
-| 45 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 47 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 48 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 49 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 32 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
+| 33 | [Känguru](http://twitter.com/search?q=K%c3%a4nguru) | N/A |
+| 34 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 35 | [wheelie](http://twitter.com/search?q=wheelie) | N/A |
+| 36 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 37 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 38 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
+| 39 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 40 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
+| 41 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 42 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
+| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 44 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 45 | ['gemüse'](http://twitter.com/search?q=%27gem%c3%bcse%27) | N/A |
+| 46 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 47 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
+| 48 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 49 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
 
 
 

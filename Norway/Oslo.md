@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-02 00:30:25 UTC`
+📆 Last Updated: `2023-04-02 01:44:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 4 | [#MCILIV](http://twitter.com/search?q=%23MCILIV) | #MCILIV is an acronym for the Miami City International Livestream, an online event hosted by the City of Miami. The event was created to provide a platform for international artists, entrepreneurs, and creatives to showcase their work and connect with the global community. |
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Klassekampen](http://twitter.com/search?q=Klassekampen) | N/A |
+| 6 | [klassekampen](http://twitter.com/search?q=klassekampen) | N/A |
 | 7 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 8 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
@@ -43,18 +43,18 @@ This is top 50 for [Norway](</Norway>)
 | 26 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [kartum](http://twitter.com/search?q=kartum) | N/A |
-| 30 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
-| 31 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 32 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
-| 33 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 29 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
+| 30 | [kartum](http://twitter.com/search?q=kartum) | N/A |
+| 31 | [#fintwit](http://twitter.com/search?q=%23fintwit) | N/A |
+| 32 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 33 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
 | 34 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
 | 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 36 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 38 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 39 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 40 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
+| 37 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 38 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 39 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
+| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 41 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
 | 42 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 | 43 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |

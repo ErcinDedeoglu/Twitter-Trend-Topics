@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-02 00:30:25 UTC`
+📆 Last Updated: `2023-04-02 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 5 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 6 | [#WCCH](http://twitter.com/search?q=%23WCCH) | N/A |
+| 6 | [#wcch](http://twitter.com/search?q=%23wcch) | N/A |
 | 7 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -32,17 +32,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
 | 16 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 17 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 19 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 20 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
-| 21 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 22 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 25 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 26 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 27 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 28 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 20 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
+| 21 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
+| 22 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 23 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 24 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 27 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 28 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 29 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 | 30 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
 | 31 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 34 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
 | 35 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
 | 36 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 37 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 37 | [fachkräftemangel](http://twitter.com/search?q=fachkr%c3%a4ftemangel) | N/A |
 | 38 | [Meter](http://twitter.com/search?q=Meter) | N/A |
 | 39 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
 | 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 46 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 47 | [Grunde](http://twitter.com/search?q=Grunde) | N/A |
 | 48 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 49 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 49 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 
 
 

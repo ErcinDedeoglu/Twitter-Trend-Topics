@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-02 00:31:05 UTC`
+📆 Last Updated: `2023-04-02 01:45:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Latvia
 | 3 | [skatos](http://twitter.com/search?q=skatos) | N/A |
 | 4 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
 | 5 | [jēkabpils](http://twitter.com/search?q=j%c4%93kabpils) | N/A |
-| 6 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 6 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
 | 7 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 8 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
 | 9 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
@@ -35,19 +35,19 @@ This is top 50 for Latvia
 | 18 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
 | 19 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 20 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 21 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
-| 22 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 23 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
+| 21 | [delfi](http://twitter.com/search?q=delfi) | N/A |
+| 22 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
+| 23 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
 | 24 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
-| 25 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 26 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
-| 27 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 28 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
-| 29 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 30 | [Laba](http://twitter.com/search?q=Laba) | N/A |
+| 25 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 26 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 27 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
+| 28 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 29 | [Laba](http://twitter.com/search?q=Laba) | N/A |
+| 30 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 32 | [veselību](http://twitter.com/search?q=vesel%c4%abbu) | N/A |
-| 33 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 33 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 34 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 35 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 36 | [VIENMĒR](http://twitter.com/search?q=VIENM%c4%92R) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Latvia
 | 39 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
 | 40 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 41 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
-| 42 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 42 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 43 | [No 1](http://twitter.com/search?q=No+1) | N/A |
 | 44 | [levitu](http://twitter.com/search?q=levitu) | N/A |
 | 45 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |

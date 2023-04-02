@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-02 00:30:11 UTC`
+📆 Last Updated: `2023-04-02 01:44:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestlemaniaCL](http://twitter.com/search?q=%23WrestlemaniaCL) | N/A |
 | 2 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 3 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 4 | [#Sub17PorTVN](http://twitter.com/search?q=%23Sub17PorTVN) | N/A |
+| 3 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
+| 4 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
 | 5 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 6 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 7 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 6 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 7 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
 | 8 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
-| 9 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 10 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 11 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
-| 12 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 13 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 14 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [La CUT](http://twitter.com/search?q=La+CUT) | N/A |
-| 17 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 18 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 19 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 20 | [Caputto](http://twitter.com/search?q=Caputto) | N/A |
-| 21 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 24 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 27 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 29 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 33 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 34 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 38 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 39 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
-| 40 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 41 | [El 1](http://twitter.com/search?q=El+1) | N/A |
-| 42 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 43 | [Sepúlveda](http://twitter.com/search?q=Sep%c3%balveda) | N/A |
-| 44 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 45 | [Bichi](http://twitter.com/search?q=Bichi) | N/A |
-| 46 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 48 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 49 | [Blumel](http://twitter.com/search?q=Blumel) | N/A |
+| 9 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 10 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 11 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 12 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 13 | [Rollins](http://twitter.com/search?q=Rollins) | N/A |
+| 14 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 15 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 16 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 17 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 18 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 19 | [damián pizarro](http://twitter.com/search?q=dami%c3%a1n+pizarro) | N/A |
+| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 21 | [La CUT](http://twitter.com/search?q=La+CUT) | N/A |
+| 22 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 23 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 24 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 27 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 28 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 29 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 30 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 31 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 33 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 34 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 35 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 36 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
+| 37 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 43 | [Corea](http://twitter.com/search?q=Corea) | N/A |
+| 44 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 45 | [Sepúlveda](http://twitter.com/search?q=Sep%c3%balveda) | N/A |
+| 46 | [Bichi](http://twitter.com/search?q=Bichi) | N/A |
+| 47 | [El 1](http://twitter.com/search?q=El+1) | N/A |
+| 48 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 49 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 
 
 

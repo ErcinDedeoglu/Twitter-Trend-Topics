@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-02 00:31:02 UTC`
+📆 Last Updated: `2023-04-02 01:45:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 2 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 3 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
+| 1 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 2 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 3 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
 | 4 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 5 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 6 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
+| 5 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
+| 6 | [Obando](http://twitter.com/search?q=Obando) | N/A |
 | 7 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 8 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 10 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
-| 11 | [Sergio González](http://twitter.com/search?q=Sergio+Gonz%c3%a1lez) | N/A |
-| 12 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 13 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 14 | [Chango](http://twitter.com/search?q=Chango) | N/A |
-| 15 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 16 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
-| 17 | [Juan Carlos Holguín](http://twitter.com/search?q=Juan+Carlos+Holgu%c3%adn) | N/A |
-| 18 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
-| 19 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 20 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
-| 21 | [Gustavo Manrique](http://twitter.com/search?q=Gustavo+Manrique) | N/A |
-| 22 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 23 | [Polaco](http://twitter.com/search?q=Polaco) | N/A |
-| 24 | [Otero](http://twitter.com/search?q=Otero) | N/A |
-| 25 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 26 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
-| 27 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 28 | [#Delfin](http://twitter.com/search?q=%23Delfin) | N/A |
-| 29 | [Ambiente](http://twitter.com/search?q=Ambiente) | N/A |
-| 30 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
-| 31 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 32 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 33 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 34 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 35 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 36 | [Daniel Salcedo](http://twitter.com/search?q=Daniel+Salcedo) | N/A |
-| 37 | [Patiño](http://twitter.com/search?q=Pati%c3%b1o) | N/A |
-| 38 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 39 | [Punta Blanca](http://twitter.com/search?q=Punta+Blanca) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 42 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 43 | [Iván Espinel](http://twitter.com/search?q=Iv%c3%a1n+Espinel) | N/A |
-| 44 | [#Emelec](http://twitter.com/search?q=%23Emelec) | N/A |
-| 45 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
-| 46 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 47 | [Fortín](http://twitter.com/search?q=Fort%c3%adn) | N/A |
-| 48 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 49 | [Reina del Cisne](http://twitter.com/search?q=Reina+del+Cisne) | N/A |
-| 50 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 8 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 9 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 10 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 11 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 12 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 13 | [De Jesús](http://twitter.com/search?q=De+Jes%c3%bas) | N/A |
+| 14 | [Sergio González](http://twitter.com/search?q=Sergio+Gonz%c3%a1lez) | N/A |
+| 15 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 16 | [Gabriel Cortez](http://twitter.com/search?q=Gabriel+Cortez) | N/A |
+| 17 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
+| 18 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 19 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
+| 20 | [Nixon Molina](http://twitter.com/search?q=Nixon+Molina) | N/A |
+| 21 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 22 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
+| 23 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 24 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 25 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
+| 26 | [Juan Carlos Holguín](http://twitter.com/search?q=Juan+Carlos+Holgu%c3%adn) | N/A |
+| 27 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
+| 28 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 29 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 30 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
+| 31 | [Loor](http://twitter.com/search?q=Loor) | N/A |
+| 32 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
+| 33 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 34 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 35 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
+| 36 | [Gustavo Manrique](http://twitter.com/search?q=Gustavo+Manrique) | N/A |
+| 37 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 38 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 39 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 40 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
+| 41 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 42 | [Ambiente](http://twitter.com/search?q=Ambiente) | N/A |
+| 43 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 44 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 45 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 46 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 47 | [Daniel Salcedo](http://twitter.com/search?q=Daniel+Salcedo) | N/A |
+| 48 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
 
 
 

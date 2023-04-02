@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-02 00:30:57 UTC`
+📆 Last Updated: `2023-04-02 01:45:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
-| 2 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 4 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 6 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 7 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 8 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 9 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 10 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 11 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 12 | [#pawx](http://twitter.com/search?q=%23pawx) | N/A |
-| 13 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 14 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 15 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 17 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 18 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 20 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 21 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 23 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 24 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
-| 25 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 26 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 27 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 29 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 31 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 1 | [CB Bucknor](http://twitter.com/search?q=CB+Bucknor) | N/A |
+| 2 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 3 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 4 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 5 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 6 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 7 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 8 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 9 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 10 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 11 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 12 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 13 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 14 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 15 | [#PAwx](http://twitter.com/search?q=%23PAwx) | N/A |
+| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 17 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
+| 18 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 19 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 20 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 21 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 22 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 23 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 24 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 25 | [#FinalFour2023](http://twitter.com/search?q=%23FinalFour2023) | N/A |
+| 26 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 27 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 28 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 29 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 30 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
+| 31 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
 | 32 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 33 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 34 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
-| 35 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 36 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 37 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 38 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 39 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
-| 40 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 41 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 42 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 43 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 44 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 45 | [Doval](http://twitter.com/search?q=Doval) | N/A |
-| 46 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 47 | [Sean Paul](http://twitter.com/search?q=Sean+Paul) | N/A |
-| 48 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 49 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 50 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 33 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 34 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 35 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 36 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 37 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 38 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 39 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 40 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 41 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 42 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 43 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 44 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 45 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
+| 46 | [Bumgarner](http://twitter.com/search?q=Bumgarner) | N/A |
+| 47 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 48 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 49 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 50 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
 
 
 

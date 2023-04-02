@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-02 00:30:44 UTC`
+📆 Last Updated: `2023-04-02 01:44:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
-| 2 | [#جذباتی_تب_کیوں_نہیں_ہوئے](http://twitter.com/search?q=%23%d8%ac%d8%b0%d8%a8%d8%a7%d8%aa%db%8c_%d8%aa%d8%a8_%da%a9%db%8c%d9%88%da%ba_%d9%86%db%81%db%8c%da%ba_%db%81%d9%88%d8%a6%db%92) | N/A |
-| 3 | [#بائیکاٹ_PDM_سوشل_میڈیا](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a6%db%8c%da%a9%d8%a7%d9%b9_PDM_%d8%b3%d9%88%d8%b4%d9%84_%d9%85%db%8c%da%88%db%8c%d8%a7) | N/A |
+| 1 | [#جوتا_کس_کو_پڑا](http://twitter.com/search?q=%23%d8%ac%d9%88%d8%aa%d8%a7_%da%a9%d8%b3_%da%a9%d9%88_%d9%be%da%91%d8%a7) | N/A |
+| 2 | [#والیم10_کھولو_اورمجرم_پکڑو](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%84%db%8c%d9%8510_%da%a9%da%be%d9%88%d9%84%d9%88_%d8%a7%d9%88%d8%b1%d9%85%d8%ac%d8%b1%d9%85_%d9%be%da%a9%da%91%d9%88) | N/A |
+| 3 | [#جذباتی_تب_کیوں_نہیں_ہوئے](http://twitter.com/search?q=%23%d8%ac%d8%b0%d8%a8%d8%a7%d8%aa%db%8c_%d8%aa%d8%a8_%da%a9%db%8c%d9%88%da%ba_%d9%86%db%81%db%8c%da%ba_%db%81%d9%88%d8%a6%db%92) | N/A |
 | 4 | [#NoCommentNoReach](http://twitter.com/search?q=%23NoCommentNoReach) | N/A |
-| 5 | [#NationStandWithCJP](http://twitter.com/search?q=%23NationStandWithCJP) | N/A |
-| 6 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 7 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 5 | [#بائیکاٹ_PDM_سوشل_میڈیا](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a6%db%8c%da%a9%d8%a7%d9%b9_PDM_%d8%b3%d9%88%d8%b4%d9%84_%d9%85%db%8c%da%88%db%8c%d8%a7) | N/A |
+| 6 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 7 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 9 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
 | 10 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
@@ -34,12 +34,12 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 18 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
 | 19 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 22 | [mother of fatima](http://twitter.com/search?q=mother+of+fatima) | N/A |
-| 23 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 24 | [ummul momineen](http://twitter.com/search?q=ummul+momineen) | N/A |
-| 25 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 20 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 23 | [mother of fatima](http://twitter.com/search?q=mother+of+fatima) | N/A |
+| 24 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 25 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
 | 26 | [BISP](http://twitter.com/search?q=BISP) | N/A |
 | 27 | [donate now](http://twitter.com/search?q=donate+now) | N/A |
 | 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
@@ -48,23 +48,23 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 31 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 32 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
 | 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 37 | [Dayal Singh](http://twitter.com/search?q=Dayal+Singh) | N/A |
 | 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 39 | [Kech](http://twitter.com/search?q=Kech) | N/A |
-| 40 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 41 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 42 | [Honest](http://twitter.com/search?q=Honest) | N/A |
-| 43 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 44 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 45 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 47 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
-| 48 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 49 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 50 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 40 | [Honest](http://twitter.com/search?q=Honest) | N/A |
+| 41 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 42 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 43 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 44 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 45 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 46 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 47 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 48 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 49 | [Fallow](http://twitter.com/search?q=Fallow) | N/A |
+| 50 | [German](http://twitter.com/search?q=German) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-04-02 00:30:16 UTC`
+📆 Last Updated: `2023-04-02 01:44:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,50 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 2 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 3 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 4 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 5 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 6 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 7 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 8 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 9 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 10 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 11 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
-| 12 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
-| 13 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
-| 14 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 15 | [Sigali](http://twitter.com/search?q=Sigali) | N/A |
-| 16 | [roca sanchez](http://twitter.com/search?q=roca+sanchez) | N/A |
-| 17 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 18 | [#FitoStarPlusLive](http://twitter.com/search?q=%23FitoStarPlusLive) | N/A |
-| 19 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
-| 20 | [Monzon](http://twitter.com/search?q=Monzon) | N/A |
-| 21 | [Rey Hilfer](http://twitter.com/search?q=Rey+Hilfer) | N/A |
-| 22 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 23 | [Rodrigo Rey](http://twitter.com/search?q=Rodrigo+Rey) | N/A |
-| 24 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
-| 25 | [Irala](http://twitter.com/search?q=Irala) | N/A |
-| 26 | [chaco martinez](http://twitter.com/search?q=chaco+martinez) | N/A |
-| 27 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
-| 28 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
-| 29 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 30 | [#Racing](http://twitter.com/search?q=%23Racing) | N/A |
-| 31 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 32 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
-| 33 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
-| 34 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
-| 35 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
-| 36 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 37 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 38 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 39 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 40 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
-| 41 | [Victor Blanco](http://twitter.com/search?q=Victor+Blanco) | Victor Blanco is a Spanish surname. It is derived from the Latin word "victor" meaning "victor" or "conqueror" and the Spanish word "blanco" meaning "white". In English, Victor Blanco can be translated to mean "White Victor". |
-| 42 | [Juan Cruz](http://twitter.com/search?q=Juan+Cruz) | N/A |
-| 43 | [Kevin López](http://twitter.com/search?q=Kevin+L%c3%b3pez) | N/A |
-| 44 | [#2deAbril10Años](http://twitter.com/search?q=%232deAbril10A%c3%b1os) | N/A |
-| 45 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 46 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 2 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 3 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
+| 4 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 5 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 6 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 7 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 8 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 9 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 10 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 11 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
+| 12 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 13 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 14 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 15 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 16 | [Lema](http://twitter.com/search?q=Lema) | N/A |
+| 17 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 18 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
+| 19 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 20 | [Roca Sánchez](http://twitter.com/search?q=Roca+S%c3%a1nchez) | N/A |
+| 21 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 22 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 23 | [Irala](http://twitter.com/search?q=Irala) | N/A |
+| 24 | [Vigliano](http://twitter.com/search?q=Vigliano) | N/A |
+| 25 | [Sigali](http://twitter.com/search?q=Sigali) | N/A |
+| 26 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 27 | [Monzon](http://twitter.com/search?q=Monzon) | N/A |
+| 28 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
+| 29 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 30 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
+| 31 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
+| 32 | [Garro](http://twitter.com/search?q=Garro) | N/A |
+| 33 | [Rey Hilfer](http://twitter.com/search?q=Rey+Hilfer) | N/A |
+| 34 | [chaco martinez](http://twitter.com/search?q=chaco+martinez) | N/A |
+| 35 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 36 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
+| 37 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 38 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
+| 39 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
+| 40 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
+| 41 | [Rodrigo Rey](http://twitter.com/search?q=Rodrigo+Rey) | N/A |
+| 42 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
+| 43 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
+| 44 | [Opazo](http://twitter.com/search?q=Opazo) | N/A |
+| 45 | [Dabove](http://twitter.com/search?q=Dabove) | N/A |
 
 
 

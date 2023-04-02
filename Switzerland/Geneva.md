@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-02 00:30:24 UTC`
+📆 Last Updated: `2023-04-02 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 2 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 1 | [#Wrestlemania](http://twitter.com/search?q=%23Wrestlemania) | N/A |
+| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 5 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 6 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
@@ -31,17 +31,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 14 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
 | 15 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 16 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 18 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
-| 19 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
-| 20 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 21 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 24 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 25 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 26 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 27 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 17 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | N/A |
+| 20 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
+| 21 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 22 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 23 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 24 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 26 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 27 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 28 | [Datum](http://twitter.com/search?q=Datum) | N/A |
 | 29 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
 | 30 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
 | 34 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
 | 35 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 36 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 36 | [fachkräftemangel](http://twitter.com/search?q=fachkr%c3%a4ftemangel) | N/A |
 | 37 | [Meter](http://twitter.com/search?q=Meter) | N/A |
 | 38 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
 | 39 | [Easter](http://twitter.com/search?q=Easter) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 45 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 46 | [Grunde](http://twitter.com/search?q=Grunde) | N/A |
 | 47 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 48 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 48 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 
 
 

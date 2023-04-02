@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-02 00:30:56 UTC`
+📆 Last Updated: `2023-04-02 01:45:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 2 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
-| 3 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 4 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 5 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 6 | [Umps](http://twitter.com/search?q=Umps) | N/A |
-| 7 | [Giancarlo](http://twitter.com/search?q=Giancarlo) | N/A |
-| 8 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 9 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 10 | [Mark Canha](http://twitter.com/search?q=Mark+Canha) | N/A |
-| 11 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 12 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 13 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 14 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 15 | [Narvaez](http://twitter.com/search?q=Narvaez) | N/A |
-| 16 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 17 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 18 | [Megill](http://twitter.com/search?q=Megill) | N/A |
-| 19 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 20 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 21 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 22 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 23 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 26 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 29 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 1 | [Alex Tuch](http://twitter.com/search?q=Alex+Tuch) | N/A |
+| 2 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 3 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 4 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 5 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 6 | [#RBNY](http://twitter.com/search?q=%23RBNY) | N/A |
+| 7 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 8 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 9 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 10 | [Giancarlo](http://twitter.com/search?q=Giancarlo) | N/A |
+| 11 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 12 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 13 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 14 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 15 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 16 | [#RedSox](http://twitter.com/search?q=%23RedSox) | N/A |
+| 17 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 18 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 19 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 20 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 21 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 22 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 23 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
+| 24 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 25 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 26 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 28 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 29 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
 | 30 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 31 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 32 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 33 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 34 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 35 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 36 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
-| 37 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 38 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 39 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 40 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 41 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 42 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 43 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 44 | [Make-A-Wish](http://twitter.com/search?q=Make-A-Wish) | N/A |
-| 45 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 46 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 47 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 48 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 49 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 50 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 31 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 32 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 33 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 34 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 35 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 36 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 37 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 38 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 39 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 40 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 41 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 42 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 43 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 44 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 45 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 46 | [Maggie Rogers](http://twitter.com/search?q=Maggie+Rogers) | N/A |
+| 47 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 48 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 49 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 50 | [Make A Wish](http://twitter.com/search?q=Make+A+Wish) | N/A |
 
 
 

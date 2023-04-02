@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-02 00:31:02 UTC`
+📆 Last Updated: `2023-04-02 01:45:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,25 +37,25 @@ This is top 50 for Denmark
 | 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 21 | [pia olsen dyhr](http://twitter.com/search?q=pia+olsen+dyhr) | N/A |
 | 22 | [bundesligaen](http://twitter.com/search?q=bundesligaen) | N/A |
-| 23 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 24 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 25 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 26 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 23 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 24 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 25 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 26 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 27 | [nordjylland](http://twitter.com/search?q=nordjylland) | N/A |
-| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 29 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 30 | [Kolding](http://twitter.com/search?q=Kolding) | N/A |
-| 31 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
-| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
-| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 37 | [endelig](http://twitter.com/search?q=endelig) | N/A |
-| 38 | [thorborg](http://twitter.com/search?q=thorborg) | N/A |
-| 39 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 41 | [Torben](http://twitter.com/search?q=Torben) | N/A |
+| 28 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
+| 29 | [kolding](http://twitter.com/search?q=kolding) | N/A |
+| 30 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
+| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 32 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 34 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
+| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 36 | [endelig](http://twitter.com/search?q=endelig) | N/A |
+| 37 | [thorborg](http://twitter.com/search?q=thorborg) | N/A |
+| 38 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 39 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 40 | [torben](http://twitter.com/search?q=torben) | N/A |
+| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 43 | [Republican](http://twitter.com/search?q=Republican) | N/A |
 | 44 | [Easter](http://twitter.com/search?q=Easter) | N/A |

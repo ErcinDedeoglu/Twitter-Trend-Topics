@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-04-02 00:31:01 UTC`
+📆 Last Updated: `2023-04-02 01:45:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Bahrain
 | 2 | [#لله_الكون_ومافيه](http://twitter.com/search?q=%23%d9%84%d9%84%d9%87_%d8%a7%d9%84%d9%83%d9%88%d9%86_%d9%88%d9%85%d8%a7%d9%81%d9%8a%d9%87) | N/A |
 | 3 | [#freh](http://twitter.com/search?q=%23freh) | N/A |
 | 4 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 5 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 6 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 5 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 6 | [١٠ رمضان](http://twitter.com/search?q=%d9%a1%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 7 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 8 | [اليوم العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
 | 9 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
@@ -55,16 +55,16 @@ This is top 50 for Bahrain
 | 38 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 | 39 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
 | 40 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 41 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 42 | [سناب](http://twitter.com/search?q=%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
-| 43 | [انستا](http://twitter.com/search?q=%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
-| 44 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 45 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 46 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
-| 47 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 48 | [GOLD TOOLS](http://twitter.com/search?q=GOLD+TOOLS) | N/A |
-| 49 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 50 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 41 | [سناب](http://twitter.com/search?q=%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
+| 42 | [انستا](http://twitter.com/search?q=%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
+| 43 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 44 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 45 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 46 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 47 | [GOLD TOOLS](http://twitter.com/search?q=GOLD+TOOLS) | N/A |
+| 48 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 49 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 50 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 
 
 
