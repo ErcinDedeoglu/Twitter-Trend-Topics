@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-04-02 05:18:12 UTC`
+📆 Last Updated: `2023-04-02 06:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
 | 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 5 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 8 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 9 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 13 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 14 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 15 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 16 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 17 | [gisdol](http://twitter.com/search?q=gisdol) | N/A |
-| 18 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 19 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 20 | [halbzeit](http://twitter.com/search?q=halbzeit) | N/A |
-| 21 | [ruhe in frieden](http://twitter.com/search?q=ruhe+in+frieden) | N/A |
-| 22 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 23 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 24 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 26 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 27 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 28 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
-| 29 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
-| 30 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 31 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 32 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
-| 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 34 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 35 | [känguru](http://twitter.com/search?q=k%c3%a4nguru) | N/A |
-| 36 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 37 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 38 | [Lothar](http://twitter.com/search?q=Lothar) | N/A |
-| 39 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 42 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
-| 43 | [Bürgerrat](http://twitter.com/search?q=B%c3%bcrgerrat) | N/A |
-| 44 | [1st of April](http://twitter.com/search?q=1st+of+April) | N/A |
-| 45 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 46 | [Hebamme](http://twitter.com/search?q=Hebamme) | N/A |
-| 47 | ['gemüse'](http://twitter.com/search?q=%27gem%c3%bcse%27) | N/A |
-| 48 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 49 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
-| 50 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 4 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 6 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 7 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 8 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 9 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 10 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 11 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 12 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 15 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 16 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 19 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 20 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 22 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 23 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 25 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 26 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 27 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 28 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 29 | [Gisdol](http://twitter.com/search?q=Gisdol) | N/A |
+| 30 | [halbzeit](http://twitter.com/search?q=halbzeit) | N/A |
+| 31 | [ruhe in frieden](http://twitter.com/search?q=ruhe+in+frieden) | N/A |
+| 32 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 33 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 34 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 36 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 37 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 38 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 39 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 40 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 41 | [Entbindende Person](http://twitter.com/search?q=Entbindende+Person) | N/A |
+| 42 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 43 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 45 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 46 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 47 | [känguru](http://twitter.com/search?q=k%c3%a4nguru) | N/A |
+| 48 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 49 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 50 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
 
 
 

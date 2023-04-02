@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-02 05:18:03 UTC`
+📆 Last Updated: `2023-04-02 06:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 1 | [#portedearmas](http://twitter.com/search?q=%23portedearmas) | N/A |
 | 2 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
-| 3 | [#Armas](http://twitter.com/search?q=%23Armas) | N/A |
-| 4 | [La Purga](http://twitter.com/search?q=La+Purga) | N/A |
-| 5 | [Roditti](http://twitter.com/search?q=Roditti) | N/A |
-| 6 | [#LassoRENUNCIA](http://twitter.com/search?q=%23LassoRENUNCIA) | N/A |
-| 7 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
-| 8 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 9 | [Los Ríos](http://twitter.com/search?q=Los+R%c3%ados) | N/A |
-| 10 | [#EcuadorenCrisis](http://twitter.com/search?q=%23EcuadorenCrisis) | N/A |
-| 11 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 12 | [Allen Obando](http://twitter.com/search?q=Allen+Obando) | N/A |
-| 13 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 14 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
-| 15 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 16 | [Estado de Excepción](http://twitter.com/search?q=Estado+de+Excepci%c3%b3n) | N/A |
-| 17 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 19 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
-| 20 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 21 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 22 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 23 | [COIP](http://twitter.com/search?q=COIP) | N/A |
-| 24 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
-| 25 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
-| 26 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 27 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 28 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 29 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 30 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 31 | [Ordóñez](http://twitter.com/search?q=Ord%c3%b3%c3%b1ez) | N/A |
-| 32 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 33 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
-| 34 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 35 | [Portoviejo](http://twitter.com/search?q=Portoviejo) | N/A |
-| 36 | [#FUERALASSO](http://twitter.com/search?q=%23FUERALASSO) | N/A |
-| 37 | [#LassoDestruyoEcuador](http://twitter.com/search?q=%23LassoDestruyoEcuador) | N/A |
-| 38 | [#LassoLargateYA](http://twitter.com/search?q=%23LassoLargateYA) | N/A |
-| 39 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
+| 3 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 4 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 5 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
+| 6 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 7 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
+| 8 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 9 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 10 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 11 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 12 | [La Purga](http://twitter.com/search?q=La+Purga) | N/A |
+| 13 | [Roditti](http://twitter.com/search?q=Roditti) | N/A |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Santa Elena y Los Ríos](http://twitter.com/search?q=Santa+Elena+y+Los+R%c3%ados) | N/A |
+| 16 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 17 | [Obando](http://twitter.com/search?q=Obando) | N/A |
+| 18 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
+| 19 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 20 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 21 | [Antes de Correa](http://twitter.com/search?q=Antes+de+Correa) | N/A |
+| 22 | [Juan Carlos Holguín](http://twitter.com/search?q=Juan+Carlos+Holgu%c3%adn) | N/A |
+| 23 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
+| 24 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 25 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
+| 26 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 27 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 28 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 30 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 31 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 32 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
+| 33 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 34 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
+| 35 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 36 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
+| 37 | [Ambiente](http://twitter.com/search?q=Ambiente) | N/A |
+| 38 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
+| 39 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 40 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 41 | [Zona 8](http://twitter.com/search?q=Zona+8) | N/A |
+| 42 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 43 | [Gustavo Manrique](http://twitter.com/search?q=Gustavo+Manrique) | N/A |
+| 44 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 45 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 46 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
+| 47 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [punta blanca](http://twitter.com/search?q=punta+blanca) | N/A |
+| 50 | [Daniel Salcedo](http://twitter.com/search?q=Daniel+Salcedo) | N/A |
 
 
 

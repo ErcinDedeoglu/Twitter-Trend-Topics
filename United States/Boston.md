@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-02 05:18:43 UTC`
+📆 Last Updated: `2023-04-02 06:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
 | 2 | [#NERevs](http://twitter.com/search?q=%23NERevs) | N/A |
-| 3 | [ADAM DUVALL](http://twitter.com/search?q=ADAM+DUVALL) | N/A |
-| 4 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 7 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 8 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 3 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 7 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 8 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 9 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 10 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 11 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 12 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 13 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 14 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
-| 15 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 16 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 17 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 18 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 19 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 20 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 10 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 11 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 12 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 13 | [DBATC](http://twitter.com/search?q=DBATC) | N/A |
+| 14 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 16 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 17 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 18 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 19 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 20 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
 | 21 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 22 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 23 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 24 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 25 | [#GamebredBoxing4](http://twitter.com/search?q=%23GamebredBoxing4) | N/A |
-| 26 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 27 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 28 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
-| 29 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
-| 30 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 31 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 32 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 33 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 34 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 35 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 36 | [El Generico](http://twitter.com/search?q=El+Generico) | N/A |
-| 37 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 38 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 40 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 41 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 42 | [Lil Uzi Vert](http://twitter.com/search?q=Lil+Uzi+Vert) | N/A |
-| 43 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 44 | [Roy Jones](http://twitter.com/search?q=Roy+Jones) | N/A |
-| 45 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 46 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 47 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 48 | [Jacare](http://twitter.com/search?q=Jacare) | N/A |
-| 49 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 50 | [Pettis](http://twitter.com/search?q=Pettis) | N/A |
+| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 23 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 25 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 26 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 27 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 28 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 29 | [DEATH BY A THOUSAND CUTS](http://twitter.com/search?q=DEATH+BY+A+THOUSAND+CUTS) | N/A |
+| 30 | [#GamebredBoxing4](http://twitter.com/search?q=%23GamebredBoxing4) | N/A |
+| 31 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 32 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 33 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 36 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 37 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 38 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 39 | [Dogboe](http://twitter.com/search?q=Dogboe) | N/A |
+| 40 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 41 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 42 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 43 | [Best Moment](http://twitter.com/search?q=Best+Moment) | N/A |
+| 44 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 45 | [El Generico](http://twitter.com/search?q=El+Generico) | N/A |
+| 46 | [Best Attire](http://twitter.com/search?q=Best+Attire) | N/A |
+| 47 | [Best Match](http://twitter.com/search?q=Best+Match) | N/A |
+| 48 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 49 | [Roy Jones](http://twitter.com/search?q=Roy+Jones) | N/A |
+| 50 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
 
 
 

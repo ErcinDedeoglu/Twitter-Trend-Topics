@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-02 05:18:09 UTC`
+📆 Last Updated: `2023-04-02 06:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
 | 2 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
-| 3 | [#legrcz](http://twitter.com/search?q=%23legrcz) | N/A |
-| 4 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
-| 5 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
-| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 7 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 8 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 9 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 3 | [Russella](http://twitter.com/search?q=Russella) | N/A |
+| 4 | [#legrcz](http://twitter.com/search?q=%23legrcz) | N/A |
+| 5 | [Albona](http://twitter.com/search?q=Albona) | N/A |
+| 6 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 7 | [Prima Aprilis](http://twitter.com/search?q=Prima+Aprilis) | N/A |
+| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 9 | [Hamiltona](http://twitter.com/search?q=Hamiltona) | N/A |
 | 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 11 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 12 | [papszuna](http://twitter.com/search?q=papszuna) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 15 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 16 | [planicy](http://twitter.com/search?q=planicy) | N/A |
-| 17 | [kupi](http://twitter.com/search?q=kupi) | N/A |
-| 18 | [GP Australii](http://twitter.com/search?q=GP+Australii) | N/A |
-| 19 | [rosomaki](http://twitter.com/search?q=rosomaki) | N/A |
-| 20 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 21 | [slisz](http://twitter.com/search?q=slisz) | N/A |
-| 22 | [śniadek](http://twitter.com/search?q=%c5%9bniadek) | N/A |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 25 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
-| 26 | [miedzi](http://twitter.com/search?q=miedzi) | N/A |
-| 27 | [ligi narodowej](http://twitter.com/search?q=ligi+narodowej) | N/A |
-| 28 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 30 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 31 | [Tour de France](http://twitter.com/search?q=Tour+de+France) | N/A |
-| 32 | [dziś 1](http://twitter.com/search?q=dzi%c5%9b+1) | N/A |
-| 33 | [Wyrzykowski](http://twitter.com/search?q=Wyrzykowski) | N/A |
-| 34 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 35 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Radzie Bezpieczeństwa ONZ](http://twitter.com/search?q=Radzie+Bezpiecze%c5%84stwa+ONZ) | N/A |
-| 38 | [lasyk](http://twitter.com/search?q=lasyk) | N/A |
-| 39 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 40 | [kosta](http://twitter.com/search?q=kosta) | N/A |
-| 41 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 42 | [siemianowicach śląskich](http://twitter.com/search?q=siemianowicach+%c5%9bl%c4%85skich) | N/A |
-| 43 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 44 | [junca](http://twitter.com/search?q=junca) | N/A |
-| 45 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 46 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 47 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
-| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 49 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 50 | [rb onz](http://twitter.com/search?q=rb+onz) | N/A |
+| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 12 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
+| 13 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 14 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 15 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 19 | [Mercedesa](http://twitter.com/search?q=Mercedesa) | N/A |
+| 20 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 21 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
+| 22 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 23 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 24 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 25 | [papszuna](http://twitter.com/search?q=papszuna) | N/A |
+| 26 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 27 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 28 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 29 | [planicy](http://twitter.com/search?q=planicy) | N/A |
+| 30 | [kupi](http://twitter.com/search?q=kupi) | N/A |
+| 31 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 32 | [rosomaki](http://twitter.com/search?q=rosomaki) | N/A |
+| 33 | [śniadek](http://twitter.com/search?q=%c5%9bniadek) | N/A |
+| 34 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 35 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
+| 36 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 37 | [rodriego](http://twitter.com/search?q=rodriego) | N/A |
+| 38 | [miedzi](http://twitter.com/search?q=miedzi) | N/A |
+| 39 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 40 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 41 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
+| 42 | [Tour de France](http://twitter.com/search?q=Tour+de+France) | N/A |
+| 43 | [dziś 1](http://twitter.com/search?q=dzi%c5%9b+1) | N/A |
+| 44 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 45 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 46 | [wyrzykowski](http://twitter.com/search?q=wyrzykowski) | N/A |
+| 47 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 48 | [Oskara](http://twitter.com/search?q=Oskara) | N/A |
+| 49 | [LIGI NARODOWEJ](http://twitter.com/search?q=LIGI+NARODOWEJ) | N/A |
+| 50 | [Radzie Bezpieczeństwa ONZ](http://twitter.com/search?q=Radzie+Bezpiecze%c5%84stwa+ONZ) | N/A |
 
 
 

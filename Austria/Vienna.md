@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-02 05:18:09 UTC`
+📆 Last Updated: `2023-04-02 06:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 2 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 3 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 6 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 7 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 8 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 9 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 10 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 11 | [ausländerwahlrecht](http://twitter.com/search?q=ausl%c3%a4nderwahlrecht) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [christian kern](http://twitter.com/search?q=christian+kern) | N/A |
-| 16 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 17 | [silberstein](http://twitter.com/search?q=silberstein) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 20 | [gletscher](http://twitter.com/search?q=gletscher) | N/A |
-| 21 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 22 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 23 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 24 | [geheimnis](http://twitter.com/search?q=geheimnis) | N/A |
-| 25 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 26 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
-| 27 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 28 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 29 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 32 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
-| 33 | [Chats](http://twitter.com/search?q=Chats) | N/A |
-| 34 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
-| 35 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 36 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
-| 37 | [pracker](http://twitter.com/search?q=pracker) | N/A |
-| 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 39 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 40 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 41 | [Termine](http://twitter.com/search?q=Termine) | N/A |
-| 42 | [truppen](http://twitter.com/search?q=truppen) | N/A |
-| 43 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 44 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 45 | [Schimpfwort](http://twitter.com/search?q=Schimpfwort) | N/A |
-| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 47 | [wiener zeitung](http://twitter.com/search?q=wiener+zeitung) | N/A |
-| 48 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 49 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 50 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 3 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
+| 4 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 5 | [#FCBBVB](http://twitter.com/search?q=%23FCBBVB) | N/A |
+| 6 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 7 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 8 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 11 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 12 | [April April](http://twitter.com/search?q=April+April) | N/A |
+| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 14 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 15 | [ausländerwahlrecht](http://twitter.com/search?q=ausl%c3%a4nderwahlrecht) | N/A |
+| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [christian kern](http://twitter.com/search?q=christian+kern) | N/A |
+| 19 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 20 | [silberstein](http://twitter.com/search?q=silberstein) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 24 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 25 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 26 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 27 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 28 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 29 | [abwesenheit](http://twitter.com/search?q=abwesenheit) | N/A |
+| 30 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 31 | [Gletscher](http://twitter.com/search?q=Gletscher) | N/A |
+| 32 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 33 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
+| 37 | [Chats](http://twitter.com/search?q=Chats) | N/A |
+| 38 | [Versagen](http://twitter.com/search?q=Versagen) | N/A |
+| 39 | [pracker](http://twitter.com/search?q=pracker) | N/A |
+| 40 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
+| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 42 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 43 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 44 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 45 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 46 | [Schimpfwort](http://twitter.com/search?q=Schimpfwort) | N/A |
+| 47 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 48 | [wiener zeitung](http://twitter.com/search?q=wiener+zeitung) | N/A |
+| 49 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 50 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-04-02 05:17:58 UTC`
+📆 Last Updated: `2023-04-02 06:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 5 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 7 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 9 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 1 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 5 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 6 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 7 | [Red Flag](http://twitter.com/search?q=Red+Flag) | N/A |
+| 8 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 10 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
-| 11 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 12 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 13 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 14 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 15 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 17 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 18 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 19 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 20 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 21 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 22 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 23 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 24 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 25 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 26 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 29 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 30 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 31 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 32 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 33 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 35 | [Bellew](http://twitter.com/search?q=Bellew) | N/A |
-| 36 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 38 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 39 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 40 | [#WardleyCoffie](http://twitter.com/search?q=%23WardleyCoffie) | N/A |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Oh George](http://twitter.com/search?q=Oh+George) | N/A |
+| 14 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 15 | [Mercs](http://twitter.com/search?q=Mercs) | N/A |
+| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 17 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 18 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 19 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 23 | [Daily Quordle 433](http://twitter.com/search?q=Daily+Quordle+433) | N/A |
+| 24 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 25 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 26 | [Australian Grand Prix](http://twitter.com/search?q=Australian+Grand+Prix) | N/A |
+| 27 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 28 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 29 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 30 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 31 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 32 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 33 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 35 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 36 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 37 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 38 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 39 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 41 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 42 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 43 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 44 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 45 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
+| 46 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 47 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 48 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 49 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 
 
 
