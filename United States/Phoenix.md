@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-04-02 22:18:25 UTC`
+📆 Last Updated: `2023-04-02 23:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 2 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 3 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 4 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 5 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 6 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 7 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 8 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 9 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 10 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 11 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
-| 12 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
-| 13 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 14 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 15 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 16 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
-| 17 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 18 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 19 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 20 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 21 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 22 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 23 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 24 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 25 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 26 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 27 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 28 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
-| 29 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 31 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
-| 32 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
-| 33 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
-| 34 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
-| 35 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 36 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
-| 37 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
-| 38 | [But LSU](http://twitter.com/search?q=But+LSU) | N/A |
-| 39 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
-| 40 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 41 | [Happy for LSU](http://twitter.com/search?q=Happy+for+LSU) | N/A |
-| 42 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 43 | [Coach Kim](http://twitter.com/search?q=Coach+Kim) | N/A |
-| 44 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 45 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 46 | [Officials](http://twitter.com/search?q=Officials) | N/A |
-| 47 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 48 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 49 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 1 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 2 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 4 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 5 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 8 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 9 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 10 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 11 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 12 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 13 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 14 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
+| 15 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
+| 16 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 17 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 18 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 19 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 20 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 21 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 22 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 23 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 24 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
+| 25 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 26 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 27 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 28 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 29 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 30 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 31 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 32 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 33 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 34 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 35 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
+| 36 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
+| 37 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
+| 38 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 39 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 40 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
+| 41 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 42 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 43 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
+| 44 | [You Can't See Me](http://twitter.com/search?q=You+Can%27t+See+Me) | N/A |
+| 45 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 46 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
+| 47 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
+| 48 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
+| 49 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 50 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
 
 
 

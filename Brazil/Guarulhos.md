@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-02 22:17:40 UTC`
+📆 Last Updated: `2023-04-02 23:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 2 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
-| 3 | [Gustavo Lopes](http://twitter.com/search?q=Gustavo+Lopes) | N/A |
-| 4 | [Gado](http://twitter.com/search?q=Gado) | N/A |
-| 5 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 6 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
-| 7 | [pardal](http://twitter.com/search?q=pardal) | N/A |
+| 2 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
+| 3 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 4 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
+| 5 | [Thiago Carpini](http://twitter.com/search?q=Thiago+Carpini) | N/A |
+| 6 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
+| 7 | [Gado](http://twitter.com/search?q=Gado) | N/A |
 | 8 | [Jojo Toddynho](http://twitter.com/search?q=Jojo+Toddynho) | N/A |
-| 9 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [Route](http://twitter.com/search?q=Route) | N/A |
-| 13 | [O Rei](http://twitter.com/search?q=O+Rei) | N/A |
-| 14 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 15 | [Real Brasília](http://twitter.com/search?q=Real+Bras%c3%adlia) | N/A |
-| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [Palmeirense](http://twitter.com/search?q=Palmeirense) | N/A |
-| 18 | [Verdão](http://twitter.com/search?q=Verd%c3%a3o) | N/A |
-| 19 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 20 | [MIBR](http://twitter.com/search?q=MIBR) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 23 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 24 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
-| 25 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 26 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 27 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
-| 28 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 29 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 30 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 32 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 33 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 36 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 9 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 10 | [#VCTAmericas](http://twitter.com/search?q=%23VCTAmericas) | N/A |
+| 11 | [Raffa](http://twitter.com/search?q=Raffa) | N/A |
+| 12 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 13 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 14 | [#AvantiPalestra](http://twitter.com/search?q=%23AvantiPalestra) | N/A |
+| 15 | [pardal](http://twitter.com/search?q=pardal) | N/A |
+| 16 | [Route](http://twitter.com/search?q=Route) | N/A |
+| 17 | [O Rei](http://twitter.com/search?q=O+Rei) | N/A |
+| 18 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 19 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 20 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 21 | [Real Brasília](http://twitter.com/search?q=Real+Bras%c3%adlia) | N/A |
+| 22 | [Mr. Bean](http://twitter.com/search?q=Mr.+Bean) | N/A |
+| 23 | [Palmeirense](http://twitter.com/search?q=Palmeirense) | N/A |
+| 24 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 25 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 26 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 27 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
+| 28 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
+| 29 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 30 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 31 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 32 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
+| 33 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
+| 34 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 35 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 36 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
 | 37 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 38 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 39 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 40 | [Luan Dias](http://twitter.com/search?q=Luan+Dias) | N/A |
-| 41 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 42 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 43 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 44 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 45 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
-| 46 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 47 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 48 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 49 | [Nanda Costa](http://twitter.com/search?q=Nanda+Costa) | N/A |
-| 50 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 41 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 42 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 43 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
+| 44 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
+| 45 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 46 | [Luan Dias](http://twitter.com/search?q=Luan+Dias) | N/A |
+| 47 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 48 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 49 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 50 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
 
 
 

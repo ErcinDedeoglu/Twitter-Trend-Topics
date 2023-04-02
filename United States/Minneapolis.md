@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-02 22:18:23 UTC`
+📆 Last Updated: `2023-04-02 23:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Finch](http://twitter.com/search?q=Finch) | N/A |
 | 2 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
-| 3 | [#MNTwins](http://twitter.com/search?q=%23MNTwins) | N/A |
+| 3 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
 | 4 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 5 | [#packpix](http://twitter.com/search?q=%23packpix) | N/A |
-| 6 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
-| 7 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 5 | [#MNTwins](http://twitter.com/search?q=%23MNTwins) | N/A |
+| 6 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 7 | [Clark](http://twitter.com/search?q=Clark) | N/A |
 | 8 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 9 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 10 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 11 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 11 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
 | 12 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 13 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
+| 13 | [Morris](http://twitter.com/search?q=Morris) | N/A |
 | 14 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 15 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 15 | [Classless](http://twitter.com/search?q=Classless) | N/A |
 | 16 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 17 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 18 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 19 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 20 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
-| 21 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 22 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 23 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 24 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 25 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 26 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 17 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
+| 18 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 19 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 20 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 21 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 22 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 23 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 24 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
+| 25 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 26 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
 | 27 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 28 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 29 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 30 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 31 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 32 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
-| 33 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
-| 36 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
-| 37 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
-| 38 | [Flau’jae](http://twitter.com/search?q=Flau%e2%80%99jae) | N/A |
+| 28 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 29 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 30 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 32 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 33 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 34 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 35 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 36 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 37 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
+| 38 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
 | 39 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 40 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
-| 41 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
-| 42 | [But LSU](http://twitter.com/search?q=But+LSU) | N/A |
-| 43 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
-| 44 | [Happy for LSU](http://twitter.com/search?q=Happy+for+LSU) | N/A |
-| 45 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 46 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 47 | [Coach Kim](http://twitter.com/search?q=Coach+Kim) | N/A |
-| 48 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 49 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 50 | [Officials](http://twitter.com/search?q=Officials) | N/A |
+| 40 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 41 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 42 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
+| 43 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 44 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 45 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
+| 46 | [You Can't See Me](http://twitter.com/search?q=You+Can%27t+See+Me) | N/A |
+| 47 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 48 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
+| 49 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
+| 50 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
 
 
 

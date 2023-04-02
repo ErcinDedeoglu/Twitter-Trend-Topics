@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omsk
 
-📆 Last Updated: `2023-04-02 22:18:10 UTC`
+📆 Last Updated: `2023-04-02 23:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Russia](</Russia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 2 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 3 | [#ZkSyncc](http://twitter.com/search?q=%23ZkSyncc) | N/A |
-| 4 | [Bullishh](http://twitter.com/search?q=Bullishh) | N/A |
+| 2 | [#ZkSyncc](http://twitter.com/search?q=%23ZkSyncc) | N/A |
+| 3 | [Bullishh](http://twitter.com/search?q=Bullishh) | N/A |
+| 4 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
 | 5 | [Sickk](http://twitter.com/search?q=Sickk) | N/A |
 | 6 | [#битваэкстрасенсов](http://twitter.com/search?q=%23%d0%b1%d0%b8%d1%82%d0%b2%d0%b0%d1%8d%d0%ba%d1%81%d1%82%d1%80%d0%b0%d1%81%d0%b5%d0%bd%d1%81%d0%be%d0%b2) | N/A |
 | 7 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
@@ -36,13 +36,13 @@ This is top 50 for [Russia](</Russia>)
 | 19 | [КРАСИВЫЙ](http://twitter.com/search?q=%d0%9a%d0%a0%d0%90%d0%a1%d0%98%d0%92%d0%ab%d0%99) | N/A |
 | 20 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 21 | [Киево-Печерской](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%be-%d0%9f%d0%b5%d1%87%d0%b5%d1%80%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 22 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 22 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
 | 23 | [Донбассе](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
 | 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 25 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
 | 26 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
 | 27 | [Первое](http://twitter.com/search?q=%d0%9f%d0%b5%d1%80%d0%b2%d0%be%d0%b5) | N/A |
-| 28 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
+| 28 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
 | 29 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
 | 30 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
 | 31 | [Причём](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |

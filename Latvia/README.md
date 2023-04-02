@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-02 22:18:34 UTC`
+📆 Last Updated: `2023-04-02 23:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Latvia
 | 17 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 18 | [zinu](http://twitter.com/search?q=zinu) | N/A |
 | 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [Prieks](http://twitter.com/search?q=Prieks) | N/A |
+| 20 | [prieks](http://twitter.com/search?q=prieks) | N/A |
 | 21 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
 | 22 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
 | 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -44,25 +44,25 @@ This is top 50 for Latvia
 | 27 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
 | 28 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
 | 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 30 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 31 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 32 | [Airbaltic](http://twitter.com/search?q=Airbaltic) | N/A |
-| 33 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | N/A |
-| 34 | [Šito](http://twitter.com/search?q=%c5%a0ito) | N/A |
-| 35 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 36 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 37 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
-| 38 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 39 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
-| 40 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
-| 41 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 42 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
-| 43 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 44 | [Muļķības](http://twitter.com/search?q=Mu%c4%bc%c4%b7%c4%abbas) | N/A |
+| 30 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
+| 31 | [Airbaltic](http://twitter.com/search?q=Airbaltic) | N/A |
+| 32 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | N/A |
+| 33 | [Šito](http://twitter.com/search?q=%c5%a0ito) | N/A |
+| 34 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 35 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 36 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
+| 37 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 38 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
+| 39 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
+| 40 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 41 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
+| 42 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 43 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
+| 44 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
 | 45 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
 | 46 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
 | 47 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 48 | [Turklāt](http://twitter.com/search?q=Turkl%c4%81t) | N/A |
+| 48 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
 | 49 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
 
 

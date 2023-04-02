@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-02 22:18:26 UTC`
+📆 Last Updated: `2023-04-02 23:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
-| 2 | [Logan O'Hoppe](http://twitter.com/search?q=Logan+O%27Hoppe) | N/A |
-| 3 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 4 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 5 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 6 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 7 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 11 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 12 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 13 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 14 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 15 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
-| 16 | [NY Times](http://twitter.com/search?q=NY+Times) | N/A |
-| 17 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 18 | [#AllRounderSeonghwaDay](http://twitter.com/search?q=%23AllRounderSeonghwaDay) | N/A |
-| 19 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 20 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 21 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 22 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 23 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 24 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 25 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 26 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 27 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 28 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 29 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 30 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 31 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 32 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 33 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 34 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 35 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 36 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
-| 37 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 38 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 39 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 40 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 41 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 42 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 43 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 44 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 45 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 46 | [LET THEM PLAY](http://twitter.com/search?q=LET+THEM+PLAY) | N/A |
-| 47 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 48 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
-| 49 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 1 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 2 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 3 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
+| 4 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 5 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 6 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 7 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
+| 8 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
+| 9 | [Hoppe](http://twitter.com/search?q=Hoppe) | N/A |
+| 10 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 14 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
+| 15 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 16 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 17 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 18 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 19 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 20 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 21 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 22 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 23 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [NY Times](http://twitter.com/search?q=NY+Times) | N/A |
+| 26 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 27 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 28 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 29 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 30 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 31 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 32 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 33 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 34 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 35 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 36 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 37 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 38 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 39 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 40 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 41 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 42 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 43 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 44 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 45 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 46 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 47 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 48 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 49 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
 
 
 
