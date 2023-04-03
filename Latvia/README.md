@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-03 22:17:40 UTC`
+📆 Last Updated: `2023-04-03 23:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,47 @@ This is top 50 for Latvia
 | 4 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
 | 5 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
 | 6 | [cēsīs](http://twitter.com/search?q=c%c4%93s%c4%abs) | N/A |
-| 7 | [Baltijā](http://twitter.com/search?q=Baltij%c4%81) | N/A |
-| 8 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
-| 9 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 10 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 11 | [Tagad](http://twitter.com/search?q=Tagad) | N/A |
-| 12 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
-| 13 | [Maskavu](http://twitter.com/search?q=Maskavu) | N/A |
-| 14 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 17 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 18 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 19 | [psrs](http://twitter.com/search?q=psrs) | N/A |
-| 20 | [ano drošības](http://twitter.com/search?q=ano+dro%c5%a1%c4%abbas) | N/A |
-| 21 | [prieks](http://twitter.com/search?q=prieks) | N/A |
-| 22 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
-| 23 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
-| 24 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 25 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 26 | [tajā](http://twitter.com/search?q=taj%c4%81) | N/A |
-| 27 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
-| 28 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
-| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 30 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
-| 31 | [VIENMĒR](http://twitter.com/search?q=VIENM%c4%92R) | N/A |
-| 32 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
-| 33 | [godīgi](http://twitter.com/search?q=god%c4%abgi) | N/A |
-| 34 | [ogrē](http://twitter.com/search?q=ogr%c4%93) | N/A |
-| 35 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 36 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 37 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
-| 38 | [Tīri](http://twitter.com/search?q=T%c4%abri) | N/A |
-| 39 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
-| 40 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 41 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 42 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 43 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 44 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 47 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
-| 48 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
-| 49 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 7 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | N/A |
+| 8 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 9 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
+| 10 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
+| 11 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
+| 12 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
+| 13 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 16 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 17 | [psrs](http://twitter.com/search?q=psrs) | N/A |
+| 18 | [ano drošības](http://twitter.com/search?q=ano+dro%c5%a1%c4%abbas) | N/A |
+| 19 | [prieks](http://twitter.com/search?q=prieks) | N/A |
+| 20 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 21 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
+| 22 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 23 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 24 | [tajā](http://twitter.com/search?q=taj%c4%81) | N/A |
+| 25 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
+| 26 | [nevar](http://twitter.com/search?q=nevar) | N/A |
+| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 28 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
+| 29 | [VIENMĒR](http://twitter.com/search?q=VIENM%c4%92R) | N/A |
+| 30 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
+| 31 | [godīgi](http://twitter.com/search?q=god%c4%abgi) | N/A |
+| 32 | [ogrē](http://twitter.com/search?q=ogr%c4%93) | N/A |
+| 33 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 34 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 35 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 36 | [Tīri](http://twitter.com/search?q=T%c4%abri) | N/A |
+| 37 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
+| 38 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 39 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 40 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 41 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
+| 42 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 43 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 44 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 45 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 46 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
+| 47 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 
 
 

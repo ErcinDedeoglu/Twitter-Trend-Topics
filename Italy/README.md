@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-03 22:17:39 UTC`
+📆 Last Updated: `2023-04-03 23:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 3 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
+| 2 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 3 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 4 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 5 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
-| 6 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 7 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 8 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 9 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 10 | [#orianistas](http://twitter.com/search?q=%23orianistas) | N/A |
+| 5 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
+| 6 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 7 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 8 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
+| 9 | [#orianistas](http://twitter.com/search?q=%23orianistas) | N/A |
+| 10 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
 | 11 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
 | 12 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 13 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
-| 14 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 15 | [Incorvaia](http://twitter.com/search?q=Incorvaia) | N/A |
-| 16 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 17 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 18 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 19 | [Geova](http://twitter.com/search?q=Geova) | N/A |
-| 20 | [Dodina](http://twitter.com/search?q=Dodina) | N/A |
-| 21 | [Ilaria](http://twitter.com/search?q=Ilaria) | N/A |
-| 22 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 24 | [Pier](http://twitter.com/search?q=Pier) | N/A |
-| 25 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 26 | [Wish I Could Have](http://twitter.com/search?q=Wish+I+Could+Have) | N/A |
-| 27 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 28 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
-| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 30 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 31 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 32 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 33 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
-| 34 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
-| 35 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 36 | [#senzaPretendere](http://twitter.com/search?q=%23senzaPretendere) | N/A |
-| 37 | [#SassuoloTorino](http://twitter.com/search?q=%23SassuoloTorino) | N/A |
-| 38 | [#ReportRai3](http://twitter.com/search?q=%23ReportRai3) | N/A |
+| 13 | [Romina Power](http://twitter.com/search?q=Romina+Power) | N/A |
+| 14 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
+| 15 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 16 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 17 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 18 | [Incorvaia](http://twitter.com/search?q=Incorvaia) | N/A |
+| 19 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
+| 20 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
+| 21 | [Dodina](http://twitter.com/search?q=Dodina) | N/A |
+| 22 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 23 | [Bompiani](http://twitter.com/search?q=Bompiani) | N/A |
+| 24 | [Geova](http://twitter.com/search?q=Geova) | N/A |
+| 25 | [Pier](http://twitter.com/search?q=Pier) | N/A |
+| 26 | [Ilaria](http://twitter.com/search?q=Ilaria) | N/A |
+| 27 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
+| 30 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
+| 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 32 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 33 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 34 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
+| 35 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 36 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
+| 37 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 38 | [#SassuoloTorino](http://twitter.com/search?q=%23SassuoloTorino) | N/A |
 | 39 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 40 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
-| 41 | [#Bompiani](http://twitter.com/search?q=%23Bompiani) | N/A |
-| 42 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 43 | [#BuonCompleannoPrincipe](http://twitter.com/search?q=%23BuonCompleannoPrincipe) | N/A |
-| 44 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 45 | [#EmpoliLecce](http://twitter.com/search?q=%23EmpoliLecce) | N/A |
-| 46 | [#Serracchiani](http://twitter.com/search?q=%23Serracchiani) | N/A |
-| 47 | [#ciupilan](http://twitter.com/search?q=%23ciupilan) | N/A |
-| 48 | [#elezioniregionaliFVG](http://twitter.com/search?q=%23elezioniregionaliFVG) | N/A |
-| 49 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 50 | [#elezionifvg](http://twitter.com/search?q=%23elezionifvg) | N/A |
+| 40 | [#senzaPretendere](http://twitter.com/search?q=%23senzaPretendere) | N/A |
+| 41 | [#ReportRai3](http://twitter.com/search?q=%23ReportRai3) | N/A |
+| 42 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
+| 43 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 44 | [#BuonCompleannoPrincipe](http://twitter.com/search?q=%23BuonCompleannoPrincipe) | N/A |
+| 45 | [#ciupilan](http://twitter.com/search?q=%23ciupilan) | N/A |
+| 46 | [#elezioniregionaliFVG](http://twitter.com/search?q=%23elezioniregionaliFVG) | N/A |
+| 47 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 48 | [#elezionifvg](http://twitter.com/search?q=%23elezionifvg) | N/A |
+| 49 | [#DeBenedetti](http://twitter.com/search?q=%23DeBenedetti) | N/A |
 
 
 

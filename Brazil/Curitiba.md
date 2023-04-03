@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-03 22:16:56 UTC`
+📆 Last Updated: `2023-04-03 23:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 1 | [Jamerson](http://twitter.com/search?q=Jamerson) | N/A |
 | 2 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
 | 3 | [Moana](http://twitter.com/search?q=Moana) | N/A |
 | 4 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 5 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 6 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 7 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 8 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 9 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 11 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 12 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 13 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
-| 14 | [NAIARA NO TVZ POCAH](http://twitter.com/search?q=NAIARA+NO+TVZ+POCAH) | N/A |
-| 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 16 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 17 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
-| 18 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 20 | [Ardiis](http://twitter.com/search?q=Ardiis) | N/A |
-| 21 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 22 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 23 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
-| 24 | [Balerion](http://twitter.com/search?q=Balerion) | N/A |
-| 25 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
-| 26 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
-| 27 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
-| 28 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 29 | [#ADona080](http://twitter.com/search?q=%23ADona080) | N/A |
+| 5 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 7 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 8 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 9 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 10 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 11 | [NAIARA NO TVZ POCAH](http://twitter.com/search?q=NAIARA+NO+TVZ+POCAH) | N/A |
+| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 13 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 14 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 15 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
+| 16 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 17 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 18 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 19 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 20 | [Balerion](http://twitter.com/search?q=Balerion) | N/A |
+| 21 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
+| 22 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 23 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 24 | [Ardiis](http://twitter.com/search?q=Ardiis) | N/A |
+| 25 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
+| 26 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 27 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 29 | [Katelicia](http://twitter.com/search?q=Katelicia) | N/A |
 | 30 | [Targaryen](http://twitter.com/search?q=Targaryen) | N/A |
-| 31 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 32 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 33 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
-| 34 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 35 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 36 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 37 | [Visenya](http://twitter.com/search?q=Visenya) | N/A |
-| 38 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 39 | [HOTD](http://twitter.com/search?q=HOTD) | N/A |
-| 40 | [Polinésia](http://twitter.com/search?q=Polin%c3%a9sia) | N/A |
-| 41 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 42 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 43 | [Jovem Pan](http://twitter.com/search?q=Jovem+Pan) | N/A |
-| 44 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 45 | [Encontro](http://twitter.com/search?q=Encontro) | N/A |
-| 46 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 47 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 48 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 49 | [madison bailey](http://twitter.com/search?q=madison+bailey) | N/A |
-| 50 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 31 | [#CidadeAlertaRJ](http://twitter.com/search?q=%23CidadeAlertaRJ) | N/A |
+| 32 | [Tidal](http://twitter.com/search?q=Tidal) | N/A |
+| 33 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 34 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
+| 35 | [caterina](http://twitter.com/search?q=caterina) | N/A |
+| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
+| 38 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 39 | [Visenya](http://twitter.com/search?q=Visenya) | N/A |
+| 40 | [O Hugo](http://twitter.com/search?q=O+Hugo) | N/A |
+| 41 | [Polinésia](http://twitter.com/search?q=Polin%c3%a9sia) | N/A |
+| 42 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 43 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
+| 44 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 45 | [Renata Silveira](http://twitter.com/search?q=Renata+Silveira) | N/A |
+| 46 | [Jovem Pan](http://twitter.com/search?q=Jovem+Pan) | N/A |
+| 47 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 48 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 49 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 50 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
 
 
 

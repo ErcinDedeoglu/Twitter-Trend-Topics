@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-04-03 22:17:27 UTC`
+📆 Last Updated: `2023-04-03 23:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,47 @@ This is top 50 for [Turkey](</Turkey>)
 | 3 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
 | 4 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
 | 5 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 6 | [Bircan Yıldırım](http://twitter.com/search?q=Bircan+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 7 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
-| 8 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
-| 9 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 6 | [Bilal Bozgeyik](http://twitter.com/search?q=Bilal+Bozgeyik) | N/A |
+| 7 | [Seyranlarİçin Susmadık](http://twitter.com/search?q=Seyranlar%c4%b0%c3%a7in+Susmad%c4%b1k) | N/A |
+| 8 | [Bircan Yıldırım](http://twitter.com/search?q=Bircan+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 9 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
 | 10 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
-| 11 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 12 | [EmeklininUmudu Kılıçdaroğlu](http://twitter.com/search?q=EmeklininUmudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 14 | [Yargı ÜçüncüSezon](http://twitter.com/search?q=Yarg%c4%b1+%c3%9c%c3%a7%c3%bcnc%c3%bcSezon) | N/A |
-| 15 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 16 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
-| 17 | [Şaban Arslan](http://twitter.com/search?q=%c5%9eaban+Arslan) | N/A |
-| 18 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
-| 19 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
-| 20 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
-| 21 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 22 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
-| 23 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
-| 24 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
-| 25 | [Opel](http://twitter.com/search?q=Opel) | N/A |
-| 26 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 11 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 12 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 13 | [Yargı ÜçüncüSezon](http://twitter.com/search?q=Yarg%c4%b1+%c3%9c%c3%a7%c3%bcnc%c3%bcSezon) | N/A |
+| 14 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 15 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 16 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
+| 17 | [EmeklininUmudu Kılıçdaroğlu](http://twitter.com/search?q=EmeklininUmudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 18 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 20 | [Şaban Arslan](http://twitter.com/search?q=%c5%9eaban+Arslan) | N/A |
+| 21 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
+| 22 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 23 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
+| 24 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
+| 25 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
+| 26 | [Opel](http://twitter.com/search?q=Opel) | N/A |
 | 27 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
 | 28 | [Emekliler](http://twitter.com/search?q=Emekliler) | N/A |
 | 29 | [BU YANLIŞA SUSULMASIN](http://twitter.com/search?q=BU+YANLI%c5%9eA+SUSULMASIN) | N/A |
 | 30 | [TEKLIFÇE Sisli](http://twitter.com/search?q=TEKLIF%c3%87E+Sisli) | N/A |
-| 31 | [MEMUR GEÇİM DERDİNDE](http://twitter.com/search?q=MEMUR+GE%c3%87%c4%b0M+DERD%c4%b0NDE) | N/A |
-| 32 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 31 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 32 | [MEMUR GEÇİM DERDİNDE](http://twitter.com/search?q=MEMUR+GE%c3%87%c4%b0M+DERD%c4%b0NDE) | N/A |
 | 33 | [TaşeronuÇözen OylarıAlır](http://twitter.com/search?q=Ta%c5%9feronu%c3%87%c3%b6zen+Oylar%c4%b1Al%c4%b1r) | N/A |
-| 34 | [AlpVeİrem Onedioya](http://twitter.com/search?q=AlpVe%c4%b0rem+Onedioya) | N/A |
-| 35 | [Bilge Yılmaz](http://twitter.com/search?q=Bilge+Y%c4%b1lmaz) | N/A |
-| 36 | [Önümüzdeki Kurban Bayramı'nda](http://twitter.com/search?q=%c3%96n%c3%bcm%c3%bczdeki+Kurban+Bayram%c4%b1%27nda) | N/A |
-| 37 | [DesteğimizSonsuz Rotinda](http://twitter.com/search?q=Deste%c4%9fimizSonsuz+Rotinda) | N/A |
-| 38 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
-| 39 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
-| 40 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 41 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 42 | [Çoluk](http://twitter.com/search?q=%c3%87oluk) | N/A |
-| 43 | [Torpil](http://twitter.com/search?q=Torpil) | N/A |
-| 44 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
-| 45 | [Emekliye](http://twitter.com/search?q=Emekliye) | N/A |
-| 46 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 34 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
+| 35 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 36 | [Bilge Yılmaz](http://twitter.com/search?q=Bilge+Y%c4%b1lmaz) | N/A |
+| 37 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
+| 38 | [DesteğimizSonsuz Rotinda](http://twitter.com/search?q=Deste%c4%9fimizSonsuz+Rotinda) | N/A |
+| 39 | [Kurban Bayramı'nda](http://twitter.com/search?q=Kurban+Bayram%c4%b1%27nda) | N/A |
+| 40 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 41 | [Emekliye](http://twitter.com/search?q=Emekliye) | N/A |
+| 42 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
+| 43 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 44 | [Çoluk](http://twitter.com/search?q=%c3%87oluk) | N/A |
+| 45 | [Milyonlar AFBekliyor](http://twitter.com/search?q=Milyonlar+AFBekliyor) | N/A |
+| 46 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
 
 
 

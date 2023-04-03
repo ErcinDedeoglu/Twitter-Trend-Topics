@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-03 22:17:34 UTC`
+📆 Last Updated: `2023-04-03 23:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
 | 2 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 3 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 4 | [Arte](http://twitter.com/search?q=Arte) | N/A |
-| 5 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 6 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 9 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 10 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
-| 11 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 12 | [#Trump2024NowMorethanEver](http://twitter.com/search?q=%23Trump2024NowMorethanEver) | N/A |
-| 13 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 15 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 16 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 17 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 19 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
-| 20 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 21 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 23 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 24 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 25 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 26 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 27 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 28 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 29 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 31 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 33 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 34 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 35 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 36 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
-| 37 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 38 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 39 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 40 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
-| 41 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 42 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 43 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
-| 44 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 45 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 46 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
-| 47 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 48 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 49 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 50 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 3 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [Arte](http://twitter.com/search?q=Arte) | N/A |
+| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 8 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 9 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [LA County](http://twitter.com/search?q=LA+County) | N/A |
+| 13 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 14 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
+| 15 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Latino](http://twitter.com/search?q=Latino) | N/A |
+| 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 19 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 20 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 21 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 22 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 23 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 26 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 27 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 28 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 29 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 30 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 31 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
+| 32 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 34 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
+| 35 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 36 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 37 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 38 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 39 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 40 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
+| 41 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
+| 42 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 43 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
+| 44 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 45 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 46 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
+| 47 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 48 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 49 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 50 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
 
 
 

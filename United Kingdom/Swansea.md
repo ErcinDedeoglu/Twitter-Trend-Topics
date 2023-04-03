@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-03 22:16:50 UTC`
+📆 Last Updated: `2023-04-03 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 7 | [Moura](http://twitter.com/search?q=Moura) | N/A |
 | 8 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
 | 9 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 10 | [#THFC](http://twitter.com/search?q=%23THFC) | N/A |
-| 11 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 10 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 11 | [#THFC](http://twitter.com/search?q=%23THFC) | N/A |
 | 12 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 13 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 14 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 15 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
 | 17 | [Garner](http://twitter.com/search?q=Garner) | N/A |
 | 18 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 19 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 20 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 21 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 22 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 23 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 24 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 25 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
-| 26 | [England Captain](http://twitter.com/search?q=England+Captain) | N/A |
-| 27 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 28 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 29 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
-| 30 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 31 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 32 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
-| 33 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
-| 34 | [Dacoure](http://twitter.com/search?q=Dacoure) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 37 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 38 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 39 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 40 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 41 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 42 | [Fregene](http://twitter.com/search?q=Fregene) | N/A |
-| 43 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 44 | [Paul Joyce](http://twitter.com/search?q=Paul+Joyce) | N/A |
-| 45 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 46 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
-| 47 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
+| 19 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 20 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 21 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 22 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 23 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 24 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 25 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 28 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 29 | [England Captain](http://twitter.com/search?q=England+Captain) | N/A |
+| 30 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 31 | [Dacoure](http://twitter.com/search?q=Dacoure) | N/A |
+| 32 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 33 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 34 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 35 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 36 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
+| 37 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 38 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 39 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 40 | [Doucs](http://twitter.com/search?q=Doucs) | N/A |
+| 41 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 42 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 43 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 44 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 45 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
+| 46 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 47 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
 | 48 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
 | 49 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
 

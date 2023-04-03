@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-03 22:17:32 UTC`
+📆 Last Updated: `2023-04-03 23:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 2 | [Cookie](http://twitter.com/search?q=Cookie) | N/A |
-| 3 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 1 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 2 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 3 | [Masters](http://twitter.com/search?q=Masters) | N/A |
 | 4 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 5 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 6 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 7 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 9 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 10 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 11 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 5 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 7 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 8 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 9 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 10 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 11 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
 | 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 13 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
 | 14 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 15 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 17 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 18 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 19 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 20 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 21 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 22 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 23 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 24 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 25 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 26 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 27 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 29 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 30 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 31 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 32 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 15 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 16 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 17 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 18 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 19 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 20 | [#IfIHadAllTheMoneyId](http://twitter.com/search?q=%23IfIHadAllTheMoneyId) | N/A |
+| 21 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
+| 22 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 24 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
+| 25 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 26 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
+| 27 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 28 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 29 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 30 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 31 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 32 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
 | 33 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
-| 34 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 35 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 36 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 37 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 38 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
-| 39 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 40 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 41 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
-| 42 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 43 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
-| 44 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 45 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 46 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 47 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 48 | [Manaea](http://twitter.com/search?q=Manaea) | N/A |
-| 49 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 50 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 34 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 35 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
+| 36 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 37 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 38 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
+| 39 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 40 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 41 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 42 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 43 | [Watters](http://twitter.com/search?q=Watters) | N/A |
+| 44 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 45 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 46 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
+| 47 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 48 | [HBCU](http://twitter.com/search?q=HBCU) | N/A |
+| 49 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 50 | [Michael Steele](http://twitter.com/search?q=Michael+Steele) | N/A |
 
 
 
