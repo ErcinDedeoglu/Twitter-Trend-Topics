@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-04-03 16:19:03 UTC`
+📆 Last Updated: `2023-04-03 17:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 4 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
-| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 6 | [#nrlsharkswarriors](http://twitter.com/search?q=%23nrlsharkswarriors) | N/A |
-| 7 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 5 | [#nrlsharkswarriors](http://twitter.com/search?q=%23nrlsharkswarriors) | N/A |
+| 6 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 7 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 8 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
 | 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 10 | [Amanda Rishworth](http://twitter.com/search?q=Amanda+Rishworth) | N/A |
-| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 12 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 13 | [Greg Mirabella](http://twitter.com/search?q=Greg+Mirabella) | N/A |
-| 14 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 15 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 16 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 17 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
-| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 19 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 22 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 24 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 25 | [julian leeser](http://twitter.com/search?q=julian+leeser) | N/A |
+| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 11 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 12 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 13 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 14 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
+| 15 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 16 | [Greg Mirabella](http://twitter.com/search?q=Greg+Mirabella) | N/A |
+| 17 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 19 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 20 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 21 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 22 | [julian leeser](http://twitter.com/search?q=julian+leeser) | N/A |
+| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 24 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 25 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 | 26 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 31 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 32 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 33 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 34 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 35 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 36 | [bridget archer](http://twitter.com/search?q=bridget+archer) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 39 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 40 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 41 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 42 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 43 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 44 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
-| 45 | [yolngu](http://twitter.com/search?q=yolngu) | N/A |
-| 46 | [senator rennick](http://twitter.com/search?q=senator+rennick) | N/A |
-| 47 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 48 | [phil coorey](http://twitter.com/search?q=phil+coorey) | N/A |
-| 49 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 50 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 30 | [Amanda Rishworth](http://twitter.com/search?q=Amanda+Rishworth) | N/A |
+| 31 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 32 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 33 | [bridget archer](http://twitter.com/search?q=bridget+archer) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 36 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 37 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 38 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 39 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 40 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 41 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
+| 42 | [yolngu](http://twitter.com/search?q=yolngu) | N/A |
+| 43 | [senator rennick](http://twitter.com/search?q=senator+rennick) | N/A |
+| 44 | [phil coorey](http://twitter.com/search?q=phil+coorey) | N/A |
+| 45 | [duncan](http://twitter.com/search?q=duncan) | N/A |
+| 46 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 47 | [Roco](http://twitter.com/search?q=Roco) | N/A |
+| 48 | [Pascoe](http://twitter.com/search?q=Pascoe) | N/A |
+| 49 | [yarra valley](http://twitter.com/search?q=yarra+valley) | N/A |
+| 50 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
 
 
 

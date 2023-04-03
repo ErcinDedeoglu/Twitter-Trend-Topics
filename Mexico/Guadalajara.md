@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-04-03 16:18:06 UTC`
+📆 Last Updated: `2023-04-03 17:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,39 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 3 | [#PoderosoComplicado](http://twitter.com/search?q=%23PoderosoComplicado) | N/A |
-| 4 | [#KornoPaArriba](http://twitter.com/search?q=%23KornoPaArriba) | N/A |
-| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 6 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 7 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
-| 8 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 9 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 10 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 12 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 13 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
-| 14 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
-| 15 | [Ana Belén](http://twitter.com/search?q=Ana+Bel%c3%a9n) | N/A |
-| 16 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
-| 17 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 18 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
-| 19 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
-| 20 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 21 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 22 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 23 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 24 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 27 | [thanks cd9](http://twitter.com/search?q=thanks+cd9) | N/A |
-| 28 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 29 | [GIL ALCALÁ](http://twitter.com/search?q=GIL+ALCAL%c3%81) | N/A |
-| 30 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 31 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 32 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 33 | [Control Vehicular](http://twitter.com/search?q=Control+Vehicular) | N/A |
-| 34 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 35 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 36 | [Estado de México](http://twitter.com/search?q=Estado+de+M%c3%a9xico) | N/A |
-| 37 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
-| 38 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 39 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 40 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 41 | [Taddei](http://twitter.com/search?q=Taddei) | N/A |
-| 42 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
-| 43 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 44 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
-| 45 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 46 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 47 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 48 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 49 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 50 | [the lucky one](http://twitter.com/search?q=the+lucky+one) | N/A |
+| 4 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 5 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 6 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 7 | [#salvadosporlacampaña](http://twitter.com/search?q=%23salvadosporlacampa%c3%b1a) | N/A |
+| 8 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 10 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
+| 11 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 12 | [Estado de México](http://twitter.com/search?q=Estado+de+M%c3%a9xico) | N/A |
+| 13 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 14 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
+| 15 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 16 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 17 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 18 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
+| 19 | [Lunes 3](http://twitter.com/search?q=Lunes+3) | N/A |
+| 20 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 21 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
+| 22 | [Reforma](http://twitter.com/search?q=Reforma) | N/A |
+| 23 | [Enrique Vargas](http://twitter.com/search?q=Enrique+Vargas) | N/A |
+| 24 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
+| 25 | [Julieta Venegas](http://twitter.com/search?q=Julieta+Venegas) | N/A |
+| 26 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
+| 27 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
+| 28 | [#HAPPYEUNHYUKDAY](http://twitter.com/search?q=%23HAPPYEUNHYUKDAY) | N/A |
+| 29 | [#4랑에_4랑을더한_혁재탄신일](http://twitter.com/search?q=%234%eb%9e%91%ec%97%90_4%eb%9e%91%ec%9d%84%eb%8d%94%ed%95%9c_%ed%98%81%ec%9e%ac%ed%83%84%ec%8b%a0%ec%9d%bc) | N/A |
+| 30 | [#GuardiansOfTheGalaxyVol3](http://twitter.com/search?q=%23GuardiansOfTheGalaxyVol3) | N/A |
+| 31 | [#AleGobernadora](http://twitter.com/search?q=%23AleGobernadora) | N/A |
+| 32 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 33 | [#UnirEsResolver](http://twitter.com/search?q=%23UnirEsResolver) | N/A |
+| 34 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
+| 35 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 36 | [#AleDelMoral](http://twitter.com/search?q=%23AleDelMoral) | N/A |
 
 
 

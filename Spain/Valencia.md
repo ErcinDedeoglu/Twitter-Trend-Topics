@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-03 16:18:23 UTC`
+📆 Last Updated: `2023-04-03 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 2 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 3 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 4 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
-| 5 | [Ethan Hayter](http://twitter.com/search?q=Ethan+Hayter) | N/A |
-| 6 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 3 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 4 | [#Pecado3Abr](http://twitter.com/search?q=%23Pecado3Abr) | N/A |
+| 5 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 6 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
 | 7 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 8 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 8 | [Ethan Hayter](http://twitter.com/search?q=Ethan+Hayter) | N/A |
 | 9 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
-| 10 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 11 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 12 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 13 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 14 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
-| 15 | [#TodoEsMentira3A](http://twitter.com/search?q=%23TodoEsMentira3A) | N/A |
-| 16 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 17 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
-| 18 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 19 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 20 | [Ruth Lorenzo](http://twitter.com/search?q=Ruth+Lorenzo) | N/A |
-| 21 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 22 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 23 | [Baptista](http://twitter.com/search?q=Baptista) | N/A |
-| 24 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 25 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
-| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 10 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 11 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 12 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
+| 13 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 14 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 15 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 16 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 17 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 18 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
+| 19 | [Michel](http://twitter.com/search?q=Michel) | N/A |
+| 20 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 21 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
+| 22 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 23 | [Ruth Lorenzo](http://twitter.com/search?q=Ruth+Lorenzo) | N/A |
+| 24 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
+| 25 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 26 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
 | 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 28 | [Prada](http://twitter.com/search?q=Prada) | N/A |
 | 29 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
 | 30 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 31 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
-| 32 | [González González](http://twitter.com/search?q=Gonz%c3%a1lez+Gonz%c3%a1lez) | N/A |
-| 33 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 34 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 35 | [Bordalas](http://twitter.com/search?q=Bordalas) | N/A |
-| 36 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 31 | [Baptista](http://twitter.com/search?q=Baptista) | N/A |
+| 32 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 33 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 34 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 35 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 36 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
+| 37 | [Bordalas](http://twitter.com/search?q=Bordalas) | N/A |
+| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 39 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 40 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 41 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
-| 42 | [Adoctrinamiento](http://twitter.com/search?q=Adoctrinamiento) | N/A |
-| 43 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 44 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 45 | [La Yoli](http://twitter.com/search?q=La+Yoli) | N/A |
-| 46 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
-| 47 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 48 | [Real Valladolid](http://twitter.com/search?q=Real+Valladolid) | N/A |
+| 40 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 41 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 42 | [#TodoEsMentira3A](http://twitter.com/search?q=%23TodoEsMentira3A) | N/A |
+| 43 | [#DiaTeHaceElCarro](http://twitter.com/search?q=%23DiaTeHaceElCarro) | N/A |
+| 44 | [#YoMeRebelo3A](http://twitter.com/search?q=%23YoMeRebelo3A) | N/A |
+| 45 | [#AdaraSv3A](http://twitter.com/search?q=%23AdaraSv3A) | N/A |
+| 46 | [#APOYOROCIO3A](http://twitter.com/search?q=%23APOYOROCIO3A) | N/A |
+| 47 | [#SSanta7TV](http://twitter.com/search?q=%23SSanta7TV) | N/A |
+| 48 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
 
 
 

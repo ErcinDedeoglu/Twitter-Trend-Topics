@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-03 16:18:00 UTC`
+📆 Last Updated: `2023-04-03 17:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 3 | [#ArtemisII](http://twitter.com/search?q=%23ArtemisII) | N/A |
-| 4 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 5 | [#NASA](http://twitter.com/search?q=%23NASA) | N/A |
-| 6 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 7 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 3 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 4 | [#ArtemisII](http://twitter.com/search?q=%23ArtemisII) | N/A |
+| 5 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 6 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 7 | [Clark](http://twitter.com/search?q=Clark) | N/A |
 | 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 10 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 11 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 12 | [Sean Monahan](http://twitter.com/search?q=Sean+Monahan) | N/A |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 15 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 9 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 10 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 13 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 14 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 | 16 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
 | 17 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 18 | [Lune](http://twitter.com/search?q=Lune) | N/A |
-| 19 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 20 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 21 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
-| 22 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 23 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 26 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 27 | [Alex Belzile](http://twitter.com/search?q=Alex+Belzile) | N/A |
-| 28 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 29 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 30 | [MAID](http://twitter.com/search?q=MAID) | N/A |
-| 31 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 32 | [Shane McMahon](http://twitter.com/search?q=Shane+McMahon) | N/A |
+| 18 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
+| 19 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 20 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 21 | [Lune](http://twitter.com/search?q=Lune) | N/A |
+| 22 | [Alex Belzile](http://twitter.com/search?q=Alex+Belzile) | N/A |
+| 23 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 24 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 25 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 27 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 28 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 29 | [Sean Monahan](http://twitter.com/search?q=Sean+Monahan) | N/A |
+| 30 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 31 | [MAID](http://twitter.com/search?q=MAID) | N/A |
+| 32 | [Woll](http://twitter.com/search?q=Woll) | N/A |
 | 33 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 34 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 35 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 36 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 37 | [CF-18](http://twitter.com/search?q=CF-18) | N/A |
-| 38 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
-| 39 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 40 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 42 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 43 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 44 | [37% of Canadians](http://twitter.com/search?q=37%25+of+Canadians) | N/A |
-| 45 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 47 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
-| 48 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 49 | [Happy Birthday Margaret](http://twitter.com/search?q=Happy+Birthday+Margaret) | N/A |
+| 34 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 35 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 36 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 38 | [Buzz Lightyear](http://twitter.com/search?q=Buzz+Lightyear) | N/A |
+| 39 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 40 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 43 | [37% of Canadians](http://twitter.com/search?q=37%25+of+Canadians) | N/A |
+| 44 | [CF-18](http://twitter.com/search?q=CF-18) | N/A |
+| 45 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
+| 46 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 47 | [Happy Birthday Margaret](http://twitter.com/search?q=Happy+Birthday+Margaret) | N/A |
+| 48 | [MC Gilles](http://twitter.com/search?q=MC+Gilles) | N/A |
+| 49 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
 | 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 

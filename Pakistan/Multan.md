@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-03 16:18:45 UTC`
+📆 Last Updated: `2023-04-03 17:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#آئین_پرڈٹ_گیا_چیف_جسٹس](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%b1%da%88%d9%b9_%da%af%db%8c%d8%a7_%da%86%db%8c%d9%81_%d8%ac%d8%b3%d9%b9%d8%b3) | N/A |
 | 2 | [#StandingWithConstitution](http://twitter.com/search?q=%23StandingWithConstitution) | N/A |
 | 3 | [#WeRejectOneManShow](http://twitter.com/search?q=%23WeRejectOneManShow) | N/A |
-| 4 | [#NationStandswithConstitution](http://twitter.com/search?q=%23NationStandswithConstitution) | N/A |
+| 4 | [#DestroyerNajamSethi](http://twitter.com/search?q=%23DestroyerNajamSethi) | N/A |
 | 5 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 6 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
+| 6 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
 | 7 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 8 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 9 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
-| 10 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
-| 11 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 12 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 15 | [Sun Tzu](http://twitter.com/search?q=Sun+Tzu) | N/A |
-| 16 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
-| 17 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 18 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 19 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
-| 20 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 21 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 23 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 24 | [khunjerab pass](http://twitter.com/search?q=khunjerab+pass) | N/A |
-| 25 | [ARSLAN ASH](http://twitter.com/search?q=ARSLAN+ASH) | N/A |
-| 26 | [sara at shehnaaz show](http://twitter.com/search?q=sara+at+shehnaaz+show) | N/A |
-| 27 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 28 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
-| 29 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 30 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 31 | [Article 224](http://twitter.com/search?q=Article+224) | N/A |
-| 32 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 34 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 35 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 36 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Navy](http://twitter.com/search?q=Navy) | N/A |
-| 39 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
-| 42 | [Common](http://twitter.com/search?q=Common) | N/A |
-| 43 | [Reference](http://twitter.com/search?q=Reference) | N/A |
-| 44 | [Awaam](http://twitter.com/search?q=Awaam) | N/A |
-| 45 | [Mughal](http://twitter.com/search?q=Mughal) | N/A |
-| 46 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 47 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
-| 48 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 49 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 9 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 10 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
+| 11 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
+| 12 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
+| 13 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
+| 14 | [Justice Qazi Faez Isa](http://twitter.com/search?q=Justice+Qazi+Faez+Isa) | N/A |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 17 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 18 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 20 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 21 | [khunjerab pass](http://twitter.com/search?q=khunjerab+pass) | N/A |
+| 22 | [ARSLAN ASH](http://twitter.com/search?q=ARSLAN+ASH) | N/A |
+| 23 | [sara at shehnaaz show](http://twitter.com/search?q=sara+at+shehnaaz+show) | N/A |
+| 24 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 25 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 26 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 27 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 28 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
+| 29 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 31 | [Tom Homecoming](http://twitter.com/search?q=Tom+Homecoming) | N/A |
+| 32 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 33 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 34 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 35 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 36 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 37 | [Article 224](http://twitter.com/search?q=Article+224) | N/A |
+| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 39 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 40 | [Reference](http://twitter.com/search?q=Reference) | N/A |
+| 41 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 42 | [Mughal](http://twitter.com/search?q=Mughal) | N/A |
+| 43 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
+| 44 | [Common](http://twitter.com/search?q=Common) | N/A |
+| 45 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 49 | [Awaam](http://twitter.com/search?q=Awaam) | N/A |
 
 
 

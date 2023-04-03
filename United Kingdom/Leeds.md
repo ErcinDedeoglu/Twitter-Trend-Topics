@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-04-03 16:18:02 UTC`
+📆 Last Updated: `2023-04-03 17:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
-| 2 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 3 | [#PSA23](http://twitter.com/search?q=%23PSA23) | N/A |
-| 4 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 5 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 6 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 7 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 2 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 3 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 4 | [#PSA23](http://twitter.com/search?q=%23PSA23) | N/A |
+| 5 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 6 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 7 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
 | 8 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 9 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 10 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 11 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 12 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 13 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 14 | [Rani](http://twitter.com/search?q=Rani) | N/A |
-| 15 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 16 | [House 5](http://twitter.com/search?q=House+5) | N/A |
-| 17 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 18 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 19 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 22 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 23 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 25 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 26 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 27 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 28 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 9 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 10 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
+| 11 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 12 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 13 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 14 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 15 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 16 | [Phillip Schofield](http://twitter.com/search?q=Phillip+Schofield) | N/A |
+| 17 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 18 | [Rani](http://twitter.com/search?q=Rani) | N/A |
+| 19 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 20 | [House 5](http://twitter.com/search?q=House+5) | N/A |
+| 21 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 22 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
+| 23 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 24 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 25 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 27 | [Timothy](http://twitter.com/search?q=Timothy) | N/A |
+| 28 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
 | 29 | [Savile](http://twitter.com/search?q=Savile) | N/A |
-| 30 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 31 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 31 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 32 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
 | 33 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [sidemen](http://twitter.com/search?q=sidemen) | N/A |
-| 36 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 37 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 38 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 39 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 40 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
-| 41 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
-| 42 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 43 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 44 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
-| 45 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
-| 46 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
-| 47 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 48 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 49 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 50 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
+| 34 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 35 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 36 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 37 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 38 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 39 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
+| 40 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
+| 41 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 42 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
+| 43 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
+| 44 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 45 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 46 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 47 | [#strangersonaplane](http://twitter.com/search?q=%23strangersonaplane) | N/A |
+| 48 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 49 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
+| 50 | [#CSKvLSG](http://twitter.com/search?q=%23CSKvLSG) | N/A |
 
 
 

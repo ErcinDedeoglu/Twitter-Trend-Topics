@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-03 16:18:15 UTC`
+📆 Last Updated: `2023-04-03 17:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 2 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
-| 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 4 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 5 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 3 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 4 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 5 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
 | 6 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 7 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
-| 8 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 9 | [#LPOPOG](http://twitter.com/search?q=%23LPOPOG) | N/A |
-| 10 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 11 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
-| 12 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 13 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 14 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 15 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
-| 16 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
+| 7 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 8 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 9 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 11 | [Chełmnie](http://twitter.com/search?q=Che%c5%82mnie) | N/A |
+| 12 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 13 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
+| 14 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 15 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 16 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
 | 17 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
-| 18 | [Chełmnie](http://twitter.com/search?q=Che%c5%82mnie) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Frankowskiego](http://twitter.com/search?q=Frankowskiego) | N/A |
-| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 18 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
+| 19 | [Frankowskiego](http://twitter.com/search?q=Frankowskiego) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Staszek](http://twitter.com/search?q=Staszek) | N/A |
 | 22 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
 | 23 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 24 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 25 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 24 | [Klepacka](http://twitter.com/search?q=Klepacka) | N/A |
+| 25 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
 | 26 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 27 | [Kozielsku](http://twitter.com/search?q=Kozielsku) | N/A |
-| 28 | [arłukowicz](http://twitter.com/search?q=ar%c5%82ukowicz) | N/A |
-| 29 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
-| 30 | [niedziela palmowa](http://twitter.com/search?q=niedziela+palmowa) | N/A |
-| 31 | [święty janie pawle ii](http://twitter.com/search?q=%c5%9bwi%c4%99ty+janie+pawle+ii) | N/A |
-| 32 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
-| 33 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 27 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 28 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 29 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
+| 30 | [Kozielsku](http://twitter.com/search?q=Kozielsku) | N/A |
+| 31 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 32 | [arłukowicz](http://twitter.com/search?q=ar%c5%82ukowicz) | N/A |
+| 33 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
 | 34 | [Tatarskiego](http://twitter.com/search?q=Tatarskiego) | N/A |
 | 35 | [Straży Granicznej](http://twitter.com/search?q=Stra%c5%bcy+Granicznej) | N/A |
 | 36 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 37 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 38 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 39 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
+| 37 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
+| 38 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 39 | [Legii](http://twitter.com/search?q=Legii) | N/A |
 | 40 | [Kostasa](http://twitter.com/search?q=Kostasa) | N/A |
 | 41 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 42 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 43 | [Sigma](http://twitter.com/search?q=Sigma) | N/A |
-| 44 | [Miliony](http://twitter.com/search?q=Miliony) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 47 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 48 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 49 | [Mariusz Wlazły](http://twitter.com/search?q=Mariusz+Wlaz%c5%82y) | N/A |
-| 50 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 42 | [Sigma](http://twitter.com/search?q=Sigma) | N/A |
+| 43 | [Miliony](http://twitter.com/search?q=Miliony) | N/A |
+| 44 | [Niedziela Palmowa](http://twitter.com/search?q=Niedziela+Palmowa) | N/A |
+| 45 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 46 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 47 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 48 | [Księżyc](http://twitter.com/search?q=Ksi%c4%99%c5%bcyc) | N/A |
+| 49 | [arabia saudyjska](http://twitter.com/search?q=arabia+saudyjska) | N/A |
+| 50 | [Starobielsku](http://twitter.com/search?q=Starobielsku) | N/A |
 
 
 

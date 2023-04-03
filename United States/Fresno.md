@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-03 16:18:54 UTC`
+📆 Last Updated: `2023-04-03 17:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 2 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 3 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 4 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 5 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 8 | [#ArtemisII](http://twitter.com/search?q=%23ArtemisII) | N/A |
-| 9 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 10 | [Christina Koch](http://twitter.com/search?q=Christina+Koch) | N/A |
-| 11 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 12 | [victor glover](http://twitter.com/search?q=victor+glover) | N/A |
-| 13 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 14 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 15 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 16 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
-| 17 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 18 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 19 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 20 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 1 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 2 | [Petco](http://twitter.com/search?q=Petco) | N/A |
+| 3 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 4 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 5 | [Latino](http://twitter.com/search?q=Latino) | N/A |
+| 6 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 7 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 8 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 11 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 12 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
+| 13 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 14 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 15 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 16 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 17 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 18 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 19 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 20 | [Christina Koch](http://twitter.com/search?q=Christina+Koch) | N/A |
 | 21 | [Ted Kord](http://twitter.com/search?q=Ted+Kord) | N/A |
-| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 23 | [Andruw Jones](http://twitter.com/search?q=Andruw+Jones) | Andruw Jones is a former Major League Baseball player who played for the Atlanta Braves, Los Angeles Dodgers, Texas Rangers, Chicago White Sox, and New York Yankees. He was a five-time All-Star and won 10 consecutive Gold Glove Awards for his defensive play in the outfield. He is considered one of the greatest defensive players of all time. |
-| 24 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 25 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 26 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
-| 27 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
-| 28 | [Extraction 2](http://twitter.com/search?q=Extraction+2) | N/A |
-| 29 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 30 | [Jaime Reyes](http://twitter.com/search?q=Jaime+Reyes) | N/A |
-| 31 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
-| 32 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 33 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 34 | [Tom Kim](http://twitter.com/search?q=Tom+Kim) | N/A |
-| 35 | [Sells](http://twitter.com/search?q=Sells) | N/A |
-| 36 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 38 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 39 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
-| 40 | [Summer Jam](http://twitter.com/search?q=Summer+Jam) | N/A |
-| 41 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 42 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
-| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 44 | [Earl Campbell](http://twitter.com/search?q=Earl+Campbell) | N/A |
-| 45 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
-| 46 | [UFC and WWE](http://twitter.com/search?q=UFC+and+WWE) | N/A |
-| 47 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 48 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 49 | [Gomez Addams](http://twitter.com/search?q=Gomez+Addams) | N/A |
+| 22 | [Victor Glover](http://twitter.com/search?q=Victor+Glover) | N/A |
+| 23 | [Jaime Reyes](http://twitter.com/search?q=Jaime+Reyes) | N/A |
+| 24 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 25 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
+| 26 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 27 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
+| 28 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
+| 29 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 30 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
+| 31 | [St. Brown](http://twitter.com/search?q=St.+Brown) | N/A |
+| 32 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
+| 33 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
+| 34 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 35 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 36 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 37 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 38 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 39 | [Andruw Jones](http://twitter.com/search?q=Andruw+Jones) | Andruw Jones is a former Major League Baseball player who played for the Atlanta Braves, Los Angeles Dodgers, Texas Rangers, Chicago White Sox, and New York Yankees. He was a five-time All-Star and won 10 consecutive Gold Glove Awards for his defensive play in the outfield. He is considered one of the greatest defensive players of all time. |
+| 40 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 41 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 42 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
+| 43 | [Drax](http://twitter.com/search?q=Drax) | Drax is a fictional character from the Marvel Comics universe. He is an alien warrior from the planet Titan, and a member of the Guardians of the Galaxy. His name is derived from the Greek word for "slayer". In English, Drax means "slayer" or "destroyer". |
+| 44 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
+| 45 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 48 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
+| 49 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
 
 
 
