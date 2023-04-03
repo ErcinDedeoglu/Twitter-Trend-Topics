@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-04-03 21:18:39 UTC`
+📆 Last Updated: `2023-04-03 22:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Japan](</Japan>)
 | 2 | [履修登録](http://twitter.com/search?q=%e5%b1%a5%e4%bf%ae%e7%99%bb%e9%8c%b2) | N/A |
 | 3 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
 | 4 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [リツイート直後のツイート](http://twitter.com/search?q=%e3%83%aa%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
-| 7 | [#おは戦50404ak](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650404ak) | N/A |
-| 8 | [犬のアイコン](http://twitter.com/search?q=%e7%8a%ac%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 9 | [かぼすちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%bc%e3%81%99%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 10 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
-| 11 | [#AdoANN](http://twitter.com/search?q=%23AdoANN) | N/A |
+| 5 | [#おは戦50404ak](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650404ak) | N/A |
+| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 7 | [かぼすちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%bc%e3%81%99%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 8 | [リツイート直後のツイート](http://twitter.com/search?q=%e3%83%aa%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 9 | [#生きる伝説パクジミン](http://twitter.com/search?q=%23%e7%94%9f%e3%81%8d%e3%82%8b%e4%bc%9d%e8%aa%ac%e3%83%91%e3%82%af%e3%82%b8%e3%83%9f%e3%83%b3) | N/A |
+| 10 | [犬のアイコン](http://twitter.com/search?q=%e7%8a%ac%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
+| 11 | [コウペンちゃん](http://twitter.com/search?q=%e3%82%b3%e3%82%a6%e3%83%9a%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 12 | [Twitterのアイコン](http://twitter.com/search?q=Twitter%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 13 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
-| 14 | [第438回](http://twitter.com/search?q=%e7%ac%ac438%e5%9b%9e) | N/A |
-| 15 | [エヴァートン](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%88%e3%83%b3) | エヴァートン is the name of a professional football (soccer) club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
-| 16 | [ビルボード1位](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%9c%e3%83%bc%e3%83%891%e4%bd%8d) | N/A |
-| 17 | [Twitterの鳥](http://twitter.com/search?q=Twitter%e3%81%ae%e9%b3%a5) | N/A |
-| 18 | [サンチェス](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9) | N/A |
-| 19 | [Twitterのマーク](http://twitter.com/search?q=Twitter%e3%81%ae%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
-| 20 | [ダイアー](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a2%e3%83%bc) | N/A |
-| 21 | [Billboard HOT100 1位](http://twitter.com/search?q=Billboard+HOT100+1%e4%bd%8d) | N/A |
-| 22 | [ドージコイン](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%82%b8%e3%82%b3%e3%82%a4%e3%83%b3) | N/A |
-| 23 | [エバートン](http://twitter.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%83%88%e3%83%b3) | エバートン is the name of a professional football club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
-| 24 | [ツイッターのアイコン](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%83%e3%82%bf%e3%83%bc%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 25 | [誰のRT](http://twitter.com/search?q=%e8%aa%b0%e3%81%aeRT) | N/A |
-| 26 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
-| 27 | [マコちゃん](http://twitter.com/search?q=%e3%83%9e%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 28 | [花の契約](http://twitter.com/search?q=%e8%8a%b1%e3%81%ae%e5%a5%91%e7%b4%84) | N/A |
-| 29 | [大夢くん](http://twitter.com/search?q=%e5%a4%a7%e5%a4%a2%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ツイートアクティビティ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e3%82%a2%e3%82%af%e3%83%86%e3%82%a3%e3%83%93%e3%83%86%e3%82%a3) | ツイートアクティビティ (tweet activity) is a term used to refer to the activity of a user on Twitter, such as the number of tweets they have posted, the number of followers they have, and the amount of engagement they receive from other users. In English, it can be translated as "Twitter Activity". |
-| 31 | [米ビルボード史上初](http://twitter.com/search?q=%e7%b1%b3%e3%83%93%e3%83%ab%e3%83%9c%e3%83%bc%e3%83%89%e5%8f%b2%e4%b8%8a%e5%88%9d) | N/A |
-| 32 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [フォロー中のタブ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e4%b8%ad%e3%81%ae%e3%82%bf%e3%83%96) | N/A |
-| 34 | [Wordle 654](http://twitter.com/search?q=Wordle+654) | N/A |
-| 35 | [あんぱんの日](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%81%b1%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
-| 36 | [とくむーさん](http://twitter.com/search?q=%e3%81%a8%e3%81%8f%e3%82%80%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 37 | [トッテナム](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%86%e3%83%8a%e3%83%a0) | N/A |
-| 38 | [ブルービートル](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
-| 39 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
-| 40 | [ブルロ界隈](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e7%95%8c%e9%9a%88) | N/A |
-| 41 | [幸せの日](http://twitter.com/search?q=%e5%b9%b8%e3%81%9b%e3%81%ae%e6%97%a5) | N/A |
-| 42 | [次号休載](http://twitter.com/search?q=%e6%ac%a1%e5%8f%b7%e4%bc%91%e8%bc%89) | N/A |
-| 43 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
-| 44 | [二宮さん](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e3%81%95%e3%82%93) | N/A |
-| 45 | [アンテン様の腹の中](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%86%e3%83%b3%e6%a7%98%e3%81%ae%e8%85%b9%e3%81%ae%e4%b8%ad) | N/A |
-| 46 | [ホメオスタシス](http://twitter.com/search?q=%e3%83%9b%e3%83%a1%e3%82%aa%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
-| 47 | [むぎちー](http://twitter.com/search?q=%e3%82%80%e3%81%8e%e3%81%a1%e3%83%bc) | N/A |
-| 48 | [激アツファンタスティックエブリデイ](http://twitter.com/search?q=%e6%bf%80%e3%82%a2%e3%83%84%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%82%a8%e3%83%96%e3%83%aa%e3%83%87%e3%82%a4) | N/A |
-| 49 | [スマホ太郎](http://twitter.com/search?q=%e3%82%b9%e3%83%9e%e3%83%9b%e5%a4%aa%e9%83%8e) | N/A |
-| 50 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 13 | [渡辺コーチの内部昇格](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e3%82%b3%e3%83%bc%e3%83%81%e3%81%ae%e5%86%85%e9%83%a8%e6%98%87%e6%a0%bc) | N/A |
+| 14 | [山形・クラモフスキー監督解任](http://twitter.com/search?q=%e5%b1%b1%e5%bd%a2%e3%83%bb%e3%82%af%e3%83%a9%e3%83%a2%e3%83%95%e3%82%b9%e3%82%ad%e3%83%bc%e7%9b%a3%e7%9d%a3%e8%a7%a3%e4%bb%bb) | N/A |
+| 15 | [あんぱんの日](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%81%b1%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [第438回](http://twitter.com/search?q=%e7%ac%ac438%e5%9b%9e) | N/A |
+| 17 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
+| 18 | [ドージコイン](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%82%b8%e3%82%b3%e3%82%a4%e3%83%b3) | N/A |
+| 19 | [幸せの日](http://twitter.com/search?q=%e5%b9%b8%e3%81%9b%e3%81%ae%e6%97%a5) | N/A |
+| 20 | [ビルボード1位](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%9c%e3%83%bc%e3%83%891%e4%bd%8d) | N/A |
+| 21 | [ツイッターのアイコン](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%83%e3%82%bf%e3%83%bc%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
+| 22 | [Billboard HOT100 1位](http://twitter.com/search?q=Billboard+HOT100+1%e4%bd%8d) | N/A |
+| 23 | [Twitterの鳥](http://twitter.com/search?q=Twitter%e3%81%ae%e9%b3%a5) | N/A |
+| 24 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 25 | [ツイートアクティビティ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e3%82%a2%e3%82%af%e3%83%86%e3%82%a3%e3%83%93%e3%83%86%e3%82%a3) | ツイートアクティビティ (tweet activity) is a term used to refer to the activity of a user on Twitter, such as the number of tweets they have posted, the number of followers they have, and the amount of engagement they receive from other users. In English, it can be translated as "Twitter Activity". |
+| 26 | [Twitterのロゴ](http://twitter.com/search?q=Twitter%e3%81%ae%e3%83%ad%e3%82%b4) | N/A |
+| 27 | [Twitterのマーク](http://twitter.com/search?q=Twitter%e3%81%ae%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
+| 28 | [The World](http://twitter.com/search?q=The+World) | N/A |
+| 29 | [誰のRT](http://twitter.com/search?q=%e8%aa%b0%e3%81%aeRT) | N/A |
+| 30 | [サンチェス](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9) | N/A |
+| 31 | [エヴァートン](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%88%e3%83%b3) | エヴァートン is the name of a professional football (soccer) club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
+| 32 | [マコちゃん](http://twitter.com/search?q=%e3%83%9e%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [米ビルボード史上初](http://twitter.com/search?q=%e7%b1%b3%e3%83%93%e3%83%ab%e3%83%9c%e3%83%bc%e3%83%89%e5%8f%b2%e4%b8%8a%e5%88%9d) | N/A |
+| 34 | [ダイアー](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a2%e3%83%bc) | N/A |
+| 35 | [犬のマーク](http://twitter.com/search?q=%e7%8a%ac%e3%81%ae%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
+| 36 | [エバートン](http://twitter.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%83%88%e3%83%b3) | エバートン is the name of a professional football club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
+| 37 | [大夢くん](http://twitter.com/search?q=%e5%a4%a7%e5%a4%a2%e3%81%8f%e3%82%93) | N/A |
+| 38 | [投票最終日](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
+| 39 | [Wordle 654](http://twitter.com/search?q=Wordle+654) | N/A |
+| 40 | [獅子の日](http://twitter.com/search?q=%e7%8d%85%e5%ad%90%e3%81%ae%e6%97%a5) | N/A |
+| 41 | [どら焼きの日](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e7%84%bc%e3%81%8d%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [アーロイ](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%ad%e3%82%a4) | N/A |
+| 43 | [ヨーヨーの日](http://twitter.com/search?q=%e3%83%a8%e3%83%bc%e3%83%a8%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 44 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 45 | [RT直後のツイート](http://twitter.com/search?q=RT%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 46 | [新ヒーロー](http://twitter.com/search?q=%e6%96%b0%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | 新ヒーロー (Shin Hero) is a term used in Japan to refer to a new generation of superheroes. It is often used to describe characters from manga, anime, and video games who have become popular in recent years. In English, it can be translated as "New Hero". |
+| 47 | [ブルービートル](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
+| 48 | [クラピカ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%94%e3%82%ab) | N/A |
+| 49 | [花の契約](http://twitter.com/search?q=%e8%8a%b1%e3%81%ae%e5%a5%91%e7%b4%84) | N/A |
+| 50 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 
 
 

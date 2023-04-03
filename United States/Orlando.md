@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-03 21:18:36 UTC`
+📆 Last Updated: `2023-04-03 22:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 2 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 3 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 4 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 5 | [Lesley Stahl](http://twitter.com/search?q=Lesley+Stahl) | N/A |
-| 6 | [#Trump2024NowMorethanEver](http://twitter.com/search?q=%23Trump2024NowMorethanEver) | N/A |
-| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 8 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
-| 9 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
-| 12 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 13 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 14 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 4 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 6 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 7 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 8 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 11 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 12 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 14 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 15 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 | 16 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 17 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 18 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 19 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 20 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 21 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 22 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 23 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 24 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 25 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 26 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 27 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 28 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 29 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 30 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 33 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
-| 34 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 17 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 18 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 19 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 20 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 21 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
+| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 23 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 24 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 25 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 26 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 27 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 28 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
+| 29 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 30 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 31 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
+| 32 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
+| 33 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
+| 34 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
 | 35 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 36 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 37 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 38 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 39 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 40 | [Tommy Hunter](http://twitter.com/search?q=Tommy+Hunter) | N/A |
-| 41 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 42 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 43 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 44 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 45 | [Auli](http://twitter.com/search?q=Auli) | N/A |
-| 46 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 47 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 48 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
-| 49 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 36 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
+| 37 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 38 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
+| 39 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 40 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 41 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 42 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 43 | [Manaea](http://twitter.com/search?q=Manaea) | N/A |
+| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 45 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 46 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 47 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 48 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 49 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
 
 
 

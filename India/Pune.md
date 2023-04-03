@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-04-03 21:18:26 UTC`
+📆 Last Updated: `2023-04-03 22:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,46 @@ This is top 50 for [India](</India>)
 | 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
 | 5 | [#Dhoni](http://twitter.com/search?q=%23Dhoni) | N/A |
-| 6 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 7 | [Badoni](http://twitter.com/search?q=Badoni) | N/A |
+| 6 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 7 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
 | 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 9 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 10 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 11 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
-| 12 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
-| 13 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 11 | [Badoni](http://twitter.com/search?q=Badoni) | N/A |
+| 12 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 13 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
 | 14 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 17 | [Mayers](http://twitter.com/search?q=Mayers) | N/A |
+| 16 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
+| 17 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 18 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 19 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 20 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 21 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 22 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
-| 23 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
-| 24 | [PR ARMYs](http://twitter.com/search?q=PR+ARMYs) | N/A |
-| 25 | [Chahar](http://twitter.com/search?q=Chahar) | N/A |
-| 26 | [FATHER ON TOP](http://twitter.com/search?q=FATHER+ON+TOP) | N/A |
-| 27 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 28 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 29 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 30 | [MY BABY](http://twitter.com/search?q=MY+BABY) | N/A |
-| 31 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
-| 32 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 33 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 34 | [Hooda](http://twitter.com/search?q=Hooda) | Hooda is a slang term used to describe someone who is from the hood or a tough neighborhood. It can also be used to describe someone who has a tough attitude or demeanor. |
-| 35 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 36 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 37 | [Future of India](http://twitter.com/search?q=Future+of+India) | N/A |
-| 38 | [hyung](http://twitter.com/search?q=hyung) | N/A |
-| 39 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 40 | [Impact](http://twitter.com/search?q=Impact) | N/A |
-| 41 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 42 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 43 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
-| 44 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 45 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
-| 46 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 47 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
-| 48 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
-| 49 | [#Jimin_LikeCrazy](http://twitter.com/search?q=%23Jimin_LikeCrazy) | N/A |
-| 50 | [#MoeenAli](http://twitter.com/search?q=%23MoeenAli) | N/A |
+| 19 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 20 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
+| 21 | [Chahar](http://twitter.com/search?q=Chahar) | N/A |
+| 22 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
+| 23 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 24 | [Mayers](http://twitter.com/search?q=Mayers) | N/A |
+| 25 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 26 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 27 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 28 | [Future of India](http://twitter.com/search?q=Future+of+India) | N/A |
+| 29 | [hyung](http://twitter.com/search?q=hyung) | N/A |
+| 30 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 31 | [Shivam Dube](http://twitter.com/search?q=Shivam+Dube) | N/A |
+| 32 | [Rutu](http://twitter.com/search?q=Rutu) | N/A |
+| 33 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 34 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
+| 35 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 36 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
+| 37 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
+| 38 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
+| 39 | [#NCERT](http://twitter.com/search?q=%23NCERT) | N/A |
+| 40 | [#Like_Crazy](http://twitter.com/search?q=%23Like_Crazy) | N/A |
+| 41 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 42 | [#Anbuden](http://twitter.com/search?q=%23Anbuden) | N/A |
+| 43 | [#IndianMuslimsUnderAttack](http://twitter.com/search?q=%23IndianMuslimsUnderAttack) | N/A |
+| 44 | [#mahi](http://twitter.com/search?q=%23mahi) | N/A |
+| 45 | [#Extraction2](http://twitter.com/search?q=%23Extraction2) | N/A |
 
 
 

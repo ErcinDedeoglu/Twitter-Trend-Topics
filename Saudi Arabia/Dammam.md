@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-04-03 21:18:19 UTC`
+📆 Last Updated: `2023-04-03 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#رساله_اليوم](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 2 | [#اجازه_15رمضان](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%a7%d8%b2%d9%87_15%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 3 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 4 | [#مسابقه_السلامه_المروريه12](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8712) | N/A |
-| 5 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 6 | [مايكل كين](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a%d9%83%d9%84+%d9%83%d9%8a%d9%86) | N/A |
-| 7 | [لوريس](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d9%8a%d8%b3) | لوريس is a transliteration of the Arabic name "Lawrence" and it means "from Laurentum" in English. |
-| 8 | [عمر السومه](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
-| 9 | [الهلال السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 10 | [الميدان الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 11 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
-| 12 | [نايف حمدان](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
-| 13 | [الصادق الامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 14 | [الدوري القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 15 | [فايز المالكي](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8a) | N/A |
-| 16 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
-| 17 | [كريم بنزيما](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | N/A |
-| 18 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 19 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 20 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 21 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 22 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 23 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 24 | [12 رمضان](http://twitter.com/search?q=12+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 25 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
-| 26 | [السوال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [وتشيلسي](http://twitter.com/search?q=%d9%88%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
-| 28 | [وليفربول](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | N/A |
-| 29 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
-| 30 | [#عريق_للعطور](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%82_%d9%84%d9%84%d8%b9%d8%b7%d9%88%d8%b1) | N/A |
-| 31 | [#ام_خالد_الحويطي_تنخاكم3](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%853) | N/A |
-| 32 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 33 | [#ولي_العهد](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 34 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
-| 35 | [#زد_رصيدك70](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8370) | N/A |
-| 36 | [#هدايا_رسيس](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b3) | N/A |
-| 37 | [#اجتماع_البيارق](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9_%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d8%b1%d9%82) | N/A |
-| 38 | [#نيف_الخير](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 39 | [#هدايا_حنين_الورد](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%ad%d9%86%d9%8a%d9%86_%d8%a7%d9%84%d9%88%d8%b1%d8%af) | N/A |
-| 40 | [#فوازير_هنقرستيشن](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d9%87%d9%86%d9%82%d8%b1%d8%b3%d8%aa%d9%8a%d8%b4%d9%86) | N/A |
-| 41 | [#مسلسل_الورشه12](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a7%d9%84%d9%88%d8%b1%d8%b4%d9%8712) | N/A |
-| 42 | [#صفر_بالميه](http://twitter.com/search?q=%23%d8%b5%d9%81%d8%b1_%d8%a8%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 43 | [#الناس_والليل60](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%a7%d8%b3_%d9%88%d8%a7%d9%84%d9%84%d9%8a%d9%8460) | N/A |
-| 44 | [#سعد_علوش_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%b9%d9%84%d9%88%d8%b4_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
-| 45 | [#قصه_بطل12](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%8412) | N/A |
-| 46 | [#ابونوره_يسي_لقبيله_يام](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88%d9%86%d9%88%d8%b1%d9%87_%d9%8a%d8%b3%d9%8a_%d9%84%d9%82%d8%a8%d9%8a%d9%84%d9%87_%d9%8a%d8%a7%d9%85) | N/A |
-| 47 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 48 | [#رمضان١٢](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%a1%d9%a2) | N/A |
+| 2 | [#رمضان_مع_ابوفهد5](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af5) | N/A |
+| 3 | [#اجازه_15رمضان](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%a7%d8%b2%d9%87_15%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 4 | [#سعد_علوش_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%b9%d9%84%d9%88%d8%b4_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
+| 5 | [#مسابقه_السلامه_المروريه12](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8712) | N/A |
+| 6 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
+| 7 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 8 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 9 | [مايكل كين](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a%d9%83%d9%84+%d9%83%d9%8a%d9%86) | N/A |
+| 10 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
+| 11 | [عمر السومه](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
+| 12 | [لوريس](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d9%8a%d8%b3) | لوريس is a transliteration of the Arabic name "Lawrence" and it means "from Laurentum" in English. |
+| 13 | [هشام وشيماء](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%88%d8%b4%d9%8a%d9%85%d8%a7%d8%a1) | N/A |
+| 14 | [الهلال السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 15 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 16 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
+| 17 | [الدوري القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 18 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 19 | [الصادق الامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 20 | [نادي النصر السعودي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 21 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 22 | [الميدان الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 23 | [نايف حمدان](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
+| 24 | [فايز المالكي](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8a) | N/A |
+| 25 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 26 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 27 | [كريم بنزيما](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | N/A |
+| 28 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 29 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 30 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 31 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 32 | [السوال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 33 | [وليفربول](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | N/A |
+| 34 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
+| 35 | [وتشيلسي](http://twitter.com/search?q=%d9%88%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
+| 36 | [#مخلد_سهل](http://twitter.com/search?q=%23%d9%85%d8%ae%d9%84%d8%af_%d8%b3%d9%87%d9%84) | N/A |
+| 37 | [#المربع_الاخير12](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b112) | N/A |
+| 38 | [#زد_رصيدك70](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8370) | N/A |
+| 39 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
+| 40 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
+| 41 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
+| 42 | [#عريق_للعطور](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%82_%d9%84%d9%84%d8%b9%d8%b7%d9%88%d8%b1) | N/A |
+| 43 | [#ولي_العهد](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 44 | [#ام_خالد_الحويطي_تنخاكم3](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%853) | N/A |
+| 45 | [#فوازير_هنقرستيشن](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d9%87%d9%86%d9%82%d8%b1%d8%b3%d8%aa%d9%8a%d8%b4%d9%86) | N/A |
+| 46 | [#اجتماع_البيارق](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9_%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d8%b1%d9%82) | N/A |
+| 47 | [#نيف_الخير](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 48 | [#غازكو_معكم9](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b2%d9%83%d9%88_%d9%85%d8%b9%d9%83%d9%859) | N/A |
+| 49 | [#من_الوصول_الي_الحصول13](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%8413) | N/A |
+| 50 | [#مسلسل_الورشه12](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a7%d9%84%d9%88%d8%b1%d8%b4%d9%8712) | N/A |
 
 
 

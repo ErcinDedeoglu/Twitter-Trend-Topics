@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-04-03 21:18:05 UTC`
+📆 Last Updated: `2023-04-03 22:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 2 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 3 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
-| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 5 | [menangkan kemajuan rakyat](http://twitter.com/search?q=menangkan+kemajuan+rakyat) | N/A |
-| 6 | [prabowo persatuan indonesia](http://twitter.com/search?q=prabowo+persatuan+indonesia) | N/A |
+| 2 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
+| 3 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 4 | [menangkan kemajuan rakyat](http://twitter.com/search?q=menangkan+kemajuan+rakyat) | N/A |
+| 5 | [prabowo persatuan indonesia](http://twitter.com/search?q=prabowo+persatuan+indonesia) | N/A |
+| 6 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
 | 7 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 8 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 9 | [#UnveilYourBeauty](http://twitter.com/search?q=%23UnveilYourBeauty) | N/A |
-| 10 | [#pesanuntukberbagi](http://twitter.com/search?q=%23pesanuntukberbagi) | N/A |
+| 8 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 9 | [#pesanuntukberbagi](http://twitter.com/search?q=%23pesanuntukberbagi) | N/A |
+| 10 | [#UnveilYourBeauty](http://twitter.com/search?q=%23UnveilYourBeauty) | N/A |
 | 11 | [dirkrimsus polda sulsel](http://twitter.com/search?q=dirkrimsus+polda+sulsel) | N/A |
-| 12 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 13 | [sudah baca tempo](http://twitter.com/search?q=sudah+baca+tempo) | N/A |
-| 14 | [hydra veil sleeping mask](http://twitter.com/search?q=hydra+veil+sleeping+mask) | N/A |
-| 15 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 16 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 17 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 18 | [Novia](http://twitter.com/search?q=Novia) | N/A |
-| 19 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 21 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
+| 12 | [#4랑에_4랑을더한_혁재탄신일](http://twitter.com/search?q=%234%eb%9e%91%ec%97%90_4%eb%9e%91%ec%9d%84%eb%8d%94%ed%95%9c_%ed%98%81%ec%9e%ac%ed%83%84%ec%8b%a0%ec%9d%bc) | N/A |
+| 13 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 14 | [sudah baca tempo](http://twitter.com/search?q=sudah+baca+tempo) | N/A |
+| 15 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 16 | [hydra veil sleeping mask](http://twitter.com/search?q=hydra+veil+sleeping+mask) | N/A |
+| 17 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 18 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
+| 19 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 20 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 21 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
 | 22 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
-| 25 | [Balikin X1](http://twitter.com/search?q=Balikin+X1) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [5% niacinamide](http://twitter.com/search?q=5%25+niacinamide) | N/A |
-| 28 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 29 | [implora](http://twitter.com/search?q=implora) | N/A |
-| 30 | [NUMBER ONE IN MY HEART](http://twitter.com/search?q=NUMBER+ONE+IN+MY+HEART) | N/A |
-| 31 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 32 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 23 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
+| 26 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 27 | [Novia](http://twitter.com/search?q=Novia) | N/A |
+| 28 | [balikin x1](http://twitter.com/search?q=balikin+x1) | N/A |
+| 29 | [JIMIN PAVED THE WAY](http://twitter.com/search?q=JIMIN+PAVED+THE+WAY) | N/A |
+| 30 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [SO PROUD OF YOU](http://twitter.com/search?q=SO+PROUD+OF+YOU) | N/A |
 | 33 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
 | 34 | [get well soon jaehyuk](http://twitter.com/search?q=get+well+soon+jaehyuk) | N/A |
-| 35 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
+| 35 | [NUMBER ONE IN MY HEART](http://twitter.com/search?q=NUMBER+ONE+IN+MY+HEART) | N/A |
 | 36 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
-| 37 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 38 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 39 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
-| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 41 | [YOU DESERVE IT](http://twitter.com/search?q=YOU+DESERVE+IT) | N/A |
-| 42 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
+| 37 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 38 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
+| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 40 | [5% Niacinamide](http://twitter.com/search?q=5%25+Niacinamide) | N/A |
+| 41 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
+| 42 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
 | 43 | [Guru Penjas](http://twitter.com/search?q=Guru+Penjas) | N/A |
 | 44 | [Menteri Pemuda](http://twitter.com/search?q=Menteri+Pemuda) | N/A |
-| 45 | [Final Destination](http://twitter.com/search?q=Final+Destination) | N/A |
-| 46 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
+| 45 | [Implora](http://twitter.com/search?q=Implora) | N/A |
+| 46 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
 | 47 | [Aloe Vera](http://twitter.com/search?q=Aloe+Vera) | N/A |
 | 48 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
-| 49 | [JIMIN NUMBER ONE ON HOT 100](http://twitter.com/search?q=JIMIN+NUMBER+ONE+ON+HOT+100) | N/A |
-| 50 | [Arbani](http://twitter.com/search?q=Arbani) | N/A |
+| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 50 | [Keane](http://twitter.com/search?q=Keane) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-03 21:18:34 UTC`
+📆 Last Updated: `2023-04-03 22:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 2 | [Arte](http://twitter.com/search?q=Arte) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Wiggs](http://twitter.com/search?q=Wiggs) | N/A |
-| 5 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 6 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 1 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 3 | [Arte](http://twitter.com/search?q=Arte) | N/A |
+| 4 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 5 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
 | 8 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 9 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 9 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
 | 10 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
 | 11 | [#Trump2024NowMorethanEver](http://twitter.com/search?q=%23Trump2024NowMorethanEver) | N/A |
-| 12 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 13 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 14 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
-| 17 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 19 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
-| 20 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 21 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 22 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 23 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 25 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 26 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 27 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 29 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 30 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 31 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 32 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 33 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 34 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 35 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 36 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 37 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 38 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
-| 39 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 40 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 41 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
-| 42 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 43 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 44 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 45 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 12 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 15 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 16 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 18 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 19 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 20 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 22 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 23 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 24 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 25 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 26 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 27 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 28 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 30 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 31 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 32 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 33 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 34 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 35 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
+| 36 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 37 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
+| 38 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
+| 39 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
+| 40 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 41 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 42 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
+| 43 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 44 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 45 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
 | 46 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 47 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 48 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 49 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 50 | [Tommy Hunter](http://twitter.com/search?q=Tommy+Hunter) | N/A |
+| 47 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 48 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 49 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 50 | [Manaea](http://twitter.com/search?q=Manaea) | N/A |
 
 
 

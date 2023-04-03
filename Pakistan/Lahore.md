@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-03 21:18:23 UTC`
+📆 Last Updated: `2023-04-03 22:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#NationStandswithConstitution](http://twitter.com/search?q=%23NationStandswithConstitution) | N/A |
 | 6 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 9 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 10 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
-| 11 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
-| 12 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 13 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
-| 14 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 8 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
+| 9 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
+| 10 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
+| 11 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 12 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
+| 13 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 15 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 17 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
 | 18 | [Justice Qazi Faez Isa](http://twitter.com/search?q=Justice+Qazi+Faez+Isa) | N/A |
-| 19 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 20 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 19 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 20 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 21 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 22 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 23 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 24 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 27 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 28 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 29 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
-| 30 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 31 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 32 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 33 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 34 | [Navy](http://twitter.com/search?q=Navy) | N/A |
-| 35 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
-| 36 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 37 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 38 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 39 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 40 | [Nazia Hassan](http://twitter.com/search?q=Nazia+Hassan) | N/A |
-| 41 | [Barish](http://twitter.com/search?q=Barish) | N/A |
-| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 43 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 44 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 45 | [DM ASAP](http://twitter.com/search?q=DM+ASAP) | N/A |
-| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 22 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 23 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 25 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 26 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
+| 27 | [Tom Homecoming](http://twitter.com/search?q=Tom+Homecoming) | N/A |
+| 28 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 29 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 30 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 31 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 32 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 33 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 34 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 35 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 36 | [Nazia Hassan](http://twitter.com/search?q=Nazia+Hassan) | N/A |
+| 37 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 38 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 39 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 40 | [Barish](http://twitter.com/search?q=Barish) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 43 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 45 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 46 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
 | 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 49 | [Aray](http://twitter.com/search?q=Aray) | N/A |
-| 50 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 48 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 49 | [Haina](http://twitter.com/search?q=Haina) | N/A |
+| 50 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 
 
 
