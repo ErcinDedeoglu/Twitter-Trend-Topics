@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-02 23:17:19 UTC`
+📆 Last Updated: `2023-04-03 00:28:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 2 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 3 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 4 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 5 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 2 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 3 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 5 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
 | 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 7 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 7 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
 | 8 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 9 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 10 | [#LIVGolf](http://twitter.com/search?q=%23LIVGolf) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 13 | [#PalmSunday](http://twitter.com/search?q=%23PalmSunday) | N/A |
-| 14 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 15 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 16 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 17 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 18 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 19 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 11 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 12 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 13 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 14 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 15 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 16 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 17 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 18 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 19 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
 | 20 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 21 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 22 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 23 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 24 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 25 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 26 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 27 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 28 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 29 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
-| 30 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 31 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 32 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 33 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 34 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 35 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 37 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 38 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 39 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 40 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 41 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 42 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 43 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 44 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 45 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 46 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 47 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
-| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 49 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 21 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
+| 22 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 23 | [#AskSNB](http://twitter.com/search?q=%23AskSNB) | N/A |
+| 24 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 25 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 26 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 27 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 28 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 29 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 30 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 31 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 32 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 33 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 34 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 35 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 36 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 37 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 38 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 39 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 40 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
+| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 42 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 43 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 44 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 45 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
+| 46 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 47 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 48 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
+| 49 | [New York Knicks](http://twitter.com/search?q=New+York+Knicks) | N/A |
 
 
 

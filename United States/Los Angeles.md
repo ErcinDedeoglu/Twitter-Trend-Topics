@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-02 23:17:15 UTC`
+📆 Last Updated: `2023-04-03 00:28:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 2 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 3 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
-| 4 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 5 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 6 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 7 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
-| 8 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
-| 9 | [Hoppe](http://twitter.com/search?q=Hoppe) | N/A |
-| 10 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 13 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 14 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
-| 15 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 16 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 17 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 18 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 19 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 1 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 2 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 3 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 4 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 5 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
+| 6 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 8 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 9 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
+| 10 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
+| 11 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 12 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
+| 13 | [Logan O'Hoppe](http://twitter.com/search?q=Logan+O%27Hoppe) | N/A |
+| 14 | [#StrayKids2ndWorldTour](http://twitter.com/search?q=%23StrayKids2ndWorldTour) | N/A |
+| 15 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 16 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 17 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 18 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 19 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
 | 20 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 21 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 22 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 23 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 24 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [NY Times](http://twitter.com/search?q=NY+Times) | N/A |
-| 27 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 28 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 29 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 30 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 31 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 32 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 33 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 34 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 35 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 36 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 37 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 38 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 39 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 40 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 41 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 42 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 43 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 44 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 45 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 46 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 47 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 21 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 25 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 26 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 29 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 30 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 31 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 32 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 33 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 34 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 35 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 36 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 37 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 38 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 39 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 40 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 41 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 42 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 43 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 44 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 45 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 46 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 47 | [Pache](http://twitter.com/search?q=Pache) | N/A |
 | 48 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 49 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 50 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
+| 49 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 50 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
 
 
 

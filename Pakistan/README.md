@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-04-02 23:17:25 UTC`
+📆 Last Updated: `2023-04-03 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Pakistan
 | 2 | [#StandingWithConstitution](http://twitter.com/search?q=%23StandingWithConstitution) | N/A |
 | 3 | [#NoCommentNoReach](http://twitter.com/search?q=%23NoCommentNoReach) | N/A |
 | 4 | [#جوتا_کس_کو_پڑا](http://twitter.com/search?q=%23%d8%ac%d9%88%d8%aa%d8%a7_%da%a9%d8%b3_%da%a9%d9%88_%d9%be%da%91%d8%a7) | N/A |
-| 5 | [#بائیکاٹ_PDM_سوشل_میڈیا](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a6%db%8c%da%a9%d8%a7%d9%b9_PDM_%d8%b3%d9%88%d8%b4%d9%84_%d9%85%db%8c%da%88%db%8c%d8%a7) | N/A |
-| 6 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 5 | [#RequesttoAitzazAhsan](http://twitter.com/search?q=%23RequesttoAitzazAhsan) | N/A |
+| 6 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
 | 7 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 9 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 10 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 8 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 11 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 14 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 15 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 12 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 15 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 17 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 18 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 19 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
 | 20 | [SARA AT SHEHNAAZ SHOW](http://twitter.com/search?q=SARA+AT+SHEHNAAZ+SHOW) | N/A |
-| 21 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 24 | [Arslan Ash](http://twitter.com/search?q=Arslan+Ash) | N/A |
-| 25 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 22 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 23 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 24 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
+| 25 | [Arslan Ash](http://twitter.com/search?q=Arslan+Ash) | N/A |
 | 26 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 27 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 28 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 29 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
+| 27 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 29 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
 | 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 31 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 34 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 35 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 36 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 37 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 32 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 35 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 36 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 38 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
 | 39 | [Kuwait](http://twitter.com/search?q=Kuwait) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [daraz](http://twitter.com/search?q=daraz) | N/A |
-| 42 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
-| 43 | [bring back ahmad shahzad](http://twitter.com/search?q=bring+back+ahmad+shahzad) | N/A |
-| 44 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 45 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 46 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 47 | [Major](http://twitter.com/search?q=Major) | N/A |
-| 48 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 49 | [Constitution of Pakistan](http://twitter.com/search?q=Constitution+of+Pakistan) | N/A |
-| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 41 | [bring back ahmad shahzad](http://twitter.com/search?q=bring+back+ahmad+shahzad) | N/A |
+| 42 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 43 | [Major](http://twitter.com/search?q=Major) | N/A |
+| 44 | [Nabeel Gabol](http://twitter.com/search?q=Nabeel+Gabol) | N/A |
+| 45 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 46 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 47 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 48 | [Constitution of Pakistan](http://twitter.com/search?q=Constitution+of+Pakistan) | N/A |
+| 49 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 50 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 
 
 

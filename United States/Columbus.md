@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-04-02 23:17:13 UTC`
+📆 Last Updated: `2023-04-03 00:28:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 2 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 3 | [Guards](http://twitter.com/search?q=Guards) | N/A |
-| 4 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
-| 5 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
-| 6 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 7 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 8 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 10 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 11 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 12 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 13 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 14 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 1 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 2 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
+| 3 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
+| 4 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 5 | [Guards](http://twitter.com/search?q=Guards) | N/A |
+| 6 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
+| 7 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 8 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
+| 9 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 10 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 11 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 12 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 13 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 14 | [Carson](http://twitter.com/search?q=Carson) | N/A |
 | 15 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 16 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 17 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 18 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 19 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 20 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 21 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 22 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 23 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
-| 24 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 25 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 26 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 27 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 28 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 29 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 31 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 32 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 33 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 34 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 35 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 16 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 17 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 18 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 19 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 20 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 21 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 22 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 23 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 24 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 25 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 26 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 27 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 28 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 29 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 30 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 31 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 32 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 33 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 34 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 35 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 36 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 37 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 38 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 39 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 40 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 41 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
-| 42 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 43 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 44 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
-| 45 | [You Can't See Me](http://twitter.com/search?q=You+Can%27t+See+Me) | N/A |
-| 46 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 47 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
-| 48 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
-| 49 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
-| 50 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 37 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 38 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 39 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 40 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 41 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
+| 42 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 43 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 44 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
+| 45 | [New York Knicks](http://twitter.com/search?q=New+York+Knicks) | N/A |
+| 46 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 47 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 48 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 49 | [Sunday Night Baseball](http://twitter.com/search?q=Sunday+Night+Baseball) | N/A |
+| 50 | [Omas](http://twitter.com/search?q=Omas) | N/A |
 
 
 

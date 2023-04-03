@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-02 23:17:14 UTC`
+📆 Last Updated: `2023-04-03 00:28:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 2 | [#wffselfie](http://twitter.com/search?q=%23wffselfie) | N/A |
-| 3 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 4 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 5 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 6 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 7 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
-| 8 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 9 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 1 | [#globelifefaces](http://twitter.com/search?q=%23globelifefaces) | N/A |
+| 2 | [McGee](http://twitter.com/search?q=McGee) | N/A |
+| 3 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
+| 4 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 5 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 6 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
+| 7 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 8 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 9 | [#ArlingtonTheErasTour](http://twitter.com/search?q=%23ArlingtonTheErasTour) | N/A |
 | 10 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
-| 11 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
-| 12 | [#womensfinalfour](http://twitter.com/search?q=%23womensfinalfour) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 15 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 17 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 18 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 19 | [Wemby](http://twitter.com/search?q=Wemby) | N/A |
-| 20 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 21 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 22 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 23 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Hawkeyes](http://twitter.com/search?q=Hawkeyes) | N/A |
+| 13 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 16 | [#TSTheErasTourArlington](http://twitter.com/search?q=%23TSTheErasTourArlington) | N/A |
+| 17 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 18 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
+| 19 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 20 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 21 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 22 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 23 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 24 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
 | 25 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 26 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 27 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 28 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 29 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 30 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 31 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 32 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 33 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 34 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 35 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 36 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
-| 37 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 38 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 39 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 40 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 41 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 43 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 44 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 45 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 46 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 47 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 48 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 49 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 50 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 26 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 27 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 28 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 29 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 30 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 31 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 32 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 33 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 34 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 35 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 36 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 37 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 38 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 39 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 40 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 41 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 42 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 43 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 44 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 45 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
+| 46 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 47 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
+| 48 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 49 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 50 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
 
 
 

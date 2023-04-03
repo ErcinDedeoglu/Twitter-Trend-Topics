@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-02 23:16:51 UTC`
+📆 Last Updated: `2023-04-03 00:28:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
 | 2 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
-| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 4 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
 | 5 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
 | 6 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 7 | [#LaLigaSantander](http://twitter.com/search?q=%23LaLigaSantander) | N/A |
-| 8 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 9 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
-| 10 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 11 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 12 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 13 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 14 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 15 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 16 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 17 | [#SecretosFamilia2Abr](http://twitter.com/search?q=%23SecretosFamilia2Abr) | N/A |
-| 18 | [#ChiringuitoF1](http://twitter.com/search?q=%23ChiringuitoF1) | N/A |
-| 19 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 20 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
-| 21 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 7 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 8 | [#LaLigaSantander](http://twitter.com/search?q=%23LaLigaSantander) | N/A |
+| 9 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
+| 10 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
+| 11 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 12 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 13 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 14 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 15 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 16 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 17 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 18 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
+| 19 | [#SecretosFamilia2Abr](http://twitter.com/search?q=%23SecretosFamilia2Abr) | N/A |
+| 20 | [#ChiringuitoF1](http://twitter.com/search?q=%23ChiringuitoF1) | N/A |
+| 21 | [Helio](http://twitter.com/search?q=Helio) | N/A |
 | 22 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 25 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 26 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 27 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 23 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 24 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 25 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
 | 28 | [Joaquín](http://twitter.com/search?q=Joaqu%c3%adn) | Joaquín is a Spanish name derived from the Hebrew name Yehoyakim, which means "God will establish". In English, it is usually translated as Joaquin. |
-| 29 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 31 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 32 | [Luis Aragonés](http://twitter.com/search?q=Luis+Aragon%c3%a9s) | N/A |
-| 33 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
-| 34 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 29 | [Penas](http://twitter.com/search?q=Penas) | N/A |
+| 30 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 31 | [Aitor](http://twitter.com/search?q=Aitor) | N/A |
+| 32 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 33 | [Luis Aragonés](http://twitter.com/search?q=Luis+Aragon%c3%a9s) | N/A |
+| 34 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
 | 35 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
-| 36 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 37 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 38 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 36 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 37 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 39 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 40 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
-| 41 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 42 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 40 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 41 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
+| 42 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
 | 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 44 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
-| 47 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 48 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 49 | [José Hierro](http://twitter.com/search?q=Jos%c3%a9+Hierro) | N/A |
-| 50 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 45 | [La Estrella](http://twitter.com/search?q=La+Estrella) | N/A |
+| 46 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 47 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 48 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 49 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 50 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
 
 
 

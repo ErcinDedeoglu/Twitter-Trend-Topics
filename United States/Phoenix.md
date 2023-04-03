@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-04-02 23:17:17 UTC`
+📆 Last Updated: `2023-04-03 00:28:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 2 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 4 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 5 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 7 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 8 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 9 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 10 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 11 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 12 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 13 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 14 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
-| 15 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
-| 16 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 17 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 18 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 19 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 20 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 21 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 22 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 23 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 24 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
-| 25 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 26 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 27 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 28 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 29 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 30 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 31 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 32 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 33 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 34 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 2 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 3 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 5 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 6 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 8 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 9 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 10 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 11 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 12 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 13 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 14 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 15 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
+| 16 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
+| 17 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 18 | [#AskSNB](http://twitter.com/search?q=%23AskSNB) | N/A |
+| 19 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 20 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 21 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 22 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 23 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 24 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 25 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 26 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 27 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 28 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 29 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 30 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 31 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 32 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 33 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 34 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 35 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 36 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 37 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 38 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 39 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 40 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
-| 41 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 42 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 43 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
-| 44 | [You Can't See Me](http://twitter.com/search?q=You+Can%27t+See+Me) | N/A |
-| 45 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 46 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
-| 47 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
-| 48 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
-| 49 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 50 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
+| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 37 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 38 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 39 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 40 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
+| 41 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 42 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 43 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
+| 44 | [New York Knicks](http://twitter.com/search?q=New+York+Knicks) | N/A |
+| 45 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 46 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 47 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 48 | [Sunday Night Baseball](http://twitter.com/search?q=Sunday+Night+Baseball) | N/A |
+| 49 | [Omas](http://twitter.com/search?q=Omas) | N/A |
+| 50 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
 
 
 

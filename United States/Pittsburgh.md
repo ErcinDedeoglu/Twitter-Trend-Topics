@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-02 23:17:17 UTC`
+📆 Last Updated: `2023-04-03 00:28:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 2 | [Kris Letang](http://twitter.com/search?q=Kris+Letang) | N/A |
-| 3 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
-| 4 | [#1Kris](http://twitter.com/search?q=%231Kris) | N/A |
-| 5 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 8 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 9 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 10 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 11 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 12 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
-| 13 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 14 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 15 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 16 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 17 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 18 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 1 | [Trea](http://twitter.com/search?q=Trea) | N/A |
+| 2 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
+| 3 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 4 | [Bailey Falter](http://twitter.com/search?q=Bailey+Falter) | N/A |
+| 5 | [Kris Letang](http://twitter.com/search?q=Kris+Letang) | N/A |
+| 6 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
+| 7 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 8 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 9 | [#1Kris](http://twitter.com/search?q=%231Kris) | N/A |
+| 10 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 13 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 14 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 15 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 16 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 17 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 18 | [Classless](http://twitter.com/search?q=Classless) | N/A |
 | 19 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 20 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 21 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 22 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 23 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 24 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 25 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 26 | [Congratulations LSU](http://twitter.com/search?q=Congratulations+LSU) | N/A |
-| 27 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 28 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 29 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 30 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 32 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 33 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 34 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 35 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 36 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 37 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 38 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 39 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 40 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 41 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 42 | [RING HER](http://twitter.com/search?q=RING+HER) | N/A |
+| 20 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 21 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 22 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
+| 23 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
+| 24 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 25 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 26 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 27 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 28 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 29 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 30 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 31 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 32 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 33 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 34 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 35 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 36 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 37 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 38 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 39 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 40 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
+| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 42 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
 | 43 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 44 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 45 | [Officiating](http://twitter.com/search?q=Officiating) | N/A |
-| 46 | [You Can't See Me](http://twitter.com/search?q=You+Can%27t+See+Me) | N/A |
-| 47 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 48 | [Tim Herrin](http://twitter.com/search?q=Tim+Herrin) | N/A |
-| 49 | [LSUs](http://twitter.com/search?q=LSUs) | N/A |
-| 50 | [LETS GO LSU](http://twitter.com/search?q=LETS+GO+LSU) | N/A |
+| 44 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 45 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
+| 46 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
+| 47 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 48 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
+| 49 | [New York Knicks](http://twitter.com/search?q=New+York+Knicks) | N/A |
+| 50 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
 
 
 

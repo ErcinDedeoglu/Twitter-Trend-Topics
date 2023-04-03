@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-02 23:17:26 UTC`
+📆 Last Updated: `2023-04-03 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 3 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 2 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
+| 3 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
 | 4 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
-| 5 | [#TheLentOfMyChildhood](http://twitter.com/search?q=%23TheLentOfMyChildhood) | N/A |
-| 6 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 7 | [#TheMorningRush](http://twitter.com/search?q=%23TheMorningRush) | N/A |
-| 8 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
+| 5 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 6 | [#TheLentOfMyChildhood](http://twitter.com/search?q=%23TheLentOfMyChildhood) | N/A |
+| 7 | [#FACEno2Billboard200](http://twitter.com/search?q=%23FACEno2Billboard200) | N/A |
+| 8 | [#TheMorningRush](http://twitter.com/search?q=%23TheMorningRush) | N/A |
 | 9 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
-| 10 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 12 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 13 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 14 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
-| 15 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
-| 16 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
-| 17 | [vibrent on newstokoyan](http://twitter.com/search?q=vibrent+on+newstokoyan) | N/A |
-| 18 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 19 | [ticket secured](http://twitter.com/search?q=ticket+secured) | N/A |
-| 20 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 10 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 12 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
+| 13 | [BingBing](http://twitter.com/search?q=BingBing) | N/A |
+| 14 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
+| 15 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 16 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 17 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
+| 18 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 19 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
+| 20 | [ticket secured](http://twitter.com/search?q=ticket+secured) | N/A |
 | 21 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
 | 22 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
 | 23 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
-| 24 | [GET WELL SOON JAEHYUK](http://twitter.com/search?q=GET+WELL+SOON+JAEHYUK) | N/A |
-| 25 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
-| 26 | [sunlifebikecamp withdonny](http://twitter.com/search?q=sunlifebikecamp+withdonny) | N/A |
-| 27 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
-| 28 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
-| 29 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
-| 30 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
-| 31 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
-| 32 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 33 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 34 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 35 | [hendery shines with oxecure ph](http://twitter.com/search?q=hendery+shines+with+oxecure+ph) | N/A |
-| 36 | [STREAM FLOWER NOW](http://twitter.com/search?q=STREAM+FLOWER+NOW) | N/A |
-| 37 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
-| 38 | [best sundate ever with seth](http://twitter.com/search?q=best+sundate+ever+with+seth) | N/A |
-| 39 | [2 TITLE TRACKS](http://twitter.com/search?q=2+TITLE+TRACKS) | N/A |
-| 40 | [April Shower](http://twitter.com/search?q=April+Shower) | N/A |
-| 41 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 42 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 43 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 44 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 46 | [karina at mana awards](http://twitter.com/search?q=karina+at+mana+awards) | N/A |
-| 47 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 48 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 49 | [grabe ust](http://twitter.com/search?q=grabe+ust) | N/A |
-| 50 | [VIP Standing](http://twitter.com/search?q=VIP+Standing) | N/A |
+| 24 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 25 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 26 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 27 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
+| 28 | [Jaehyuk](http://twitter.com/search?q=Jaehyuk) | N/A |
+| 29 | [sunlifebikecamp withdonny](http://twitter.com/search?q=sunlifebikecamp+withdonny) | N/A |
+| 30 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
+| 31 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
+| 32 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
+| 33 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
+| 34 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 35 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 36 | [TWYLAM ONEMILLION](http://twitter.com/search?q=TWYLAM+ONEMILLION) | N/A |
+| 37 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 38 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 39 | [HENDERY SHINES WITH OXECURE PH](http://twitter.com/search?q=HENDERY+SHINES+WITH+OXECURE+PH) | N/A |
+| 40 | [STREAM FLOWER NOW](http://twitter.com/search?q=STREAM+FLOWER+NOW) | N/A |
+| 41 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 42 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 43 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
+| 44 | [best sundate ever with seth](http://twitter.com/search?q=best+sundate+ever+with+seth) | N/A |
+| 45 | [2 TITLE TRACKS](http://twitter.com/search?q=2+TITLE+TRACKS) | N/A |
+| 46 | [April Shower](http://twitter.com/search?q=April+Shower) | N/A |
+| 47 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 48 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 49 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 50 | [karina at mana awards](http://twitter.com/search?q=karina+at+mana+awards) | N/A |
 
 
 

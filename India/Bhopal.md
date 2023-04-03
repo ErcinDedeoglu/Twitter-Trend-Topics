@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-04-02 23:17:09 UTC`
+📆 Last Updated: `2023-04-03 00:28:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [India](</India>)
 | 4 | [#True_Allah_Kabir](http://twitter.com/search?q=%23True_Allah_Kabir) | N/A |
 | 5 | [Baakhabar Sant Rampal Ji](http://twitter.com/search?q=Baakhabar+Sant+Rampal+Ji) | N/A |
 | 6 | [Tilak Verma](http://twitter.com/search?q=Tilak+Verma) | N/A |
-| 7 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 7 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
 | 8 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
 | 9 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
 | 10 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
@@ -31,39 +31,39 @@ This is top 50 for [India](</India>)
 | 14 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
 | 15 | [Sanath J](http://twitter.com/search?q=Sanath+J) | N/A |
 | 16 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 20 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 22 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 23 | [flop bhola flop ajay](http://twitter.com/search?q=flop+bhola+flop+ajay) | N/A |
-| 24 | [Lifetime Imprisonment](http://twitter.com/search?q=Lifetime+Imprisonment) | N/A |
-| 25 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 26 | [no sterling witness](http://twitter.com/search?q=no+sterling+witness) | N/A |
+| 17 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 18 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
+| 19 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 21 | [flop bhola flop ajay](http://twitter.com/search?q=flop+bhola+flop+ajay) | N/A |
+| 22 | [lifetime imprisonment](http://twitter.com/search?q=lifetime+imprisonment) | N/A |
+| 23 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 24 | [सलीम दुर्रानी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 25 | [no sterling witness](http://twitter.com/search?q=no+sterling+witness) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 27 | [ahmedabad aur jodhpur](http://twitter.com/search?q=ahmedabad+aur+jodhpur) | N/A |
-| 28 | [Unibersity](http://twitter.com/search?q=Unibersity) | N/A |
-| 29 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 30 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 31 | [WAITING FOR JAWAN UPDATES](http://twitter.com/search?q=WAITING+FOR+JAWAN+UPDATES) | N/A |
+| 28 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 29 | [Unibersity](http://twitter.com/search?q=Unibersity) | N/A |
+| 30 | [WAITING FOR JAWAN UPDATES](http://twitter.com/search?q=WAITING+FOR+JAWAN+UPDATES) | N/A |
+| 31 | [blockbuster bholaa](http://twitter.com/search?q=blockbuster+bholaa) | N/A |
 | 32 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 33 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
-| 34 | [blockbuster bholaa](http://twitter.com/search?q=blockbuster+bholaa) | N/A |
-| 35 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 36 | [Topley](http://twitter.com/search?q=Topley) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 39 | [कबीर अल्लाह](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 40 | [राजेंद्र राठौड़](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%a1%e0%a4%bc) | N/A |
-| 41 | [bracewell](http://twitter.com/search?q=bracewell) | N/A |
-| 42 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 43 | [HAPPY ANNIVERSARY ARYLIE](http://twitter.com/search?q=HAPPY+ANNIVERSARY+ARYLIE) | N/A |
-| 44 | [Buttler](http://twitter.com/search?q=Buttler) | N/A |
+| 33 | [Topley](http://twitter.com/search?q=Topley) | N/A |
+| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 35 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
+| 36 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 37 | [कबीर अल्लाह](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 38 | [राजेंद्र राठौड़](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%a1%e0%a4%bc) | N/A |
+| 39 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 40 | [bracewell](http://twitter.com/search?q=bracewell) | N/A |
+| 41 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 42 | [HAPPY ANNIVERSARY ARYLIE](http://twitter.com/search?q=HAPPY+ANNIVERSARY+ARYLIE) | N/A |
+| 43 | [SARA AT SHEHNAAZ SHOW](http://twitter.com/search?q=SARA+AT+SHEHNAAZ+SHOW) | N/A |
+| 44 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
 | 45 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 46 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 47 | [SARA AT SHEHNAAZ SHOW](http://twitter.com/search?q=SARA+AT+SHEHNAAZ+SHOW) | N/A |
-| 48 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 49 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
+| 46 | [Buttler](http://twitter.com/search?q=Buttler) | N/A |
+| 47 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 48 | [RLV LEX](http://twitter.com/search?q=RLV+LEX) | N/A |
+| 49 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 
 
 

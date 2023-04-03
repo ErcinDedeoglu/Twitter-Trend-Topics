@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-04-02 23:17:04 UTC`
+📆 Last Updated: `2023-04-03 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 2 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
-| 3 | [#مليون_الحرم](http://twitter.com/search?q=%23%d9%85%d9%84%d9%8a%d9%88%d9%86_%d8%a7%d9%84%d8%ad%d8%b1%d9%85) | N/A |
-| 4 | [#نايف_وعبدالله_فالمجد](http://twitter.com/search?q=%23%d9%86%d8%a7%d9%8a%d9%81_%d9%88%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d9%81%d8%a7%d9%84%d9%85%d8%ac%d8%af) | N/A |
+| 2 | [#عام_الشعر_العربي_2023](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%85_%d8%a7%d9%84%d8%b4%d8%b9%d8%b1_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a_2023) | N/A |
+| 3 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
+| 4 | [#ايد_واحده_وطن_واحد](http://twitter.com/search?q=%23%d8%a7%d9%8a%d8%af_%d9%88%d8%a7%d8%ad%d8%af%d9%87_%d9%88%d8%b7%d9%86_%d9%88%d8%a7%d8%ad%d8%af) | N/A |
 | 5 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 6 | [#حوقلوا](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%82%d9%84%d9%88%d8%a7) | N/A |
-| 7 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
-| 8 | [#فوازير_غازي_الذيابي6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a6) | N/A |
-| 9 | [#رمضان_مع_ابوفهد4](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af4) | N/A |
+| 7 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 8 | [#مكافاه_عن_مكافاه_تفرق](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d8%b9%d9%86_%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d8%aa%d9%81%d8%b1%d9%82) | N/A |
+| 9 | [#فوازير_غازي_الذيابي6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a6) | N/A |
 | 10 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 11 | [شيماء سيف](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%b3%d9%8a%d9%81) | N/A |
+| 11 | [الخرج الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%ac+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 12 | [محيسن الجمعان](http://twitter.com/search?q=%d9%85%d8%ad%d9%8a%d8%b3%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a7%d9%86) | N/A |
-| 13 | [الليل المظلم](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%85) | N/A |
-| 14 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 15 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
-| 16 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 17 | [١٢ رمضان](http://twitter.com/search?q=%d9%a1%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 18 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
-| 19 | [الرييس المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 20 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 21 | [12 رمضان](http://twitter.com/search?q=12+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 22 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 23 | [البيق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d9%82) | N/A |
-| 24 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 25 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 26 | [كبير ايطاليا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 27 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 28 | [نواف التمياط](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%a7%d8%b7) | N/A |
-| 29 | [سعد الحارثي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab%d9%8a) | N/A |
-| 30 | [عبدالرحمن اليوسف](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 31 | [ملعب مارادونا](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d9%85%d8%a7%d8%b1%d8%a7%d8%af%d9%88%d9%86%d8%a7) | N/A |
-| 32 | [نور الدين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 33 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 34 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 35 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 36 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 37 | [علي ميسي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 38 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 39 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 40 | [غراهام بوتر](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
-| 41 | [الكالتشيو](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%88) | N/A |
-| 42 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 43 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 44 | [الولايات المتحده الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 45 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
-| 46 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
-| 47 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 48 | [بن مبارك](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 49 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 50 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
+| 13 | [شيماء سيف](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%b3%d9%8a%d9%81) | N/A |
+| 14 | [الليل المظلم](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%85) | N/A |
+| 15 | [١٢ رمضان](http://twitter.com/search?q=%d9%a1%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 16 | [الرييس المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 17 | [البلدين الشقيقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%8a%d9%86) | N/A |
+| 18 | [12 رمضان](http://twitter.com/search?q=12+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 19 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 20 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 21 | [عبدالفتاح السيسي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 22 | [احمد الصويلح](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b5%d9%88%d9%8a%d9%84%d8%ad) | N/A |
+| 23 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 24 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 25 | [سعد الحارثي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab%d9%8a) | N/A |
+| 26 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 27 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 28 | [نور الدين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 29 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 30 | [البيق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d9%82) | N/A |
+| 31 | [عبدالرحمن اليوسف](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 32 | [نواف التمياط](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%a7%d8%b7) | N/A |
+| 33 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
+| 34 | [كبير ايطاليا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 35 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 36 | [علي ميسي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 37 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 38 | [بنت الناس](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 39 | [غراهام بوتر](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
+| 40 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 41 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 42 | [الولايات المتحده الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 43 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
+| 44 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
+| 45 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 46 | [المرحله الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 47 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
+| 48 | [#رمضان_مع_ابوفهد4](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af4) | N/A |
+| 49 | [#الروشن11](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8611) | N/A |
+| 50 | [#تفريج_كربه_واحسان](http://twitter.com/search?q=%23%d8%aa%d9%81%d8%b1%d9%8a%d8%ac_%d9%83%d8%b1%d8%a8%d9%87_%d9%88%d8%a7%d8%ad%d8%b3%d8%a7%d9%86) | N/A |
 
 
 

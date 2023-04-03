@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-02 23:17:01 UTC`
+📆 Last Updated: `2023-04-03 00:28:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,19 +31,19 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 15 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
 | 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 17 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
-| 18 | [Riki](http://twitter.com/search?q=Riki) | N/A |
-| 19 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 20 | [London](http://twitter.com/search?q=London) | N/A |
-| 21 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
-| 22 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 23 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 17 | [Riki](http://twitter.com/search?q=Riki) | N/A |
+| 18 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 19 | [London](http://twitter.com/search?q=London) | N/A |
+| 20 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 21 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 22 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 23 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 25 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 26 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
 | 27 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 | 28 | [Viet Nam](http://twitter.com/search?q=Viet+Nam) | N/A |
-| 29 | [Tháng 4](http://twitter.com/search?q=Th%c3%a1ng+4) | N/A |
+| 29 | [tháng 4](http://twitter.com/search?q=th%c3%a1ng+4) | N/A |
 | 30 | [châu âu](http://twitter.com/search?q=ch%c3%a2u+%c3%a2u) | N/A |
 | 31 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
 | 32 | [nhanh](http://twitter.com/search?q=nhanh) | N/A |
@@ -53,15 +53,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 36 | [SOLOIST JISOO DEBUT](http://twitter.com/search?q=SOLOIST+JISOO+DEBUT) | N/A |
 | 37 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 38 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
-| 39 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 41 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 42 | [thiệt](http://twitter.com/search?q=thi%e1%bb%87t) | N/A |
-| 43 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 44 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 45 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 46 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 47 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 39 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 40 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 42 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 43 | [thiệt](http://twitter.com/search?q=thi%e1%bb%87t) | N/A |
+| 44 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 45 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 46 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 47 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 48 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-02 23:16:47 UTC`
+📆 Last Updated: `2023-04-03 00:28:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [France](</France>)
 | 8 | [Parc](http://twitter.com/search?q=Parc) | N/A |
 | 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 10 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 11 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 12 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 11 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 12 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 13 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
 | 14 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 17 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 16 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 17 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
 | 18 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
 | 19 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
 | 20 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
-| 21 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 22 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
-| 23 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
-| 24 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 25 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 26 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 28 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 29 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 30 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
-| 31 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
-| 32 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 33 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
-| 34 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 35 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 36 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 37 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
-| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 39 | [#capital](http://twitter.com/search?q=%23capital) | N/A |
-| 40 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 41 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 42 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
-| 43 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 45 | [#darmaninestdextremedroite](http://twitter.com/search?q=%23darmaninestdextremedroite) | N/A |
-| 46 | [Le CUP](http://twitter.com/search?q=Le+CUP) | N/A |
+| 21 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 22 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
+| 23 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 24 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
+| 25 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 26 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 28 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 29 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 30 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 31 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
+| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 33 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
+| 34 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
+| 35 | [#capital](http://twitter.com/search?q=%23capital) | N/A |
+| 36 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 37 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 38 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 39 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 44 | [#darmaninestdextremedroite](http://twitter.com/search?q=%23darmaninestdextremedroite) | N/A |
+| 45 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 46 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
 | 47 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 48 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

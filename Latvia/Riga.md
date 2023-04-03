@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-02 23:16:52 UTC`
+📆 Last Updated: `2023-04-03 00:28:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,45 @@ This is top 50 for [Latvia](</Latvia>)
 | 5 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 6 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
 | 7 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
-| 8 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 9 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 10 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 11 | [jēkabpils](http://twitter.com/search?q=j%c4%93kabpils) | N/A |
-| 12 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 13 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
-| 14 | [Skatos](http://twitter.com/search?q=Skatos) | N/A |
-| 15 | [#BackPain](http://twitter.com/search?q=%23BackPain) | N/A |
+| 8 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 9 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
+| 10 | [jēkabpils](http://twitter.com/search?q=j%c4%93kabpils) | N/A |
+| 11 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
+| 12 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
+| 13 | [Skatos](http://twitter.com/search?q=Skatos) | N/A |
+| 14 | [#atkrieviskolatviju](http://twitter.com/search?q=%23atkrieviskolatviju) | N/A |
+| 15 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 16 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 17 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 18 | [zinu](http://twitter.com/search?q=zinu) | N/A |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [prieks](http://twitter.com/search?q=prieks) | N/A |
-| 21 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 22 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 25 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
-| 26 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
-| 27 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
-| 28 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 30 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 31 | [Airbaltic](http://twitter.com/search?q=Airbaltic) | N/A |
-| 32 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | N/A |
-| 33 | [Šito](http://twitter.com/search?q=%c5%a0ito) | N/A |
-| 34 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 35 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 36 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
-| 37 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 38 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
-| 39 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
-| 40 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 41 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
-| 42 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 43 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
-| 44 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 45 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
-| 46 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 47 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 48 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 49 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
+| 17 | [zinu](http://twitter.com/search?q=zinu) | N/A |
+| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 19 | [prieks](http://twitter.com/search?q=prieks) | N/A |
+| 20 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 23 | [delfi](http://twitter.com/search?q=delfi) | N/A |
+| 24 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
+| 25 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 26 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 29 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
+| 30 | [Airbaltic](http://twitter.com/search?q=Airbaltic) | N/A |
+| 31 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 32 | [Šito](http://twitter.com/search?q=%c5%a0ito) | N/A |
+| 33 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 34 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
+| 35 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 36 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
+| 37 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 38 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
+| 39 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 40 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
+| 41 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 42 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
+| 43 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 44 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 45 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
+| 46 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
 
 
 
