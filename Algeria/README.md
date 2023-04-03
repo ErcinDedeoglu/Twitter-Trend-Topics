@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-03 06:18:43 UTC`
+📆 Last Updated: `2023-04-03 07:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,10 +23,10 @@ This is top 50 for Algeria
 | 6 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
 | 7 | [#ExchangeWithKindness](http://twitter.com/search?q=%23ExchangeWithKindness) | N/A |
 | 8 | [الاخضر الليبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d8%a8%d9%8a) | N/A |
-| 9 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 10 | [القوات البريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%87) | N/A |
-| 11 | [كاس ماء](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%a7%d8%a1) | N/A |
-| 12 | [التدخل الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | N/A |
+| 9 | [القوات البريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%87) | N/A |
+| 10 | [كاس ماء](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%a7%d8%a1) | N/A |
+| 11 | [التدخل الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | N/A |
+| 12 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 13 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 14 | [الاتحاد الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
 | 15 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Algeria
 | 19 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
 | 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 21 | [#MciLiv](http://twitter.com/search?q=%23MciLiv) | N/A |
-| 22 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
+| 22 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
 | 23 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 | 24 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 25 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Algeria
 | 46 | [أبي هريرة](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a+%d9%87%d8%b1%d9%8a%d8%b1%d8%a9) | N/A |
 | 47 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
 | 48 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 49 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 50 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 49 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 50 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
 
 
 

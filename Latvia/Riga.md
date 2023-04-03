@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-03 06:18:15 UTC`
+📆 Last Updated: `2023-04-03 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,54 @@ This is top 50 for [Latvia](</Latvia>)
 | ------- | ------------ | ------------ |
 | 1 | [#FalconRocket](http://twitter.com/search?q=%23FalconRocket) | N/A |
 | 2 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | N/A |
-| 3 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 4 | [priecīgu pūpolsvētdienu](http://twitter.com/search?q=priec%c4%abgu+p%c5%abpolsv%c4%93tdienu) | N/A |
-| 5 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 6 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 7 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
-| 8 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
-| 9 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 10 | [ANO Drošības](http://twitter.com/search?q=ANO+Dro%c5%a1%c4%abbas) | N/A |
-| 11 | [jēkabpils](http://twitter.com/search?q=j%c4%93kabpils) | N/A |
-| 12 | [Ukrainā](http://twitter.com/search?q=Ukrain%c4%81) | N/A |
-| 13 | [skatos](http://twitter.com/search?q=skatos) | N/A |
-| 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 15 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 16 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 18 | [zinu](http://twitter.com/search?q=zinu) | N/A |
-| 19 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 20 | [Tajā](http://twitter.com/search?q=Taj%c4%81) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Lieldienu](http://twitter.com/search?q=Lieldienu) | N/A |
-| 23 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 24 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 25 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 28 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 29 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
-| 30 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
-| 31 | [Prieks](http://twitter.com/search?q=Prieks) | N/A |
-| 32 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
-| 33 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 34 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 35 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
-| 36 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 37 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
-| 38 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 39 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
-| 40 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
-| 41 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
-| 42 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
-| 43 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 44 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 45 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
+| 3 | [priecīgu pūpolsvētdienu](http://twitter.com/search?q=priec%c4%abgu+p%c5%abpolsv%c4%93tdienu) | N/A |
+| 4 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 5 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
+| 6 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
+| 7 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
+| 8 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
+| 9 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 10 | [Labi](http://twitter.com/search?q=Labi) | N/A |
+| 11 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
+| 12 | [#stayblessed](http://twitter.com/search?q=%23stayblessed) | N/A |
+| 13 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 14 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 15 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
+| 16 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 17 | [ANO Drošības](http://twitter.com/search?q=ANO+Dro%c5%a1%c4%abbas) | N/A |
+| 18 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 19 | [skatos](http://twitter.com/search?q=skatos) | N/A |
+| 20 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 21 | [Lieldienu](http://twitter.com/search?q=Lieldienu) | N/A |
+| 22 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 23 | [zinu](http://twitter.com/search?q=zinu) | N/A |
+| 24 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 25 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 26 | [tajā](http://twitter.com/search?q=taj%c4%81) | N/A |
+| 27 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
+| 30 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 31 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
+| 34 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 35 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
+| 36 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
+| 37 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
+| 38 | [Prieks](http://twitter.com/search?q=Prieks) | N/A |
+| 39 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
+| 40 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 41 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 42 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
+| 43 | [Valmierā](http://twitter.com/search?q=Valmier%c4%81) | N/A |
+| 44 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 45 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 46 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 47 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
+| 48 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
+| 49 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
+| 50 | [Ja Tu](http://twitter.com/search?q=Ja+Tu) | N/A |
 
 
 

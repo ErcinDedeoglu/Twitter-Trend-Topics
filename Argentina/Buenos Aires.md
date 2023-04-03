@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-04-03 06:18:08 UTC`
+📆 Last Updated: `2023-04-03 07:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
-| 3 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 4 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 5 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 6 | [#118DeBoca](http://twitter.com/search?q=%23118DeBoca) | N/A |
-| 7 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 10 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 11 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 12 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
-| 13 | [Valentino Acuña](http://twitter.com/search?q=Valentino+Acu%c3%b1a) | N/A |
-| 14 | [Micaela](http://twitter.com/search?q=Micaela) | N/A |
-| 15 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 16 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
-| 17 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 18 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
-| 19 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 20 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 21 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
-| 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 23 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
-| 24 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 1 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 2 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
+| 3 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Día del Veterano](http://twitter.com/search?q=D%c3%ada+del+Veterano) | N/A |
+| 6 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 7 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 8 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
+| 9 | [#MANIAC_Tour_LastDay](http://twitter.com/search?q=%23MANIAC_Tour_LastDay) | N/A |
+| 10 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 11 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 12 | [#118DeBoca](http://twitter.com/search?q=%23118DeBoca) | N/A |
+| 13 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 14 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
+| 15 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 16 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 17 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
+| 18 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 19 | [Garro](http://twitter.com/search?q=Garro) | N/A |
+| 20 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 21 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 24 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
 | 25 | [EL PRIMO EN TWITCH](http://twitter.com/search?q=EL+PRIMO+EN+TWITCH) | N/A |
-| 26 | [Finde](http://twitter.com/search?q=Finde) | N/A |
-| 27 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
-| 28 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 29 | [Evan Peters](http://twitter.com/search?q=Evan+Peters) | Evan Peters is an American actor, best known for his roles in the television series American Horror Story and the X-Men film series. He has also appeared in films such as Kick-Ass and We Are Your Friends. |
-| 30 | [Placente](http://twitter.com/search?q=Placente) | N/A |
-| 31 | [Celeste Cid](http://twitter.com/search?q=Celeste+Cid) | N/A |
-| 32 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
-| 33 | [Ferro](http://twitter.com/search?q=Ferro) | N/A |
-| 34 | [Miño](http://twitter.com/search?q=Mi%c3%b1o) | N/A |
-| 35 | [Método](http://twitter.com/search?q=M%c3%a9todo) | N/A |
-| 36 | [valentina zenere](http://twitter.com/search?q=valentina+zenere) | N/A |
-| 37 | [Higuaín](http://twitter.com/search?q=Higua%c3%adn) | N/A |
-| 38 | [Ruberto](http://twitter.com/search?q=Ruberto) | N/A |
-| 39 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
-| 40 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 41 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 42 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 43 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
-| 44 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 45 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
-| 46 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
-| 47 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 48 | [#NoASurFinanzas](http://twitter.com/search?q=%23NoASurFinanzas) | N/A |
+| 26 | [Celeste Cid](http://twitter.com/search?q=Celeste+Cid) | N/A |
+| 27 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 30 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 31 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 32 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 33 | [Marchiori](http://twitter.com/search?q=Marchiori) | N/A |
+| 34 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 35 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 36 | [Galtieri](http://twitter.com/search?q=Galtieri) | N/A |
+| 37 | [Platense](http://twitter.com/search?q=Platense) | N/A |
+| 38 | [alta córdoba](http://twitter.com/search?q=alta+c%c3%b3rdoba) | N/A |
+| 39 | [Atlántico Sur](http://twitter.com/search?q=Atl%c3%a1ntico+Sur) | N/A |
+| 40 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 42 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
+| 43 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 44 | [valentina zenere](http://twitter.com/search?q=valentina+zenere) | N/A |
+| 45 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 46 | [Feliz 118](http://twitter.com/search?q=Feliz+118) | N/A |
+| 47 | [Miño](http://twitter.com/search?q=Mi%c3%b1o) | N/A |
+| 48 | [Hoy 2](http://twitter.com/search?q=Hoy+2) | N/A |
+| 49 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 50 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
 
 
 

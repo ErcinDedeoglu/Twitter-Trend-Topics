@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-03 06:18:38 UTC`
+📆 Last Updated: `2023-04-03 07:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 3 | [#StraightUpTX](http://twitter.com/search?q=%23StraightUpTX) | N/A |
-| 4 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 5 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 6 | [Trash](http://twitter.com/search?q=Trash) | N/A |
-| 7 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 8 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 9 | [Texas Rangers](http://twitter.com/search?q=Texas+Rangers) | N/A |
-| 10 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 16 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 17 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 18 | [#DreamvilleFest](http://twitter.com/search?q=%23DreamvilleFest) | N/A |
-| 19 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 20 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 21 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 22 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
-| 23 | [#SuccesionHBO](http://twitter.com/search?q=%23SuccesionHBO) | N/A |
-| 24 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 25 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
-| 26 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 28 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 29 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 30 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 31 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 32 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 33 | [Tribal Chief](http://twitter.com/search?q=Tribal+Chief) | N/A |
-| 34 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 3 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 4 | [Trash](http://twitter.com/search?q=Trash) | N/A |
+| 5 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 6 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 7 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 8 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 9 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 10 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 11 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 12 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 13 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 14 | [#DreamvilleFest](http://twitter.com/search?q=%23DreamvilleFest) | N/A |
+| 15 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 16 | [#SuccesionHBO](http://twitter.com/search?q=%23SuccesionHBO) | N/A |
+| 17 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 18 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 19 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
+| 20 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 21 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 22 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 23 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
+| 24 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 25 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 26 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 27 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 28 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 29 | [Tribal Chief](http://twitter.com/search?q=Tribal+Chief) | N/A |
+| 30 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 31 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
+| 32 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 33 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
+| 34 | [#CMTAwards2023](http://twitter.com/search?q=%23CMTAwards2023) | N/A |
 | 35 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 36 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
-| 37 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 38 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 36 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 37 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 38 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
 | 39 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 40 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 41 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 42 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 43 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 44 | [Teto](http://twitter.com/search?q=Teto) | N/A |
+| 40 | [Teto](http://twitter.com/search?q=Teto) | N/A |
+| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 42 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 43 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 44 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
 | 45 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
 | 46 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 47 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 48 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 47 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 48 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
 | 49 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
 | 50 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
 

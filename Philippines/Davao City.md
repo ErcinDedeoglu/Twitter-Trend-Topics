@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-03 06:18:23 UTC`
+📆 Last Updated: `2023-04-03 07:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
 | 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 3 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
+| 3 | [#FreenBeckyOurAlways](http://twitter.com/search?q=%23FreenBeckyOurAlways) | N/A |
 | 4 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
-| 5 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 6 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
-| 7 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
-| 8 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
-| 9 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
-| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 12 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
+| 5 | [UNITED FOR FREENBECKY](http://twitter.com/search?q=UNITED+FOR+FREENBECKY) | N/A |
+| 6 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
+| 7 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 8 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
+| 9 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 10 | [JOSH CULLEN Be The Bida](http://twitter.com/search?q=JOSH+CULLEN+Be+The+Bida) | N/A |
+| 11 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
+| 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
 | 13 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 14 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 14 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
 | 15 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
-| 16 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
-| 17 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
-| 18 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 19 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
-| 20 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 21 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
-| 22 | [I DON'T UNDERSTAND BUT I LUV U](http://twitter.com/search?q=I+DON%27T+UNDERSTAND+BUT+I+LUV+U) | N/A |
-| 23 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
-| 24 | [Marvin Miranda](http://twitter.com/search?q=Marvin+Miranda) | N/A |
-| 25 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 16 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 17 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 18 | [RAGNAROKPressCon withMNL48](http://twitter.com/search?q=RAGNAROKPressCon+withMNL48) | N/A |
+| 19 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
+| 20 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 21 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
+| 22 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
+| 23 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
+| 24 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 25 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
 | 26 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 27 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
-| 28 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
-| 29 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
-| 30 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
-| 31 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 32 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 33 | [PAUCAM MONDAY](http://twitter.com/search?q=PAUCAM+MONDAY) | N/A |
-| 34 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 35 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
-| 36 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 37 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
-| 38 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
-| 39 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 40 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 28 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 29 | [NADINE FOR TATLERPH](http://twitter.com/search?q=NADINE+FOR+TATLERPH) | N/A |
+| 30 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
+| 31 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
+| 32 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
+| 33 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 34 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 35 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 36 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
+| 37 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 38 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 39 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 40 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
 | 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 42 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 43 | [karina at mana awards](http://twitter.com/search?q=karina+at+mana+awards) | N/A |
-| 44 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
-| 45 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 46 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 47 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
+| 42 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 43 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 44 | [Pasay City](http://twitter.com/search?q=Pasay+City) | N/A |
+| 45 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 46 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 47 | [Marvin Miranda](http://twitter.com/search?q=Marvin+Miranda) | N/A |
 
 
 
