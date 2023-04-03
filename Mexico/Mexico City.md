@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-03 02:28:56 UTC`
+📆 Last Updated: `2023-04-03 03:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
-| 2 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 2 | [Julieta Venegas](http://twitter.com/search?q=Julieta+Venegas) | N/A |
 | 3 | [#Teotihuacán](http://twitter.com/search?q=%23Teotihuac%c3%a1n) | N/A |
-| 4 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 5 | [#10AñosDeCD9](http://twitter.com/search?q=%2310A%c3%b1osDeCD9) | N/A |
-| 6 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
+| 4 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 5 | [Gil Alcalá](http://twitter.com/search?q=Gil+Alcal%c3%a1) | N/A |
+| 6 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
 | 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 8 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 9 | [Shane McMahon](http://twitter.com/search?q=Shane+McMahon) | N/A |
-| 10 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 11 | [Ruvalcaba](http://twitter.com/search?q=Ruvalcaba) | N/A |
-| 12 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 13 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
-| 14 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
-| 15 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 16 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 17 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
-| 18 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
-| 19 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 20 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
-| 21 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 22 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 25 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 26 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 27 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 28 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
-| 29 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
-| 30 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 31 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 32 | [Carlos Briseño](http://twitter.com/search?q=Carlos+Brise%c3%b1o) | N/A |
-| 33 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 34 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 35 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 36 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 37 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 38 | [Guadiana](http://twitter.com/search?q=Guadiana) | N/A |
-| 39 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 40 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 41 | [Licenciado](http://twitter.com/search?q=Licenciado) | N/A |
-| 42 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 43 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 44 | [Julieta Venegas](http://twitter.com/search?q=Julieta+Venegas) | N/A |
-| 45 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 46 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 47 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
-| 50 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 8 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 9 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
+| 10 | [#QuiénEnEliminación](http://twitter.com/search?q=%23Qui%c3%a9nEnEliminaci%c3%b3n) | N/A |
+| 11 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
+| 12 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 13 | [Ruvalcaba](http://twitter.com/search?q=Ruvalcaba) | N/A |
+| 14 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 15 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 16 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 17 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 19 | [Gloria Gaynor](http://twitter.com/search?q=Gloria+Gaynor) | N/A |
+| 20 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 21 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
+| 22 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
+| 23 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 24 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 25 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 26 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 27 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
+| 28 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 29 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 30 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
+| 31 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 32 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 33 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
+| 34 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 35 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 36 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 37 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 38 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 39 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 40 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 41 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 42 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 44 | [Guadiana](http://twitter.com/search?q=Guadiana) | N/A |
+| 45 | [Licenciado](http://twitter.com/search?q=Licenciado) | N/A |
+| 46 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 47 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 48 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 50 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-03 02:29:13 UTC`
+📆 Last Updated: `2023-04-03 03:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
 | 3 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
 | 4 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 5 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 6 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 7 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
 | 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 11 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 12 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 10 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 11 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 12 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 13 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 14 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
 | 15 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 17 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 16 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 18 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 19 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 20 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 19 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 20 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 21 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
 | 22 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
 | 23 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
-| 24 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 25 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 26 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 27 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 28 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 29 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 24 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 25 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 26 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 27 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 28 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 29 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 | 31 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 33 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 35 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 36 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 37 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 38 | [McGee](http://twitter.com/search?q=McGee) | N/A |
-| 39 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 40 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 41 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 42 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
-| 43 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 44 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 45 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 46 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 47 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 32 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 34 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 35 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 36 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 37 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 38 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 39 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 40 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
+| 41 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 42 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 45 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 46 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 47 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 49 | [La Borriquita](http://twitter.com/search?q=La+Borriquita) | N/A |
 
 
 

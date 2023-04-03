@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-03 02:29:51 UTC`
+📆 Last Updated: `2023-04-03 03:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Austria
 | 2 | [#stuscr](http://twitter.com/search?q=%23stuscr) | N/A |
 | 3 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 6 | [#fcbbvb](http://twitter.com/search?q=%23fcbbvb) | N/A |
+| 5 | [#fcbbvb](http://twitter.com/search?q=%23fcbbvb) | N/A |
+| 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 7 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
 | 8 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
 | 9 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Austria
 | 15 | [inserate](http://twitter.com/search?q=inserate) | N/A |
 | 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 17 | [April April](http://twitter.com/search?q=April+April) | N/A |
-| 18 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 18 | [kampagne](http://twitter.com/search?q=kampagne) | N/A |
 | 19 | [Chats](http://twitter.com/search?q=Chats) | N/A |
 | 20 | [silberstein](http://twitter.com/search?q=silberstein) | N/A |
 | 21 | [Veganer](http://twitter.com/search?q=Veganer) | N/A |

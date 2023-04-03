@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-03 02:29:06 UTC`
+📆 Last Updated: `2023-04-03 03:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 2 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
 | 3 | [#lpopog](http://twitter.com/search?q=%23lpopog) | N/A |
-| 4 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
-| 5 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
+| 4 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
+| 5 | [#kaczastrofa](http://twitter.com/search?q=%23kaczastrofa) | N/A |
 | 6 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 7 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
 | 8 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for [Poland](</Poland>)
 | 31 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 | 32 | [Prowokacja](http://twitter.com/search?q=Prowokacja) | N/A |
 | 33 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
-| 34 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 34 | [ojca świętego](http://twitter.com/search?q=ojca+%c5%9bwi%c4%99tego) | N/A |
 | 35 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
 | 36 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 37 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
 | 38 | [ojcze święty](http://twitter.com/search?q=ojcze+%c5%9bwi%c4%99ty) | N/A |
-| 39 | [janowi pawłowi ii](http://twitter.com/search?q=janowi+paw%c5%82owi+ii) | N/A |
-| 40 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 41 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 42 | [domu ojca](http://twitter.com/search?q=domu+ojca) | N/A |
-| 43 | [dawidem](http://twitter.com/search?q=dawidem) | N/A |
-| 44 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 45 | [greka](http://twitter.com/search?q=greka) | N/A |
-| 46 | [miarą](http://twitter.com/search?q=miar%c4%85) | N/A |
-| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 48 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
-| 49 | [slisz](http://twitter.com/search?q=slisz) | N/A |
-| 50 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 39 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 40 | [domu ojca](http://twitter.com/search?q=domu+ojca) | N/A |
+| 41 | [dawidem](http://twitter.com/search?q=dawidem) | N/A |
+| 42 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 43 | [greka](http://twitter.com/search?q=greka) | N/A |
+| 44 | [miarą](http://twitter.com/search?q=miar%c4%85) | N/A |
+| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 46 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 47 | [slisz](http://twitter.com/search?q=slisz) | N/A |
+| 48 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 49 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 50 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 
 
 

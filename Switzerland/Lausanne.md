@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-03 02:29:14 UTC`
+📆 Last Updated: `2023-04-03 03:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GE2023](http://twitter.com/search?q=%23GE2023) | N/A |
+| 1 | [#ge2023](http://twitter.com/search?q=%23ge2023) | N/A |
 | 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 3 | [#wahllu23](http://twitter.com/search?q=%23wahllu23) | N/A |
 | 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 5 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
+| 5 | [grand conseil](http://twitter.com/search?q=grand+conseil) | N/A |
 | 6 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 7 | [pierre maudet](http://twitter.com/search?q=pierre+maudet) | N/A |
 | 8 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |

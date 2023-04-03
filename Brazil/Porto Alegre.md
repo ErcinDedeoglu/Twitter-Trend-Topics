@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-03 02:29:03 UTC`
+📆 Last Updated: `2023-04-03 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 2 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 3 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 4 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 5 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 6 | [#VivaSalvadorNoMultishow](http://twitter.com/search?q=%23VivaSalvadorNoMultishow) | N/A |
-| 7 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 8 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 9 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 10 | [#voltamister](http://twitter.com/search?q=%23voltamister) | N/A |
-| 11 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 12 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 13 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 14 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 15 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 16 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 1 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 2 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 3 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 4 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 5 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 6 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 7 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 8 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
+| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 10 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 11 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 13 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
+| 14 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
+| 15 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 16 | [Bibi Perigosa](http://twitter.com/search?q=Bibi+Perigosa) | N/A |
 | 17 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 18 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 19 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
-| 20 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 22 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 23 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
-| 24 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
-| 25 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
-| 26 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
-| 27 | [Olivia Colman](http://twitter.com/search?q=Olivia+Colman) | N/A |
-| 28 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
-| 29 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 30 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 31 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 32 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 33 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 34 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 35 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 18 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 19 | [Amanda e Larissa](http://twitter.com/search?q=Amanda+e+Larissa) | N/A |
+| 20 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 21 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 22 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 23 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 24 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 25 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 26 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
+| 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 28 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 29 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
+| 30 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
+| 31 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
+| 32 | [Olivia Colman](http://twitter.com/search?q=Olivia+Colman) | N/A |
+| 33 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 34 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 35 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 36 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 37 | [FORÇA BLACK](http://twitter.com/search?q=FOR%c3%87A+BLACK) | N/A |
-| 38 | [RK TRINTOU](http://twitter.com/search?q=RK+TRINTOU) | N/A |
-| 39 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 40 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 41 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 42 | [Priscila Fantin](http://twitter.com/search?q=Priscila+Fantin) | N/A |
-| 43 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 44 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 45 | [Vizeu](http://twitter.com/search?q=Vizeu) | N/A |
-| 46 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
-| 47 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 48 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 49 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 50 | [daisy johnson](http://twitter.com/search?q=daisy+johnson) | N/A |
+| 37 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 38 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
+| 39 | [RK TRINTOU](http://twitter.com/search?q=RK+TRINTOU) | N/A |
+| 40 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 41 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 42 | [Vizeu](http://twitter.com/search?q=Vizeu) | N/A |
+| 43 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 44 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 45 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 46 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 47 | [daisy johnson](http://twitter.com/search?q=daisy+johnson) | N/A |
+| 48 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 49 | [Leila Lopes](http://twitter.com/search?q=Leila+Lopes) | N/A |
+| 50 | [Flesch](http://twitter.com/search?q=Flesch) | N/A |
 
 
 

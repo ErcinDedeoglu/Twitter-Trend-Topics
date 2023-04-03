@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-03 02:29:08 UTC`
+📆 Last Updated: `2023-04-03 03:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
-| 2 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 4 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
 | 6 | [#LGBTQIAgoodvibes](http://twitter.com/search?q=%23LGBTQIAgoodvibes) | N/A |
-| 7 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 8 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 9 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 10 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 7 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 8 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 9 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 10 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 11 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 12 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
 | 13 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [France](</France>)
 | 15 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
 | 16 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
 | 17 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 18 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 19 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 20 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 21 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 22 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 18 | [Balor](http://twitter.com/search?q=Balor) | N/A |
+| 19 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 20 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 21 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 22 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 23 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 25 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
-| 26 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 26 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
 | 27 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 28 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 29 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 32 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 33 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 34 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
-| 35 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
-| 36 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 37 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 38 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 39 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 40 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 41 | [Benatia](http://twitter.com/search?q=Benatia) | N/A |
-| 42 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 43 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 33 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 34 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
+| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 36 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 37 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 38 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 39 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 40 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
+| 41 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 42 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 43 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 44 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
 | 45 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 47 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 48 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 49 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 50 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 47 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 48 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 49 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 50 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 
 
 

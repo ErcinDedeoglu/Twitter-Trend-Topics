@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-03 02:29:45 UTC`
+📆 Last Updated: `2023-04-03 03:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 2 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
-| 3 | [#StrayKidsInLA_D2](http://twitter.com/search?q=%23StrayKidsInLA_D2) | N/A |
-| 4 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 5 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 6 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 7 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
-| 8 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 10 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 11 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 12 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 13 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 14 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 15 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 16 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 17 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 18 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 19 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 20 | [Hoppe](http://twitter.com/search?q=Hoppe) | N/A |
-| 21 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 22 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 23 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 24 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 25 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 26 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 27 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 28 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 29 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 30 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 31 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 32 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 33 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 34 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 35 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 36 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 37 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 38 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 39 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 40 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 41 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 42 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 43 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 44 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 45 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 47 | [Slayer](http://twitter.com/search?q=Slayer) | N/A |
-| 48 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 49 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 50 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 1 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 4 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 5 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 6 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 7 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 8 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
+| 9 | [#StrayKidsInLA_D2](http://twitter.com/search?q=%23StrayKidsInLA_D2) | N/A |
+| 10 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 11 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 12 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 13 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 14 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
+| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 16 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 17 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 18 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 19 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
+| 20 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 21 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 22 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 23 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 25 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 26 | [Mulkey](http://twitter.com/search?q=Mulkey) | N/A |
+| 27 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 28 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 29 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 30 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 31 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 32 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 33 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 34 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 35 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 36 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 37 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 38 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 39 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 40 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 41 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 42 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 43 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 44 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 45 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 46 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 47 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 48 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 49 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 50 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
 
 
 

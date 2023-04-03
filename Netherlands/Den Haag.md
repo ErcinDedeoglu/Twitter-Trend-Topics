@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-03 02:29:12 UTC`
+📆 Last Updated: `2023-04-03 03:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 6 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
 | 7 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
-| 8 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 9 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 10 | [higler](http://twitter.com/search?q=higler) | N/A |
-| 11 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 8 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
+| 9 | [higler](http://twitter.com/search?q=higler) | N/A |
+| 10 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 11 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
 | 12 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 13 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
 | 14 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 29 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
 | 30 | [kowet](http://twitter.com/search?q=kowet) | N/A |
-| 31 | [de var](http://twitter.com/search?q=de+var) | N/A |
+| 31 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
 | 32 | [coolsingel](http://twitter.com/search?q=coolsingel) | N/A |
 | 33 | [vriends](http://twitter.com/search?q=vriends) | N/A |
 | 34 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
@@ -57,13 +57,13 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 40 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
 | 41 | [oude kwaremont](http://twitter.com/search?q=oude+kwaremont) | N/A |
 | 42 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 45 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
-| 46 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 47 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
-| 48 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 49 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 43 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
+| 44 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 45 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
+| 46 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 48 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 49 | [hugo borst](http://twitter.com/search?q=hugo+borst) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-03 02:29:59 UTC`
+📆 Last Updated: `2023-04-03 03:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,14 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
 | 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Halmstad](http://twitter.com/search?q=Halmstad) | N/A |
-| 5 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
-| 6 | [Dumpen](http://twitter.com/search?q=Dumpen) | N/A |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Halmstad](http://twitter.com/search?q=Halmstad) | N/A |
+| 6 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
 | 7 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
-| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 9 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 10 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 8 | [Dumpen](http://twitter.com/search?q=Dumpen) | N/A |
+| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 10 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 11 | [weigel](http://twitter.com/search?q=weigel) | N/A |
 | 12 | [Degerfors](http://twitter.com/search?q=Degerfors) | N/A |
 | 13 | [marcus berg](http://twitter.com/search?q=marcus+berg) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Sweden
 | 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 18 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
 | 19 | [#bajen](http://twitter.com/search?q=%23bajen) | N/A |
-| 20 | [samlingspartiet](http://twitter.com/search?q=samlingspartiet) | N/A |
+| 20 | [Samlingspartiet](http://twitter.com/search?q=Samlingspartiet) | N/A |
 | 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 23 | [Dabo](http://twitter.com/search?q=Dabo) | Dabo is a traditional board game from West Africa. It is a two-player strategy game that involves placing stones on a board in order to capture the opponent's pieces. The name "Dabo" comes from the Fula language and means "to win". |
