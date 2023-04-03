@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-04-03 10:17:05 UTC`
+📆 Last Updated: `2023-04-03 11:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 2 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [#KenBruce](http://twitter.com/search?q=%23KenBruce) | N/A |
-| 7 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 1 | [#ToriesOut270](http://twitter.com/search?q=%23ToriesOut270) | N/A |
+| 2 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 3 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 5 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [#KenBruce](http://twitter.com/search?q=%23KenBruce) | N/A |
 | 8 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 9 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 9 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 10 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
 | 11 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 12 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 13 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
+| 12 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
+| 13 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 14 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
-| 15 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 16 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 17 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 20 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 21 | [South Asians](http://twitter.com/search?q=South+Asians) | N/A |
-| 22 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 23 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 24 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 25 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 26 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 27 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 28 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 29 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 30 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 31 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 32 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 33 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 34 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Simon Calder](http://twitter.com/search?q=Simon+Calder) | N/A |
-| 37 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 38 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 39 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 40 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 41 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 42 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 43 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 44 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 45 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 46 | [#greatesthitsradio](http://twitter.com/search?q=%23greatesthitsradio) | N/A |
-| 47 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 48 | [#ASongOrMovieForAPony](http://twitter.com/search?q=%23ASongOrMovieForAPony) | N/A |
-| 49 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 15 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 16 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
+| 17 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 18 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 19 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 23 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 24 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 25 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 26 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
+| 27 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 28 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
+| 29 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 30 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 31 | [jimmy saville](http://twitter.com/search?q=jimmy+saville) | N/A |
+| 32 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 33 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
+| 34 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 36 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 37 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 38 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 39 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 40 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 41 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 42 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 44 | [Simon Calder](http://twitter.com/search?q=Simon+Calder) | N/A |
+| 45 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 46 | [Howe](http://twitter.com/search?q=Howe) | N/A |
+| 47 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 48 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 49 | [#ASongOrMovieForAPony](http://twitter.com/search?q=%23ASongOrMovieForAPony) | N/A |
 
 
 

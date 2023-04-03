@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-03 10:17:39 UTC`
+📆 Last Updated: `2023-04-03 11:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,46 +21,45 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
 | 5 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
 | 6 | [Menemen](http://twitter.com/search?q=Menemen) | N/A |
-| 7 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 8 | [Turuncu Gömlek](http://twitter.com/search?q=Turuncu+G%c3%b6mlek) | N/A |
-| 9 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 10 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
-| 11 | [#ErdoğanaOyYok](http://twitter.com/search?q=%23Erdo%c4%9fanaOyYok) | N/A |
-| 12 | [Önder Özen](http://twitter.com/search?q=%c3%96nder+%c3%96zen) | N/A |
-| 13 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
-| 14 | [ŞoföreSöz VerKılıçdaroğlu](http://twitter.com/search?q=%c5%9eof%c3%b6reS%c3%b6z+VerK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 15 | [Kabineden TaşeronaKadro](http://twitter.com/search?q=Kabineden+Ta%c5%9feronaKadro) | N/A |
-| 16 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 17 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 18 | [Sıfır](http://twitter.com/search?q=S%c4%b1f%c4%b1r) | N/A |
-| 19 | [Adana'da 4,3](http://twitter.com/search?q=Adana%27da+4%2c3) | N/A |
-| 20 | [Devri](http://twitter.com/search?q=Devri) | N/A |
-| 21 | [Tolga Akyıldız](http://twitter.com/search?q=Tolga+Aky%c4%b1ld%c4%b1z) | N/A |
-| 22 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 23 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
+| 7 | [#benimgundemim](http://twitter.com/search?q=%23benimgundemim) | N/A |
+| 8 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 9 | [Turuncu Gömlek](http://twitter.com/search?q=Turuncu+G%c3%b6mlek) | N/A |
+| 10 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 11 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 12 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
+| 13 | [Soğansız](http://twitter.com/search?q=So%c4%9fans%c4%b1z) | N/A |
+| 14 | [Önder Özen](http://twitter.com/search?q=%c3%96nder+%c3%96zen) | N/A |
+| 15 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
+| 16 | [ŞoföreSöz VerKılıçdaroğlu](http://twitter.com/search?q=%c5%9eof%c3%b6reS%c3%b6z+VerK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 17 | [Sıfır](http://twitter.com/search?q=S%c4%b1f%c4%b1r) | N/A |
+| 18 | [Kabineden TaşeronaKadro](http://twitter.com/search?q=Kabineden+Ta%c5%9feronaKadro) | N/A |
+| 19 | [Devri](http://twitter.com/search?q=Devri) | N/A |
+| 20 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 21 | [Adana'da 4,3](http://twitter.com/search?q=Adana%27da+4%2c3) | N/A |
+| 22 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
+| 23 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
 | 24 | [Karadağ](http://twitter.com/search?q=Karada%c4%9f) | N/A |
-| 25 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
-| 26 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
-| 27 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
-| 28 | [Gültan Kışanak](http://twitter.com/search?q=G%c3%bcltan+K%c4%b1%c5%9fanak) | N/A |
-| 29 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 30 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 25 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 26 | [Tolga Akyıldız](http://twitter.com/search?q=Tolga+Aky%c4%b1ld%c4%b1z) | N/A |
+| 27 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
+| 28 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
+| 29 | [Gültan Kışanak](http://twitter.com/search?q=G%c3%bcltan+K%c4%b1%c5%9fanak) | N/A |
+| 30 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
 | 31 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 32 | [Gündem](http://twitter.com/search?q=G%c3%bcndem) | N/A |
-| 33 | [Ali Bey](http://twitter.com/search?q=Ali+Bey) | N/A |
-| 34 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 32 | [Ali Bey](http://twitter.com/search?q=Ali+Bey) | N/A |
+| 33 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 34 | [#KaderGünüdürStajın](http://twitter.com/search?q=%23KaderG%c3%bcn%c3%bcd%c3%bcrStaj%c4%b1n) | N/A |
 | 35 | [#AliKocIstifa](http://twitter.com/search?q=%23AliKocIstifa) | N/A |
-| 36 | [#KaderGünüdürStajın](http://twitter.com/search?q=%23KaderG%c3%bcn%c3%bcd%c3%bcrStaj%c4%b1n) | N/A |
-| 37 | [#Bitexen5Yaşında](http://twitter.com/search?q=%23Bitexen5Ya%c5%9f%c4%b1nda) | N/A |
-| 38 | [#HelinBölek](http://twitter.com/search?q=%23HelinB%c3%b6lek) | N/A |
-| 39 | [#BIST1OO](http://twitter.com/search?q=%23BIST1OO) | N/A |
-| 40 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 36 | [#ErdoğanaOyYok](http://twitter.com/search?q=%23Erdo%c4%9fanaOyYok) | N/A |
+| 37 | [#helinbölek](http://twitter.com/search?q=%23helinb%c3%b6lek) | N/A |
+| 38 | [#Kayahan](http://twitter.com/search?q=%23Kayahan) | N/A |
+| 39 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 40 | [#Bitexen5Yaşında](http://twitter.com/search?q=%23Bitexen5Ya%c5%9f%c4%b1nda) | N/A |
 | 41 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 42 | [#Kayahan](http://twitter.com/search?q=%23Kayahan) | N/A |
-| 43 | [#Brent](http://twitter.com/search?q=%23Brent) | N/A |
-| 44 | [#EkonomininDurumu](http://twitter.com/search?q=%23EkonomininDurumu) | N/A |
+| 42 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 43 | [#EkonomininDurumu](http://twitter.com/search?q=%23EkonomininDurumu) | N/A |
+| 44 | [#Brent](http://twitter.com/search?q=%23Brent) | N/A |
 | 45 | [#petrol](http://twitter.com/search?q=%23petrol) | N/A |
-| 46 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 
 
 

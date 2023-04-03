@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-03 10:17:16 UTC`
+📆 Last Updated: `2023-04-03 11:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,47 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 2 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 3 | [Utip](http://twitter.com/search?q=Utip) | N/A |
-| 4 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 5 | [#darmaninEstdExtremeDroite](http://twitter.com/search?q=%23darmaninEstdExtremeDroite) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
-| 8 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 9 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
-| 10 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
-| 11 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
-| 12 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
+| 2 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
+| 3 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
+| 4 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
+| 5 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
+| 6 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
+| 7 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
+| 8 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 9 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 10 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 11 | [#darmaninEstdExtremeDroite](http://twitter.com/search?q=%23darmaninEstdExtremeDroite) | N/A |
+| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 13 | [#SOP2023](http://twitter.com/search?q=%23SOP2023) | N/A |
-| 14 | [Tipeee](http://twitter.com/search?q=Tipeee) | N/A |
-| 15 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 16 | [#FindeVie](http://twitter.com/search?q=%23FindeVie) | N/A |
-| 17 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 14 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
+| 15 | [#FaisRoulerUnTitre](http://twitter.com/search?q=%23FaisRoulerUnTitre) | N/A |
+| 16 | [Tipeee](http://twitter.com/search?q=Tipeee) | N/A |
+| 17 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
 | 18 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
-| 19 | [Copernic](http://twitter.com/search?q=Copernic) | N/A |
+| 19 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
 | 20 | [LREM](http://twitter.com/search?q=LREM) | N/A |
-| 21 | [Beigbeder](http://twitter.com/search?q=Beigbeder) | N/A |
-| 22 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 23 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 24 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 25 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 21 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 22 | [Beigbeder](http://twitter.com/search?q=Beigbeder) | N/A |
+| 23 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 24 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
+| 25 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
 | 26 | [Front Républicain](http://twitter.com/search?q=Front+R%c3%a9publicain) | N/A |
-| 27 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 28 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
-| 29 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 30 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 31 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
-| 32 | [Froger](http://twitter.com/search?q=Froger) | N/A |
-| 33 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 34 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 35 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
-| 36 | [#MicromaniaLexar](http://twitter.com/search?q=%23MicromaniaLexar) | N/A |
-| 37 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 38 | [#ConventionCitoyenne](http://twitter.com/search?q=%23ConventionCitoyenne) | N/A |
-| 39 | [#trottinettes](http://twitter.com/search?q=%23trottinettes) | N/A |
-| 40 | [#euthanasie](http://twitter.com/search?q=%23euthanasie) | N/A |
+| 27 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 28 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 29 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 30 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 31 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 32 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 33 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
+| 34 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
+| 35 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
+| 36 | [Froger](http://twitter.com/search?q=Froger) | N/A |
+| 37 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 38 | [#FindeVie](http://twitter.com/search?q=%23FindeVie) | N/A |
+| 39 | [#MicromaniaLexar](http://twitter.com/search?q=%23MicromaniaLexar) | N/A |
+| 40 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
+| 41 | [#ConventionCitoyenne](http://twitter.com/search?q=%23ConventionCitoyenne) | N/A |
+| 42 | [#euthanasie](http://twitter.com/search?q=%23euthanasie) | N/A |
 
 
 
