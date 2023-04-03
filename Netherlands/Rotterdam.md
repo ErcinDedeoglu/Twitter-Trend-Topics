@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-03 08:18:09 UTC`
+📆 Last Updated: `2023-04-03 09:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
 | 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 6 | [#bruggen](http://twitter.com/search?q=%23bruggen) | N/A |
-| 7 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 8 | [#FORgro](http://twitter.com/search?q=%23FORgro) | N/A |
-| 9 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 10 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 11 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
-| 12 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 13 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 14 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 6 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 7 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
+| 8 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 9 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 10 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
+| 11 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 12 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 13 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 14 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 15 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 16 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 18 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 19 | [Dales](http://twitter.com/search?q=Dales) | N/A |
-| 20 | [koers](http://twitter.com/search?q=koers) | N/A |
-| 21 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 22 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
-| 23 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [Van Der Poel](http://twitter.com/search?q=Van+Der+Poel) | N/A |
-| 26 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 27 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 28 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 29 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 30 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
-| 31 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
-| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 33 | [de var](http://twitter.com/search?q=de+var) | N/A |
-| 34 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 35 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 36 | [vriends](http://twitter.com/search?q=vriends) | N/A |
-| 37 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 38 | [Marin](http://twitter.com/search?q=Marin) | N/A |
-| 39 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 40 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 41 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
-| 42 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 43 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
-| 44 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 45 | [MvdP](http://twitter.com/search?q=MvdP) | N/A |
-| 46 | [Honderden](http://twitter.com/search?q=Honderden) | N/A |
-| 47 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 48 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 49 | [Jahan](http://twitter.com/search?q=Jahan) | N/A |
-| 50 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
+| 16 | [IJsselmeer](http://twitter.com/search?q=IJsselmeer) | N/A |
+| 17 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 18 | [Dales](http://twitter.com/search?q=Dales) | N/A |
+| 19 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 20 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 21 | [koers](http://twitter.com/search?q=koers) | N/A |
+| 22 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 23 | [Malinga](http://twitter.com/search?q=Malinga) | N/A |
+| 24 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
+| 25 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 27 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 28 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
+| 31 | [de var](http://twitter.com/search?q=de+var) | N/A |
+| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 33 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 34 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 35 | [Parijzenaren](http://twitter.com/search?q=Parijzenaren) | N/A |
+| 36 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 37 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 38 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
+| 39 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
+| 40 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 41 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 42 | [Honderden](http://twitter.com/search?q=Honderden) | N/A |
+| 43 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 44 | [Pietje](http://twitter.com/search?q=Pietje) | N/A |
+| 45 | [Jahan](http://twitter.com/search?q=Jahan) | N/A |
+| 46 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
+| 47 | [Marin](http://twitter.com/search?q=Marin) | N/A |
+| 48 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
+| 49 | [Drentse Hunzebos](http://twitter.com/search?q=Drentse+Hunzebos) | N/A |
+| 50 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
 
 
 

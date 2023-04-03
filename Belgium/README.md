@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-03 08:18:48 UTC`
+📆 Last Updated: `2023-04-03 09:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Belgium
 | 2 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
 | 3 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
 | 4 | [#kvmclu](http://twitter.com/search?q=%23kvmclu) | N/A |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 5 | [Jong Groen](http://twitter.com/search?q=Jong+Groen) | N/A |
 | 6 | [#RondeVanVlaanderen](http://twitter.com/search?q=%23RondeVanVlaanderen) | N/A |
-| 7 | [Jong Groen](http://twitter.com/search?q=Jong+Groen) | N/A |
-| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 9 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 10 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
-| 11 | [DE GROTE PEILING](http://twitter.com/search?q=DE+GROTE+PEILING) | N/A |
-| 12 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 13 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
-| 14 | [Conny](http://twitter.com/search?q=Conny) | N/A |
+| 7 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
+| 8 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 9 | [Regie der Gebouwen](http://twitter.com/search?q=Regie+der+Gebouwen) | N/A |
+| 10 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 11 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 14 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 15 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
 | 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 17 | [Toos](http://twitter.com/search?q=Toos) | N/A |
-| 18 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 19 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
-| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 21 | [BRAHIM DIAZ](http://twitter.com/search?q=BRAHIM+DIAZ) | N/A |
+| 18 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
+| 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 20 | [BRAHIM DIAZ](http://twitter.com/search?q=BRAHIM+DIAZ) | N/A |
+| 21 | [Conny](http://twitter.com/search?q=Conny) | N/A |
 | 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 24 | [Van Hooydonck](http://twitter.com/search?q=Van+Hooydonck) | N/A |
+| 23 | [Van Hooydonck](http://twitter.com/search?q=Van+Hooydonck) | N/A |
+| 24 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 | 25 | [Koppenberg](http://twitter.com/search?q=Koppenberg) | N/A |
 | 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 27 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 28 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
-| 29 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 28 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 29 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
 | 30 | [Bosembe](http://twitter.com/search?q=Bosembe) | N/A |
 | 31 | [Spekken](http://twitter.com/search?q=Spekken) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
-| 34 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [slimani](http://twitter.com/search?q=slimani) | N/A |
-| 37 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 38 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
-| 39 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 40 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 41 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 42 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 43 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 44 | [Lotte](http://twitter.com/search?q=Lotte) | N/A |
+| 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 34 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
+| 35 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 38 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 41 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 43 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 44 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 45 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 46 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 47 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 48 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 49 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 50 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 47 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 48 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 49 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 50 | [Lotte Kopecky](http://twitter.com/search?q=Lotte+Kopecky) | N/A |
 
 
 

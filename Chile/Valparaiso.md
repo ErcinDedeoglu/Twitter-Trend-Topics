@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-03 08:17:58 UTC`
+📆 Last Updated: `2023-04-03 09:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WrestlemaniaCL](http://twitter.com/search?q=%23WrestlemaniaCL) | N/A |
-| 2 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
-| 3 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 2 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 3 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 4 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 5 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 5 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
 | 6 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
 | 7 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
 | 8 | [Karina Oliva](http://twitter.com/search?q=Karina+Oliva) | N/A |
@@ -32,14 +32,14 @@ This is top 50 for [Chile](</Chile>)
 | 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 17 | [Narea](http://twitter.com/search?q=Narea) | N/A |
-| 18 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 19 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
-| 20 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 21 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 22 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 23 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
-| 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 25 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
+| 18 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
+| 19 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 20 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 21 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 22 | [bolados](http://twitter.com/search?q=bolados) | N/A |
+| 23 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 24 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
+| 25 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 26 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
@@ -53,8 +53,8 @@ This is top 50 for [Chile](</Chile>)
 | 36 | [Codelco](http://twitter.com/search?q=Codelco) | N/A |
 | 37 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
 | 38 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 39 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
-| 40 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 39 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 40 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
 | 41 | [benegas](http://twitter.com/search?q=benegas) | N/A |
 | 42 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 43 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
