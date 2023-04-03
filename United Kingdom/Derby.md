@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-03 13:19:20 UTC`
+📆 Last Updated: `2023-04-03 14:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GreatestHitsRadio](http://twitter.com/search?q=%23GreatestHitsRadio) | N/A |
-| 2 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 3 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 4 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 8 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 9 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 10 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 11 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 12 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 13 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 16 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
-| 19 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 21 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 22 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
-| 23 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 24 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 25 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 26 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 27 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 28 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 29 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 30 | [rochdale](http://twitter.com/search?q=rochdale) | N/A |
-| 31 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
-| 32 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
-| 33 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 34 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 35 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 1 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
+| 2 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 3 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 4 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 5 | [Suella](http://twitter.com/search?q=Suella) | N/A |
+| 6 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 7 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 10 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 11 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 12 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 13 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 14 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 15 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 18 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 20 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
+| 21 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 22 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 23 | [Entered](http://twitter.com/search?q=Entered) | N/A |
+| 24 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 25 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 26 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 27 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
+| 28 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 29 | [sidemen](http://twitter.com/search?q=sidemen) | N/A |
+| 30 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 31 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
+| 32 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 33 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 34 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
+| 35 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
 | 36 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
-| 37 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
-| 38 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 39 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 40 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 41 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 42 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 43 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 44 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 45 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 47 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 37 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
+| 38 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 39 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 40 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
+| 41 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
+| 42 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 43 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 44 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 45 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 46 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 47 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
 | 48 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-03 13:19:38 UTC`
+📆 Last Updated: `2023-04-03 14:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [menangkan kemajuan rakyat](http://twitter.com/search?q=menangkan+kemajuan+rakyat) | N/A |
-| 2 | [prabowo persatuan indonesia](http://twitter.com/search?q=prabowo+persatuan+indonesia) | N/A |
-| 3 | [bikin indonesia nyaman](http://twitter.com/search?q=bikin+indonesia+nyaman) | N/A |
-| 4 | [#pesanuntukberbagi](http://twitter.com/search?q=%23pesanuntukberbagi) | N/A |
-| 5 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 6 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 7 | [#เลย์กินให้สุดวันหยุดยาวXGF](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8c%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b8%a2%e0%b8%b2%e0%b8%a7XGF) | N/A |
-| 8 | [dirkrimsus polda sulsel](http://twitter.com/search?q=dirkrimsus+polda+sulsel) | N/A |
-| 9 | [#penuhihakkesehatanhelmut](http://twitter.com/search?q=%23penuhihakkesehatanhelmut) | N/A |
-| 10 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
-| 13 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 14 | [RM AT REBOUND VIP PREMIERE](http://twitter.com/search?q=RM+AT+REBOUND+VIP+PREMIERE) | N/A |
-| 15 | [the azhari](http://twitter.com/search?q=the+azhari) | N/A |
-| 16 | [pupus mimpi anak bangsa](http://twitter.com/search?q=pupus+mimpi+anak+bangsa) | N/A |
-| 17 | [NUMBER ONE IN MY HEART](http://twitter.com/search?q=NUMBER+ONE+IN+MY+HEART) | N/A |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Balikin X1](http://twitter.com/search?q=Balikin+X1) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 22 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 23 | [$CGPT](http://twitter.com/search?q=%24CGPT) | N/A |
-| 24 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
-| 25 | [Guru Penjas](http://twitter.com/search?q=Guru+Penjas) | N/A |
-| 26 | [Arbani](http://twitter.com/search?q=Arbani) | N/A |
-| 27 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 28 | [GET WELL SOON JAEHYUK](http://twitter.com/search?q=GET+WELL+SOON+JAEHYUK) | N/A |
-| 29 | [Final Destination](http://twitter.com/search?q=Final+Destination) | N/A |
-| 30 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
-| 31 | [LAYS LIVE GEMINI FOURTH](http://twitter.com/search?q=LAYS+LIVE+GEMINI+FOURTH) | N/A |
-| 32 | [MAUUU UIS](http://twitter.com/search?q=MAUUU+UIS) | N/A |
-| 33 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 34 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 35 | [Menteri Pemuda](http://twitter.com/search?q=Menteri+Pemuda) | N/A |
-| 36 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 37 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 38 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 39 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 40 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
-| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 42 | [D-DAY IS COMING](http://twitter.com/search?q=D-DAY+IS+COMING) | N/A |
-| 43 | [NCT DREAM IS 7DREAM](http://twitter.com/search?q=NCT+DREAM+IS+7DREAM) | N/A |
-| 44 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
-| 45 | [Haris Azhar](http://twitter.com/search?q=Haris+Azhar) | N/A |
-| 46 | [AGUST D IS COMING](http://twitter.com/search?q=AGUST+D+IS+COMING) | N/A |
-| 47 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 48 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 49 | [Banjirnya](http://twitter.com/search?q=Banjirnya) | N/A |
+| 1 | [#UnveilYourBeauty](http://twitter.com/search?q=%23UnveilYourBeauty) | N/A |
+| 2 | [#InvestigasiTempo](http://twitter.com/search?q=%23InvestigasiTempo) | N/A |
+| 3 | [Sudah Baca Tempo](http://twitter.com/search?q=Sudah+Baca+Tempo) | N/A |
+| 4 | [Hydra Veil Sleeping Mask](http://twitter.com/search?q=Hydra+Veil+Sleeping+Mask) | N/A |
+| 5 | [Implora](http://twitter.com/search?q=Implora) | N/A |
+| 6 | [5% Niacinamide](http://twitter.com/search?q=5%25+Niacinamide) | N/A |
+| 7 | [Aloe Vera](http://twitter.com/search?q=Aloe+Vera) | N/A |
+| 8 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 9 | [#เลย์กินให้สุดวันหยุดยาวXGF](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8c%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b8%a2%e0%b8%b2%e0%b8%a7XGF) | N/A |
+| 10 | [RM AT REBOUND VIP PREMIERE](http://twitter.com/search?q=RM+AT+REBOUND+VIP+PREMIERE) | N/A |
+| 11 | [MAU DIB](http://twitter.com/search?q=MAU+DIB) | N/A |
+| 12 | [moeldoko](http://twitter.com/search?q=moeldoko) | N/A |
+| 13 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 14 | [Balikin X1](http://twitter.com/search?q=Balikin+X1) | N/A |
+| 15 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
+| 16 | [Menteri Pemuda](http://twitter.com/search?q=Menteri+Pemuda) | N/A |
+| 17 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
+| 18 | [haris azhar](http://twitter.com/search?q=haris+azhar) | N/A |
+| 19 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 20 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 21 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 22 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
+| 23 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
+| 24 | [NUMBER ONE IN MY HEART](http://twitter.com/search?q=NUMBER+ONE+IN+MY+HEART) | N/A |
+| 25 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 26 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
+| 27 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 28 | [Arbani](http://twitter.com/search?q=Arbani) | N/A |
+| 29 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 30 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 31 | [#PesanUntukBerbagi](http://twitter.com/search?q=%23PesanUntukBerbagi) | N/A |
+| 32 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 33 | [#BibleJeff](http://twitter.com/search?q=%23BibleJeff) | N/A |
+| 34 | [#WINTERxVogueKorea](http://twitter.com/search?q=%23WINTERxVogueKorea) | N/A |
+| 35 | [#GrabFoodNo1xPondPhuwin](http://twitter.com/search?q=%23GrabFoodNo1xPondPhuwin) | N/A |
+| 36 | [#Namjoon](http://twitter.com/search?q=%23Namjoon) | N/A |
+| 37 | [#방탄소년단RM](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8RM) | N/A |
+| 38 | [#markford](http://twitter.com/search?q=%23markford) | N/A |
+| 39 | [#WinterisComing](http://twitter.com/search?q=%23WinterisComing) | N/A |
+| 40 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
+| 41 | [#D4_GoldenHourMark](http://twitter.com/search?q=%23D4_GoldenHourMark) | N/A |
+| 42 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 43 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
+| 44 | [#NewJeansxCocaCola](http://twitter.com/search?q=%23NewJeansxCocaCola) | N/A |
+| 45 | [#NewJeans_Zero](http://twitter.com/search?q=%23NewJeans_Zero) | N/A |
+| 46 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 47 | [#OneTwoThreeSmileInJKT](http://twitter.com/search?q=%23OneTwoThreeSmileInJKT) | N/A |
+| 48 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 
 
 

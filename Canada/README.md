@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-04-03 13:20:07 UTC`
+📆 Last Updated: `2023-04-03 14:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Canada
 | 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 5 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
 | 6 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 7 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
+| 7 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 8 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 9 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 10 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 11 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 12 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
-| 13 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 14 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 16 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 17 | [luong](http://twitter.com/search?q=luong) | N/A |
-| 18 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 19 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 20 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 21 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 22 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 23 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 24 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 25 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 26 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 27 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
-| 28 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 29 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 30 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 31 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 9 | [#AustraliaGP](http://twitter.com/search?q=%23AustraliaGP) | N/A |
+| 10 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 11 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 13 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
+| 14 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 15 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 16 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 17 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 19 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 20 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 21 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 22 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 23 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 24 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 26 | [Luong](http://twitter.com/search?q=Luong) | N/A |
+| 27 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 28 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 29 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
+| 30 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 31 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 32 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 35 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 36 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 37 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 38 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 39 | [37% of canadians](http://twitter.com/search?q=37%25+of+canadians) | N/A |
-| 40 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 41 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
-| 42 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 43 | [MAID](http://twitter.com/search?q=MAID) | N/A |
-| 44 | [samsonov](http://twitter.com/search?q=samsonov) | N/A |
-| 45 | [sheamus](http://twitter.com/search?q=sheamus) | N/A |
-| 46 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 47 | [Corey Conners](http://twitter.com/search?q=Corey+Conners) | N/A |
-| 48 | [Guilbeault](http://twitter.com/search?q=Guilbeault) | N/A |
-| 49 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 50 | [usos](http://twitter.com/search?q=usos) | N/A |
+| 33 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 34 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 37 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 38 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 39 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 40 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 41 | [MAID](http://twitter.com/search?q=MAID) | N/A |
+| 42 | [37% of Canadians](http://twitter.com/search?q=37%25+of+Canadians) | N/A |
+| 43 | [Taehyun](http://twitter.com/search?q=Taehyun) | N/A |
+| 44 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 45 | [Mark Saunders](http://twitter.com/search?q=Mark+Saunders) | N/A |
+| 46 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 48 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 49 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 50 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-03 13:19:57 UTC`
+📆 Last Updated: `2023-04-03 14:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Seccade](http://twitter.com/search?q=Seccade) | N/A |
-| 2 | [UstaÖğreticiyeHakkınıVer](http://twitter.com/search?q=Usta%c3%96%c4%9freticiyeHakk%c4%b1n%c4%b1Ver) | N/A |
-| 3 | [#GSYancısıMehmetİstifaEt](http://twitter.com/search?q=%23GSYanc%c4%b1s%c4%b1Mehmet%c4%b0stifaEt) | N/A |
-| 4 | [#MilletinAdamı](http://twitter.com/search?q=%23MilletinAdam%c4%b1) | N/A |
-| 5 | [Menemen](http://twitter.com/search?q=Menemen) | N/A |
-| 6 | [levent uysal](http://twitter.com/search?q=levent+uysal) | N/A |
+| 2 | [#GsYancısıMehmetİstifaEt](http://twitter.com/search?q=%23GsYanc%c4%b1s%c4%b1Mehmet%c4%b0stifaEt) | N/A |
+| 3 | [#EfesizKufesizEk55Bin](http://twitter.com/search?q=%23EfesizKufesizEk55Bin) | N/A |
+| 4 | [UstaÖğreticiyeHakkınıVer](http://twitter.com/search?q=Usta%c3%96%c4%9freticiyeHakk%c4%b1n%c4%b1Ver) | N/A |
+| 5 | [#MilletinAdamı](http://twitter.com/search?q=%23MilletinAdam%c4%b1) | N/A |
+| 6 | [Menemen](http://twitter.com/search?q=Menemen) | N/A |
 | 7 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
-| 8 | [#EfesizKufesizEk55Bin](http://twitter.com/search?q=%23EfesizKufesizEk55Bin) | N/A |
-| 9 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
+| 8 | [GelsinHayat İkinciSezon](http://twitter.com/search?q=GelsinHayat+%c4%b0kinciSezon) | N/A |
+| 9 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
 | 10 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 11 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 12 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
+| 11 | [#pomemkpssöncesi](http://twitter.com/search?q=%23pomemkpss%c3%b6ncesi) | N/A |
+| 12 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
 | 13 | [Milyonlar AFBekliyor](http://twitter.com/search?q=Milyonlar+AFBekliyor) | N/A |
 | 14 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
-| 15 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
-| 16 | [Önder Özen](http://twitter.com/search?q=%c3%96nder+%c3%96zen) | N/A |
-| 17 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
-| 18 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 19 | [Demokrasi İttifakı](http://twitter.com/search?q=Demokrasi+%c4%b0ttifak%c4%b1) | N/A |
-| 20 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 21 | [Sıfır](http://twitter.com/search?q=S%c4%b1f%c4%b1r) | N/A |
-| 22 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 23 | [İSTİFA EDİN](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ED%c4%b0N) | N/A |
-| 24 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
-| 25 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
-| 26 | [4 Nisan Salı](http://twitter.com/search?q=4+Nisan+Sal%c4%b1) | N/A |
-| 27 | [5 Nisan Çarşamba](http://twitter.com/search?q=5+Nisan+%c3%87ar%c5%9famba) | N/A |
-| 28 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 29 | [Devri](http://twitter.com/search?q=Devri) | N/A |
-| 30 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 31 | [Kabineden TaşeronaKadro](http://twitter.com/search?q=Kabineden+Ta%c5%9feronaKadro) | N/A |
-| 32 | [Tolga Akyıldız](http://twitter.com/search?q=Tolga+Aky%c4%b1ld%c4%b1z) | N/A |
-| 33 | [Ülkü](http://twitter.com/search?q=%c3%9clk%c3%bc) | N/A |
-| 34 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 35 | [Karadağ](http://twitter.com/search?q=Karada%c4%9f) | N/A |
-| 36 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 37 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 38 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 39 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 40 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
-| 41 | [#pomemkpssöncesi](http://twitter.com/search?q=%23pomemkpss%c3%b6ncesi) | N/A |
-| 42 | [#GoHomeJesus](http://twitter.com/search?q=%23GoHomeJesus) | N/A |
-| 43 | [#AliKoçİstifaEt](http://twitter.com/search?q=%23AliKo%c3%a7%c4%b0stifaEt) | N/A |
-| 44 | [#HelinBölek](http://twitter.com/search?q=%23HelinB%c3%b6lek) | N/A |
-| 45 | [#benimgündemim](http://twitter.com/search?q=%23benimg%c3%bcndemim) | N/A |
-| 46 | [#KaderGünüdürStajın](http://twitter.com/search?q=%23KaderG%c3%bcn%c3%bcd%c3%bcrStaj%c4%b1n) | N/A |
-| 47 | [#inceden](http://twitter.com/search?q=%23inceden) | N/A |
-| 48 | [#BIST1OO](http://twitter.com/search?q=%23BIST1OO) | N/A |
-| 49 | [#hayvancılıkyokediliyor](http://twitter.com/search?q=%23hayvanc%c4%b1l%c4%b1kyokediliyor) | N/A |
-| 50 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
+| 15 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 16 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
+| 17 | [Önder Özen](http://twitter.com/search?q=%c3%96nder+%c3%96zen) | N/A |
+| 18 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 19 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
+| 20 | [Demokrasi İttifakı](http://twitter.com/search?q=Demokrasi+%c4%b0ttifak%c4%b1) | N/A |
+| 21 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
+| 22 | [Otobüs](http://twitter.com/search?q=Otob%c3%bcs) | N/A |
+| 23 | [Endeks](http://twitter.com/search?q=Endeks) | N/A |
+| 24 | [Sıfır](http://twitter.com/search?q=S%c4%b1f%c4%b1r) | N/A |
+| 25 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
+| 26 | [İSTİFA EDİN](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ED%c4%b0N) | N/A |
+| 27 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
+| 28 | [4 Nisan Salı](http://twitter.com/search?q=4+Nisan+Sal%c4%b1) | N/A |
+| 29 | [5 Nisan Çarşamba](http://twitter.com/search?q=5+Nisan+%c3%87ar%c5%9famba) | N/A |
+| 30 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
+| 31 | [Devri](http://twitter.com/search?q=Devri) | N/A |
+| 32 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 33 | [Kuru](http://twitter.com/search?q=Kuru) | N/A |
+| 34 | [Tolga Akyıldız](http://twitter.com/search?q=Tolga+Aky%c4%b1ld%c4%b1z) | N/A |
+| 35 | [selçuk bayraktar](http://twitter.com/search?q=sel%c3%a7uk+bayraktar) | N/A |
+| 36 | [Ülkü](http://twitter.com/search?q=%c3%9clk%c3%bc) | N/A |
+| 37 | [Gerekirse](http://twitter.com/search?q=Gerekirse) | N/A |
+| 38 | [NATO'ya](http://twitter.com/search?q=NATO%27ya) | N/A |
+| 39 | [Karadağ](http://twitter.com/search?q=Karada%c4%9f) | N/A |
+| 40 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 41 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
+| 42 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 43 | [#Bingöl](http://twitter.com/search?q=%23Bing%c3%b6l) | N/A |
+| 44 | [#BIST1OO](http://twitter.com/search?q=%23BIST1OO) | N/A |
+| 45 | [#KaderGünüdürStajın](http://twitter.com/search?q=%23KaderG%c3%bcn%c3%bcd%c3%bcrStaj%c4%b1n) | N/A |
+| 46 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
+| 47 | [#hayvancılıkyokediliyor](http://twitter.com/search?q=%23hayvanc%c4%b1l%c4%b1kyokediliyor) | N/A |
+| 48 | [#Gohomejesus](http://twitter.com/search?q=%23Gohomejesus) | N/A |
+| 49 | [#benimgundemim](http://twitter.com/search?q=%23benimgundemim) | N/A |
+| 50 | [#AliKoçİstifaEt](http://twitter.com/search?q=%23AliKo%c3%a7%c4%b0stifaEt) | N/A |
 
 
 

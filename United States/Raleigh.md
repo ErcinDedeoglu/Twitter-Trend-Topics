@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-04-03 13:20:04 UTC`
+📆 Last Updated: `2023-04-03 14:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
 | 5 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 6 | [#TheMasters](http://twitter.com/search?q=%23TheMasters) | N/A |
-| 7 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 8 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 9 | [#APWeek23](http://twitter.com/search?q=%23APWeek23) | N/A |
-| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 11 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 12 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 13 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 6 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 7 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 8 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 9 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 10 | [Taehyun](http://twitter.com/search?q=Taehyun) | N/A |
+| 11 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 12 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 13 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 14 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 15 | [UFC and WWE](http://twitter.com/search?q=UFC+and+WWE) | N/A |
-| 16 | [National Public Health Week](http://twitter.com/search?q=National+Public+Health+Week) | N/A |
-| 17 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
-| 18 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 15 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 16 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 17 | [Summer Jam](http://twitter.com/search?q=Summer+Jam) | N/A |
+| 18 | [UFC and WWE](http://twitter.com/search?q=UFC+and+WWE) | N/A |
 | 19 | [Keith Olbermann](http://twitter.com/search?q=Keith+Olbermann) | N/A |
-| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 22 | [Act 3](http://twitter.com/search?q=Act+3) | N/A |
-| 23 | [WWE and UFC](http://twitter.com/search?q=WWE+and+UFC) | N/A |
-| 24 | [Doris Day](http://twitter.com/search?q=Doris+Day) | N/A |
-| 25 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 26 | [Country Music](http://twitter.com/search?q=Country+Music) | N/A |
-| 27 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 28 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 29 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 30 | [Greene](http://twitter.com/search?q=Greene) | N/A |
-| 31 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 32 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 33 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
-| 34 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 35 | [Competitive](http://twitter.com/search?q=Competitive) | N/A |
-| 36 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 37 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 38 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 39 | [Kelsea Ballerini](http://twitter.com/search?q=Kelsea+Ballerini) | N/A |
-| 40 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 41 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 42 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 43 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
-| 44 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 45 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 46 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 47 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 48 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 49 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 50 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 20 | [WWE and UFC](http://twitter.com/search?q=WWE+and+UFC) | N/A |
+| 21 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 22 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 23 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
+| 24 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
+| 25 | [National Public Health Week](http://twitter.com/search?q=National+Public+Health+Week) | N/A |
+| 26 | [Ari Emanuel](http://twitter.com/search?q=Ari+Emanuel) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 29 | [House 3](http://twitter.com/search?q=House+3) | N/A |
+| 30 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 31 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 32 | [Country Music](http://twitter.com/search?q=Country+Music) | N/A |
+| 33 | [Earl Campbell](http://twitter.com/search?q=Earl+Campbell) | N/A |
+| 34 | [Act 3](http://twitter.com/search?q=Act+3) | N/A |
+| 35 | [Doris Day](http://twitter.com/search?q=Doris+Day) | N/A |
+| 36 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
+| 37 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 38 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 39 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
+| 40 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 41 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
+| 42 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 43 | [Kihyun](http://twitter.com/search?q=Kihyun) | N/A |
+| 44 | [Greene](http://twitter.com/search?q=Greene) | N/A |
+| 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 46 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 47 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 48 | [Kelsea Ballerini](http://twitter.com/search?q=Kelsea+Ballerini) | N/A |
+| 49 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 50 | [Jane Goodall](http://twitter.com/search?q=Jane+Goodall) | N/A |
 
 
 
