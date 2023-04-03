@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-03 09:17:29 UTC`
+📆 Last Updated: `2023-04-03 10:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
 | 2 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 3 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
-| 4 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 5 | [#eXtraeleganceeXtrapower](http://twitter.com/search?q=%23eXtraeleganceeXtrapower) | N/A |
-| 6 | [King Khosi](http://twitter.com/search?q=King+Khosi) | N/A |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Pep Store](http://twitter.com/search?q=Pep+Store) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 11 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 12 | [John Steenhuisen](http://twitter.com/search?q=John+Steenhuisen) | N/A |
-| 13 | [14 Bunny Magnets](http://twitter.com/search?q=14+Bunny+Magnets) | N/A |
-| 14 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 3 | [KING KHOSI](http://twitter.com/search?q=KING+KHOSI) | N/A |
+| 4 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
+| 5 | [#SBLove](http://twitter.com/search?q=%23SBLove) | N/A |
+| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 7 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 10 | [Pep Store](http://twitter.com/search?q=Pep+Store) | N/A |
+| 11 | [John Steenhuisen](http://twitter.com/search?q=John+Steenhuisen) | N/A |
+| 12 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 13 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 14 | [14 Bunny Magnets](http://twitter.com/search?q=14+Bunny+Magnets) | N/A |
 | 15 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 16 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 17 | [Big Boss Burger](http://twitter.com/search?q=Big+Boss+Burger) | N/A |
-| 18 | [Tropika Island of Treasure](http://twitter.com/search?q=Tropika+Island+of+Treasure) | N/A |
-| 19 | [Mpho Phalatse](http://twitter.com/search?q=Mpho+Phalatse) | N/A |
-| 20 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 21 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 22 | [THANK YOU TITAN THABANG](http://twitter.com/search?q=THANK+YOU+TITAN+THABANG) | N/A |
-| 23 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 24 | [THE ULTIMATE TITAN THABANG](http://twitter.com/search?q=THE+ULTIMATE+TITAN+THABANG) | N/A |
-| 25 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 28 | [Beacon Marshmallow](http://twitter.com/search?q=Beacon+Marshmallow) | N/A |
-| 29 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 16 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
+| 17 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 18 | [Mpho Phalatse](http://twitter.com/search?q=Mpho+Phalatse) | N/A |
+| 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 20 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 21 | [Big Boss Burger](http://twitter.com/search?q=Big+Boss+Burger) | N/A |
+| 22 | [IPELENG THE BRAND](http://twitter.com/search?q=IPELENG+THE+BRAND) | N/A |
+| 23 | [THANK YOU TITAN THABANG](http://twitter.com/search?q=THANK+YOU+TITAN+THABANG) | N/A |
+| 24 | [Tropika Island of Treasure](http://twitter.com/search?q=Tropika+Island+of+Treasure) | N/A |
+| 25 | [Heit](http://twitter.com/search?q=Heit) | N/A |
+| 26 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 27 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 28 | [THE ULTIMATE TITAN THABANG](http://twitter.com/search?q=THE+ULTIMATE+TITAN+THABANG) | N/A |
+| 29 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 31 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 32 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 32 | [Beacon](http://twitter.com/search?q=Beacon) | N/A |
 | 33 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 34 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 36 | [IPELENG THE BRAND](http://twitter.com/search?q=IPELENG+THE+BRAND) | N/A |
-| 37 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 34 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 35 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 36 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 37 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 38 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 40 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 41 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 42 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 43 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 44 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
-| 45 | [Solly](http://twitter.com/search?q=Solly) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 48 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 49 | [Heit](http://twitter.com/search?q=Heit) | N/A |
-| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 40 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 41 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 43 | [National Treasury](http://twitter.com/search?q=National+Treasury) | N/A |
+| 44 | [PFMA](http://twitter.com/search?q=PFMA) | N/A |
+| 45 | [Dr Sindi](http://twitter.com/search?q=Dr+Sindi) | N/A |
+| 46 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
+| 47 | [Solly](http://twitter.com/search?q=Solly) | N/A |
+| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 49 | [Presley](http://twitter.com/search?q=Presley) | N/A |
+| 50 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 
 
 
