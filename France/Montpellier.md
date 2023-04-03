@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-03 07:17:22 UTC`
+📆 Last Updated: `2023-04-03 08:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
 | 2 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 4 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 8 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 9 | [#LGBTQIAgoodvibes](http://twitter.com/search?q=%23LGBTQIAgoodvibes) | N/A |
-| 10 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 11 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 6 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 7 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 10 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 11 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
 | 12 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 13 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 16 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 17 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 18 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 19 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 20 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 15 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 16 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 17 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 18 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 21 | [Copernic](http://twitter.com/search?q=Copernic) | N/A |
+| 22 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
 | 23 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 24 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 25 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 26 | [Odoul](http://twitter.com/search?q=Odoul) | N/A |
-| 27 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 30 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
-| 31 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
-| 32 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 33 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 34 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 35 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 36 | [BRAHIM DIAZ](http://twitter.com/search?q=BRAHIM+DIAZ) | N/A |
-| 37 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 38 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 39 | [Élue](http://twitter.com/search?q=%c3%89lue) | N/A |
-| 40 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 24 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
+| 25 | [Éclectisme](http://twitter.com/search?q=%c3%89clectisme) | N/A |
+| 26 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 27 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 28 | [Front Républicain](http://twitter.com/search?q=Front+R%c3%a9publicain) | N/A |
+| 29 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 30 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 31 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
+| 32 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 33 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 34 | [BRAHIM DIAZ](http://twitter.com/search?q=BRAHIM+DIAZ) | N/A |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 37 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 38 | [Élue](http://twitter.com/search?q=%c3%89lue) | N/A |
+| 39 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 40 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 | 41 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 42 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 43 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 44 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 45 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 46 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 47 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 48 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 49 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 42 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 43 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 44 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 45 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 46 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 47 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 48 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
 
 
 

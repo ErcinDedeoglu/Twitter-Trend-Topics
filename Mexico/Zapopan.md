@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-04-03 07:17:14 UTC`
+📆 Last Updated: `2023-04-03 08:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [#MANIAC_ENCORE](http://twitter.com/search?q=%23MANIAC_ENCORE) | N/A |
-| 3 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 4 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 5 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 6 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 7 | [#AleGobernadora](http://twitter.com/search?q=%23AleGobernadora) | N/A |
-| 8 | [#QuiénEnEliminación](http://twitter.com/search?q=%23Qui%c3%a9nEnEliminaci%c3%b3n) | N/A |
-| 9 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 10 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 11 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 12 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 13 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 14 | [Gil Alcalá](http://twitter.com/search?q=Gil+Alcal%c3%a1) | N/A |
-| 15 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 16 | [Alison](http://twitter.com/search?q=Alison) | N/A |
-| 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 18 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 19 | [Tzasna](http://twitter.com/search?q=Tzasna) | N/A |
-| 20 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 21 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 22 | [Gloria Gaynor](http://twitter.com/search?q=Gloria+Gaynor) | N/A |
-| 23 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 24 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
-| 25 | [Jefe Tribal](http://twitter.com/search?q=Jefe+Tribal) | N/A |
-| 26 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
-| 27 | [Danna](http://twitter.com/search?q=Danna) | N/A |
-| 28 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 29 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
-| 30 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 31 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 32 | [Corregidora](http://twitter.com/search?q=Corregidora) | N/A |
-| 33 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 34 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 35 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 36 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
-| 37 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 39 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
-| 40 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 41 | [Padilla](http://twitter.com/search?q=Padilla) | N/A |
-| 42 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 43 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 44 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 45 | [Julieta Venegas](http://twitter.com/search?q=Julieta+Venegas) | N/A |
-| 46 | [Guadiana](http://twitter.com/search?q=Guadiana) | N/A |
-| 47 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 48 | [#UnirEsResolver](http://twitter.com/search?q=%23UnirEsResolver) | N/A |
-| 49 | [#AleDelMoral](http://twitter.com/search?q=%23AleDelMoral) | N/A |
-| 50 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
+| 4 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
+| 5 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 6 | [#MANIAC_ENCORE](http://twitter.com/search?q=%23MANIAC_ENCORE) | N/A |
+| 7 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 8 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 9 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 10 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 12 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 13 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 14 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
+| 15 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 16 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 17 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 18 | [Gil Alcalá](http://twitter.com/search?q=Gil+Alcal%c3%a1) | N/A |
+| 19 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
+| 20 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 21 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 22 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 23 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 24 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
+| 25 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
+| 26 | [BIGGEST QSMP EVENT TOMORROW](http://twitter.com/search?q=BIGGEST+QSMP+EVENT+TOMORROW) | N/A |
+| 27 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 28 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 29 | [Larcamon](http://twitter.com/search?q=Larcamon) | N/A |
+| 30 | [THANKS CD9](http://twitter.com/search?q=THANKS+CD9) | N/A |
+| 31 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 32 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 33 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 34 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 35 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 36 | [Taddei](http://twitter.com/search?q=Taddei) | N/A |
+| 37 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 38 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 39 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 40 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 41 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 43 | [STAR LOST](http://twitter.com/search?q=STAR+LOST) | N/A |
+| 44 | [Tzasna](http://twitter.com/search?q=Tzasna) | N/A |
+| 45 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 46 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 47 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
+| 48 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
+| 49 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 50 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 
 
 

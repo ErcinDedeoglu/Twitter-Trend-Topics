@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-03 07:17:27 UTC`
+📆 Last Updated: `2023-04-03 08:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#spafey](http://twitter.com/search?q=%23spafey) | N/A |
-| 5 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 2 | [#spafey](http://twitter.com/search?q=%23spafey) | N/A |
+| 3 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 6 | [#bruggen](http://twitter.com/search?q=%23bruggen) | N/A |
-| 7 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 8 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 9 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 10 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 11 | [RIVM](http://twitter.com/search?q=RIVM) | N/A |
-| 12 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 7 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 8 | [#FORgro](http://twitter.com/search?q=%23FORgro) | N/A |
+| 9 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 10 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 11 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
+| 12 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
 | 13 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 14 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 15 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 14 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 15 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 | 16 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 17 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 20 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 22 | [GO AHEAD](http://twitter.com/search?q=GO+AHEAD) | N/A |
-| 23 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 24 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
-| 25 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 26 | [koers](http://twitter.com/search?q=koers) | N/A |
-| 27 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
-| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 29 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 30 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
-| 31 | [Van Der Poel](http://twitter.com/search?q=Van+Der+Poel) | N/A |
-| 32 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 33 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
-| 36 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 37 | [Pietje](http://twitter.com/search?q=Pietje) | N/A |
-| 38 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 39 | [de var](http://twitter.com/search?q=de+var) | N/A |
-| 40 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 41 | [vriends](http://twitter.com/search?q=vriends) | N/A |
-| 42 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 43 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
-| 44 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 45 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
-| 46 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 48 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 49 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 50 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
+| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 18 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 19 | [Dales](http://twitter.com/search?q=Dales) | N/A |
+| 20 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 21 | [koers](http://twitter.com/search?q=koers) | N/A |
+| 22 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
+| 23 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 25 | [Van Der Poel](http://twitter.com/search?q=Van+Der+Poel) | N/A |
+| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 27 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 28 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 29 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 30 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
+| 31 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [de var](http://twitter.com/search?q=de+var) | N/A |
+| 34 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 35 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 36 | [vriends](http://twitter.com/search?q=vriends) | N/A |
+| 37 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 38 | [Marin](http://twitter.com/search?q=Marin) | N/A |
+| 39 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 40 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 41 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
+| 42 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 43 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
+| 44 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 45 | [MvdP](http://twitter.com/search?q=MvdP) | N/A |
+| 46 | [Honderden](http://twitter.com/search?q=Honderden) | N/A |
+| 47 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 48 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 49 | [Jahan](http://twitter.com/search?q=Jahan) | N/A |
+| 50 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
 
 
 

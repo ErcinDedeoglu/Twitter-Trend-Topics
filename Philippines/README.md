@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-03 07:18:17 UTC`
+📆 Last Updated: `2023-04-03 08:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 2 | [#FreenBeckyOurAlways](http://twitter.com/search?q=%23FreenBeckyOurAlways) | N/A |
-| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [UNITED FOR FREENBECKY](http://twitter.com/search?q=UNITED+FOR+FREENBECKY) | N/A |
-| 5 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
-| 6 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
-| 7 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
-| 8 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 9 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
-| 10 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
-| 11 | [JOSH CULLEN Be The Bida](http://twitter.com/search?q=JOSH+CULLEN+Be+The+Bida) | N/A |
-| 12 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
-| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 14 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
-| 15 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
-| 16 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 17 | [RAGNAROKPressCon withMNL48](http://twitter.com/search?q=RAGNAROKPressCon+withMNL48) | N/A |
-| 18 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
-| 19 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 20 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
-| 21 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
-| 22 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
-| 23 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 24 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 25 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
-| 26 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 28 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 29 | [NADINE FOR TATLERPH](http://twitter.com/search?q=NADINE+FOR+TATLERPH) | N/A |
-| 30 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
-| 31 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
-| 32 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
-| 33 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 34 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 35 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 36 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 37 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 38 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 39 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 40 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
-| 41 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 42 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 43 | [Pasay City](http://twitter.com/search?q=Pasay+City) | N/A |
-| 44 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 45 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
-| 46 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 47 | [Marvin Miranda](http://twitter.com/search?q=Marvin+Miranda) | N/A |
-| 48 | [April Shower](http://twitter.com/search?q=April+Shower) | N/A |
-| 49 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 50 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [#FreenBeckyOurAlways](http://twitter.com/search?q=%23FreenBeckyOurAlways) | N/A |
+| 4 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
+| 5 | [JOSH CULLEN Be The Bida](http://twitter.com/search?q=JOSH+CULLEN+Be+The+Bida) | N/A |
+| 6 | [#MLBBALLSTAR](http://twitter.com/search?q=%23MLBBALLSTAR) | N/A |
+| 7 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 8 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 9 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
+| 10 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
+| 11 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 12 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
+| 13 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
+| 14 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 15 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
+| 16 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
+| 17 | [NCT DREAM IS 7DREAM](http://twitter.com/search?q=NCT+DREAM+IS+7DREAM) | N/A |
+| 18 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
+| 19 | [RAGNAROKPressCon withMNL48](http://twitter.com/search?q=RAGNAROKPressCon+withMNL48) | N/A |
+| 20 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
+| 21 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 22 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
+| 23 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 24 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
+| 25 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
+| 26 | [NADINE FOR TATLERPH](http://twitter.com/search?q=NADINE+FOR+TATLERPH) | N/A |
+| 27 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 28 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
+| 29 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 30 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 31 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 32 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 33 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 34 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 35 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
+| 36 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 37 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 38 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 39 | [Pasay City](http://twitter.com/search?q=Pasay+City) | N/A |
+| 40 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
+| 41 | [April Shower](http://twitter.com/search?q=April+Shower) | N/A |
+| 42 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 43 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 44 | [Argus](http://twitter.com/search?q=Argus) | N/A |
+| 45 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 46 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 47 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 48 | [Nemenzo](http://twitter.com/search?q=Nemenzo) | N/A |
+| 49 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 50 | [Degamo](http://twitter.com/search?q=Degamo) | N/A |
 
 
 

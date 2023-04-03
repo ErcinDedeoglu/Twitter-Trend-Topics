@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-03 07:17:17 UTC`
+📆 Last Updated: `2023-04-03 08:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,36 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 5 | [#FicaLarissa](http://twitter.com/search?q=%23FicaLarissa) | N/A |
 | 6 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 7 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 8 | [O VOTO É PRA FICAR](http://twitter.com/search?q=O+VOTO+%c3%89+PRA+FICAR) | N/A |
-| 9 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 10 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 11 | [Vota](http://twitter.com/search?q=Vota) | N/A |
+| 7 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 9 | [O VOTO É PRA FICAR](http://twitter.com/search?q=O+VOTO+%c3%89+PRA+FICAR) | N/A |
+| 10 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 11 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
 | 12 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 13 | [Votem](http://twitter.com/search?q=Votem) | N/A |
-| 14 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
-| 15 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 13 | [Vota](http://twitter.com/search?q=Vota) | N/A |
+| 14 | [Votem](http://twitter.com/search?q=Votem) | N/A |
+| 15 | [#voltamister](http://twitter.com/search?q=%23voltamister) | N/A |
 | 16 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
-| 17 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
-| 18 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 19 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 17 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 18 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 19 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
 | 20 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 21 | [NÃO DIVIDAM VOTOS](http://twitter.com/search?q=N%c3%83O+DIVIDAM+VOTOS) | N/A |
-| 22 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 21 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 22 | [NÃO DIVIDAM VOTOS](http://twitter.com/search?q=N%c3%83O+DIVIDAM+VOTOS) | N/A |
 | 23 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
 | 24 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 25 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 26 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 27 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 28 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 29 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
-| 30 | [Kubrick](http://twitter.com/search?q=Kubrick) | N/A |
-| 31 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 32 | [Raissa](http://twitter.com/search?q=Raissa) | N/A |
-| 33 | [Luedji](http://twitter.com/search?q=Luedji) | N/A |
-| 34 | [Bibi Perigosa](http://twitter.com/search?q=Bibi+Perigosa) | N/A |
-| 35 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
-| 36 | [Estratégia](http://twitter.com/search?q=Estrat%c3%a9gia) | N/A |
-| 37 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 38 | [SALVAR](http://twitter.com/search?q=SALVAR) | N/A |
-| 39 | [Lidi](http://twitter.com/search?q=Lidi) | N/A |
-| 40 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 41 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 42 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 43 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 44 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 45 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 47 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 48 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
-| 49 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 50 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 25 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 27 | [Raissa](http://twitter.com/search?q=Raissa) | N/A |
+| 28 | [Estratégia](http://twitter.com/search?q=Estrat%c3%a9gia) | N/A |
+| 29 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 30 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 31 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 32 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 33 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 34 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
+| 35 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 36 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
 
 
 
