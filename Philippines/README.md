@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-03 04:20:10 UTC`
+📆 Last Updated: `2023-04-03 05:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 3 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
+| 2 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 4 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
 | 5 | [#JonaxxGYWKab22](http://twitter.com/search?q=%23JonaxxGYWKab22) | N/A |
-| 6 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 7 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 8 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
-| 9 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 10 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
+| 6 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 7 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
+| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 9 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 10 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
 | 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 12 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 14 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
-| 15 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 16 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
-| 17 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 18 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 19 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
-| 20 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 22 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 23 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
-| 24 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
-| 25 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 26 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
-| 27 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
-| 28 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 29 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [Miel](http://twitter.com/search?q=Miel) | N/A |
-| 32 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
-| 33 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 34 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 35 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
-| 36 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
-| 37 | [Mondays for Josh](http://twitter.com/search?q=Mondays+for+Josh) | N/A |
-| 38 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
-| 39 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
-| 40 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
-| 41 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
-| 42 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 43 | [canino](http://twitter.com/search?q=canino) | N/A |
-| 44 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 12 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 13 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
+| 14 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 15 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
+| 18 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
+| 19 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 20 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 21 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
+| 22 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 23 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
+| 24 | [I DON'T UNDERSTAND BUT I LUV U](http://twitter.com/search?q=I+DON%27T+UNDERSTAND+BUT+I+LUV+U) | N/A |
+| 25 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
+| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 27 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
+| 28 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 29 | [Marvin Miranda](http://twitter.com/search?q=Marvin+Miranda) | N/A |
+| 30 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 31 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 33 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
+| 34 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
+| 35 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
+| 36 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
+| 37 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 38 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 39 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 40 | [canino](http://twitter.com/search?q=canino) | N/A |
+| 41 | [PAUCAM MONDAY](http://twitter.com/search?q=PAUCAM+MONDAY) | N/A |
+| 42 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 43 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
+| 44 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
 | 45 | [Jaehyuk](http://twitter.com/search?q=Jaehyuk) | N/A |
-| 46 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
-| 47 | [Weverse Ver](http://twitter.com/search?q=Weverse+Ver) | N/A |
+| 46 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 47 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
 | 48 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 49 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 50 | [karina at mana awards](http://twitter.com/search?q=karina+at+mana+awards) | N/A |
+| 49 | [karina at mana awards](http://twitter.com/search?q=karina+at+mana+awards) | N/A |
+| 50 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
 
 
 

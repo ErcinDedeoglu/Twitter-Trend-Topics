@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-03 04:19:35 UTC`
+📆 Last Updated: `2023-04-03 05:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
 | 2 | [#spaFEY](http://twitter.com/search?q=%23spaFEY) | N/A |
 | 3 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
-| 4 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
-| 5 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 6 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 7 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 9 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
-| 10 | [higler](http://twitter.com/search?q=higler) | N/A |
+| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 5 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
+| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 7 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 8 | [kudus](http://twitter.com/search?q=kudus) | N/A |
+| 9 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 10 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
 | 11 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 12 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 13 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
-| 14 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 15 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 16 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 17 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 20 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 21 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [koers](http://twitter.com/search?q=koers) | N/A |
-| 24 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 25 | [Van Der Poel](http://twitter.com/search?q=Van+Der+Poel) | N/A |
-| 26 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 27 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 30 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 31 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
-| 32 | [kowet](http://twitter.com/search?q=kowet) | N/A |
-| 33 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 34 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
-| 35 | [coolsingel](http://twitter.com/search?q=coolsingel) | N/A |
-| 36 | [vriends](http://twitter.com/search?q=vriends) | N/A |
-| 37 | [palmpasen](http://twitter.com/search?q=palmpasen) | N/A |
-| 38 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 39 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
-| 40 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
-| 41 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 42 | [oratmangoen](http://twitter.com/search?q=oratmangoen) | N/A |
-| 43 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 44 | [oude kwaremont](http://twitter.com/search?q=oude+kwaremont) | N/A |
-| 45 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 12 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 13 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 14 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 15 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 16 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 17 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 18 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 19 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 20 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 21 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 22 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [koers](http://twitter.com/search?q=koers) | N/A |
+| 25 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
+| 26 | [Van Der Poel](http://twitter.com/search?q=Van+Der+Poel) | N/A |
+| 27 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
+| 31 | [kowet](http://twitter.com/search?q=kowet) | N/A |
+| 32 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 33 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
+| 34 | [vriends](http://twitter.com/search?q=vriends) | N/A |
+| 35 | [palmpasen](http://twitter.com/search?q=palmpasen) | N/A |
+| 36 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 37 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
+| 38 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 39 | [oratmangoen](http://twitter.com/search?q=oratmangoen) | N/A |
+| 40 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 41 | [oude kwaremont](http://twitter.com/search?q=oude+kwaremont) | N/A |
+| 42 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 43 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 44 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 45 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
 | 46 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
 | 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
 | 48 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [schreuder](http://twitter.com/search?q=schreuder) | N/A |
+| 49 | [schreuder](http://twitter.com/search?q=schreuder) | N/A |
+| 50 | [hugo borst](http://twitter.com/search?q=hugo+borst) | N/A |
 
 
 

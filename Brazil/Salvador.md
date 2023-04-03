@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-04-03 04:19:28 UTC`
+📆 Last Updated: `2023-04-03 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 2 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
-| 3 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 4 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 5 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
-| 6 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
-| 7 | [#FicaLarissa](http://twitter.com/search?q=%23FicaLarissa) | N/A |
-| 8 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 9 | [Amanda e Larissa](http://twitter.com/search?q=Amanda+e+Larissa) | N/A |
-| 10 | [Amanda e Larissa](http://twitter.com/search?q=Amanda+e+Larissa) | N/A |
-| 11 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 13 | [O VOTO É PRA FICAR](http://twitter.com/search?q=O+VOTO+%c3%89+PRA+FICAR) | N/A |
-| 14 | [#paredaobbb](http://twitter.com/search?q=%23paredaobbb) | N/A |
-| 15 | [Vota](http://twitter.com/search?q=Vota) | N/A |
+| 1 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
+| 2 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 3 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 4 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 5 | [#FicaLarissa](http://twitter.com/search?q=%23FicaLarissa) | N/A |
+| 6 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 7 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 8 | [O VOTO É PRA FICAR](http://twitter.com/search?q=O+VOTO+%c3%89+PRA+FICAR) | N/A |
+| 9 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 11 | [#VivaSalvadorNaGlobo](http://twitter.com/search?q=%23VivaSalvadorNaGlobo) | N/A |
+| 12 | [Vota](http://twitter.com/search?q=Vota) | N/A |
+| 13 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
+| 14 | [Votem](http://twitter.com/search?q=Votem) | N/A |
+| 15 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
 | 16 | [Fred e Domitila](http://twitter.com/search?q=Fred+e+Domitila) | N/A |
 | 17 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 18 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 19 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 20 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
-| 21 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 22 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 23 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 18 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 19 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 20 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 22 | [NÃO DIVIDAM VOTOS](http://twitter.com/search?q=N%c3%83O+DIVIDAM+VOTOS) | N/A |
+| 23 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
 | 24 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
 | 25 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 26 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 26 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
 | 27 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 28 | [NÃO DIVIDAM VOTOS](http://twitter.com/search?q=N%c3%83O+DIVIDAM+VOTOS) | N/A |
-| 29 | [Bibi Perigosa](http://twitter.com/search?q=Bibi+Perigosa) | N/A |
-| 30 | [Estratégia](http://twitter.com/search?q=Estrat%c3%a9gia) | N/A |
-| 31 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
-| 32 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
-| 33 | [Quem FICA](http://twitter.com/search?q=Quem+FICA) | N/A |
-| 34 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 28 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 29 | [Estratégia](http://twitter.com/search?q=Estrat%c3%a9gia) | N/A |
+| 30 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 31 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
+| 32 | [Bibi Perigosa](http://twitter.com/search?q=Bibi+Perigosa) | N/A |
+| 33 | [Raissa](http://twitter.com/search?q=Raissa) | N/A |
+| 34 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
 | 35 | [Luedji](http://twitter.com/search?q=Luedji) | N/A |
-| 36 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 37 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 38 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 39 | [Raissa](http://twitter.com/search?q=Raissa) | N/A |
-| 40 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 41 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 42 | [SALVAR](http://twitter.com/search?q=SALVAR) | N/A |
-| 43 | [Pq a Amanda](http://twitter.com/search?q=Pq+a+Amanda) | N/A |
-| 44 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
-| 45 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
-| 46 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 47 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 48 | [#VivaSalvadorNaGlobo](http://twitter.com/search?q=%23VivaSalvadorNaGlobo) | N/A |
-| 49 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 50 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
+| 36 | [Quem FICA](http://twitter.com/search?q=Quem+FICA) | N/A |
+| 37 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
+| 38 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
+| 39 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 40 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 41 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 42 | [Kubrick](http://twitter.com/search?q=Kubrick) | N/A |
+| 43 | [Lidi](http://twitter.com/search?q=Lidi) | N/A |
+| 44 | [SALVAR](http://twitter.com/search?q=SALVAR) | N/A |
+| 45 | [Clube da Luta](http://twitter.com/search?q=Clube+da+Luta) | N/A |
+| 46 | [Larrisa](http://twitter.com/search?q=Larrisa) | N/A |
+| 47 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 48 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 49 | [#paredaobbb](http://twitter.com/search?q=%23paredaobbb) | N/A |
+| 50 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
 
 
 

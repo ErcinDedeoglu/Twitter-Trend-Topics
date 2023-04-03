@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-03 04:20:08 UTC`
+📆 Last Updated: `2023-04-03 05:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -62,9 +62,9 @@ This is top 50 for Kuwait
 | 45 | [غراهام بوتر](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
 | 46 | [يوسف الفضاله](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%84%d9%87) | N/A |
 | 47 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 48 | [بدر الحميدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af%d9%8a) | N/A |
-| 49 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 50 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 48 | [مشعل الأحمد](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%af) | N/A |
+| 49 | [بدر الحميدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af%d9%8a) | N/A |
+| 50 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-03 04:20:02 UTC`
+📆 Last Updated: `2023-04-03 05:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 2 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
-| 3 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 4 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 5 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 6 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 7 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 8 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 9 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 10 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 11 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 12 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 13 | [Mulkey](http://twitter.com/search?q=Mulkey) | N/A |
-| 14 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 16 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 19 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 20 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [#DreamvilleFest](http://twitter.com/search?q=%23DreamvilleFest) | N/A |
-| 23 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 24 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
-| 25 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 26 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 27 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 28 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 29 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 30 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 31 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 32 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 33 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
-| 34 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 35 | [#CMTAwards2023](http://twitter.com/search?q=%23CMTAwards2023) | N/A |
-| 36 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 37 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 38 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
-| 39 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 40 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 41 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 42 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 43 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 44 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 45 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 46 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 47 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 48 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 49 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 50 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 3 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 4 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 5 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 6 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 7 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 10 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 13 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 14 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 15 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 16 | [#DreamvilleFest](http://twitter.com/search?q=%23DreamvilleFest) | N/A |
+| 17 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 18 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
+| 19 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 20 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 21 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 22 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 23 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 24 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 25 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
+| 26 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 27 | [#SuccesionHBO](http://twitter.com/search?q=%23SuccesionHBO) | N/A |
+| 28 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 29 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 30 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 31 | [#CMTAwards2023](http://twitter.com/search?q=%23CMTAwards2023) | N/A |
+| 32 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 33 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 34 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
+| 35 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
+| 36 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
+| 37 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 38 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 39 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 40 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 41 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 42 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 43 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 44 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 45 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 46 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 47 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 48 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 49 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 50 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
 
 
 
