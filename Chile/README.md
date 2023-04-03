@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-03 14:17:53 UTC`
+📆 Last Updated: `2023-04-03 15:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
-| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 3 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 4 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
-| 5 | [#VuelveAutopiZtaPM](http://twitter.com/search?q=%23VuelveAutopiZtaPM) | N/A |
+| 2 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [#BuenosDiasTVN](http://twitter.com/search?q=%23BuenosDiasTVN) | N/A |
+| 5 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
 | 6 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
 | 7 | [Karina Oliva](http://twitter.com/search?q=Karina+Oliva) | N/A |
 | 8 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
 | 9 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
 | 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 11 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
-| 12 | [Memorial](http://twitter.com/search?q=Memorial) | N/A |
-| 13 | [gatillo](http://twitter.com/search?q=gatillo) | N/A |
-| 14 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 15 | [Daniel Nuñez](http://twitter.com/search?q=Daniel+Nu%c3%b1ez) | N/A |
-| 16 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 17 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
-| 20 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 21 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 11 | [Nuñez](http://twitter.com/search?q=Nu%c3%b1ez) | N/A |
+| 12 | [Metro Baquedano](http://twitter.com/search?q=Metro+Baquedano) | N/A |
+| 13 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 14 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [Jaime Guzmán](http://twitter.com/search?q=Jaime+Guzm%c3%a1n) | N/A |
+| 17 | [imacec](http://twitter.com/search?q=imacec) | N/A |
+| 18 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 19 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 20 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 21 | [Memorial](http://twitter.com/search?q=Memorial) | N/A |
 | 22 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 23 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 26 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 27 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
-| 28 | [Narea](http://twitter.com/search?q=Narea) | N/A |
-| 29 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 31 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 32 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 33 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 23 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 24 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 27 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 29 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 30 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 31 | [Narea](http://twitter.com/search?q=Narea) | N/A |
+| 32 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 33 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
 | 34 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
 | 35 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 36 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 37 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 38 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 39 | [buen domingo](http://twitter.com/search?q=buen+domingo) | N/A |
-| 40 | [Demócrata](http://twitter.com/search?q=Dem%c3%b3crata) | N/A |
-| 41 | [Comunes](http://twitter.com/search?q=Comunes) | N/A |
-| 42 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 43 | [MANIAC TOUR](http://twitter.com/search?q=MANIAC+TOUR) | N/A |
-| 44 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 45 | [Mónica Rincón](http://twitter.com/search?q=M%c3%b3nica+Rinc%c3%b3n) | N/A |
-| 46 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
-| 47 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 48 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 36 | [Max Raide](http://twitter.com/search?q=Max+Raide) | N/A |
+| 37 | [Mónica Rincón](http://twitter.com/search?q=M%c3%b3nica+Rinc%c3%b3n) | N/A |
+| 38 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 39 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
+| 40 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 41 | [Demócrata](http://twitter.com/search?q=Dem%c3%b3crata) | N/A |
+| 42 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
+| 43 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 44 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
+| 45 | [Comunes](http://twitter.com/search?q=Comunes) | N/A |
+| 46 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 47 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 48 | [PAPEL](http://twitter.com/search?q=PAPEL) | N/A |
 | 49 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 50 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 50 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-03 14:17:26 UTC`
+📆 Last Updated: `2023-04-03 15:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 2 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 4 | [Greg Mirabella](http://twitter.com/search?q=Greg+Mirabella) | N/A |
-| 5 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 5 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
 | 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 7 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
-| 8 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 9 | [#nrlsharkswarriors](http://twitter.com/search?q=%23nrlsharkswarriors) | N/A |
-| 10 | [Amanda Rishworth](http://twitter.com/search?q=Amanda+Rishworth) | N/A |
-| 11 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
-| 12 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 13 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 14 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 7 | [#nrlsharkswarriors](http://twitter.com/search?q=%23nrlsharkswarriors) | N/A |
+| 8 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
+| 9 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [Amanda Rishworth](http://twitter.com/search?q=Amanda+Rishworth) | N/A |
+| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 13 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 14 | [Greg Mirabella](http://twitter.com/search?q=Greg+Mirabella) | N/A |
 | 15 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 16 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 17 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 18 | [deni](http://twitter.com/search?q=deni) | N/A |
-| 19 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
-| 20 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 21 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 22 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 17 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
+| 18 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 19 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
+| 20 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 21 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 24 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 25 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 26 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 27 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 28 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 30 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
-| 31 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 33 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 34 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 35 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 36 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 37 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 38 | [bridget archer](http://twitter.com/search?q=bridget+archer) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 41 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 42 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 43 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 44 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 45 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
-| 46 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
-| 47 | [yolngu](http://twitter.com/search?q=yolngu) | N/A |
-| 48 | [senator rennick](http://twitter.com/search?q=senator+rennick) | N/A |
-| 49 | [Pascoe](http://twitter.com/search?q=Pascoe) | N/A |
-| 50 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
+| 25 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
+| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 31 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 32 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 33 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 34 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 35 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 36 | [bridget archer](http://twitter.com/search?q=bridget+archer) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 39 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 40 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 41 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 42 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 43 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
+| 44 | [yolngu](http://twitter.com/search?q=yolngu) | N/A |
+| 45 | [senator rennick](http://twitter.com/search?q=senator+rennick) | N/A |
+| 46 | [Pascoe](http://twitter.com/search?q=Pascoe) | N/A |
+| 47 | [phil coorey](http://twitter.com/search?q=phil+coorey) | N/A |
+| 48 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 49 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 50 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
 
 
 

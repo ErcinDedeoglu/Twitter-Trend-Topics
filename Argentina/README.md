@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-03 14:17:52 UTC`
+📆 Last Updated: `2023-04-03 15:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 2 | [#2DeAbril](http://twitter.com/search?q=%232DeAbril) | N/A |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
-| 5 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
-| 6 | [MARCOS EN BIRI BIRI](http://twitter.com/search?q=MARCOS+EN+BIRI+BIRI) | N/A |
-| 7 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 8 | [Día del Veterano](http://twitter.com/search?q=D%c3%ada+del+Veterano) | N/A |
-| 9 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 10 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 11 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 12 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 13 | [#AntesQueNadie](http://twitter.com/search?q=%23AntesQueNadie) | N/A |
+| 1 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 2 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 3 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 4 | [MARCOS EN BIRI BIRI](http://twitter.com/search?q=MARCOS+EN+BIRI+BIRI) | N/A |
+| 5 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 6 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 7 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 8 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
+| 9 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
+| 10 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
+| 11 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 12 | [General Paz](http://twitter.com/search?q=General+Paz) | N/A |
+| 13 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
 | 14 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
-| 15 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 16 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 17 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
-| 18 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
-| 19 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
-| 20 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 21 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 22 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 23 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
-| 24 | [Garro](http://twitter.com/search?q=Garro) | N/A |
-| 25 | [CELESTE CID](http://twitter.com/search?q=CELESTE+CID) | N/A |
-| 26 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 27 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 30 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 31 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 32 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 33 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 34 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 35 | [EL PRIMO EN TWITCH](http://twitter.com/search?q=EL+PRIMO+EN+TWITCH) | N/A |
-| 36 | [MANIAC TOUR](http://twitter.com/search?q=MANIAC+TOUR) | N/A |
-| 37 | [Marita Verón](http://twitter.com/search?q=Marita+Ver%c3%b3n) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 39 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 40 | [valentina zenere](http://twitter.com/search?q=valentina+zenere) | N/A |
-| 41 | [Hoy 2](http://twitter.com/search?q=Hoy+2) | N/A |
-| 42 | [Galtieri](http://twitter.com/search?q=Galtieri) | N/A |
-| 43 | [Estoril](http://twitter.com/search?q=Estoril) | N/A |
-| 44 | [Taehyun](http://twitter.com/search?q=Taehyun) | N/A |
-| 45 | [Marchiori](http://twitter.com/search?q=Marchiori) | N/A |
-| 46 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 47 | [Método](http://twitter.com/search?q=M%c3%a9todo) | N/A |
-| 48 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
-| 49 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 50 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 15 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 16 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
+| 17 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
+| 18 | [Lomas del Mirador](http://twitter.com/search?q=Lomas+del+Mirador) | N/A |
+| 19 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
+| 20 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 21 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 22 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 27 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 28 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 29 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Alberdi](http://twitter.com/search?q=Alberdi) | N/A |
+| 33 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 34 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 35 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
+| 36 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
+| 37 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 38 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 39 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 40 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 41 | [Celeste Cid](http://twitter.com/search?q=Celeste+Cid) | N/A |
+| 42 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 43 | [#Inseguridad](http://twitter.com/search?q=%23Inseguridad) | N/A |
+| 44 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 45 | [#Paro](http://twitter.com/search?q=%23Paro) | N/A |
+| 46 | [#Basta](http://twitter.com/search?q=%23Basta) | N/A |
+| 47 | [#118DeBoca](http://twitter.com/search?q=%23118DeBoca) | N/A |
+| 48 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
+| 49 | [#antesquenadie](http://twitter.com/search?q=%23antesquenadie) | N/A |
+| 50 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-04-03 14:17:16 UTC`
+📆 Last Updated: `2023-04-03 15:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#SemanaMayorEnFamilia](http://twitter.com/search?q=%23SemanaMayorEnFamilia) | N/A |
 | 4 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
 | 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 7 | [Copei](http://twitter.com/search?q=Copei) | N/A |
+| 6 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 7 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
 | 8 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 9 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
-| 10 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
-| 11 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 12 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
-| 13 | [Municipio Sucre](http://twitter.com/search?q=Municipio+Sucre) | N/A |
-| 14 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 16 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 17 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 18 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
-| 19 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 20 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 21 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 22 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 23 | [Tinoquitos](http://twitter.com/search?q=Tinoquitos) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [josé antonio páez](http://twitter.com/search?q=jos%c3%a9+antonio+p%c3%a1ez) | N/A |
-| 26 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 27 | [Marineros de Seattle](http://twitter.com/search?q=Marineros+de+Seattle) | N/A |
+| 9 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 10 | [Copei](http://twitter.com/search?q=Copei) | N/A |
+| 11 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
+| 12 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 13 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 14 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
+| 15 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
+| 16 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 17 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 18 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 21 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
+| 22 | [Tinoquitos](http://twitter.com/search?q=Tinoquitos) | N/A |
+| 23 | [Marineros de Seattle](http://twitter.com/search?q=Marineros+de+Seattle) | N/A |
+| 24 | [Sucre](http://twitter.com/search?q=Sucre) | N/A |
+| 25 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Ley Seca](http://twitter.com/search?q=Ley+Seca) | N/A |
 | 28 | [Kenny Rogers](http://twitter.com/search?q=Kenny+Rogers) | N/A |
-| 29 | [Ley Seca](http://twitter.com/search?q=Ley+Seca) | N/A |
-| 30 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 31 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 32 | [Santa Gloria](http://twitter.com/search?q=Santa+Gloria) | N/A |
-| 33 | [Calipso](http://twitter.com/search?q=Calipso) | N/A |
-| 34 | [Miss Indiana](http://twitter.com/search?q=Miss+Indiana) | N/A |
-| 35 | [César González](http://twitter.com/search?q=C%c3%a9sar+Gonz%c3%a1lez) | N/A |
-| 36 | [Omar Vizquel](http://twitter.com/search?q=Omar+Vizquel) | N/A |
-| 37 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
-| 38 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 39 | [Arturo Michelena](http://twitter.com/search?q=Arturo+Michelena) | N/A |
-| 40 | [Mesías](http://twitter.com/search?q=Mes%c3%adas) | N/A |
-| 41 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
-| 42 | [Preso](http://twitter.com/search?q=Preso) | N/A |
-| 43 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 44 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 45 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 46 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 47 | [queseras del medio](http://twitter.com/search?q=queseras+del+medio) | N/A |
-| 48 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 29 | [Calipso](http://twitter.com/search?q=Calipso) | N/A |
+| 30 | [santa gloria](http://twitter.com/search?q=santa+gloria) | N/A |
+| 31 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
+| 32 | [César González](http://twitter.com/search?q=C%c3%a9sar+Gonz%c3%a1lez) | N/A |
+| 33 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 34 | [Preso](http://twitter.com/search?q=Preso) | N/A |
+| 35 | [Omar Vizquel](http://twitter.com/search?q=Omar+Vizquel) | N/A |
+| 36 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 37 | [Arturo Michelena](http://twitter.com/search?q=Arturo+Michelena) | N/A |
+| 38 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 39 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 40 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 41 | [Víctor Rago](http://twitter.com/search?q=V%c3%adctor+Rago) | N/A |
+| 42 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 43 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 44 | [Lupita Ferrer](http://twitter.com/search?q=Lupita+Ferrer) | N/A |
+| 45 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 46 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 47 | [El Melange](http://twitter.com/search?q=El+Melange) | N/A |
+| 48 | [José Antonio Páez](http://twitter.com/search?q=Jos%c3%a9+Antonio+P%c3%a1ez) | N/A |
 
 
 

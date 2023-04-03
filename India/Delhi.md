@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-03 14:17:52 UTC`
+📆 Last Updated: `2023-04-03 15:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 2 | [#CSKvLSG](http://twitter.com/search?q=%23CSKvLSG) | N/A |
-| 3 | [#IndianMuslimsUnderAttack](http://twitter.com/search?q=%23IndianMuslimsUnderAttack) | N/A |
-| 4 | [#WWWShaktiAwards](http://twitter.com/search?q=%23WWWShaktiAwards) | N/A |
-| 5 | [#DhoniSeNahiMangneChahiyeThe](http://twitter.com/search?q=%23DhoniSeNahiMangneChahiyeThe) | N/A |
-| 6 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
-| 7 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
-| 8 | [#Yentamma](http://twitter.com/search?q=%23Yentamma) | N/A |
-| 9 | [Taehyun](http://twitter.com/search?q=Taehyun) | N/A |
-| 10 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 2 | [#CSKvsLSG](http://twitter.com/search?q=%23CSKvsLSG) | N/A |
+| 3 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 4 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 5 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 6 | [#IndianMuslimsUnderAttack](http://twitter.com/search?q=%23IndianMuslimsUnderAttack) | N/A |
+| 7 | [#DhoniSeNahiMangneChahiyeThe](http://twitter.com/search?q=%23DhoniSeNahiMangneChahiyeThe) | N/A |
+| 8 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
+| 9 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
+| 10 | [#WWWShaktiAwards](http://twitter.com/search?q=%23WWWShaktiAwards) | N/A |
 | 11 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 12 | [GIVE NAYAT A CHANCE](http://twitter.com/search?q=GIVE+NAYAT+A+CHANCE) | N/A |
-| 13 | [We Women Want](http://twitter.com/search?q=We+Women+Want) | N/A |
-| 14 | [NCERT](http://twitter.com/search?q=NCERT) | N/A |
-| 15 | [नालंदा विश्वविद्यालय](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b2%e0%a4%82%e0%a4%a6%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 16 | [7Yrs Of KKK7 Winner Sidharth](http://twitter.com/search?q=7Yrs+Of+KKK7+Winner+Sidharth) | N/A |
-| 17 | [Match 6](http://twitter.com/search?q=Match+6) | N/A |
-| 18 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 19 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 20 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 21 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 22 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 23 | [Raina](http://twitter.com/search?q=Raina) | N/A |
-| 24 | [Justice4SSR Our ByomkeshBakshy](http://twitter.com/search?q=Justice4SSR+Our+ByomkeshBakshy) | N/A |
-| 25 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 26 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 27 | [जैन समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 28 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 29 | [धर्म रक्षक](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
-| 30 | [हिन्दू हृदय सम्राट](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%b9%e0%a5%83%e0%a4%a6%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f) | N/A |
-| 31 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 32 | [सैम मानेकशॉ](http://twitter.com/search?q=%e0%a4%b8%e0%a5%88%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%95%e0%a4%b6%e0%a5%89) | N/A |
-| 33 | [#प्राथमिक_शिक्षक_बहाली](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a5%e0%a4%ae%e0%a4%bf%e0%a4%95_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%b2%e0%a5%80) | N/A |
-| 34 | [#Extraction2](http://twitter.com/search?q=%23Extraction2) | N/A |
-| 35 | [#sbidown](http://twitter.com/search?q=%23sbidown) | N/A |
-| 36 | [#धन्यवाद_शिक्षामंत्री_कल्लाजी](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%be%e0%a4%a6_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
-| 37 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 38 | [#SuratCourt](http://twitter.com/search?q=%23SuratCourt) | N/A |
-| 39 | [#abrargun](http://twitter.com/search?q=%23abrargun) | N/A |
-| 40 | [#DefamationCase](http://twitter.com/search?q=%23DefamationCase) | N/A |
-| 41 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 42 | [#GEFIGHTING](http://twitter.com/search?q=%23GEFIGHTING) | N/A |
-| 43 | [#SidhuMooseWala](http://twitter.com/search?q=%23SidhuMooseWala) | N/A |
-| 44 | [#Desamuduru4KSpecialShows](http://twitter.com/search?q=%23Desamuduru4KSpecialShows) | N/A |
-| 45 | [#NaxalFreeIndia](http://twitter.com/search?q=%23NaxalFreeIndia) | N/A |
-| 46 | [#AwesomeIsForEveryone](http://twitter.com/search?q=%23AwesomeIsForEveryone) | N/A |
-| 47 | [#Citadel](http://twitter.com/search?q=%23Citadel) | N/A |
-| 48 | [#BabyTheMovie](http://twitter.com/search?q=%23BabyTheMovie) | N/A |
-| 49 | [#shivajimaharajpunyatithi](http://twitter.com/search?q=%23shivajimaharajpunyatithi) | N/A |
-| 50 | [#DevaRaaja](http://twitter.com/search?q=%23DevaRaaja) | N/A |
+| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 13 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
+| 14 | [Yash Thakur](http://twitter.com/search?q=Yash+Thakur) | N/A |
+| 15 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 16 | [GIVE NAYAT A CHANCE](http://twitter.com/search?q=GIVE+NAYAT+A+CHANCE) | N/A |
+| 17 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 18 | [Future of India](http://twitter.com/search?q=Future+of+India) | N/A |
+| 19 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 20 | [नालंदा विश्वविद्यालय](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b2%e0%a4%82%e0%a4%a6%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 21 | [Join the Free Club](http://twitter.com/search?q=Join+the+Free+Club) | N/A |
+| 22 | [7Yrs Of KKK7 Winner Sidharth](http://twitter.com/search?q=7Yrs+Of+KKK7+Winner+Sidharth) | N/A |
+| 23 | [Match 6](http://twitter.com/search?q=Match+6) | N/A |
+| 24 | [Powerplay](http://twitter.com/search?q=Powerplay) | N/A |
+| 25 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 26 | [Raina](http://twitter.com/search?q=Raina) | N/A |
+| 27 | [Justice4SSR Our ByomkeshBakshy](http://twitter.com/search?q=Justice4SSR+Our+ByomkeshBakshy) | N/A |
+| 28 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 29 | [महावीर जयंती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 30 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 31 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 32 | [भगवान महावीर स्वामी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80) | N/A |
+| 33 | [#Extraction2](http://twitter.com/search?q=%23Extraction2) | N/A |
+| 34 | [#Yentamma](http://twitter.com/search?q=%23Yentamma) | N/A |
+| 35 | [#AbrarGun](http://twitter.com/search?q=%23AbrarGun) | N/A |
+| 36 | [#NCERT](http://twitter.com/search?q=%23NCERT) | N/A |
+| 37 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 38 | [#प्राथमिक_शिक्षक_बहाली](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a5%e0%a4%ae%e0%a4%bf%e0%a4%95_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%b2%e0%a5%80) | N/A |
+| 39 | [#sbidown](http://twitter.com/search?q=%23sbidown) | N/A |
+| 40 | [#LeashPunjabiMusicMafia](http://twitter.com/search?q=%23LeashPunjabiMusicMafia) | N/A |
+| 41 | [#RahulbadlegaDeshkiSurat](http://twitter.com/search?q=%23RahulbadlegaDeshkiSurat) | N/A |
+| 42 | [#धन्यवाद_शिक्षामंत्री_कल्लाजी](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%be%e0%a4%a6_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
+| 43 | [#RichardMadden](http://twitter.com/search?q=%23RichardMadden) | N/A |
+| 44 | [#Citadel](http://twitter.com/search?q=%23Citadel) | N/A |
+| 45 | [#ShehnaazGill](http://twitter.com/search?q=%23ShehnaazGill) | N/A |
+| 46 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 47 | [#Anbuden](http://twitter.com/search?q=%23Anbuden) | N/A |
+| 48 | [#SidhuMooseWala](http://twitter.com/search?q=%23SidhuMooseWala) | N/A |
+| 49 | [#gefighting](http://twitter.com/search?q=%23gefighting) | N/A |
+| 50 | [#WeWomenWant](http://twitter.com/search?q=%23WeWomenWant) | N/A |
 
 
 

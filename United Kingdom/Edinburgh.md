@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-04-03 14:17:06 UTC`
+📆 Last Updated: `2023-04-03 15:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 3 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 6 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 7 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
-| 8 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 9 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 10 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 11 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 4 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 5 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
+| 6 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 9 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 10 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
+| 11 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
 | 12 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 13 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 14 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 17 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 18 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 21 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 22 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 23 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 24 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 25 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 26 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 27 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 28 | [sidemen](http://twitter.com/search?q=sidemen) | N/A |
-| 29 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 13 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 14 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 15 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 16 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 19 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
+| 20 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 23 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
+| 24 | [Entered](http://twitter.com/search?q=Entered) | N/A |
+| 25 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 26 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
+| 27 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 28 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 29 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
 | 30 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
-| 31 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 31 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
 | 32 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 33 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 34 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
-| 35 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
-| 36 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
+| 33 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
+| 34 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 35 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 36 | [Telford](http://twitter.com/search?q=Telford) | N/A |
 | 37 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 38 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 39 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 40 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 41 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 42 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
-| 43 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 44 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 45 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 47 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 48 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 49 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 50 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 38 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
+| 39 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
+| 40 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
+| 41 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
+| 42 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 43 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 44 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 45 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
+| 46 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 47 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 48 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 49 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
+| 50 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 
 
 

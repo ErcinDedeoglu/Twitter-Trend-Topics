@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-03 14:17:58 UTC`
+📆 Last Updated: `2023-04-03 15:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 3 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 2 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 3 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 4 | [sackmesser](http://twitter.com/search?q=sackmesser) | N/A |
 | 5 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 6 | [#ProtectInvestTogether](http://twitter.com/search?q=%23ProtectInvestTogether) | N/A |
-| 7 | [#ge2023](http://twitter.com/search?q=%23ge2023) | N/A |
+| 6 | [#ge2023](http://twitter.com/search?q=%23ge2023) | N/A |
+| 7 | [#ProtectInvestTogether](http://twitter.com/search?q=%23ProtectInvestTogether) | N/A |
 | 8 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 9 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 10 | [Genf](http://twitter.com/search?q=Genf) | N/A |
-| 11 | [Pierre Maudet](http://twitter.com/search?q=Pierre+Maudet) | N/A |
-| 12 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
+| 11 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 12 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
 | 13 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 14 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 15 | [Meret Schneider](http://twitter.com/search?q=Meret+Schneider) | N/A |
-| 16 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
+| 15 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
+| 16 | [maudet](http://twitter.com/search?q=maudet) | N/A |
 | 17 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 18 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
 | 19 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 21 | [Drohungen](http://twitter.com/search?q=Drohungen) | N/A |
+| 20 | [Morddrohung](http://twitter.com/search?q=Morddrohung) | N/A |
+| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 22 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 23 | [lucerne](http://twitter.com/search?q=lucerne) | N/A |
 | 24 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 25 | [5th global forum](http://twitter.com/search?q=5th+global+forum) | N/A |
-| 26 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 27 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
-| 28 | [Morddrohung](http://twitter.com/search?q=Morddrohung) | N/A |
-| 29 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 31 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 25 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 26 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 27 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 28 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 29 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 30 | [5th Global Forum](http://twitter.com/search?q=5th+Global+Forum) | N/A |
+| 31 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 32 | [wahlgang](http://twitter.com/search?q=wahlgang) | N/A |
 | 33 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
 | 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 35 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 36 | [Haar](http://twitter.com/search?q=Haar) | N/A |
+| 35 | [Haar](http://twitter.com/search?q=Haar) | N/A |
+| 36 | [Jule](http://twitter.com/search?q=Jule) | N/A |
 | 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 39 | [Jule](http://twitter.com/search?q=Jule) | N/A |
-| 40 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 41 | [Nummer](http://twitter.com/search?q=Nummer) | N/A |
-| 42 | [Finnland](http://twitter.com/search?q=Finnland) | N/A |
-| 43 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 44 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 45 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
-| 46 | [Umsetzung](http://twitter.com/search?q=Umsetzung) | N/A |
-| 47 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 48 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 49 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
-| 50 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 38 | [Gebäude](http://twitter.com/search?q=Geb%c3%a4ude) | N/A |
+| 39 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 40 | [Nummer](http://twitter.com/search?q=Nummer) | N/A |
+| 41 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 42 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 44 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 45 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 46 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
+| 47 | [April Scherz](http://twitter.com/search?q=April+Scherz) | N/A |
+| 48 | [Umsetzung](http://twitter.com/search?q=Umsetzung) | N/A |
+| 49 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 50 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 
 
 

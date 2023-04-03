@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-03 14:17:57 UTC`
+📆 Last Updated: `2023-04-03 15:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,13 +35,13 @@ This is top 50 for New Zealand
 | 18 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 | 19 | [winston peters](http://twitter.com/search?q=winston+peters) | N/A |
 | 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [Super Over](http://twitter.com/search?q=Super+Over) | N/A |
-| 22 | [curran](http://twitter.com/search?q=curran) | N/A |
-| 23 | [Damien grant](http://twitter.com/search?q=Damien+grant) | N/A |
-| 24 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 21 | [super over](http://twitter.com/search?q=super+over) | N/A |
+| 22 | [Curran](http://twitter.com/search?q=Curran) | N/A |
+| 23 | [damien grant](http://twitter.com/search?q=damien+grant) | N/A |
+| 24 | [liz gunn](http://twitter.com/search?q=liz+gunn) | N/A |
 | 25 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 26 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
-| 27 | [chippy](http://twitter.com/search?q=chippy) | N/A |
+| 26 | [Matt King](http://twitter.com/search?q=Matt+King) | N/A |
+| 27 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
 | 28 | [kiwibank](http://twitter.com/search?q=kiwibank) | N/A |
 | 29 | [#ReadNZ](http://twitter.com/search?q=%23ReadNZ) | N/A |
 | 30 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
@@ -52,8 +52,8 @@ This is top 50 for New Zealand
 | 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 36 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 37 | [wahs](http://twitter.com/search?q=wahs) | N/A |
-| 38 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 39 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 38 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 39 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
 | 40 | [Bronwyn Elsmore](http://twitter.com/search?q=Bronwyn+Elsmore) | N/A |
 | 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
@@ -62,9 +62,9 @@ This is top 50 for New Zealand
 | 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 46 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
 | 47 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 48 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 49 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
-| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 49 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 50 | [Boom](http://twitter.com/search?q=Boom) | N/A |
 
 
 

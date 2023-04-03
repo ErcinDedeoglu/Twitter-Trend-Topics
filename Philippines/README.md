@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-03 14:17:57 UTC`
+📆 Last Updated: `2023-04-03 15:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 2 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 3 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [#HOIAuditionDay](http://twitter.com/search?q=%23HOIAuditionDay) | N/A |
-| 6 | [HAPPY 15TH ZACHAMSARY](http://twitter.com/search?q=HAPPY+15TH+ZACHAMSARY) | N/A |
-| 7 | [#IveIVE1stConceptPhoto](http://twitter.com/search?q=%23IveIVE1stConceptPhoto) | N/A |
+| 1 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 2 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 3 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
+| 4 | [#4랑에_4랑을더한_혁재탄신일](http://twitter.com/search?q=%234%eb%9e%91%ec%97%90_4%eb%9e%91%ec%9d%84%eb%8d%94%ed%95%9c_%ed%98%81%ec%9e%ac%ed%83%84%ec%8b%a0%ec%9d%bc) | N/A |
+| 5 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
+| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 7 | [HAPPY 15TH ZACHAMSARY](http://twitter.com/search?q=HAPPY+15TH+ZACHAMSARY) | N/A |
 | 8 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
 | 9 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
 | 10 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 11 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
-| 12 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 13 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 14 | [WINTER FOR VOGUE KOREA](http://twitter.com/search?q=WINTER+FOR+VOGUE+KOREA) | N/A |
-| 15 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
-| 16 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
-| 17 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 18 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 19 | [nawindang ang a'tin era](http://twitter.com/search?q=nawindang+ang+a%27tin+era) | N/A |
-| 20 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 21 | [JOSH CULLEN Be The Bida](http://twitter.com/search?q=JOSH+CULLEN+Be+The+Bida) | N/A |
+| 11 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
+| 12 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
+| 13 | [WINTER FOR VOGUE KOREA](http://twitter.com/search?q=WINTER+FOR+VOGUE+KOREA) | N/A |
+| 14 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
+| 15 | [my jaywon](http://twitter.com/search?q=my+jaywon) | N/A |
+| 16 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 17 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 18 | [nawindang ang a'tin era](http://twitter.com/search?q=nawindang+ang+a%27tin+era) | N/A |
+| 19 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 20 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 21 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
 | 22 | [two title tracks](http://twitter.com/search?q=two+title+tracks) | N/A |
-| 23 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 24 | [bini live on simply contour](http://twitter.com/search?q=bini+live+on+simply+contour) | N/A |
-| 25 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 27 | [nadine for tatlerph](http://twitter.com/search?q=nadine+for+tatlerph) | N/A |
-| 28 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 29 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
-| 30 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 31 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 32 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
-| 33 | [TO DO](http://twitter.com/search?q=TO+DO) | N/A |
-| 34 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 35 | [p'nam](http://twitter.com/search?q=p%27nam) | N/A |
-| 36 | [LAYS LIVE GEMINI FOURTH](http://twitter.com/search?q=LAYS+LIVE+GEMINI+FOURTH) | N/A |
-| 37 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 38 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
-| 39 | [canino](http://twitter.com/search?q=canino) | N/A |
-| 40 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 41 | [RAGNAROKPressCon withMNL48](http://twitter.com/search?q=RAGNAROKPressCon+withMNL48) | N/A |
-| 42 | [Vistan](http://twitter.com/search?q=Vistan) | N/A |
-| 43 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
-| 44 | [ISANG TAONG PAKIKIDIGMA](http://twitter.com/search?q=ISANG+TAONG+PAKIKIDIGMA) | N/A |
-| 45 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
-| 46 | [marvin miranda](http://twitter.com/search?q=marvin+miranda) | N/A |
-| 47 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 48 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 49 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 50 | [PAUCAM MONDAY](http://twitter.com/search?q=PAUCAM+MONDAY) | N/A |
+| 23 | [JOSH CULLEN Be The Bida](http://twitter.com/search?q=JOSH+CULLEN+Be+The+Bida) | N/A |
+| 24 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
+| 25 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 26 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [nadine for tatlerph](http://twitter.com/search?q=nadine+for+tatlerph) | N/A |
+| 29 | [bini live on simply contour](http://twitter.com/search?q=bini+live+on+simply+contour) | N/A |
+| 30 | [WELCOME BACK](http://twitter.com/search?q=WELCOME+BACK) | N/A |
+| 31 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
+| 32 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 34 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 35 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 36 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
+| 37 | [TO DO](http://twitter.com/search?q=TO+DO) | N/A |
+| 38 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 39 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
+| 40 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 41 | [Vistan](http://twitter.com/search?q=Vistan) | N/A |
+| 42 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
+| 43 | [ragnarokpresscon withmnl48](http://twitter.com/search?q=ragnarokpresscon+withmnl48) | N/A |
+| 44 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
+| 45 | [marvin miranda](http://twitter.com/search?q=marvin+miranda) | N/A |
+| 46 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 47 | [the lucky one](http://twitter.com/search?q=the+lucky+one) | N/A |
+| 48 | [PAUCAM MONDAY](http://twitter.com/search?q=PAUCAM+MONDAY) | N/A |
+| 49 | [ISANG TAONG PAKIKIDIGMA](http://twitter.com/search?q=ISANG+TAONG+PAKIKIDIGMA) | N/A |
+| 50 | [Yoo Inna](http://twitter.com/search?q=Yoo+Inna) | N/A |
 
 
 
