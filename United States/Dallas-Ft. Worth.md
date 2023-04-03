@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-03 00:28:39 UTC`
+📆 Last Updated: `2023-04-03 01:43:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#globelifefaces](http://twitter.com/search?q=%23globelifefaces) | N/A |
-| 2 | [McGee](http://twitter.com/search?q=McGee) | N/A |
-| 3 | [Czinano](http://twitter.com/search?q=Czinano) | N/A |
-| 4 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 5 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 6 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
-| 7 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 8 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 9 | [#ArlingtonTheErasTour](http://twitter.com/search?q=%23ArlingtonTheErasTour) | N/A |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 2 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 3 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 4 | [#globelifefaces](http://twitter.com/search?q=%23globelifefaces) | N/A |
+| 5 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 6 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 7 | [Trash](http://twitter.com/search?q=Trash) | N/A |
+| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 9 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
 | 10 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Hawkeyes](http://twitter.com/search?q=Hawkeyes) | N/A |
-| 13 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 16 | [#TSTheErasTourArlington](http://twitter.com/search?q=%23TSTheErasTourArlington) | N/A |
-| 17 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 18 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
-| 19 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 20 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 21 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 22 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 23 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 24 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 25 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 26 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 27 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 28 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 29 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 30 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 31 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 32 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 33 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
-| 34 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 35 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
-| 36 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 37 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 38 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 39 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 40 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 41 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 42 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 43 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 44 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 45 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 46 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 47 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
-| 48 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
-| 49 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 50 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 11 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 12 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 13 | [Baton Rouge](http://twitter.com/search?q=Baton+Rouge) | N/A |
+| 14 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 15 | [Wemby](http://twitter.com/search?q=Wemby) | N/A |
+| 16 | [Hawkeyes](http://twitter.com/search?q=Hawkeyes) | N/A |
+| 17 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 18 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 19 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 20 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
+| 21 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 22 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 23 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 24 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 25 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 26 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 27 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 28 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 29 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 30 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 31 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 32 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 33 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 34 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 35 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 36 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 37 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 38 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 39 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 40 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 41 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 42 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 43 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 44 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 45 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 46 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 47 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 48 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 49 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 50 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
 
 
 

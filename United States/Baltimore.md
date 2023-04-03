@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-04-03 00:28:38 UTC`
+📆 Last Updated: `2023-04-03 01:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 3 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 4 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 5 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 6 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 7 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 8 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 9 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 10 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 11 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 12 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 13 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 14 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
-| 15 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
-| 16 | [#AskSNB](http://twitter.com/search?q=%23AskSNB) | N/A |
-| 17 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 18 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 19 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 20 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 21 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 22 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
-| 23 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 24 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
-| 25 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 26 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 27 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 28 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 29 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 30 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 31 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 32 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 33 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 35 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
-| 36 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 37 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 38 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 39 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
-| 40 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 41 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
-| 42 | [New York Knicks](http://twitter.com/search?q=New+York+Knicks) | N/A |
-| 43 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 44 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 45 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 46 | [Sunday Night Baseball](http://twitter.com/search?q=Sunday+Night+Baseball) | N/A |
-| 47 | [Omas](http://twitter.com/search?q=Omas) | N/A |
-| 48 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 49 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 50 | [Obi Toppin](http://twitter.com/search?q=Obi+Toppin) | N/A |
+| 3 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 4 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 5 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 6 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 8 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 9 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 10 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 11 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 12 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 13 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 14 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 15 | [#CMTAwards](http://twitter.com/search?q=%23CMTAwards) | N/A |
+| 16 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 17 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 18 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 19 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 20 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
+| 21 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 22 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 23 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 24 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 25 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 26 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 27 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 28 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 29 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 30 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 31 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 32 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 33 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 34 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 35 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 36 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 37 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 38 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 39 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 40 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
+| 41 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 42 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 43 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
+| 44 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 45 | [Coko](http://twitter.com/search?q=Coko) | N/A |
+| 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 47 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 48 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 49 | [Intercontinental Championship](http://twitter.com/search?q=Intercontinental+Championship) | N/A |
+| 50 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
 
 
 

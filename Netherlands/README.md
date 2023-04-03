@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-03 00:28:50 UTC`
+📆 Last Updated: `2023-04-03 01:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Netherlands
 | 8 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
 | 9 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
 | 10 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 11 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 11 | [higler](http://twitter.com/search?q=higler) | N/A |
 | 12 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 13 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 14 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
@@ -41,28 +41,28 @@ This is top 50 for Netherlands
 | 24 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
 | 25 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
 | 26 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 27 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 27 | [bahrein](http://twitter.com/search?q=bahrein) | N/A |
 | 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 | 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 30 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 31 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
 | 32 | [kowet](http://twitter.com/search?q=kowet) | N/A |
 | 33 | [de var](http://twitter.com/search?q=de+var) | N/A |
-| 34 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
-| 35 | [Vriends](http://twitter.com/search?q=Vriends) | N/A |
+| 34 | [coolsingel](http://twitter.com/search?q=coolsingel) | N/A |
+| 35 | [vriends](http://twitter.com/search?q=vriends) | N/A |
 | 36 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
-| 37 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 37 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 38 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
-| 39 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
+| 39 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
 | 40 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 41 | [Oratmangoen](http://twitter.com/search?q=Oratmangoen) | N/A |
+| 41 | [oratmangoen](http://twitter.com/search?q=oratmangoen) | N/A |
 | 42 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
 | 43 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
 | 44 | [Hato](http://twitter.com/search?q=Hato) | N/A |
 | 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
-| 47 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 48 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 46 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 48 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
 | 49 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
 | 50 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
 

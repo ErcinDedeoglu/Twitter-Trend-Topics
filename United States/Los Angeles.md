@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-03 00:28:41 UTC`
+📆 Last Updated: `2023-04-03 01:44:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
-| 2 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 3 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 4 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 5 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
-| 6 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 8 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 9 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
-| 10 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
-| 11 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 2 | [#SKZinLA](http://twitter.com/search?q=%23SKZinLA) | N/A |
+| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 4 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 5 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 6 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 7 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 8 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
+| 9 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 10 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 11 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
 | 12 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
-| 13 | [Logan O'Hoppe](http://twitter.com/search?q=Logan+O%27Hoppe) | N/A |
-| 14 | [#StrayKids2ndWorldTour](http://twitter.com/search?q=%23StrayKids2ndWorldTour) | N/A |
-| 15 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 16 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 13 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 14 | [Logan O'Hoppe](http://twitter.com/search?q=Logan+O%27Hoppe) | N/A |
+| 15 | [#StrayKids2ndWorldTour](http://twitter.com/search?q=%23StrayKids2ndWorldTour) | N/A |
+| 16 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
 | 17 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 18 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 19 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 20 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 21 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 25 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 26 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 19 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 20 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 21 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 22 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 23 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 24 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
+| 25 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 26 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 28 | [Xander](http://twitter.com/search?q=Xander) | N/A |
 | 29 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 30 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 31 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 32 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 33 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 34 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 35 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 36 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 37 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 38 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 39 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 40 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 41 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 42 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
-| 43 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 44 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
-| 45 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 46 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 47 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 48 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 49 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 50 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
+| 30 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 31 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 32 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 33 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 34 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 36 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 37 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 38 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 39 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 40 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 41 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 42 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 43 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 44 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 45 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 46 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 47 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 48 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 49 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 50 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
 
 
 

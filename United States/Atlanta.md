@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-03 00:28:38 UTC`
+📆 Last Updated: `2023-04-03 01:43:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 4 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 5 | [cardi](http://twitter.com/search?q=cardi) | N/A |
-| 6 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 7 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 8 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 9 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 12 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 13 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 14 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 15 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 16 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 17 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 18 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 19 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 20 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 21 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
-| 22 | [#baddieswest](http://twitter.com/search?q=%23baddieswest) | N/A |
-| 23 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
-| 24 | [#AskSNB](http://twitter.com/search?q=%23AskSNB) | N/A |
-| 25 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 26 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 27 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 28 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 29 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 30 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
-| 31 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
-| 32 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
-| 33 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 34 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 35 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 36 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 37 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 38 | [Bayou Barbie](http://twitter.com/search?q=Bayou+Barbie) | N/A |
-| 39 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 40 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 41 | [NO CLASS](http://twitter.com/search?q=NO+CLASS) | N/A |
-| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 43 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
-| 44 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 45 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 46 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 47 | [The LSU](http://twitter.com/search?q=The+LSU) | N/A |
-| 48 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 49 | [Congratulations to LSU](http://twitter.com/search?q=Congratulations+to+LSU) | N/A |
-| 50 | [New York Knicks](http://twitter.com/search?q=New+York+Knicks) | N/A |
+| 3 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 4 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
+| 5 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 6 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 7 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 8 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 10 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 11 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 12 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
+| 13 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 14 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 15 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 16 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 17 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 18 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 19 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 20 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 21 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 23 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 24 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 25 | [#CMTAwards](http://twitter.com/search?q=%23CMTAwards) | N/A |
+| 26 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 27 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 28 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 29 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 30 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 31 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 32 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 33 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 34 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 35 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 36 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 37 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 38 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 39 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 40 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 41 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 42 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 43 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 44 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 45 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 46 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 47 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
+| 48 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
+| 49 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 50 | [Morris](http://twitter.com/search?q=Morris) | N/A |
 
 
 

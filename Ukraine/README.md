@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-03 00:28:53 UTC`
+📆 Last Updated: `2023-04-03 01:44:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,18 +20,18 @@ This is top 50 for Ukraine
 | 3 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
 | 4 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
 | 5 | [клуб](http://twitter.com/search?q=%d0%ba%d0%bb%d1%83%d0%b1) | N/A |
-| 6 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 7 | [Максим Фомин](http://twitter.com/search?q=%d0%9c%d0%b0%d0%ba%d1%81%d0%b8%d0%bc+%d0%a4%d0%be%d0%bc%d0%b8%d0%bd) | N/A |
-| 8 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
-| 9 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
+| 6 | [максим фомин](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc+%d1%84%d0%be%d0%bc%d0%b8%d0%bd) | N/A |
+| 7 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
+| 8 | [оскар](http://twitter.com/search?q=%d0%be%d1%81%d0%ba%d0%b0%d1%80) | N/A |
+| 9 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 | 10 | [Яроша](http://twitter.com/search?q=%d0%af%d1%80%d0%be%d1%88%d0%b0) | N/A |
-| 11 | [#UkraineRussiaWar️](http://twitter.com/search?q=%23UkraineRussiaWar%ef%b8%8f) | N/A |
-| 12 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 13 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 14 | [#VeggiesFarm](http://twitter.com/search?q=%23VeggiesFarm) | N/A |
+| 11 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 12 | [#UkraineRussiaWar️](http://twitter.com/search?q=%23UkraineRussiaWar%ef%b8%8f) | N/A |
+| 13 | [#Arbswap](http://twitter.com/search?q=%23Arbswap) | N/A |
+| 14 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
 | 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 16 | [паша мерседес](http://twitter.com/search?q=%d0%bf%d0%b0%d1%88%d0%b0+%d0%bc%d0%b5%d1%80%d1%81%d0%b5%d0%b4%d0%b5%d1%81) | N/A |
-| 17 | [в россии](http://twitter.com/search?q=%d0%b2+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 17 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 18 | [порох](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d0%be%d1%85) | N/A |
 | 19 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
 | 20 | [Порядок](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Ukraine
 | 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 32 | [файно](http://twitter.com/search?q=%d1%84%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
 | 33 | [The Russian](http://twitter.com/search?q=The+Russian) | N/A |
-| 34 | [бучи](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b8) | N/A |
-| 35 | [трампа](http://twitter.com/search?q=%d1%82%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
-| 36 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 37 | [Богу](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d1%83) | N/A |
-| 38 | [бережи](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
-| 39 | [Херсон](http://twitter.com/search?q=%d0%a5%d0%b5%d1%80%d1%81%d0%be%d0%bd) | N/A |
-| 40 | [Lavra](http://twitter.com/search?q=Lavra) | N/A |
-| 41 | [медведев](http://twitter.com/search?q=%d0%bc%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2) | N/A |
-| 42 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 43 | [Крикнула](http://twitter.com/search?q=%d0%9a%d1%80%d0%b8%d0%ba%d0%bd%d1%83%d0%bb%d0%b0) | N/A |
-| 44 | [Русня](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%bd%d1%8f) | N/A |
-| 45 | [Олег](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3) | N/A |
-| 46 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
-| 47 | [боюсь](http://twitter.com/search?q=%d0%b1%d0%be%d1%8e%d1%81%d1%8c) | N/A |
-| 48 | [Тепер](http://twitter.com/search?q=%d0%a2%d0%b5%d0%bf%d0%b5%d1%80) | N/A |
-| 49 | [украинцев](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d0%b5%d0%b2) | N/A |
-| 50 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 34 | [Impact](http://twitter.com/search?q=Impact) | N/A |
+| 35 | [бучи](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b8) | N/A |
+| 36 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
+| 37 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 38 | [Богу](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d1%83) | N/A |
+| 39 | [бережи](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
+| 40 | [херсон](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd) | N/A |
+| 41 | [Lavra](http://twitter.com/search?q=Lavra) | N/A |
+| 42 | [медведев](http://twitter.com/search?q=%d0%bc%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2) | N/A |
+| 43 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 44 | [Крикнула](http://twitter.com/search?q=%d0%9a%d1%80%d0%b8%d0%ba%d0%bd%d1%83%d0%bb%d0%b0) | N/A |
+| 45 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 46 | [олег](http://twitter.com/search?q=%d0%be%d0%bb%d0%b5%d0%b3) | N/A |
+| 47 | [россияне](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
+| 48 | [боюсь](http://twitter.com/search?q=%d0%b1%d0%be%d1%8e%d1%81%d1%8c) | N/A |
+| 49 | [тепер](http://twitter.com/search?q=%d1%82%d0%b5%d0%bf%d0%b5%d1%80) | N/A |
+| 50 | [украинцев](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d0%b5%d0%b2) | N/A |
 
 
 
