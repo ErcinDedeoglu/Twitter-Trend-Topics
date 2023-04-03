@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-03 20:17:55 UTC`
+📆 Last Updated: `2023-04-03 21:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#GuardiansOfTheGalaxyVol3](http://twitter.com/search?q=%23GuardiansOfTheGalaxyVol3) | N/A |
+| 1 | [Arte](http://twitter.com/search?q=Arte) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 3 | [Wiggs](http://twitter.com/search?q=Wiggs) | N/A |
 | 4 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 5 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
 | 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 7 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 8 | [#Trump2024NowMorethanEver](http://twitter.com/search?q=%23Trump2024NowMorethanEver) | N/A |
-| 9 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
-| 10 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 11 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 12 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 7 | [Latino](http://twitter.com/search?q=Latino) | N/A |
+| 8 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 9 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 10 | [#Trump2024NowMorethanEver](http://twitter.com/search?q=%23Trump2024NowMorethanEver) | N/A |
+| 11 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 12 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
 | 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 17 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 18 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 19 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 20 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 23 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 24 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 25 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 26 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 27 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 28 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 29 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 30 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 31 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 32 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 33 | [Auli](http://twitter.com/search?q=Auli) | N/A |
-| 34 | [Tommy Hunter](http://twitter.com/search?q=Tommy+Hunter) | N/A |
-| 35 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
-| 36 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 37 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 38 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 39 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 40 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 41 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 42 | [CONCERT GUEST](http://twitter.com/search?q=CONCERT+GUEST) | N/A |
-| 43 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 44 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 45 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
-| 46 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 47 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 48 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
+| 16 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 18 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 19 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 20 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 21 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 23 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 24 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
+| 25 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 27 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 28 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 29 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 30 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 31 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 32 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 33 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 34 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
+| 35 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 36 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
+| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 38 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 39 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
+| 40 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 41 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 42 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 43 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 44 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 45 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 46 | [Tommy Hunter](http://twitter.com/search?q=Tommy+Hunter) | N/A |
+| 47 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 48 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 49 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
 
 
 

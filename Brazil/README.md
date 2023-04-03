@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-03 20:18:02 UTC`
+📆 Last Updated: `2023-04-03 21:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
-| 2 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 3 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 4 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 8 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
-| 9 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 10 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
-| 11 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 12 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 13 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
-| 14 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 15 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 16 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 17 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 19 | [#DiaDaMentiraIntrin](http://twitter.com/search?q=%23DiaDaMentiraIntrin) | N/A |
-| 20 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 21 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 22 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 23 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
-| 24 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 26 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 27 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 29 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 30 | [Encontro](http://twitter.com/search?q=Encontro) | N/A |
-| 31 | [#atardeesua](http://twitter.com/search?q=%23atardeesua) | N/A |
-| 32 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 33 | [Auli](http://twitter.com/search?q=Auli) | N/A |
-| 34 | [CADEIA PARA BOLSONARO](http://twitter.com/search?q=CADEIA+PARA+BOLSONARO) | N/A |
-| 35 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 36 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
-| 37 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 38 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 40 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 41 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
-| 42 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
-| 43 | [Fátima](http://twitter.com/search?q=F%c3%a1tima) | N/A |
-| 44 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 45 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 46 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
-| 47 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 2 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 3 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 4 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 5 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 6 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 7 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 9 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 12 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 13 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 14 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 15 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 16 | [Ardiis](http://twitter.com/search?q=Ardiis) | N/A |
+| 17 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
+| 18 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 19 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 20 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
+| 21 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 22 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [Balerion](http://twitter.com/search?q=Balerion) | N/A |
+| 25 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
+| 26 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 27 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 28 | [Targaryen](http://twitter.com/search?q=Targaryen) | N/A |
+| 29 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 30 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 31 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 32 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
+| 33 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 34 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
+| 35 | [HOTD](http://twitter.com/search?q=HOTD) | N/A |
+| 36 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 37 | [#ADona080](http://twitter.com/search?q=%23ADona080) | N/A |
+| 38 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 39 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 40 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 41 | [Encontro](http://twitter.com/search?q=Encontro) | N/A |
+| 42 | [CADEIA PARA BOLSONARO](http://twitter.com/search?q=CADEIA+PARA+BOLSONARO) | N/A |
+| 43 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 44 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 45 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 46 | [Auli](http://twitter.com/search?q=Auli) | N/A |
+| 47 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
 | 48 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 49 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 50 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 49 | [Westeros](http://twitter.com/search?q=Westeros) | N/A |
+| 50 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
 
 
 

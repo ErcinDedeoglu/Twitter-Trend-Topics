@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-03 20:17:38 UTC`
+📆 Last Updated: `2023-04-03 21:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 6 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 7 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 9 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
-| 10 | [#NLPIbadan2023](http://twitter.com/search?q=%23NLPIbadan2023) | N/A |
-| 11 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 12 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 13 | [#signthiselectoralpetition](http://twitter.com/search?q=%23signthiselectoralpetition) | N/A |
-| 14 | [#myfoodbyhilda](http://twitter.com/search?q=%23myfoodbyhilda) | N/A |
-| 15 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
-| 16 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 17 | [Jamb](http://twitter.com/search?q=Jamb) | N/A |
-| 18 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 19 | [Covenant University](http://twitter.com/search?q=Covenant+University) | N/A |
-| 20 | [Portable](http://twitter.com/search?q=Portable) | N/A |
-| 21 | [My April](http://twitter.com/search?q=My+April) | N/A |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 24 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
-| 25 | [Yes Mummy](http://twitter.com/search?q=Yes+Mummy) | N/A |
-| 26 | [Tonye Cole](http://twitter.com/search?q=Tonye+Cole) | N/A |
-| 27 | [Medium](http://twitter.com/search?q=Medium) | N/A |
-| 28 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
-| 29 | [GOD PROTECT SHEGGZ](http://twitter.com/search?q=GOD+PROTECT+SHEGGZ) | N/A |
-| 30 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [Ndi Kato](http://twitter.com/search?q=Ndi+Kato) | N/A |
-| 33 | [PROJECT 24 CONTRIBUTION](http://twitter.com/search?q=PROJECT+24+CONTRIBUTION) | N/A |
-| 34 | [THE KANAGA JNR BRAND](http://twitter.com/search?q=THE+KANAGA+JNR+BRAND) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [LETTER TO YVONNE](http://twitter.com/search?q=LETTER+TO+YVONNE) | N/A |
-| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 41 | [North](http://twitter.com/search?q=North) | N/A |
-| 42 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 43 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 45 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
-| 46 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 47 | [Congratulations Khosi](http://twitter.com/search?q=Congratulations+Khosi) | N/A |
-| 48 | [Soda](http://twitter.com/search?q=Soda) | N/A |
-| 49 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 50 | [Pupuru](http://twitter.com/search?q=Pupuru) | N/A |
+| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 3 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 4 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 5 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 11 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 12 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 13 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
+| 14 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [#NLPIbadan2023](http://twitter.com/search?q=%23NLPIbadan2023) | N/A |
+| 17 | [#signthiselectoralpetition](http://twitter.com/search?q=%23signthiselectoralpetition) | N/A |
+| 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 19 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
+| 20 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 21 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 22 | [Jamb](http://twitter.com/search?q=Jamb) | N/A |
+| 23 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 24 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 25 | [Covenant University](http://twitter.com/search?q=Covenant+University) | N/A |
+| 26 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 27 | [My April](http://twitter.com/search?q=My+April) | N/A |
+| 28 | [Yes Mummy](http://twitter.com/search?q=Yes+Mummy) | N/A |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 31 | [Tonye Cole](http://twitter.com/search?q=Tonye+Cole) | N/A |
+| 32 | [GOD PROTECT SHEGGZ](http://twitter.com/search?q=GOD+PROTECT+SHEGGZ) | N/A |
+| 33 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 34 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
+| 35 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
+| 36 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
+| 37 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [THE KANAGA JNR BRAND](http://twitter.com/search?q=THE+KANAGA+JNR+BRAND) | N/A |
+| 40 | [PROJECT 24 CONTRIBUTION](http://twitter.com/search?q=PROJECT+24+CONTRIBUTION) | N/A |
+| 41 | [Ndi Kato](http://twitter.com/search?q=Ndi+Kato) | N/A |
+| 42 | [Medium](http://twitter.com/search?q=Medium) | N/A |
+| 43 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [LETTER TO YVONNE](http://twitter.com/search?q=LETTER+TO+YVONNE) | N/A |
+| 46 | [North](http://twitter.com/search?q=North) | N/A |
+| 47 | [Agba](http://twitter.com/search?q=Agba) | N/A |
+| 48 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 49 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 
 
 

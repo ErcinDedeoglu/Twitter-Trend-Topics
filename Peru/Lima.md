@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-03 20:17:14 UTC`
+📆 Last Updated: `2023-04-03 21:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 2 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 3 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
+| 2 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
+| 3 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
 | 4 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 7 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 8 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 9 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 10 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 11 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 7 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 8 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 9 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 10 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 11 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 13 | [Paddington](http://twitter.com/search?q=Paddington) | N/A |
 | 14 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
-| 15 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 15 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 16 | [#BorraChat](http://twitter.com/search?q=%23BorraChat) | N/A |
-| 17 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 18 | [Mundial Sub 17](http://twitter.com/search?q=Mundial+Sub+17) | N/A |
-| 19 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 20 | [Paddington](http://twitter.com/search?q=Paddington) | N/A |
+| 17 | [Mundial Sub 17](http://twitter.com/search?q=Mundial+Sub+17) | N/A |
+| 18 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 19 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 20 | [Rosio Torres](http://twitter.com/search?q=Rosio+Torres) | N/A |
 | 21 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
-| 22 | [Rosio Torres](http://twitter.com/search?q=Rosio+Torres) | N/A |
-| 23 | [FELICIDADES JIMIN](http://twitter.com/search?q=FELICIDADES+JIMIN) | N/A |
-| 24 | [Agua Marina](http://twitter.com/search?q=Agua+Marina) | N/A |
-| 25 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 26 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 27 | [Noel Schajris](http://twitter.com/search?q=Noel+Schajris) | N/A |
-| 28 | [Fray Vásquez](http://twitter.com/search?q=Fray+V%c3%a1squez) | N/A |
-| 29 | [Comisión de Ética](http://twitter.com/search?q=Comisi%c3%b3n+de+%c3%89tica) | N/A |
-| 30 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
-| 31 | [Julio Velarde](http://twitter.com/search?q=Julio+Velarde) | N/A |
-| 32 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 22 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 23 | [Agua Marina](http://twitter.com/search?q=Agua+Marina) | N/A |
+| 24 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 25 | [Noel Schajris](http://twitter.com/search?q=Noel+Schajris) | N/A |
+| 26 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 27 | [Fray Vásquez](http://twitter.com/search?q=Fray+V%c3%a1squez) | N/A |
+| 28 | [Comisión de Ética](http://twitter.com/search?q=Comisi%c3%b3n+de+%c3%89tica) | N/A |
+| 29 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
+| 30 | [Julio Velarde](http://twitter.com/search?q=Julio+Velarde) | N/A |
+| 31 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
+| 32 | [Job 9](http://twitter.com/search?q=Job+9) | N/A |
 | 33 | [Progreso](http://twitter.com/search?q=Progreso) | N/A |
-| 34 | [Job 9](http://twitter.com/search?q=Job+9) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 34 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 35 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 36 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 37 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
-| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 39 | [Ruanda](http://twitter.com/search?q=Ruanda) | N/A |
-| 40 | [Jorge Chávez](http://twitter.com/search?q=Jorge+Ch%c3%a1vez) | N/A |
-| 41 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 42 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
-| 43 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 44 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
-| 45 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 46 | [Incapaces](http://twitter.com/search?q=Incapaces) | N/A |
-| 47 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 48 | [Línea 100](http://twitter.com/search?q=L%c3%adnea+100) | N/A |
-| 49 | [Incapacidad](http://twitter.com/search?q=Incapacidad) | N/A |
-| 50 | [Olmos](http://twitter.com/search?q=Olmos) | N/A |
+| 38 | [Día Mundial de Concienciación](http://twitter.com/search?q=D%c3%ada+Mundial+de+Concienciaci%c3%b3n) | N/A |
+| 39 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 40 | [Felicidades Jimin](http://twitter.com/search?q=Felicidades+Jimin) | N/A |
+| 41 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 42 | [EXTREMO CELESTE](http://twitter.com/search?q=EXTREMO+CELESTE) | N/A |
+| 43 | [línea 100](http://twitter.com/search?q=l%c3%adnea+100) | N/A |
+| 44 | [Jorge Chávez](http://twitter.com/search?q=Jorge+Ch%c3%a1vez) | N/A |
+| 45 | [Olmos](http://twitter.com/search?q=Olmos) | N/A |
+| 46 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
+| 47 | [Ghersi](http://twitter.com/search?q=Ghersi) | N/A |
+| 48 | [GEIN](http://twitter.com/search?q=GEIN) | N/A |
+| 49 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 50 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
 
 
 

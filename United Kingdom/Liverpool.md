@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-04-03 20:17:06 UTC`
+📆 Last Updated: `2023-04-03 21:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
-| 3 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 4 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 7 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 8 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 10 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
-| 11 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 12 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 13 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 14 | [Fregene](http://twitter.com/search?q=Fregene) | N/A |
-| 15 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 16 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 17 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
-| 18 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 20 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 21 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
-| 22 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
-| 23 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
-| 24 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 25 | [Dr Who](http://twitter.com/search?q=Dr+Who) | N/A |
-| 26 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 27 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 28 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 29 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 30 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 31 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 32 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 33 | [Philip Schofield](http://twitter.com/search?q=Philip+Schofield) | N/A |
-| 34 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 35 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
-| 36 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 37 | [House 3](http://twitter.com/search?q=House+3) | N/A |
-| 38 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 39 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 40 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 41 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
-| 42 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
-| 43 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 44 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 45 | [The Rani](http://twitter.com/search?q=The+Rani) | N/A |
-| 46 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 47 | [Faye](http://twitter.com/search?q=Faye) | N/A |
-| 48 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 49 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 50 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 1 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 2 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 3 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 4 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 5 | [House 3](http://twitter.com/search?q=House+3) | N/A |
+| 6 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 7 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 8 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 9 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 10 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 11 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 12 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 13 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 14 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 15 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 17 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 18 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 19 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 20 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 22 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 26 | [Moura](http://twitter.com/search?q=Moura) | N/A |
+| 27 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 28 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 29 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
+| 30 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 31 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 32 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 34 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 35 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 36 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 37 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 38 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
+| 39 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 40 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 41 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 42 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 43 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 44 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 45 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 47 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 48 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 49 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 50 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
 
 
 
