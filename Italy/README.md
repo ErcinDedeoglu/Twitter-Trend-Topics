@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-03 19:17:27 UTC`
+📆 Last Updated: `2023-04-03 20:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
+| 1 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
 | 2 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 3 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 4 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 5 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 6 | [#3aprile](http://twitter.com/search?q=%233aprile) | N/A |
+| 3 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 4 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 5 | [#senzaPretendere](http://twitter.com/search?q=%23senzaPretendere) | N/A |
+| 6 | [Bompiani](http://twitter.com/search?q=Bompiani) | N/A |
 | 7 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 8 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 10 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 11 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 13 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 14 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 15 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 16 | [San Pietroburgo](http://twitter.com/search?q=San+Pietroburgo) | N/A |
-| 17 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 18 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 19 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
-| 20 | [Wish I Could Have](http://twitter.com/search?q=Wish+I+Could+Have) | N/A |
-| 21 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 22 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 23 | [Stankovic](http://twitter.com/search?q=Stankovic) | N/A |
-| 24 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
-| 25 | [Briatore](http://twitter.com/search?q=Briatore) | N/A |
+| 8 | [#SassuoloTorino](http://twitter.com/search?q=%23SassuoloTorino) | N/A |
+| 9 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 10 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [Wish I Could Have](http://twitter.com/search?q=Wish+I+Could+Have) | N/A |
+| 13 | [Last Concert](http://twitter.com/search?q=Last+Concert) | N/A |
+| 14 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 15 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
+| 16 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
+| 17 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 18 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
+| 19 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
+| 20 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 21 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 22 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 23 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 24 | [Regione](http://twitter.com/search?q=Regione) | N/A |
+| 25 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
 | 26 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
-| 27 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
-| 28 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 29 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
-| 30 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
-| 31 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 32 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 33 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 34 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
-| 35 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 36 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [Quirinale](http://twitter.com/search?q=Quirinale) | N/A |
-| 39 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
-| 40 | [Lampione](http://twitter.com/search?q=Lampione) | N/A |
-| 41 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 42 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 43 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 44 | [Orpo](http://twitter.com/search?q=Orpo) | N/A |
-| 45 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 46 | [Lega](http://twitter.com/search?q=Lega) | N/A |
-| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 48 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 49 | [Castellani](http://twitter.com/search?q=Castellani) | N/A |
-| 50 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
+| 27 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
+| 28 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 29 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 30 | [#EmpoliLecce](http://twitter.com/search?q=%23EmpoliLecce) | N/A |
+| 31 | [#BuonCompleannoPrincipe](http://twitter.com/search?q=%23BuonCompleannoPrincipe) | N/A |
+| 32 | [#elezioniregionaliFVG](http://twitter.com/search?q=%23elezioniregionaliFVG) | N/A |
+| 33 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 34 | [#DeBenedetti](http://twitter.com/search?q=%23DeBenedetti) | N/A |
+| 35 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
+| 36 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 37 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 38 | [#elezionifvg](http://twitter.com/search?q=%23elezionifvg) | N/A |
 
 
 

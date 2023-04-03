@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-04-03 19:16:54 UTC`
+📆 Last Updated: `2023-04-03 20:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 2 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 3 | [#Pasapalabra738](http://twitter.com/search?q=%23Pasapalabra738) | N/A |
-| 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 7 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 8 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 9 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 10 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 12 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 13 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 14 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
-| 15 | [#Pecado3Abr](http://twitter.com/search?q=%23Pecado3Abr) | N/A |
-| 16 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
-| 17 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 18 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 19 | [Ethan Hayter](http://twitter.com/search?q=Ethan+Hayter) | N/A |
-| 20 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 21 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 22 | [#ValenciaRayo](http://twitter.com/search?q=%23ValenciaRayo) | N/A |
-| 23 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 24 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 25 | [Michel](http://twitter.com/search?q=Michel) | N/A |
-| 26 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 27 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 28 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 29 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 30 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
-| 31 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
-| 32 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 33 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
-| 34 | [Norauto](http://twitter.com/search?q=Norauto) | N/A |
-| 35 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 36 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 37 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 38 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
-| 39 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 40 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
-| 41 | [#AthleticOsasuna](http://twitter.com/search?q=%23AthleticOsasuna) | N/A |
-| 42 | [#YoMeRebelo3A](http://twitter.com/search?q=%23YoMeRebelo3A) | N/A |
-| 43 | [#DiaTeHaceElCarro](http://twitter.com/search?q=%23DiaTeHaceElCarro) | N/A |
-| 44 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 45 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 46 | [#AdaraSv3A](http://twitter.com/search?q=%23AdaraSv3A) | N/A |
-| 47 | [#APOYOROCIO3A](http://twitter.com/search?q=%23APOYOROCIO3A) | N/A |
+| 1 | [#firstdates3a](http://twitter.com/search?q=%23firstdates3a) | N/A |
+| 2 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 3 | [#MercatoKings1](http://twitter.com/search?q=%23MercatoKings1) | N/A |
+| 4 | [#TDPicasso](http://twitter.com/search?q=%23TDPicasso) | N/A |
+| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 6 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 7 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 8 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 9 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 10 | [Kaptoum](http://twitter.com/search?q=Kaptoum) | N/A |
+| 11 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 12 | [#Pasapalabra738](http://twitter.com/search?q=%23Pasapalabra738) | N/A |
+| 13 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 14 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 15 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
+| 16 | [Sidnei](http://twitter.com/search?q=Sidnei) | N/A |
+| 17 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 18 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 19 | [Jacobo](http://twitter.com/search?q=Jacobo) | N/A |
+| 20 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 21 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 22 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 23 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 24 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
+| 25 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 26 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 27 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 30 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 31 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
+| 32 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 33 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 34 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
+| 35 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 36 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
+| 37 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
+| 38 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 39 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 40 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 41 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
+| 42 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
+| 43 | [Michel](http://twitter.com/search?q=Michel) | N/A |
+| 44 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 45 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
+| 46 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 47 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 48 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
 
 
 

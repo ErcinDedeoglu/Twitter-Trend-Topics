@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-04-03 19:16:40 UTC`
+📆 Last Updated: `2023-04-03 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
-| 2 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 3 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
-| 4 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 7 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 8 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 9 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
-| 10 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 1 | [Eric Dier](http://twitter.com/search?q=Eric+Dier) | N/A |
+| 2 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
+| 3 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 4 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 5 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 8 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 9 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 11 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
 | 12 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 13 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 14 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
-| 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 16 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 17 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 18 | [Dr Who](http://twitter.com/search?q=Dr+Who) | N/A |
-| 19 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 20 | [Schofield](http://twitter.com/search?q=Schofield) | N/A |
-| 21 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 22 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 23 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 24 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 25 | [The Rani](http://twitter.com/search?q=The+Rani) | N/A |
-| 26 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 27 | [House 3](http://twitter.com/search?q=House+3) | N/A |
-| 28 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 29 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 30 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
-| 31 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 32 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 33 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 34 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 35 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 36 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 37 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 38 | [Drag Race](http://twitter.com/search?q=Drag+Race) | N/A |
-| 39 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 40 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 41 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 42 | [Timothy](http://twitter.com/search?q=Timothy) | N/A |
-| 43 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 44 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 45 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 46 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 47 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 48 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 49 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 13 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 14 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 15 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 16 | [Fregene](http://twitter.com/search?q=Fregene) | N/A |
+| 17 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 18 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 19 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 20 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 22 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 23 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
+| 24 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 25 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 26 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 27 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 28 | [Dr Who](http://twitter.com/search?q=Dr+Who) | N/A |
+| 29 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 30 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 31 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 32 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 33 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 34 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 35 | [Philip Schofield](http://twitter.com/search?q=Philip+Schofield) | N/A |
+| 36 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 37 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 38 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 39 | [House 3](http://twitter.com/search?q=House+3) | N/A |
+| 40 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 41 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 42 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
+| 43 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 44 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 45 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 46 | [The Rani](http://twitter.com/search?q=The+Rani) | N/A |
+| 47 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 48 | [Faye](http://twitter.com/search?q=Faye) | N/A |
+| 49 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
 
 
 

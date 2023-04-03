@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-03 19:17:18 UTC`
+📆 Last Updated: `2023-04-03 20:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
-| 2 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
-| 3 | [#AIMW23](http://twitter.com/search?q=%23AIMW23) | N/A |
+| 2 | [#AIMW23](http://twitter.com/search?q=%23AIMW23) | N/A |
+| 3 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
 | 4 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 5 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 6 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 5 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 6 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
 | 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 8 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 9 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 10 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 13 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 14 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 15 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
-| 16 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 17 | [Auli](http://twitter.com/search?q=Auli) | N/A |
-| 18 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 19 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 20 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 21 | [CONCERT GUEST](http://twitter.com/search?q=CONCERT+GUEST) | N/A |
-| 22 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 23 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 24 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 25 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 26 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 27 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 28 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 29 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 30 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 31 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 32 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
-| 33 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 34 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 35 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 36 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
-| 37 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
-| 38 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 39 | [St. Brown](http://twitter.com/search?q=St.+Brown) | N/A |
+| 9 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
+| 10 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 11 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 12 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 13 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 16 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 17 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 18 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 19 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 20 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
+| 21 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 22 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 23 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 24 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 25 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 26 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 27 | [Auli](http://twitter.com/search?q=Auli) | N/A |
+| 28 | [Tommy Hunter](http://twitter.com/search?q=Tommy+Hunter) | N/A |
+| 29 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
+| 30 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 31 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 32 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 33 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 34 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 35 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 36 | [CONCERT GUEST](http://twitter.com/search?q=CONCERT+GUEST) | N/A |
+| 37 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 38 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 39 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
 | 40 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 41 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 42 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 43 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 44 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 45 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 46 | [Iger](http://twitter.com/search?q=Iger) | N/A |
-| 47 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 48 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 49 | [Cravalho](http://twitter.com/search?q=Cravalho) | N/A |
+| 41 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 42 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [DeSclafani](http://twitter.com/search?q=DeSclafani) | N/A |
+| 45 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 46 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 47 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 48 | [Iger](http://twitter.com/search?q=Iger) | N/A |
+| 49 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
 
 
 

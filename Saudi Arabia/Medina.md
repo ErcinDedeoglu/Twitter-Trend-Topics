@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-04-03 19:17:07 UTC`
+📆 Last Updated: `2023-04-03 20:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#فوازير_غازي_الذيابي6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a6) | N/A |
-| 2 | [#عريق_للعطور](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%82_%d9%84%d9%84%d8%b9%d8%b7%d9%88%d8%b1) | N/A |
-| 3 | [#ام_خالد_الحويطي_تنخاكم3](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%853) | N/A |
-| 4 | [#هدايا_رسيس](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b3) | N/A |
-| 5 | [#مكافاه_عن_مكافاه_تفرق](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d8%b9%d9%86_%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d8%aa%d9%81%d8%b1%d9%82) | N/A |
-| 6 | [١٢ رمضان](http://twitter.com/search?q=%d9%a1%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 7 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 8 | [12 رمضان](http://twitter.com/search?q=12+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [الخرج الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%ac+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 10 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 11 | [نايف حمدان](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
-| 12 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 13 | [الاعتماد الرقمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a) | N/A |
-| 14 | [الليل المظلم](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%85) | N/A |
-| 15 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
-| 16 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 17 | [شيماء سيف](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%b3%d9%8a%d9%81) | N/A |
-| 18 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 19 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 22 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 23 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 24 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 25 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 26 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 27 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 28 | [ابو دخيل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%af%d8%ae%d9%8a%d9%84) | N/A |
-| 29 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 30 | [سموك الكريم البيعه](http://twitter.com/search?q=%d8%b3%d9%85%d9%88%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9%d9%87) | N/A |
-| 31 | [فايز المالكي](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8a) | N/A |
-| 32 | [محيسن الجمعان](http://twitter.com/search?q=%d9%85%d8%ad%d9%8a%d8%b3%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a7%d9%86) | N/A |
-| 33 | [المقعد الموجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%ac%d9%87) | N/A |
-| 34 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 35 | [رابيوت](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d9%8a%d9%88%d8%aa) | N/A |
-| 36 | [الملك الناصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 37 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 38 | [حارس المدرسه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 39 | [الرييس المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 40 | [البيق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d9%82) | N/A |
-| 41 | [الايتين الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 42 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
-| 43 | [القايد الملهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%84%d9%87%d9%85) | N/A |
-| 44 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 45 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 46 | [كعب العيد](http://twitter.com/search?q=%d9%83%d8%b9%d8%a8+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 47 | [الربع النهايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | N/A |
-| 48 | [المشاركون المتبقون](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d9%88%d9%86+%d8%a7%d9%84%d9%85%d8%aa%d8%a8%d9%82%d9%88%d9%86) | N/A |
-| 49 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 50 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 1 | [#ام_خالد_الحويطي_تنخاكم3](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%853) | N/A |
+| 2 | [#مسابقه_السلامه_المروريه12](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8712) | N/A |
+| 3 | [#عريق_للعطور](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%82_%d9%84%d9%84%d8%b9%d8%b7%d9%88%d8%b1) | N/A |
+| 4 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
+| 5 | [الميدان الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 6 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 7 | [نايف حمدان](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
+| 8 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 9 | [فايز المالكي](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8a) | N/A |
+| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 12 | [الهلال السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 13 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 14 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 15 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 16 | [السوال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 17 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 18 | [كريم بنزيما](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | N/A |
+| 19 | [وتشيلسي](http://twitter.com/search?q=%d9%88%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
+| 20 | [12 رمضان](http://twitter.com/search?q=12+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 21 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 22 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
+| 23 | [وليفربول](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | N/A |
+| 24 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 25 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 26 | [#هدايا_رسيس](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b3) | N/A |
+| 27 | [#ولي_العهد](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 28 | [#صفر_بالميه](http://twitter.com/search?q=%23%d8%b5%d9%81%d8%b1_%d8%a8%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 29 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
+| 30 | [#نيف_الخير](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 31 | [#هدايا_حنين_الورد](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%ad%d9%86%d9%8a%d9%86_%d8%a7%d9%84%d9%88%d8%b1%d8%af) | N/A |
+| 32 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
+| 33 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 34 | [#قصه_بطل12](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%8412) | N/A |
+| 35 | [#زد_رصيدك70](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8370) | N/A |
+| 36 | [#ابونوره_يسي_لقبيله_يام](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88%d9%86%d9%88%d8%b1%d9%87_%d9%8a%d8%b3%d9%8a_%d9%84%d9%82%d8%a8%d9%8a%d9%84%d9%87_%d9%8a%d8%a7%d9%85) | N/A |
+| 37 | [#استغفر_الله_العظيم_واتوب_اليه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d8%ba%d9%81%d8%b1_%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85_%d9%88%d8%a7%d8%aa%d9%88%d8%a8_%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 38 | [#مفاجات_وااو](http://twitter.com/search?q=%23%d9%85%d9%81%d8%a7%d8%ac%d8%a7%d8%aa_%d9%88%d8%a7%d8%a7%d9%88) | N/A |
+| 39 | [#اجازه_15رمضان](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%a7%d8%b2%d9%87_15%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 40 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 41 | [#رمضان١٢](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%a1%d9%a2) | N/A |
+| 42 | [#العداله_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 43 | [#وااو_الخير](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%a7%d9%88_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 44 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
+| 45 | [#ياسر_الدوسري](http://twitter.com/search?q=%23%d9%8a%d8%a7%d8%b3%d8%b1_%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 46 | [#تابع_الانماء](http://twitter.com/search?q=%23%d8%aa%d8%a7%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1) | N/A |
+| 47 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
+| 48 | [#راكان_بن_ملهي](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%83%d8%a7%d9%86_%d8%a8%d9%86_%d9%85%d9%84%d9%87%d9%8a) | N/A |
+| 49 | [#الاهلي_الجبلين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%ac%d8%a8%d9%84%d9%8a%d9%86) | #الاهلي_الجبلين is a hashtag used by fans of Al-Ahli Jeddah, a Saudi Arabian football club. In English, it translates to "Al-Ahli Jeddah". |
 
 
 

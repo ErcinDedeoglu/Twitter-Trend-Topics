@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-03 19:17:14 UTC`
+📆 Last Updated: `2023-04-03 20:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Meltem Demir](http://twitter.com/search?q=Meltem+Demir) | N/A |
-| 2 | [#KamuAvukatınaSözünüzVar](http://twitter.com/search?q=%23KamuAvukat%c4%b1naS%c3%b6z%c3%bcn%c3%bczVar) | N/A |
-| 3 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
-| 4 | [#haşimhaşimi](http://twitter.com/search?q=%23ha%c5%9fimha%c5%9fimi) | N/A |
-| 5 | [#ÇalışanTürkiyeninSesi](http://twitter.com/search?q=%23%c3%87al%c4%b1%c5%9fanT%c3%bcrkiyeninSesi) | N/A |
-| 6 | [RTEyedeklerinsesiniduy](http://twitter.com/search?q=RTEyedeklerinsesiniduy) | N/A |
-| 7 | [GSBtayinÇilesiniBitir](http://twitter.com/search?q=GSBtayin%c3%87ilesiniBitir) | N/A |
-| 8 | [Rezilsin Fox](http://twitter.com/search?q=Rezilsin+Fox) | N/A |
-| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 10 | [Böylesi Görülmedi](http://twitter.com/search?q=B%c3%b6ylesi+G%c3%b6r%c3%bclmedi) | N/A |
-| 11 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
-| 12 | [TaşeronuÇözen OylarıAlır](http://twitter.com/search?q=Ta%c5%9feronu%c3%87%c3%b6zen+Oylar%c4%b1Al%c4%b1r) | N/A |
-| 13 | [DesteğimizSonsuz Rotinda](http://twitter.com/search?q=Deste%c4%9fimizSonsuz+Rotinda) | N/A |
-| 14 | [Emekliler](http://twitter.com/search?q=Emekliler) | N/A |
-| 15 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
-| 16 | [Başbuğum](http://twitter.com/search?q=Ba%c5%9fbu%c4%9fum) | N/A |
-| 17 | [MEMUR GECİM DERDİNDE](http://twitter.com/search?q=MEMUR+GEC%c4%b0M+DERD%c4%b0NDE) | N/A |
-| 18 | [Kurban Bayramında](http://twitter.com/search?q=Kurban+Bayram%c4%b1nda) | N/A |
-| 19 | [TEKLIFÇE Sisli](http://twitter.com/search?q=TEKLIF%c3%87E+Sisli) | N/A |
-| 20 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [AltıYıldır SözümüzSöz](http://twitter.com/search?q=Alt%c4%b1Y%c4%b1ld%c4%b1r+S%c3%b6z%c3%bcm%c3%bczS%c3%b6z) | N/A |
-| 23 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
-| 24 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
-| 25 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 26 | [VaadDeğil YapıKayıt](http://twitter.com/search?q=VaadDe%c4%9fil+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 27 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 28 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
-| 29 | [Deva Partisi](http://twitter.com/search?q=Deva+Partisi) | N/A |
-| 30 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 31 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
-| 32 | [GelsinHayat İkinciSezon](http://twitter.com/search?q=GelsinHayat+%c4%b0kinciSezon) | N/A |
-| 33 | [BÜYÜK ALTAY](http://twitter.com/search?q=B%c3%9cY%c3%9cK+ALTAY) | N/A |
-| 34 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 35 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 36 | [Torpil](http://twitter.com/search?q=Torpil) | N/A |
-| 37 | [Milli Duruş](http://twitter.com/search?q=Milli+Duru%c5%9f) | N/A |
-| 38 | [Başbuğ Türkeş](http://twitter.com/search?q=Ba%c5%9fbu%c4%9f+T%c3%bcrke%c5%9f) | N/A |
-| 39 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 40 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
-| 41 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 42 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 43 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 44 | [Menemen](http://twitter.com/search?q=Menemen) | N/A |
-| 45 | [Caminin](http://twitter.com/search?q=Caminin) | N/A |
-| 46 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 1 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
+| 2 | [#ChpBilalBozgeyik](http://twitter.com/search?q=%23ChpBilalBozgeyik) | N/A |
+| 3 | [Meltem Demir](http://twitter.com/search?q=Meltem+Demir) | N/A |
+| 4 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
+| 5 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
+| 6 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 7 | [RTEyedeklerinsesiniduy](http://twitter.com/search?q=RTEyedeklerinsesiniduy) | N/A |
+| 8 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
+| 9 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 11 | [Böylesi Görülmedi](http://twitter.com/search?q=B%c3%b6ylesi+G%c3%b6r%c3%bclmedi) | N/A |
+| 12 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 13 | [EmeklininUmudu Kılıçdaroğlu](http://twitter.com/search?q=EmeklininUmudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 14 | [Tombalacı Mehmet](http://twitter.com/search?q=Tombalac%c4%b1+Mehmet) | N/A |
+| 15 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 16 | [TaşeronuÇözen OylarıAlır](http://twitter.com/search?q=Ta%c5%9feronu%c3%87%c3%b6zen+Oylar%c4%b1Al%c4%b1r) | N/A |
+| 17 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 18 | [Emekliler](http://twitter.com/search?q=Emekliler) | N/A |
+| 19 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
+| 20 | [DesteğimizSonsuz Rotinda](http://twitter.com/search?q=Deste%c4%9fimizSonsuz+Rotinda) | N/A |
+| 21 | [TEKLIFÇE Sisli](http://twitter.com/search?q=TEKLIF%c3%87E+Sisli) | N/A |
+| 22 | [MEMUR GECİM DERDİNDE](http://twitter.com/search?q=MEMUR+GEC%c4%b0M+DERD%c4%b0NDE) | N/A |
+| 23 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
+| 24 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
+| 25 | [Kurban Bayramında](http://twitter.com/search?q=Kurban+Bayram%c4%b1nda) | N/A |
+| 26 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
+| 27 | [AltıYıldır SözümüzSöz](http://twitter.com/search?q=Alt%c4%b1Y%c4%b1ld%c4%b1r+S%c3%b6z%c3%bcm%c3%bczS%c3%b6z) | N/A |
+| 28 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 29 | [AlpVeİrem Onedioya](http://twitter.com/search?q=AlpVe%c4%b0rem+Onedioya) | N/A |
+| 30 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
+| 31 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 32 | [VaadDeğil YapıKayıt](http://twitter.com/search?q=VaadDe%c4%9fil+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 34 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 35 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
+| 36 | [Fatih Karagümrük](http://twitter.com/search?q=Fatih+Karag%c3%bcmr%c3%bck) | N/A |
+| 37 | [DEVA Partisi](http://twitter.com/search?q=DEVA+Partisi) | N/A |
+| 38 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 39 | [Torpil](http://twitter.com/search?q=Torpil) | N/A |
+| 40 | [Milli Duruş](http://twitter.com/search?q=Milli+Duru%c5%9f) | N/A |
+| 41 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
+| 42 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 43 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
+| 44 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
+| 45 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 46 | [GelsinHayat İkinciSezon](http://twitter.com/search?q=GelsinHayat+%c4%b0kinciSezon) | N/A |
 
 
 
