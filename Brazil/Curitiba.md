@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-03 05:16:53 UTC`
+📆 Last Updated: `2023-04-03 06:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Brazil](</Brazil>)
 | 6 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
 | 7 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
 | 8 | [O VOTO É PRA FICAR](http://twitter.com/search?q=O+VOTO+%c3%89+PRA+FICAR) | N/A |
-| 9 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 10 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
 | 11 | [#VivaSalvadorNaGlobo](http://twitter.com/search?q=%23VivaSalvadorNaGlobo) | N/A |
 | 12 | [Vota](http://twitter.com/search?q=Vota) | N/A |
-| 13 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
-| 14 | [Votem](http://twitter.com/search?q=Votem) | N/A |
-| 15 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 16 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 17 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 18 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 19 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 21 | [NÃO DIVIDAM VOTOS](http://twitter.com/search?q=N%c3%83O+DIVIDAM+VOTOS) | N/A |
-| 22 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
-| 23 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 24 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 25 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 26 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 27 | [Estratégia](http://twitter.com/search?q=Estrat%c3%a9gia) | N/A |
-| 28 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 29 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
-| 30 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
-| 31 | [Bibi Perigosa](http://twitter.com/search?q=Bibi+Perigosa) | N/A |
+| 13 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 14 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
+| 15 | [Votem](http://twitter.com/search?q=Votem) | N/A |
+| 16 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
+| 17 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
+| 18 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 19 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 20 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 21 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 22 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 23 | [NÃO DIVIDAM VOTOS](http://twitter.com/search?q=N%c3%83O+DIVIDAM+VOTOS) | N/A |
+| 24 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 25 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 26 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 27 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
+| 28 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
+| 29 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 30 | [Kubrick](http://twitter.com/search?q=Kubrick) | N/A |
+| 31 | [Estratégia](http://twitter.com/search?q=Estrat%c3%a9gia) | N/A |
 | 32 | [Raissa](http://twitter.com/search?q=Raissa) | N/A |
-| 33 | [Luedji](http://twitter.com/search?q=Luedji) | N/A |
-| 34 | [Quem FICA](http://twitter.com/search?q=Quem+FICA) | N/A |
-| 35 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 36 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
-| 37 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
-| 38 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
-| 39 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 40 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 41 | [Kubrick](http://twitter.com/search?q=Kubrick) | N/A |
+| 33 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 34 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 35 | [Luedji](http://twitter.com/search?q=Luedji) | N/A |
+| 36 | [Bibi Perigosa](http://twitter.com/search?q=Bibi+Perigosa) | N/A |
+| 37 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 38 | [Quem FICA](http://twitter.com/search?q=Quem+FICA) | N/A |
+| 39 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
+| 40 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 41 | [SALVAR](http://twitter.com/search?q=SALVAR) | N/A |
 | 42 | [Lidi](http://twitter.com/search?q=Lidi) | N/A |
-| 43 | [SALVAR](http://twitter.com/search?q=SALVAR) | N/A |
-| 44 | [Clube da Luta](http://twitter.com/search?q=Clube+da+Luta) | N/A |
-| 45 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 46 | [Larrisa](http://twitter.com/search?q=Larrisa) | N/A |
-| 47 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 48 | [#paredaobbb](http://twitter.com/search?q=%23paredaobbb) | N/A |
-| 49 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 50 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
+| 43 | [Clube da Luta](http://twitter.com/search?q=Clube+da+Luta) | N/A |
+| 44 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 45 | [Larrisa](http://twitter.com/search?q=Larrisa) | N/A |
+| 46 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 47 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 49 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 50 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 
 
 
