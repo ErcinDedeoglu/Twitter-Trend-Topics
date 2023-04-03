@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-03 01:44:11 UTC`
+📆 Last Updated: `2023-04-03 02:29:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Philippines
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
 | 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 3 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
-| 4 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 5 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
+| 3 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 5 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
 | 6 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
-| 7 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 8 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 9 | [#GoUste](http://twitter.com/search?q=%23GoUste) | N/A |
+| 7 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
+| 8 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
+| 9 | [#NadineLustreXTatler](http://twitter.com/search?q=%23NadineLustreXTatler) | N/A |
 | 10 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 11 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 12 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
-| 13 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 14 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 15 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 16 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [NO SWEEP](http://twitter.com/search?q=NO+SWEEP) | N/A |
+| 12 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 13 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 15 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 16 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
 | 17 | [NAWINDANG ANG A'TIN ERA](http://twitter.com/search?q=NAWINDANG+ANG+A%27TIN+ERA) | N/A |
-| 18 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 19 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 18 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 19 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
 | 20 | [happy sundate kdlex](http://twitter.com/search?q=happy+sundate+kdlex) | N/A |
-| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 22 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
-| 23 | [ticket secured](http://twitter.com/search?q=ticket+secured) | N/A |
+| 21 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
+| 22 | [ticket secured](http://twitter.com/search?q=ticket+secured) | N/A |
+| 23 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
 | 24 | [anji abrilakas makasenti](http://twitter.com/search?q=anji+abrilakas+makasenti) | N/A |
-| 25 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 25 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
 | 26 | [asaprilivewith queenjona](http://twitter.com/search?q=asaprilivewith+queenjona) | N/A |
 | 27 | [fearless diva jona](http://twitter.com/search?q=fearless+diva+jona) | N/A |
-| 28 | [JIMIN NO2 ON BILLBOARD 200](http://twitter.com/search?q=JIMIN+NO2+ON+BILLBOARD+200) | N/A |
-| 29 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 30 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
-| 31 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 32 | [Jaehyuk](http://twitter.com/search?q=Jaehyuk) | N/A |
-| 33 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
-| 34 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
-| 35 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
-| 36 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
-| 37 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
-| 38 | [TWYLAM ONEMILLION](http://twitter.com/search?q=TWYLAM+ONEMILLION) | N/A |
-| 39 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 40 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 41 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 42 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 43 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
-| 44 | [best sundate ever with seth](http://twitter.com/search?q=best+sundate+ever+with+seth) | N/A |
-| 45 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 46 | [April Shower](http://twitter.com/search?q=April+Shower) | N/A |
-| 47 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 48 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 49 | [BingBing](http://twitter.com/search?q=BingBing) | N/A |
-| 50 | [karina at mana awards](http://twitter.com/search?q=karina+at+mana+awards) | N/A |
+| 28 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 29 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 30 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 31 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 32 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 33 | [queen regine soloagain](http://twitter.com/search?q=queen+regine+soloagain) | N/A |
+| 34 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 35 | [Jaehyuk](http://twitter.com/search?q=Jaehyuk) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [TWO TITLE TRACKS](http://twitter.com/search?q=TWO+TITLE+TRACKS) | N/A |
+| 38 | [bloomingapril for darren](http://twitter.com/search?q=bloomingapril+for+darren) | N/A |
+| 39 | [TWYLAM ONEMILLION](http://twitter.com/search?q=TWYLAM+ONEMILLION) | N/A |
+| 40 | [see you 7dream](http://twitter.com/search?q=see+you+7dream) | N/A |
+| 41 | [vivoree matapang mediatour](http://twitter.com/search?q=vivoree+matapang+mediatour) | N/A |
+| 42 | [BingBing](http://twitter.com/search?q=BingBing) | N/A |
+| 43 | [IVE IS COMING](http://twitter.com/search?q=IVE+IS+COMING) | N/A |
+| 44 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 45 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 46 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 47 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 48 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 49 | [abrilayag kinji on asap](http://twitter.com/search?q=abrilayag+kinji+on+asap) | N/A |
+| 50 | [best sundate ever with seth](http://twitter.com/search?q=best+sundate+ever+with+seth) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-03 01:44:06 UTC`
+📆 Last Updated: `2023-04-03 02:29:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,9 +27,9 @@ This is top 50 for Belarus
 | 10 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 11 | [национальному](http://twitter.com/search?q=%d0%bd%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc%d1%83) | N/A |
 | 12 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 13 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
+| 13 | [какое](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 14 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 15 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 15 | [точно](http://twitter.com/search?q=%d1%82%d0%be%d1%87%d0%bd%d0%be) | N/A |
 | 16 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
 | 17 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
 | 18 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-04-03 01:44:05 UTC`
+📆 Last Updated: `2023-04-03 02:29:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [心機一転](http://twitter.com/search?q=%e5%bf%83%e6%a9%9f%e4%b8%80%e8%bb%a2) | N/A |
-| 2 | [#私のキレた時の危険度はコレ](http://twitter.com/search?q=%23%e7%a7%81%e3%81%ae%e3%82%ad%e3%83%ac%e3%81%9f%e6%99%82%e3%81%ae%e5%8d%b1%e9%99%ba%e5%ba%a6%e3%81%af%e3%82%b3%e3%83%ac) | #私のキレた時の危険度はコレ is a Japanese phrase that translates to "This is the danger level when I get angry". It is used to express the idea that someone's anger can be dangerous and should be taken seriously. |
-| 3 | [ライディーン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3) | ライディーン is a Japanese word that means "leader" or "guide". It is often used to refer to someone who takes the lead in a group or organization. |
-| 4 | [坂本さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
-| 5 | [#ペットとして売られた](http://twitter.com/search?q=%23%e3%83%9a%e3%83%83%e3%83%88%e3%81%a8%e3%81%97%e3%81%a6%e5%a3%b2%e3%82%89%e3%82%8c%e3%81%9f) | N/A |
-| 6 | [ラストエンペラー](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%82%a8%e3%83%b3%e3%83%9a%e3%83%a9%e3%83%bc) | N/A |
-| 7 | [飼育難易度](http://twitter.com/search?q=%e9%a3%bc%e8%82%b2%e9%9b%a3%e6%98%93%e5%ba%a6) | 飼育難易度 (shīyù nányìdù) is a Japanese term that translates to "difficulty of keeping/raising" and refers to the difficulty of taking care of a particular pet or animal. It is used to describe how difficult it is to look after a certain type of pet, such as a dog, cat, or bird. |
-| 8 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
-| 9 | [新入社員](http://twitter.com/search?q=%e6%96%b0%e5%85%a5%e7%a4%be%e5%93%a1) | N/A |
-| 10 | [生田斗真](http://twitter.com/search?q=%e7%94%9f%e7%94%b0%e6%96%97%e7%9c%9f) | N/A |
-| 11 | [通信障害](http://twitter.com/search?q=%e9%80%9a%e4%bf%a1%e9%9a%9c%e5%ae%b3) | 通信障害 (tsūshin shōgai) is a Japanese term that translates to “communication failure” or “communication disruption” in English. It refers to any kind of interruption or malfunction in communication systems, such as telephone lines, internet connections, or radio signals. |
-| 12 | [満員電車](http://twitter.com/search?q=%e6%ba%80%e5%93%a1%e9%9b%bb%e8%bb%8a) | 満員電車 (man'in densha) is a Japanese phrase meaning "crowded train". It is used to describe a train that is so full of passengers that it is difficult to find a seat. |
-| 13 | [#DayDay](http://twitter.com/search?q=%23DayDay) | N/A |
-| 14 | [みいつけた](http://twitter.com/search?q=%e3%81%bf%e3%81%84%e3%81%a4%e3%81%91%e3%81%9f) | N/A |
-| 15 | [慣らし保育](http://twitter.com/search?q=%e6%85%a3%e3%82%89%e3%81%97%e4%bf%9d%e8%82%b2) | N/A |
-| 16 | [フレッツ光](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%83%84%e5%85%89) | N/A |
-| 17 | [新年度初日](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e5%88%9d%e6%97%a5) | N/A |
-| 18 | [#めざまし8](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%978) | N/A |
-| 19 | [#あまちゃん](http://twitter.com/search?q=%23%e3%81%82%e3%81%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [メタモンレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%a2%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 21 | [フユカさん](http://twitter.com/search?q=%e3%83%95%e3%83%a6%e3%82%ab%e3%81%95%e3%82%93) | フユカさん is a Japanese nickname for the character Fuyuka from the manga series "Kimi ni Todoke". It translates to "Ms. Fuyuka" in English. |
-| 22 | [抽選のチャンス](http://twitter.com/search?q=%e6%8a%bd%e9%81%b8%e3%81%ae%e3%83%81%e3%83%a3%e3%83%b3%e3%82%b9) | N/A |
-| 23 | [🌸@i8791](http://twitter.com/search?q=%f0%9f%8c%b8%40i8791) | N/A |
-| 24 | [ポッター解任](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%82%bf%e3%83%bc%e8%a7%a3%e4%bb%bb) | N/A |
-| 25 | [電車激混み](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e6%bf%80%e6%b7%b7%e3%81%bf) | N/A |
-| 26 | [Wチャンス](http://twitter.com/search?q=W%e3%83%81%e3%83%a3%e3%83%b3%e3%82%b9) | N/A |
-| 27 | [かずむおにいさん](http://twitter.com/search?q=%e3%81%8b%e3%81%9a%e3%82%80%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
-| 28 | [緊急通報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%80%9a%e5%a0%b1) | N/A |
-| 29 | [玉川さん](http://twitter.com/search?q=%e7%8e%89%e5%b7%9d%e3%81%95%e3%82%93) | 玉川さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Tamagawa" or "Ms. Tamagawa". |
-| 30 | [おうちゃん](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [殴り合い](http://twitter.com/search?q=%e6%ae%b4%e3%82%8a%e5%90%88%e3%81%84) | N/A |
-| 32 | [フレッシュ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 33 | [設備故障](http://twitter.com/search?q=%e8%a8%ad%e5%82%99%e6%95%85%e9%9a%9c) | N/A |
-| 34 | [CDTV](http://twitter.com/search?q=CDTV) | CDTV stands for Commodore Dynamic Total Vision, which was a multimedia entertainment system developed by Commodore International in 1991. It was a combination of a CD-ROM drive, an Amiga 500 computer, and a remote control. The system was designed to play interactive multimedia titles on CD-ROMs, as well as audio CDs and other types of media. |
-| 35 | [デザインあ](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%82) | デザインあ is a Japanese phrase that translates to "Design A". It is often used to refer to a specific design or style of something. |
+| 1 | [#福本大晴入所12周年](http://twitter.com/search?q=%23%e7%a6%8f%e6%9c%ac%e5%a4%a7%e6%99%b4%e5%85%a5%e6%89%8012%e5%91%a8%e5%b9%b4) | N/A |
+| 2 | [心機一転](http://twitter.com/search?q=%e5%bf%83%e6%a9%9f%e4%b8%80%e8%bb%a2) | N/A |
+| 3 | [#永瀬廉入所12周年](http://twitter.com/search?q=%23%e6%b0%b8%e7%80%ac%e5%bb%89%e5%85%a5%e6%89%8012%e5%91%a8%e5%b9%b4) | N/A |
+| 4 | [#私のキレた時の危険度はコレ](http://twitter.com/search?q=%23%e7%a7%81%e3%81%ae%e3%82%ad%e3%83%ac%e3%81%9f%e6%99%82%e3%81%ae%e5%8d%b1%e9%99%ba%e5%ba%a6%e3%81%af%e3%82%b3%e3%83%ac) | #私のキレた時の危険度はコレ is a Japanese phrase that translates to "This is the danger level when I get angry". It is used to express the idea that someone's anger can be dangerous and should be taken seriously. |
+| 5 | [坂本さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 6 | [年度始め](http://twitter.com/search?q=%e5%b9%b4%e5%ba%a6%e5%a7%8b%e3%82%81) | N/A |
+| 7 | [#髙橋海人誕生祭2023](http://twitter.com/search?q=%23%e9%ab%99%e6%a9%8b%e6%b5%b7%e4%ba%ba%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 8 | [ライディーン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3) | ライディーン is a Japanese word that means "leader" or "guide". It is often used to refer to someone who takes the lead in a group or organization. |
+| 9 | [#ペットとして売られた](http://twitter.com/search?q=%23%e3%83%9a%e3%83%83%e3%83%88%e3%81%a8%e3%81%97%e3%81%a6%e5%a3%b2%e3%82%89%e3%82%8c%e3%81%9f) | N/A |
+| 10 | [オリエンテーション](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%82%a8%e3%83%b3%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 11 | [ラストエンペラー](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%82%a8%e3%83%b3%e3%83%9a%e3%83%a9%e3%83%bc) | N/A |
+| 12 | [飼育難易度](http://twitter.com/search?q=%e9%a3%bc%e8%82%b2%e9%9b%a3%e6%98%93%e5%ba%a6) | 飼育難易度 (shīyù nányìdù) is a Japanese term that translates to "difficulty of keeping/raising" and refers to the difficulty of taking care of a particular pet or animal. It is used to describe how difficult it is to look after a certain type of pet, such as a dog, cat, or bird. |
+| 13 | [新社会人](http://twitter.com/search?q=%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba) | N/A |
+| 14 | [新入社員](http://twitter.com/search?q=%e6%96%b0%e5%85%a5%e7%a4%be%e5%93%a1) | N/A |
+| 15 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
+| 16 | [生田斗真](http://twitter.com/search?q=%e7%94%9f%e7%94%b0%e6%96%97%e7%9c%9f) | N/A |
+| 17 | [通信障害](http://twitter.com/search?q=%e9%80%9a%e4%bf%a1%e9%9a%9c%e5%ae%b3) | 通信障害 (tsūshin shōgai) is a Japanese term that translates to “communication failure” or “communication disruption” in English. It refers to any kind of interruption or malfunction in communication systems, such as telephone lines, internet connections, or radio signals. |
+| 18 | [慣らし保育](http://twitter.com/search?q=%e6%85%a3%e3%82%89%e3%81%97%e4%bf%9d%e8%82%b2) | N/A |
+| 19 | [フユカさん](http://twitter.com/search?q=%e3%83%95%e3%83%a6%e3%82%ab%e3%81%95%e3%82%93) | フユカさん is a Japanese nickname for the character Fuyuka from the manga series "Kimi ni Todoke". It translates to "Ms. Fuyuka" in English. |
+| 20 | [満員電車](http://twitter.com/search?q=%e6%ba%80%e5%93%a1%e9%9b%bb%e8%bb%8a) | 満員電車 (man'in densha) is a Japanese phrase meaning "crowded train". It is used to describe a train that is so full of passengers that it is difficult to find a seat. |
+| 21 | [メタモンレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%a2%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 22 | [🌸@i8791](http://twitter.com/search?q=%f0%9f%8c%b8%40i8791) | N/A |
+| 23 | [抽選のチャンス](http://twitter.com/search?q=%e6%8a%bd%e9%81%b8%e3%81%ae%e3%83%81%e3%83%a3%e3%83%b3%e3%82%b9) | N/A |
+| 24 | [フレッツ光](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%83%84%e5%85%89) | N/A |
+| 25 | [みいつけた](http://twitter.com/search?q=%e3%81%bf%e3%81%84%e3%81%a4%e3%81%91%e3%81%9f) | N/A |
+| 26 | [新年度初日](http://twitter.com/search?q=%e6%96%b0%e5%b9%b4%e5%ba%a6%e5%88%9d%e6%97%a5) | N/A |
+| 27 | [Wチャンス](http://twitter.com/search?q=W%e3%83%81%e3%83%a3%e3%83%b3%e3%82%b9) | N/A |
+| 28 | [カスタネットポーチ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%8d%e3%83%83%e3%83%88%e3%83%9d%e3%83%bc%e3%83%81) | N/A |
+| 29 | [殴り合いの喧嘩](http://twitter.com/search?q=%e6%ae%b4%e3%82%8a%e5%90%88%e3%81%84%e3%81%ae%e5%96%a7%e5%98%a9) | N/A |
+| 30 | [電車激混み](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e6%bf%80%e6%b7%b7%e3%81%bf) | N/A |
+| 31 | [緊急通報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%80%9a%e5%a0%b1) | N/A |
+| 32 | [ポッター解任](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%82%bf%e3%83%bc%e8%a7%a3%e4%bb%bb) | N/A |
+| 33 | [かずむおにいさん](http://twitter.com/search?q=%e3%81%8b%e3%81%9a%e3%82%80%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
+| 34 | [ちいかわくじ](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%8f%e3%81%98) | N/A |
+| 35 | [玉川さん](http://twitter.com/search?q=%e7%8e%89%e5%b7%9d%e3%81%95%e3%82%93) | 玉川さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Tamagawa" or "Ms. Tamagawa". |
 | 36 | [シャアの反乱](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%a2%e3%81%ae%e5%8f%8d%e4%b9%b1) | N/A |
-| 37 | [NTT東西](http://twitter.com/search?q=NTT%e6%9d%b1%e8%a5%bf) | N/A |
-| 38 | [デラーズ紛争](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%83%bc%e3%82%ba%e7%b4%9b%e4%ba%89) | N/A |
+| 37 | [カノンの映像](http://twitter.com/search?q=%e3%82%ab%e3%83%8e%e3%83%b3%e3%81%ae%e6%98%a0%e5%83%8f) | N/A |
+| 38 | [フレッシュ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
 | 39 | [歴代乗機](http://twitter.com/search?q=%e6%ad%b4%e4%bb%a3%e4%b9%97%e6%a9%9f) | N/A |
-| 40 | [グリプス戦役](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%97%e3%82%b9%e6%88%a6%e5%bd%b9) | N/A |
-| 41 | [ナーゲルスマン](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%82%b2%e3%83%ab%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
-| 42 | [坂本くん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
-| 43 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [坂本龍一](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e9%be%8d%e4%b8%80) | N/A |
-| 45 | [にほんごであそぼ](http://twitter.com/search?q=%e3%81%ab%e3%81%bb%e3%82%93%e3%81%94%e3%81%a7%e3%81%82%e3%81%9d%e3%81%bc) | N/A |
-| 46 | [接続障害](http://twitter.com/search?q=%e6%8e%a5%e7%b6%9a%e9%9a%9c%e5%ae%b3) | N/A |
-| 47 | [武田アナ](http://twitter.com/search?q=%e6%ad%a6%e7%94%b0%e3%82%a2%e3%83%8a) | N/A |
-| 48 | [照史くん](http://twitter.com/search?q=%e7%85%a7%e5%8f%b2%e3%81%8f%e3%82%93) | 照史くん is a character from the Japanese manga series, Kochikame. He is a police officer who works at the Ryōgoku Police Station. His name literally translates to "Shine History" and he is known for his strong sense of justice and his dedication to protecting the peace of the city. |
-| 49 | [通勤電車](http://twitter.com/search?q=%e9%80%9a%e5%8b%a4%e9%9b%bb%e8%bb%8a) | N/A |
+| 40 | [デラーズ紛争](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%83%bc%e3%82%ba%e7%b4%9b%e4%ba%89) | N/A |
+| 41 | [NTT東西](http://twitter.com/search?q=NTT%e6%9d%b1%e8%a5%bf) | N/A |
+| 42 | [設備故障](http://twitter.com/search?q=%e8%a8%ad%e5%82%99%e6%95%85%e9%9a%9c) | N/A |
+| 43 | [CDTV](http://twitter.com/search?q=CDTV) | CDTV stands for Commodore Dynamic Total Vision, which was a multimedia entertainment system developed by Commodore International in 1991. It was a combination of a CD-ROM drive, an Amiga 500 computer, and a remote control. The system was designed to play interactive multimedia titles on CD-ROMs, as well as audio CDs and other types of media. |
+| 44 | [グリプス戦役](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%97%e3%82%b9%e6%88%a6%e5%bd%b9) | N/A |
+| 45 | [次のピーク](http://twitter.com/search?q=%e6%ac%a1%e3%81%ae%e3%83%94%e3%83%bc%e3%82%af) | N/A |
+| 46 | [スマスロ北斗](http://twitter.com/search?q=%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%ad%e5%8c%97%e6%96%97) | N/A |
+| 47 | [都内コロナ感染者数](http://twitter.com/search?q=%e9%83%bd%e5%86%85%e3%82%b3%e3%83%ad%e3%83%8a%e6%84%9f%e6%9f%93%e8%80%85%e6%95%b0) | N/A |
+| 48 | [マスク着用状況3パターン](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8%e7%8a%b6%e6%b3%813%e3%83%91%e3%82%bf%e3%83%bc%e3%83%b3) | N/A |
+| 49 | [ナーゲルスマン](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%82%b2%e3%83%ab%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
 
 
 

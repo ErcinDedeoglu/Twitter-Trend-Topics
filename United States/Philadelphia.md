@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-03 01:44:02 UTC`
+📆 Last Updated: `2023-04-03 02:29:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 2 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 3 | [Falter](http://twitter.com/search?q=Falter) | N/A |
-| 4 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 3 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 4 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
 | 5 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 6 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 7 | [Trea](http://twitter.com/search?q=Trea) | N/A |
+| 6 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 7 | [Falter](http://twitter.com/search?q=Falter) | N/A |
 | 8 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 9 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 10 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 11 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 12 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 13 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 14 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 15 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 16 | [#1Kris](http://twitter.com/search?q=%231Kris) | N/A |
-| 17 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 20 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 21 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 22 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 23 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 24 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 25 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 26 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 28 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 29 | [#CMTAwards](http://twitter.com/search?q=%23CMTAwards) | N/A |
-| 30 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 31 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 32 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 33 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 34 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 35 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 36 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 37 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 38 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
-| 39 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 40 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 41 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 42 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 43 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 44 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 45 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 46 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 47 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 48 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 49 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 50 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
+| 9 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
+| 10 | [Trea](http://twitter.com/search?q=Trea) | N/A |
+| 11 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 12 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 13 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 14 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 15 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 16 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 17 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 18 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 19 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
+| 20 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 21 | [#1Kris](http://twitter.com/search?q=%231Kris) | N/A |
+| 22 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 23 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 24 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 25 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 26 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 27 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 28 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 29 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 30 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 31 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 32 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 34 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 36 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 37 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 38 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 39 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 40 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 42 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 43 | [Slayer](http://twitter.com/search?q=Slayer) | N/A |
+| 44 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 45 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 46 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 47 | [South of Heaven](http://twitter.com/search?q=South+of+Heaven) | N/A |
+| 48 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 49 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 50 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
 
 
 

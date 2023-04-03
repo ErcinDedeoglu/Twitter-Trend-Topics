@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-03 01:43:37 UTC`
+📆 Last Updated: `2023-04-03 02:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 19 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
 | 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 21 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 22 | [delfi](http://twitter.com/search?q=delfi) | N/A |
+| 22 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
 | 23 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
 | 24 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
 | 25 | [daudz](http://twitter.com/search?q=daudz) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 30 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
 | 31 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
 | 32 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 33 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
+| 33 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 34 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 35 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
 | 36 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |

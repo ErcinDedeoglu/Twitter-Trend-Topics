@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-03 01:44:12 UTC`
+📆 Last Updated: `2023-04-03 02:29:59 UTC`
 
 🔧 Updated every 1 hour!
 

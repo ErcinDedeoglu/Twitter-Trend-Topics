@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-03 01:44:12 UTC`
+📆 Last Updated: `2023-04-03 02:30:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,16 +34,16 @@ This is top 50 for Ukraine
 | 17 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 18 | [порох](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d0%be%d1%85) | N/A |
 | 19 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
-| 20 | [Порядок](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba) | N/A |
-| 21 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 20 | [порядок](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba) | N/A |
+| 21 | [маска](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
 | 22 | [The UN](http://twitter.com/search?q=The+UN) | N/A |
-| 23 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
+| 23 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
 | 24 | [Security Council](http://twitter.com/search?q=Security+Council) | N/A |
 | 25 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
 | 26 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
 | 27 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 28 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
-| 29 | [Здоров](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2) | N/A |
+| 29 | [здоров](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2) | N/A |
 | 30 | [лавру](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b2%d1%80%d1%83) | N/A |
 | 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 32 | [файно](http://twitter.com/search?q=%d1%84%d0%b0%d0%b9%d0%bd%d0%be) | N/A |

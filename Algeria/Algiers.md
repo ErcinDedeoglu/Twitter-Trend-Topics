@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-03 01:43:47 UTC`
+📆 Last Updated: `2023-04-03 02:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,11 +25,11 @@ This is top 50 for [Algeria](</Algeria>)
 | 8 | [الاخضر الليبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d8%a8%d9%8a) | N/A |
 | 9 | [#ExchangeWithKindness](http://twitter.com/search?q=%23ExchangeWithKindness) | N/A |
 | 10 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 11 | [كاس ماء](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%a7%d8%a1) | N/A |
-| 12 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
-| 13 | [القوات البريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%87) | N/A |
-| 14 | [التدخل الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | N/A |
-| 15 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 11 | [القوات البريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%87) | N/A |
+| 12 | [كاس ماء](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%a7%d8%a1) | N/A |
+| 13 | [التدخل الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | N/A |
+| 14 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 15 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
 | 16 | [غراهام بوتر](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
 | 17 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
 | 18 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
@@ -38,13 +38,13 @@ This is top 50 for [Algeria](</Algeria>)
 | 21 | [#MciLiv](http://twitter.com/search?q=%23MciLiv) | N/A |
 | 22 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
 | 23 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
-| 24 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 25 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 26 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
+| 24 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
+| 25 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 26 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 28 | [قصر المسافر](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%81%d8%b1) | N/A |
 | 29 | [لخضر بلومي](http://twitter.com/search?q=%d9%84%d8%ae%d8%b6%d8%b1+%d8%a8%d9%84%d9%88%d9%85%d9%8a) | N/A |
-| 30 | [اللاعبين الافارقه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 30 | [الجيش الوطني الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
 | 31 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
 | 32 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
 | 33 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |

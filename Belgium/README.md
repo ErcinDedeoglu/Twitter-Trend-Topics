@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-03 01:44:06 UTC`
+📆 Last Updated: `2023-04-03 02:29:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for Belgium
 | 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 22 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
 | 23 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 24 | [Lotte Kopecky](http://twitter.com/search?q=Lotte+Kopecky) | N/A |
+| 24 | [lotte kopecky](http://twitter.com/search?q=lotte+kopecky) | N/A |
 | 25 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 27 | [Oudenaarde](http://twitter.com/search?q=Oudenaarde) | N/A |

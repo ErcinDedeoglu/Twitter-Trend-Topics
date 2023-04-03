@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-04-03 01:43:37 UTC`
+📆 Last Updated: `2023-04-03 02:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DomingoDeRamos2023](http://twitter.com/search?q=%23DomingoDeRamos2023) | N/A |
+| 1 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 2 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
-| 3 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 4 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 5 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 6 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 7 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 8 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 9 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 10 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 11 | [#SecretosFamilia2Abr](http://twitter.com/search?q=%23SecretosFamilia2Abr) | N/A |
-| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 13 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 14 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
-| 15 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 16 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
-| 17 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 18 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 19 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 20 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Penas](http://twitter.com/search?q=Penas) | N/A |
-| 23 | [Joaquín](http://twitter.com/search?q=Joaqu%c3%adn) | Joaquín is a Spanish name derived from the Hebrew name Yehoyakim, which means "God will establish". In English, it is usually translated as Joaquin. |
-| 24 | [La Estrella](http://twitter.com/search?q=La+Estrella) | N/A |
-| 25 | [Luis Aragonés](http://twitter.com/search?q=Luis+Aragon%c3%a9s) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 28 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 30 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 31 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 32 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 33 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 34 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
-| 35 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 36 | [Referente](http://twitter.com/search?q=Referente) | N/A |
-| 37 | [Colau](http://twitter.com/search?q=Colau) | N/A |
-| 38 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 39 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 40 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 41 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
-| 42 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 43 | [Copa de la Reina](http://twitter.com/search?q=Copa+de+la+Reina) | N/A |
-| 44 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 45 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
-| 46 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 3 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 4 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 5 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 11 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 12 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 14 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 15 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 17 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 18 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 19 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 20 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 22 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
+| 23 | [Magariños](http://twitter.com/search?q=Magari%c3%b1os) | N/A |
+| 24 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 25 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 26 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 27 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
+| 28 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 29 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 30 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 31 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 32 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 33 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 34 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 36 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 37 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 38 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 39 | [McGee](http://twitter.com/search?q=McGee) | N/A |
+| 40 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 41 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 42 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 43 | [Tour de Flandes](http://twitter.com/search?q=Tour+de+Flandes) | N/A |
+| 44 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 45 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 46 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 47 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 48 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
 
 
 

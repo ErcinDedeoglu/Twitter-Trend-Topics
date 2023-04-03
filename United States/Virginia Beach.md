@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-03 01:44:05 UTC`
+📆 Last Updated: `2023-04-03 02:29:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 2 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 3 | [#ToyotaOwners400](http://twitter.com/search?q=%23ToyotaOwners400) | N/A |
-| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 5 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 6 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 7 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 8 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 9 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 10 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 11 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 12 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 13 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 14 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 15 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 16 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 17 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 18 | [#CMTAwards](http://twitter.com/search?q=%23CMTAwards) | N/A |
-| 19 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 20 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 21 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 22 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 23 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 24 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
-| 25 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 26 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 27 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
-| 28 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 29 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 30 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 31 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 32 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 33 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 34 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 35 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 36 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 37 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 38 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 39 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 40 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 41 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
-| 42 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 43 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
-| 44 | [Dave Portnoy](http://twitter.com/search?q=Dave+Portnoy) | N/A |
-| 45 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 46 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 47 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 48 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 49 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 50 | [Intercontinental Championship](http://twitter.com/search?q=Intercontinental+Championship) | N/A |
+| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 2 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 3 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
+| 4 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 5 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
+| 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 7 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 8 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 9 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 10 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 11 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 12 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 13 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 14 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 15 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 16 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 17 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 18 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 19 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 20 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 21 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 22 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 23 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 24 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 25 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 26 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 28 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 30 | [Slayer](http://twitter.com/search?q=Slayer) | N/A |
+| 31 | [The Demon](http://twitter.com/search?q=The+Demon) | N/A |
+| 32 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 33 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 34 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 35 | [South of Heaven](http://twitter.com/search?q=South+of+Heaven) | N/A |
+| 36 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 37 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 38 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 39 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 40 | [People's Elbow](http://twitter.com/search?q=People%27s+Elbow) | N/A |
+| 41 | [Jelly Roll](http://twitter.com/search?q=Jelly+Roll) | N/A |
+| 42 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 43 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 44 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 45 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
+| 46 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 47 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 48 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 49 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 50 | [Russell Crowe](http://twitter.com/search?q=Russell+Crowe) | N/A |
 
 
 

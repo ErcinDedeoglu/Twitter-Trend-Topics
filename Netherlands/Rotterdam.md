@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-03 01:43:36 UTC`
+📆 Last Updated: `2023-04-03 02:29:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
-| 2 | [#spafey](http://twitter.com/search?q=%23spafey) | N/A |
+| 2 | [#spaFEY](http://twitter.com/search?q=%23spaFEY) | N/A |
 | 3 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
 | 4 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
 | 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
@@ -33,38 +33,38 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 16 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 19 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 20 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 21 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [koers](http://twitter.com/search?q=koers) | N/A |
-| 24 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
-| 25 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 26 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 27 | [bahrein](http://twitter.com/search?q=bahrein) | N/A |
-| 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 31 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
-| 32 | [kowet](http://twitter.com/search?q=kowet) | N/A |
-| 33 | [de var](http://twitter.com/search?q=de+var) | N/A |
-| 34 | [coolsingel](http://twitter.com/search?q=coolsingel) | N/A |
-| 35 | [vriends](http://twitter.com/search?q=vriends) | N/A |
-| 36 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
-| 37 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 38 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
-| 39 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
-| 40 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
-| 41 | [oratmangoen](http://twitter.com/search?q=oratmangoen) | N/A |
-| 42 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 43 | [Oude Kwaremont](http://twitter.com/search?q=Oude+Kwaremont) | N/A |
-| 44 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 19 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 20 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [koers](http://twitter.com/search?q=koers) | N/A |
+| 23 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
+| 24 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 25 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 26 | [bahrein](http://twitter.com/search?q=bahrein) | N/A |
+| 27 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 30 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
+| 31 | [kowet](http://twitter.com/search?q=kowet) | N/A |
+| 32 | [de var](http://twitter.com/search?q=de+var) | N/A |
+| 33 | [coolsingel](http://twitter.com/search?q=coolsingel) | N/A |
+| 34 | [vriends](http://twitter.com/search?q=vriends) | N/A |
+| 35 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
+| 36 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 37 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
+| 38 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
+| 39 | [Michael Masi](http://twitter.com/search?q=Michael+Masi) | N/A |
+| 40 | [oratmangoen](http://twitter.com/search?q=oratmangoen) | N/A |
+| 41 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 42 | [oude kwaremont](http://twitter.com/search?q=oude+kwaremont) | N/A |
+| 43 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 46 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
 | 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 48 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
-| 49 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
-| 50 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 48 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
+| 49 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 50 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
 
 
 

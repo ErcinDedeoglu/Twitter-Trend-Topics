@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-03 01:44:06 UTC`
+📆 Last Updated: `2023-04-03 02:29:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Austria
 | 12 | [Butter](http://twitter.com/search?q=Butter) | N/A |
 | 13 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
 | 14 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 15 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 15 | [inserate](http://twitter.com/search?q=inserate) | N/A |
 | 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 17 | [April April](http://twitter.com/search?q=April+April) | N/A |
 | 18 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Austria
 | 23 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 25 | [wahlkampfkosten](http://twitter.com/search?q=wahlkampfkosten) | N/A |
-| 26 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 26 | [klenk](http://twitter.com/search?q=klenk) | N/A |
 | 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 28 | [gletscher](http://twitter.com/search?q=gletscher) | N/A |
 | 29 | [Klagenfurt](http://twitter.com/search?q=Klagenfurt) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Austria
 | 42 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 43 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 44 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 45 | [Gestalten](http://twitter.com/search?q=Gestalten) | N/A |
+| 45 | [gestalten](http://twitter.com/search?q=gestalten) | N/A |
 | 46 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
 | 47 | [Tore](http://twitter.com/search?q=Tore) | N/A |
 | 48 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
 | 49 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
-| 50 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 50 | [Leser](http://twitter.com/search?q=Leser) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-03 01:44:04 UTC`
+📆 Last Updated: `2023-04-03 02:29:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 3 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
-| 4 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 5 | [#StrayKidsInLA_D2](http://twitter.com/search?q=%23StrayKidsInLA_D2) | N/A |
-| 6 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 7 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
-| 8 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 9 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 10 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 11 | [Trout and Ohtani](http://twitter.com/search?q=Trout+and+Ohtani) | N/A |
-| 12 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 13 | [Logan O'Hoppe](http://twitter.com/search?q=Logan+O%27Hoppe) | N/A |
-| 14 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 15 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 16 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 17 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 18 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 19 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 20 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 21 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 22 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 23 | [Natty](http://twitter.com/search?q=Natty) | Natty is a slang term that is used to describe someone who is stylishly dressed or well-groomed. It can also be used to describe someone who is smart or clever. The term comes from the word "natty," which means neat and trim. |
-| 24 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 28 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 29 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 30 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 31 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 32 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 34 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 35 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 36 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 37 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 38 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 39 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 40 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 41 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 42 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 43 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 44 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 45 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
-| 46 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 47 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 48 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 49 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 50 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 1 | [Rui Hachimura](http://twitter.com/search?q=Rui+Hachimura) | Rui Hachimura is a Japanese professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). His name is a combination of two Japanese words: "Rui" meaning "favorable" and "Hachimura" meaning "eight villages". |
+| 2 | [#StrayKidsInLA_D2](http://twitter.com/search?q=%23StrayKidsInLA_D2) | N/A |
+| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 4 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 5 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
+| 6 | [#SKZ_IN_LA](http://twitter.com/search?q=%23SKZ_IN_LA) | N/A |
+| 7 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 8 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 9 | [Congrats to LSU](http://twitter.com/search?q=Congrats+to+LSU) | N/A |
+| 10 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 11 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 12 | [#NCAAWBB](http://twitter.com/search?q=%23NCAAWBB) | N/A |
+| 13 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 14 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
+| 15 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 16 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 17 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 18 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 19 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 20 | [Hoppe](http://twitter.com/search?q=Hoppe) | N/A |
+| 21 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 22 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 23 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 24 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 25 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 26 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 27 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 28 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 29 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 30 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 31 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 32 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 33 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 34 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 35 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 36 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 37 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 38 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 39 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 40 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 41 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 42 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 43 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 44 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 45 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 47 | [Slayer](http://twitter.com/search?q=Slayer) | N/A |
+| 48 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 49 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 50 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 
 
 
