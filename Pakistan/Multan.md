@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-03 11:17:28 UTC`
+📆 Last Updated: `2023-04-03 12:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
 | 8 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 9 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 11 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 10 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 12 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 15 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 16 | [Khunjerab Pass](http://twitter.com/search?q=Khunjerab+Pass) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 21 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 22 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 25 | [Nabeel Gabol](http://twitter.com/search?q=Nabeel+Gabol) | N/A |
+| 13 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 17 | [Khunjerab Pass](http://twitter.com/search?q=Khunjerab+Pass) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 20 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 21 | [Nabeel Gabol](http://twitter.com/search?q=Nabeel+Gabol) | N/A |
+| 22 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 23 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 24 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 25 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
 | 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 27 | [Arslan Ash](http://twitter.com/search?q=Arslan+Ash) | N/A |
 | 28 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
 | 29 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
 | 30 | [sara at shehnaaz show](http://twitter.com/search?q=sara+at+shehnaaz+show) | N/A |
 | 31 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 32 | [Article 224](http://twitter.com/search?q=Article+224) | N/A |
+| 32 | [article 224](http://twitter.com/search?q=article+224) | N/A |
 | 33 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 34 | [tom homecoming](http://twitter.com/search?q=tom+homecoming) | N/A |
+| 34 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
 | 35 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
-| 36 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 37 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 38 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 39 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 40 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 41 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 43 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 44 | [Endorsed](http://twitter.com/search?q=Endorsed) | N/A |
-| 45 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
-| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 47 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 48 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 49 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 36 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 37 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 38 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 39 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 40 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 42 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 43 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 44 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
+| 45 | [Common](http://twitter.com/search?q=Common) | N/A |
+| 46 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 47 | [Endorsed](http://twitter.com/search?q=Endorsed) | N/A |
+| 48 | [Decision](http://twitter.com/search?q=Decision) | N/A |
+| 49 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-03 11:17:45 UTC`
+📆 Last Updated: `2023-04-03 12:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,26 +15,26 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
-| 3 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
-| 4 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
-| 5 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 6 | [#AleGobernadora](http://twitter.com/search?q=%23AleGobernadora) | N/A |
+| 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [#HorarioDeVerano](http://twitter.com/search?q=%23HorarioDeVerano) | N/A |
+| 4 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
+| 5 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 6 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
 | 7 | [#felizdomingo](http://twitter.com/search?q=%23felizdomingo) | N/A |
 | 8 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
 | 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 10 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 11 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
-| 12 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 13 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
-| 14 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 15 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 16 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 17 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 18 | [Gil Alcalá](http://twitter.com/search?q=Gil+Alcal%c3%a1) | N/A |
-| 19 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
-| 20 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
+| 12 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
+| 13 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 14 | [Universidad de Guadalajara](http://twitter.com/search?q=Universidad+de+Guadalajara) | N/A |
+| 15 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 16 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 17 | [Gil Alcalá](http://twitter.com/search?q=Gil+Alcal%c3%a1) | N/A |
+| 18 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
+| 19 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 20 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
 | 21 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
 | 22 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
 | 23 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Mexico
 | 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
 | 31 | [Tano](http://twitter.com/search?q=Tano) | N/A |
 | 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 34 | [Taddei](http://twitter.com/search?q=Taddei) | N/A |
-| 35 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 36 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 37 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 38 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 33 | [Taddei](http://twitter.com/search?q=Taddei) | N/A |
+| 34 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 35 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 36 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 37 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 38 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
 | 39 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
 | 40 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 41 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 41 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 42 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 43 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 44 | [Gloria Gaynor](http://twitter.com/search?q=Gloria+Gaynor) | N/A |
-| 45 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 46 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 47 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
-| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 45 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 46 | [fulgencio](http://twitter.com/search?q=fulgencio) | N/A |
+| 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 48 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
 | 49 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 50 | [The Blaze](http://twitter.com/search?q=The+Blaze) | N/A |
+| 50 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 
 
 

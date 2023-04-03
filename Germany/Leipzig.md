@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-03 11:17:09 UTC`
+📆 Last Updated: `2023-04-03 12:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
 | 2 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 3 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 3 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 4 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
 | 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 7 | [#julestinkesocke](http://twitter.com/search?q=%23julestinkesocke) | N/A |
 | 8 | [#KOEBMG](http://twitter.com/search?q=%23KOEBMG) | N/A |
 | 9 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 10 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
+| 10 | [accounts](http://twitter.com/search?q=accounts) | N/A |
 | 11 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
 | 12 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 13 | [Krisenmodus](http://twitter.com/search?q=Krisenmodus) | N/A |
-| 14 | [Roller](http://twitter.com/search?q=Roller) | N/A |
-| 15 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 16 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
-| 17 | [Veganerin](http://twitter.com/search?q=Veganerin) | N/A |
-| 18 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
-| 19 | ['Naturschauspiel'](http://twitter.com/search?q=%27Naturschauspiel%27) | N/A |
-| 20 | [Unfallflucht](http://twitter.com/search?q=Unfallflucht) | N/A |
-| 21 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 22 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 23 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 24 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 25 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 26 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
-| 27 | [Das Beste für Berlin](http://twitter.com/search?q=Das+Beste+f%c3%bcr+Berlin) | N/A |
-| 28 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 29 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Butz](http://twitter.com/search?q=Butz) | N/A |
-| 32 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 33 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 13 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 14 | [Veganerin](http://twitter.com/search?q=Veganerin) | N/A |
+| 15 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
+| 16 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
+| 17 | [osterwoche](http://twitter.com/search?q=osterwoche) | N/A |
+| 18 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 19 | [Unfallflucht](http://twitter.com/search?q=Unfallflucht) | N/A |
+| 20 | [Roller](http://twitter.com/search?q=Roller) | N/A |
+| 21 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 22 | [Krisenmodus](http://twitter.com/search?q=Krisenmodus) | N/A |
+| 23 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 24 | [Fakes](http://twitter.com/search?q=Fakes) | N/A |
+| 25 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
+| 26 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
+| 27 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
+| 28 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 29 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
+| 30 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
+| 31 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 32 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 34 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 35 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 36 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 37 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 38 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 39 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 40 | [Wände 80](http://twitter.com/search?q=W%c3%a4nde+80) | N/A |
-| 41 | [Guten Morgen Dieter](http://twitter.com/search?q=Guten+Morgen+Dieter) | N/A |
-| 42 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 43 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 44 | [PV an Dach & Wand](http://twitter.com/search?q=PV+an+Dach+%26+Wand) | N/A |
-| 45 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 46 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 47 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 48 | [Altes Bauernhaus](http://twitter.com/search?q=Altes+Bauernhaus) | N/A |
-| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Farke](http://twitter.com/search?q=Farke) | N/A |
+| 36 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 37 | [Gebärende](http://twitter.com/search?q=Geb%c3%a4rende) | N/A |
+| 38 | [Wände 80](http://twitter.com/search?q=W%c3%a4nde+80) | N/A |
+| 39 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 40 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 41 | [PV an Dach & Wand](http://twitter.com/search?q=PV+an+Dach+%26+Wand) | N/A |
+| 42 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 43 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 44 | [altes bauernhaus](http://twitter.com/search?q=altes+bauernhaus) | N/A |
+| 45 | [Das Beste für Berlin](http://twitter.com/search?q=Das+Beste+f%c3%bcr+Berlin) | N/A |
+| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 47 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 48 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 49 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
 
 
 

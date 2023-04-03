@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-03 11:17:15 UTC`
+📆 Last Updated: `2023-04-03 12:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 3 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 4 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
 | 5 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 7 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 8 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 9 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 6 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 7 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 8 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 9 | [Claire](http://twitter.com/search?q=Claire) | N/A |
 | 10 | [#nrlsharkswarriors](http://twitter.com/search?q=%23nrlsharkswarriors) | N/A |
-| 11 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 12 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
-| 13 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 14 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 15 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 16 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 17 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 20 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 21 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
-| 24 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 25 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 11 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
+| 12 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 13 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 14 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 16 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 18 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 19 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 20 | [Greg Mirabella](http://twitter.com/search?q=Greg+Mirabella) | N/A |
+| 21 | [Kenty](http://twitter.com/search?q=Kenty) | N/A |
+| 22 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 25 | [Libs](http://twitter.com/search?q=Libs) | N/A |
 | 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 27 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 28 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 30 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 31 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 32 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 33 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 34 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 27 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
+| 28 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 29 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 30 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 31 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 32 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 33 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 34 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 35 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 36 | [Lyndal](http://twitter.com/search?q=Lyndal) | N/A |
 | 37 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 38 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 41 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 42 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 43 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
+| 38 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 39 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 42 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 43 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 44 | [Yolngu](http://twitter.com/search?q=Yolngu) | N/A |
-| 45 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 46 | [coorey](http://twitter.com/search?q=coorey) | N/A |
-| 47 | [My Place](http://twitter.com/search?q=My+Place) | N/A |
-| 48 | [rennick](http://twitter.com/search?q=rennick) | N/A |
-| 49 | [NZ PM](http://twitter.com/search?q=NZ+PM) | N/A |
-| 50 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 45 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 46 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 47 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
+| 48 | [Coorey](http://twitter.com/search?q=Coorey) | N/A |
+| 49 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 50 | [My Place](http://twitter.com/search?q=My+Place) | N/A |
 
 
 

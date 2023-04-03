@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-04-03 11:17:43 UTC`
+📆 Last Updated: `2023-04-03 12:19:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Greece
 | ------- | ------------ | ------------ |
 | 1 | [Μιθριδατη](http://twitter.com/search?q=%ce%9c%ce%b9%ce%b8%cf%81%ce%b9%ce%b4%ce%b1%cf%84%ce%b7) | N/A |
 | 2 | [#paokaek](http://twitter.com/search?q=%23paokaek) | N/A |
-| 3 | [#OlympiacosFC](http://twitter.com/search?q=%23OlympiacosFC) | N/A |
-| 4 | [#OLYARIS](http://twitter.com/search?q=%23OLYARIS) | N/A |
-| 5 | [Ρενα Κουμιωτη](http://twitter.com/search?q=%ce%a1%ce%b5%ce%bd%ce%b1+%ce%9a%ce%bf%cf%85%ce%bc%ce%b9%cf%89%cf%84%ce%b7) | N/A |
-| 6 | [Μιτσελ](http://twitter.com/search?q=%ce%9c%ce%b9%cf%84%cf%83%ce%b5%ce%bb) | N/A |
-| 7 | [Κεραμεως](http://twitter.com/search?q=%ce%9a%ce%b5%cf%81%ce%b1%ce%bc%ce%b5%cf%89%cf%82) | N/A |
-| 8 | [#PAOVOL](http://twitter.com/search?q=%23PAOVOL) | N/A |
+| 3 | [#OLYARIS](http://twitter.com/search?q=%23OLYARIS) | N/A |
+| 4 | [Ρενα Κουμιωτη](http://twitter.com/search?q=%ce%a1%ce%b5%ce%bd%ce%b1+%ce%9a%ce%bf%cf%85%ce%bc%ce%b9%cf%89%cf%84%ce%b7) | N/A |
+| 5 | [#OlympiacosFC](http://twitter.com/search?q=%23OlympiacosFC) | N/A |
+| 6 | [Κεραμεως](http://twitter.com/search?q=%ce%9a%ce%b5%cf%81%ce%b1%ce%bc%ce%b5%cf%89%cf%82) | N/A |
+| 7 | [#roukzouk](http://twitter.com/search?q=%23roukzouk) | N/A |
+| 8 | [Μιτσελ](http://twitter.com/search?q=%ce%9c%ce%b9%cf%84%cf%83%ce%b5%ce%bb) | N/A |
 | 9 | [#νερο](http://twitter.com/search?q=%23%ce%bd%ce%b5%cf%81%ce%bf) | N/A |
 | 10 | [Τηνο](http://twitter.com/search?q=%ce%a4%ce%b7%ce%bd%ce%bf) | N/A |
 | 11 | [Ρετσος](http://twitter.com/search?q=%ce%a1%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
 | 12 | [Αριστοτελους](http://twitter.com/search?q=%ce%91%cf%81%ce%b9%cf%83%cf%84%ce%bf%cf%84%ce%b5%ce%bb%ce%bf%cf%85%cf%82) | N/A |
 | 13 | [Ιβαν](http://twitter.com/search?q=%ce%99%ce%b2%ce%b1%ce%bd) | N/A |
-| 14 | [ΠΑΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%9f%ce%9a) | N/A |
+| 14 | [ΕΥΑΘ](http://twitter.com/search?q=%ce%95%ce%a5%ce%91%ce%98) | N/A |
 | 15 | [Κανος](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 16 | [Σποραρ](http://twitter.com/search?q=%ce%a3%cf%80%ce%bf%cf%81%ce%b1%cf%81) | N/A |
-| 17 | [γεραπετριτης](http://twitter.com/search?q=%ce%b3%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%84%cf%81%ce%b9%cf%84%ce%b7%cf%82) | N/A |
-| 18 | [Συλλυπητηρια](http://twitter.com/search?q=%ce%a3%cf%85%ce%bb%ce%bb%cf%85%cf%80%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1) | N/A |
-| 19 | [Καψη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%88%ce%b7) | N/A |
-| 20 | [ΕΥΑΘ](http://twitter.com/search?q=%ce%95%ce%a5%ce%91%ce%98) | N/A |
-| 21 | [ΕΥΔΑΠ](http://twitter.com/search?q=%ce%95%ce%a5%ce%94%ce%91%ce%a0) | N/A |
-| 22 | [βολο](http://twitter.com/search?q=%ce%b2%ce%bf%ce%bb%ce%bf) | N/A |
-| 23 | [Αραουχο](http://twitter.com/search?q=%ce%91%cf%81%ce%b1%ce%bf%cf%85%cf%87%ce%bf) | N/A |
-| 24 | [Δευτερας](http://twitter.com/search?q=%ce%94%ce%b5%cf%85%cf%84%ce%b5%cf%81%ce%b1%cf%82) | N/A |
-| 25 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
+| 16 | [ΠΑΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%9f%ce%9a) | N/A |
+| 17 | [Σποραρ](http://twitter.com/search?q=%ce%a3%cf%80%ce%bf%cf%81%ce%b1%cf%81) | N/A |
+| 18 | [ΕΥΔΑΠ](http://twitter.com/search?q=%ce%95%ce%a5%ce%94%ce%91%ce%a0) | N/A |
+| 19 | [Συλλυπητηρια](http://twitter.com/search?q=%ce%a3%cf%85%ce%bb%ce%bb%cf%85%cf%80%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1) | N/A |
+| 20 | [Οινοη](http://twitter.com/search?q=%ce%9f%ce%b9%ce%bd%ce%bf%ce%b7) | N/A |
+| 21 | [Γεραπετριτης](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%84%cf%81%ce%b9%cf%84%ce%b7%cf%82) | N/A |
+| 22 | [Αραουχο](http://twitter.com/search?q=%ce%91%cf%81%ce%b1%ce%bf%cf%85%cf%87%ce%bf) | N/A |
+| 23 | [Δευτερας](http://twitter.com/search?q=%ce%94%ce%b5%cf%85%cf%84%ce%b5%cf%81%ce%b1%cf%82) | N/A |
+| 24 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
+| 25 | [Βολο](http://twitter.com/search?q=%ce%92%ce%bf%ce%bb%ce%bf) | N/A |
 | 26 | [ομορφη κυριακη](http://twitter.com/search?q=%ce%bf%ce%bc%ce%bf%cf%81%cf%86%ce%b7+%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
 | 27 | [καλη κυριακη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7+%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
-| 28 | [Καλαμπακα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b1%ce%bc%cf%80%ce%b1%ce%ba%ce%b1) | N/A |
+| 28 | [Καψης](http://twitter.com/search?q=%ce%9a%ce%b1%cf%88%ce%b7%cf%82) | N/A |
 | 29 | [Μαρεβα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b5%ce%b2%ce%b1) | N/A |
 | 30 | [μαντσινι](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%cf%84%cf%83%ce%b9%ce%bd%ce%b9) | N/A |
-| 31 | [Τουμπα](http://twitter.com/search?q=%ce%a4%ce%bf%cf%85%ce%bc%cf%80%ce%b1) | N/A |
-| 32 | [Ντοι](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%ce%b9) | N/A |
+| 31 | [Καλαμπακα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b1%ce%bc%cf%80%ce%b1%ce%ba%ce%b1) | N/A |
+| 32 | [Τουμπα](http://twitter.com/search?q=%ce%a4%ce%bf%cf%85%ce%bc%cf%80%ce%b1) | N/A |
 | 33 | [Αρσακειο](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b1%ce%ba%ce%b5%ce%b9%ce%bf) | N/A |
-| 34 | [Μπερναρ](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%cf%81%ce%bd%ce%b1%cf%81) | N/A |
+| 34 | [μπερναρ](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%cf%81%ce%bd%ce%b1%cf%81) | N/A |
 | 35 | [Χουανγκ](http://twitter.com/search?q=%ce%a7%ce%bf%cf%85%ce%b1%ce%bd%ce%b3%ce%ba) | N/A |
 | 36 | [τονι](http://twitter.com/search?q=%cf%84%ce%bf%ce%bd%ce%b9) | N/A |
-| 37 | [Εβρο](http://twitter.com/search?q=%ce%95%ce%b2%cf%81%ce%bf) | N/A |
+| 37 | [Ντοι](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%ce%b9) | N/A |
 | 38 | [Μασουρα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%83%ce%bf%cf%85%cf%81%ce%b1) | N/A |
 | 39 | [βερμπιτς](http://twitter.com/search?q=%ce%b2%ce%b5%cf%81%ce%bc%cf%80%ce%b9%cf%84%cf%82) | N/A |
-| 40 | [Παλασιος](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bb%ce%b1%cf%83%ce%b9%ce%bf%cf%82) | N/A |
-| 41 | [Καλη Εβδομαδα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%95%ce%b2%ce%b4%ce%bf%ce%bc%ce%b1%ce%b4%ce%b1) | N/A |
-| 42 | [Ρουβα](http://twitter.com/search?q=%ce%a1%ce%bf%cf%85%ce%b2%ce%b1) | N/A |
-| 43 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
+| 40 | [Καλη Εβδομαδα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%95%ce%b2%ce%b4%ce%bf%ce%bc%ce%b1%ce%b4%ce%b1) | N/A |
+| 41 | [Υπερταμειο](http://twitter.com/search?q=%ce%a5%cf%80%ce%b5%cf%81%cf%84%ce%b1%ce%bc%ce%b5%ce%b9%ce%bf) | N/A |
+| 42 | [Εβρο](http://twitter.com/search?q=%ce%95%ce%b2%cf%81%ce%bf) | N/A |
+| 43 | [Παλασιος](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bb%ce%b1%cf%83%ce%b9%ce%bf%cf%82) | N/A |
 | 44 | [μουρικη](http://twitter.com/search?q=%ce%bc%ce%bf%cf%85%cf%81%ce%b9%ce%ba%ce%b7) | N/A |
-| 45 | [Υπερταμειο](http://twitter.com/search?q=%ce%a5%cf%80%ce%b5%cf%81%cf%84%ce%b1%ce%bc%ce%b5%ce%b9%ce%bf) | N/A |
-| 46 | [ριντ](http://twitter.com/search?q=%cf%81%ce%b9%ce%bd%cf%84) | N/A |
-| 47 | [Αθηνα-Θεσσαλονικη](http://twitter.com/search?q=%ce%91%ce%b8%ce%b7%ce%bd%ce%b1-%ce%98%ce%b5%cf%83%cf%83%ce%b1%ce%bb%ce%bf%ce%bd%ce%b9%ce%ba%ce%b7) | N/A |
-| 48 | [Λεωφορο](http://twitter.com/search?q=%ce%9b%ce%b5%cf%89%cf%86%ce%bf%cf%81%ce%bf) | N/A |
-| 49 | [Turkaegean](http://twitter.com/search?q=Turkaegean) | N/A |
-| 50 | [Η Σταυρουλα](http://twitter.com/search?q=%ce%97+%ce%a3%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%85%ce%bb%ce%b1) | N/A |
+| 45 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
+| 46 | [Οικονομου](http://twitter.com/search?q=%ce%9f%ce%b9%ce%ba%ce%bf%ce%bd%ce%bf%ce%bc%ce%bf%cf%85) | N/A |
+| 47 | [Turkaegean](http://twitter.com/search?q=Turkaegean) | N/A |
+| 48 | [ριντ](http://twitter.com/search?q=%cf%81%ce%b9%ce%bd%cf%84) | N/A |
+| 49 | [Αθηνα-Θεσσαλονικη](http://twitter.com/search?q=%ce%91%ce%b8%ce%b7%ce%bd%ce%b1-%ce%98%ce%b5%cf%83%cf%83%ce%b1%ce%bb%ce%bf%ce%bd%ce%b9%ce%ba%ce%b7) | N/A |
+| 50 | [Λεωφορο](http://twitter.com/search?q=%ce%9b%ce%b5%cf%89%cf%86%ce%bf%cf%81%ce%bf) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-04-03 11:17:34 UTC`
+📆 Last Updated: `2023-04-03 12:19:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 3 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 6 | [#Wordle653](http://twitter.com/search?q=%23Wordle653) | N/A |
-| 7 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 8 | [daily quordle 434](http://twitter.com/search?q=daily+quordle+434) | N/A |
-| 9 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 10 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 11 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 12 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 13 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 14 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 15 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 16 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 1 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 2 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 3 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 4 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 5 | [#APweek23](http://twitter.com/search?q=%23APweek23) | N/A |
+| 6 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 7 | [#TheMasters](http://twitter.com/search?q=%23TheMasters) | N/A |
+| 8 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 9 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
+| 10 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 11 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 12 | [Doris Day](http://twitter.com/search?q=Doris+Day) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [UFC and WWE](http://twitter.com/search?q=UFC+and+WWE) | N/A |
+| 15 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 16 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
 | 17 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 18 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 19 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 20 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 21 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 22 | [Country Music](http://twitter.com/search?q=Country+Music) | N/A |
-| 23 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 24 | [Masters Week](http://twitter.com/search?q=Masters+Week) | N/A |
-| 25 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 26 | [bloodline](http://twitter.com/search?q=bloodline) | N/A |
-| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 28 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 29 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 30 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 31 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 32 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 33 | [Teto](http://twitter.com/search?q=Teto) | N/A |
-| 34 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 35 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
-| 36 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 37 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 38 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 39 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 40 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 41 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 42 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
-| 43 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 44 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 45 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
-| 46 | [Leafy](http://twitter.com/search?q=Leafy) | N/A |
-| 47 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
-| 48 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 49 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 50 | [Taunting](http://twitter.com/search?q=Taunting) | N/A |
+| 18 | [Country Music](http://twitter.com/search?q=Country+Music) | N/A |
+| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 20 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 21 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 22 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 23 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 24 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 25 | [Gate](http://twitter.com/search?q=Gate) | N/A |
+| 26 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 27 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 28 | [Greene](http://twitter.com/search?q=Greene) | N/A |
+| 29 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 30 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 31 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 32 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 33 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 34 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 35 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 36 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 37 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 38 | [Teto](http://twitter.com/search?q=Teto) | N/A |
+| 39 | [Mike Wallace](http://twitter.com/search?q=Mike+Wallace) | N/A |
+| 40 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 41 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 42 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 43 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 44 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
+| 45 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 46 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 47 | [scotty](http://twitter.com/search?q=scotty) | N/A |
+| 48 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 49 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
+| 50 | [Tribal Chief](http://twitter.com/search?q=Tribal+Chief) | N/A |
 
 
 
