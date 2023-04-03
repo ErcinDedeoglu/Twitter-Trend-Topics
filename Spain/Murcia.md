@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-04-03 15:17:35 UTC`
+📆 Last Updated: `2023-04-03 16:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 2 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
 | 3 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 4 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 5 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
-| 6 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 7 | [Baptista](http://twitter.com/search?q=Baptista) | N/A |
-| 8 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
-| 9 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
-| 10 | [Ruth Lorenzo](http://twitter.com/search?q=Ruth+Lorenzo) | N/A |
-| 11 | [#DiaTeHaceElCarro](http://twitter.com/search?q=%23DiaTeHaceElCarro) | N/A |
-| 12 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 13 | [helio](http://twitter.com/search?q=helio) | N/A |
-| 14 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 15 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 16 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 17 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 4 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
+| 5 | [Ethan Hayter](http://twitter.com/search?q=Ethan+Hayter) | N/A |
+| 6 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 7 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 8 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 9 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
+| 10 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 11 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 12 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 13 | [La NASA](http://twitter.com/search?q=La+NASA) | N/A |
+| 14 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 15 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
+| 16 | [#TodoEsMentira3A](http://twitter.com/search?q=%23TodoEsMentira3A) | N/A |
+| 17 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
 | 18 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
 | 19 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 20 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 21 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 22 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 23 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 24 | [#YoMeRebelo3A](http://twitter.com/search?q=%23YoMeRebelo3A) | N/A |
-| 25 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 26 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 27 | [Bordalas](http://twitter.com/search?q=Bordalas) | N/A |
-| 28 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
-| 29 | [González González](http://twitter.com/search?q=Gonz%c3%a1lez+Gonz%c3%a1lez) | N/A |
-| 30 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 31 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
-| 32 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 35 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 36 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 37 | [Adoctrinamiento](http://twitter.com/search?q=Adoctrinamiento) | N/A |
-| 38 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 39 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 40 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
-| 41 | [La Yoli](http://twitter.com/search?q=La+Yoli) | N/A |
-| 42 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
-| 43 | [Real Valladolid](http://twitter.com/search?q=Real+Valladolid) | N/A |
-| 44 | [luis García](http://twitter.com/search?q=luis+Garc%c3%ada) | N/A |
-| 45 | [Esta Semana Santa](http://twitter.com/search?q=Esta+Semana+Santa) | N/A |
-| 46 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 47 | [Catoira](http://twitter.com/search?q=Catoira) | N/A |
-| 48 | [Bajmut](http://twitter.com/search?q=Bajmut) | N/A |
+| 20 | [Ruth Lorenzo](http://twitter.com/search?q=Ruth+Lorenzo) | N/A |
+| 21 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 22 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 23 | [Baptista](http://twitter.com/search?q=Baptista) | N/A |
+| 24 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 25 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 28 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 29 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 30 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 31 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
+| 32 | [González González](http://twitter.com/search?q=Gonz%c3%a1lez+Gonz%c3%a1lez) | N/A |
+| 33 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 34 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 35 | [Bordalas](http://twitter.com/search?q=Bordalas) | N/A |
+| 36 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 38 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 39 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
+| 40 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
+| 41 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
+| 42 | [Adoctrinamiento](http://twitter.com/search?q=Adoctrinamiento) | N/A |
+| 43 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 44 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 45 | [La Yoli](http://twitter.com/search?q=La+Yoli) | N/A |
+| 46 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 47 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 48 | [Real Valladolid](http://twitter.com/search?q=Real+Valladolid) | N/A |
 
 
 

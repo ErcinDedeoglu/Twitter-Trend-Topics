@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-03 15:18:15 UTC`
+📆 Last Updated: `2023-04-03 16:19:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Kuwait
 | 4 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 5 | [#غبقه_فلاح_الهاجري](http://twitter.com/search?q=%23%d8%ba%d8%a8%d9%82%d9%87_%d9%81%d9%84%d8%a7%d8%ad_%d8%a7%d9%84%d9%87%d8%a7%d8%ac%d8%b1%d9%8a) | N/A |
 | 6 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 7 | [#احمد_النواف](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 8 | [#كويتيين_نرفض_حكومه_منتخبه](http://twitter.com/search?q=%23%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%8a%d9%86_%d9%86%d8%b1%d9%81%d8%b6_%d8%ad%d9%83%d9%88%d9%85%d9%87_%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%87) | N/A |
-| 9 | [الخفض الطوعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%b6+%d8%a7%d9%84%d8%b7%d9%88%d8%b9%d9%8a) | N/A |
-| 10 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 11 | [الزعيم العرباوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d8%a7%d9%88%d9%8a) | N/A |
+| 7 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 8 | [#احمد_النواف](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
+| 9 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 10 | [#كويتيين_نرفض_حكومه_منتخبه](http://twitter.com/search?q=%23%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%8a%d9%86_%d9%86%d8%b1%d9%81%d8%b6_%d8%ad%d9%83%d9%88%d9%85%d9%87_%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%87) | N/A |
+| 11 | [الخفض الطوعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%b6+%d8%a7%d9%84%d8%b7%d9%88%d8%b9%d9%8a) | N/A |
 | 12 | [الرياحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%ad%d9%8a) | N/A |
-| 13 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 14 | [لقانون الاقامه](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87) | N/A |
-| 15 | [جابر الاحمد](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 16 | [الامه العرباويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 17 | [علي العدل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 18 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 19 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 20 | [عادل اللوغاني](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d9%84%d9%88%d8%ba%d8%a7%d9%86%d9%8a) | N/A |
-| 21 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 22 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 23 | [مشعل الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 24 | [التنفيذ المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 25 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 26 | [ولي العهد الشيخ](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 27 | [خالد الغانم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 28 | [عبدالله الجمالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 29 | [الغاء الهدف](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%a1+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
-| 30 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 31 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 13 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 14 | [الامه العرباويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 15 | [علي العدل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 16 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 17 | [خالد الغانم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 18 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 19 | [عادل اللوغاني](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d9%84%d9%88%d8%ba%d8%a7%d9%86%d9%8a) | N/A |
+| 20 | [جابر الاحمد](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 21 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 22 | [صباح السالم](http://twitter.com/search?q=%d8%b5%d8%a8%d8%a7%d8%ad+%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 23 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 24 | [ولي العهد الشيخ](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 25 | [عبدالله الجمالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 26 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 27 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 28 | [الغاء الهدف](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%a1+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 29 | [التنفيذ المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 30 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 31 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
 | 32 | [علي البراءه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%a1%d9%87) | N/A |
 | 33 | [زعيم الكره الكويتيه](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
-| 34 | [محمد بنيان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86%d9%8a%d8%a7%d9%86) | N/A |
-| 35 | [حزام الشاهين](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
-| 36 | [مشاري العازمي](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
-| 37 | [يوسف الفضاله](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%84%d9%87) | N/A |
-| 38 | [بيت الزكاه](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%83%d8%a7%d9%87) | N/A |
-| 39 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 40 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 41 | [كاسميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%85%d9%8a%d8%b1%d9%88) | N/A |
-| 42 | [سيسوكو](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b3%d9%88%d9%83%d9%88) | N/A |
-| 43 | [صندوق البريد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
-| 44 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 45 | [اليوم الحادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
-| 46 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 47 | [مشعل الأحمد الجابر](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 34 | [حزام الشاهين](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
+| 35 | [مشاري العازمي](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
+| 36 | [يوسف الفضاله](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%84%d9%87) | N/A |
+| 37 | [بيت الزكاه](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%83%d8%a7%d9%87) | N/A |
+| 38 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 39 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 40 | [لقانون الاقامه](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87) | N/A |
+| 41 | [محمد بنيان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86%d9%8a%d8%a7%d9%86) | N/A |
+| 42 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 43 | [سيسوكو](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b3%d9%88%d9%83%d9%88) | N/A |
+| 44 | [صندوق البريد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
+| 45 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 46 | [اليوم الحادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
+| 47 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
 | 48 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 49 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 50 | [بدر الحميدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af%d9%8a) | N/A |
+| 49 | [مشعل الأحمد الجابر](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 50 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-03 15:17:45 UTC`
+📆 Last Updated: `2023-04-03 16:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [Alexa Ilacad](http://twitter.com/search?q=Alexa+Ilacad) | N/A |
 | 3 | [#KDLEXSweethearts](http://twitter.com/search?q=%23KDLEXSweethearts) | N/A |
 | 4 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 5 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 6 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
-| 7 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
-| 8 | [#tenaciousdlsu](http://twitter.com/search?q=%23tenaciousdlsu) | N/A |
+| 5 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
+| 6 | [#일단_사랑하는은혁이_생일](http://twitter.com/search?q=%23%ec%9d%bc%eb%8b%a8_%ec%82%ac%eb%9e%91%ed%95%98%eb%8a%94%ec%9d%80%ed%98%81%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 7 | [#1yrwithSUHO_GreySuit](http://twitter.com/search?q=%231yrwithSUHO_GreySuit) | N/A |
+| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 9 | [HAPPY 15TH ZACHAMSARY](http://twitter.com/search?q=HAPPY+15TH+ZACHAMSARY) | N/A |
-| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 11 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
-| 12 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 13 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
-| 14 | [WINTER FOR VOGUE KOREA](http://twitter.com/search?q=WINTER+FOR+VOGUE+KOREA) | N/A |
-| 15 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
-| 16 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
-| 17 | [my jaywon](http://twitter.com/search?q=my+jaywon) | N/A |
-| 18 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
-| 19 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 20 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 21 | [nawindang ang a'tin era](http://twitter.com/search?q=nawindang+ang+a%27tin+era) | N/A |
-| 22 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 23 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 24 | [two title tracks](http://twitter.com/search?q=two+title+tracks) | N/A |
-| 25 | [JOSH CULLEN Be The Bida](http://twitter.com/search?q=JOSH+CULLEN+Be+The+Bida) | N/A |
-| 26 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 27 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 28 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [nadine for tatlerph](http://twitter.com/search?q=nadine+for+tatlerph) | N/A |
-| 31 | [bini live on simply contour](http://twitter.com/search?q=bini+live+on+simply+contour) | N/A |
-| 32 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
-| 33 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 34 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 35 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 36 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 37 | [I Don't Understand But I Luv U](http://twitter.com/search?q=I+Don%27t+Understand+But+I+Luv+U) | N/A |
-| 38 | [TO DO](http://twitter.com/search?q=TO+DO) | N/A |
-| 39 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 40 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 41 | [WELCOME BACK](http://twitter.com/search?q=WELCOME+BACK) | N/A |
-| 42 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
-| 43 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 44 | [Vistan](http://twitter.com/search?q=Vistan) | N/A |
-| 45 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
-| 46 | [ragnarokpresscon withmnl48](http://twitter.com/search?q=ragnarokpresscon+withmnl48) | N/A |
-| 47 | [THANKFUL FOR SKZ MANIAC TOUR](http://twitter.com/search?q=THANKFUL+FOR+SKZ+MANIAC+TOUR) | N/A |
-| 48 | [marvin miranda](http://twitter.com/search?q=marvin+miranda) | N/A |
-| 49 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 50 | [The Lucky One](http://twitter.com/search?q=The+Lucky+One) | N/A |
+| 10 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 11 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 12 | [WELCOME BACK](http://twitter.com/search?q=WELCOME+BACK) | N/A |
+| 13 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 14 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 15 | [Jaywon](http://twitter.com/search?q=Jaywon) | N/A |
+| 16 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 17 | [Stays](http://twitter.com/search?q=Stays) | N/A |
+| 18 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 19 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
+| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 21 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 22 | [#수호_GreySuit_1주년](http://twitter.com/search?q=%23%ec%88%98%ed%98%b8_GreySuit_1%ec%a3%bc%eb%85%84) | N/A |
+| 23 | [#4랑에_4랑을더한_혁재탄신일](http://twitter.com/search?q=%234%eb%9e%91%ec%97%90_4%eb%9e%91%ec%9d%84%eb%8d%94%ed%95%9c_%ed%98%81%ec%9e%ac%ed%83%84%ec%8b%a0%ec%9d%bc) | N/A |
+| 24 | [#AYearWithFearlessSAKURA](http://twitter.com/search?q=%23AYearWithFearlessSAKURA) | N/A |
+| 25 | [#EUNHYUK](http://twitter.com/search?q=%23EUNHYUK) | N/A |
+| 26 | [#DOJAEJUNG_FEBtoAPR](http://twitter.com/search?q=%23DOJAEJUNG_FEBtoAPR) | N/A |
+| 27 | [#MidnightMuseumEP9](http://twitter.com/search?q=%23MidnightMuseumEP9) | N/A |
+| 28 | [#IveIVE1stConceptPhoto](http://twitter.com/search?q=%23IveIVE1stConceptPhoto) | N/A |
+| 29 | [#DLTruthAndLies](http://twitter.com/search?q=%23DLTruthAndLies) | N/A |
+| 30 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 31 | [#BarDa24Oras](http://twitter.com/search?q=%23BarDa24Oras) | N/A |
+| 32 | [#HOIAuditionDay](http://twitter.com/search?q=%23HOIAuditionDay) | N/A |
+| 33 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
+| 34 | [#เลย์กินให้สุดวันหยุดยาวXGF](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8c%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b8%a2%e0%b8%b2%e0%b8%a7XGF) | N/A |
+| 35 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
+| 36 | [#FML_SEVENTEEN](http://twitter.com/search?q=%23FML_SEVENTEEN) | N/A |
+| 37 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
+| 38 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 39 | [#ENHYPEN_SUNOO](http://twitter.com/search?q=%23ENHYPEN_SUNOO) | N/A |
+| 40 | [#DutyAfterSchool](http://twitter.com/search?q=%23DutyAfterSchool) | N/A |
+| 41 | [#FreenBeckyOurAlways](http://twitter.com/search?q=%23FreenBeckyOurAlways) | N/A |
+| 42 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
 
 
 

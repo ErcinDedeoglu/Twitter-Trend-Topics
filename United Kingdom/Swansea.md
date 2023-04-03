@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-03 15:17:18 UTC`
+📆 Last Updated: `2023-04-03 16:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 3 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 4 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
-| 5 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 8 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 9 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
-| 10 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 11 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 12 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 17 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 18 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 21 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 22 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 23 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 24 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
-| 25 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 26 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 27 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 28 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
-| 29 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 30 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 31 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 32 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 33 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 34 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 35 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 36 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
-| 37 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
-| 38 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
-| 39 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
-| 40 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 41 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 42 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 43 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 44 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 46 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 47 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 48 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
-| 49 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 3 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 4 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 5 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 6 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 7 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
+| 8 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 9 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 10 | [RIP Olivia](http://twitter.com/search?q=RIP+Olivia) | N/A |
+| 11 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 12 | [Rani](http://twitter.com/search?q=Rani) | N/A |
+| 13 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 14 | [House 5](http://twitter.com/search?q=House+5) | N/A |
+| 15 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 16 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 17 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 19 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
+| 20 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 21 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 24 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 25 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 26 | [Savile](http://twitter.com/search?q=Savile) | N/A |
+| 27 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 28 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
+| 31 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 33 | [sidemen](http://twitter.com/search?q=sidemen) | N/A |
+| 34 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 35 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
+| 36 | [The Home Office](http://twitter.com/search?q=The+Home+Office) | N/A |
+| 37 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 38 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 39 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
+| 40 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
+| 41 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 42 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 43 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 44 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
+| 45 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
+| 46 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
+| 47 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 48 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 49 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
 
 
 

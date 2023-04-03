@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-03 15:17:42 UTC`
+📆 Last Updated: `2023-04-03 16:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ミセスLOCKS](http://twitter.com/search?q=%23%e3%83%9f%e3%82%bb%e3%82%b9LOCKS) | N/A |
-| 2 | [#行くぜつばきファクトリー](http://twitter.com/search?q=%23%e8%a1%8c%e3%81%8f%e3%81%9c%e3%81%a4%e3%81%b0%e3%81%8d%e3%83%95%e3%82%a1%e3%82%af%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
-| 3 | [#まゆさんぽ](http://twitter.com/search?q=%23%e3%81%be%e3%82%86%e3%81%95%e3%82%93%e3%81%bd) | N/A |
-| 4 | [#ヒトなら解ける](http://twitter.com/search?q=%23%e3%83%92%e3%83%88%e3%81%aa%e3%82%89%e8%a7%a3%e3%81%91%e3%82%8b) | N/A |
-| 5 | [メロンジュース](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
-| 6 | [放送再開](http://twitter.com/search?q=%e6%94%be%e9%80%81%e5%86%8d%e9%96%8b) | N/A |
-| 7 | [映像の世紀](http://twitter.com/search?q=%e6%98%a0%e5%83%8f%e3%81%ae%e4%b8%96%e7%b4%80) | 映像の世紀 is a Japanese phrase that translates to "The Century of Images". It is used to refer to the current era, in which digital images and videos are increasingly becoming more accessible and prevalent. |
-| 8 | [#報道ステーション](http://twitter.com/search?q=%23%e5%a0%b1%e9%81%93%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 9 | [夏の王様](http://twitter.com/search?q=%e5%a4%8f%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
+| 1 | [#odoriba954](http://twitter.com/search?q=%23odoriba954) | N/A |
+| 2 | [Startin](http://twitter.com/search?q=Startin) | N/A |
+| 3 | [#あとはご自由に](http://twitter.com/search?q=%23%e3%81%82%e3%81%a8%e3%81%af%e3%81%94%e8%87%aa%e7%94%b1%e3%81%ab) | N/A |
+| 4 | [ブルービートル](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
+| 5 | [#ヨルナイト](http://twitter.com/search?q=%23%e3%83%a8%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 6 | [#ヴィンランド・サガ](http://twitter.com/search?q=%23%e3%83%b4%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89%e3%83%bb%e3%82%b5%e3%82%ac) | N/A |
+| 7 | [ヒョクちゃん](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 8 | [#戦国感謝](http://twitter.com/search?q=%23%e6%88%a6%e5%9b%bd%e6%84%9f%e8%ac%9d) | N/A |
+| 9 | [クラウス](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%a6%e3%82%b9) | N/A |
 | 10 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
-| 11 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
-| 12 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 13 | [花の契約](http://twitter.com/search?q=%e8%8a%b1%e3%81%ae%e5%a5%91%e7%b4%84) | N/A |
-| 14 | [シンデレラガール](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%87%e3%83%ac%e3%83%a9%e3%82%ac%e3%83%bc%e3%83%ab) | シンデレラガール (Cinderella Girl) is a Japanese manga series written and illustrated by Kaori Hanzawa. It follows the story of a young girl named Haru, who is granted three wishes by a magical cat. The story follows her as she uses her wishes to try to make her dreams come true. In English, the phrase "Cinderella Girl" refers to someone who is able to overcome obstacles and achieve their dreams despite difficult circumstances. |
-| 15 | [大夢くん](http://twitter.com/search?q=%e5%a4%a7%e5%a4%a2%e3%81%8f%e3%82%93) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [ホメオスタシス](http://twitter.com/search?q=%e3%83%9b%e3%83%a1%e3%82%aa%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
-| 18 | [小山くん](http://twitter.com/search?q=%e5%b0%8f%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
-| 19 | [マコちゃん](http://twitter.com/search?q=%e3%83%9e%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [小山さん](http://twitter.com/search?q=%e5%b0%8f%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
-| 21 | [グランギニョル](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%82%ae%e3%83%8b%e3%83%a7%e3%83%ab) | N/A |
-| 22 | [weeeek](http://twitter.com/search?q=weeeek) | Weeeek is not a word in English. It is likely an attempt to spell the word "week" with an extra letter. |
-| 23 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
-| 24 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
-| 25 | [チームNEWS](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0NEWS) | N/A |
-| 26 | [ミルクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [ジェロマ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ad%e3%83%9e) | N/A |
-| 28 | [カノンくん](http://twitter.com/search?q=%e3%82%ab%e3%83%8e%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 29 | [ジェットコースターロマンス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%88%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9) | N/A |
-| 30 | [KAT-TUN](http://twitter.com/search?q=KAT-TUN) | KAT-TUN is a Japanese boy band formed in 2006 by Johnny & Associates. The name KAT-TUN is an acronym of the first letter of each member's family name: Kazuya Kamenashi, Akanishi Jin, Tanaka Koki, Taguchi Junnosuke, Ueda Tatsuya and Nakamaru Yuichi. The name can be translated to "Completely and Totally Unstoppable". |
-| 31 | [みるくちゃん](http://twitter.com/search?q=%e3%81%bf%e3%82%8b%e3%81%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 32 | [悠仁金髪](http://twitter.com/search?q=%e6%82%a0%e4%bb%81%e9%87%91%e9%ab%aa) | N/A |
-| 33 | [バトロワ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%ad%e3%83%af) | バトロワ (Batorowa) is a Japanese term for a battle royale game, which is a type of video game where players fight against each other in an arena until only one player remains. The English translation of the term would be "Battle Royale". |
-| 34 | [カラアイ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%82%a2%e3%82%a4) | N/A |
-| 35 | [LILIUM](http://twitter.com/search?q=LILIUM) | N/A |
-| 36 | [EXCITE](http://twitter.com/search?q=EXCITE) | EXCITE is an online search engine and web portal that was launched in 1995. It provides users with access to a variety of content, including news, sports, entertainment, and shopping. The word "excite" is derived from the Latin verb excitare, which means "to stir up or arouse." In English, it can be used to describe something that stimulates or arouses interest or enthusiasm. |
-| 37 | [ウィークエンダー](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e3%82%a8%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 38 | [浜崎あゆみ](http://twitter.com/search?q=%e6%b5%9c%e5%b4%8e%e3%81%82%e3%82%86%e3%81%bf) | N/A |
-| 39 | [激アツファンタスティックエブリデイ](http://twitter.com/search?q=%e6%bf%80%e3%82%a2%e3%83%84%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%82%a8%e3%83%96%e3%83%aa%e3%83%87%e3%82%a4) | N/A |
-| 40 | [リリウム](http://twitter.com/search?q=%e3%83%aa%e3%83%aa%e3%82%a6%e3%83%a0) | N/A |
-| 41 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
-| 42 | [ダリちゃん](http://twitter.com/search?q=%e3%83%80%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [ぐっばいび](http://twitter.com/search?q=%e3%81%90%e3%81%a3%e3%81%b0%e3%81%84%e3%81%b3) | ぐっばいび is a Japanese slang term that roughly translates to "cool" or "awesome." It is often used to express admiration or approval. |
-| 44 | [出し抜けレトロ](http://twitter.com/search?q=%e5%87%ba%e3%81%97%e6%8a%9c%e3%81%91%e3%83%ac%e3%83%88%e3%83%ad) | N/A |
-| 45 | [無責任ヒーロー](http://twitter.com/search?q=%e7%84%a1%e8%b2%ac%e4%bb%bb%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
-| 46 | [Startin](http://twitter.com/search?q=Startin) | N/A |
-| 47 | [光一さん](http://twitter.com/search?q=%e5%85%89%e4%b8%80%e3%81%95%e3%82%93) | N/A |
-| 48 | [クラウス](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%a6%e3%82%b9) | N/A |
-| 49 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
-| 50 | [ちーねんだー](http://twitter.com/search?q=%e3%81%a1%e3%83%bc%e3%81%ad%e3%82%93%e3%81%a0%e3%83%bc) | N/A |
+| 11 | [花の契約](http://twitter.com/search?q=%e8%8a%b1%e3%81%ae%e5%a5%91%e7%b4%84) | N/A |
+| 12 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
+| 13 | [大夢くん](http://twitter.com/search?q=%e5%a4%a7%e5%a4%a2%e3%81%8f%e3%82%93) | N/A |
+| 14 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [くむーさん](http://twitter.com/search?q=%e3%81%8f%e3%82%80%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 16 | [マコちゃん](http://twitter.com/search?q=%e3%83%9e%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [第438回](http://twitter.com/search?q=%e7%ac%ac438%e5%9b%9e) | N/A |
+| 18 | [シンデレラガール](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%87%e3%83%ac%e3%83%a9%e3%82%ac%e3%83%bc%e3%83%ab) | シンデレラガール (Cinderella Girl) is a Japanese manga series written and illustrated by Kaori Hanzawa. It follows the story of a young girl named Haru, who is granted three wishes by a magical cat. The story follows her as she uses her wishes to try to make her dreams come true. In English, the phrase "Cinderella Girl" refers to someone who is able to overcome obstacles and achieve their dreams despite difficult circumstances. |
+| 19 | [ホメオスタシス](http://twitter.com/search?q=%e3%83%9b%e3%83%a1%e3%82%aa%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
+| 20 | [健くんの声](http://twitter.com/search?q=%e5%81%a5%e3%81%8f%e3%82%93%e3%81%ae%e5%a3%b0) | N/A |
+| 21 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [ブルロ界隈](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e7%95%8c%e9%9a%88) | N/A |
+| 24 | [雨天決行](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e6%b1%ba%e8%a1%8c) | N/A |
+| 25 | [激アツファンタスティックエブリデイ](http://twitter.com/search?q=%e6%bf%80%e3%82%a2%e3%83%84%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%82%a8%e3%83%96%e3%83%aa%e3%83%87%e3%82%a4) | N/A |
+| 26 | [小山くん](http://twitter.com/search?q=%e5%b0%8f%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
+| 27 | [二宮さん](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e3%81%95%e3%82%93) | N/A |
+| 28 | [グランギニョル](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%82%ae%e3%83%8b%e3%83%a7%e3%83%ab) | N/A |
+| 29 | [weeeek](http://twitter.com/search?q=weeeek) | Weeeek is not a word in English. It is likely an attempt to spell the word "week" with an extra letter. |
+| 30 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
+| 31 | [ミルクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 32 | [小山さん](http://twitter.com/search?q=%e5%b0%8f%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
+| 33 | [次号休載](http://twitter.com/search?q=%e6%ac%a1%e5%8f%b7%e4%bc%91%e8%bc%89) | N/A |
+| 34 | [Ayaseさん](http://twitter.com/search?q=Ayase%e3%81%95%e3%82%93) | N/A |
+| 35 | [チームNEWS](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0NEWS) | N/A |
+| 36 | [悠仁金髪](http://twitter.com/search?q=%e6%82%a0%e4%bb%81%e9%87%91%e9%ab%aa) | N/A |
+| 37 | [延長料金](http://twitter.com/search?q=%e5%bb%b6%e9%95%b7%e6%96%99%e9%87%91) | N/A |
+| 38 | [ジェロマ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ad%e3%83%9e) | N/A |
+| 39 | [バトロワ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%ad%e3%83%af) | バトロワ (Batorowa) is a Japanese term for a battle royale game, which is a type of video game where players fight against each other in an arena until only one player remains. The English translation of the term would be "Battle Royale". |
+| 40 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 41 | [みるくちゃん](http://twitter.com/search?q=%e3%81%bf%e3%82%8b%e3%81%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 42 | [カノンくん](http://twitter.com/search?q=%e3%82%ab%e3%83%8e%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 43 | [ジェットコースターロマンス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%88%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9) | N/A |
+| 44 | [アマトリチャーナ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%88%e3%83%aa%e3%83%81%e3%83%a3%e3%83%bc%e3%83%8a) | N/A |
+| 45 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 46 | [LILIUM](http://twitter.com/search?q=LILIUM) | N/A |
+| 47 | [KAT-TUN](http://twitter.com/search?q=KAT-TUN) | KAT-TUN is a Japanese boy band formed in 2006 by Johnny & Associates. The name KAT-TUN is an acronym of the first letter of each member's family name: Kazuya Kamenashi, Akanishi Jin, Tanaka Koki, Taguchi Junnosuke, Ueda Tatsuya and Nakamaru Yuichi. The name can be translated to "Completely and Totally Unstoppable". |
+| 48 | [テミンちゃん](http://twitter.com/search?q=%e3%83%86%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [EXCITE](http://twitter.com/search?q=EXCITE) | EXCITE is an online search engine and web portal that was launched in 1995. It provides users with access to a variety of content, including news, sports, entertainment, and shopping. The word "excite" is derived from the Latin verb excitare, which means "to stir up or arouse." In English, it can be used to describe something that stimulates or arouses interest or enthusiasm. |
+| 50 | [健くんのスペース](http://twitter.com/search?q=%e5%81%a5%e3%81%8f%e3%82%93%e3%81%ae%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9) | N/A |
 
 
 

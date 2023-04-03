@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-03 15:18:11 UTC`
+📆 Last Updated: `2023-04-03 16:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 2 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 3 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 4 | [MARCOS EN BIRI BIRI](http://twitter.com/search?q=MARCOS+EN+BIRI+BIRI) | N/A |
-| 5 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 6 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 7 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
-| 8 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
-| 9 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
-| 10 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
-| 11 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 2 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 3 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
+| 4 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
+| 5 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
+| 6 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 9 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
+| 10 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
+| 11 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
 | 12 | [General Paz](http://twitter.com/search?q=General+Paz) | N/A |
-| 13 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
-| 14 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
-| 15 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 16 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
-| 17 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
-| 18 | [Lomas del Mirador](http://twitter.com/search?q=Lomas+del+Mirador) | N/A |
-| 19 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
-| 20 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 21 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 22 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 27 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 28 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 29 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Alberdi](http://twitter.com/search?q=Alberdi) | N/A |
-| 33 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 34 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 35 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
-| 36 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
-| 37 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 38 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 39 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 40 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 41 | [Celeste Cid](http://twitter.com/search?q=Celeste+Cid) | N/A |
-| 42 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 43 | [#Inseguridad](http://twitter.com/search?q=%23Inseguridad) | N/A |
-| 44 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 45 | [#Paro](http://twitter.com/search?q=%23Paro) | N/A |
-| 46 | [#Basta](http://twitter.com/search?q=%23Basta) | N/A |
-| 47 | [#118DeBoca](http://twitter.com/search?q=%23118DeBoca) | N/A |
-| 48 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
-| 49 | [#antesquenadie](http://twitter.com/search?q=%23antesquenadie) | N/A |
-| 50 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 13 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
+| 14 | [#Inseguridad](http://twitter.com/search?q=%23Inseguridad) | N/A |
+| 15 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 16 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 17 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 18 | [MARCOS EN BIRI BIRI](http://twitter.com/search?q=MARCOS+EN+BIRI+BIRI) | N/A |
+| 19 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
+| 20 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 21 | [Vulgar Display of Power](http://twitter.com/search?q=Vulgar+Display+of+Power) | N/A |
+| 22 | [Rambito](http://twitter.com/search?q=Rambito) | N/A |
+| 23 | [Pantera](http://twitter.com/search?q=Pantera) | N/A |
+| 24 | [Lomas del Mirador](http://twitter.com/search?q=Lomas+del+Mirador) | N/A |
+| 25 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 26 | [Bicibandido](http://twitter.com/search?q=Bicibandido) | N/A |
+| 27 | [HARTOS](http://twitter.com/search?q=HARTOS) | N/A |
+| 28 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
+| 29 | [Provincia de Buenos Aires](http://twitter.com/search?q=Provincia+de+Buenos+Aires) | N/A |
+| 30 | [Burzaco](http://twitter.com/search?q=Burzaco) | N/A |
+| 31 | [La UTA](http://twitter.com/search?q=La+UTA) | N/A |
+| 32 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 33 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
+| 34 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
+| 35 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
+| 36 | [Marita Verón](http://twitter.com/search?q=Marita+Ver%c3%b3n) | N/A |
+| 37 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 38 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 39 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 40 | [Alberdi](http://twitter.com/search?q=Alberdi) | N/A |
+| 41 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
+| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 43 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 46 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 47 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 48 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 49 | [Nati](http://twitter.com/search?q=Nati) | N/A |
+| 50 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
 
 
 

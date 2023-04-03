@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-04-03 15:17:57 UTC`
+📆 Last Updated: `2023-04-03 16:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 2 | [#CSKvsLSG](http://twitter.com/search?q=%23CSKvsLSG) | N/A |
-| 3 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 1 | [#CSKvsLSG](http://twitter.com/search?q=%23CSKvsLSG) | N/A |
+| 2 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
+| 3 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
 | 4 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 5 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
-| 6 | [#IndianMuslimsUnderAttack](http://twitter.com/search?q=%23IndianMuslimsUnderAttack) | N/A |
-| 7 | [#DhoniSeNahiMangneChahiyeThe](http://twitter.com/search?q=%23DhoniSeNahiMangneChahiyeThe) | N/A |
-| 8 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
-| 9 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
-| 10 | [#WWWShaktiAwards](http://twitter.com/search?q=%23WWWShaktiAwards) | N/A |
-| 11 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 12 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
-| 13 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
+| 5 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 6 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
+| 7 | [#RuturajGaikwad](http://twitter.com/search?q=%23RuturajGaikwad) | N/A |
+| 8 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 9 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 10 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
+| 11 | [#IndianMuslimsUnderAttack](http://twitter.com/search?q=%23IndianMuslimsUnderAttack) | N/A |
+| 12 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 13 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
 | 14 | [Yash Thakur](http://twitter.com/search?q=Yash+Thakur) | N/A |
-| 15 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 16 | [GIVE NAYAT A CHANCE](http://twitter.com/search?q=GIVE+NAYAT+A+CHANCE) | N/A |
-| 17 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 18 | [Future of India](http://twitter.com/search?q=Future+of+India) | N/A |
-| 19 | [नालंदा विश्वविद्यालय](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b2%e0%a4%82%e0%a4%a6%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 20 | [Join the Free Club](http://twitter.com/search?q=Join+the+Free+Club) | N/A |
-| 21 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 22 | [7Yrs Of KKK7 Winner Sidharth](http://twitter.com/search?q=7Yrs+Of+KKK7+Winner+Sidharth) | N/A |
-| 23 | [Powerplay](http://twitter.com/search?q=Powerplay) | N/A |
-| 24 | [Match 6](http://twitter.com/search?q=Match+6) | N/A |
-| 25 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 26 | [Raina](http://twitter.com/search?q=Raina) | N/A |
-| 27 | [Justice4SSR Our ByomkeshBakshy](http://twitter.com/search?q=Justice4SSR+Our+ByomkeshBakshy) | N/A |
-| 28 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 29 | [महावीर जयंती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 30 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 31 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 32 | [भगवान महावीर स्वामी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80) | N/A |
-| 33 | [#Extraction2](http://twitter.com/search?q=%23Extraction2) | N/A |
-| 34 | [#Yentamma](http://twitter.com/search?q=%23Yentamma) | N/A |
-| 35 | [#AbrarGun](http://twitter.com/search?q=%23AbrarGun) | N/A |
-| 36 | [#NCERT](http://twitter.com/search?q=%23NCERT) | N/A |
-| 37 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 38 | [#प्राथमिक_शिक्षक_बहाली](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a5%e0%a4%ae%e0%a4%bf%e0%a4%95_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%b2%e0%a5%80) | N/A |
-| 39 | [#sbidown](http://twitter.com/search?q=%23sbidown) | N/A |
-| 40 | [#LeashPunjabiMusicMafia](http://twitter.com/search?q=%23LeashPunjabiMusicMafia) | N/A |
-| 41 | [#RahulbadlegaDeshkiSurat](http://twitter.com/search?q=%23RahulbadlegaDeshkiSurat) | N/A |
-| 42 | [#धन्यवाद_शिक्षामंत्री_कल्लाजी](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%be%e0%a4%a6_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
-| 43 | [#RichardMadden](http://twitter.com/search?q=%23RichardMadden) | N/A |
-| 44 | [#Citadel](http://twitter.com/search?q=%23Citadel) | N/A |
-| 45 | [#ShehnaazGill](http://twitter.com/search?q=%23ShehnaazGill) | N/A |
-| 46 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 47 | [#Anbuden](http://twitter.com/search?q=%23Anbuden) | N/A |
-| 48 | [#SidhuMooseWala](http://twitter.com/search?q=%23SidhuMooseWala) | N/A |
-| 49 | [#gefighting](http://twitter.com/search?q=%23gefighting) | N/A |
-| 50 | [#WeWomenWant](http://twitter.com/search?q=%23WeWomenWant) | N/A |
+| 15 | [Future of India](http://twitter.com/search?q=Future+of+India) | N/A |
+| 16 | [Sixes](http://twitter.com/search?q=Sixes) | N/A |
+| 17 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
+| 18 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
+| 19 | [GIVE NAYAT A CHANCE](http://twitter.com/search?q=GIVE+NAYAT+A+CHANCE) | N/A |
+| 20 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 21 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 24 | [Avesh Khan](http://twitter.com/search?q=Avesh+Khan) | N/A |
+| 25 | [नालंदा विश्वविद्यालय](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b2%e0%a4%82%e0%a4%a6%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 26 | [Join the Free Club](http://twitter.com/search?q=Join+the+Free+Club) | N/A |
+| 27 | [CHENNAI SUPER KINGS](http://twitter.com/search?q=CHENNAI+SUPER+KINGS) | N/A |
+| 28 | [Powerplay](http://twitter.com/search?q=Powerplay) | N/A |
+| 29 | [Match 6](http://twitter.com/search?q=Match+6) | N/A |
+| 30 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 31 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 32 | [7Yrs Of KKK7 Winner Sidharth](http://twitter.com/search?q=7Yrs+Of+KKK7+Winner+Sidharth) | N/A |
+| 33 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 34 | [Suresh Raina](http://twitter.com/search?q=Suresh+Raina) | N/A |
+| 35 | [Justice4SSR Our ByomkeshBakshy](http://twitter.com/search?q=Justice4SSR+Our+ByomkeshBakshy) | N/A |
+| 36 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 37 | [Yamuna](http://twitter.com/search?q=Yamuna) | N/A |
+| 38 | [महाराणा प्रताप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa) | महाराणा प्रताप (Mahārāṇa Pratāp) is a historical figure in India who was a ruler of the kingdom of Mewar in the 16th century. He is known for his bravery and courage in defending his kingdom against the Mughal Empire. The phrase "Mahārāṇa Pratāp" translates to "Great King Pratap" in English. |
+| 39 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
+| 40 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 41 | [#Extraction2](http://twitter.com/search?q=%23Extraction2) | N/A |
+| 42 | [#NCERT](http://twitter.com/search?q=%23NCERT) | N/A |
+| 43 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
+| 44 | [#AbrarGun](http://twitter.com/search?q=%23AbrarGun) | N/A |
+| 45 | [#Citadel](http://twitter.com/search?q=%23Citadel) | N/A |
+| 46 | [#Anbuden](http://twitter.com/search?q=%23Anbuden) | N/A |
+| 47 | [#Yentamma](http://twitter.com/search?q=%23Yentamma) | N/A |
+| 48 | [#WWWShaktiAwards](http://twitter.com/search?q=%23WWWShaktiAwards) | N/A |
+| 49 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 50 | [#sbidown](http://twitter.com/search?q=%23sbidown) | N/A |
 
 
 

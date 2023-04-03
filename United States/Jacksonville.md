@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-03 15:18:04 UTC`
+📆 Last Updated: `2023-04-03 16:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 4 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 5 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 7 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 8 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 9 | [#안녕태민아_우리잘기다렸지](http://twitter.com/search?q=%23%ec%95%88%eb%85%95%ed%83%9c%eb%af%bc%ec%95%84_%ec%9a%b0%eb%a6%ac%ec%9e%98%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%a7%80) | N/A |
-| 10 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 11 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 13 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 14 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 15 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 16 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
-| 17 | [Extraction 2](http://twitter.com/search?q=Extraction+2) | N/A |
-| 18 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 19 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
-| 20 | [Summer Jam](http://twitter.com/search?q=Summer+Jam) | N/A |
-| 21 | [Andruw Jones](http://twitter.com/search?q=Andruw+Jones) | Andruw Jones is a former Major League Baseball player who played for the Atlanta Braves, Los Angeles Dodgers, Texas Rangers, Chicago White Sox, and New York Yankees. He was a five-time All-Star and won 10 consecutive Gold Glove Awards for his defensive play in the outfield. He is considered one of the greatest defensive players of all time. |
-| 22 | [Sells](http://twitter.com/search?q=Sells) | N/A |
-| 23 | [UFC and WWE](http://twitter.com/search?q=UFC+and+WWE) | N/A |
-| 24 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
-| 25 | [Win Cash Spring 2023](http://twitter.com/search?q=Win+Cash+Spring+2023) | N/A |
-| 26 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 27 | [Keith Olbermann](http://twitter.com/search?q=Keith+Olbermann) | N/A |
-| 28 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 30 | [House 5](http://twitter.com/search?q=House+5) | N/A |
-| 31 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 32 | [Act 3](http://twitter.com/search?q=Act+3) | N/A |
-| 33 | [WWE and UFC](http://twitter.com/search?q=WWE+and+UFC) | N/A |
-| 34 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 35 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
-| 36 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 37 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 38 | [Earl Campbell](http://twitter.com/search?q=Earl+Campbell) | N/A |
-| 39 | [Doris Day](http://twitter.com/search?q=Doris+Day) | N/A |
-| 40 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 41 | [Ari Emanuel](http://twitter.com/search?q=Ari+Emanuel) | N/A |
-| 42 | [Country Music](http://twitter.com/search?q=Country+Music) | N/A |
-| 43 | [Gomez Addams](http://twitter.com/search?q=Gomez+Addams) | N/A |
-| 44 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 45 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 46 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
-| 47 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 48 | [Kelsea Ballerini](http://twitter.com/search?q=Kelsea+Ballerini) | N/A |
-| 49 | [Nakamigos](http://twitter.com/search?q=Nakamigos) | N/A |
-| 50 | [Kihyun](http://twitter.com/search?q=Kihyun) | N/A |
+| 1 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 2 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 3 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 4 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 7 | [#ArtemisII](http://twitter.com/search?q=%23ArtemisII) | N/A |
+| 8 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 9 | [Christina Koch](http://twitter.com/search?q=Christina+Koch) | N/A |
+| 10 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 11 | [Victor Glover](http://twitter.com/search?q=Victor+Glover) | N/A |
+| 12 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 13 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
+| 14 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
+| 15 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 16 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 17 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 18 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 19 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 20 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 21 | [Ted Kord](http://twitter.com/search?q=Ted+Kord) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [Andruw Jones](http://twitter.com/search?q=Andruw+Jones) | Andruw Jones is a former Major League Baseball player who played for the Atlanta Braves, Los Angeles Dodgers, Texas Rangers, Chicago White Sox, and New York Yankees. He was a five-time All-Star and won 10 consecutive Gold Glove Awards for his defensive play in the outfield. He is considered one of the greatest defensive players of all time. |
+| 24 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 25 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 26 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
+| 27 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
+| 28 | [Extraction 2](http://twitter.com/search?q=Extraction+2) | N/A |
+| 29 | [Jaime Reyes](http://twitter.com/search?q=Jaime+Reyes) | N/A |
+| 30 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 31 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
+| 32 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 33 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 34 | [Tom Kim](http://twitter.com/search?q=Tom+Kim) | N/A |
+| 35 | [Sells](http://twitter.com/search?q=Sells) | N/A |
+| 36 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 39 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
+| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 41 | [Summer Jam](http://twitter.com/search?q=Summer+Jam) | N/A |
+| 42 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
+| 43 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
+| 44 | [Earl Campbell](http://twitter.com/search?q=Earl+Campbell) | N/A |
+| 45 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
+| 46 | [UFC and WWE](http://twitter.com/search?q=UFC+and+WWE) | N/A |
+| 47 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
+| 48 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 49 | [Gomez Addams](http://twitter.com/search?q=Gomez+Addams) | N/A |
+| 50 | [Win Cash Spring 2023](http://twitter.com/search?q=Win+Cash+Spring+2023) | N/A |
 
 
 

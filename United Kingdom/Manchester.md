@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-04-03 15:17:16 UTC`
+📆 Last Updated: `2023-04-03 16:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
 | 3 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
 | 4 | [#PSA23](http://twitter.com/search?q=%23PSA23) | N/A |
-| 5 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 5 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
 | 6 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
 | 7 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 8 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 9 | [Suella](http://twitter.com/search?q=Suella) | N/A |
-| 10 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 8 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 9 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 10 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
 | 11 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 12 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
-| 13 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 12 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 13 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
 | 14 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 15 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 16 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 17 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 18 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 19 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 20 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 15 | [Rani](http://twitter.com/search?q=Rani) | N/A |
+| 16 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 17 | [House 5](http://twitter.com/search?q=House+5) | N/A |
+| 18 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 19 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 22 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 23 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 24 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 26 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 27 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 28 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 29 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 30 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
-| 31 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
-| 32 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 33 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 34 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
-| 35 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 36 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 37 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 38 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 39 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 40 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 41 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
-| 42 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
-| 43 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
-| 44 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
-| 45 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 46 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 47 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 48 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 49 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 50 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 22 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
+| 23 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 24 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 27 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 28 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 29 | [Savile](http://twitter.com/search?q=Savile) | N/A |
+| 30 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 31 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 32 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 33 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
+| 34 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 35 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 36 | [sidemen](http://twitter.com/search?q=sidemen) | N/A |
+| 37 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 38 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
+| 39 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 40 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 41 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
+| 42 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
+| 43 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 44 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 45 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
+| 46 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
+| 47 | [Secret Invasion](http://twitter.com/search?q=Secret+Invasion) | N/A |
+| 48 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 49 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 50 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
 
 
 
