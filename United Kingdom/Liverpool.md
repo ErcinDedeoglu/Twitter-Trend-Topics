@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-04-03 12:18:19 UTC`
+📆 Last Updated: `2023-04-03 13:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#PSA23](http://twitter.com/search?q=%23PSA23) | N/A |
+| 2 | [#GreatestHitsRadio](http://twitter.com/search?q=%23GreatestHitsRadio) | N/A |
 | 3 | [Daily Quordle 434](http://twitter.com/search?q=Daily+Quordle+434) | N/A |
-| 4 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 5 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 6 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 7 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 8 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 9 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 10 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 11 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 13 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 14 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 15 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 16 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 18 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 19 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 4 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 5 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 6 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 9 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 10 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 11 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 12 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 13 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 14 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 15 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 16 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 19 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 20 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 21 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
 | 22 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 23 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
+| 23 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 24 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 25 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 25 | [Torquay](http://twitter.com/search?q=Torquay) | N/A |
 | 26 | [Taxi Driver](http://twitter.com/search?q=Taxi+Driver) | N/A |
-| 27 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 28 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
-| 29 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 30 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
-| 31 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 33 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 34 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 35 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
-| 36 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 37 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 38 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 39 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
-| 40 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 41 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 42 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 43 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 44 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 45 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 46 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 47 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 48 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 49 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 50 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 27 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 28 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 29 | [Bruno Saltor](http://twitter.com/search?q=Bruno+Saltor) | N/A |
+| 30 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
+| 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 32 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
+| 33 | [rochdale](http://twitter.com/search?q=rochdale) | N/A |
+| 34 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
+| 35 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
+| 36 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 37 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 38 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 39 | [Oyster](http://twitter.com/search?q=Oyster) | N/A |
+| 40 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
+| 41 | [3rd April](http://twitter.com/search?q=3rd+April) | N/A |
+| 42 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 43 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 44 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 45 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 46 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 47 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 48 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 49 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 50 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 
 
 
