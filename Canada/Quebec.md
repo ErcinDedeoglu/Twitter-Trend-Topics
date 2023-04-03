@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-03 17:16:53 UTC`
+📆 Last Updated: `2023-04-03 19:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 3 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 4 | [#ArtemisII](http://twitter.com/search?q=%23ArtemisII) | N/A |
-| 5 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 6 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 7 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 10 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 12 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 13 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 14 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 15 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 16 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 17 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
-| 18 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 19 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 20 | [Lune](http://twitter.com/search?q=Lune) | N/A |
-| 21 | [Alex Belzile](http://twitter.com/search?q=Alex+Belzile) | N/A |
-| 22 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 23 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 24 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 27 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 28 | [Sean Monahan](http://twitter.com/search?q=Sean+Monahan) | N/A |
-| 29 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
-| 30 | [MAID](http://twitter.com/search?q=MAID) | N/A |
-| 31 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 32 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
-| 33 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 34 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 35 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 37 | [Buzz Lightyear](http://twitter.com/search?q=Buzz+Lightyear) | N/A |
-| 38 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 39 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 41 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 42 | [37% of Canadians](http://twitter.com/search?q=37%25+of+Canadians) | N/A |
-| 43 | [CF-18](http://twitter.com/search?q=CF-18) | N/A |
-| 44 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
-| 45 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 46 | [Happy Birthday Margaret](http://twitter.com/search?q=Happy+Birthday+Margaret) | N/A |
-| 47 | [MC Gilles](http://twitter.com/search?q=MC+Gilles) | N/A |
-| 48 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Lune](http://twitter.com/search?q=Lune) | N/A |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 4 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 6 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 7 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
+| 8 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [#Artemis](http://twitter.com/search?q=%23Artemis) | N/A |
+| 11 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 12 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 13 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 14 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 15 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 16 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 17 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
+| 18 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 19 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 20 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
+| 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 23 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 26 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 27 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 28 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 29 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
+| 30 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 32 | [MAID](http://twitter.com/search?q=MAID) | N/A |
+| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 34 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 35 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 36 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 37 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 39 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 40 | [Endeavor](http://twitter.com/search?q=Endeavor) | N/A |
+| 41 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 42 | [Less Red Tape](http://twitter.com/search?q=Less+Red+Tape) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [PR ARMYs](http://twitter.com/search?q=PR+ARMYs) | N/A |
+| 45 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 46 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 47 | [Jasmine Carson](http://twitter.com/search?q=Jasmine+Carson) | N/A |
+| 48 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 
 

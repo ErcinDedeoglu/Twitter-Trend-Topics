@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-03 17:17:30 UTC`
+📆 Last Updated: `2023-04-03 19:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rezilsin Fox](http://twitter.com/search?q=Rezilsin+Fox) | N/A |
-| 2 | [#endeks](http://twitter.com/search?q=%23endeks) | N/A |
-| 3 | [#tuprs](http://twitter.com/search?q=%23tuprs) | N/A |
-| 4 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 5 | [UstaÖğreticiyeHakkınıVer](http://twitter.com/search?q=Usta%c3%96%c4%9freticiyeHakk%c4%b1n%c4%b1Ver) | N/A |
-| 6 | [#EKSUN](http://twitter.com/search?q=%23EKSUN) | N/A |
-| 7 | [Patates](http://twitter.com/search?q=Patates) | N/A |
-| 8 | [#MebSıraAlanDeğişikliğinde](http://twitter.com/search?q=%23MebS%c4%b1raAlanDe%c4%9fi%c5%9fikli%c4%9finde) | N/A |
-| 9 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
-| 10 | [VaadDeğil YapıKayıt](http://twitter.com/search?q=VaadDe%c4%9fil+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 11 | [GelsinHayat İkinciSezon](http://twitter.com/search?q=GelsinHayat+%c4%b0kinciSezon) | N/A |
-| 12 | [Recep Zafer Tekin](http://twitter.com/search?q=Recep+Zafer+Tekin) | N/A |
-| 13 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 14 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
-| 15 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 16 | [Milli Duruş](http://twitter.com/search?q=Milli+Duru%c5%9f) | N/A |
-| 17 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
-| 18 | [Menemen](http://twitter.com/search?q=Menemen) | N/A |
-| 19 | [Torpil](http://twitter.com/search?q=Torpil) | N/A |
-| 20 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
-| 21 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 22 | [Çekilsin](http://twitter.com/search?q=%c3%87ekilsin) | N/A |
-| 23 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
-| 24 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 25 | [Caminin](http://twitter.com/search?q=Caminin) | N/A |
-| 26 | [Parasını](http://twitter.com/search?q=Paras%c4%b1n%c4%b1) | N/A |
-| 27 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 28 | [Başbuğum](http://twitter.com/search?q=Ba%c5%9fbu%c4%9fum) | N/A |
-| 29 | [Otobüs](http://twitter.com/search?q=Otob%c3%bcs) | N/A |
-| 30 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
-| 31 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 32 | [Milyonlar AFBekliyor](http://twitter.com/search?q=Milyonlar+AFBekliyor) | N/A |
-| 33 | [Sıfır](http://twitter.com/search?q=S%c4%b1f%c4%b1r) | N/A |
-| 34 | [Önder Özen](http://twitter.com/search?q=%c3%96nder+%c3%96zen) | N/A |
-| 35 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 36 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 37 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 38 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 39 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 40 | [5 Nisan Çarşamba](http://twitter.com/search?q=5+Nisan+%c3%87ar%c5%9famba) | N/A |
-| 41 | [4 Nisan Salı](http://twitter.com/search?q=4+Nisan+Sal%c4%b1) | N/A |
-| 42 | [Gerekirse](http://twitter.com/search?q=Gerekirse) | N/A |
-| 43 | [Cumhurbaşkanına](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1na) | N/A |
-| 44 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
-| 45 | [3 Nisan Pazartesi](http://twitter.com/search?q=3+Nisan+Pazartesi) | N/A |
-| 46 | [Tolga Akyıldız](http://twitter.com/search?q=Tolga+Aky%c4%b1ld%c4%b1z) | N/A |
-| 47 | [#cebimyanıyor](http://twitter.com/search?q=%23cebimyan%c4%b1yor) | N/A |
-| 48 | [#EfesizKufesizEk55Bin](http://twitter.com/search?q=%23EfesizKufesizEk55Bin) | N/A |
-| 49 | [#GsYancısıMehmetİstifaEt](http://twitter.com/search?q=%23GsYanc%c4%b1s%c4%b1Mehmet%c4%b0stifaEt) | N/A |
-| 50 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
+| 1 | [#endeks](http://twitter.com/search?q=%23endeks) | N/A |
+| 2 | [#ChpBilalBozgeyik](http://twitter.com/search?q=%23ChpBilalBozgeyik) | N/A |
+| 3 | [#KamuAvukatınaSözünüzVar](http://twitter.com/search?q=%23KamuAvukat%c4%b1naS%c3%b6z%c3%bcn%c3%bczVar) | N/A |
+| 4 | [#haşimhaşimi](http://twitter.com/search?q=%23ha%c5%9fimha%c5%9fimi) | N/A |
+| 5 | [#MebSıraAlanDeğişikliğinde](http://twitter.com/search?q=%23MebS%c4%b1raAlanDe%c4%9fi%c5%9fikli%c4%9finde) | N/A |
+| 6 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 7 | [Meltem Demir](http://twitter.com/search?q=Meltem+Demir) | N/A |
+| 8 | [RTEyedeklerinsesiniduy](http://twitter.com/search?q=RTEyedeklerinsesiniduy) | N/A |
+| 9 | [GSBtayinÇilesiniBitir](http://twitter.com/search?q=GSBtayin%c3%87ilesiniBitir) | N/A |
+| 10 | [Rezilsin Fox](http://twitter.com/search?q=Rezilsin+Fox) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Böylesi Görülmedi](http://twitter.com/search?q=B%c3%b6ylesi+G%c3%b6r%c3%bclmedi) | N/A |
+| 13 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
+| 14 | [TaşeronuÇözen OylarıAlır](http://twitter.com/search?q=Ta%c5%9feronu%c3%87%c3%b6zen+Oylar%c4%b1Al%c4%b1r) | N/A |
+| 15 | [DesteğimizSonsuz Rotinda](http://twitter.com/search?q=Deste%c4%9fimizSonsuz+Rotinda) | N/A |
+| 16 | [Emekliler](http://twitter.com/search?q=Emekliler) | N/A |
+| 17 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 18 | [Başbuğum](http://twitter.com/search?q=Ba%c5%9fbu%c4%9fum) | N/A |
+| 19 | [MEMUR GECİM DERDİNDE](http://twitter.com/search?q=MEMUR+GEC%c4%b0M+DERD%c4%b0NDE) | N/A |
+| 20 | [Kurban Bayramında](http://twitter.com/search?q=Kurban+Bayram%c4%b1nda) | N/A |
+| 21 | [TEKLIFÇE Sisli](http://twitter.com/search?q=TEKLIF%c3%87E+Sisli) | N/A |
+| 22 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [AltıYıldır SözümüzSöz](http://twitter.com/search?q=Alt%c4%b1Y%c4%b1ld%c4%b1r+S%c3%b6z%c3%bcm%c3%bczS%c3%b6z) | N/A |
+| 25 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 26 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
+| 27 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 28 | [VaadDeğil YapıKayıt](http://twitter.com/search?q=VaadDe%c4%9fil+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 29 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 30 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
+| 31 | [Deva Partisi](http://twitter.com/search?q=Deva+Partisi) | N/A |
+| 32 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 33 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
+| 34 | [GelsinHayat İkinciSezon](http://twitter.com/search?q=GelsinHayat+%c4%b0kinciSezon) | N/A |
+| 35 | [BÜYÜK ALTAY](http://twitter.com/search?q=B%c3%9cY%c3%9cK+ALTAY) | N/A |
+| 36 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 37 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
+| 38 | [Torpil](http://twitter.com/search?q=Torpil) | N/A |
+| 39 | [Milli Duruş](http://twitter.com/search?q=Milli+Duru%c5%9f) | N/A |
+| 40 | [Başbuğ Türkeş](http://twitter.com/search?q=Ba%c5%9fbu%c4%9f+T%c3%bcrke%c5%9f) | N/A |
+| 41 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
+| 42 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
+| 43 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
+| 44 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 45 | [Menemen](http://twitter.com/search?q=Menemen) | N/A |
+| 46 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 47 | [Caminin](http://twitter.com/search?q=Caminin) | N/A |
+| 48 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 49 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
+| 50 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
 
 
 

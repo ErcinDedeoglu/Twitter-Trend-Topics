@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-03 17:17:38 UTC`
+📆 Last Updated: `2023-04-03 19:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 2 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 3 | [Petco](http://twitter.com/search?q=Petco) | N/A |
-| 4 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 5 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 6 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 7 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 8 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 9 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
-| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 11 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 12 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 13 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 14 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 15 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 16 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 17 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 18 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 19 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 20 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 21 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 22 | [Christina Koch](http://twitter.com/search?q=Christina+Koch) | N/A |
-| 23 | [Ted Kord](http://twitter.com/search?q=Ted+Kord) | N/A |
-| 24 | [Victor Glover](http://twitter.com/search?q=Victor+Glover) | N/A |
-| 25 | [Jaime Reyes](http://twitter.com/search?q=Jaime+Reyes) | N/A |
-| 26 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 27 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
-| 28 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 29 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 30 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
-| 31 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 32 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
-| 33 | [St. Brown](http://twitter.com/search?q=St.+Brown) | N/A |
-| 34 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
-| 35 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
-| 36 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 37 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 38 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 39 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 40 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 41 | [Andruw Jones](http://twitter.com/search?q=Andruw+Jones) | Andruw Jones is a former Major League Baseball player who played for the Atlanta Braves, Los Angeles Dodgers, Texas Rangers, Chicago White Sox, and New York Yankees. He was a five-time All-Star and won 10 consecutive Gold Glove Awards for his defensive play in the outfield. He is considered one of the greatest defensive players of all time. |
-| 42 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 43 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 44 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
-| 45 | [Drax](http://twitter.com/search?q=Drax) | Drax is a fictional character from the Marvel Comics universe. He is an alien warrior from the planet Titan, and a member of the Guardians of the Galaxy. His name is derived from the Greek word for "slayer". In English, Drax means "slayer" or "destroyer". |
-| 46 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 47 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 48 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 49 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 50 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 4 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 5 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 6 | [Petco](http://twitter.com/search?q=Petco) | N/A |
+| 7 | [#Trump2024NowMorethanEver](http://twitter.com/search?q=%23Trump2024NowMorethanEver) | N/A |
+| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 9 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 10 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 11 | [Latino](http://twitter.com/search?q=Latino) | N/A |
+| 12 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 13 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 17 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 18 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 19 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 21 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 22 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 23 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
+| 24 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 25 | [Auli](http://twitter.com/search?q=Auli) | N/A |
+| 26 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 27 | [CONCERT GUEST](http://twitter.com/search?q=CONCERT+GUEST) | N/A |
+| 28 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 29 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 30 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 31 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 32 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 33 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 34 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 35 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 36 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 37 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 38 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
+| 39 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 40 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 41 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
+| 42 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 43 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 44 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 45 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
+| 46 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 47 | [St. Brown](http://twitter.com/search?q=St.+Brown) | N/A |
+| 48 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 49 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 50 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
 
 
 

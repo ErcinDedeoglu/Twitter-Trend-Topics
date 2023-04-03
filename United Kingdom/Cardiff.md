@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-03 17:16:54 UTC`
+📆 Last Updated: `2023-04-03 19:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 3 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 4 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 1 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 2 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 3 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 4 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
 | 5 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
-| 6 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 7 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 8 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 9 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 10 | [Phillip Schofield](http://twitter.com/search?q=Phillip+Schofield) | N/A |
-| 11 | [Rani](http://twitter.com/search?q=Rani) | N/A |
-| 12 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 13 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
-| 14 | [House 5](http://twitter.com/search?q=House+5) | N/A |
-| 15 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 16 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 17 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 18 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 19 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [Timothy](http://twitter.com/search?q=Timothy) | N/A |
-| 22 | [Savile](http://twitter.com/search?q=Savile) | N/A |
-| 23 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 24 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 27 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 28 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 29 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
-| 30 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 31 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 32 | [Seymour Stein](http://twitter.com/search?q=Seymour+Stein) | N/A |
-| 33 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 34 | [Catholic Church](http://twitter.com/search?q=Catholic+Church) | N/A |
-| 35 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
-| 36 | [Sidemen](http://twitter.com/search?q=Sidemen) | N/A |
-| 37 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 38 | [The Home Office](http://twitter.com/search?q=The+Home+Office) | N/A |
-| 39 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 40 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
-| 41 | [Jurgen Klopp](http://twitter.com/search?q=Jurgen+Klopp) | N/A |
-| 42 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 43 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 44 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 45 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 46 | [#strangersonaplane](http://twitter.com/search?q=%23strangersonaplane) | N/A |
-| 47 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 48 | [#FoodStuffInSongOrFilm](http://twitter.com/search?q=%23FoodStuffInSongOrFilm) | N/A |
+| 6 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 9 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 10 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 13 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 14 | [Dr Who](http://twitter.com/search?q=Dr+Who) | N/A |
+| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 16 | [Schofield](http://twitter.com/search?q=Schofield) | N/A |
+| 17 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 18 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 19 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 20 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 21 | [The Rani](http://twitter.com/search?q=The+Rani) | N/A |
+| 22 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 23 | [House 3](http://twitter.com/search?q=House+3) | N/A |
+| 24 | [My MP](http://twitter.com/search?q=My+MP) | N/A |
+| 25 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 26 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 27 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 28 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 29 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 30 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 31 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 32 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 33 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 34 | [Drag Race](http://twitter.com/search?q=Drag+Race) | N/A |
+| 35 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
+| 36 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 37 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 38 | [Timothy](http://twitter.com/search?q=Timothy) | N/A |
+| 39 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 40 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 41 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 42 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 43 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 44 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 45 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 46 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 47 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-04-03 17:17:03 UTC`
+📆 Last Updated: `2023-04-03 19:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 1 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
 | 2 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
-| 3 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
-| 4 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 5 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 6 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
-| 7 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 8 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 9 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 10 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
-| 11 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 12 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 13 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 14 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 15 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
-| 16 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 17 | [CADEIA PARA BOLSONARO](http://twitter.com/search?q=CADEIA+PARA+BOLSONARO) | N/A |
-| 18 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 19 | [Zé Elias](http://twitter.com/search?q=Z%c3%a9+Elias) | N/A |
-| 20 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
-| 21 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 22 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
-| 23 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 24 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 25 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 26 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 27 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 28 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 29 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
-| 30 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 31 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 32 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 33 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 34 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 35 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
-| 36 | [Kubrick](http://twitter.com/search?q=Kubrick) | N/A |
-| 37 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 38 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
-| 39 | [Salete](http://twitter.com/search?q=Salete) | N/A |
-| 40 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 41 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
-| 42 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 3 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 6 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 7 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 8 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 9 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
+| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 11 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 12 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 13 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 14 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 15 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 16 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 17 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 18 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 19 | [#DiaDaMentiraIntrin](http://twitter.com/search?q=%23DiaDaMentiraIntrin) | N/A |
+| 20 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 21 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 22 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 23 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 24 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 25 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 26 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 27 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
+| 28 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 29 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 30 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 31 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 32 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
+| 33 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 34 | [CADEIA PARA BOLSONARO](http://twitter.com/search?q=CADEIA+PARA+BOLSONARO) | N/A |
+| 35 | [Auli](http://twitter.com/search?q=Auli) | N/A |
+| 36 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 37 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 38 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 39 | [Zé Elias](http://twitter.com/search?q=Z%c3%a9+Elias) | N/A |
+| 40 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
+| 41 | [hyung](http://twitter.com/search?q=hyung) | N/A |
+| 42 | [QUE ORGULHO](http://twitter.com/search?q=QUE+ORGULHO) | N/A |
 | 43 | [Fátima](http://twitter.com/search?q=F%c3%a1tima) | N/A |
-| 44 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 45 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
-| 46 | [Scorsese](http://twitter.com/search?q=Scorsese) | N/A |
-| 47 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 48 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
-| 49 | [EVERGLOW](http://twitter.com/search?q=EVERGLOW) | N/A |
-| 50 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 44 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
+| 45 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 46 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 47 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 48 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 49 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-03 17:17:06 UTC`
+📆 Last Updated: `2023-04-03 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,48 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
-| 2 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 3 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 4 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
-| 5 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
-| 6 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 7 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
-| 8 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
-| 9 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
-| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 11 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 12 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 13 | [#darmaninEstdExtremeDroite](http://twitter.com/search?q=%23darmaninEstdExtremeDroite) | N/A |
-| 14 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 15 | [Utip](http://twitter.com/search?q=Utip) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 18 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 19 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 20 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 21 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 22 | [LACAZETTE](http://twitter.com/search?q=LACAZETTE) | N/A |
-| 23 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 24 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 25 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 26 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 27 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 28 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 29 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 30 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 31 | [Lune](http://twitter.com/search?q=Lune) | N/A |
-| 32 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 33 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 35 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 36 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 37 | [LREM](http://twitter.com/search?q=LREM) | N/A |
-| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 39 | [Élue](http://twitter.com/search?q=%c3%89lue) | N/A |
-| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 41 | [Front Républicain](http://twitter.com/search?q=Front+R%c3%a9publicain) | N/A |
-| 42 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 43 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 44 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
-| 45 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 46 | [Tipeee](http://twitter.com/search?q=Tipeee) | N/A |
-| 47 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 48 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
+| 1 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 2 | [#EAGFCGB](http://twitter.com/search?q=%23EAGFCGB) | N/A |
+| 3 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 6 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 7 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 8 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 9 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Lune](http://twitter.com/search?q=Lune) | N/A |
+| 12 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
+| 13 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
+| 14 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
+| 15 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
+| 16 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
+| 17 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 18 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
+| 19 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
+| 20 | [Tolbiac](http://twitter.com/search?q=Tolbiac) | N/A |
+| 21 | [Avignon](http://twitter.com/search?q=Avignon) | N/A |
+| 22 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 23 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 24 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 25 | [Paralympique](http://twitter.com/search?q=Paralympique) | N/A |
+| 26 | [Dupraz](http://twitter.com/search?q=Dupraz) | N/A |
+| 27 | [Guingamp](http://twitter.com/search?q=Guingamp) | N/A |
+| 28 | [Florent Pagny](http://twitter.com/search?q=Florent+Pagny) | N/A |
+| 29 | [Tipeee](http://twitter.com/search?q=Tipeee) | N/A |
+| 30 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 31 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
+| 32 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 33 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 34 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
+| 35 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 36 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 37 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
+| 38 | [#ArtemisII](http://twitter.com/search?q=%23ArtemisII) | N/A |
+| 39 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
+| 40 | [#SOP2023](http://twitter.com/search?q=%23SOP2023) | N/A |
+| 41 | [#VforVictory](http://twitter.com/search?q=%23VforVictory) | N/A |
+| 42 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
 
 
 

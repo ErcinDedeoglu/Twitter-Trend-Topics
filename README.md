@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-03 17:16:53 UTC`
+📆 Last Updated: `2023-04-03 19:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 2 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 3 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 4 | [#CSKvLSG](http://twitter.com/search?q=%23CSKvLSG) | N/A |
-| 5 | [#健スペ](http://twitter.com/search?q=%23%e5%81%a5%e3%82%b9%e3%83%9a) | N/A |
-| 6 | [#祝ゴールデンカムイ放送開始](http://twitter.com/search?q=%23%e7%a5%9d%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%ab%e3%83%a0%e3%82%a4%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b) | N/A |
-| 7 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
-| 8 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 9 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 10 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
-| 11 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 12 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 13 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
-| 14 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 15 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 16 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 17 | [花の契約](http://twitter.com/search?q=%e8%8a%b1%e3%81%ae%e5%a5%91%e7%b4%84) | N/A |
-| 18 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 19 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 20 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 21 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 22 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 23 | [大夢くん](http://twitter.com/search?q=%e5%a4%a7%e5%a4%a2%e3%81%8f%e3%82%93) | N/A |
-| 24 | [第438回](http://twitter.com/search?q=%e7%ac%ac438%e5%9b%9e) | N/A |
-| 25 | [くむーさん](http://twitter.com/search?q=%e3%81%8f%e3%82%80%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 26 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [Christina Koch](http://twitter.com/search?q=Christina+Koch) | N/A |
-| 28 | [Victor Glover](http://twitter.com/search?q=Victor+Glover) | N/A |
+| 1 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 2 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 3 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [#CSKvsLSG](http://twitter.com/search?q=%23CSKvsLSG) | N/A |
+| 6 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 7 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 8 | [Meltem Demir](http://twitter.com/search?q=Meltem+Demir) | N/A |
+| 9 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 10 | [#KamuAvukatınaSözünüzVar](http://twitter.com/search?q=%23KamuAvukat%c4%b1naS%c3%b6z%c3%bcn%c3%bczVar) | N/A |
+| 11 | [#Jimin_LikeCrazy](http://twitter.com/search?q=%23Jimin_LikeCrazy) | N/A |
+| 12 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 13 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 14 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 15 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 16 | [CONCERT GUEST](http://twitter.com/search?q=CONCERT+GUEST) | N/A |
+| 17 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 18 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 19 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
+| 20 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 21 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 22 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 23 | [Auli](http://twitter.com/search?q=Auli) | N/A |
+| 24 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 25 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 26 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
+| 27 | [リツイート直後のツイート](http://twitter.com/search?q=%e3%83%aa%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 28 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
 | 29 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 30 | [マコちゃん](http://twitter.com/search?q=%e3%83%9e%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
-| 32 | [Rezilsin Fox](http://twitter.com/search?q=Rezilsin+Fox) | N/A |
-| 33 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
-| 34 | [健くんの声](http://twitter.com/search?q=%e5%81%a5%e3%81%8f%e3%82%93%e3%81%ae%e5%a3%b0) | N/A |
-| 35 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 36 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 37 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 38 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 39 | [VaadDeğil YapıKayıt](http://twitter.com/search?q=VaadDe%c4%9fil+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 40 | [Jaime Reyes](http://twitter.com/search?q=Jaime+Reyes) | N/A |
-| 41 | [ホメオスタシス](http://twitter.com/search?q=%e3%83%9b%e3%83%a1%e3%82%aa%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
-| 42 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
-| 44 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
-| 45 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
-| 46 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
-| 47 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 48 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
-| 49 | [유형별 4단어](http://twitter.com/search?q=%ec%9c%a0%ed%98%95%eb%b3%84+4%eb%8b%a8%ec%96%b4) | N/A |
-| 50 | [Ted Kord](http://twitter.com/search?q=Ted+Kord) | N/A |
+| 30 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 31 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 32 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
+| 33 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 34 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 35 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 36 | [Badoni](http://twitter.com/search?q=Badoni) | N/A |
+| 37 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 38 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
+| 39 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 40 | [JIMIN PAVED THE WAY](http://twitter.com/search?q=JIMIN+PAVED+THE+WAY) | N/A |
+| 41 | [Thala](http://twitter.com/search?q=Thala) | N/A |
+| 42 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 43 | [かぼすちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%bc%e3%81%99%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
+| 45 | [FATHER ON TOP](http://twitter.com/search?q=FATHER+ON+TOP) | N/A |
+| 46 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 47 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 48 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 49 | [犬のアイコン](http://twitter.com/search?q=%e7%8a%ac%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
+| 50 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
 
 
 

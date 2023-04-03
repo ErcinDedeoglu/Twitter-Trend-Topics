@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-03 17:17:32 UTC`
+📆 Last Updated: `2023-04-03 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 1 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
+| 2 | [Larry Bird](http://twitter.com/search?q=Larry+Bird) | N/A |
 | 3 | [#AIMW23](http://twitter.com/search?q=%23AIMW23) | N/A |
-| 4 | [60 Minutes](http://twitter.com/search?q=60+Minutes) | N/A |
-| 5 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 6 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 7 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 8 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 9 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 10 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 11 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 12 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 4 | [Latino](http://twitter.com/search?q=Latino) | N/A |
+| 5 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 6 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 8 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 9 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 10 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 13 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 14 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 15 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 16 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 17 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 18 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 19 | [Christina Koch](http://twitter.com/search?q=Christina+Koch) | N/A |
-| 20 | [Ted Kord](http://twitter.com/search?q=Ted+Kord) | N/A |
-| 21 | [Victor Glover](http://twitter.com/search?q=Victor+Glover) | N/A |
-| 22 | [Jaime Reyes](http://twitter.com/search?q=Jaime+Reyes) | N/A |
-| 23 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 24 | [Reid Wiseman](http://twitter.com/search?q=Reid+Wiseman) | N/A |
-| 25 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 26 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 27 | [Xolo](http://twitter.com/search?q=Xolo) | N/A |
-| 28 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 29 | [Assistant Principals](http://twitter.com/search?q=Assistant+Principals) | N/A |
-| 30 | [St. Brown](http://twitter.com/search?q=St.+Brown) | N/A |
-| 31 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
-| 32 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
-| 33 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 34 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 35 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 36 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 37 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 38 | [Andruw Jones](http://twitter.com/search?q=Andruw+Jones) | Andruw Jones is a former Major League Baseball player who played for the Atlanta Braves, Los Angeles Dodgers, Texas Rangers, Chicago White Sox, and New York Yankees. He was a five-time All-Star and won 10 consecutive Gold Glove Awards for his defensive play in the outfield. He is considered one of the greatest defensive players of all time. |
-| 39 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 14 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 15 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 16 | [Auli](http://twitter.com/search?q=Auli) | N/A |
+| 17 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 18 | [60% of Americans](http://twitter.com/search?q=60%25+of+Americans) | N/A |
+| 19 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 20 | [CONCERT GUEST](http://twitter.com/search?q=CONCERT+GUEST) | N/A |
+| 21 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 22 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 23 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 24 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 25 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 26 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 27 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 28 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 29 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
+| 30 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 31 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
+| 32 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 33 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 34 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 35 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 36 | [Cobra Kai](http://twitter.com/search?q=Cobra+Kai) | Cobra Kai is a martial arts dojo and the main antagonist in the Karate Kid film series. The phrase "Cobra Kai" is derived from the Japanese words for "snake" and "school," and it symbolizes a ruthless, take-no-prisoners approach to martial arts. |
+| 37 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 38 | [St. Brown](http://twitter.com/search?q=St.+Brown) | N/A |
+| 39 | [Maui](http://twitter.com/search?q=Maui) | N/A |
 | 40 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 41 | [Tony Yayo](http://twitter.com/search?q=Tony+Yayo) | N/A |
-| 42 | [Drax](http://twitter.com/search?q=Drax) | Drax is a fictional character from the Marvel Comics universe. He is an alien warrior from the planet Titan, and a member of the Guardians of the Galaxy. His name is derived from the Greek word for "slayer". In English, Drax means "slayer" or "destroyer". |
-| 43 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 44 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 45 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 46 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 47 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
-| 48 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 49 | [Keith Olbermann](http://twitter.com/search?q=Keith+Olbermann) | N/A |
+| 41 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 42 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 43 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 44 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 45 | [Iger](http://twitter.com/search?q=Iger) | N/A |
+| 46 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 47 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-03 17:17:46 UTC`
+📆 Last Updated: `2023-04-03 19:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 2 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 3 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 4 | [#Pecado3Abr](http://twitter.com/search?q=%23Pecado3Abr) | N/A |
-| 5 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 6 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
-| 7 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 8 | [Ethan Hayter](http://twitter.com/search?q=Ethan+Hayter) | N/A |
-| 9 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
-| 10 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 11 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 12 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
-| 13 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 14 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 15 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 16 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 17 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 18 | [Michel](http://twitter.com/search?q=Michel) | N/A |
+| 1 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 2 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 3 | [#Pasapalabra738](http://twitter.com/search?q=%23Pasapalabra738) | N/A |
+| 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 5 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 7 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 8 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 9 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 10 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 11 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 12 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 13 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 14 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 15 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
+| 16 | [#Pecado3Abr](http://twitter.com/search?q=%23Pecado3Abr) | N/A |
+| 17 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
+| 18 | [Helio](http://twitter.com/search?q=Helio) | N/A |
 | 19 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 20 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
-| 21 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 22 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 23 | [Ruth Lorenzo](http://twitter.com/search?q=Ruth+Lorenzo) | N/A |
-| 24 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
-| 25 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 26 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 28 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 29 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 30 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 31 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 32 | [Baptista](http://twitter.com/search?q=Baptista) | N/A |
-| 33 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 34 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 35 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
-| 36 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 37 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
-| 38 | [Bordalas](http://twitter.com/search?q=Bordalas) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 41 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 42 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 43 | [#TodoEsMentira3A](http://twitter.com/search?q=%23TodoEsMentira3A) | N/A |
+| 20 | [Ethan Hayter](http://twitter.com/search?q=Ethan+Hayter) | N/A |
+| 21 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 22 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 23 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
+| 24 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 25 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 26 | [Michel](http://twitter.com/search?q=Michel) | N/A |
+| 27 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 28 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 29 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 30 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 31 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 32 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
+| 33 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
+| 34 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
+| 35 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 36 | [Norauto](http://twitter.com/search?q=Norauto) | N/A |
+| 37 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 38 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
+| 39 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 40 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
+| 41 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 42 | [#AthleticOsasuna](http://twitter.com/search?q=%23AthleticOsasuna) | N/A |
+| 43 | [#YoMeRebelo3A](http://twitter.com/search?q=%23YoMeRebelo3A) | N/A |
 | 44 | [#DiaTeHaceElCarro](http://twitter.com/search?q=%23DiaTeHaceElCarro) | N/A |
-| 45 | [#YoMeRebelo3A](http://twitter.com/search?q=%23YoMeRebelo3A) | N/A |
-| 46 | [#AdaraSv3A](http://twitter.com/search?q=%23AdaraSv3A) | N/A |
-| 47 | [#APOYOROCIO3A](http://twitter.com/search?q=%23APOYOROCIO3A) | N/A |
-| 48 | [#SSanta7TV](http://twitter.com/search?q=%23SSanta7TV) | N/A |
-| 49 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
+| 45 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 46 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 47 | [#AdaraSv3A](http://twitter.com/search?q=%23AdaraSv3A) | N/A |
+| 48 | [#APOYOROCIO3A](http://twitter.com/search?q=%23APOYOROCIO3A) | N/A |
 
 
 
