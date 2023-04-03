@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-03 03:17:48 UTC`
+📆 Last Updated: `2023-04-03 04:19:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 | 3 | [#wahllu23](http://twitter.com/search?q=%23wahllu23) | N/A |
 | 4 | [grand conseil](http://twitter.com/search?q=grand+conseil) | N/A |
-| 5 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 6 | [pierre maudet](http://twitter.com/search?q=pierre+maudet) | N/A |
+| 5 | [Pierre Maudet](http://twitter.com/search?q=Pierre+Maudet) | N/A |
+| 6 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 7 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
 | 8 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
 | 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
@@ -32,35 +32,35 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 16 | [Palmsonntag](http://twitter.com/search?q=Palmsonntag) | N/A |
 | 17 | [Lucerne](http://twitter.com/search?q=Lucerne) | N/A |
-| 18 | [sackmesser](http://twitter.com/search?q=sackmesser) | N/A |
-| 19 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
-| 20 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 21 | [wahlgang](http://twitter.com/search?q=wahlgang) | N/A |
-| 22 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
-| 23 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
-| 24 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 25 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 26 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
-| 27 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
-| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 29 | [Haar](http://twitter.com/search?q=Haar) | N/A |
-| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 31 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 32 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 19 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 20 | [wahlgang](http://twitter.com/search?q=wahlgang) | N/A |
+| 21 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 22 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
+| 23 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 24 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 25 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
+| 26 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
+| 27 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 28 | [Haar](http://twitter.com/search?q=Haar) | N/A |
+| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 30 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 31 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 32 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
 | 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 35 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
 | 36 | [Wirklichkeit](http://twitter.com/search?q=Wirklichkeit) | N/A |
-| 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 38 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 40 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 41 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
-| 42 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
-| 43 | [Stell](http://twitter.com/search?q=Stell) | N/A |
-| 44 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 45 | [fussball](http://twitter.com/search?q=fussball) | N/A |
-| 46 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 37 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 40 | [resultat](http://twitter.com/search?q=resultat) | N/A |
+| 41 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
+| 42 | [Stell](http://twitter.com/search?q=Stell) | N/A |
+| 43 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 44 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 45 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 46 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
 | 47 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
 | 48 | [Küche](http://twitter.com/search?q=K%c3%bcche) | N/A |
 

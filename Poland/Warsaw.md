@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-04-03 03:17:42 UTC`
+📆 Last Updated: `2023-04-03 04:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 2 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 3 | [#lpopog](http://twitter.com/search?q=%23lpopog) | N/A |
-| 4 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
+| 2 | [#lpopog](http://twitter.com/search?q=%23lpopog) | N/A |
+| 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 5 | [#kaczastrofa](http://twitter.com/search?q=%23kaczastrofa) | N/A |
-| 6 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 7 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 8 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 9 | [#włoskarobota](http://twitter.com/search?q=%23w%c5%82oskarobota) | N/A |
-| 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 11 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 6 | [#MarszPapieski](http://twitter.com/search?q=%23MarszPapieski) | N/A |
+| 7 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 9 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 10 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 11 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 13 | [raczkowski](http://twitter.com/search?q=raczkowski) | N/A |
 | 14 | [kremówki](http://twitter.com/search?q=krem%c3%b3wki) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [anze](http://twitter.com/search?q=anze) | N/A |
-| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 18 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
-| 19 | [kostasa](http://twitter.com/search?q=kostasa) | N/A |
-| 20 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 22 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 15 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [anze](http://twitter.com/search?q=anze) | N/A |
+| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 19 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
+| 20 | [kostasa](http://twitter.com/search?q=kostasa) | N/A |
+| 21 | [legii](http://twitter.com/search?q=legii) | N/A |
+| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 24 | [Arłukowicz](http://twitter.com/search?q=Ar%c5%82ukowicz) | N/A |
-| 25 | [barkę](http://twitter.com/search?q=bark%c4%99) | N/A |
-| 26 | [święty janie pawle ii](http://twitter.com/search?q=%c5%9bwi%c4%99ty+janie+pawle+ii) | N/A |
-| 27 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 28 | [Mariusz Wlazły](http://twitter.com/search?q=Mariusz+Wlaz%c5%82y) | N/A |
-| 29 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
-| 30 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 31 | [Prowokacja](http://twitter.com/search?q=Prowokacja) | N/A |
-| 32 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
+| 25 | [święty janie pawle ii](http://twitter.com/search?q=%c5%9bwi%c4%99ty+janie+pawle+ii) | N/A |
+| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 27 | [mariusz wlazły](http://twitter.com/search?q=mariusz+wlaz%c5%82y) | N/A |
+| 28 | [pogoni](http://twitter.com/search?q=pogoni) | N/A |
+| 29 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 30 | [prowokacja](http://twitter.com/search?q=prowokacja) | N/A |
+| 31 | [Karol Wojtyła](http://twitter.com/search?q=Karol+Wojty%c5%82a) | N/A |
+| 32 | ["Barkę"](http://twitter.com/search?q=%22Bark%c4%99%22) | N/A |
 | 33 | [Jerozolimy](http://twitter.com/search?q=Jerozolimy) | N/A |
-| 34 | [ojca świętego](http://twitter.com/search?q=ojca+%c5%9bwi%c4%99tego) | N/A |
-| 35 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
-| 36 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 37 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
-| 38 | [ojcze święty](http://twitter.com/search?q=ojcze+%c5%9bwi%c4%99ty) | N/A |
-| 39 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 40 | [domu ojca](http://twitter.com/search?q=domu+ojca) | N/A |
-| 41 | [dawidem](http://twitter.com/search?q=dawidem) | N/A |
-| 42 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 34 | [rakowa](http://twitter.com/search?q=rakowa) | N/A |
+| 35 | [ojca świętego](http://twitter.com/search?q=ojca+%c5%9bwi%c4%99tego) | N/A |
+| 36 | [ojcze święty](http://twitter.com/search?q=ojcze+%c5%9bwi%c4%99ty) | N/A |
+| 37 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 38 | [domu ojca](http://twitter.com/search?q=domu+ojca) | N/A |
+| 39 | [dawidem](http://twitter.com/search?q=dawidem) | N/A |
+| 40 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 41 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 42 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
 | 43 | [greka](http://twitter.com/search?q=greka) | N/A |
 | 44 | [miarą](http://twitter.com/search?q=miar%c4%85) | N/A |
-| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 46 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
-| 47 | [slisz](http://twitter.com/search?q=slisz) | N/A |
-| 48 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 49 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 50 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 45 | [Intercity](http://twitter.com/search?q=Intercity) | Intercity is a term used to describe transportation services that operate between cities. It typically refers to rail services, but can also refer to bus or air services. Intercity transportation is usually faster than local transportation and provides connections between major cities. |
+| 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 47 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 48 | [wielki tydzień](http://twitter.com/search?q=wielki+tydzie%c5%84) | N/A |
+| 49 | [slisz](http://twitter.com/search?q=slisz) | N/A |
+| 50 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
 
 
 

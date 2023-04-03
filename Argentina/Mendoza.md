@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-03 03:17:37 UTC`
+📆 Last Updated: `2023-04-03 04:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 2 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 3 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 4 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 5 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
-| 6 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
-| 7 | [EL PRIMO EN TWITCH](http://twitter.com/search?q=EL+PRIMO+EN+TWITCH) | N/A |
-| 8 | [#Banfield](http://twitter.com/search?q=%23Banfield) | N/A |
-| 9 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Micaela](http://twitter.com/search?q=Micaela) | N/A |
-| 12 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
-| 13 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 14 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
-| 15 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 16 | [Donato](http://twitter.com/search?q=Donato) | N/A |
-| 17 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 18 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
-| 19 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 20 | [Finde](http://twitter.com/search?q=Finde) | N/A |
-| 21 | [Conti](http://twitter.com/search?q=Conti) | N/A |
-| 22 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
-| 23 | [Ferro](http://twitter.com/search?q=Ferro) | N/A |
-| 24 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 25 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
-| 26 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
-| 27 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 28 | [Servetto](http://twitter.com/search?q=Servetto) | N/A |
-| 29 | [Celeste Cid](http://twitter.com/search?q=Celeste+Cid) | N/A |
-| 30 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
-| 31 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 32 | [Marchiori](http://twitter.com/search?q=Marchiori) | N/A |
-| 33 | [Miño](http://twitter.com/search?q=Mi%c3%b1o) | N/A |
-| 34 | [Evan Peters](http://twitter.com/search?q=Evan+Peters) | Evan Peters is an American actor, best known for his roles in the television series American Horror Story and the X-Men film series. He has also appeared in films such as Kick-Ass and We Are Your Friends. |
-| 35 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 36 | [Método](http://twitter.com/search?q=M%c3%a9todo) | N/A |
-| 37 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 38 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 39 | [Puch](http://twitter.com/search?q=Puch) | N/A |
-| 40 | [Higuaín](http://twitter.com/search?q=Higua%c3%adn) | N/A |
-| 41 | [Pusineri](http://twitter.com/search?q=Pusineri) | N/A |
-| 42 | [valentina zenere](http://twitter.com/search?q=valentina+zenere) | N/A |
-| 43 | [Meza](http://twitter.com/search?q=Meza) | N/A |
-| 44 | [Ruberto](http://twitter.com/search?q=Ruberto) | N/A |
-| 45 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 46 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
-| 47 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 48 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
-| 49 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
-| 50 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 2 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
+| 3 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 4 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 5 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 6 | [#118DeBoca](http://twitter.com/search?q=%23118DeBoca) | N/A |
+| 7 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 8 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 11 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
+| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 13 | [Micaela](http://twitter.com/search?q=Micaela) | N/A |
+| 14 | [Valentino Acuña](http://twitter.com/search?q=Valentino+Acu%c3%b1a) | N/A |
+| 15 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 16 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 17 | [Platense](http://twitter.com/search?q=Platense) | N/A |
+| 18 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
+| 19 | [EL PRIMO EN TWITCH](http://twitter.com/search?q=EL+PRIMO+EN+TWITCH) | N/A |
+| 20 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 21 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
+| 22 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
+| 23 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 24 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 25 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 26 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 27 | [Finde](http://twitter.com/search?q=Finde) | N/A |
+| 28 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
+| 29 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
+| 30 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 31 | [Placente](http://twitter.com/search?q=Placente) | N/A |
+| 32 | [Celeste Cid](http://twitter.com/search?q=Celeste+Cid) | N/A |
+| 33 | [Conti](http://twitter.com/search?q=Conti) | N/A |
+| 34 | [Ferro](http://twitter.com/search?q=Ferro) | N/A |
+| 35 | [Ruberto](http://twitter.com/search?q=Ruberto) | N/A |
+| 36 | [Servetto](http://twitter.com/search?q=Servetto) | N/A |
+| 37 | [Evan Peters](http://twitter.com/search?q=Evan+Peters) | Evan Peters is an American actor, best known for his roles in the television series American Horror Story and the X-Men film series. He has also appeared in films such as Kick-Ass and We Are Your Friends. |
+| 38 | [Miño](http://twitter.com/search?q=Mi%c3%b1o) | N/A |
+| 39 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
+| 40 | [Método](http://twitter.com/search?q=M%c3%a9todo) | N/A |
+| 41 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 42 | [Higuaín](http://twitter.com/search?q=Higua%c3%adn) | N/A |
+| 43 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 44 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 45 | [valentina zenere](http://twitter.com/search?q=valentina+zenere) | N/A |
+| 46 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 47 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 48 | [Puch](http://twitter.com/search?q=Puch) | N/A |
+| 49 | [Marchiori](http://twitter.com/search?q=Marchiori) | N/A |
 
 
 

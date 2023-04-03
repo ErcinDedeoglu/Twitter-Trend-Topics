@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-03 03:18:08 UTC`
+📆 Last Updated: `2023-04-03 04:19:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 2 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 2 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
 | 3 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
 | 4 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
-| 5 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 5 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
 | 6 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 7 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 8 | [Mulkey](http://twitter.com/search?q=Mulkey) | N/A |
-| 9 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 10 | [#NATIONALCHAMPIONSHIP](http://twitter.com/search?q=%23NATIONALCHAMPIONSHIP) | N/A |
-| 11 | [#LSUWBB](http://twitter.com/search?q=%23LSUWBB) | N/A |
-| 12 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
-| 13 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 14 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 15 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 16 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 17 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 18 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 19 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 20 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 21 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 22 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 23 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 7 | [Mulkey](http://twitter.com/search?q=Mulkey) | N/A |
+| 8 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 9 | [#GeauxTigers](http://twitter.com/search?q=%23GeauxTigers) | N/A |
+| 10 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 11 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 12 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 13 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 15 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 17 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 18 | [Summerslam](http://twitter.com/search?q=Summerslam) | N/A |
+| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 20 | [#DreamvilleFest](http://twitter.com/search?q=%23DreamvilleFest) | N/A |
+| 21 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 22 | [ACKNOWLEDGE HIM](http://twitter.com/search?q=ACKNOWLEDGE+HIM) | N/A |
+| 23 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
 | 24 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 25 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 26 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 27 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 28 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 29 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 30 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 31 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 32 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 33 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 34 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 35 | [Peyton Watson](http://twitter.com/search?q=Peyton+Watson) | N/A |
-| 36 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 37 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 38 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 39 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 40 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 41 | [Negative 1](http://twitter.com/search?q=Negative+1) | N/A |
-| 42 | [Stahl](http://twitter.com/search?q=Stahl) | N/A |
-| 43 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
-| 44 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 45 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 47 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 48 | [Slayer](http://twitter.com/search?q=Slayer) | N/A |
-| 49 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 50 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 25 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 26 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 27 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 28 | [THE LUCKY ONE](http://twitter.com/search?q=THE+LUCKY+ONE) | N/A |
+| 29 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 30 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 31 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
+| 32 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 33 | [#CMTAwards2023](http://twitter.com/search?q=%23CMTAwards2023) | N/A |
+| 34 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 35 | [JUMP THEN FALL](http://twitter.com/search?q=JUMP+THEN+FALL) | N/A |
+| 36 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 37 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
+| 38 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 39 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 41 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 42 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 43 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 44 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 45 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 46 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 47 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 48 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 49 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 50 | [Peyton Watson](http://twitter.com/search?q=Peyton+Watson) | N/A |
 
 
 

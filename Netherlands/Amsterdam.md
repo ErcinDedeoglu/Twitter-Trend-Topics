@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-03 03:17:47 UTC`
+📆 Last Updated: `2023-04-03 04:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,15 +19,15 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#spaFEY](http://twitter.com/search?q=%23spaFEY) | N/A |
 | 3 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
 | 4 | [#forgro](http://twitter.com/search?q=%23forgro) | N/A |
-| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 6 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 7 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 8 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 9 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
-| 10 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
-| 11 | [higler](http://twitter.com/search?q=higler) | N/A |
-| 12 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 13 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 5 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 6 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 7 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 9 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
+| 10 | [higler](http://twitter.com/search?q=higler) | N/A |
+| 11 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 12 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 13 | [Henk Kamp](http://twitter.com/search?q=Henk+Kamp) | N/A |
 | 14 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 15 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
 | 16 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
@@ -38,19 +38,19 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 21 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
 | 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 23 | [koers](http://twitter.com/search?q=koers) | N/A |
-| 24 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
-| 25 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 26 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 27 | [bahrein](http://twitter.com/search?q=bahrein) | N/A |
-| 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 31 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
-| 32 | [kowet](http://twitter.com/search?q=kowet) | N/A |
+| 24 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 25 | [Van Der Poel](http://twitter.com/search?q=Van+Der+Poel) | N/A |
+| 26 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 27 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 30 | [provinciebestuurders](http://twitter.com/search?q=provinciebestuurders) | N/A |
+| 31 | [kowet](http://twitter.com/search?q=kowet) | N/A |
+| 32 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
 | 33 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
 | 34 | [coolsingel](http://twitter.com/search?q=coolsingel) | N/A |
 | 35 | [vriends](http://twitter.com/search?q=vriends) | N/A |
-| 36 | [Palmpasen](http://twitter.com/search?q=Palmpasen) | N/A |
+| 36 | [palmpasen](http://twitter.com/search?q=palmpasen) | N/A |
 | 37 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 38 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
 | 39 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 44 | [Hato](http://twitter.com/search?q=Hato) | N/A |
 | 45 | [Stikstofnorm in Nederland](http://twitter.com/search?q=Stikstofnorm+in+Nederland) | N/A |
 | 46 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 47 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
-| 48 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 47 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [schreuder](http://twitter.com/search?q=schreuder) | N/A |
+| 50 | [hugo borst](http://twitter.com/search?q=hugo+borst) | N/A |
 
 
 
