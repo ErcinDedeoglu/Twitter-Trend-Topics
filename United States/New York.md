@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-04 18:18:01 UTC`
+📆 Last Updated: `2023-04-04 19:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 2 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 3 | [Collect Pond Park](http://twitter.com/search?q=Collect+Pond+Park) | N/A |
-| 4 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 5 | [NYers](http://twitter.com/search?q=NYers) | N/A |
-| 6 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Yankee Stadium](http://twitter.com/search?q=Yankee+Stadium) | N/A |
-| 9 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 10 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 1 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 3 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 4 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
+| 5 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 6 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 7 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 8 | [NYers](http://twitter.com/search?q=NYers) | N/A |
+| 9 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 10 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
 | 11 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
-| 12 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 13 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 12 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 16 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 17 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 19 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 21 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 22 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 23 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 24 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 25 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 26 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 28 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 29 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 30 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 32 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 33 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 34 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 35 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 36 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 38 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 39 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 40 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
-| 41 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
-| 42 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 43 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 44 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 45 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 46 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 47 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 48 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 49 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
-| 50 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 17 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 18 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 21 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 22 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 25 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 26 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 28 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 29 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 30 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 31 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 32 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 33 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 34 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 35 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 37 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 38 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 39 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 42 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 43 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 44 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 45 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 46 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
+| 47 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 48 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 49 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 50 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 
 
 

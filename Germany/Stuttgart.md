@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-04 18:17:28 UTC`
+📆 Last Updated: `2023-04-04 19:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
 | 2 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 3 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 4 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
-| 5 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 7 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 10 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 11 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
-| 12 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 13 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
-| 14 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 16 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 17 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 18 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 21 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 22 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 3 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 4 | [#HartzUndHerzlich](http://twitter.com/search?q=%23HartzUndHerzlich) | N/A |
+| 5 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 6 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 7 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 11 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 12 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 13 | [Beilagen](http://twitter.com/search?q=Beilagen) | N/A |
+| 14 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 15 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 16 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 17 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
+| 18 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 19 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 22 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 23 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 24 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 25 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 26 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 27 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 28 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
-| 29 | [Verteidigungsbündnis](http://twitter.com/search?q=Verteidigungsb%c3%bcndnis) | N/A |
-| 30 | [Lump](http://twitter.com/search?q=Lump) | N/A |
-| 31 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 32 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 33 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 34 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 35 | [Hotline](http://twitter.com/search?q=Hotline) | N/A |
-| 36 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 37 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 38 | [Naturheilkunde](http://twitter.com/search?q=Naturheilkunde) | N/A |
-| 39 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
-| 40 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 41 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 42 | [Anonymität](http://twitter.com/search?q=Anonymit%c3%a4t) | N/A |
-| 43 | [Knust](http://twitter.com/search?q=Knust) | N/A |
-| 44 | [Vollzug](http://twitter.com/search?q=Vollzug) | N/A |
-| 45 | [Kugel Eis](http://twitter.com/search?q=Kugel+Eis) | N/A |
-| 46 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 47 | [Gutmenschen](http://twitter.com/search?q=Gutmenschen) | N/A |
-| 48 | [Anfragen](http://twitter.com/search?q=Anfragen) | N/A |
-| 49 | [Leitungswasser](http://twitter.com/search?q=Leitungswasser) | N/A |
+| 24 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 25 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 26 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 27 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 28 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 29 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
+| 30 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 31 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 32 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 33 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 34 | [Knust](http://twitter.com/search?q=Knust) | N/A |
+| 35 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
+| 36 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 37 | [Naturheilkunde](http://twitter.com/search?q=Naturheilkunde) | N/A |
+| 38 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 39 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 40 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
+| 41 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 42 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
+| 43 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
+| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 45 | ['Überbelichtet'](http://twitter.com/search?q=%27%c3%9cberbelichtet%27) | N/A |
+| 46 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 47 | [Tim Walter](http://twitter.com/search?q=Tim+Walter) | N/A |
+| 48 | [Vollzug](http://twitter.com/search?q=Vollzug) | N/A |
+| 49 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
+| 50 | [Dienstgrad](http://twitter.com/search?q=Dienstgrad) | N/A |
 
 
 

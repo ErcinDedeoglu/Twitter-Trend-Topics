@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-04-04 18:17:11 UTC`
+📆 Last Updated: `2023-04-04 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
-| 2 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 3 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 4 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 5 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 8 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 9 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 10 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
-| 11 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 13 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 14 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 15 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 17 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
-| 18 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 19 | [Revels](http://twitter.com/search?q=Revels) | N/A |
-| 20 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
-| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 22 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 23 | [Mines](http://twitter.com/search?q=Mines) | N/A |
-| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 25 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 26 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 27 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 28 | [My Internet](http://twitter.com/search?q=My+Internet) | N/A |
-| 29 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 30 | [Orange Creme](http://twitter.com/search?q=Orange+Creme) | N/A |
-| 31 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 32 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
-| 33 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 34 | [John Bennett](http://twitter.com/search?q=John+Bennett) | N/A |
-| 35 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 36 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 37 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 38 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
-| 39 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
-| 40 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
-| 41 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 42 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 43 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 44 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 45 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 46 | [Kell](http://twitter.com/search?q=Kell) | N/A |
-| 47 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
-| 48 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 49 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 1 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 2 | [Tsimikas](http://twitter.com/search?q=Tsimikas) | Tsimikas is a Greek surname. It is derived from the Greek word "tsimikas" which means "small". |
+| 3 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 4 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 5 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 6 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
+| 7 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 8 | [#ALAW](http://twitter.com/search?q=%23ALAW) | N/A |
+| 9 | [Nigella](http://twitter.com/search?q=Nigella) | N/A |
+| 10 | [#YTFC](http://twitter.com/search?q=%23YTFC) | N/A |
+| 11 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 12 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 13 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 17 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 19 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 20 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 21 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 22 | [Daniel Sturridge](http://twitter.com/search?q=Daniel+Sturridge) | N/A |
+| 23 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 24 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 25 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
+| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 27 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 28 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 30 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 31 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
+| 32 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 33 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 34 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 35 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 36 | [Revels](http://twitter.com/search?q=Revels) | N/A |
+| 37 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 38 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 39 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 41 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 42 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 43 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 44 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 45 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 46 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 47 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 48 | [John Bennett](http://twitter.com/search?q=John+Bennett) | N/A |
+| 49 | [Orange Creme](http://twitter.com/search?q=Orange+Creme) | N/A |
 
 
 

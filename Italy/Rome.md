@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-04-04 18:17:29 UTC`
+📆 Last Updated: `2023-04-04 19:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 2 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 3 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 4 | [#4aprile](http://twitter.com/search?q=%234aprile) | N/A |
+| 1 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 2 | [#4aprile](http://twitter.com/search?q=%234aprile) | N/A |
+| 3 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 4 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 5 | [#corviflowerparty](http://twitter.com/search?q=%23corviflowerparty) | N/A |
-| 6 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 7 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 8 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 10 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 11 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 12 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 13 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 14 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
-| 15 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 16 | [Turchese](http://twitter.com/search?q=Turchese) | N/A |
-| 17 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 18 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 19 | [Marin](http://twitter.com/search?q=Marin) | N/A |
-| 20 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 21 | [tavassi e oriana](http://twitter.com/search?q=tavassi+e+oriana) | N/A |
-| 22 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 23 | [ma orietta](http://twitter.com/search?q=ma+orietta) | N/A |
+| 6 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 9 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 10 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 11 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
+| 12 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 13 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 14 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 16 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 17 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 19 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 20 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 21 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 22 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
+| 23 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
 | 24 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 25 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
-| 26 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 27 | [Kinder Cereali](http://twitter.com/search?q=Kinder+Cereali) | N/A |
-| 28 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 29 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 30 | [Persia](http://twitter.com/search?q=Persia) | N/A |
-| 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 32 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 33 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 34 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 35 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 36 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 37 | [Tronky](http://twitter.com/search?q=Tronky) | N/A |
-| 38 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 39 | [HE'S JUST KEN](http://twitter.com/search?q=HE%27S+JUST+KEN) | N/A |
-| 40 | [Alessio Campoli](http://twitter.com/search?q=Alessio+Campoli) | N/A |
-| 41 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 42 | [Grucce](http://twitter.com/search?q=Grucce) | N/A |
-| 43 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
-| 44 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 45 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 46 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 47 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 48 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 49 | [Briatore](http://twitter.com/search?q=Briatore) | N/A |
-| 50 | [Mortadella](http://twitter.com/search?q=Mortadella) | N/A |
+| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
+| 28 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
+| 29 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 30 | [#Laura30](http://twitter.com/search?q=%23Laura30) | N/A |
+| 31 | [#siRiflette](http://twitter.com/search?q=%23siRiflette) | N/A |
+| 32 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 33 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 34 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 35 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
+| 36 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 37 | [#NewYork](http://twitter.com/search?q=%23NewYork) | N/A |
+| 38 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 39 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 40 | [#Soumahoro](http://twitter.com/search?q=%23Soumahoro) | N/A |
+| 41 | [#LiceoDelMadeInItaly](http://twitter.com/search?q=%23LiceoDelMadeInItaly) | N/A |
+| 42 | [#uominedonne](http://twitter.com/search?q=%23uominedonne) | N/A |
+| 43 | [#FrancescoDeGregori](http://twitter.com/search?q=%23FrancescoDeGregori) | N/A |
+| 44 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 45 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
 
 
 

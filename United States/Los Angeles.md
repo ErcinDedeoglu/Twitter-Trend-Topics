@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-04 18:18:00 UTC`
+📆 Last Updated: `2023-04-04 19:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 2 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 3 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 7 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 8 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 9 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 10 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 11 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 12 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 13 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 14 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 15 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 16 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 17 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 19 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 20 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 21 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 22 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 23 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 25 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 29 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 30 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 31 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 32 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 33 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 34 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
-| 35 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
-| 36 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 37 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 38 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 39 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 40 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 41 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 42 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 43 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 44 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 45 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
-| 46 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
-| 47 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 48 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 49 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 50 | [Whistles](http://twitter.com/search?q=Whistles) | N/A |
+| 1 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 3 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 4 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 5 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 6 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 7 | [Greene](http://twitter.com/search?q=Greene) | N/A |
+| 8 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 13 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 14 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 15 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 16 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 17 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 22 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 23 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 24 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 25 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 26 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 28 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 30 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 31 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 32 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 33 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 34 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 36 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 37 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 38 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 39 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 41 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
+| 42 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 43 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 44 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 45 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
+| 46 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 48 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 49 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 50 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
 
 
 

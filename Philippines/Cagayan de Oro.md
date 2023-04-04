@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-04-04 18:17:42 UTC`
+📆 Last Updated: `2023-04-04 19:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,42 +21,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 5 | [#JonaxxRTMVSimula](http://twitter.com/search?q=%23JonaxxRTMVSimula) | N/A |
 | 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 7 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 8 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 10 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 12 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 13 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 14 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 15 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 16 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 17 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 18 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 19 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 20 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 21 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 22 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 23 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 24 | [Duty After School](http://twitter.com/search?q=Duty+After+School) | N/A |
-| 25 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 26 | [#BIGBANG_StillLife1stYear](http://twitter.com/search?q=%23BIGBANG_StillLife1stYear) | N/A |
-| 27 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 28 | [#SHARshinesAt24](http://twitter.com/search?q=%23SHARshinesAt24) | N/A |
-| 29 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
-| 30 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
-| 31 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
-| 32 | [#SEVENTEENxRollingStone](http://twitter.com/search?q=%23SEVENTEENxRollingStone) | N/A |
-| 33 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
-| 34 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
-| 35 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
-| 36 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
-| 37 | [#HORI7ONFirstFanMeeting](http://twitter.com/search?q=%23HORI7ONFirstFanMeeting) | N/A |
-| 38 | [#DLFirstKiss](http://twitter.com/search?q=%23DLFirstKiss) | N/A |
-| 39 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 40 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 41 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
-| 42 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
+| 7 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 8 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 9 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 12 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 15 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 17 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 18 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 20 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 21 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 22 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 23 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 24 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 25 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
+| 26 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
+| 27 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 28 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 29 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 30 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 31 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 32 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
+| 33 | [IVE SECOND CONCEPT PHOTO](http://twitter.com/search?q=IVE+SECOND+CONCEPT+PHOTO) | N/A |
+| 34 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 35 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 37 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 38 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 39 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 40 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 42 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 43 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 44 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 45 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 46 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 47 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
+| 48 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 49 | [4.4 SALE](http://twitter.com/search?q=4.4+SALE) | N/A |
 
 
 

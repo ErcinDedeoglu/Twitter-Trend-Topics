@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-04 18:18:09 UTC`
+📆 Last Updated: `2023-04-04 19:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 2 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 3 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 4 | [#4aprile](http://twitter.com/search?q=%234aprile) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 7 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 8 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 9 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 10 | [tavassi e oriana](http://twitter.com/search?q=tavassi+e+oriana) | N/A |
-| 11 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 12 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [ma orietta](http://twitter.com/search?q=ma+orietta) | N/A |
-| 15 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 16 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 17 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 18 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
-| 19 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 20 | [Marin](http://twitter.com/search?q=Marin) | N/A |
-| 21 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 22 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 23 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 28 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 29 | [Kinder Cereali](http://twitter.com/search?q=Kinder+Cereali) | N/A |
-| 30 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 31 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 32 | [Persia](http://twitter.com/search?q=Persia) | N/A |
-| 33 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
-| 34 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 35 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 36 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 37 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 38 | [Turchese](http://twitter.com/search?q=Turchese) | N/A |
-| 39 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 40 | [bompiani](http://twitter.com/search?q=bompiani) | N/A |
-| 41 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
-| 42 | [Schillaci](http://twitter.com/search?q=Schillaci) | N/A |
-| 43 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 44 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 45 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 46 | [Rimini](http://twitter.com/search?q=Rimini) | N/A |
-| 47 | [HE'S JUST KEN](http://twitter.com/search?q=HE%27S+JUST+KEN) | N/A |
-| 48 | [Tronky](http://twitter.com/search?q=Tronky) | N/A |
-| 49 | [Alessio Campoli](http://twitter.com/search?q=Alessio+Campoli) | N/A |
-| 50 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [#corviflowerparty](http://twitter.com/search?q=%23corviflowerparty) | N/A |
+| 4 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 5 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 8 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 9 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 10 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 11 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
+| 12 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 13 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 14 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 15 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 16 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 18 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 19 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 20 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 21 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
+| 22 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 23 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
+| 27 | [#siRiflette](http://twitter.com/search?q=%23siRiflette) | N/A |
+| 28 | [#Laura30](http://twitter.com/search?q=%23Laura30) | N/A |
+| 29 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 30 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 31 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 32 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 33 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
+| 34 | [#NewYork](http://twitter.com/search?q=%23NewYork) | N/A |
+| 35 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 36 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 37 | [#Soumahoro](http://twitter.com/search?q=%23Soumahoro) | N/A |
+| 38 | [#LiceoDelMadeInItaly](http://twitter.com/search?q=%23LiceoDelMadeInItaly) | N/A |
+| 39 | [#uominedonne](http://twitter.com/search?q=%23uominedonne) | N/A |
+| 40 | [#FrancescoDeGregori](http://twitter.com/search?q=%23FrancescoDeGregori) | N/A |
+| 41 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 42 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
 
 
 

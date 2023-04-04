@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-04-04 18:18:14 UTC`
+📆 Last Updated: `2023-04-04 19:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 2 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 6 | [Janna Nick](http://twitter.com/search?q=Janna+Nick) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 5 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [Janna Nick](http://twitter.com/search?q=Janna+Nick) | N/A |
 | 8 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 9 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 10 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 11 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 12 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
-| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 14 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 15 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 16 | [Kwsp](http://twitter.com/search?q=Kwsp) | N/A |
-| 17 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 18 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 19 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 20 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 21 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 24 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 25 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 26 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
-| 27 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 28 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 29 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 30 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 31 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 32 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
-| 33 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 34 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 35 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
-| 36 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
-| 37 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 38 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 40 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
-| 41 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
-| 42 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 43 | [eunha](http://twitter.com/search?q=eunha) | N/A |
-| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 46 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 47 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 48 | [Aminnnn](http://twitter.com/search?q=Aminnnn) | N/A |
-| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 10 | [XANA](http://twitter.com/search?q=XANA) | N/A |
+| 11 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 12 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 13 | [Congratulations Park Jimin](http://twitter.com/search?q=Congratulations+Park+Jimin) | N/A |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 16 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 17 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 18 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
+| 19 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 21 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
+| 22 | [CONGRATSSSS](http://twitter.com/search?q=CONGRATSSSS) | N/A |
+| 23 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 24 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 25 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 27 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 28 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
+| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 30 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 31 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 32 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 33 | [mijoo](http://twitter.com/search?q=mijoo) | N/A |
+| 34 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
+| 35 | [Earthquake](http://twitter.com/search?q=Earthquake) | N/A |
+| 36 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
+| 37 | [Aminnnn](http://twitter.com/search?q=Aminnnn) | N/A |
+| 38 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 39 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
+| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 41 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 44 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
+| 45 | [Sumatra](http://twitter.com/search?q=Sumatra) | N/A |
+| 46 | [Omgg](http://twitter.com/search?q=Omgg) | N/A |
+| 47 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 48 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 49 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-04 18:17:45 UTC`
+📆 Last Updated: `2023-04-04 19:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 2 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
-| 3 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
-| 4 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
-| 5 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 6 | [#TheHuntForDealsIsOver](http://twitter.com/search?q=%23TheHuntForDealsIsOver) | N/A |
-| 7 | [#ThatZeroFeeling](http://twitter.com/search?q=%23ThatZeroFeeling) | N/A |
-| 8 | [Leeto](http://twitter.com/search?q=Leeto) | N/A |
-| 9 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 10 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
-| 15 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 16 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
-| 17 | [Babeile](http://twitter.com/search?q=Babeile) | N/A |
-| 18 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
-| 19 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
-| 20 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
-| 21 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 22 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 23 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
-| 26 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
-| 29 | [Tropika Island of Treasure](http://twitter.com/search?q=Tropika+Island+of+Treasure) | N/A |
-| 30 | [PFMA](http://twitter.com/search?q=PFMA) | N/A |
-| 31 | [we are proud of you ipeleng](http://twitter.com/search?q=we+are+proud+of+you+ipeleng) | N/A |
-| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 33 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 34 | [Ayanda Dlamini](http://twitter.com/search?q=Ayanda+Dlamini) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Uncle Waffles](http://twitter.com/search?q=Uncle+Waffles) | N/A |
-| 37 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
-| 38 | [Homosexuality](http://twitter.com/search?q=Homosexuality) | N/A |
-| 39 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
-| 40 | [Adv Mkhwebane](http://twitter.com/search?q=Adv+Mkhwebane) | N/A |
-| 41 | [melita](http://twitter.com/search?q=melita) | N/A |
-| 42 | [Romain Folz](http://twitter.com/search?q=Romain+Folz) | N/A |
-| 43 | [Benni](http://twitter.com/search?q=Benni) | N/A |
-| 44 | [Pressed Lemon](http://twitter.com/search?q=Pressed+Lemon) | N/A |
-| 45 | [Ts & Cs](http://twitter.com/search?q=Ts+%26+Cs) | N/A |
-| 46 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 47 | [the ultimate titan thabang](http://twitter.com/search?q=the+ultimate+titan+thabang) | N/A |
-| 48 | [thank you titan thabang](http://twitter.com/search?q=thank+you+titan+thabang) | N/A |
-| 49 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 50 | [Dyantyi](http://twitter.com/search?q=Dyantyi) | N/A |
+| 1 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
+| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
+| 4 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 5 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 6 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 8 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 11 | [#TheHuntForDealsIsOver](http://twitter.com/search?q=%23TheHuntForDealsIsOver) | N/A |
+| 12 | [#ThatZeroFeeling](http://twitter.com/search?q=%23ThatZeroFeeling) | N/A |
+| 13 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 18 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
+| 19 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 20 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 21 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
+| 22 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
+| 23 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
+| 24 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
+| 25 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 26 | [Kova](http://twitter.com/search?q=Kova) | N/A |
+| 27 | [Scotty T](http://twitter.com/search?q=Scotty+T) | N/A |
+| 28 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 29 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
+| 30 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 31 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
+| 32 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 33 | [Leeto](http://twitter.com/search?q=Leeto) | N/A |
+| 34 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 35 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
+| 36 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
+| 37 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 38 | [PFMA](http://twitter.com/search?q=PFMA) | N/A |
+| 39 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
+| 40 | [tropika island of treasure](http://twitter.com/search?q=tropika+island+of+treasure) | N/A |
+| 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 42 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 43 | [Ayanda Dlamini](http://twitter.com/search?q=Ayanda+Dlamini) | N/A |
+| 44 | [Block 14](http://twitter.com/search?q=Block+14) | N/A |
+| 45 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 46 | [Cape Town City](http://twitter.com/search?q=Cape+Town+City) | N/A |
+| 47 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [the ultimate titan thabang](http://twitter.com/search?q=the+ultimate+titan+thabang) | N/A |
 
 
 

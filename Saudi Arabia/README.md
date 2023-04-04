@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-04-04 18:18:12 UTC`
+📆 Last Updated: `2023-04-04 19:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Saudi Arabia
 | 1 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
 | 2 | [#الهلال_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الهلال_الفيحاء is a hashtag used by fans of the Saudi Arabian football team Al-Hilal FC. In English, it translates to "Al-Hilal's Phoenix". |
 | 3 | [#النصر_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | #النصر_العداله is an Arabic hashtag that translates to "Victory of Justice" in English. It is often used to express support for justice and fairness in society. |
-| 4 | [#سوال_ابوفهد_اليومي7](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a7) | N/A |
-| 5 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 6 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
-| 7 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
-| 8 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 9 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 10 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 11 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
-| 12 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 13 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 14 | [المباراه الساعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
-| 15 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 16 | [جونز](http://twitter.com/search?q=%d8%ac%d9%88%d9%86%d8%b2) | N/A |
-| 17 | [سعد وعبدالله](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d9%88%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 18 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 19 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 20 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 21 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 22 | [برج الفيصليه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a%d9%87) | N/A |
-| 23 | [عامل النظافه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
-| 24 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 25 | [زيد بن حارثة](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%ab%d8%a9) | N/A |
-| 26 | [التشكيله الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 4 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
+| 5 | [#الرياض_مركز_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d9%85%d8%b1%d9%83%d8%b2_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 6 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 7 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 8 | [للنصر](http://twitter.com/search?q=%d9%84%d9%84%d9%86%d8%b5%d8%b1) | للنصر is an Arabic phrase that translates to "for victory" in English. It is often used as a rallying cry or slogan for a cause or movement. |
+| 9 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 10 | [التوقف الاضطراري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%b1%d9%8a) | N/A |
+| 11 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
+| 12 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 13 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
+| 14 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
+| 15 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 16 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 17 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
+| 18 | [ماتيب](http://twitter.com/search?q=%d9%85%d8%a7%d8%aa%d9%8a%d8%a8) | ماتيب is an Arabic expression that means "I'm sorry". |
+| 19 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 20 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 21 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 22 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
+| 23 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 24 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 25 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 27 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 28 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
-| 29 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 30 | [وليفربول](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | N/A |
-| 31 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 32 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 33 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 34 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 35 | [عزيزي ولي الامر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 36 | [سعيد العويران](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 37 | [ذات الصواري](http://twitter.com/search?q=%d8%b0%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a) | N/A |
-| 38 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 39 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
-| 40 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 41 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 42 | [#ابونوره_يسي_لقبيله_يام1](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88%d9%86%d9%88%d8%b1%d9%87_%d9%8a%d8%b3%d9%8a_%d9%84%d9%82%d8%a8%d9%8a%d9%84%d9%87_%d9%8a%d8%a7%d9%851) | N/A |
-| 43 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
-| 44 | [#الفصل_الدراسي_الثالث](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%b5%d9%84_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a_%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 45 | [#هدايا_رسيس2](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b32) | N/A |
-| 46 | [#سعد_الشهري](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 47 | [#عبدالله_الشهراني](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [#قصه_بطل13](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%8413) | N/A |
-| 49 | [#الاهلي_الجبلين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%ac%d8%a8%d9%84%d9%8a%d9%86) | #الاهلي_الجبلين is a hashtag used by fans of Al-Ahli Jeddah, a Saudi Arabian football club. In English, it translates to "Al-Ahli Jeddah". |
-| 50 | [#مسلسل_بحر_دلهوم13](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a8%d8%ad%d8%b1_%d8%af%d9%84%d9%87%d9%88%d9%8513) | N/A |
+| 28 | [جونز](http://twitter.com/search?q=%d8%ac%d9%88%d9%86%d8%b2) | N/A |
+| 29 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 30 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
+| 31 | [وليفربول](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | N/A |
+| 32 | [الفوز اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 33 | [محمد العنزي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 34 | [المباراه الساعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
+| 35 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 36 | [برج الفيصليه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a%d9%87) | N/A |
+| 37 | [سعد وعبدالله](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d9%88%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 38 | [الاتحاد اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 39 | [عمال النظافه](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
+| 40 | [فيرمينو](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%85%d9%8a%d9%86%d9%88) | N/A |
+| 41 | [ملعب الجوهره](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
+| 42 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 43 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 44 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 45 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
+| 46 | [التشكيله الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 47 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 48 | [زيد بن حارثه](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%ab%d9%87) | N/A |
+| 49 | [النقاط الثلاث](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab) | N/A |
+| 50 | [سعيد العويران](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 
 
 
