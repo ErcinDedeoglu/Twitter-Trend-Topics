@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-04 02:30:46 UTC`
+📆 Last Updated: `2023-04-04 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Poland](</Poland>)
 | 9 | [#lpopog](http://twitter.com/search?q=%23lpopog) | N/A |
 | 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 11 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 12 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 13 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 14 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 15 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 12 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 13 | [papieża](http://twitter.com/search?q=papie%c5%bca) | N/A |
+| 14 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 15 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 16 | [Chełmnie](http://twitter.com/search?q=Che%c5%82mnie) | N/A |
-| 17 | [Frankowskiego](http://twitter.com/search?q=Frankowskiego) | N/A |
-| 18 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
-| 19 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
-| 20 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
+| 17 | [balcerowicz](http://twitter.com/search?q=balcerowicz) | N/A |
+| 18 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
+| 19 | [petersburgu](http://twitter.com/search?q=petersburgu) | N/A |
+| 20 | [Frankowskiego](http://twitter.com/search?q=Frankowskiego) | N/A |
 | 21 | [kremówki](http://twitter.com/search?q=krem%c3%b3wki) | N/A |
 | 22 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
 | 23 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 24 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
 | 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 26 | [wadowicach](http://twitter.com/search?q=wadowicach) | N/A |
 | 27 | [finowie](http://twitter.com/search?q=finowie) | N/A |
 | 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Jachira](http://twitter.com/search?q=Jachira) | N/A |
+| 29 | [jachira](http://twitter.com/search?q=jachira) | N/A |
 | 30 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
 | 31 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
 | 32 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 33 | [kozielsku](http://twitter.com/search?q=kozielsku) | N/A |
-| 34 | [wielki tydzień](http://twitter.com/search?q=wielki+tydzie%c5%84) | N/A |
-| 35 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
-| 36 | [kielecki](http://twitter.com/search?q=kielecki) | N/A |
-| 37 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [kostasa](http://twitter.com/search?q=kostasa) | N/A |
-| 40 | [Berliner Zeitung](http://twitter.com/search?q=Berliner+Zeitung) | N/A |
-| 41 | [Tatarskiego](http://twitter.com/search?q=Tatarskiego) | N/A |
-| 42 | [the unholy food war](http://twitter.com/search?q=the+unholy+food+war) | N/A |
-| 43 | [piebiaka](http://twitter.com/search?q=piebiaka) | N/A |
-| 44 | [prezydent ukrainy](http://twitter.com/search?q=prezydent+ukrainy) | N/A |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 34 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 35 | [kielecki](http://twitter.com/search?q=kielecki) | N/A |
+| 36 | [yoongiego](http://twitter.com/search?q=yoongiego) | N/A |
+| 37 | [kostasa](http://twitter.com/search?q=kostasa) | N/A |
+| 38 | [Berliner Zeitung](http://twitter.com/search?q=Berliner+Zeitung) | N/A |
+| 39 | [Tatarskiego](http://twitter.com/search?q=Tatarskiego) | N/A |
+| 40 | [the unholy food war](http://twitter.com/search?q=the+unholy+food+war) | N/A |
+| 41 | [piebiaka](http://twitter.com/search?q=piebiaka) | N/A |
+| 42 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
+| 43 | [prezydent ukrainy](http://twitter.com/search?q=prezydent+ukrainy) | N/A |
+| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 45 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 47 | [stolarczyk](http://twitter.com/search?q=stolarczyk) | N/A |
 | 48 | [velde](http://twitter.com/search?q=velde) | N/A |
-| 49 | [Askham](http://twitter.com/search?q=Askham) | N/A |
+| 49 | [askham](http://twitter.com/search?q=askham) | N/A |
 | 50 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
 
 

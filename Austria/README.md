@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-04 02:31:22 UTC`
+📆 Last Updated: `2023-04-04 03:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,27 +24,27 @@ This is top 50 for Austria
 | 7 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 8 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
 | 9 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [drogenproblem](http://twitter.com/search?q=drogenproblem) | N/A |
+| 10 | [drogenproblem](http://twitter.com/search?q=drogenproblem) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 12 | [lercher](http://twitter.com/search?q=lercher) | N/A |
 | 13 | [Hühner](http://twitter.com/search?q=H%c3%bchner) | N/A |
 | 14 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 15 | [Italiener](http://twitter.com/search?q=Italiener) | N/A |
-| 16 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 16 | [inserate](http://twitter.com/search?q=inserate) | N/A |
 | 17 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 18 | [barbara blaha](http://twitter.com/search?q=barbara+blaha) | N/A |
 | 19 | [Butter](http://twitter.com/search?q=Butter) | N/A |
 | 20 | [Brote](http://twitter.com/search?q=Brote) | N/A |
 | 21 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 22 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
+| 22 | [finnen](http://twitter.com/search?q=finnen) | N/A |
 | 23 | [preiselbeeren](http://twitter.com/search?q=preiselbeeren) | N/A |
 | 24 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
 | 25 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
 | 26 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
 | 27 | [bedingungen](http://twitter.com/search?q=bedingungen) | N/A |
-| 28 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 28 | [klenk](http://twitter.com/search?q=klenk) | N/A |
 | 29 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 30 | [Haft](http://twitter.com/search?q=Haft) | N/A |
+| 30 | [haft](http://twitter.com/search?q=haft) | N/A |
 | 31 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
 | 32 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
 | 33 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |

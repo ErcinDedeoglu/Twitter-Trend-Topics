@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-04-04 02:30:41 UTC`
+📆 Last Updated: `2023-04-04 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 2 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
+| 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 | 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 4 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 5 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 6 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
-| 7 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 8 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 9 | [#OTSReComeback](http://twitter.com/search?q=%23OTSReComeback) | N/A |
-| 10 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 11 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 13 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 15 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 16 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 17 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
-| 18 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 19 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
-| 20 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 21 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
-| 22 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 23 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 24 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 25 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
-| 26 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
-| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 28 | [DANNA PAOLA](http://twitter.com/search?q=DANNA+PAOLA) | N/A |
-| 29 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 30 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 31 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 32 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 33 | [Adri](http://twitter.com/search?q=Adri) | N/A |
-| 34 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 35 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
-| 36 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 37 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 38 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 39 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 40 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 41 | [Genaro García Luna](http://twitter.com/search?q=Genaro+Garc%c3%ada+Luna) | N/A |
-| 42 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
-| 43 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 44 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
-| 45 | [#ControlDeDañosReparables](http://twitter.com/search?q=%23ControlDeDa%c3%b1osReparables) | N/A |
-| 46 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 47 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 48 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 49 | [#Acapulco](http://twitter.com/search?q=%23Acapulco) | N/A |
+| 5 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 6 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 7 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
+| 8 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 9 | [Violento](http://twitter.com/search?q=Violento) | N/A |
+| 10 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 11 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 12 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
+| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 14 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 15 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 16 | [Leve](http://twitter.com/search?q=Leve) | N/A |
+| 17 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 18 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
+| 19 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 21 | [1 TRAGO IS COMING](http://twitter.com/search?q=1+TRAGO+IS+COMING) | N/A |
+| 22 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
+| 23 | [En Puebla](http://twitter.com/search?q=En+Puebla) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [En CDMX](http://twitter.com/search?q=En+CDMX) | N/A |
+| 26 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
+| 27 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 28 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 29 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 30 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
+| 31 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 32 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 33 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
+| 36 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 37 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
+| 38 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 39 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
+| 40 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
+| 41 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 42 | [DANNA PAOLA](http://twitter.com/search?q=DANNA+PAOLA) | N/A |
+| 43 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 44 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 46 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 47 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
+| 48 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 49 | [Roier](http://twitter.com/search?q=Roier) | N/A |
 
 
 

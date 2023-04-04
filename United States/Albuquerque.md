@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-04-04 02:31:14 UTC`
+📆 Last Updated: `2023-04-04 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 2 | [#rawaftermania](http://twitter.com/search?q=%23rawaftermania) | N/A |
+| 1 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
-| 5 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 6 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 7 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 8 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
-| 9 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 10 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 12 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 13 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 14 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 15 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 17 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
-| 18 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
+| 4 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 5 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 6 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 7 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 8 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 9 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 11 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 12 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 13 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 14 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 15 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 16 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
+| 17 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 18 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
 | 19 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 20 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 21 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 20 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 21 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 22 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 23 | [Matt Riddle](http://twitter.com/search?q=Matt+Riddle) | N/A |
 | 24 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 25 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 26 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 27 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 28 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 29 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 30 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 31 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 32 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 34 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 35 | [Newton](http://twitter.com/search?q=Newton) | N/A |
-| 36 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 25 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 26 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 29 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
+| 30 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 31 | [Worst Raw](http://twitter.com/search?q=Worst+Raw) | N/A |
+| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 33 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
+| 34 | [Jose Abreu](http://twitter.com/search?q=Jose+Abreu) | N/A |
+| 35 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 36 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
 | 37 | [Riley Greene](http://twitter.com/search?q=Riley+Greene) | N/A |
-| 38 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 39 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 40 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 41 | [Nick Anderson](http://twitter.com/search?q=Nick+Anderson) | N/A |
+| 38 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 39 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 40 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 41 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
 | 42 | [Clingan](http://twitter.com/search?q=Clingan) | N/A |
-| 43 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 44 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 45 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
-| 46 | [Track 8](http://twitter.com/search?q=Track+8) | N/A |
-| 47 | [34 FELONY](http://twitter.com/search?q=34+FELONY) | N/A |
-| 48 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
-| 49 | [Georgi](http://twitter.com/search?q=Georgi) | N/A |
-| 50 | [Class E](http://twitter.com/search?q=Class+E) | N/A |
+| 43 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 44 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
+| 45 | [34 FELONY](http://twitter.com/search?q=34+FELONY) | N/A |
+| 46 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 47 | [Detmers](http://twitter.com/search?q=Detmers) | N/A |
+| 48 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 49 | [Newton](http://twitter.com/search?q=Newton) | N/A |
+| 50 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
 
 
 

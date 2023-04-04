@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-04 02:30:53 UTC`
+📆 Last Updated: `2023-04-04 03:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 3 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 4 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 2 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 3 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 5 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 6 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 7 | [#ProtectInvestTogether](http://twitter.com/search?q=%23ProtectInvestTogether) | N/A |
@@ -40,14 +40,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
 | 24 | [America](http://twitter.com/search?q=America) | N/A |
 | 25 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 26 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 26 | [politikerin](http://twitter.com/search?q=politikerin) | N/A |
 | 27 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
 | 28 | [maudet](http://twitter.com/search?q=maudet) | N/A |
 | 29 | [Welle](http://twitter.com/search?q=Welle) | N/A |
 | 30 | [Ursache](http://twitter.com/search?q=Ursache) | N/A |
 | 31 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
 | 32 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 33 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 33 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
 | 34 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
 | 35 | [Nummer](http://twitter.com/search?q=Nummer) | N/A |
 | 36 | [Jule](http://twitter.com/search?q=Jule) | N/A |
@@ -57,8 +57,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 40 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
 | 41 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
 | 42 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 45 | [busse](http://twitter.com/search?q=busse) | N/A |
 | 46 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
 | 47 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |

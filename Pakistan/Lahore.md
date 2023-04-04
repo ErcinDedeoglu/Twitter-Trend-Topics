@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-04 02:31:09 UTC`
+📆 Last Updated: `2023-04-04 03:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#StandingWithConstitution](http://twitter.com/search?q=%23StandingWithConstitution) | N/A |
 | 3 | [#NationStandswithConstitution](http://twitter.com/search?q=%23NationStandswithConstitution) | N/A |
 | 4 | [#WeRejectOneManShow](http://twitter.com/search?q=%23WeRejectOneManShow) | N/A |
-| 5 | [#جتھے_کا_مقابلہ_بھی_منظور](http://twitter.com/search?q=%23%d8%ac%d8%aa%da%be%db%92_%da%a9%d8%a7_%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%d8%a8%da%be%db%8c_%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 5 | [#SalamBhutto](http://twitter.com/search?q=%23SalamBhutto) | N/A |
 | 6 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 8 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 14 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
 | 15 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 16 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 17 | [Justice Qazi Faez Isa](http://twitter.com/search?q=Justice+Qazi+Faez+Isa) | N/A |
-| 18 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 19 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 20 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 21 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 24 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
-| 25 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 26 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Navy](http://twitter.com/search?q=Navy) | N/A |
-| 29 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 30 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 31 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
-| 32 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 34 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 35 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
-| 36 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 37 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 38 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 39 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
-| 40 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
-| 41 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 42 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 43 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
-| 44 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 45 | [Chal](http://twitter.com/search?q=Chal) | N/A |
-| 46 | [Peak](http://twitter.com/search?q=Peak) | N/A |
-| 47 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 48 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 49 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 50 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 17 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 18 | [justice qazi faez isa](http://twitter.com/search?q=justice+qazi+faez+isa) | N/A |
+| 19 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 20 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 21 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
+| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
+| 24 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 25 | [Tom homecoming](http://twitter.com/search?q=Tom+homecoming) | N/A |
+| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 27 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 28 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 29 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 30 | [FATHER ON TOP](http://twitter.com/search?q=FATHER+ON+TOP) | N/A |
+| 31 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 34 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
+| 35 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 36 | [Nawaz Shareef](http://twitter.com/search?q=Nawaz+Shareef) | N/A |
+| 37 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
+| 38 | [America](http://twitter.com/search?q=America) | N/A |
+| 39 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 40 | [Chal](http://twitter.com/search?q=Chal) | N/A |
+| 41 | [Peak](http://twitter.com/search?q=Peak) | N/A |
+| 42 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 43 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 44 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 45 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 46 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 47 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 48 | [Haww](http://twitter.com/search?q=Haww) | N/A |
+| 49 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 
 

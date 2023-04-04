@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-04 02:31:29 UTC`
+📆 Last Updated: `2023-04-04 03:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Ukraine
 | 18 | [бахмуте](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
 | 19 | [сдох](http://twitter.com/search?q=%d1%81%d0%b4%d0%be%d1%85) | N/A |
 | 20 | [Melitopol](http://twitter.com/search?q=Melitopol) | N/A |
-| 21 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 22 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 24 | [максим фомин](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc+%d1%84%d0%be%d0%bc%d0%b8%d0%bd) | N/A |
-| 25 | [вряд](http://twitter.com/search?q=%d0%b2%d1%80%d1%8f%d0%b4) | N/A |
-| 26 | [оскар](http://twitter.com/search?q=%d0%be%d1%81%d0%ba%d0%b0%d1%80) | N/A |
-| 27 | [урааа](http://twitter.com/search?q=%d1%83%d1%80%d0%b0%d0%b0%d0%b0) | N/A |
-| 28 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 29 | [Одессе](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d0%b5) | N/A |
-| 30 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
-| 31 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 32 | [пригожину](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd%d1%83) | N/A |
-| 33 | [петербурге](http://twitter.com/search?q=%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
-| 34 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 35 | [хорошая](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 36 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
-| 37 | [порядок](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba) | N/A |
-| 38 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 39 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 40 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
-| 41 | [Orthodox Church](http://twitter.com/search?q=Orthodox+Church) | N/A |
-| 42 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 43 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 44 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 45 | [смерть](http://twitter.com/search?q=%d1%81%d0%bc%d0%b5%d1%80%d1%82%d1%8c) | N/A |
-| 46 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 49 | [файно](http://twitter.com/search?q=%d1%84%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
-| 50 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 21 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 22 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 23 | [максим фомин](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc+%d1%84%d0%be%d0%bc%d0%b8%d0%bd) | N/A |
+| 24 | [вряд](http://twitter.com/search?q=%d0%b2%d1%80%d1%8f%d0%b4) | N/A |
+| 25 | [оскар](http://twitter.com/search?q=%d0%be%d1%81%d0%ba%d0%b0%d1%80) | N/A |
+| 26 | [урааа](http://twitter.com/search?q=%d1%83%d1%80%d0%b0%d0%b0%d0%b0) | N/A |
+| 27 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 28 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
+| 29 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
+| 30 | [пригожину](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd%d1%83) | N/A |
+| 31 | [петербурге](http://twitter.com/search?q=%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
+| 32 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 33 | [хорошая](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 34 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
+| 35 | [порядок](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba) | N/A |
+| 36 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 37 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 38 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
+| 39 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 40 | [Orthodox Church](http://twitter.com/search?q=Orthodox+Church) | N/A |
+| 41 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 42 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 43 | [давай](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 44 | [смерть](http://twitter.com/search?q=%d1%81%d0%bc%d0%b5%d1%80%d1%82%d1%8c) | N/A |
+| 45 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 46 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 47 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 48 | [файно](http://twitter.com/search?q=%d1%84%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
+| 49 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 50 | [гойда](http://twitter.com/search?q=%d0%b3%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-04 02:31:26 UTC`
+📆 Last Updated: `2023-04-04 03:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,16 +35,16 @@ This is top 50 for Latvia
 | 18 | [ano drošības](http://twitter.com/search?q=ano+dro%c5%a1%c4%abbas) | N/A |
 | 19 | [prieks](http://twitter.com/search?q=prieks) | N/A |
 | 20 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
-| 21 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 22 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 23 | [tajā](http://twitter.com/search?q=taj%c4%81) | N/A |
-| 24 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 25 | [nevar](http://twitter.com/search?q=nevar) | N/A |
-| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 27 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
-| 28 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 29 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 30 | [godīgi](http://twitter.com/search?q=god%c4%abgi) | N/A |
+| 21 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 22 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
+| 23 | [nevar](http://twitter.com/search?q=nevar) | N/A |
+| 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 25 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
+| 26 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 27 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
+| 28 | [godīgi](http://twitter.com/search?q=god%c4%abgi) | N/A |
+| 29 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 30 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 31 | [ogrē](http://twitter.com/search?q=ogr%c4%93) | N/A |
 | 32 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 | 33 | [pirms](http://twitter.com/search?q=pirms) | N/A |
@@ -52,13 +52,12 @@ This is top 50 for Latvia
 | 35 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
 | 36 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
 | 37 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 38 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 39 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 41 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
-| 42 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
-| 43 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 44 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 38 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
+| 39 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 40 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 41 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 42 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 43 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 
 
 

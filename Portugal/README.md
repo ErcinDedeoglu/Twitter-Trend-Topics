@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-04 02:31:27 UTC`
+📆 Last Updated: `2023-04-04 03:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,28 +35,28 @@ This is top 50 for Portugal
 | 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 19 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
 | 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 21 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 22 | [Kevinho](http://twitter.com/search?q=Kevinho) | N/A |
-| 23 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 24 | [Futsal](http://twitter.com/search?q=Futsal) | N/A |
-| 25 | [Portimonense](http://twitter.com/search?q=Portimonense) | N/A |
-| 26 | [Rio Ave](http://twitter.com/search?q=Rio+Ave) | N/A |
-| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 28 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 31 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 21 | [Kevinho](http://twitter.com/search?q=Kevinho) | N/A |
+| 22 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 23 | [Futsal](http://twitter.com/search?q=Futsal) | N/A |
+| 24 | [Portimonense](http://twitter.com/search?q=Portimonense) | N/A |
+| 25 | [Rio Ave](http://twitter.com/search?q=Rio+Ave) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 29 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 31 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 32 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 33 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 34 | [São Petersburgo](http://twitter.com/search?q=S%c3%a3o+Petersburgo) | N/A |
+| 33 | [São Petersburgo](http://twitter.com/search?q=S%c3%a3o+Petersburgo) | N/A |
+| 34 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
 | 35 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 36 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 37 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
-| 38 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 36 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 38 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
 | 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 40 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 41 | [O Rafael](http://twitter.com/search?q=O+Rafael) | N/A |
-| 42 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
+| 41 | [o rafael](http://twitter.com/search?q=o+rafael) | N/A |
+| 42 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 43 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
 | 44 | [nuno dias](http://twitter.com/search?q=nuno+dias) | N/A |
 | 45 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |

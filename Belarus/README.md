@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-04 02:31:23 UTC`
+📆 Last Updated: `2023-04-04 03:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [беларуси и россии](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 2 | [Хэ Сюань](http://twitter.com/search?q=%d0%a5%d1%8d+%d0%a1%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
+| 2 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
 | 3 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 4 | [ши цинсюаня](http://twitter.com/search?q=%d1%88%d0%b8+%d1%86%d0%b8%d0%bd%d1%81%d1%8e%d0%b0%d0%bd%d1%8f) | N/A |
 | 5 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
@@ -33,15 +33,15 @@ This is top 50 for Belarus
 | 16 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
 | 17 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
 | 18 | [gm-gm](http://twitter.com/search?q=gm-gm) | N/A |
-| 19 | [жиза](http://twitter.com/search?q=%d0%b6%d0%b8%d0%b7%d0%b0) | N/A |
+| 19 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 | 20 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 21 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
+| 21 | [знаю](http://twitter.com/search?q=%d0%b7%d0%bd%d0%b0%d1%8e) | N/A |
 | 22 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
 | 23 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 24 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 25 | [#любисвойфутбол](http://twitter.com/search?q=%23%d0%bb%d1%8e%d0%b1%d0%b8%d1%81%d0%b2%d0%be%d0%b9%d1%84%d1%83%d1%82%d0%b1%d0%be%d0%bb) | N/A |
 | 26 | [#лололошка](http://twitter.com/search?q=%23%d0%bb%d0%be%d0%bb%d0%be%d0%bb%d0%be%d1%88%d0%ba%d0%b0) | N/A |
-| 27 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 27 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 28 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 29 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
 

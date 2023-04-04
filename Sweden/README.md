@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-04 02:31:29 UTC`
+📆 Last Updated: `2023-04-04 03:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,19 +18,19 @@ This is top 50 for Sweden
 | 1 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 2 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 3 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 4 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
-| 7 | [Elfsborg](http://twitter.com/search?q=Elfsborg) | N/A |
+| 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 5 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
+| 6 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
+| 7 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
 | 8 | [greider](http://twitter.com/search?q=greider) | N/A |
 | 9 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
 | 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 12 | [weigel](http://twitter.com/search?q=weigel) | N/A |
-| 13 | [kåberger](http://twitter.com/search?q=k%c3%a5berger) | N/A |
-| 14 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
-| 15 | [Dumpen](http://twitter.com/search?q=Dumpen) | N/A |
-| 16 | [samlingspartiet](http://twitter.com/search?q=samlingspartiet) | N/A |
+| 13 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
+| 14 | [dumpen](http://twitter.com/search?q=dumpen) | N/A |
+| 15 | [samlingspartiet](http://twitter.com/search?q=samlingspartiet) | N/A |
+| 16 | [Kåberger](http://twitter.com/search?q=K%c3%a5berger) | N/A |
 | 17 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 18 | [Dabo](http://twitter.com/search?q=Dabo) | Dabo is a traditional board game from West Africa. It is a two-player strategy game that involves placing stones on a board in order to capture the opponent's pieces. The name "Dabo" comes from the Fula language and means "to win". |
 | 19 | [Petteri Orpo](http://twitter.com/search?q=Petteri+Orpo) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Sweden
 | 39 | [kräver](http://twitter.com/search?q=kr%c3%a4ver) | N/A |
 | 40 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
 | 41 | [odelius](http://twitter.com/search?q=odelius) | N/A |
-| 42 | [murre](http://twitter.com/search?q=murre) | N/A |
-| 43 | [folin](http://twitter.com/search?q=folin) | N/A |
-| 44 | [halmstad](http://twitter.com/search?q=halmstad) | N/A |
-| 45 | [finnarna](http://twitter.com/search?q=finnarna) | N/A |
-| 46 | [#jsödra](http://twitter.com/search?q=%23js%c3%b6dra) | N/A |
-| 47 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 48 | [$SBB](http://twitter.com/search?q=%24SBB) | N/A |
-| 49 | [vejdemo](http://twitter.com/search?q=vejdemo) | N/A |
-| 50 | [joel alme](http://twitter.com/search?q=joel+alme) | N/A |
+| 42 | [folin](http://twitter.com/search?q=folin) | N/A |
+| 43 | [halmstad](http://twitter.com/search?q=halmstad) | N/A |
+| 44 | [finnarna](http://twitter.com/search?q=finnarna) | N/A |
+| 45 | [#jsödra](http://twitter.com/search?q=%23js%c3%b6dra) | N/A |
+| 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 47 | [$SBB](http://twitter.com/search?q=%24SBB) | N/A |
+| 48 | [vejdemo](http://twitter.com/search?q=vejdemo) | N/A |
+| 49 | [joel alme](http://twitter.com/search?q=joel+alme) | N/A |
+| 50 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 
 
 

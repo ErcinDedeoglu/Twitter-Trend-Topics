@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-04 02:30:53 UTC`
+📆 Last Updated: `2023-04-04 03:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 3 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 4 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 2 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 3 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 5 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 6 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 7 | [#ProtectInvestTogether](http://twitter.com/search?q=%23ProtectInvestTogether) | N/A |
@@ -41,14 +41,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 24 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
 | 25 | [America](http://twitter.com/search?q=America) | N/A |
 | 26 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 27 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 27 | [politikerin](http://twitter.com/search?q=politikerin) | N/A |
 | 28 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
 | 29 | [maudet](http://twitter.com/search?q=maudet) | N/A |
 | 30 | [Welle](http://twitter.com/search?q=Welle) | N/A |
 | 31 | [Ursache](http://twitter.com/search?q=Ursache) | N/A |
 | 32 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
 | 33 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 34 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 34 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
 | 35 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
 | 36 | [Nummer](http://twitter.com/search?q=Nummer) | N/A |
 | 37 | [Jule](http://twitter.com/search?q=Jule) | N/A |
@@ -58,8 +58,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
 | 42 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
 | 43 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 44 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 46 | [busse](http://twitter.com/search?q=busse) | N/A |
 | 47 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
 

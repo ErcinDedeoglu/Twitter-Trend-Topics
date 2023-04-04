@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-04 02:31:20 UTC`
+📆 Last Updated: `2023-04-04 03:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 2 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 3 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
-| 4 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 5 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 6 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 7 | [#PresidentFraud](http://twitter.com/search?q=%23PresidentFraud) | N/A |
-| 8 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 9 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 1 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 2 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
+| 3 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 4 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
+| 5 | [#Tennessee](http://twitter.com/search?q=%23Tennessee) | N/A |
+| 6 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 7 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 8 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
 | 10 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 11 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 12 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 13 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 11 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 12 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
+| 13 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
 | 14 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
-| 15 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 15 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
 | 16 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 17 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 18 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 20 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 22 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 23 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
-| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 17 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 18 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 19 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 20 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 21 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 22 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 23 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 24 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 25 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [White House](http://twitter.com/search?q=White+House) | N/A |
 | 27 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 28 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 29 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 30 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 31 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 32 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 33 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 34 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 35 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
-| 36 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
-| 37 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 38 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 39 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 41 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 42 | [Riley Greene](http://twitter.com/search?q=Riley+Greene) | N/A |
-| 43 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 44 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 45 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 46 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 47 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 48 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 49 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 50 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 29 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 30 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 31 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
+| 32 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 33 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 34 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 35 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 36 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 37 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 38 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 39 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 40 | [Matt Riddle](http://twitter.com/search?q=Matt+Riddle) | N/A |
+| 41 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 42 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 43 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 44 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 45 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 46 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 47 | [Worst Raw](http://twitter.com/search?q=Worst+Raw) | N/A |
+| 48 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
+| 49 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 50 | [Jose Abreu](http://twitter.com/search?q=Jose+Abreu) | N/A |
 
 
 

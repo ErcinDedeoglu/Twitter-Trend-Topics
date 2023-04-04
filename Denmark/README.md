@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-04 02:31:23 UTC`
+📆 Last Updated: `2023-04-04 03:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Denmark
 | 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 11 | [ankersen](http://twitter.com/search?q=ankersen) | N/A |
-| 12 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 12 | [wass](http://twitter.com/search?q=wass) | N/A |
 | 13 | [bidstrup](http://twitter.com/search?q=bidstrup) | N/A |
 | 14 | [vallys](http://twitter.com/search?q=vallys) | N/A |
 | 15 | [Rado](http://twitter.com/search?q=Rado) | N/A |

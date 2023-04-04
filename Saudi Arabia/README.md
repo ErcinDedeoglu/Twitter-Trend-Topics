@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-04-04 02:31:28 UTC`
+📆 Last Updated: `2023-04-04 03:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Saudi Arabia
 | 2 | [#مسابقه_طرق_الرياض13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b613) | N/A |
 | 3 | [#سوال_ابوفهد_اليومي6](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a6) | N/A |
 | 4 | [#مسابقه_المربع_نت13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa13) | N/A |
-| 5 | [#الانماء_مع_عطر_الكلام4](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%85%d8%b9_%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%854) | N/A |
-| 6 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 7 | [جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
-| 8 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 10 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
-| 11 | [وليد سعيد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 12 | [13 رمضان](http://twitter.com/search?q=13+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 13 | [الفيحاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | الفيحاء is a newspaper published in the United Arab Emirates. Its name translates to "The Phoenix" in English. |
+| 5 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 6 | [#الانماء_مع_عطر_الكلام4](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%85%d8%b9_%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%854) | N/A |
+| 7 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 8 | [جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
+| 9 | [وليد سعيد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 10 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 11 | [اخبار ميسي](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 12 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
+| 13 | [سيف السيف](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
 | 14 | [الملك سلمان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 15 | [جنوب غرب السعوديه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%ba%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 16 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
-| 17 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 18 | [وولي العهد](http://twitter.com/search?q=%d9%88%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 19 | [يعقوب بوشهري](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8+%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 15 | [الفيحاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | الفيحاء is a newspaper published in the United Arab Emirates. Its name translates to "The Phoenix" in English. |
+| 16 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
+| 17 | [الحاله الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 18 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
+| 19 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
 | 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 21 | [البنك الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 22 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 23 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 21 | [وولي العهد](http://twitter.com/search?q=%d9%88%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 22 | [جنوب غرب السعوديه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%ba%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 23 | [يعقوب بوشهري](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8+%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
 | 24 | [ولي العهد الامير](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
-| 25 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
-| 26 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 27 | [الصادق الامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 28 | [الدوري القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 29 | [عمر السومه](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
-| 30 | [نادي النصر السعودي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 31 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 32 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 33 | [فؤاد انور](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%86%d9%88%d8%b1) | N/A |
-| 34 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 35 | [الهلال السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 36 | [#الحاله_النفسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
-| 37 | [#رمضان_مع_ابوفهد5](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af5) | N/A |
-| 38 | [#المربع_الاخير12](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b112) | N/A |
-| 39 | [#مراحل_يعقوب_بوشهري](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%8a%d8%b9%d9%82%d9%88%d8%a8_%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 40 | [#عادل_التويجري](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%ac%d8%b1%d9%8a) | N/A |
-| 41 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
-| 42 | [#سعد_علوش_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%b9%d9%84%d9%88%d8%b4_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
-| 43 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
-| 44 | [#الاول_بارك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%88%d9%84_%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 45 | [#زد_رصيدك70](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8370) | N/A |
-| 46 | [#مليون_الحرم1](http://twitter.com/search?q=%23%d9%85%d9%84%d9%8a%d9%88%d9%86_%d8%a7%d9%84%d8%ad%d8%b1%d9%851) | N/A |
-| 47 | [#مسابقه_السلامه_المروريه12](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8712) | N/A |
-| 48 | [#جديد_شماغ_اليشمك_2023](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%8a%d8%af_%d8%b4%d9%85%d8%a7%d8%ba_%d8%a7%d9%84%d9%8a%d8%b4%d9%85%d9%83_2023) | N/A |
-| 49 | [#مخلد_سهل](http://twitter.com/search?q=%23%d9%85%d8%ae%d9%84%d8%af_%d8%b3%d9%87%d9%84) | N/A |
-| 50 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
+| 25 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 26 | [البنك الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 27 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 28 | [السومه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
+| 29 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 30 | [الصادق الامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
+| 32 | [فؤاد انور](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%86%d9%88%d8%b1) | N/A |
+| 33 | [الدوري القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 34 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 35 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
+| 36 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 37 | [#ساهموا_بالخير_مع_كادي](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%87%d9%85%d9%88%d8%a7_%d8%a8%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%85%d8%b9_%d9%83%d8%a7%d8%af%d9%8a) | N/A |
+| 38 | [#الحاله_النفسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
+| 39 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
+| 40 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
+| 41 | [#المربع_الاخير12](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b112) | N/A |
+| 42 | [#عشان_علاج_بنته1](http://twitter.com/search?q=%23%d8%b9%d8%b4%d8%a7%d9%86_%d8%b9%d9%84%d8%a7%d8%ac_%d8%a8%d9%86%d8%aa%d9%871) | N/A |
+| 43 | [#مراحل_يعقوب_بوشهري](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%8a%d8%b9%d9%82%d9%88%d8%a8_%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 44 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
+| 45 | [#رمضان_مع_ابوفهد5](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af5) | N/A |
+| 46 | [#عادل_التويجري](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%ac%d8%b1%d9%8a) | N/A |
+| 47 | [#الاول_بارك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%88%d9%84_%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 48 | [#زد_رصيدك70](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8370) | N/A |
+| 49 | [#سعد_علوش_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%b9%d9%84%d9%88%d8%b4_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
+| 50 | [#مليون_الحرم1](http://twitter.com/search?q=%23%d9%85%d9%84%d9%8a%d9%88%d9%86_%d8%a7%d9%84%d8%ad%d8%b1%d9%851) | N/A |
 
 
 

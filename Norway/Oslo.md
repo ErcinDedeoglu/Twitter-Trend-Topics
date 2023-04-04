@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-04 02:30:53 UTC`
+📆 Last Updated: `2023-04-04 03:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 4 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
+| 6 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
 | 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 8 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
 | 9 | [tinder](http://twitter.com/search?q=tinder) | N/A |
@@ -41,19 +41,19 @@ This is top 50 for [Norway](</Norway>)
 | 24 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
 | 25 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 28 | [#Nakamigos](http://twitter.com/search?q=%23Nakamigos) | N/A |
-| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 30 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 31 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 33 | [klassekampen](http://twitter.com/search?q=klassekampen) | N/A |
-| 34 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
-| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 36 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 37 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 38 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 39 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 27 | [#Nakamigos](http://twitter.com/search?q=%23Nakamigos) | N/A |
+| 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 29 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 32 | [klassekampen](http://twitter.com/search?q=klassekampen) | N/A |
+| 33 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 35 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 36 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 37 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 38 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 40 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 41 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
 | 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
