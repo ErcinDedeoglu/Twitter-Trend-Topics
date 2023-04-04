@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-04 22:16:52 UTC`
+📆 Last Updated: `2023-04-04 23:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,41 +22,41 @@ This is top 50 for Indonesia
 | 5 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 7 | [giveaway thr 10juta](http://twitter.com/search?q=giveaway+thr+10juta) | N/A |
-| 8 | [Windah](http://twitter.com/search?q=Windah) | N/A |
-| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 10 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [Windah](http://twitter.com/search?q=Windah) | N/A |
+| 11 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 12 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
 | 13 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
 | 14 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
 | 15 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 16 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
 | 18 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
 | 19 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
 | 20 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
 | 21 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
-| 24 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 22 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
+| 23 | [jimin ended kpop](http://twitter.com/search?q=jimin+ended+kpop) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 25 | [number one in my heart](http://twitter.com/search?q=number+one+in+my+heart) | N/A |
 | 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 27 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
 | 28 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
 | 29 | [Firli](http://twitter.com/search?q=Firli) | N/A |
 | 30 | [mbah slamet](http://twitter.com/search?q=mbah+slamet) | N/A |
-| 31 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 32 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 33 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
-| 34 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 31 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 32 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 33 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 34 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
 | 35 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
 | 36 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
 | 37 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
-| 38 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
-| 39 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 39 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
 | 40 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 41 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 42 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 42 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
 | 43 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 44 | [khilafah menyatukan kita](http://twitter.com/search?q=khilafah+menyatukan+kita) | N/A |
 | 45 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |

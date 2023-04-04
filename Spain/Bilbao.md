@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-04 22:16:18 UTC`
+📆 Last Updated: `2023-04-04 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Spain](</Spain>)
 | 9 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
 | 10 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
 | 11 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 12 | [#ElCazador695](http://twitter.com/search?q=%23ElCazador695) | N/A |
+| 12 | [#elcazador695](http://twitter.com/search?q=%23elcazador695) | N/A |
 | 13 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |

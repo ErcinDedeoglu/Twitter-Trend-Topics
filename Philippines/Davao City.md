@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-04 22:16:28 UTC`
+📆 Last Updated: `2023-04-04 23:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Philippines](</Philippines>)
 | 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
 | 10 | [congrats jimin](http://twitter.com/search?q=congrats+jimin) | N/A |
 | 11 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 12 | [Congratulations Park Jimin](http://twitter.com/search?q=Congratulations+Park+Jimin) | N/A |
+| 12 | [congratulations park jimin](http://twitter.com/search?q=congratulations+park+jimin) | N/A |
 | 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 14 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
 | 15 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [Philippines](</Philippines>)
 | 23 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
 | 24 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
 | 25 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 26 | [jimin ended kpop](http://twitter.com/search?q=jimin+ended+kpop) | N/A |
 | 27 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
 | 28 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
 | 29 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
@@ -50,14 +50,14 @@ This is top 50 for [Philippines](</Philippines>)
 | 33 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
 | 34 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
 | 35 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 36 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
 | 37 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
 | 38 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
 | 39 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
 | 40 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
 | 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 | 42 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 43 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 43 | [juday](http://twitter.com/search?q=juday) | N/A |
 | 44 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 45 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
 | 46 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-04 22:16:19 UTC`
+📆 Last Updated: `2023-04-04 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 2 | [#FCBYB](http://twitter.com/search?q=%23FCBYB) | N/A |
 | 3 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
+| 4 | [#BSCYB](http://twitter.com/search?q=%23BSCYB) | N/A |
+| 5 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 10 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
 | 11 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 12 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 12 | [teilzeit](http://twitter.com/search?q=teilzeit) | N/A |
 | 13 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 15 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
@@ -36,34 +36,34 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
 | 20 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
 | 21 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 22 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 22 | [bise](http://twitter.com/search?q=bise) | N/A |
 | 23 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
 | 24 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 25 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 26 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 27 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 28 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 29 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 30 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 25 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 26 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 27 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 28 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 29 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
+| 30 | [notwehr](http://twitter.com/search?q=notwehr) | N/A |
 | 31 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 32 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 32 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
 | 33 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
 | 34 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 35 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
-| 36 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 38 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 39 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 40 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
-| 41 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 36 | [sackmesser](http://twitter.com/search?q=sackmesser) | N/A |
+| 37 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 38 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 39 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 40 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 41 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 42 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 43 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
-| 44 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 45 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 47 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 48 | [zuwanderung](http://twitter.com/search?q=zuwanderung) | N/A |
-| 49 | [Variante](http://twitter.com/search?q=Variante) | N/A |
+| 44 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 45 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 46 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 47 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 48 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 49 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
 
 
 

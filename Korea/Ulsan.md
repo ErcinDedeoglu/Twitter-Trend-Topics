@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ulsan
 
-📆 Last Updated: `2023-04-04 22:16:26 UTC`
+📆 Last Updated: `2023-04-04 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,11 +54,11 @@ This is top 50 for [Korea](</Korea>)
 | 37 | [다음날 밥상차림](http://twitter.com/search?q=%eb%8b%a4%ec%9d%8c%eb%82%a0+%eb%b0%a5%ec%83%81%ec%b0%a8%eb%a6%bc) | N/A |
 | 38 | [슈퍼캐럿봉](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%ba%90%eb%9f%bf%eb%b4%89) | N/A |
 | 39 | [동거하는 페어](http://twitter.com/search?q=%eb%8f%99%ea%b1%b0%ed%95%98%eb%8a%94+%ed%8e%98%ec%96%b4) | N/A |
-| 40 | [양곡관리법](http://twitter.com/search?q=%ec%96%91%ea%b3%a1%ea%b4%80%eb%a6%ac%eb%b2%95) | N/A |
-| 41 | [새븐틴 승관](http://twitter.com/search?q=%ec%83%88%eb%b8%90%ed%8b%b4+%ec%8a%b9%ea%b4%80) | N/A |
-| 42 | [시험기간](http://twitter.com/search?q=%ec%8b%9c%ed%97%98%ea%b8%b0%ea%b0%84) | N/A |
-| 43 | [코스튬 안무영상](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%ac+%ec%95%88%eb%ac%b4%ec%98%81%ec%83%81) | N/A |
-| 44 | [사르디나](http://twitter.com/search?q=%ec%82%ac%eb%a5%b4%eb%94%94%eb%82%98) | N/A |
+| 40 | [새븐틴 승관](http://twitter.com/search?q=%ec%83%88%eb%b8%90%ed%8b%b4+%ec%8a%b9%ea%b4%80) | N/A |
+| 41 | [코스튬 안무영상](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%ac+%ec%95%88%eb%ac%b4%ec%98%81%ec%83%81) | N/A |
+| 42 | [사르디나](http://twitter.com/search?q=%ec%82%ac%eb%a5%b4%eb%94%94%eb%82%98) | N/A |
+| 43 | [시험기간](http://twitter.com/search?q=%ec%8b%9c%ed%97%98%ea%b8%b0%ea%b0%84) | N/A |
+| 44 | [양곡관리법](http://twitter.com/search?q=%ec%96%91%ea%b3%a1%ea%b4%80%eb%a6%ac%eb%b2%95) | N/A |
 | 45 | [어거스트](http://twitter.com/search?q=%ec%96%b4%ea%b1%b0%ec%8a%a4%ed%8a%b8) | N/A |
 | 46 | [빌보드 1위](http://twitter.com/search?q=%eb%b9%8c%eb%b3%b4%eb%93%9c+1%ec%9c%84) | N/A |
 | 47 | [핫100 1위](http://twitter.com/search?q=%ed%95%ab100+1%ec%9c%84) | N/A |

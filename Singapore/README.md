@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-04 22:16:55 UTC`
+📆 Last Updated: `2023-04-04 23:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Singapore
 | ------- | ------------ | ------------ |
 | 1 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 2 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
-| 3 | [#toryburchsingapore](http://twitter.com/search?q=%23toryburchsingapore) | N/A |
-| 4 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#toryburchsingapore](http://twitter.com/search?q=%23toryburchsingapore) | N/A |
+| 5 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
 | 6 | [#dew_jsu](http://twitter.com/search?q=%23dew_jsu) | N/A |
 | 7 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
 | 8 | [#TMonogram](http://twitter.com/search?q=%23TMonogram) | N/A |

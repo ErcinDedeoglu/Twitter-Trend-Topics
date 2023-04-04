@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-04-04 22:16:41 UTC`
+📆 Last Updated: `2023-04-04 23:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Denver](http://twitter.com/search?q=%23Denver) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 4 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 1 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 2 | [#Denver](http://twitter.com/search?q=%23Denver) | N/A |
+| 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 4 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 7 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 8 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 9 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 10 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 11 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 12 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 16 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 17 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 18 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 19 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 20 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 21 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 22 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 23 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 24 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 25 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 27 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 28 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 29 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 30 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 32 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 34 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
-| 35 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 36 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 37 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 38 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 39 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 40 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 41 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 43 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 44 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 45 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 46 | [American-made](http://twitter.com/search?q=American-made) | N/A |
+| 8 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 9 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 10 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 11 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 12 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 19 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 21 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 22 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 24 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 25 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 26 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 28 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 29 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 30 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 31 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 32 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 33 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 34 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 35 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 36 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 37 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 38 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 39 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 40 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 41 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 42 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 44 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 45 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 46 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
 | 47 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 48 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 49 | [Marcia Clark](http://twitter.com/search?q=Marcia+Clark) | N/A |
-| 50 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 48 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 50 | [Melania](http://twitter.com/search?q=Melania) | N/A |
 
 
 

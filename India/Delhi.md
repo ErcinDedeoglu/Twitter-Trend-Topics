@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-04 22:16:49 UTC`
+📆 Last Updated: `2023-04-04 23:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 3 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 4 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 5 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 6 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 7 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
-| 8 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 9 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 10 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
-| 13 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 14 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 16 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 17 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Nortje](http://twitter.com/search?q=Nortje) | N/A |
-| 23 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 24 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 25 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 26 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 27 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
-| 30 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
-| 31 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 32 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 33 | [Aaron F](http://twitter.com/search?q=Aaron+F) | N/A |
-| 34 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
-| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 36 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
-| 37 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
-| 38 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 39 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
-| 40 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
-| 41 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 42 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
-| 43 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 44 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 45 | [LKFC](http://twitter.com/search?q=LKFC) | N/A |
-| 46 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 47 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 48 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 49 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 50 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 1 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
+| 2 | [#TwitterLogo](http://twitter.com/search?q=%23TwitterLogo) | N/A |
+| 3 | [#MahavirJayanti](http://twitter.com/search?q=%23MahavirJayanti) | N/A |
+| 4 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 5 | [#FactsAndBeliefsOfJainism](http://twitter.com/search?q=%23FactsAndBeliefsOfJainism) | N/A |
+| 6 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
+| 7 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
+| 10 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 11 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 12 | [महावीर जैन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 15 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 16 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
+| 17 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
+| 18 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 19 | [CBI Brand4Truth Or CagedParrot](http://twitter.com/search?q=CBI+Brand4Truth+Or+CagedParrot) | N/A |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 23 | [श्री अरुण सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 24 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 25 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
+| 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 30 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 31 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
+| 32 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 33 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 34 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 36 | [kohli apne kutte sambhal](http://twitter.com/search?q=kohli+apne+kutte+sambhal) | N/A |
+| 37 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 38 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 39 | [sant shri asharamji gurukuls](http://twitter.com/search?q=sant+shri+asharamji+gurukuls) | N/A |
+| 40 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 41 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 42 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 43 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 44 | [divine blend](http://twitter.com/search?q=divine+blend) | N/A |
+| 45 | [modern and vedic education](http://twitter.com/search?q=modern+and+vedic+education) | N/A |
+| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 47 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 48 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 49 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 50 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
 
 
 

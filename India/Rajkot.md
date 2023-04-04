@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-04-04 22:16:37 UTC`
+📆 Last Updated: `2023-04-04 23:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,13 +46,13 @@ This is top 50 for [India](</India>)
 | 29 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
 | 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 31 | [Aaron F](http://twitter.com/search?q=Aaron+F) | N/A |
-| 32 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
+| 32 | [breakup - no](http://twitter.com/search?q=breakup+-+no) | N/A |
 | 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 34 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
+| 34 | [drinks - no](http://twitter.com/search?q=drinks+-+no) | N/A |
 | 35 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
 | 36 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 37 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
-| 38 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
+| 37 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
+| 38 | [1 yr to mishty mithai](http://twitter.com/search?q=1+yr+to+mishty+mithai) | N/A |
 | 39 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
 | 40 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
 | 41 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |

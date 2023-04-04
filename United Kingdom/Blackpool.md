@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-04-04 22:16:01 UTC`
+📆 Last Updated: `2023-04-04 23:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NakedEducation](http://twitter.com/search?q=%23NakedEducation) | N/A |
-| 2 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 3 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 4 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 5 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 6 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 9 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 10 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 11 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
-| 12 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 13 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 17 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 18 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 20 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 21 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 22 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 23 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 24 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 25 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 28 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 29 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 30 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 31 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
-| 32 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 33 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 34 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 35 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 36 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 37 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 1 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 2 | [#celebrityhunted](http://twitter.com/search?q=%23celebrityhunted) | N/A |
+| 3 | [Ashley Young](http://twitter.com/search?q=Ashley+Young) | Ashley Young is an English professional footballer who plays as a winger for Inter Milan. He has previously played for Watford, Aston Villa, Manchester United and England. The name Ashley Young is derived from the Old English words 'ash' and 'leah', meaning 'clearing in the woods'. |
+| 4 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 5 | [#FAYouthCup](http://twitter.com/search?q=%23FAYouthCup) | N/A |
+| 6 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
+| 7 | [Mangala](http://twitter.com/search?q=Mangala) | N/A |
+| 8 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 9 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 10 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 13 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
+| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 22 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 25 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 27 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 28 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 29 | [Tsimikas](http://twitter.com/search?q=Tsimikas) | Tsimikas is a Greek surname. It is derived from the Greek word "tsimikas" which means "small". |
+| 30 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 31 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 33 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 34 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 35 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 36 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 37 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 38 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
 | 39 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 40 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 41 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 42 | [Sini](http://twitter.com/search?q=Sini) | N/A |
+| 40 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 41 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 42 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
 | 43 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 44 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 45 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 46 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 47 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 48 | [Tsimikas](http://twitter.com/search?q=Tsimikas) | Tsimikas is a Greek surname. It is derived from the Greek word "tsimikas" which means "small". |
-| 49 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 50 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 44 | [Sinisterra](http://twitter.com/search?q=Sinisterra) | N/A |
+| 45 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 46 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 47 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 48 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 49 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
+| 50 | [Kostas](http://twitter.com/search?q=Kostas) | Kostas is a Greek name, derived from the Greek word "Kostantinos", which means "constant" or "steadfast". It is also a common nickname for the name Constantine. |
 
 
 

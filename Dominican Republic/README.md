@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-04 22:16:50 UTC`
+📆 Last Updated: `2023-04-04 23:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,15 +29,15 @@ This is top 50 for Dominican Republic
 | 12 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
 | 13 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
 | 14 | [Yeni](http://twitter.com/search?q=Yeni) | N/A |
-| 15 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
-| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 15 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 16 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
 | 17 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
 | 18 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 19 | [Fumio Kishida](http://twitter.com/search?q=Fumio+Kishida) | N/A |
+| 19 | [fumio kishida](http://twitter.com/search?q=fumio+kishida) | N/A |
 | 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 21 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 22 | [Mami Jordan](http://twitter.com/search?q=Mami+Jordan) | N/A |
-| 23 | [#RepúblicaDominicana](http://twitter.com/search?q=%23Rep%c3%bablicaDominicana) | N/A |
+| 23 | [#repúblicadominicana](http://twitter.com/search?q=%23rep%c3%bablicadominicana) | N/A |
 | 24 | [Arresto Domiciliario](http://twitter.com/search?q=Arresto+Domiciliario) | N/A |
 | 25 | [EE.UU](http://twitter.com/search?q=EE.UU) | N/A |
 | 26 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
@@ -47,23 +47,23 @@ This is top 50 for Dominican Republic
 | 30 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
 | 31 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 32 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 33 | [America](http://twitter.com/search?q=America) | N/A |
-| 34 | [El Ministerio Público](http://twitter.com/search?q=El+Ministerio+P%c3%bablico) | N/A |
-| 35 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
-| 36 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
-| 37 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 33 | [Debió](http://twitter.com/search?q=Debi%c3%b3) | N/A |
+| 34 | [America](http://twitter.com/search?q=America) | N/A |
+| 35 | [El Ministerio Público](http://twitter.com/search?q=El+Ministerio+P%c3%bablico) | N/A |
+| 36 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
+| 37 | [jean alain](http://twitter.com/search?q=jean+alain) | N/A |
 | 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 39 | [Debió](http://twitter.com/search?q=Debi%c3%b3) | N/A |
-| 40 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 41 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 42 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 43 | [Gonzi](http://twitter.com/search?q=Gonzi) | N/A |
-| 44 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
-| 45 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 46 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
-| 47 | [altagracia salazar](http://twitter.com/search?q=altagracia+salazar) | N/A |
-| 48 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 49 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 39 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 40 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 41 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
+| 42 | [gonzi](http://twitter.com/search?q=gonzi) | N/A |
+| 43 | [rafael devers](http://twitter.com/search?q=rafael+devers) | N/A |
+| 44 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 45 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 46 | [altagracia salazar](http://twitter.com/search?q=altagracia+salazar) | N/A |
+| 47 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 48 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 49 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 50 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
 
 

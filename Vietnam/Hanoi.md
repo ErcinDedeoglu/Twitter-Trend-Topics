@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-04 22:16:29 UTC`
+📆 Last Updated: `2023-04-04 23:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [2nd concept photo](http://twitter.com/search?q=2nd+concept+photo) | N/A |
 | 9 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
 | 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 11 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 11 | [jimin ended kpop](http://twitter.com/search?q=jimin+ended+kpop) | N/A |
 | 12 | [hello to our hopeworld](http://twitter.com/search?q=hello+to+our+hopeworld) | N/A |
 | 13 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
 | 14 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 22 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
 | 23 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
 | 24 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 25 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
+| 25 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
 | 26 | [Great Project](http://twitter.com/search?q=Great+Project) | N/A |
 | 27 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
 | 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
@@ -56,12 +56,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 39 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
 | 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 42 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 43 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 44 | [thấy](http://twitter.com/search?q=th%e1%ba%a5y) | N/A |
-| 45 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 46 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
-| 47 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
+| 42 | [trung quốc](http://twitter.com/search?q=trung+qu%e1%bb%91c) | N/A |
+| 43 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
+| 44 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 45 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
+| 46 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
+| 47 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
 
 
 

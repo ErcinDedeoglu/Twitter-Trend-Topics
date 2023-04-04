@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-04-04 22:16:16 UTC`
+📆 Last Updated: `2023-04-04 23:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,41 +22,37 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 6 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 7 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 9 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 8 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 9 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 11 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 11 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 12 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
 | 13 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 14 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 15 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
-| 16 | [Trainerwechsel](http://twitter.com/search?q=Trainerwechsel) | N/A |
-| 17 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
-| 18 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 19 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 20 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 21 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 22 | [Bayern Fan](http://twitter.com/search?q=Bayern+Fan) | N/A |
-| 23 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 24 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 14 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 15 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 16 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 17 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 18 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
+| 19 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 20 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 21 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 22 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 23 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 24 | [Bayern Fan](http://twitter.com/search?q=Bayern+Fan) | N/A |
 | 25 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 26 | [Verlängerung](http://twitter.com/search?q=Verl%c3%a4ngerung) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 32 | [Schlüsse](http://twitter.com/search?q=Schl%c3%bcsse) | N/A |
-| 33 | [Uniform](http://twitter.com/search?q=Uniform) | N/A |
-| 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 35 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 36 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
-| 37 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
-| 38 | [#INGvsMAN](http://twitter.com/search?q=%23INGvsMAN) | N/A |
-| 39 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 40 | [#Ballweg](http://twitter.com/search?q=%23Ballweg) | N/A |
-| 41 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 42 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
+| 26 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 27 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 28 | [Verlängerung](http://twitter.com/search?q=Verl%c3%a4ngerung) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 33 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
+| 34 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 35 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 36 | [#INGvsMAN](http://twitter.com/search?q=%23INGvsMAN) | N/A |
+| 37 | [#Ballweg](http://twitter.com/search?q=%23Ballweg) | N/A |
+| 38 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
 
 
 

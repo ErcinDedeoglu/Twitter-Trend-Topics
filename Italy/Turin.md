@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-04-04 22:16:17 UTC`
+📆 Last Updated: `2023-04-04 23:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Italy](</Italy>)
 | 8 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
 | 9 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
 | 10 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 11 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 12 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 13 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 14 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 15 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 16 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 17 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 18 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 19 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
-| 20 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
-| 21 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 22 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 11 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 12 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 13 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 14 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 15 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 16 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 17 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 18 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 19 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 20 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 21 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 22 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
 | 23 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 24 | [Ravanelli](http://twitter.com/search?q=Ravanelli) | N/A |
-| 25 | [Graziani](http://twitter.com/search?q=Graziani) | N/A |
-| 26 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 27 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 28 | [Doveva](http://twitter.com/search?q=Doveva) | N/A |
-| 29 | [Belgio](http://twitter.com/search?q=Belgio) | N/A |
-| 30 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 31 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 32 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 33 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 34 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
-| 35 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 36 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 37 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 38 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 39 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 40 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 41 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 42 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 43 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 45 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 46 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 47 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 48 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 49 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 50 | [Rosso](http://twitter.com/search?q=Rosso) | N/A |
+| 24 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 25 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
+| 26 | [Belgio](http://twitter.com/search?q=Belgio) | N/A |
+| 27 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 28 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 29 | [Graziani](http://twitter.com/search?q=Graziani) | N/A |
+| 30 | [Ravanelli](http://twitter.com/search?q=Ravanelli) | N/A |
+| 31 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
+| 32 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 33 | [Doveva](http://twitter.com/search?q=Doveva) | N/A |
+| 34 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 35 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 36 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 37 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 38 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 39 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 40 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 41 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 42 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 43 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 44 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 45 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 46 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 47 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 48 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 49 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 50 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
 
 
 

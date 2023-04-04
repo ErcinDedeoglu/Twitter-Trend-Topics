@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-04 22:16:52 UTC`
+📆 Last Updated: `2023-04-04 23:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,37 +33,37 @@ This is top 50 for Kenya
 | 16 | [#tirriestuesday](http://twitter.com/search?q=%23tirriestuesday) | N/A |
 | 17 | [godigital na robisearch](http://twitter.com/search?q=godigital+na+robisearch) | N/A |
 | 18 | [embu megabusiness expo](http://twitter.com/search?q=embu+megabusiness+expo) | N/A |
-| 19 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
+| 19 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 20 | [mukumu girls](http://twitter.com/search?q=mukumu+girls) | N/A |
-| 21 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 22 | [spc kenya 2023](http://twitter.com/search?q=spc+kenya+2023) | N/A |
-| 23 | [Ruto and Raila](http://twitter.com/search?q=Ruto+and+Raila) | N/A |
-| 24 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
-| 25 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
-| 26 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 21 | [spc kenya 2023](http://twitter.com/search?q=spc+kenya+2023) | N/A |
+| 22 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
+| 23 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 24 | [Ruto and Raila](http://twitter.com/search?q=Ruto+and+Raila) | N/A |
+| 25 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
+| 26 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
+| 27 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 28 | [Kofi Annan](http://twitter.com/search?q=Kofi+Annan) | N/A |
-| 29 | [NHIF](http://twitter.com/search?q=NHIF) | N/A |
-| 30 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
-| 31 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 32 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 33 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 34 | [jeff mwathi](http://twitter.com/search?q=jeff+mwathi) | N/A |
-| 35 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [NHIF](http://twitter.com/search?q=NHIF) | N/A |
+| 31 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
+| 32 | [ERIC OMONDI](http://twitter.com/search?q=ERIC+OMONDI) | N/A |
+| 33 | [jeff mwathi](http://twitter.com/search?q=jeff+mwathi) | N/A |
+| 34 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
+| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 37 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 38 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
 | 39 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
 | 40 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
 | 41 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 42 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 43 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 44 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 45 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
-| 46 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 47 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 48 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
-| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 43 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 44 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 45 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
+| 48 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 49 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
 | 50 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
 
 

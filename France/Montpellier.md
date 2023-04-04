@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-04 22:16:14 UTC`
+📆 Last Updated: `2023-04-04 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 3 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 4 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
 | 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 6 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 7 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 12 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 13 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
-| 14 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 15 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 16 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 17 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
-| 18 | [Barth](http://twitter.com/search?q=Barth) | N/A |
-| 19 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 20 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 6 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 7 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 8 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 14 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
+| 15 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 16 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
+| 17 | [Barth](http://twitter.com/search?q=Barth) | N/A |
+| 18 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 19 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 20 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
 | 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [Romain Molina](http://twitter.com/search?q=Romain+Molina) | N/A |
-| 23 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 22 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 23 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
 | 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 26 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 27 | [Carcassonne](http://twitter.com/search?q=Carcassonne) | N/A |
-| 28 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 30 | [DGSI](http://twitter.com/search?q=DGSI) | N/A |
-| 31 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 33 | [Grand Rex](http://twitter.com/search?q=Grand+Rex) | N/A |
-| 34 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 35 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 36 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 37 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 38 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 39 | [La PS5](http://twitter.com/search?q=La+PS5) | N/A |
-| 40 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 25 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 28 | [Romain Molina](http://twitter.com/search?q=Romain+Molina) | N/A |
+| 29 | [Carcassonne](http://twitter.com/search?q=Carcassonne) | N/A |
+| 30 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 31 | [DGSI](http://twitter.com/search?q=DGSI) | N/A |
+| 32 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 33 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 34 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 35 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 36 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 37 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 38 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 39 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 40 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 41 | [La PS5](http://twitter.com/search?q=La+PS5) | N/A |
+| 42 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
 | 43 | [Motta](http://twitter.com/search?q=Motta) | N/A |
 | 44 | [La Finlande](http://twitter.com/search?q=La+Finlande) | N/A |
-| 45 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 45 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
 | 46 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 47 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 47 | [#AEWToonami](http://twitter.com/search?q=%23AEWToonami) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-04 22:16:18 UTC`
+📆 Last Updated: `2023-04-04 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 4 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 5 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 6 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
-| 7 | [#NosVanAEcharDeClase](http://twitter.com/search?q=%23NosVanAEcharDeClase) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
-| 10 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
-| 11 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 1 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
+| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 5 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 6 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 7 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
+| 8 | [#NosVanAEcharDeClase](http://twitter.com/search?q=%23NosVanAEcharDeClase) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
+| 11 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
 | 12 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 13 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 14 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
@@ -58,8 +58,8 @@ This is top 50 for [Spain](</Spain>)
 | 41 | [M. Rajoy](http://twitter.com/search?q=M.+Rajoy) | N/A |
 | 42 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
 | 43 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 44 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
-| 45 | [#ElCazador695](http://twitter.com/search?q=%23ElCazador695) | N/A |
+| 44 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 45 | [#elcazador695](http://twitter.com/search?q=%23elcazador695) | N/A |
 | 46 | [#Pasapalabra739](http://twitter.com/search?q=%23Pasapalabra739) | N/A |
 | 47 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
 

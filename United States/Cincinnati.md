@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-04 22:16:41 UTC`
+📆 Last Updated: `2023-04-04 23:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 5 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 6 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 7 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 8 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 9 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 10 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 14 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 16 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 4 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 6 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 7 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 8 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 12 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 15 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 16 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 17 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 18 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 20 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 22 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 23 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 24 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 27 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 28 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 29 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 33 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
-| 34 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 35 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 37 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 38 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 39 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 40 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 43 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 44 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 45 | [American-made](http://twitter.com/search?q=American-made) | N/A |
-| 46 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 47 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 48 | [Marcia Clark](http://twitter.com/search?q=Marcia+Clark) | N/A |
-| 49 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 18 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 21 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 22 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 23 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 25 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 26 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 28 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 31 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 32 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 33 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 34 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 35 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 37 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 38 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 39 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 40 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 41 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 42 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 43 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 44 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 45 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 48 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 49 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-04-04 22:16:19 UTC`
+📆 Last Updated: `2023-04-04 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,18 +17,18 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Campana](http://twitter.com/search?q=Campana) | N/A |
 | 2 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
-| 3 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 6 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 7 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 8 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
-| 9 | [#NosVanAEcharDeClase](http://twitter.com/search?q=%23NosVanAEcharDeClase) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
-| 12 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
-| 13 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 14 | [#ElCazador695](http://twitter.com/search?q=%23ElCazador695) | N/A |
+| 3 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
+| 4 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 7 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 8 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 9 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
+| 10 | [#NosVanAEcharDeClase](http://twitter.com/search?q=%23NosVanAEcharDeClase) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
+| 13 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
+| 14 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 | 15 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Spain](</Spain>)
 | 42 | [M. Rajoy](http://twitter.com/search?q=M.+Rajoy) | N/A |
 | 43 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
 | 44 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 45 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
+| 45 | [#elcazador695](http://twitter.com/search?q=%23elcazador695) | N/A |
 | 46 | [#Pasapalabra739](http://twitter.com/search?q=%23Pasapalabra739) | N/A |
 | 47 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
-| 48 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 49 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
-| 50 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 48 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
+| 49 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 50 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
 
 
 

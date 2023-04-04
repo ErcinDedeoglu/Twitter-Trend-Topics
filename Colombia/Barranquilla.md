@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-04-04 22:16:08 UTC`
+📆 Last Updated: `2023-04-04 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
-| 5 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 6 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 7 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 8 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
-| 9 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
-| 10 | [#esunacondena](http://twitter.com/search?q=%23esunacondena) | N/A |
-| 11 | [#JusticiaEs](http://twitter.com/search?q=%23JusticiaEs) | N/A |
-| 12 | [#UnDescansoDe](http://twitter.com/search?q=%23UnDescansoDe) | N/A |
-| 13 | [#ColombiaSinMinas](http://twitter.com/search?q=%23ColombiaSinMinas) | N/A |
-| 14 | [#unatraiciones](http://twitter.com/search?q=%23unatraiciones) | N/A |
-| 15 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 16 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 17 | [Marco Pérez](http://twitter.com/search?q=Marco+P%c3%a9rez) | N/A |
-| 18 | [María Alejandra Villamizar](http://twitter.com/search?q=Mar%c3%ada+Alejandra+Villamizar) | N/A |
-| 19 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 20 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
-| 23 | [Ferragamo](http://twitter.com/search?q=Ferragamo) | N/A |
-| 24 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 26 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 27 | [Luis Sinisterra](http://twitter.com/search?q=Luis+Sinisterra) | N/A |
-| 28 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 29 | [Vicky Dávila](http://twitter.com/search?q=Vicky+D%c3%a1vila) | N/A |
-| 30 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 31 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 32 | [Digno Palomino](http://twitter.com/search?q=Digno+Palomino) | N/A |
-| 33 | [Minas Antipersonal](http://twitter.com/search?q=Minas+Antipersonal) | N/A |
-| 34 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
-| 35 | [Kanté](http://twitter.com/search?q=Kant%c3%a9) | N/A |
-| 36 | [Turbaco](http://twitter.com/search?q=Turbaco) | N/A |
-| 37 | [Peñalosa](http://twitter.com/search?q=Pe%c3%b1alosa) | N/A |
-| 38 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 39 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 41 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 42 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 43 | [Almacenes LEY](http://twitter.com/search?q=Almacenes+LEY) | N/A |
-| 44 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 45 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 46 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 47 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 48 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 49 | [Quilombo](http://twitter.com/search?q=Quilombo) | N/A |
+| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 5 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
+| 6 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 7 | [#JusticiaEs](http://twitter.com/search?q=%23JusticiaEs) | N/A |
+| 8 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
+| 9 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 10 | [#UnDescansoDe](http://twitter.com/search?q=%23UnDescansoDe) | N/A |
+| 11 | [#ColombiaSinMinas](http://twitter.com/search?q=%23ColombiaSinMinas) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 14 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
+| 15 | [Ferragamo](http://twitter.com/search?q=Ferragamo) | N/A |
+| 16 | [marco pérez](http://twitter.com/search?q=marco+p%c3%a9rez) | N/A |
+| 17 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
+| 18 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 19 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 20 | [Luis Sinisterra](http://twitter.com/search?q=Luis+Sinisterra) | N/A |
+| 21 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 22 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 23 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 28 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 29 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 30 | [Digno Palomino](http://twitter.com/search?q=Digno+Palomino) | N/A |
+| 31 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 32 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 33 | [Turbaco](http://twitter.com/search?q=Turbaco) | N/A |
+| 34 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 35 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 36 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 38 | [Minas Antipersonal](http://twitter.com/search?q=Minas+Antipersonal) | N/A |
+| 39 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
+| 40 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
+| 43 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 44 | [Quilombo](http://twitter.com/search?q=Quilombo) | N/A |
+| 45 | [Alianza Petrolera](http://twitter.com/search?q=Alianza+Petrolera) | N/A |
+| 46 | [jimin ended kpop](http://twitter.com/search?q=jimin+ended+kpop) | N/A |
+| 47 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 48 | [jorge eliecer torres](http://twitter.com/search?q=jorge+eliecer+torres) | N/A |
+| 49 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
 
 
 

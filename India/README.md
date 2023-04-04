@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-04-04 22:16:52 UTC`
+📆 Last Updated: `2023-04-04 23:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for India
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 2 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 3 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 6 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 10 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
-| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 13 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 14 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 16 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 17 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 20 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 21 | [#RebuildMadarsaAzizia](http://twitter.com/search?q=%23RebuildMadarsaAzizia) | N/A |
-| 22 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
-| 23 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 24 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 25 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 26 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 27 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
+| 1 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
+| 4 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
+| 5 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 6 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
+| 7 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 10 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
+| 11 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 12 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 13 | [axar](http://twitter.com/search?q=axar) | N/A |
+| 14 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 19 | [Nortje](http://twitter.com/search?q=Nortje) | N/A |
+| 20 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 21 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 22 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 23 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 24 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
+| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
 | 28 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
-| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 30 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 31 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
-| 32 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 33 | [LKFC](http://twitter.com/search?q=LKFC) | N/A |
-| 34 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 35 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 36 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
-| 37 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 38 | [#HappyBirthdayRashmika](http://twitter.com/search?q=%23HappyBirthdayRashmika) | N/A |
-| 39 | [#RupaliGanguly](http://twitter.com/search?q=%23RupaliGanguly) | N/A |
-| 40 | [#DelhiCapitals](http://twitter.com/search?q=%23DelhiCapitals) | N/A |
-| 41 | [#HBDRashmikaMandanna](http://twitter.com/search?q=%23HBDRashmikaMandanna) | N/A |
-| 42 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
-| 43 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 44 | [#SikkimAvalanche](http://twitter.com/search?q=%23SikkimAvalanche) | N/A |
-| 45 | [#Citadel](http://twitter.com/search?q=%23Citadel) | N/A |
-| 46 | [#pushpa2](http://twitter.com/search?q=%23pushpa2) | N/A |
+| 29 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 31 | [Aaron F](http://twitter.com/search?q=Aaron+F) | N/A |
+| 32 | [breakup - no](http://twitter.com/search?q=breakup+-+no) | N/A |
+| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 34 | [drinks - no](http://twitter.com/search?q=drinks+-+no) | N/A |
+| 35 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
+| 36 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 37 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
+| 38 | [1 yr to mishty mithai](http://twitter.com/search?q=1+yr+to+mishty+mithai) | N/A |
+| 39 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
+| 40 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
+| 41 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 42 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 43 | [LKFC](http://twitter.com/search?q=LKFC) | N/A |
+| 44 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 45 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 46 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 47 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 48 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 49 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 50 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
 
 
 

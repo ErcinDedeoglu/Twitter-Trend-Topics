@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-04 22:16:54 UTC`
+📆 Last Updated: `2023-04-04 23:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,27 +16,27 @@ This is top 50 for Norway
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 2 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 4 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 3 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [America](http://twitter.com/search?q=America) | N/A |
-| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 15 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 16 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
+| 9 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 10 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [America](http://twitter.com/search?q=America) | N/A |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [Keane](http://twitter.com/search?q=Keane) | N/A |
 | 17 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
 | 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [NNPF](http://twitter.com/search?q=NNPF) | N/A |
-| 21 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [nnpf](http://twitter.com/search?q=nnpf) | N/A |
+| 22 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
 | 23 | [jenny klinge](http://twitter.com/search?q=jenny+klinge) | N/A |
 | 24 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 25 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
@@ -47,11 +47,11 @@ This is top 50 for Norway
 | 30 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
 | 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 32 | [Liker](http://twitter.com/search?q=Liker) | N/A |
-| 33 | [Selvsagt](http://twitter.com/search?q=Selvsagt) | N/A |
+| 33 | [selvsagt](http://twitter.com/search?q=selvsagt) | N/A |
 | 34 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
-| 35 | [I Norge](http://twitter.com/search?q=I+Norge) | N/A |
-| 36 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
-| 37 | [stang](http://twitter.com/search?q=stang) | N/A |
+| 35 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
+| 36 | [stang](http://twitter.com/search?q=stang) | N/A |
+| 37 | [I Norge](http://twitter.com/search?q=I+Norge) | N/A |
 | 38 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 39 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |

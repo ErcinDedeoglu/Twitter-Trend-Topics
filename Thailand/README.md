@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-04-04 22:16:56 UTC`
+📆 Last Updated: `2023-04-04 23:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Thailand
 | 12 | [4 morning dunk](http://twitter.com/search?q=4+morning+dunk) | N/A |
 | 13 | [gulf morning](http://twitter.com/search?q=gulf+morning) | N/A |
 | 14 | [hold your hand04 engfa](http://twitter.com/search?q=hold+your+hand04+engfa) | N/A |
-| 15 | [BamBam In Cultwo Show](http://twitter.com/search?q=BamBam+In+Cultwo+Show) | N/A |
+| 15 | [bambam in cultwo show](http://twitter.com/search?q=bambam+in+cultwo+show) | N/A |
 | 16 | [nene x the standard pop](http://twitter.com/search?q=nene+x+the+standard+pop) | N/A |
 | 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 18 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
@@ -39,14 +39,14 @@ This is top 50 for Thailand
 | 22 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
 | 23 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
 | 24 | [#lazada44xcharlotte](http://twitter.com/search?q=%23lazada44xcharlotte) | N/A |
-| 25 | [#ENGFA_Anv1year](http://twitter.com/search?q=%23ENGFA_Anv1year) | N/A |
+| 25 | [#engfa_anv1year](http://twitter.com/search?q=%23engfa_anv1year) | N/A |
 | 26 | [#palitxshuuemurath](http://twitter.com/search?q=%23palitxshuuemurath) | N/A |
 | 27 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
-| 28 | [#ยินดีที่ได้รู้จักนะชาล็อต](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 29 | [#หมูยอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | N/A |
+| 28 | [#หมูยอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | N/A |
+| 29 | [#ยินดีที่ได้รู้จักนะชาล็อต](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 30 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 31 | [#The1975LiveInBKK](http://twitter.com/search?q=%23The1975LiveInBKK) | N/A |
-| 32 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
+| 31 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
+| 32 | [#The1975LiveInBKK](http://twitter.com/search?q=%23The1975LiveInBKK) | N/A |
 | 33 | [#SupranationalThailand2023](http://twitter.com/search?q=%23SupranationalThailand2023) | N/A |
 | 34 | [#Welcome_CHAEUNWOOtoThailand](http://twitter.com/search?q=%23Welcome_CHAEUNWOOtoThailand) | N/A |
 | 35 | [#showerwithppkrit](http://twitter.com/search?q=%23showerwithppkrit) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for Thailand
 | 41 | [#พรรคก้าวไกล](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%81%e0%b8%a5) | N/A |
 | 42 | [#KristCallMeMV](http://twitter.com/search?q=%23KristCallMeMV) | N/A |
 | 43 | [#หมอหลวงep5](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep5) | N/A |
-| 44 | [#แลกฟอลขอเป็นแอเรีย](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2) | N/A |
-| 45 | [#SudsapdaxNCTDREAM](http://twitter.com/search?q=%23SudsapdaxNCTDREAM) | N/A |
-| 46 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
-| 47 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
-| 48 | [#3ล้าน3รักให้มายภาคภูมิ](http://twitter.com/search?q=%233%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%993%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4) | N/A |
-| 49 | [#UVDefenderXGeminiFourth](http://twitter.com/search?q=%23UVDefenderXGeminiFourth) | N/A |
+| 44 | [#SudsapdaxNCTDREAM](http://twitter.com/search?q=%23SudsapdaxNCTDREAM) | N/A |
+| 45 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
+| 46 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
+| 47 | [#3ล้าน3รักให้มายภาคภูมิ](http://twitter.com/search?q=%233%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%993%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4) | N/A |
+| 48 | [#UVDefenderXGeminiFourth](http://twitter.com/search?q=%23UVDefenderXGeminiFourth) | N/A |
+| 49 | [#แลกฟอลขอเป็นแอเรีย](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2) | N/A |
 | 50 | [#DoubleSavage](http://twitter.com/search?q=%23DoubleSavage) | N/A |
 
 

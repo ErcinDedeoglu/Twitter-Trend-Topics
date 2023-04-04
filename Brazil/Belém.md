@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-04-04 22:16:10 UTC`
+📆 Last Updated: `2023-04-04 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 5 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 6 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 7 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 8 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 12 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
-| 15 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 16 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 17 | [Anderson Paulista](http://twitter.com/search?q=Anderson+Paulista) | N/A |
-| 18 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
-| 19 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 20 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 21 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 22 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 23 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 24 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
-| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 28 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 29 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 30 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
-| 31 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 32 | [Copa da Alemanha](http://twitter.com/search?q=Copa+da+Alemanha) | N/A |
-| 33 | [#ADona081](http://twitter.com/search?q=%23ADona081) | N/A |
-| 34 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
-| 35 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 38 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
-| 39 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 42 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
-| 43 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 44 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 45 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 46 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
-| 47 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 48 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 49 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 50 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 6 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 7 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 8 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
+| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 10 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 13 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 14 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 15 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 16 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
+| 17 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 18 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 20 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
+| 21 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 22 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 23 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 25 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 26 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 28 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 29 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 30 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 31 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
+| 32 | [Vila Aliança](http://twitter.com/search?q=Vila+Alian%c3%a7a) | N/A |
+| 33 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
+| 34 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 35 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 36 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
+| 37 | [Bets](http://twitter.com/search?q=Bets) | N/A |
+| 38 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 39 | [DEIXA O ALFACE JOGAR](http://twitter.com/search?q=DEIXA+O+ALFACE+JOGAR) | N/A |
+| 40 | [AFEMINADO E FEIO](http://twitter.com/search?q=AFEMINADO+E+FEIO) | N/A |
+| 41 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 42 | [Peixe](http://twitter.com/search?q=Peixe) | N/A |
+| 43 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
+| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 45 | [Banco Mundial](http://twitter.com/search?q=Banco+Mundial) | N/A |
+| 46 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 47 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 48 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 49 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 50 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
 
 
 
