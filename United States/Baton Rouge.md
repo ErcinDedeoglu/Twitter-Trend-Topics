@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-04-04 13:20:01 UTC`
+📆 Last Updated: `2023-04-04 14:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 2 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 1 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
 | 3 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 6 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 8 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 9 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 10 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 11 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 12 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 15 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 16 | [Jamie Dimon](http://twitter.com/search?q=Jamie+Dimon) | N/A |
-| 17 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 18 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
-| 19 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
-| 20 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
-| 21 | [Maya Angelou](http://twitter.com/search?q=Maya+Angelou) | N/A |
-| 22 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 23 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 24 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
-| 25 | [Tidal](http://twitter.com/search?q=Tidal) | N/A |
-| 26 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
-| 27 | [Calli](http://twitter.com/search?q=Calli) | N/A |
-| 28 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 29 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 30 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 31 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 32 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 33 | [Wallo](http://twitter.com/search?q=Wallo) | Wallo is a slang term used to express surprise or excitement. It is often used as an exclamation of joy or enthusiasm. In English, it can be translated to mean "Wow!" or "Oh my gosh!" |
-| 34 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 35 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 36 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 37 | [Ten Commandments](http://twitter.com/search?q=Ten+Commandments) | N/A |
-| 38 | [disgusted](http://twitter.com/search?q=disgusted) | N/A |
-| 39 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
-| 40 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 41 | [Most Americans](http://twitter.com/search?q=Most+Americans) | N/A |
-| 42 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 43 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 44 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
-| 45 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
-| 46 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 47 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
+| 8 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 9 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 10 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 11 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 12 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 14 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 15 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 16 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 17 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 18 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 19 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 20 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 23 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
+| 24 | [Jamie Dimon](http://twitter.com/search?q=Jamie+Dimon) | N/A |
+| 25 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 26 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 27 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
+| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 29 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 30 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
+| 31 | [JOLTS](http://twitter.com/search?q=JOLTS) | N/A |
+| 32 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
+| 33 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 34 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 35 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 36 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
+| 37 | [Catan](http://twitter.com/search?q=Catan) | N/A |
+| 38 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 39 | [Twisted Metal](http://twitter.com/search?q=Twisted+Metal) | N/A |
+| 40 | [Maya Angelou](http://twitter.com/search?q=Maya+Angelou) | N/A |
+| 41 | [Midge](http://twitter.com/search?q=Midge) | N/A |
+| 42 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 43 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 44 | [Muddy Waters](http://twitter.com/search?q=Muddy+Waters) | N/A |
+| 45 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
+| 46 | [GO VOTE](http://twitter.com/search?q=GO+VOTE) | N/A |
+| 47 | [Miguel O'Hara](http://twitter.com/search?q=Miguel+O%27Hara) | N/A |
+| 48 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
 
 
 

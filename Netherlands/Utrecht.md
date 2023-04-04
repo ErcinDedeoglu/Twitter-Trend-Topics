@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-04 13:19:34 UTC`
+📆 Last Updated: `2023-04-04 14:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
-| 2 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
-| 3 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 4 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
-| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 6 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
-| 7 | [#debat](http://twitter.com/search?q=%23debat) | N/A |
-| 8 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 9 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 2 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
+| 3 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
+| 4 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
+| 5 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
+| 6 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 7 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 8 | [Kaagje](http://twitter.com/search?q=Kaagje) | N/A |
+| 9 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
 | 10 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 11 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 12 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 11 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 12 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
 | 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 14 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 15 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 16 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 17 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
-| 18 | [Jasper Philipsen](http://twitter.com/search?q=Jasper+Philipsen) | N/A |
-| 19 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 20 | [Cora van Nieuwenhuizen](http://twitter.com/search?q=Cora+van+Nieuwenhuizen) | N/A |
-| 21 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 14 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 15 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 16 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [prorail](http://twitter.com/search?q=prorail) | N/A |
+| 19 | [Cora van Nieuwenhuizen](http://twitter.com/search?q=Cora+van+Nieuwenhuizen) | N/A |
+| 20 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 21 | [Esther](http://twitter.com/search?q=Esther) | N/A |
 | 22 | [john s.](http://twitter.com/search?q=john+s.) | N/A |
 | 23 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 24 | [RIVM](http://twitter.com/search?q=RIVM) | N/A |
-| 25 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 26 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 24 | [ZZP'ers](http://twitter.com/search?q=ZZP%27ers) | N/A |
+| 25 | [RIVM](http://twitter.com/search?q=RIVM) | N/A |
+| 26 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 27 | [Binnenhof](http://twitter.com/search?q=Binnenhof) | N/A |
-| 28 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 29 | [ZZP'ers](http://twitter.com/search?q=ZZP%27ers) | N/A |
-| 30 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 31 | [IJsselmeer](http://twitter.com/search?q=IJsselmeer) | N/A |
+| 28 | [Jasper Philipsen](http://twitter.com/search?q=Jasper+Philipsen) | N/A |
+| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 30 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
+| 31 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
 | 32 | [Dales](http://twitter.com/search?q=Dales) | N/A |
-| 33 | [Leiden](http://twitter.com/search?q=Leiden) | N/A |
-| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 36 | [attje](http://twitter.com/search?q=attje) | N/A |
-| 37 | [zwaargewonden](http://twitter.com/search?q=zwaargewonden) | N/A |
-| 38 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 39 | [motie](http://twitter.com/search?q=motie) | N/A |
-| 40 | [goedemorgen sonja](http://twitter.com/search?q=goedemorgen+sonja) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [Koning Willem-Alexander](http://twitter.com/search?q=Koning+Willem-Alexander) | N/A |
-| 43 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
-| 44 | [Koolmees](http://twitter.com/search?q=Koolmees) | N/A |
-| 45 | [volkel](http://twitter.com/search?q=volkel) | N/A |
-| 46 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
-| 47 | [Finse](http://twitter.com/search?q=Finse) | N/A |
-| 48 | [mediahuis](http://twitter.com/search?q=mediahuis) | N/A |
+| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 35 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [Leiden](http://twitter.com/search?q=Leiden) | N/A |
+| 38 | [zwaargewonden](http://twitter.com/search?q=zwaargewonden) | N/A |
+| 39 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 40 | [motie](http://twitter.com/search?q=motie) | N/A |
+| 41 | [Dries](http://twitter.com/search?q=Dries) | N/A |
+| 42 | [goedemorgen sonja](http://twitter.com/search?q=goedemorgen+sonja) | N/A |
+| 43 | [ijsselmeer](http://twitter.com/search?q=ijsselmeer) | N/A |
+| 44 | [Attje](http://twitter.com/search?q=Attje) | N/A |
+| 45 | [Koning Willem-Alexander](http://twitter.com/search?q=Koning+Willem-Alexander) | N/A |
+| 46 | [Finse](http://twitter.com/search?q=Finse) | N/A |
+| 47 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
+| 48 | [Koolmees](http://twitter.com/search?q=Koolmees) | N/A |
 
 
 

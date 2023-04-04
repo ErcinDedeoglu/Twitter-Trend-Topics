@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-04 13:19:26 UTC`
+📆 Last Updated: `2023-04-04 14:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 4 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 5 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 6 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 7 | [#Inter114anos](http://twitter.com/search?q=%23Inter114anos) | N/A |
-| 8 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 9 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 10 | [Merval](http://twitter.com/search?q=Merval) | N/A |
-| 11 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 12 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 13 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 14 | [Princesa Isabel](http://twitter.com/search?q=Princesa+Isabel) | N/A |
-| 15 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
-| 16 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 17 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 18 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 20 | [Datafolha](http://twitter.com/search?q=Datafolha) | N/A |
-| 21 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 22 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 23 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
-| 24 | [Manoel Soares](http://twitter.com/search?q=Manoel+Soares) | N/A |
-| 25 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 26 | [Homem-Aranha](http://twitter.com/search?q=Homem-Aranha) | N/A |
-| 27 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
-| 28 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 29 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 30 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
-| 31 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 32 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
-| 33 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
-| 34 | [betinho](http://twitter.com/search?q=betinho) | N/A |
-| 35 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 36 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 37 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 38 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 39 | [Gabrielly](http://twitter.com/search?q=Gabrielly) | N/A |
-| 40 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 41 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 42 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 43 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 44 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 45 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
-| 46 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 47 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 48 | [#bdrj](http://twitter.com/search?q=%23bdrj) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 2 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 5 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
+| 6 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
+| 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 8 | [margot](http://twitter.com/search?q=margot) | Margot is a French female given name, derived from the Hebrew name "Margalit" meaning "pearl". It is also used as a nickname for Margaret. |
+| 9 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 10 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 11 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 12 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 13 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 14 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 15 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 16 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 17 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
+| 18 | [Segovinha](http://twitter.com/search?q=Segovinha) | N/A |
+| 19 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 20 | [#Inter114anos](http://twitter.com/search?q=%23Inter114anos) | N/A |
+| 21 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 22 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [Merval](http://twitter.com/search?q=Merval) | N/A |
+| 25 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 26 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 27 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
+| 28 | [Segovia](http://twitter.com/search?q=Segovia) | N/A |
+| 29 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 30 | [Papo de Segunda](http://twitter.com/search?q=Papo+de+Segunda) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 33 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
+| 34 | [Princesa Isabel](http://twitter.com/search?q=Princesa+Isabel) | N/A |
+| 35 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 36 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 37 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 40 | [Luiz Gama](http://twitter.com/search?q=Luiz+Gama) | N/A |
+| 41 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 42 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 43 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 44 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
+| 45 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
+| 46 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 47 | [Cazuza](http://twitter.com/search?q=Cazuza) | N/A |
+| 48 | [Datafolha](http://twitter.com/search?q=Datafolha) | N/A |
+| 49 | [Homem-Aranha](http://twitter.com/search?q=Homem-Aranha) | N/A |
 
 
 

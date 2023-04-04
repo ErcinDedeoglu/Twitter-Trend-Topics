@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-04 13:19:15 UTC`
+📆 Last Updated: `2023-04-04 14:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 2 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 3 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
-| 4 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 5 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 9 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 1 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 2 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 3 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 4 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
+| 5 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 6 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 10 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
+| 11 | [Massa](http://twitter.com/search?q=Massa) | N/A |
 | 12 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 13 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 14 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 15 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 16 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 17 | [Marc Riley](http://twitter.com/search?q=Marc+Riley) | N/A |
-| 18 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 19 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 13 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 14 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
+| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 16 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
+| 17 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 18 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 20 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 21 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 22 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
-| 23 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 24 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 25 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 26 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 27 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 31 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 32 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 33 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 34 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
-| 35 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 36 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 37 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 38 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 39 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 40 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
-| 41 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 42 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 43 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 44 | [#balance](http://twitter.com/search?q=%23balance) | N/A |
-| 45 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 46 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 47 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 48 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 49 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
+| 21 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 22 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 26 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 27 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
+| 28 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 29 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 30 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 31 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 32 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 33 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 34 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 35 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 36 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 37 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 38 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
+| 39 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 40 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 42 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 43 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
+| 44 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 45 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 46 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 47 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 48 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
+| 49 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 
 
 

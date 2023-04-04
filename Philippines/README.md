@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-04 13:20:18 UTC`
+📆 Last Updated: `2023-04-04 14:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 2 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
-| 3 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 4 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
-| 5 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 6 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 7 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
-| 8 | [#KA1AnniversaryTikTokLive](http://twitter.com/search?q=%23KA1AnniversaryTikTokLive) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [#HOIWardrobeMalfunction](http://twitter.com/search?q=%23HOIWardrobeMalfunction) | N/A |
-| 11 | [MABUHAY TREASURE D-10](http://twitter.com/search?q=MABUHAY+TREASURE+D-10) | N/A |
-| 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 13 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 14 | [SARAH G GRAB SUMMERNA](http://twitter.com/search?q=SARAH+G+GRAB+SUMMERNA) | N/A |
-| 15 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 16 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 17 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 2 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 5 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 6 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 7 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
+| 8 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 9 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 12 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 14 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 15 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 16 | [KAIAnniversary Live](http://twitter.com/search?q=KAIAnniversary+Live) | N/A |
+| 17 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
 | 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 19 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 20 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
-| 21 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 22 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 23 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 24 | [zero out today](http://twitter.com/search?q=zero+out+today) | N/A |
-| 25 | [Kodaline](http://twitter.com/search?q=Kodaline) | N/A |
-| 26 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 27 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 28 | [GRATEFUL TO MEET HARUTO](http://twitter.com/search?q=GRATEFUL+TO+MEET+HARUTO) | N/A |
-| 29 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
-| 30 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 31 | [4.4 SALE](http://twitter.com/search?q=4.4+SALE) | N/A |
-| 32 | [Ken Chan](http://twitter.com/search?q=Ken+Chan) | N/A |
-| 33 | [WINNER BROTHERS](http://twitter.com/search?q=WINNER+BROTHERS) | N/A |
-| 34 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 37 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 38 | [Actor Oh Sehun](http://twitter.com/search?q=Actor+Oh+Sehun) | N/A |
-| 39 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
-| 40 | [PR ARMYs](http://twitter.com/search?q=PR+ARMYs) | N/A |
-| 41 | [happy 1ookicestreams angels](http://twitter.com/search?q=happy+1ookicestreams+angels) | N/A |
-| 42 | [Boyet](http://twitter.com/search?q=Boyet) | N/A |
-| 43 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 44 | [Jackpot](http://twitter.com/search?q=Jackpot) | N/A |
-| 45 | [FB Live with ECLIPSE](http://twitter.com/search?q=FB+Live+with+ECLIPSE) | N/A |
-| 46 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 47 | [Kep1er Fairies](http://twitter.com/search?q=Kep1er+Fairies) | N/A |
-| 48 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
-| 49 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 50 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
+| 19 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 20 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 21 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
+| 22 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 23 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 24 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 25 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 27 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 28 | [Eastern Samar](http://twitter.com/search?q=Eastern+Samar) | N/A |
+| 29 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 30 | [Northern Samar](http://twitter.com/search?q=Northern+Samar) | N/A |
+| 31 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 32 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 33 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 34 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
+| 35 | [Kodaline](http://twitter.com/search?q=Kodaline) | N/A |
+| 36 | [PHIVOLCS](http://twitter.com/search?q=PHIVOLCS) | N/A |
+| 37 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
+| 38 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 39 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 40 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 41 | [SARAH G GRAB SUMMERNA](http://twitter.com/search?q=SARAH+G+GRAB+SUMMERNA) | N/A |
+| 42 | [IVE FIRST CONCEPT PHOTO](http://twitter.com/search?q=IVE+FIRST+CONCEPT+PHOTO) | N/A |
+| 43 | [BREAKING BAD DANCE PRACTICE](http://twitter.com/search?q=BREAKING+BAD+DANCE+PRACTICE) | N/A |
+| 44 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 45 | [Mila](http://twitter.com/search?q=Mila) | N/A |
+| 46 | [WINNER BROTHERS](http://twitter.com/search?q=WINNER+BROTHERS) | N/A |
+| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 48 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 49 | [Actor Oh Sehun](http://twitter.com/search?q=Actor+Oh+Sehun) | N/A |
+| 50 | [4.4 SALE](http://twitter.com/search?q=4.4+SALE) | N/A |
 
 
 
