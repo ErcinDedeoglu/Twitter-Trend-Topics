@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-04-04 14:17:54 UTC`
+📆 Last Updated: `2023-04-04 15:22:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
-| 2 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 2 | [#julestinkesocke](http://twitter.com/search?q=%23julestinkesocke) | N/A |
 | 3 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 4 | [#julestinkesocke](http://twitter.com/search?q=%23julestinkesocke) | N/A |
-| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 4 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 7 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
 | 8 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
 | 9 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 10 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 11 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 12 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 13 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 10 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 11 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 12 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 13 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
 | 14 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 16 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
 | 17 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 18 | [Verteidigungsbündnis](http://twitter.com/search?q=Verteidigungsb%c3%bcndnis) | N/A |
-| 19 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
+| 18 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 19 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 20 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 21 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 22 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 23 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 24 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 25 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 26 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 27 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 28 | [Auffrischungsimpfung](http://twitter.com/search?q=Auffrischungsimpfung) | N/A |
-| 29 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
-| 30 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 31 | [Franz Alt](http://twitter.com/search?q=Franz+Alt) | N/A |
-| 32 | [Xbox Ser](http://twitter.com/search?q=Xbox+Ser) | N/A |
-| 33 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
-| 34 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
-| 35 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 21 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
+| 22 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 23 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 24 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 25 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 26 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 27 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 28 | [xbox ser](http://twitter.com/search?q=xbox+ser) | N/A |
+| 29 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 30 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
+| 31 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 32 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
+| 33 | [Franz Alt](http://twitter.com/search?q=Franz+Alt) | N/A |
+| 34 | [Vollzug](http://twitter.com/search?q=Vollzug) | N/A |
+| 35 | [Anthroposophie](http://twitter.com/search?q=Anthroposophie) | N/A |
 | 36 | ['Überbelichtet'](http://twitter.com/search?q=%27%c3%9cberbelichtet%27) | N/A |
-| 37 | [Naturheilkunde](http://twitter.com/search?q=Naturheilkunde) | N/A |
-| 38 | [Gnotschi](http://twitter.com/search?q=Gnotschi) | N/A |
-| 39 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
+| 37 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
+| 38 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 39 | [Gnotschi](http://twitter.com/search?q=Gnotschi) | N/A |
 | 40 | [Tim Walter](http://twitter.com/search?q=Tim+Walter) | N/A |
-| 41 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
-| 42 | [Anthroposophie](http://twitter.com/search?q=Anthroposophie) | N/A |
-| 43 | [siedler von catan](http://twitter.com/search?q=siedler+von+catan) | N/A |
-| 44 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
-| 45 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
-| 46 | [Tempo 20](http://twitter.com/search?q=Tempo+20) | N/A |
-| 47 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
-| 48 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
-| 49 | [Marktmanipulation](http://twitter.com/search?q=Marktmanipulation) | N/A |
+| 41 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
+| 42 | [Naturheilkunde](http://twitter.com/search?q=Naturheilkunde) | N/A |
+| 43 | [führerschein](http://twitter.com/search?q=f%c3%bchrerschein) | N/A |
+| 44 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 45 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
+| 46 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
+| 47 | [klitschko](http://twitter.com/search?q=klitschko) | N/A |
+| 48 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
+| 49 | [Tempo 20](http://twitter.com/search?q=Tempo+20) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-04 14:17:37 UTC`
+📆 Last Updated: `2023-04-04 15:22:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 2 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 3 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 4 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
-| 5 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 6 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 10 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 11 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 12 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 13 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 14 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
-| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 16 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 17 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 18 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 21 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 22 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 24 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 26 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
-| 27 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
-| 28 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 29 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 30 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 31 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 32 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 33 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 34 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 35 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 36 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 37 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 38 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
-| 39 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 40 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 41 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 42 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 43 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
+| 1 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 2 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 3 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 4 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
+| 5 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
+| 6 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 7 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 11 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
+| 12 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 14 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 16 | [margot robbie](http://twitter.com/search?q=margot+robbie) | N/A |
+| 17 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 18 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 19 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
+| 20 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 21 | [craig charles](http://twitter.com/search?q=craig+charles) | N/A |
+| 22 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 23 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 27 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 28 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 29 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 30 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 31 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
+| 32 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 33 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 34 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 35 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 36 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 37 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
+| 38 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 39 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 40 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 42 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 43 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
 | 44 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 45 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 46 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 47 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 48 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
-| 49 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 45 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
+| 46 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 47 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
 
 
 

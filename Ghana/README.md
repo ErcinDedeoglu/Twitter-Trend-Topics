@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-04-04 14:18:37 UTC`
+📆 Last Updated: `2023-04-04 15:22:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Ghana
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 3 | [Bawku](http://twitter.com/search?q=Bawku) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Hajia Bintu](http://twitter.com/search?q=Hajia+Bintu) | N/A |
-| 5 | [#ShoutsOnY](http://twitter.com/search?q=%23ShoutsOnY) | N/A |
-| 6 | [Sona](http://twitter.com/search?q=Sona) | N/A |
-| 7 | [#FromTaxationToTaxation](http://twitter.com/search?q=%23FromTaxationToTaxation) | N/A |
+| 5 | [Sona](http://twitter.com/search?q=Sona) | N/A |
+| 6 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 7 | [Fox River](http://twitter.com/search?q=Fox+River) | N/A |
 | 8 | [PROJECT 24 CONTRIBUTION](http://twitter.com/search?q=PROJECT+24+CONTRIBUTION) | N/A |
-| 9 | [#JoySMS](http://twitter.com/search?q=%23JoySMS) | N/A |
+| 9 | [#joysms](http://twitter.com/search?q=%23joysms) | N/A |
 | 10 | [the kanaga jnr brand](http://twitter.com/search?q=the+kanaga+jnr+brand) | N/A |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [#ylounge](http://twitter.com/search?q=%23ylounge) | N/A |
-| 13 | [#wirelessexperience](http://twitter.com/search?q=%23wirelessexperience) | N/A |
+| 11 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 12 | [#wontumiSports](http://twitter.com/search?q=%23wontumiSports) | N/A |
+| 13 | [#dnbp](http://twitter.com/search?q=%23dnbp) | N/A |
 | 14 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
-| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 16 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 17 | [Aduana](http://twitter.com/search?q=Aduana) | N/A |
-| 18 | [Fox River](http://twitter.com/search?q=Fox+River) | N/A |
-| 19 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 20 | [Nana Aba](http://twitter.com/search?q=Nana+Aba) | N/A |
-| 21 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 22 | [KING Khosi](http://twitter.com/search?q=KING+Khosi) | N/A |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [jay ghartey](http://twitter.com/search?q=jay+ghartey) | N/A |
-| 25 | [Capito](http://twitter.com/search?q=Capito) | N/A |
-| 26 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 27 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 28 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 29 | [Nanton MP](http://twitter.com/search?q=Nanton+MP) | N/A |
-| 30 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 31 | [Politics](http://twitter.com/search?q=Politics) | N/A |
-| 32 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 33 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
-| 34 | [New Patriotic Party](http://twitter.com/search?q=New+Patriotic+Party) | N/A |
-| 35 | [Delay](http://twitter.com/search?q=Delay) | N/A |
-| 36 | [Benz](http://twitter.com/search?q=Benz) | N/A |
-| 37 | [Ashanti Regional Minister](http://twitter.com/search?q=Ashanti+Regional+Minister) | N/A |
-| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 39 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 40 | [KHOSI THE WINNER](http://twitter.com/search?q=KHOSI+THE+WINNER) | N/A |
-| 41 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
-| 42 | [Ephesians](http://twitter.com/search?q=Ephesians) | N/A |
-| 43 | [Alienware](http://twitter.com/search?q=Alienware) | N/A |
-| 44 | [GOD PROTECT SHEGGZ](http://twitter.com/search?q=GOD+PROTECT+SHEGGZ) | N/A |
-| 45 | [Board](http://twitter.com/search?q=Board) | N/A |
-| 46 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 47 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
-| 48 | [cregxforce mega project](http://twitter.com/search?q=cregxforce+mega+project) | N/A |
-| 49 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 50 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 15 | [#daybreakhitz](http://twitter.com/search?q=%23daybreakhitz) | N/A |
+| 16 | [Bawku](http://twitter.com/search?q=Bawku) | N/A |
+| 17 | [#FromTaxationToTaxation](http://twitter.com/search?q=%23FromTaxationToTaxation) | N/A |
+| 18 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 19 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 20 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 23 | [Aduana](http://twitter.com/search?q=Aduana) | N/A |
+| 24 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 25 | [Nana Aba](http://twitter.com/search?q=Nana+Aba) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [King Khosi](http://twitter.com/search?q=King+Khosi) | N/A |
+| 28 | [jay ghartey](http://twitter.com/search?q=jay+ghartey) | N/A |
+| 29 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 30 | [Capito](http://twitter.com/search?q=Capito) | N/A |
+| 31 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
+| 32 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
+| 33 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Nanton MP](http://twitter.com/search?q=Nanton+MP) | N/A |
+| 36 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
+| 37 | [Politics](http://twitter.com/search?q=Politics) | N/A |
+| 38 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
+| 39 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 41 | [Delay](http://twitter.com/search?q=Delay) | N/A |
+| 42 | [new patriotic party](http://twitter.com/search?q=new+patriotic+party) | N/A |
+| 43 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 44 | [Ashanti Regional Minister](http://twitter.com/search?q=Ashanti+Regional+Minister) | N/A |
+| 45 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 46 | [Benz](http://twitter.com/search?q=Benz) | N/A |
+| 47 | [Bob Marley](http://twitter.com/search?q=Bob+Marley) | N/A |
+| 48 | [KHOSI THE WINNER](http://twitter.com/search?q=KHOSI+THE+WINNER) | N/A |
+| 49 | [Ephesians](http://twitter.com/search?q=Ephesians) | N/A |
+| 50 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 
 
 

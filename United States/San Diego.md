@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-04 14:18:32 UTC`
+📆 Last Updated: `2023-04-04 15:22:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 2 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
 | 3 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 4 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 6 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 7 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 10 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
-| 11 | [#spidermanacrossthespiderverse](http://twitter.com/search?q=%23spidermanacrossthespiderverse) | N/A |
-| 12 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 13 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 14 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 15 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 16 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 19 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 20 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 21 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 22 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 23 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 24 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
-| 28 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 29 | [Jamie Dimon](http://twitter.com/search?q=Jamie+Dimon) | N/A |
-| 30 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 31 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
-| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 4 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 5 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 11 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 13 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 14 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 16 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 17 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 18 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 19 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 20 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 21 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 22 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 23 | [Arraignment Day](http://twitter.com/search?q=Arraignment+Day) | N/A |
+| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 25 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 26 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 27 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 30 | [JOLTS](http://twitter.com/search?q=JOLTS) | N/A |
+| 31 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 32 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
 | 33 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 34 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
-| 35 | [JOLTS](http://twitter.com/search?q=JOLTS) | N/A |
-| 36 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 37 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
-| 38 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 39 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 40 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
-| 41 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 42 | [Catan](http://twitter.com/search?q=Catan) | N/A |
-| 43 | [Twisted Metal](http://twitter.com/search?q=Twisted+Metal) | N/A |
-| 44 | [Maya Angelou](http://twitter.com/search?q=Maya+Angelou) | N/A |
-| 45 | [Midge](http://twitter.com/search?q=Midge) | N/A |
-| 46 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 47 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 48 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 49 | [Muddy Waters](http://twitter.com/search?q=Muddy+Waters) | N/A |
-| 50 | [GO VOTE](http://twitter.com/search?q=GO+VOTE) | N/A |
+| 34 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 35 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 36 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 37 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 38 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 39 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 40 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 41 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
+| 42 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
+| 43 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
+| 44 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 45 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
+| 46 | [Dr. Martin Luther King](http://twitter.com/search?q=Dr.+Martin+Luther+King) | Dr. Martin Luther King Jr. was an American civil rights leader who fought for racial equality in the United States during the 1950s and 1960s. He is best known for his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington for Jobs and Freedom. He was also a Nobel Peace Prize winner and a leader of the African-American Civil Rights Movement. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 47 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 48 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 49 | [Apple Weather](http://twitter.com/search?q=Apple+Weather) | N/A |
+| 50 | [Twisted Metal](http://twitter.com/search?q=Twisted+Metal) | N/A |
 
 
 

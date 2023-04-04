@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-04-04 14:17:39 UTC`
+📆 Last Updated: `2023-04-04 15:22:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 2 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 3 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 1 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 2 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 3 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
 | 4 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
-| 5 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 6 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 8 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 9 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 11 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 12 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 13 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 14 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 15 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
-| 16 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 5 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 6 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 10 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
+| 11 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 12 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 13 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 14 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 17 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 18 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 19 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 22 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 23 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 25 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
-| 28 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
-| 29 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 30 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 31 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 32 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 33 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 34 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 35 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 36 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 37 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 38 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 39 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
+| 18 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
+| 19 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 20 | [craig charles](http://twitter.com/search?q=craig+charles) | N/A |
+| 21 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 22 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 25 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 26 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 27 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 28 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 29 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 30 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 31 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 32 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
+| 33 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 34 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 35 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 36 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 37 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
+| 38 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 39 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
 | 40 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
 | 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 42 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 42 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
 | 43 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 44 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
-| 45 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 46 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 47 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 44 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
+| 45 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
+| 46 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 47 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
 | 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 49 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
-| 50 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 
 
 

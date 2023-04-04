@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-04-04 14:18:09 UTC`
+📆 Last Updated: `2023-04-04 15:22:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 2 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 4 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 5 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 6 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 7 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
-| 8 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 9 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 12 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 13 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 14 | [KAIAnniversary Live](http://twitter.com/search?q=KAIAnniversary+Live) | N/A |
+| 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 6 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 8 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 9 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
+| 10 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 11 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 12 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 13 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 14 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 15 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 16 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 16 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
 | 17 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 19 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 20 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 21 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
-| 22 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 23 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
-| 24 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 25 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 27 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 28 | [Eastern Samar](http://twitter.com/search?q=Eastern+Samar) | N/A |
-| 29 | [Northern Samar](http://twitter.com/search?q=Northern+Samar) | N/A |
-| 30 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 31 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 32 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 33 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
-| 34 | [Kodaline](http://twitter.com/search?q=Kodaline) | N/A |
-| 35 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 36 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 37 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 38 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 39 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
-| 40 | [SARAH G GRAB SUMMERNA](http://twitter.com/search?q=SARAH+G+GRAB+SUMMERNA) | N/A |
-| 41 | [IVE FIRST CONCEPT PHOTO](http://twitter.com/search?q=IVE+FIRST+CONCEPT+PHOTO) | N/A |
-| 42 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 43 | [Mila](http://twitter.com/search?q=Mila) | N/A |
-| 44 | [WINNER BROTHERS](http://twitter.com/search?q=WINNER+BROTHERS) | N/A |
-| 45 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 46 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 47 | [Actor Oh Sehun](http://twitter.com/search?q=Actor+Oh+Sehun) | N/A |
-| 48 | [BREAKING BAD DANCE PRACTICE](http://twitter.com/search?q=BREAKING+BAD+DANCE+PRACTICE) | N/A |
-| 49 | [4.4 SALE](http://twitter.com/search?q=4.4+SALE) | N/A |
-| 50 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 19 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 20 | [MABUHAY TREASURE D-10](http://twitter.com/search?q=MABUHAY+TREASURE+D-10) | N/A |
+| 21 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 22 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 23 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [Duty After School](http://twitter.com/search?q=Duty+After+School) | N/A |
+| 26 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
+| 27 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
+| 28 | [#SEVENTEENxRollingStone](http://twitter.com/search?q=%23SEVENTEENxRollingStone) | N/A |
+| 29 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
+| 30 | [#IveIVE2ndConceptPhoto](http://twitter.com/search?q=%23IveIVE2ndConceptPhoto) | N/A |
+| 31 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
+| 32 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
+| 33 | [#TWOQueens](http://twitter.com/search?q=%23TWOQueens) | N/A |
+| 34 | [#KA1AnniversaryTikTokLive](http://twitter.com/search?q=%23KA1AnniversaryTikTokLive) | N/A |
+| 35 | [#DLFirstKiss](http://twitter.com/search?q=%23DLFirstKiss) | N/A |
+| 36 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
+| 37 | [#HOIWardrobeMalfunction](http://twitter.com/search?q=%23HOIWardrobeMalfunction) | N/A |
+| 38 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
+| 39 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
+| 40 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
+| 41 | [#theastronaut13weekswdss](http://twitter.com/search?q=%23theastronaut13weekswdss) | N/A |
+| 42 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
+| 43 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 44 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 45 | [#EUNOIA1stWin](http://twitter.com/search?q=%23EUNOIA1stWin) | N/A |
+| 46 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 47 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 48 | [#BOYCOTTEBxAPTxGMA755](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA755) | N/A |
 
 
 

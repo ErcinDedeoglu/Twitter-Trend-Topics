@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-04 14:18:00 UTC`
+📆 Last Updated: `2023-04-04 15:22:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#langkahkecilhariini](http://twitter.com/search?q=%23langkahkecilhariini) | N/A |
-| 2 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
-| 3 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 4 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
-| 5 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 6 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 7 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
-| 8 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 9 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 10 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 11 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 12 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 13 | [NMax](http://twitter.com/search?q=NMax) | N/A |
-| 14 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 15 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |
-| 16 | [Garuda Muda Bangkit](http://twitter.com/search?q=Garuda+Muda+Bangkit) | N/A |
-| 17 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 18 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 19 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 22 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 23 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
-| 24 | [dprd](http://twitter.com/search?q=dprd) | N/A |
-| 25 | [#SkintificXTokopedia](http://twitter.com/search?q=%23SkintificXTokopedia) | N/A |
-| 26 | [#MauSkintific](http://twitter.com/search?q=%23MauSkintific) | N/A |
-| 27 | [#TheAstronaut13WeeksWDSS](http://twitter.com/search?q=%23TheAstronaut13WeeksWDSS) | N/A |
-| 28 | [#SkintifiCicaToner](http://twitter.com/search?q=%23SkintifiCicaToner) | N/A |
-| 29 | [#SerunyaBareng](http://twitter.com/search?q=%23SerunyaBareng) | N/A |
-| 30 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 31 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 32 | [#OhmNanon](http://twitter.com/search?q=%23OhmNanon) | N/A |
-| 33 | [#HARUTOBDAYCOUNTDOWN_D1](http://twitter.com/search?q=%23HARUTOBDAYCOUNTDOWN_D1) | N/A |
-| 34 | [#DoubleSavage](http://twitter.com/search?q=%23DoubleSavage) | N/A |
-| 35 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
-| 36 | [#EUNOIA1stWin](http://twitter.com/search?q=%23EUNOIA1stWin) | N/A |
-| 37 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 38 | [#GanjarPranowoMenjawab](http://twitter.com/search?q=%23GanjarPranowoMenjawab) | N/A |
-| 39 | [#D3_GoldenHourMark](http://twitter.com/search?q=%23D3_GoldenHourMark) | N/A |
-| 40 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
-| 41 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
-| 42 | [#mynameisnanon](http://twitter.com/search?q=%23mynameisnanon) | N/A |
-| 43 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 44 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
-| 45 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
+| 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 6 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 7 | [#langkahkecilhariini](http://twitter.com/search?q=%23langkahkecilhariini) | N/A |
+| 8 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
+| 9 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 10 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 11 | [peace lily for bible](http://twitter.com/search?q=peace+lily+for+bible) | N/A |
+| 12 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 13 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 14 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 15 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
+| 16 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 17 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 18 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |
+| 19 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
+| 20 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 21 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 22 | [Garuda Muda Bangkit](http://twitter.com/search?q=Garuda+Muda+Bangkit) | N/A |
+| 23 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 24 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
+| 25 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 28 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
+| 29 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
+| 30 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 31 | [#NCT재현](http://twitter.com/search?q=%23NCT%ec%9e%ac%ed%98%84) | N/A |
+| 32 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
+| 33 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
+| 34 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 35 | [#MauSkintific](http://twitter.com/search?q=%23MauSkintific) | N/A |
+| 36 | [#SkintificXTokopedia](http://twitter.com/search?q=%23SkintificXTokopedia) | N/A |
+| 37 | [#SkintifiCicaToner](http://twitter.com/search?q=%23SkintifiCicaToner) | N/A |
+| 38 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 39 | [#theastronaut13weekswdss](http://twitter.com/search?q=%23theastronaut13weekswdss) | N/A |
+| 40 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
+| 41 | [#DoubleSavage](http://twitter.com/search?q=%23DoubleSavage) | N/A |
+| 42 | [#SerunyaBareng](http://twitter.com/search?q=%23SerunyaBareng) | N/A |
+| 43 | [#EUNOIA1stWin](http://twitter.com/search?q=%23EUNOIA1stWin) | N/A |
+| 44 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
+| 45 | [#OhmNanon](http://twitter.com/search?q=%23OhmNanon) | N/A |
+| 46 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 47 | [#GanjarPranowoMenjawab](http://twitter.com/search?q=%23GanjarPranowoMenjawab) | N/A |
+| 48 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 49 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
 
 
 

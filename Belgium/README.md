@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-04 14:18:35 UTC`
+📆 Last Updated: `2023-04-04 15:22:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 1 | [#Finland](http://twitter.com/search?q=%23Finland) | N/A |
+| 2 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 3 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 5 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
-| 6 | [Van Peel](http://twitter.com/search?q=Van+Peel) | N/A |
-| 7 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
-| 8 | [#rondevanvlaanderen](http://twitter.com/search?q=%23rondevanvlaanderen) | N/A |
-| 9 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
-| 10 | [Jasper Philipsen](http://twitter.com/search?q=Jasper+Philipsen) | N/A |
-| 11 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 12 | [pensioenschandaal kamer](http://twitter.com/search?q=pensioenschandaal+kamer) | N/A |
-| 13 | [#innovation](http://twitter.com/search?q=%23innovation) | N/A |
-| 14 | [Groen](http://twitter.com/search?q=Groen) | N/A |
-| 15 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
+| 4 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
+| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 6 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 7 | [van peel](http://twitter.com/search?q=van+peel) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
+| 10 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
+| 11 | [Allies](http://twitter.com/search?q=Allies) | N/A |
+| 12 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 13 | [pensioenschandaal kamer](http://twitter.com/search?q=pensioenschandaal+kamer) | N/A |
+| 14 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
+| 15 | [OpenVLD](http://twitter.com/search?q=OpenVLD) | N/A |
 | 16 | [regie der gebouwen](http://twitter.com/search?q=regie+der+gebouwen) | N/A |
-| 17 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 18 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 19 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 20 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 21 | [Allies](http://twitter.com/search?q=Allies) | N/A |
+| 17 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
+| 18 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 19 | [Groen](http://twitter.com/search?q=Groen) | N/A |
+| 20 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 21 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 22 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 23 | [Finse](http://twitter.com/search?q=Finse) | N/A |
-| 24 | [OpenVLD](http://twitter.com/search?q=OpenVLD) | N/A |
+| 24 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
 | 25 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 26 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
+| 26 | [La Chambre](http://twitter.com/search?q=La+Chambre) | N/A |
 | 27 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 28 | [La Chambre](http://twitter.com/search?q=La+Chambre) | N/A |
-| 29 | [Wuyts](http://twitter.com/search?q=Wuyts) | N/A |
-| 30 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 31 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
-| 32 | [Chinezen](http://twitter.com/search?q=Chinezen) | N/A |
-| 33 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
-| 34 | [annelies verlinden](http://twitter.com/search?q=annelies+verlinden) | N/A |
-| 35 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
-| 36 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
-| 37 | [FARDC](http://twitter.com/search?q=FARDC) | N/A |
-| 38 | [Unia](http://twitter.com/search?q=Unia) | N/A |
-| 39 | [In België](http://twitter.com/search?q=In+Belgi%c3%ab) | N/A |
-| 40 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Tadej Pogacar](http://twitter.com/search?q=Tadej+Pogacar) | N/A |
-| 43 | [Proximus](http://twitter.com/search?q=Proximus) | N/A |
-| 44 | [Goeiemiddag](http://twitter.com/search?q=Goeiemiddag) | N/A |
-| 45 | [van quickenborne](http://twitter.com/search?q=van+quickenborne) | N/A |
-| 46 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
-| 47 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 48 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 49 | [JUSTITIE](http://twitter.com/search?q=JUSTITIE) | N/A |
-| 50 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 28 | [wuyts](http://twitter.com/search?q=wuyts) | N/A |
+| 29 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
+| 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 31 | [Chinezen](http://twitter.com/search?q=Chinezen) | N/A |
+| 32 | [annelies verlinden](http://twitter.com/search?q=annelies+verlinden) | N/A |
+| 33 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
+| 34 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 35 | [FARDC](http://twitter.com/search?q=FARDC) | N/A |
+| 36 | [Unia](http://twitter.com/search?q=Unia) | N/A |
+| 37 | [In België](http://twitter.com/search?q=In+Belgi%c3%ab) | N/A |
+| 38 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 39 | [Tadej Pogacar](http://twitter.com/search?q=Tadej+Pogacar) | N/A |
+| 40 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
+| 41 | [Proximus](http://twitter.com/search?q=Proximus) | N/A |
+| 42 | [Goeiemiddag](http://twitter.com/search?q=Goeiemiddag) | N/A |
+| 43 | [van quickenborne](http://twitter.com/search?q=van+quickenborne) | N/A |
+| 44 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
+| 45 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
+| 46 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 47 | [justitie](http://twitter.com/search?q=justitie) | N/A |
+| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 49 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
+| 50 | [fluvius](http://twitter.com/search?q=fluvius) | N/A |
 
 
 

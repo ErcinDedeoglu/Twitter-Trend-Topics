@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-04 14:17:48 UTC`
+📆 Last Updated: `2023-04-04 15:22:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 2 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 5 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
-| 6 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
-| 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 8 | [margot](http://twitter.com/search?q=margot) | Margot is a French female given name, derived from the Hebrew name "Margalit" meaning "pearl". It is also used as a nickname for Margaret. |
-| 9 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 10 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 11 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 12 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 13 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 14 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 3 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 6 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 7 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
+| 8 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 10 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 12 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 13 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 14 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 15 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 16 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 17 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
-| 18 | [Segovinha](http://twitter.com/search?q=Segovinha) | N/A |
-| 19 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 20 | [#Inter114anos](http://twitter.com/search?q=%23Inter114anos) | N/A |
-| 21 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
-| 22 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 23 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Merval](http://twitter.com/search?q=Merval) | N/A |
-| 26 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
-| 27 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 28 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 29 | [Segovia](http://twitter.com/search?q=Segovia) | N/A |
-| 30 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 31 | [Papo de Segunda](http://twitter.com/search?q=Papo+de+Segunda) | N/A |
-| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 33 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
-| 34 | [Princesa Isabel](http://twitter.com/search?q=Princesa+Isabel) | N/A |
-| 35 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 36 | [umbro](http://twitter.com/search?q=umbro) | N/A |
-| 37 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 38 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 39 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 40 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 41 | [Luiz Gama](http://twitter.com/search?q=Luiz+Gama) | N/A |
-| 42 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 43 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 44 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 45 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
-| 46 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
-| 47 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
-| 48 | [Cazuza](http://twitter.com/search?q=Cazuza) | N/A |
-| 49 | [Datafolha](http://twitter.com/search?q=Datafolha) | N/A |
-| 50 | [Homem-Aranha](http://twitter.com/search?q=Homem-Aranha) | N/A |
+| 16 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 17 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 18 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 19 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 20 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
+| 21 | [Força Key](http://twitter.com/search?q=For%c3%a7a+Key) | N/A |
+| 22 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 23 | [ASSISTA NIKE AIR](http://twitter.com/search?q=ASSISTA+NIKE+AIR) | N/A |
+| 24 | [Betano](http://twitter.com/search?q=Betano) | N/A |
+| 25 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
+| 26 | [Segovinha](http://twitter.com/search?q=Segovinha) | N/A |
+| 27 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 28 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 29 | [Sharon Rooney](http://twitter.com/search?q=Sharon+Rooney) | N/A |
+| 30 | [Maior Craque](http://twitter.com/search?q=Maior+Craque) | N/A |
+| 31 | [#inter114anos](http://twitter.com/search?q=%23inter114anos) | N/A |
+| 32 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 33 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 34 | [Maior Jogador](http://twitter.com/search?q=Maior+Jogador) | N/A |
+| 35 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
+| 36 | [HE'S JUST KEN](http://twitter.com/search?q=HE%27S+JUST+KEN) | N/A |
+| 37 | [Maior Partida](http://twitter.com/search?q=Maior+Partida) | N/A |
+| 38 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 39 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
+| 40 | [Supervia](http://twitter.com/search?q=Supervia) | N/A |
+| 41 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 42 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 43 | [Julice](http://twitter.com/search?q=Julice) | N/A |
+| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 45 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
+| 46 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 47 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 48 | [Barretos](http://twitter.com/search?q=Barretos) | N/A |
+| 49 | [papo de segunda](http://twitter.com/search?q=papo+de+segunda) | N/A |
+| 50 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
 
 
 

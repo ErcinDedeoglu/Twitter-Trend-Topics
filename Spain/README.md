@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-04 14:18:42 UTC`
+📆 Last Updated: `2023-04-04 15:22:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 2 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 4 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
-| 5 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 6 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 3 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 4 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 5 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
+| 6 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
 | 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 8 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
-| 9 | [#CMaDesalia](http://twitter.com/search?q=%23CMaDesalia) | N/A |
-| 10 | [Podemos Asturias](http://twitter.com/search?q=Podemos+Asturias) | N/A |
-| 11 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
-| 12 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 13 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 14 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 15 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 16 | [San Esteban](http://twitter.com/search?q=San+Esteban) | N/A |
-| 17 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
-| 18 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 8 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 9 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
+| 10 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 11 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
+| 12 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 13 | [#CMaDesalia](http://twitter.com/search?q=%23CMaDesalia) | N/A |
+| 14 | [San Esteban](http://twitter.com/search?q=San+Esteban) | N/A |
+| 15 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 16 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 17 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 18 | [#YoMeRebelo4A](http://twitter.com/search?q=%23YoMeRebelo4A) | N/A |
 | 19 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 20 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 21 | [#AdvanceWarsMM](http://twitter.com/search?q=%23AdvanceWarsMM) | N/A |
-| 22 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 23 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 24 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 25 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 26 | [Empleos](http://twitter.com/search?q=Empleos) | N/A |
-| 27 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 28 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
-| 29 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 30 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 32 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 33 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
-| 34 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 35 | [Dembélé](http://twitter.com/search?q=Demb%c3%a9l%c3%a9) | Dembélé is a surname of West African origin, derived from the Fula language. It is most commonly found in Mali, Guinea, and Senegal. In English, it means "strong one". |
-| 36 | [Olona](http://twitter.com/search?q=Olona) | N/A |
-| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 21 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 22 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
+| 23 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 24 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 25 | [Podemos Asturias](http://twitter.com/search?q=Podemos+Asturias) | N/A |
+| 26 | [Lecturas](http://twitter.com/search?q=Lecturas) | N/A |
+| 27 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
+| 28 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 29 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 30 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 31 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 32 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 33 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 34 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 35 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
+| 36 | [Dembélé](http://twitter.com/search?q=Demb%c3%a9l%c3%a9) | Dembélé is a surname of West African origin, derived from the Fula language. It is most commonly found in Mali, Guinea, and Senegal. In English, it means "strong one". |
+| 37 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
 | 38 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
-| 39 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 40 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 41 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 42 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 43 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
-| 44 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 45 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 46 | [La Comunidad de Madrid](http://twitter.com/search?q=La+Comunidad+de+Madrid) | N/A |
-| 47 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 48 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 49 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 50 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 39 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 41 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 42 | [Anillos](http://twitter.com/search?q=Anillos) | N/A |
+| 43 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 44 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
+| 45 | [Olona](http://twitter.com/search?q=Olona) | N/A |
+| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 47 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 48 | [La Comunidad de Madrid](http://twitter.com/search?q=La+Comunidad+de+Madrid) | N/A |
+| 49 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 50 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
 
 
 
