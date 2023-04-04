@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-04-04 12:18:40 UTC`
+📆 Last Updated: `2023-04-04 13:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 2 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 1 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 2 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
 | 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 5 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 6 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 7 | [dicko](http://twitter.com/search?q=dicko) | N/A |
+| 7 | [#ABC730](http://twitter.com/search?q=%23ABC730) | N/A |
 | 8 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 9 | [#ABC730](http://twitter.com/search?q=%23ABC730) | N/A |
-| 10 | [#aflfreoeagles](http://twitter.com/search?q=%23aflfreoeagles) | N/A |
-| 11 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [ANZAC](http://twitter.com/search?q=ANZAC) | N/A |
-| 14 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
-| 15 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 16 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 17 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 20 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 9 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 10 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [Dicko](http://twitter.com/search?q=Dicko) | N/A |
+| 13 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 14 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 15 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 16 | [Amanda Rishworth](http://twitter.com/search?q=Amanda+Rishworth) | N/A |
+| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 18 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 19 | [ANZAC](http://twitter.com/search?q=ANZAC) | N/A |
+| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 21 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 | 22 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 23 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 24 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 25 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 26 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 27 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 28 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
-| 29 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 32 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 33 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 25 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
+| 26 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 27 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 28 | [the rba](http://twitter.com/search?q=the+rba) | N/A |
+| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 30 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 31 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 32 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 33 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 36 | [Lachlan Murdoch](http://twitter.com/search?q=Lachlan+Murdoch) | N/A |
-| 37 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
-| 38 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 39 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 40 | [Tony Jones](http://twitter.com/search?q=Tony+Jones) | N/A |
-| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 44 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 46 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 47 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
-| 48 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 49 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 50 | [Leeser](http://twitter.com/search?q=Leeser) | N/A |
+| 35 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 36 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
+| 37 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 38 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 39 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 40 | [rennick](http://twitter.com/search?q=rennick) | N/A |
+| 41 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 42 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 45 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
+| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 47 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 48 | [Aesop](http://twitter.com/search?q=Aesop) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-04-04 12:19:13 UTC`
+📆 Last Updated: `2023-04-04 13:20:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Malaysia
 | 1 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
 | 2 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
 | 3 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
-| 4 | [#EUNOIA1stWin](http://twitter.com/search?q=%23EUNOIA1stWin) | N/A |
-| 5 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 6 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
-| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
+| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 6 | [#LikeCrazyNo1BBHot100](http://twitter.com/search?q=%23LikeCrazyNo1BBHot100) | N/A |
+| 7 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
 | 8 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 9 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 11 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 10 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 11 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 12 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 13 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 13 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
 | 14 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
-| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 18 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 19 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 20 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 21 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
-| 24 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 25 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
-| 26 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
-| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 28 | [Earthquake](http://twitter.com/search?q=Earthquake) | N/A |
-| 29 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
-| 30 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 31 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
-| 32 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 33 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
-| 34 | [eunha](http://twitter.com/search?q=eunha) | N/A |
-| 35 | [zahid](http://twitter.com/search?q=zahid) | N/A |
-| 36 | [coca cola](http://twitter.com/search?q=coca+cola) | N/A |
-| 37 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 38 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 39 | [Johor](http://twitter.com/search?q=Johor) | N/A |
-| 40 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
-| 41 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
-| 42 | [Haah](http://twitter.com/search?q=Haah) | N/A |
-| 43 | [Omgg](http://twitter.com/search?q=Omgg) | N/A |
-| 44 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 45 | [Sumatra](http://twitter.com/search?q=Sumatra) | N/A |
-| 46 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 15 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 16 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 17 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 18 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 19 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
+| 20 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 21 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 22 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
+| 23 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
+| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 25 | [Earthquake](http://twitter.com/search?q=Earthquake) | N/A |
+| 26 | [maybelline](http://twitter.com/search?q=maybelline) | N/A |
+| 27 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 28 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
+| 29 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 31 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
+| 32 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
+| 33 | [Johor](http://twitter.com/search?q=Johor) | N/A |
+| 34 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 35 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 37 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
+| 38 | [Haah](http://twitter.com/search?q=Haah) | N/A |
+| 39 | [Omgg](http://twitter.com/search?q=Omgg) | N/A |
+| 40 | [Sumatra](http://twitter.com/search?q=Sumatra) | N/A |
+| 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 42 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 46 | [Lee Hyukjae](http://twitter.com/search?q=Lee+Hyukjae) | N/A |
+| 47 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
+| 50 | [Dapat](http://twitter.com/search?q=Dapat) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-04 12:19:16 UTC`
+📆 Last Updated: `2023-04-04 13:20:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,51 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 3 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 4 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
-| 5 | [#AdvanceWarsMM](http://twitter.com/search?q=%23AdvanceWarsMM) | N/A |
-| 6 | [#CMaDesalia](http://twitter.com/search?q=%23CMaDesalia) | N/A |
-| 7 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 8 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 9 | [#APOYOROCIO4A](http://twitter.com/search?q=%23APOYOROCIO4A) | N/A |
-| 10 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
-| 11 | [Dembélé](http://twitter.com/search?q=Demb%c3%a9l%c3%a9) | Dembélé is a surname of West African origin, derived from the Fula language. It is most commonly found in Mali, Guinea, and Senegal. In English, it means "strong one". |
-| 12 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 13 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 14 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 15 | [Empleos](http://twitter.com/search?q=Empleos) | N/A |
-| 16 | [Olona](http://twitter.com/search?q=Olona) | N/A |
-| 17 | [Animales Fantásticos](http://twitter.com/search?q=Animales+Fant%c3%a1sticos) | N/A |
-| 18 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
-| 19 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 20 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 21 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 22 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 23 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
+| 2 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 4 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
+| 5 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 6 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 7 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 8 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 9 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 10 | [Podemos Asturias](http://twitter.com/search?q=Podemos+Asturias) | N/A |
+| 11 | [#advancewarsmm](http://twitter.com/search?q=%23advancewarsmm) | N/A |
+| 12 | [#APOYOROCIO4A](http://twitter.com/search?q=%23APOYOROCIO4A) | N/A |
+| 13 | [Dembélé](http://twitter.com/search?q=Demb%c3%a9l%c3%a9) | Dembélé is a surname of West African origin, derived from the Fula language. It is most commonly found in Mali, Guinea, and Senegal. In English, it means "strong one". |
+| 14 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 15 | [Olona](http://twitter.com/search?q=Olona) | N/A |
+| 16 | [Empleos](http://twitter.com/search?q=Empleos) | N/A |
+| 17 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
+| 18 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 19 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 20 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 21 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 22 | [Animales Fantásticos](http://twitter.com/search?q=Animales+Fant%c3%a1sticos) | N/A |
+| 23 | [Jong](http://twitter.com/search?q=Jong) | N/A |
 | 24 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
 | 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
-| 27 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 29 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 30 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 31 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 32 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
-| 33 | [#ElTronoVelado](http://twitter.com/search?q=%23ElTronoVelado) | N/A |
-| 34 | [#Gianmarco4A](http://twitter.com/search?q=%23Gianmarco4A) | N/A |
-| 35 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
-| 36 | [#AthleticOsasuna](http://twitter.com/search?q=%23AthleticOsasuna) | N/A |
-| 37 | [#YoMeRebelo4A](http://twitter.com/search?q=%23YoMeRebelo4A) | N/A |
-| 38 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 39 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 26 | [valverde](http://twitter.com/search?q=valverde) | N/A |
+| 27 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 28 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 29 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
+| 30 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
+| 31 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 32 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 33 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 34 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 35 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 36 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 37 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
+| 38 | [#CMaDesalia](http://twitter.com/search?q=%23CMaDesalia) | N/A |
+| 39 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
+| 40 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 41 | [#Gianmarco4A](http://twitter.com/search?q=%23Gianmarco4A) | N/A |
+| 42 | [#ElTronoVelado](http://twitter.com/search?q=%23ElTronoVelado) | N/A |
+| 43 | [#AthleticOsasuna](http://twitter.com/search?q=%23AthleticOsasuna) | N/A |
+| 44 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 45 | [#YoMeRebelo4A](http://twitter.com/search?q=%23YoMeRebelo4A) | N/A |
+| 46 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
 
 
 

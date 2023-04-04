@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-04-04 12:19:04 UTC`
+📆 Last Updated: `2023-04-04 13:20:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
 | 2 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
 | 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 4 | [Arraignment Day](http://twitter.com/search?q=Arraignment+Day) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 8 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 9 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 10 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 11 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
-| 12 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 13 | [National School Librarian Day](http://twitter.com/search?q=National+School+Librarian+Day) | N/A |
-| 14 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 4 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 5 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 10 | [#MorningJoe](http://twitter.com/search?q=%23MorningJoe) | N/A |
+| 11 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 12 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 13 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 14 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
 | 15 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [Dr. Martin Luther King Jr.](http://twitter.com/search?q=Dr.+Martin+Luther+King+Jr.) | Dr. Martin Luther King Jr. was an American civil rights leader who fought for racial equality and justice in the United States during the 1950s and 1960s. He is best known for his leadership of the civil rights movement, including his famous "I Have a Dream" speech, which helped to inspire millions of people around the world to fight for equality and justice. |
-| 18 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 19 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 20 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 23 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 24 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
-| 25 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
-| 26 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 27 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 28 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
-| 29 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
-| 30 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 31 | [Most Americans](http://twitter.com/search?q=Most+Americans) | N/A |
-| 32 | [Wallo](http://twitter.com/search?q=Wallo) | Wallo is a slang term used to express surprise or excitement. It is often used as an exclamation of joy or enthusiasm. In English, it can be translated to mean "Wow!" or "Oh my gosh!" |
-| 33 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 34 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 35 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 36 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 37 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 38 | [Budlight](http://twitter.com/search?q=Budlight) | N/A |
-| 39 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 40 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 41 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
-| 42 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 43 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 44 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
-| 45 | [Gotham City](http://twitter.com/search?q=Gotham+City) | N/A |
-| 46 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 47 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
-| 48 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 49 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 16 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 17 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 18 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 19 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 20 | [Jamie Dimon](http://twitter.com/search?q=Jamie+Dimon) | N/A |
+| 21 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 22 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
+| 23 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
+| 24 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
+| 25 | [Maya Angelou](http://twitter.com/search?q=Maya+Angelou) | N/A |
+| 26 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 27 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 28 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
+| 29 | [Tidal](http://twitter.com/search?q=Tidal) | N/A |
+| 30 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
+| 31 | [Calli](http://twitter.com/search?q=Calli) | N/A |
+| 32 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 33 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 34 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 35 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 36 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 37 | [Wallo](http://twitter.com/search?q=Wallo) | Wallo is a slang term used to express surprise or excitement. It is often used as an exclamation of joy or enthusiasm. In English, it can be translated to mean "Wow!" or "Oh my gosh!" |
+| 38 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 39 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 40 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 41 | [Ten Commandments](http://twitter.com/search?q=Ten+Commandments) | N/A |
+| 42 | [disgusted](http://twitter.com/search?q=disgusted) | N/A |
+| 43 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
+| 44 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 45 | [Most Americans](http://twitter.com/search?q=Most+Americans) | N/A |
+| 46 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 47 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 48 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
+| 49 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
 
 
 

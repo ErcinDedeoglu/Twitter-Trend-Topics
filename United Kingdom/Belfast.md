@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-04 12:18:21 UTC`
+📆 Last Updated: `2023-04-04 13:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 2 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 4 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 5 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 6 | [lawson](http://twitter.com/search?q=lawson) | N/A |
-| 7 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 9 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 11 | [Marc Riley](http://twitter.com/search?q=Marc+Riley) | N/A |
-| 12 | [#balance](http://twitter.com/search?q=%23balance) | N/A |
-| 13 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 14 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 15 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 16 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 17 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 18 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 19 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
-| 20 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 21 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 22 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 23 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 24 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 27 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 28 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 30 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 31 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 32 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
-| 33 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 34 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 35 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 36 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
-| 37 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 38 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 39 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 40 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
-| 41 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
-| 42 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 43 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 44 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
-| 45 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
-| 46 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 47 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 48 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 1 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 2 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
+| 3 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 5 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 6 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 7 | [#balance](http://twitter.com/search?q=%23balance) | N/A |
+| 8 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 9 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
+| 10 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 11 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 12 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 13 | [Marc Riley](http://twitter.com/search?q=Marc+Riley) | N/A |
+| 14 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 15 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 16 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 17 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 18 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 19 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 20 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 21 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 22 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 23 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 24 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 28 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 29 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 30 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 31 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
+| 32 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 34 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 35 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 36 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 37 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
+| 38 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 39 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 40 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 41 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 42 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 43 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
+| 44 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 45 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
+| 46 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
+| 47 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 48 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-04-04 12:18:28 UTC`
+📆 Last Updated: `2023-04-04 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 4 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
-| 5 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
-| 6 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
-| 7 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
-| 8 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
-| 9 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 10 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
-| 11 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 12 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 13 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 14 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 15 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
-| 16 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 17 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 18 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 19 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 3 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 4 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 5 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 6 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 7 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 8 | [#Inter114anos](http://twitter.com/search?q=%23Inter114anos) | N/A |
+| 9 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 11 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
+| 12 | [Merval](http://twitter.com/search?q=Merval) | N/A |
+| 13 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 14 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 15 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 16 | [Princesa Isabel](http://twitter.com/search?q=Princesa+Isabel) | N/A |
+| 17 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 18 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
+| 19 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
 | 20 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 21 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 22 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 23 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 26 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
-| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 28 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 29 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 30 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 31 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
-| 32 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 33 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 34 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
-| 35 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
-| 36 | [CADEIA PARA BOLSONARO](http://twitter.com/search?q=CADEIA+PARA+BOLSONARO) | N/A |
-| 37 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 38 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 39 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 40 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 41 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 42 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 43 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
-| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 47 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 48 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 49 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 21 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [Datafolha](http://twitter.com/search?q=Datafolha) | N/A |
+| 24 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 25 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
+| 26 | [Manoel Soares](http://twitter.com/search?q=Manoel+Soares) | N/A |
+| 27 | [Luiz Gama](http://twitter.com/search?q=Luiz+Gama) | N/A |
+| 28 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 29 | [Homem-Aranha](http://twitter.com/search?q=Homem-Aranha) | N/A |
+| 30 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
+| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 32 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 33 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
+| 34 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 35 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
+| 36 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
+| 37 | [betinho](http://twitter.com/search?q=betinho) | N/A |
+| 38 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 39 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 40 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 41 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 42 | [Gabrielly](http://twitter.com/search?q=Gabrielly) | N/A |
+| 43 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 44 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 45 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
+| 46 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 47 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 48 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
+| 49 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
 
 
 

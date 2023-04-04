@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-04 12:19:14 UTC`
+📆 Last Updated: `2023-04-04 13:20:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,25 +19,25 @@ This is top 50 for New Zealand
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 3 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
 | 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 5 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
-| 6 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
-| 7 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 8 | [Christchurch Call](http://twitter.com/search?q=Christchurch+Call) | N/A |
+| 5 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 6 | [Christchurch Call](http://twitter.com/search?q=Christchurch+Call) | N/A |
+| 7 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 8 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
 | 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
-| 11 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 12 | [Efeso Collins](http://twitter.com/search?q=Efeso+Collins) | N/A |
+| 10 | [newshub](http://twitter.com/search?q=newshub) | N/A |
+| 11 | [Efeso Collins](http://twitter.com/search?q=Efeso+Collins) | N/A |
+| 12 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
 | 13 | [Adult Human Female](http://twitter.com/search?q=Adult+Human+Female) | N/A |
-| 14 | [Max Key](http://twitter.com/search?q=Max+Key) | N/A |
+| 14 | [max key](http://twitter.com/search?q=max+key) | N/A |
 | 15 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
 | 16 | [kiri allan](http://twitter.com/search?q=kiri+allan) | N/A |
 | 17 | [Greg Fleming](http://twitter.com/search?q=Greg+Fleming) | N/A |
 | 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 19 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
-| 20 | [Rob Campbell](http://twitter.com/search?q=Rob+Campbell) | N/A |
-| 21 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 22 | [Gore](http://twitter.com/search?q=Gore) | N/A |
-| 23 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 20 | [rob campbell](http://twitter.com/search?q=rob+campbell) | N/A |
+| 21 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 22 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
+| 23 | [gore](http://twitter.com/search?q=gore) | N/A |
 | 24 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
 | 25 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
 | 26 | [Annie](http://twitter.com/search?q=Annie) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for New Zealand
 | 29 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 30 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
 | 31 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 34 | [rams](http://twitter.com/search?q=rams) | N/A |
-| 35 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 36 | [Family Court](http://twitter.com/search?q=Family+Court) | N/A |
-| 37 | [Awful](http://twitter.com/search?q=Awful) | N/A |
-| 38 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
-| 39 | [Mt Albert](http://twitter.com/search?q=Mt+Albert) | N/A |
-| 40 | [NZ PM](http://twitter.com/search?q=NZ+PM) | N/A |
-| 41 | [chippie](http://twitter.com/search?q=chippie) | N/A |
-| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 43 | [Lizzie](http://twitter.com/search?q=Lizzie) | N/A |
-| 44 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 45 | [Our PM](http://twitter.com/search?q=Our+PM) | N/A |
-| 46 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
-| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 48 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 49 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
-| 50 | [#readnz](http://twitter.com/search?q=%23readnz) | N/A |
+| 32 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 35 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 36 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 37 | [family court](http://twitter.com/search?q=family+court) | N/A |
+| 38 | [Awful](http://twitter.com/search?q=Awful) | N/A |
+| 39 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
+| 40 | [Mt Albert](http://twitter.com/search?q=Mt+Albert) | N/A |
+| 41 | [NZ PM](http://twitter.com/search?q=NZ+PM) | N/A |
+| 42 | [chippie](http://twitter.com/search?q=chippie) | N/A |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [Lizzie](http://twitter.com/search?q=Lizzie) | N/A |
+| 45 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 46 | [Our PM](http://twitter.com/search?q=Our+PM) | N/A |
+| 47 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 50 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
 
 
 

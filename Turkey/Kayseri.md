@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-04-04 12:18:59 UTC`
+📆 Last Updated: `2023-04-04 13:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dünyasokakhayvanlarıgünü](http://twitter.com/search?q=%23d%c3%bcnyasokakhayvanlar%c4%b1g%c3%bcn%c3%bc) | N/A |
-| 2 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
-| 3 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
-| 4 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 5 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
-| 6 | [Kemal Özdeş](http://twitter.com/search?q=Kemal+%c3%96zde%c5%9f) | N/A |
-| 7 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 8 | [MuhendisiDuy SnCumhurbaskanim](http://twitter.com/search?q=MuhendisiDuy+SnCumhurbaskanim) | N/A |
-| 9 | [Ayrıcalık](http://twitter.com/search?q=Ayr%c4%b1cal%c4%b1k) | N/A |
-| 10 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 11 | [İthalat](http://twitter.com/search?q=%c4%b0thalat) | İthalat is a Turkish word meaning "import". It is used to refer to the process of bringing goods or services into a country from another country. |
-| 12 | [Milliyetçi Hareket Partisi](http://twitter.com/search?q=Milliyet%c3%a7i+Hareket+Partisi) | N/A |
+| 1 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
+| 2 | [#DünyaSokakHayvanlarıGünü](http://twitter.com/search?q=%23D%c3%bcnyaSokakHayvanlar%c4%b1G%c3%bcn%c3%bc) | N/A |
+| 3 | [#HÜDAPARdanÇağrı](http://twitter.com/search?q=%23H%c3%9cDAPARdan%c3%87a%c4%9fr%c4%b1) | N/A |
+| 4 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
+| 5 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 6 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 7 | [Taksici](http://twitter.com/search?q=Taksici) | N/A |
+| 8 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 9 | [kemal özdeş](http://twitter.com/search?q=kemal+%c3%b6zde%c5%9f) | N/A |
+| 10 | [Ayrıcalık](http://twitter.com/search?q=Ayr%c4%b1cal%c4%b1k) | N/A |
+| 11 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 12 | [NATO'nun 31](http://twitter.com/search?q=NATO%27nun+31) | N/A |
 | 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [Fabrika](http://twitter.com/search?q=Fabrika) | N/A |
-| 15 | [Kız Kulesi](http://twitter.com/search?q=K%c4%b1z+Kulesi) | N/A |
-| 16 | [Sinan Akçıl](http://twitter.com/search?q=Sinan+Ak%c3%a7%c4%b1l) | N/A |
-| 17 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 18 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
-| 19 | [Dumlupınar](http://twitter.com/search?q=Dumlup%c4%b1nar) | N/A |
-| 20 | [VATAN SAĞOLSUN](http://twitter.com/search?q=VATAN+SA%c4%9eOLSUN) | N/A |
-| 21 | [Çanakkale Boğazı](http://twitter.com/search?q=%c3%87anakkale+Bo%c4%9faz%c4%b1) | N/A |
-| 22 | [Namus](http://twitter.com/search?q=Namus) | N/A |
-| 23 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
-| 24 | [Soldaki](http://twitter.com/search?q=Soldaki) | N/A |
-| 25 | [Model Y](http://twitter.com/search?q=Model+Y) | N/A |
-| 26 | [Çalmaz](http://twitter.com/search?q=%c3%87almaz) | N/A |
-| 27 | [Genel Başkanı](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1) | N/A |
-| 28 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
-| 29 | [Mekanın Cennet](http://twitter.com/search?q=Mekan%c4%b1n+Cennet) | N/A |
-| 30 | [Amerika'ya](http://twitter.com/search?q=Amerika%27ya) | N/A |
-| 31 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
-| 32 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
-| 33 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
-| 34 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
-| 35 | [Gündem](http://twitter.com/search?q=G%c3%bcndem) | N/A |
-| 36 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
-| 37 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
-| 38 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
-| 39 | [i̇hsan](http://twitter.com/search?q=i%cc%87hsan) | N/A |
-| 40 | [EmeklininUmudu Kılıçdaroğlu](http://twitter.com/search?q=EmeklininUmudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 41 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 42 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
-| 43 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
+| 14 | [İthalat](http://twitter.com/search?q=%c4%b0thalat) | İthalat is a Turkish word meaning "import". It is used to refer to the process of bringing goods or services into a country from another country. |
+| 15 | [Yusuf Turgut](http://twitter.com/search?q=Yusuf+Turgut) | N/A |
+| 16 | [İlham Aliyev](http://twitter.com/search?q=%c4%b0lham+Aliyev) | N/A |
+| 17 | [Annelerin](http://twitter.com/search?q=Annelerin) | N/A |
+| 18 | [Sezgin Kartal](http://twitter.com/search?q=Sezgin+Kartal) | N/A |
+| 19 | [MuhendisiDuy SnCumhurbaskanim](http://twitter.com/search?q=MuhendisiDuy+SnCumhurbaskanim) | N/A |
+| 20 | [Milliyetçi Hareket Partisi](http://twitter.com/search?q=Milliyet%c3%a7i+Hareket+Partisi) | N/A |
+| 21 | [Fabrika](http://twitter.com/search?q=Fabrika) | N/A |
+| 22 | [Süleyman Şah](http://twitter.com/search?q=S%c3%bcleyman+%c5%9eah) | N/A |
+| 23 | [vefatının 26](http://twitter.com/search?q=vefat%c4%b1n%c4%b1n+26) | N/A |
+| 24 | [Sinan Akçıl](http://twitter.com/search?q=Sinan+Ak%c3%a7%c4%b1l) | N/A |
+| 25 | [Kız Kulesi](http://twitter.com/search?q=K%c4%b1z+Kulesi) | N/A |
+| 26 | [Namus](http://twitter.com/search?q=Namus) | N/A |
+| 27 | [Vatan Sağolsun](http://twitter.com/search?q=Vatan+Sa%c4%9folsun) | N/A |
+| 28 | [NATO'ya](http://twitter.com/search?q=NATO%27ya) | N/A |
+| 29 | [Çanakkale Boğazı](http://twitter.com/search?q=%c3%87anakkale+Bo%c4%9faz%c4%b1) | N/A |
+| 30 | [Çalmaz](http://twitter.com/search?q=%c3%87almaz) | N/A |
+| 31 | [Soldaki](http://twitter.com/search?q=Soldaki) | N/A |
+| 32 | [Model Y](http://twitter.com/search?q=Model+Y) | N/A |
+| 33 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
+| 34 | [Amerika'ya](http://twitter.com/search?q=Amerika%27ya) | N/A |
+| 35 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
+| 36 | [genel başkanı](http://twitter.com/search?q=genel+ba%c5%9fkan%c4%b1) | N/A |
+| 37 | [Mekanın Cennet](http://twitter.com/search?q=Mekan%c4%b1n+Cennet) | N/A |
+| 38 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
+| 39 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 40 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 41 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
+| 42 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
+| 43 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
 | 44 | [#eksun](http://twitter.com/search?q=%23eksun) | N/A |
-| 45 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
-| 46 | [#gönültastamameytister](http://twitter.com/search?q=%23g%c3%b6n%c3%bcltastamameytister) | N/A |
-| 47 | [#Sahuroperayonu](http://twitter.com/search?q=%23Sahuroperayonu) | N/A |
+| 45 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
+| 46 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
+| 47 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
 
 
 
