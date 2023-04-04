@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-04 04:17:29 UTC`
+📆 Last Updated: `2023-04-04 05:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Afortunadamente](http://twitter.com/search?q=Afortunadamente) | N/A |
 | 2 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 3 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
-| 4 | [#AleGobernadora](http://twitter.com/search?q=%23AleGobernadora) | N/A |
-| 5 | [#UnirEsResolver](http://twitter.com/search?q=%23UnirEsResolver) | N/A |
-| 6 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 7 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 8 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 9 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 10 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 11 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 3 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 4 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
+| 5 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 6 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
+| 7 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 8 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 9 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 10 | [#JuegoPorExapoints](http://twitter.com/search?q=%23JuegoPorExapoints) | N/A |
+| 11 | [Madero](http://twitter.com/search?q=Madero) | N/A |
 | 12 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
-| 13 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 13 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
 | 14 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
-| 15 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
+| 15 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
 | 16 | [Violento](http://twitter.com/search?q=Violento) | N/A |
 | 17 | [Juanpa Zurita](http://twitter.com/search?q=Juanpa+Zurita) | N/A |
-| 18 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 20 | [Delia](http://twitter.com/search?q=Delia) | N/A |
-| 21 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 22 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 24 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 25 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 26 | [Caleta](http://twitter.com/search?q=Caleta) | N/A |
-| 27 | [1 TRAGO PA OLVIDARTE](http://twitter.com/search?q=1+TRAGO+PA+OLVIDARTE) | N/A |
-| 28 | [Leve](http://twitter.com/search?q=Leve) | N/A |
-| 29 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 30 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 31 | [1 TRAGO IS COMING](http://twitter.com/search?q=1+TRAGO+IS+COMING) | N/A |
-| 32 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
-| 33 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
-| 34 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 35 | [En Puebla](http://twitter.com/search?q=En+Puebla) | N/A |
-| 36 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
-| 37 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
-| 38 | [En CDMX](http://twitter.com/search?q=En+CDMX) | N/A |
-| 39 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 40 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
-| 41 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 42 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 43 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
-| 44 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 45 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 46 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
-| 47 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 48 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 49 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
-| 50 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 20 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 21 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 22 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
+| 23 | [Calixto](http://twitter.com/search?q=Calixto) | N/A |
+| 24 | [Columbia](http://twitter.com/search?q=Columbia) | N/A |
+| 25 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 26 | [Delia](http://twitter.com/search?q=Delia) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 29 | [1 TRAGO PA OLVIDARTE](http://twitter.com/search?q=1+TRAGO+PA+OLVIDARTE) | N/A |
+| 30 | [Caleta](http://twitter.com/search?q=Caleta) | N/A |
+| 31 | [Leve](http://twitter.com/search?q=Leve) | N/A |
+| 32 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 33 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 34 | [1 TRAGO IS COMING](http://twitter.com/search?q=1+TRAGO+IS+COMING) | N/A |
+| 35 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 36 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
+| 37 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 38 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
+| 39 | [En Puebla](http://twitter.com/search?q=En+Puebla) | N/A |
+| 40 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
+| 41 | [En CDMX](http://twitter.com/search?q=En+CDMX) | N/A |
+| 42 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 43 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 44 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 45 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
+| 46 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 48 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 49 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 50 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
 
 
 

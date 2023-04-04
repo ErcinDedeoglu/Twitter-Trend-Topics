@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-04 04:17:40 UTC`
+📆 Last Updated: `2023-04-04 05:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#Talus3](http://twitter.com/search?q=%23Talus3) | N/A |
 | 3 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
 | 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 5 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 5 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 6 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 7 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 9 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 10 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 11 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 12 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 14 | [Roller](http://twitter.com/search?q=Roller) | N/A |
-| 15 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 16 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 17 | [fahrerflucht](http://twitter.com/search?q=fahrerflucht) | N/A |
+| 7 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 8 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 9 | [Guten Morgen Andrea](http://twitter.com/search?q=Guten+Morgen+Andrea) | N/A |
+| 10 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 11 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 12 | [sebastian hoeneß](http://twitter.com/search?q=sebastian+hoene%c3%9f) | N/A |
+| 13 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 14 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 15 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 16 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 17 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
 | 18 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 19 | [Veganerin](http://twitter.com/search?q=Veganerin) | N/A |
-| 20 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 21 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 22 | [osterwoche](http://twitter.com/search?q=osterwoche) | N/A |
-| 23 | [Krisenmodus](http://twitter.com/search?q=Krisenmodus) | N/A |
-| 24 | [unfallflucht](http://twitter.com/search?q=unfallflucht) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
-| 27 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 19 | [kinderarmut](http://twitter.com/search?q=kinderarmut) | N/A |
+| 20 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 21 | [osterwoche](http://twitter.com/search?q=osterwoche) | N/A |
+| 22 | [krisenmodus](http://twitter.com/search?q=krisenmodus) | N/A |
+| 23 | [Roller](http://twitter.com/search?q=Roller) | N/A |
+| 24 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
+| 25 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 26 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
+| 27 | [Veganerin](http://twitter.com/search?q=Veganerin) | N/A |
 | 28 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 29 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 30 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 31 | [finnen](http://twitter.com/search?q=finnen) | N/A |
-| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 33 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 34 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 35 | [fakeaccount](http://twitter.com/search?q=fakeaccount) | N/A |
-| 36 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 37 | [franz alt](http://twitter.com/search?q=franz+alt) | N/A |
-| 38 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 40 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 41 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 42 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 43 | [Markenkern](http://twitter.com/search?q=Markenkern) | N/A |
-| 44 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
-| 45 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 46 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
-| 47 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 48 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 29 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
+| 30 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
+| 31 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 34 | [Xbox Ser](http://twitter.com/search?q=Xbox+Ser) | N/A |
+| 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 36 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 37 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 38 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 39 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 40 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 41 | [fakeaccount](http://twitter.com/search?q=fakeaccount) | N/A |
+| 42 | [franz alt](http://twitter.com/search?q=franz+alt) | N/A |
+| 43 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
+| 44 | [Unfallflucht](http://twitter.com/search?q=Unfallflucht) | N/A |
+| 45 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
+| 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 47 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 48 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-04 04:17:59 UTC`
+📆 Last Updated: `2023-04-04 05:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 7 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 8 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
-| 9 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
+| 8 | [boycott jdc](http://twitter.com/search?q=boycott+jdc) | N/A |
+| 9 | [boycott daraz](http://twitter.com/search?q=boycott+daraz) | N/A |
 | 10 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
 | 11 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
 | 12 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 13 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 14 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 13 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 15 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
-| 16 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 17 | [justice qazi faez isa](http://twitter.com/search?q=justice+qazi+faez+isa) | N/A |
-| 18 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 19 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
+| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 17 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 18 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
+| 21 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 22 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
 | 23 | [tom homecoming](http://twitter.com/search?q=tom+homecoming) | N/A |
 | 24 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 26 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
 | 27 | [FATHER ON TOP](http://twitter.com/search?q=FATHER+ON+TOP) | N/A |
-| 28 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 29 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 31 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 32 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 33 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
+| 28 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 29 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 32 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 33 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
 | 34 | [America](http://twitter.com/search?q=America) | N/A |
-| 35 | [Nawaz Shareef](http://twitter.com/search?q=Nawaz+Shareef) | N/A |
-| 36 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 37 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 38 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 39 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 40 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 41 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 42 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 43 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 44 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 45 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 46 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 49 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 35 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
+| 36 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 37 | [Pak Army](http://twitter.com/search?q=Pak+Army) | N/A |
+| 38 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 39 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 40 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 41 | [Mazay](http://twitter.com/search?q=Mazay) | N/A |
+| 42 | [Lols](http://twitter.com/search?q=Lols) | N/A |
+| 43 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 44 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
+| 45 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 46 | [Allah Pak](http://twitter.com/search?q=Allah+Pak) | N/A |
+| 47 | [Neend](http://twitter.com/search?q=Neend) | N/A |
+| 48 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 49 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 
 
 

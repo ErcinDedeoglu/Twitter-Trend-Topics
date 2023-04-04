@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-04 04:17:26 UTC`
+📆 Last Updated: `2023-04-04 05:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 2 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 4 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 5 | [Virgin Media](http://twitter.com/search?q=Virgin+Media) | N/A |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 8 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 3 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 5 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 6 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 7 | [Virgin Media](http://twitter.com/search?q=Virgin+Media) | N/A |
+| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 9 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 11 | [Dover](http://twitter.com/search?q=Dover) | N/A |
 | 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
@@ -36,33 +36,33 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 19 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 21 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 22 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 23 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 25 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 26 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 27 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 23 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 24 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 25 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 26 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
 | 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 30 | [Moana](http://twitter.com/search?q=Moana) | N/A |
 | 31 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
 | 32 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 33 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 34 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 35 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 33 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 34 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 35 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 36 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 38 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
 | 39 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 40 | [Garner](http://twitter.com/search?q=Garner) | N/A |
-| 41 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 42 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 41 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 42 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 | 43 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 44 | [olivia pratt](http://twitter.com/search?q=olivia+pratt) | N/A |
-| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 46 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 48 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 45 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 48 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
 
 
 

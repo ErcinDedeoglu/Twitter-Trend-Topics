@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-04-04 04:17:55 UTC`
+📆 Last Updated: `2023-04-04 05:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 3 | [#كادي_الخير](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%af%d9%8a_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 4 | [#ساهموا_بالخير_مع_كادي](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%87%d9%85%d9%88%d8%a7_%d8%a8%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%85%d8%b9_%d9%83%d8%a7%d8%af%d9%8a) | N/A |
 | 5 | [#مسابقه_طرق_الرياض13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b613) | N/A |
-| 6 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 7 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 8 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
+| 6 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
+| 7 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 8 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
 | 9 | [جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
 | 10 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
 | 11 | [وليد سعيد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 12 | [اخبار ميسي](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 13 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
-| 14 | [سيف السيف](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
-| 15 | [كادي الجريسي](http://twitter.com/search?q=%d9%83%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%b3%d9%8a) | N/A |
-| 16 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
+| 12 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
+| 13 | [اخبار ميسي](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 14 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
+| 15 | [سيف السيف](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
+| 16 | [كادي الجريسي](http://twitter.com/search?q=%d9%83%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%b3%d9%8a) | N/A |
 | 17 | [الملك سلمان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
 | 18 | [الحاله الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 19 | [الفيحاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | الفيحاء is a newspaper published in the United Arab Emirates. Its name translates to "The Phoenix" in English. |
 | 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 21 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 22 | [جنوب غرب السعوديه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%ba%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 23 | [ولي العهد الامير](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
-| 24 | [يعقوب بوشهري](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8+%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 25 | [وولي العهد](http://twitter.com/search?q=%d9%88%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 26 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 27 | [البنك الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 28 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 29 | [السومه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
-| 30 | [فؤاد انور](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%86%d9%88%d8%b1) | N/A |
-| 31 | [الصادق الامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 32 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 33 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
-| 34 | [الدوري القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 35 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 36 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 37 | [#مسابقه_المربع_نت13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa13) | N/A |
-| 38 | [#سوال_ابوفهد_اليومي6](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a6) | N/A |
-| 39 | [#الانماء_مع_عطر_الكلام4](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%85%d8%b9_%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%854) | N/A |
-| 40 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
-| 41 | [#عشان_علاج_بنته1](http://twitter.com/search?q=%23%d8%b9%d8%b4%d8%a7%d9%86_%d8%b9%d9%84%d8%a7%d8%ac_%d8%a8%d9%86%d8%aa%d9%871) | N/A |
-| 42 | [#مواساه](http://twitter.com/search?q=%23%d9%85%d9%88%d8%a7%d8%b3%d8%a7%d9%87) | N/A |
-| 43 | [#مراحل_يعقوب_بوشهري](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%8a%d8%b9%d9%82%d9%88%d8%a8_%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 44 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
-| 45 | [#الحاله_النفسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
+| 21 | [علي العلياني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 23 | [وولي العهد](http://twitter.com/search?q=%d9%88%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 24 | [ولي العهد الامير](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
+| 25 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 26 | [البنك الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 27 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 28 | [السومه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
+| 29 | [فؤاد انور](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%86%d9%88%d8%b1) | N/A |
+| 30 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 31 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
+| 32 | [#مسابقه_المربع_نت13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa13) | N/A |
+| 33 | [#سوال_ابوفهد_اليومي6](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a6) | N/A |
+| 34 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
+| 35 | [#الانماء_مع_عطر_الكلام4](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%85%d8%b9_%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%854) | N/A |
+| 36 | [#مع_فلاح](http://twitter.com/search?q=%23%d9%85%d8%b9_%d9%81%d9%84%d8%a7%d8%ad) | N/A |
+| 37 | [#عشان_علاج_بنته1](http://twitter.com/search?q=%23%d8%b9%d8%b4%d8%a7%d9%86_%d8%b9%d9%84%d8%a7%d8%ac_%d8%a8%d9%86%d8%aa%d9%871) | N/A |
+| 38 | [#مراحل_يعقوب_بوشهري](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%8a%d8%b9%d9%82%d9%88%d8%a8_%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 39 | [#صباح_الخير_والسعاده](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | #صباح_الخير_والسعاده is an Arabic phrase that translates to "Good morning and happiness". It is a common greeting used to wish someone a good morning and a happy day. |
+| 40 | [#مواساه](http://twitter.com/search?q=%23%d9%85%d9%88%d8%a7%d8%b3%d8%a7%d9%87) | N/A |
+| 41 | [#الحاله_النفسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
+| 42 | [#الروشن12](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8612) | N/A |
+| 43 | [#سعد_علوش_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%b9%d9%84%d9%88%d8%b4_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
+| 44 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
+| 45 | [#المربع_الاخير12](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b112) | N/A |
 | 46 | [#عادل_التويجري](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%ac%d8%b1%d9%8a) | N/A |
-| 47 | [#تحليل_الشخصيات](http://twitter.com/search?q=%23%d8%aa%d8%ad%d9%84%d9%8a%d9%84_%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa) | N/A |
-| 48 | [#المربع_الاخير12](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b112) | N/A |
-| 49 | [#الاول_بارك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%88%d9%84_%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 50 | [#سعد_علوش_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%b9%d9%84%d9%88%d8%b4_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
+| 47 | [#غرد_بذكر_الله](http://twitter.com/search?q=%23%d8%ba%d8%b1%d8%af_%d8%a8%d8%b0%d9%83%d8%b1_%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 48 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 49 | [#زد_رصيدك70](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8370) | N/A |
+| 50 | [#الاول_بارك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%88%d9%84_%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 
 
 

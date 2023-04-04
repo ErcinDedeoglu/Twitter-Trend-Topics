@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-04 04:18:12 UTC`
+📆 Last Updated: `2023-04-04 05:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BastaBaby](http://twitter.com/search?q=%23BastaBaby) | N/A |
-| 2 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
-| 3 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 4 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
-| 5 | [Baby Etchecopar](http://twitter.com/search?q=Baby+Etchecopar) | N/A |
-| 6 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 7 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 8 | [Farioli](http://twitter.com/search?q=Farioli) | N/A |
-| 9 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
-| 10 | [Artemio](http://twitter.com/search?q=Artemio) | N/A |
-| 11 | [Rena](http://twitter.com/search?q=Rena) | N/A |
-| 12 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
-| 13 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 14 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 15 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 16 | [Axel](http://twitter.com/search?q=Axel) | N/A |
-| 17 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 18 | [Arquímedes](http://twitter.com/search?q=Arqu%c3%admedes) | N/A |
-| 19 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 20 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 21 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 23 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 24 | [Colman](http://twitter.com/search?q=Colman) | N/A |
-| 25 | [Alberdi](http://twitter.com/search?q=Alberdi) | N/A |
-| 26 | [Farré](http://twitter.com/search?q=Farr%c3%a9) | N/A |
-| 27 | [Pagni](http://twitter.com/search?q=Pagni) | N/A |
-| 28 | [Amaya](http://twitter.com/search?q=Amaya) | N/A |
-| 29 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 30 | [Kodama](http://twitter.com/search?q=Kodama) | N/A |
-| 31 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
-| 32 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
-| 33 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 34 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 35 | [Burzaco](http://twitter.com/search?q=Burzaco) | N/A |
-| 36 | [Jara](http://twitter.com/search?q=Jara) | N/A |
-| 37 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 38 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
-| 39 | [Micaela](http://twitter.com/search?q=Micaela) | N/A |
-| 40 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
-| 41 | [Pitrola](http://twitter.com/search?q=Pitrola) | N/A |
-| 42 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
-| 43 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 44 | [Cagón](http://twitter.com/search?q=Cag%c3%b3n) | N/A |
-| 45 | [milo j](http://twitter.com/search?q=milo+j) | N/A |
-| 46 | [Duggan](http://twitter.com/search?q=Duggan) | Duggan is an Irish surname derived from the Gaelic name Ó Dubhagáin, which means "descendant of Dubhagán". The name Dubhagán is composed of two elements: dubh, meaning "black" or "dark", and gan, meaning "little one". |
-| 47 | [Viven](http://twitter.com/search?q=Viven) | N/A |
-| 48 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
-| 49 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 50 | [#ParoDeColectivos](http://twitter.com/search?q=%23ParoDeColectivos) | N/A |
+| 1 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 2 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 3 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 6 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
+| 7 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 8 | [#BastaBaby](http://twitter.com/search?q=%23BastaBaby) | N/A |
+| 9 | [#ParoDeColectivos](http://twitter.com/search?q=%23ParoDeColectivos) | N/A |
+| 10 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
+| 11 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 12 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
+| 13 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 14 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
+| 15 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
+| 16 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
+| 17 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
+| 18 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
+| 19 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 20 | [Rena](http://twitter.com/search?q=Rena) | N/A |
+| 21 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 23 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
+| 26 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
+| 27 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 28 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
+| 29 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 30 | [Baby Etchecopar](http://twitter.com/search?q=Baby+Etchecopar) | N/A |
+| 31 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 32 | [marcos en biri biri](http://twitter.com/search?q=marcos+en+biri+biri) | N/A |
+| 33 | [Churruca](http://twitter.com/search?q=Churruca) | N/A |
+| 34 | [General Paz](http://twitter.com/search?q=General+Paz) | N/A |
+| 35 | [el primo en twitch](http://twitter.com/search?q=el+primo+en+twitch) | N/A |
+| 36 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 37 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 38 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 39 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
+| 40 | [La UTA](http://twitter.com/search?q=La+UTA) | N/A |
+| 41 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 42 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 43 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 44 | [Magario](http://twitter.com/search?q=Magario) | N/A |
+| 45 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 46 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 47 | [Rambito](http://twitter.com/search?q=Rambito) | N/A |
+| 48 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
+| 49 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 50 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-04 04:18:10 UTC`
+📆 Last Updated: `2023-04-04 05:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 2 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 3 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
-| 4 | [Detmers](http://twitter.com/search?q=Detmers) | N/A |
-| 5 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 6 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 7 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 8 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 9 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 1 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 2 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 3 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 4 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 5 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 6 | [Detmers](http://twitter.com/search?q=Detmers) | N/A |
+| 7 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
+| 8 | [The Dodgers](http://twitter.com/search?q=The+Dodgers) | N/A |
+| 9 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 | 10 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
 | 11 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 12 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 13 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
-| 14 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 16 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 17 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 18 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 19 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 20 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 21 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 22 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
-| 23 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
-| 24 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 25 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 27 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 28 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 29 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 30 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 31 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 32 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 33 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 35 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 36 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 37 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 38 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 39 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 40 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 41 | [Newton](http://twitter.com/search?q=Newton) | N/A |
-| 42 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 43 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
-| 44 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 45 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
-| 46 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 47 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 13 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 14 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 15 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 16 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 19 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 20 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 21 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 22 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
+| 23 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 24 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 25 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 26 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
+| 27 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 28 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 29 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 30 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 31 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 32 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 34 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 35 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 36 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 38 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 39 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 40 | [Seth Brown](http://twitter.com/search?q=Seth+Brown) | N/A |
+| 41 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 42 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 43 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 44 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 45 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 46 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
+| 47 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
 | 48 | [David Dahl](http://twitter.com/search?q=David+Dahl) | N/A |
-| 49 | [Jim Nance](http://twitter.com/search?q=Jim+Nance) | N/A |
-| 50 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 49 | [Ha-Seong Kim](http://twitter.com/search?q=Ha-Seong+Kim) | N/A |
+| 50 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-04 04:17:37 UTC`
+📆 Last Updated: `2023-04-04 05:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
 | 2 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 3 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 3 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 4 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
 | 5 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
 | 6 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
@@ -32,21 +32,21 @@ This is top 50 for [Ireland](</Ireland>)
 | 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [peter mcverry](http://twitter.com/search?q=peter+mcverry) | N/A |
-| 19 | [Milk](http://twitter.com/search?q=Milk) | N/A |
-| 20 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 18 | [Peter McVerry](http://twitter.com/search?q=Peter+McVerry) | N/A |
+| 19 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 20 | [Milk](http://twitter.com/search?q=Milk) | N/A |
 | 21 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
 | 22 | [reape](http://twitter.com/search?q=reape) | N/A |
 | 23 | [Eoin](http://twitter.com/search?q=Eoin) | N/A |
-| 24 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 25 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 26 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 29 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 30 | [agsi](http://twitter.com/search?q=agsi) | N/A |
-| 31 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 32 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 24 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 25 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 28 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 29 | [agsi](http://twitter.com/search?q=agsi) | N/A |
+| 30 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 32 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 | 33 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
 | 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 35 | [simon harris](http://twitter.com/search?q=simon+harris) | N/A |
