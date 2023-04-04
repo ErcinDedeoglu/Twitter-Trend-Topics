@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-04-04 16:17:42 UTC`
+📆 Last Updated: `2023-04-04 17:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 6 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 7 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 10 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 11 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 12 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 13 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 15 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 16 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 17 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 18 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 19 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 20 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 21 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 22 | [Brian Hoyer](http://twitter.com/search?q=Brian+Hoyer) | N/A |
-| 23 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 24 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 26 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 27 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 30 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 31 | [Beaky](http://twitter.com/search?q=Beaky) | N/A |
-| 32 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 33 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 34 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 35 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 37 | [Welcome to New York](http://twitter.com/search?q=Welcome+to+New+York) | N/A |
-| 38 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 39 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 40 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
-| 41 | [JOLTS](http://twitter.com/search?q=JOLTS) | N/A |
-| 42 | [Florio](http://twitter.com/search?q=Florio) | N/A |
-| 43 | [Manhattan Criminal Court](http://twitter.com/search?q=Manhattan+Criminal+Court) | N/A |
-| 44 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
-| 45 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
-| 46 | [Welcome to NY](http://twitter.com/search?q=Welcome+to+NY) | N/A |
-| 47 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 48 | [Blacks for Trump](http://twitter.com/search?q=Blacks+for+Trump) | N/A |
-| 49 | [Kate McKinnon](http://twitter.com/search?q=Kate+McKinnon) | N/A |
+| 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 4 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 5 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 6 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 7 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 8 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 10 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 11 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 12 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 13 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 16 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 17 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 18 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 19 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 20 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 21 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 22 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 23 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 24 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 25 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 26 | [Trump to Jesus](http://twitter.com/search?q=Trump+to+Jesus) | N/A |
+| 27 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 28 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 29 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 30 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 32 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 33 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 34 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 35 | [Welcome to New York](http://twitter.com/search?q=Welcome+to+New+York) | N/A |
+| 36 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 37 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 38 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 39 | [Florio](http://twitter.com/search?q=Florio) | N/A |
+| 40 | [Blacks for Trump](http://twitter.com/search?q=Blacks+for+Trump) | N/A |
+| 41 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 42 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 43 | [Welcome to NYC](http://twitter.com/search?q=Welcome+to+NYC) | N/A |
+| 44 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 45 | [Whistles](http://twitter.com/search?q=Whistles) | N/A |
+| 46 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 47 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 48 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 49 | [Kens](http://twitter.com/search?q=Kens) | N/A |
 
 
 

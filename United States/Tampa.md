@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-04 16:17:43 UTC`
+📆 Last Updated: `2023-04-04 17:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 6 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 7 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 10 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 11 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 2 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 4 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
+| 5 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 6 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
+| 7 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 8 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 9 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
 | 12 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 13 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 14 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 15 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 16 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 17 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 18 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 19 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 20 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 21 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 23 | [Brian Hoyer](http://twitter.com/search?q=Brian+Hoyer) | N/A |
-| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 25 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 26 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 27 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 30 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 31 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 32 | [Beaky](http://twitter.com/search?q=Beaky) | N/A |
-| 33 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 34 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 35 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 36 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 37 | [Welcome to New York](http://twitter.com/search?q=Welcome+to+New+York) | N/A |
-| 38 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
-| 39 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 40 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 41 | [Florio](http://twitter.com/search?q=Florio) | N/A |
-| 42 | [JOLTS](http://twitter.com/search?q=JOLTS) | N/A |
-| 43 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 44 | [Manhattan Criminal Court](http://twitter.com/search?q=Manhattan+Criminal+Court) | N/A |
-| 45 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
-| 46 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
-| 47 | [Kate McKinnon](http://twitter.com/search?q=Kate+McKinnon) | N/A |
-| 48 | [Welcome to NY](http://twitter.com/search?q=Welcome+to+NY) | N/A |
-| 49 | [Blacks for Trump](http://twitter.com/search?q=Blacks+for+Trump) | N/A |
+| 13 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 16 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 18 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 19 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 22 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 23 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 24 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 26 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 27 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 28 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 29 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 30 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 31 | [Trump to Jesus](http://twitter.com/search?q=Trump+to+Jesus) | N/A |
+| 32 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 33 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 34 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 35 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 36 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 37 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 38 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 39 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 40 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 41 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 42 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 43 | [Florio](http://twitter.com/search?q=Florio) | N/A |
+| 44 | [Blacks for Trump](http://twitter.com/search?q=Blacks+for+Trump) | N/A |
+| 45 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 46 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 47 | [Whistles](http://twitter.com/search?q=Whistles) | N/A |
+| 48 | [Welcome to NYC](http://twitter.com/search?q=Welcome+to+NYC) | N/A |
+| 49 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
 
 
 

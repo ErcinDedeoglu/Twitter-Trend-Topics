@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-04 16:16:59 UTC`
+📆 Last Updated: `2023-04-04 17:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 5 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
-| 6 | [The EHRC](http://twitter.com/search?q=The+EHRC) | N/A |
-| 7 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 8 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 9 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 1 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 4 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 5 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
+| 6 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 7 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 8 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 9 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
 | 10 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
-| 11 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
-| 12 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 13 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 14 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 15 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 16 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 17 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
-| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 19 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 20 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 21 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
-| 22 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 23 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 24 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 25 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 26 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
-| 27 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 28 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 30 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 31 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
-| 32 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 33 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 34 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 35 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 36 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 38 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 39 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 40 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 41 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 42 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 43 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 44 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 11 | [Revels](http://twitter.com/search?q=Revels) | N/A |
+| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 13 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 14 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 16 | [Mines](http://twitter.com/search?q=Mines) | N/A |
+| 17 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
+| 18 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 21 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 22 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 23 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 24 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 25 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 26 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 27 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
+| 28 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
+| 29 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
+| 30 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 31 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 32 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 33 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 34 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 35 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 36 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 37 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
+| 38 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 41 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 42 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 44 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
 
 
 

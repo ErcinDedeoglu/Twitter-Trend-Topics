@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-04-04 16:17:32 UTC`
+📆 Last Updated: `2023-04-04 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 2 | [महावीर जयंती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 1 | [महावीर जयंती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 2 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
 | 3 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 4 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 5 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 6 | [#5RsSe5LakhOnVision11](http://twitter.com/search?q=%235RsSe5LakhOnVision11) | N/A |
-| 7 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 8 | [#AmericanPistachiosJugalbandi](http://twitter.com/search?q=%23AmericanPistachiosJugalbandi) | N/A |
-| 9 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 10 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
-| 13 | [Axar Patel](http://twitter.com/search?q=Axar+Patel) | N/A |
-| 14 | [Alzarri Joseph](http://twitter.com/search?q=Alzarri+Joseph) | N/A |
-| 15 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
-| 16 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
-| 17 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
-| 18 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 20 | [dasun shanaka](http://twitter.com/search?q=dasun+shanaka) | N/A |
-| 21 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
-| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 23 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 24 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 25 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 26 | [Nathu La](http://twitter.com/search?q=Nathu+La) | N/A |
-| 27 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 28 | [Sati](http://twitter.com/search?q=Sati) | N/A |
-| 29 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 30 | [समाचार मिला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%be%e0%a4%b0+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 31 | [Rooting](http://twitter.com/search?q=Rooting) | N/A |
-| 32 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 33 | [KOHLI APNE KUTTE SAMBHAL](http://twitter.com/search?q=KOHLI+APNE+KUTTE+SAMBHAL) | N/A |
-| 34 | [Congratulations Anna](http://twitter.com/search?q=Congratulations+Anna) | N/A |
-| 35 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 36 | [Maruti](http://twitter.com/search?q=Maruti) | N/A |
-| 37 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 4 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
+| 5 | [#BounceBackAnurag](http://twitter.com/search?q=%23BounceBackAnurag) | N/A |
+| 6 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
+| 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 10 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 11 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
+| 12 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 13 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
+| 14 | [Axar Patel](http://twitter.com/search?q=Axar+Patel) | N/A |
+| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 16 | [Nortje](http://twitter.com/search?q=Nortje) | N/A |
+| 17 | [Alzarri Joseph](http://twitter.com/search?q=Alzarri+Joseph) | N/A |
+| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 19 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
+| 20 | [Aaron F](http://twitter.com/search?q=Aaron+F) | N/A |
+| 21 | [Dasun Shanaka](http://twitter.com/search?q=Dasun+Shanaka) | Dasun Shanaka is a Sri Lankan cricketer who plays for the Sri Lankan national team. His name translates to "the sun of Shanaka" in English. |
+| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 23 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
+| 24 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
+| 25 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 26 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
+| 27 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 28 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 29 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
+| 30 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
+| 31 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 32 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 33 | [Prithvi Shaw](http://twitter.com/search?q=Prithvi+Shaw) | N/A |
+| 34 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
+| 35 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
+| 36 | [समाचार मिला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%be%e0%a4%b0+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 37 | [Suga](http://twitter.com/search?q=Suga) | N/A |
 | 38 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
-| 39 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 40 | [CBI Brand4Truth Or CagedParrot](http://twitter.com/search?q=CBI+Brand4Truth+Or+CagedParrot) | N/A |
-| 41 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
-| 42 | [गुरु बिन मोक्ष](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%ac%e0%a4%bf%e0%a4%a8+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 43 | [GIVE NAYAT A CHANCE](http://twitter.com/search?q=GIVE+NAYAT+A+CHANCE) | N/A |
-| 44 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [Rajput](http://twitter.com/search?q=Rajput) | N/A |
-| 47 | [Bhutan](http://twitter.com/search?q=Bhutan) | N/A |
-| 48 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 49 | [#RebuildMadarsaAzizia](http://twitter.com/search?q=%23RebuildMadarsaAzizia) | N/A |
-| 50 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
+| 39 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 40 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
+| 41 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 42 | [Rooting](http://twitter.com/search?q=Rooting) | N/A |
+| 43 | [Congratulations Anna](http://twitter.com/search?q=Congratulations+Anna) | N/A |
+| 44 | [Maruti](http://twitter.com/search?q=Maruti) | N/A |
+| 45 | [KOHLI APNE KUTTE SAMBHAL](http://twitter.com/search?q=KOHLI+APNE+KUTTE+SAMBHAL) | N/A |
+| 46 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 47 | [GIVE NAYAT A CHANCE](http://twitter.com/search?q=GIVE+NAYAT+A+CHANCE) | N/A |
+| 48 | [#RebuildMadarsaAzizia](http://twitter.com/search?q=%23RebuildMadarsaAzizia) | N/A |
+| 49 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 50 | [#5RsSe5LakhOnVision11](http://twitter.com/search?q=%235RsSe5LakhOnVision11) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-04 16:17:10 UTC`
+📆 Last Updated: `2023-04-04 17:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 2 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 3 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 4 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 5 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 7 | [#lovejoygdansk](http://twitter.com/search?q=%23lovejoygdansk) | N/A |
+| 3 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#lovejoygdansk](http://twitter.com/search?q=%23lovejoygdansk) | N/A |
+| 6 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
+| 7 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
 | 8 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 9 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
-| 10 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 10 | [Piekło](http://twitter.com/search?q=Piek%c5%82o) | N/A |
+| 11 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 12 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 13 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
 | 14 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
 | 15 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 16 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 19 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 20 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
-| 21 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
-| 22 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
-| 23 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 24 | [GKS Katowice](http://twitter.com/search?q=GKS+Katowice) | N/A |
-| 25 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 26 | [Jagiellonii](http://twitter.com/search?q=Jagiellonii) | N/A |
-| 27 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 28 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
-| 29 | [Jachira](http://twitter.com/search?q=Jachira) | N/A |
-| 30 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 31 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 32 | [racławicami](http://twitter.com/search?q=rac%c5%82awicami) | N/A |
-| 33 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 34 | [Szwajcaria](http://twitter.com/search?q=Szwajcaria) | N/A |
-| 35 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
-| 36 | [PKP Energetyka](http://twitter.com/search?q=PKP+Energetyka) | N/A |
-| 37 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 38 | [Stolarczyka](http://twitter.com/search?q=Stolarczyka) | N/A |
-| 39 | [frankowski](http://twitter.com/search?q=frankowski) | N/A |
-| 40 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 41 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
-| 42 | [odessę](http://twitter.com/search?q=odess%c4%99) | N/A |
-| 43 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 44 | [Hamburgu](http://twitter.com/search?q=Hamburgu) | N/A |
-| 45 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 16 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 17 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
+| 20 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 21 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 22 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 23 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 24 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 25 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 26 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
+| 27 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 28 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
+| 29 | [Euro 2025](http://twitter.com/search?q=Euro+2025) | N/A |
+| 30 | [Szwecja](http://twitter.com/search?q=Szwecja) | N/A |
+| 31 | [szwajcaria](http://twitter.com/search?q=szwajcaria) | N/A |
+| 32 | [raczkowski](http://twitter.com/search?q=raczkowski) | N/A |
+| 33 | [racławicami](http://twitter.com/search?q=rac%c5%82awicami) | N/A |
+| 34 | [mameda](http://twitter.com/search?q=mameda) | N/A |
+| 35 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 36 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 37 | [Stolarczyka](http://twitter.com/search?q=Stolarczyka) | N/A |
+| 38 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
+| 39 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 40 | [petersburgu](http://twitter.com/search?q=petersburgu) | N/A |
+| 41 | [PKP Energetyka](http://twitter.com/search?q=PKP+Energetyka) | N/A |
+| 42 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 43 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
+| 44 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
+| 45 | [jagi](http://twitter.com/search?q=jagi) | N/A |
 | 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 47 | [petersburgu](http://twitter.com/search?q=petersburgu) | N/A |
-| 48 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
+| 47 | [Donka](http://twitter.com/search?q=Donka) | N/A |
+| 48 | [Harry'ego Pottera](http://twitter.com/search?q=Harry%27ego+Pottera) | N/A |
+| 49 | [odessę](http://twitter.com/search?q=odess%c4%99) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-04-04 16:17:08 UTC`
+📆 Last Updated: `2023-04-04 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 2 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 3 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 4 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 5 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 6 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
-| 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 5 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 6 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 7 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 8 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 9 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 10 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 10 | [Massa](http://twitter.com/search?q=Massa) | N/A |
 | 11 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 12 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 13 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 14 | [André Henrique](http://twitter.com/search?q=Andr%c3%a9+Henrique) | N/A |
-| 15 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
-| 16 | [#Shopee44](http://twitter.com/search?q=%23Shopee44) | N/A |
-| 17 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 18 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 19 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 21 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
-| 22 | [Força Key](http://twitter.com/search?q=For%c3%a7a+Key) | N/A |
-| 23 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 24 | [Felipe Massa](http://twitter.com/search?q=Felipe+Massa) | N/A |
-| 25 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 26 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 27 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 28 | [Maior Jogador](http://twitter.com/search?q=Maior+Jogador) | N/A |
-| 29 | [Maior Craque](http://twitter.com/search?q=Maior+Craque) | N/A |
-| 30 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 31 | [Maior Partida](http://twitter.com/search?q=Maior+Partida) | N/A |
-| 32 | [ASSISTA NIKE AIR](http://twitter.com/search?q=ASSISTA+NIKE+AIR) | N/A |
-| 33 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 34 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
-| 35 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 36 | [Segovinha](http://twitter.com/search?q=Segovinha) | N/A |
-| 37 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
-| 38 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 39 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 40 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 41 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 42 | [Matías Segovia](http://twitter.com/search?q=Mat%c3%adas+Segovia) | N/A |
-| 43 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 44 | [Sharon Rooney](http://twitter.com/search?q=Sharon+Rooney) | N/A |
-| 45 | [Kate McKinnon](http://twitter.com/search?q=Kate+McKinnon) | N/A |
-| 46 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
-| 47 | [#inter114anos](http://twitter.com/search?q=%23inter114anos) | N/A |
-| 48 | [Supervia](http://twitter.com/search?q=Supervia) | N/A |
-| 49 | [HE'S JUST KEN](http://twitter.com/search?q=HE%27S+JUST+KEN) | N/A |
+| 12 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
+| 13 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 14 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
+| 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 16 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 17 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 18 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 19 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 20 | [André Henrique](http://twitter.com/search?q=Andr%c3%a9+Henrique) | N/A |
+| 21 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
+| 22 | [#Shopee44](http://twitter.com/search?q=%23Shopee44) | N/A |
+| 23 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 24 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 25 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
+| 26 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
+| 27 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 28 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
+| 29 | [#CLTINDER](http://twitter.com/search?q=%23CLTINDER) | N/A |
+| 30 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 31 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 32 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 33 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 34 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 35 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 36 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 37 | [Betano](http://twitter.com/search?q=Betano) | N/A |
+| 38 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 39 | [Força Key](http://twitter.com/search?q=For%c3%a7a+Key) | N/A |
+| 40 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 41 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
+| 42 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 43 | [Maior Jogador](http://twitter.com/search?q=Maior+Jogador) | N/A |
+| 44 | [Maior Craque](http://twitter.com/search?q=Maior+Craque) | N/A |
+| 45 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 46 | [Supervia](http://twitter.com/search?q=Supervia) | N/A |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [SHARON ROONEY](http://twitter.com/search?q=SHARON+ROONEY) | N/A |
+| 49 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
 
 
 

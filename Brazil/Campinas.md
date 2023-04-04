@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-04 16:17:08 UTC`
+📆 Last Updated: `2023-04-04 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 3 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 4 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 5 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 6 | [Ensino Médio](http://twitter.com/search?q=Ensino+M%c3%a9dio) | N/A |
-| 7 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
-| 8 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 11 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 12 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 13 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 14 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 1 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
+| 2 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 3 | [Datafolha](http://twitter.com/search?q=Datafolha) | N/A |
+| 4 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 5 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 6 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 9 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 10 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 13 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 15 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
-| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 16 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 17 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 18 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 19 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 21 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 22 | [André Henrique](http://twitter.com/search?q=Andr%c3%a9+Henrique) | N/A |
-| 23 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
-| 24 | [#Shopee44](http://twitter.com/search?q=%23Shopee44) | N/A |
-| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 26 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 28 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 29 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
-| 30 | [Força Key](http://twitter.com/search?q=For%c3%a7a+Key) | N/A |
-| 31 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 32 | [Felipe Massa](http://twitter.com/search?q=Felipe+Massa) | N/A |
-| 33 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 34 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 35 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 36 | [Maior Jogador](http://twitter.com/search?q=Maior+Jogador) | N/A |
-| 37 | [Maior Craque](http://twitter.com/search?q=Maior+Craque) | N/A |
-| 38 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 39 | [Maior Partida](http://twitter.com/search?q=Maior+Partida) | N/A |
-| 40 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
-| 41 | [ASSISTA NIKE AIR](http://twitter.com/search?q=ASSISTA+NIKE+AIR) | N/A |
-| 42 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 43 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 44 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 45 | [Segovinha](http://twitter.com/search?q=Segovinha) | N/A |
-| 46 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
-| 47 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 48 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 49 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 18 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 19 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
+| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 21 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 22 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 23 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 24 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 25 | [André Henrique](http://twitter.com/search?q=Andr%c3%a9+Henrique) | N/A |
+| 26 | [#Shopee44](http://twitter.com/search?q=%23Shopee44) | N/A |
+| 27 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
+| 28 | [Felipe Massa](http://twitter.com/search?q=Felipe+Massa) | N/A |
+| 29 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 30 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
+| 31 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 32 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 33 | [#CLTINDER](http://twitter.com/search?q=%23CLTINDER) | N/A |
+| 34 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 35 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 36 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
+| 37 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
+| 38 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 39 | [Maior Jogador](http://twitter.com/search?q=Maior+Jogador) | N/A |
+| 40 | [Força Key](http://twitter.com/search?q=For%c3%a7a+Key) | N/A |
+| 41 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 42 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 43 | [Betano](http://twitter.com/search?q=Betano) | N/A |
+| 44 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 45 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 46 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 47 | [Maior Craque](http://twitter.com/search?q=Maior+Craque) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
 
 
 

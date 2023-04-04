@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-04-04 16:17:43 UTC`
+📆 Last Updated: `2023-04-04 17:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 4 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 8 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 9 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 10 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 11 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 12 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 13 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 16 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 17 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 18 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 19 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 20 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 21 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 23 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 24 | [#404day](http://twitter.com/search?q=%23404day) | N/A |
-| 25 | [Brian Hoyer](http://twitter.com/search?q=Brian+Hoyer) | N/A |
-| 26 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 27 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 28 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 29 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 30 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 31 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 32 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 33 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 34 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 35 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 36 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 37 | [Beaky](http://twitter.com/search?q=Beaky) | N/A |
-| 38 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 39 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 40 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 41 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
-| 42 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 43 | [Florio](http://twitter.com/search?q=Florio) | N/A |
-| 44 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 45 | [Josh McDaniels](http://twitter.com/search?q=Josh+McDaniels) | Josh McDaniels is an American football coach who is currently the offensive coordinator for the New England Patriots of the National Football League (NFL). He has previously served as head coach of the Denver Broncos and offensive coordinator for the St. Louis Rams. |
+| 1 | [#AZGivesDay](http://twitter.com/search?q=%23AZGivesDay) | N/A |
+| 2 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 5 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 6 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 7 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 8 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 9 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 10 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 12 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 13 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 14 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 19 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 20 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 21 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 22 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 23 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 24 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 25 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 26 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 27 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 28 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 29 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 30 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 32 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 33 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 34 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 35 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 36 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 37 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 38 | [Florio](http://twitter.com/search?q=Florio) | N/A |
+| 39 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 40 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 41 | [Whistles](http://twitter.com/search?q=Whistles) | N/A |
+| 42 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 43 | [Welcome to NYC](http://twitter.com/search?q=Welcome+to+NYC) | N/A |
+| 44 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 45 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
 | 46 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 47 | [Welcome to NY](http://twitter.com/search?q=Welcome+to+NY) | N/A |
-| 48 | [Kate McKinnon](http://twitter.com/search?q=Kate+McKinnon) | N/A |
-| 49 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
-| 50 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
+| 47 | [Josh McDaniels](http://twitter.com/search?q=Josh+McDaniels) | Josh McDaniels is an American football coach who is currently the offensive coordinator for the New England Patriots of the National Football League (NFL). He has previously served as head coach of the Denver Broncos and offensive coordinator for the St. Louis Rams. |
+| 48 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 49 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 50 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-04-04 16:17:02 UTC`
+📆 Last Updated: `2023-04-04 17:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
+| 2 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [#KornoRelajado](http://twitter.com/search?q=%23KornoRelajado) | N/A |
-| 5 | [#CálmatePoderoso](http://twitter.com/search?q=%23C%c3%a1lmatePoderoso) | N/A |
-| 6 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 7 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 8 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 9 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 10 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 11 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 14 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 15 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 16 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 17 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 18 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 19 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 20 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 21 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 22 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
-| 23 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 24 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 27 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 28 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 29 | [Estado de México](http://twitter.com/search?q=Estado+de+M%c3%a9xico) | N/A |
-| 30 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 31 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 32 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 33 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
-| 34 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 35 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 36 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 37 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 38 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 40 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 41 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 42 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 43 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 44 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
-| 45 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 46 | [thankful for skz maniac tour](http://twitter.com/search?q=thankful+for+skz+maniac+tour) | N/A |
-| 47 | [3l patrón dorado](http://twitter.com/search?q=3l+patr%c3%b3n+dorado) | N/A |
-| 48 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 49 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 4 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 6 | [#CálmatePoderoso](http://twitter.com/search?q=%23C%c3%a1lmatePoderoso) | N/A |
+| 7 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 8 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 9 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 10 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 11 | [Nicolás Larcamón](http://twitter.com/search?q=Nicol%c3%a1s+Larcam%c3%b3n) | N/A |
+| 12 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 14 | [Fernando Ortiz](http://twitter.com/search?q=Fernando+Ortiz) | N/A |
+| 15 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 16 | [La Comisión Disciplinaria](http://twitter.com/search?q=La+Comisi%c3%b3n+Disciplinaria) | N/A |
+| 17 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 18 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 19 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 20 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 21 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 22 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 23 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 24 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 25 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 26 | [América vs León](http://twitter.com/search?q=Am%c3%a9rica+vs+Le%c3%b3n) | N/A |
+| 27 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 28 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
+| 29 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 30 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 31 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 32 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
+| 33 | [Santo](http://twitter.com/search?q=Santo) | N/A |
+| 34 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 35 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 36 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 37 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 38 | [#fentanilo](http://twitter.com/search?q=%23fentanilo) | N/A |
+| 39 | [#BTR4](http://twitter.com/search?q=%23BTR4) | N/A |
+| 40 | [#TipoDeCambio](http://twitter.com/search?q=%23TipoDeCambio) | N/A |
+| 41 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 42 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 43 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 44 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 45 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 46 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 47 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 48 | [#DelfinaGobernadora](http://twitter.com/search?q=%23DelfinaGobernadora) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-04 16:17:05 UTC`
+📆 Last Updated: `2023-04-04 17:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 3 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 4 | [Dillom](http://twitter.com/search?q=Dillom) | N/A |
-| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 6 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
-| 7 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 8 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 9 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 10 | [Poggi](http://twitter.com/search?q=Poggi) | N/A |
-| 11 | [carlos fuentealba](http://twitter.com/search?q=carlos+fuentealba) | N/A |
-| 12 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 13 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 14 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 15 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 16 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 17 | [Ley de Alquileres](http://twitter.com/search?q=Ley+de+Alquileres) | N/A |
+| 2 | [Dillom](http://twitter.com/search?q=Dillom) | N/A |
+| 3 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 4 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 5 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 6 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 7 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 8 | [Ley de Alquileres](http://twitter.com/search?q=Ley+de+Alquileres) | N/A |
+| 9 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
+| 10 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 11 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 12 | [Poggi](http://twitter.com/search?q=Poggi) | N/A |
+| 13 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 14 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 16 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 17 | [Carlos Fuentealba](http://twitter.com/search?q=Carlos+Fuentealba) | N/A |
 | 18 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 19 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 20 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 21 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 22 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 23 | [Maidana](http://twitter.com/search?q=Maidana) | Maidana is a Spanish surname derived from the Latin word "magdana", meaning "woman of Magdala". It is also a place name in Argentina, where it is derived from the indigenous language of the region. In English, Maidana can be translated to mean "woman of Magdala". |
-| 24 | [Tandil](http://twitter.com/search?q=Tandil) | N/A |
-| 25 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 26 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 27 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 28 | [Gustavo Munúa](http://twitter.com/search?q=Gustavo+Mun%c3%baa) | N/A |
-| 29 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 30 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 31 | [Kodama](http://twitter.com/search?q=Kodama) | N/A |
-| 32 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 19 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 20 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 21 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 22 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 23 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 24 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 25 | [#BTR4](http://twitter.com/search?q=%23BTR4) | N/A |
+| 26 | [Tandil](http://twitter.com/search?q=Tandil) | N/A |
+| 27 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 28 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
+| 29 | [Maidana](http://twitter.com/search?q=Maidana) | Maidana is a Spanish surname derived from the Latin word "magdana", meaning "woman of Magdala". It is also a place name in Argentina, where it is derived from the indigenous language of the region. In English, Maidana can be translated to mean "woman of Magdala". |
+| 30 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 31 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 32 | [Gustavo Munúa](http://twitter.com/search?q=Gustavo+Mun%c3%baa) | N/A |
 | 33 | [Albere](http://twitter.com/search?q=Albere) | N/A |
-| 34 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
-| 35 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 36 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 37 | [Rena](http://twitter.com/search?q=Rena) | N/A |
-| 38 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 39 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 40 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
-| 41 | [Burzaco](http://twitter.com/search?q=Burzaco) | N/A |
-| 42 | [Conurbano](http://twitter.com/search?q=Conurbano) | N/A |
-| 43 | [#BTR4](http://twitter.com/search?q=%23BTR4) | N/A |
-| 44 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 45 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
-| 46 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 34 | [Kodama](http://twitter.com/search?q=Kodama) | N/A |
+| 35 | [Rena](http://twitter.com/search?q=Rena) | N/A |
+| 36 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 37 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
+| 38 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 39 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 40 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 41 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 42 | [Pascuas](http://twitter.com/search?q=Pascuas) | N/A |
+| 43 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 44 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 45 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 46 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
 
 
 
