@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-04-04 00:28:38 UTC`
+📆 Last Updated: `2023-04-04 01:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 2 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 3 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 4 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 7 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 8 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 9 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 10 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 11 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 12 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 13 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 14 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 15 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 16 | [#Cancún](http://twitter.com/search?q=%23Canc%c3%ban) | N/A |
-| 17 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 18 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 19 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
-| 20 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 21 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 22 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 23 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 24 | [Adri](http://twitter.com/search?q=Adri) | N/A |
-| 25 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 26 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
-| 27 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
-| 28 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 29 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 30 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 33 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 34 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 35 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
-| 36 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
-| 37 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 38 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 39 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 40 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 41 | [Hernán Cristante](http://twitter.com/search?q=Hern%c3%a1n+Cristante) | N/A |
-| 42 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
-| 43 | [Genaro García Luna](http://twitter.com/search?q=Genaro+Garc%c3%ada+Luna) | N/A |
-| 44 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 45 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 46 | [Bodega Aurrera](http://twitter.com/search?q=Bodega+Aurrera) | N/A |
-| 47 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 48 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 49 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 1 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 2 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
+| 3 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 4 | [#OTSReComeback](http://twitter.com/search?q=%23OTSReComeback) | N/A |
+| 5 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
+| 6 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 7 | [#ControlDeDañosReparables](http://twitter.com/search?q=%23ControlDeDa%c3%b1osReparables) | N/A |
+| 8 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
+| 9 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 10 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 11 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 13 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 14 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 15 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 16 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 17 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 18 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 19 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 20 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
+| 21 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
+| 22 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 23 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
+| 24 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 25 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 26 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 27 | [Adri](http://twitter.com/search?q=Adri) | N/A |
+| 28 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 29 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
+| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 31 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 32 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 33 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
+| 34 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 35 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 36 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 37 | [Hernán Cristante](http://twitter.com/search?q=Hern%c3%a1n+Cristante) | N/A |
+| 38 | [Genaro García Luna](http://twitter.com/search?q=Genaro+Garc%c3%ada+Luna) | N/A |
+| 39 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 40 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 41 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 42 | [Bodega Aurrera](http://twitter.com/search?q=Bodega+Aurrera) | N/A |
+| 43 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 44 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 45 | [#Acapulco](http://twitter.com/search?q=%23Acapulco) | N/A |
+| 46 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
+| 47 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 48 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 49 | [#AleGobernadora](http://twitter.com/search?q=%23AleGobernadora) | N/A |
 
 
 

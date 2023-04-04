@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-04 00:29:38 UTC`
+📆 Last Updated: `2023-04-04 01:45:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for Belgium
 | 3 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
 | 4 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
 | 5 | [#kvmclu](http://twitter.com/search?q=%23kvmclu) | N/A |
-| 6 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
-| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 8 | [Jong Groen](http://twitter.com/search?q=Jong+Groen) | N/A |
+| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 7 | [Jong Groen](http://twitter.com/search?q=Jong+Groen) | N/A |
+| 8 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
 | 9 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 10 | [Wuyts](http://twitter.com/search?q=Wuyts) | N/A |
 | 11 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
@@ -37,24 +37,24 @@ This is top 50 for Belgium
 | 20 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 21 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 22 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 23 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
-| 24 | [spekken](http://twitter.com/search?q=spekken) | N/A |
-| 25 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
-| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 27 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 28 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
-| 29 | [ristou](http://twitter.com/search?q=ristou) | N/A |
-| 30 | [uTip](http://twitter.com/search?q=uTip) | N/A |
-| 31 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [spekken](http://twitter.com/search?q=spekken) | N/A |
+| 24 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
+| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 26 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 27 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
+| 28 | [ristou](http://twitter.com/search?q=ristou) | N/A |
+| 29 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 30 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 32 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
 | 33 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 34 | [Merlier](http://twitter.com/search?q=Merlier) | N/A |
+| 34 | [merlier](http://twitter.com/search?q=merlier) | N/A |
 | 35 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
 | 36 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 37 | [annelies verlinden](http://twitter.com/search?q=annelies+verlinden) | N/A |
 | 38 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
 | 39 | [beerschot](http://twitter.com/search?q=beerschot) | N/A |
-| 40 | [Écolo](http://twitter.com/search?q=%c3%89colo) | N/A |
+| 40 | [écolo](http://twitter.com/search?q=%c3%a9colo) | N/A |
 | 41 | [FARDC](http://twitter.com/search?q=FARDC) | N/A |
 | 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 43 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |

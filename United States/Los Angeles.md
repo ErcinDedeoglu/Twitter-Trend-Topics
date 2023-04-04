@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-04 00:29:30 UTC`
+📆 Last Updated: `2023-04-04 01:45:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 4 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 6 | [Arte](http://twitter.com/search?q=Arte) | N/A |
-| 7 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 8 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 9 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
-| 10 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 11 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 12 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 13 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 14 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [LA County](http://twitter.com/search?q=LA+County) | N/A |
-| 18 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 20 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 21 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 22 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 23 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 24 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 25 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
-| 26 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
-| 27 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 28 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 29 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 30 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 31 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
-| 32 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 33 | [Jason Delay](http://twitter.com/search?q=Jason+Delay) | N/A |
-| 34 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 35 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
-| 36 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 37 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 38 | [Jason Vosler](http://twitter.com/search?q=Jason+Vosler) | N/A |
-| 39 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 40 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 41 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 42 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 43 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
-| 44 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
-| 45 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 46 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
-| 47 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 48 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 49 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 50 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 1 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 2 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
+| 3 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 4 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 5 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 6 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
+| 7 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 8 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 9 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
+| 10 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 12 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 13 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 14 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 15 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 16 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 17 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 18 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 19 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
+| 20 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 23 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 25 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 26 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 28 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 29 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 30 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 31 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 32 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 33 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 34 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 35 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 36 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 37 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 38 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
+| 39 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
+| 40 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 42 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 43 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 44 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 45 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 47 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 48 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
+| 49 | [Josh Smith](http://twitter.com/search?q=Josh+Smith) | N/A |
+| 50 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
 
 
 

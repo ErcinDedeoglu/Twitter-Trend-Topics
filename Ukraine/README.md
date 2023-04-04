@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-04 00:29:46 UTC`
+📆 Last Updated: `2023-04-04 01:45:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,35 +22,35 @@ This is top 50 for Ukraine
 | 5 | [#ArbEgg](http://twitter.com/search?q=%23ArbEgg) | N/A |
 | 6 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
 | 7 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 8 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 9 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
-| 10 | [Tatarsky](http://twitter.com/search?q=Tatarsky) | N/A |
-| 11 | [Юридически](http://twitter.com/search?q=%d0%ae%d1%80%d0%b8%d0%b4%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8) | N/A |
-| 12 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
-| 13 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 8 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
+| 9 | [Tatarsky](http://twitter.com/search?q=Tatarsky) | N/A |
+| 10 | [Юридически](http://twitter.com/search?q=%d0%ae%d1%80%d0%b8%d0%b4%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8) | N/A |
+| 11 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
+| 12 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 13 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
 | 14 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 15 | [Сподіваюсь](http://twitter.com/search?q=%d0%a1%d0%bf%d0%be%d0%b4%d1%96%d0%b2%d0%b0%d1%8e%d1%81%d1%8c) | N/A |
-| 16 | [Yahidne](http://twitter.com/search?q=Yahidne) | N/A |
-| 17 | [XBYX](http://twitter.com/search?q=XBYX) | N/A |
-| 18 | [Яроша](http://twitter.com/search?q=%d0%af%d1%80%d0%be%d1%88%d0%b0) | N/A |
-| 19 | [Кобзона](http://twitter.com/search?q=%d0%9a%d0%be%d0%b1%d0%b7%d0%be%d0%bd%d0%b0) | N/A |
-| 20 | [Бахмуте](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
-| 21 | [сдох](http://twitter.com/search?q=%d1%81%d0%b4%d0%be%d1%85) | N/A |
-| 22 | [Melitopol](http://twitter.com/search?q=Melitopol) | N/A |
-| 23 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 24 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 15 | [Yahidne](http://twitter.com/search?q=Yahidne) | N/A |
+| 16 | [xbyx](http://twitter.com/search?q=xbyx) | N/A |
+| 17 | [яроша](http://twitter.com/search?q=%d1%8f%d1%80%d0%be%d1%88%d0%b0) | N/A |
+| 18 | [Кобзона](http://twitter.com/search?q=%d0%9a%d0%be%d0%b1%d0%b7%d0%be%d0%bd%d0%b0) | N/A |
+| 19 | [бахмуте](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
+| 20 | [сдох](http://twitter.com/search?q=%d1%81%d0%b4%d0%be%d1%85) | N/A |
+| 21 | [Melitopol](http://twitter.com/search?q=Melitopol) | N/A |
+| 22 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 23 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 25 | [максим фомин](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc+%d1%84%d0%be%d0%bc%d0%b8%d0%bd) | N/A |
 | 26 | [Вряд](http://twitter.com/search?q=%d0%92%d1%80%d1%8f%d0%b4) | N/A |
 | 27 | [оскар](http://twitter.com/search?q=%d0%be%d1%81%d0%ba%d0%b0%d1%80) | N/A |
 | 28 | [урааа](http://twitter.com/search?q=%d1%83%d1%80%d0%b0%d0%b0%d0%b0) | N/A |
 | 29 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 30 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
-| 31 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 32 | [Пригожину](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd%d1%83) | N/A |
-| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Одессе](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d0%b5) | N/A |
+| 31 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
+| 32 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
+| 33 | [пригожину](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd%d1%83) | N/A |
 | 34 | [Петербурге](http://twitter.com/search?q=%d0%9f%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
 | 35 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 36 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 36 | [хорошая](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
 | 37 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
 | 38 | [порядок](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba) | N/A |
 | 39 | [Sending](http://twitter.com/search?q=Sending) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-04-04 00:29:24 UTC`
+📆 Last Updated: `2023-04-04 01:45:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
 | 3 | [#4Nisan1997](http://twitter.com/search?q=%234Nisan1997) | N/A |
 | 4 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 5 | [Seyranlarİçin Susmadık](http://twitter.com/search?q=Seyranlar%c4%b0%c3%a7in+Susmad%c4%b1k) | N/A |
-| 6 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
-| 7 | [Bircan Yıldırım](http://twitter.com/search?q=Bircan+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 8 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
+| 5 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
+| 6 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 7 | [Seyranlarİçin Susmadık](http://twitter.com/search?q=Seyranlar%c4%b0%c3%a7in+Susmad%c4%b1k) | N/A |
+| 8 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
 | 9 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
 | 10 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
-| 11 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 12 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
-| 13 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 14 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
-| 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 11 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
+| 12 | [Bircan Yıldırım](http://twitter.com/search?q=Bircan+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 13 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 14 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
+| 15 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
 | 16 | [EmeklininUmudu Kılıçdaroğlu](http://twitter.com/search?q=EmeklininUmudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
 | 17 | [Yargı ÜçüncüSezon](http://twitter.com/search?q=Yarg%c4%b1+%c3%9c%c3%a7%c3%bcnc%c3%bcSezon) | N/A |
-| 18 | [Şaban Arslan](http://twitter.com/search?q=%c5%9eaban+Arslan) | N/A |
-| 19 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
-| 20 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
-| 21 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
-| 22 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
-| 23 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 18 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 20 | [BÜYÜK ALTAY](http://twitter.com/search?q=B%c3%9cY%c3%9cK+ALTAY) | N/A |
+| 21 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 22 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
+| 23 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
 | 24 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
 | 25 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
 | 26 | [Emekliler](http://twitter.com/search?q=Emekliler) | N/A |
-| 27 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
+| 27 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
 | 28 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 29 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
-| 30 | [Bilge Yılmaz](http://twitter.com/search?q=Bilge+Y%c4%b1lmaz) | N/A |
-| 31 | [Buse](http://twitter.com/search?q=Buse) | N/A |
-| 32 | [Emekliye](http://twitter.com/search?q=Emekliye) | N/A |
-| 33 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 34 | [Milyonlar AFBekliyor](http://twitter.com/search?q=Milyonlar+AFBekliyor) | N/A |
-| 35 | [Torpil](http://twitter.com/search?q=Torpil) | N/A |
-| 36 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
-| 37 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
-| 38 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
-| 39 | [#MalatyalılarGünü](http://twitter.com/search?q=%23Malatyal%c4%b1larG%c3%bcn%c3%bc) | N/A |
-| 40 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
-| 41 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
-| 42 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
-| 43 | [#KHKlarİptalEdilecek](http://twitter.com/search?q=%23KHKlar%c4%b0ptalEdilecek) | N/A |
-| 44 | [#LaleOrtaSporGecesineGel](http://twitter.com/search?q=%23LaleOrtaSporGecesineGel) | N/A |
-| 45 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 46 | [#OyumStaja](http://twitter.com/search?q=%23OyumStaja) | N/A |
-| 47 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
+| 29 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 30 | [Milyonlar AFBekliyor](http://twitter.com/search?q=Milyonlar+AFBekliyor) | N/A |
+| 31 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
+| 32 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
+| 33 | [#MalatyalılarGünü](http://twitter.com/search?q=%23Malatyal%c4%b1larG%c3%bcn%c3%bc) | N/A |
+| 34 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
+| 35 | [#OyumStaja](http://twitter.com/search?q=%23OyumStaja) | N/A |
+| 36 | [#LaleOrtaSporGecesineGel](http://twitter.com/search?q=%23LaleOrtaSporGecesineGel) | N/A |
+| 37 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
+| 38 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 39 | [#KHKlarİptalEdilecek](http://twitter.com/search?q=%23KHKlar%c4%b0ptalEdilecek) | N/A |
+| 40 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
+| 41 | [#AliBabacan](http://twitter.com/search?q=%23AliBabacan) | N/A |
+| 42 | [#mandalradyo](http://twitter.com/search?q=%23mandalradyo) | N/A |
+| 43 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
+| 44 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
+| 45 | [#Madde46YarımKaldı](http://twitter.com/search?q=%23Madde46Yar%c4%b1mKald%c4%b1) | N/A |
+| 46 | [#ChpBilalBozgeyik](http://twitter.com/search?q=%23ChpBilalBozgeyik) | N/A |
+| 47 | [#ÇalışanTürkiyeninSesi](http://twitter.com/search?q=%23%c3%87al%c4%b1%c5%9fanT%c3%bcrkiyeninSesi) | N/A |
 
 
 

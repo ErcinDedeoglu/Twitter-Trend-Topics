@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-04 00:29:37 UTC`
+📆 Last Updated: `2023-04-04 01:45:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for Austria
 | 4 | [Finnland](http://twitter.com/search?q=Finnland) | N/A |
 | 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 6 | [#stuscr](http://twitter.com/search?q=%23stuscr) | N/A |
-| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 8 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 9 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 10 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 7 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 8 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 9 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 11 | [drogenproblem](http://twitter.com/search?q=drogenproblem) | N/A |
 | 12 | [lercher](http://twitter.com/search?q=lercher) | N/A |
 | 13 | [Hühner](http://twitter.com/search?q=H%c3%bchner) | N/A |
@@ -34,10 +34,10 @@ This is top 50 for Austria
 | 17 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 18 | [barbara blaha](http://twitter.com/search?q=barbara+blaha) | N/A |
 | 19 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 20 | [brote](http://twitter.com/search?q=brote) | N/A |
+| 20 | [Brote](http://twitter.com/search?q=Brote) | N/A |
 | 21 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
 | 22 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
-| 23 | [Preiselbeeren](http://twitter.com/search?q=Preiselbeeren) | N/A |
+| 23 | [preiselbeeren](http://twitter.com/search?q=preiselbeeren) | N/A |
 | 24 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
 | 25 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
 | 26 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Austria
 | 31 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
 | 32 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
 | 33 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
-| 34 | [Gesetzen](http://twitter.com/search?q=Gesetzen) | N/A |
-| 35 | [gockel](http://twitter.com/search?q=gockel) | N/A |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
-| 38 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
-| 39 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 40 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
-| 41 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 42 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 43 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 44 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 45 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 46 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
-| 47 | [Zusammenhänge](http://twitter.com/search?q=Zusammenh%c3%a4nge) | N/A |
-| 48 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 49 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
-| 50 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 34 | [gesetzen](http://twitter.com/search?q=gesetzen) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [gockel](http://twitter.com/search?q=gockel) | N/A |
+| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 38 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
+| 39 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
+| 40 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 41 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
+| 42 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 43 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 44 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
+| 45 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 46 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 47 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
+| 48 | [Zusammenhänge](http://twitter.com/search?q=Zusammenh%c3%a4nge) | N/A |
+| 49 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 50 | [Blender](http://twitter.com/search?q=Blender) | N/A |
 
 
 

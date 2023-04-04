@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-04-04 00:28:48 UTC`
+📆 Last Updated: `2023-04-04 01:44:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 2 | [#BroncaYDolor](http://twitter.com/search?q=%23BroncaYDolor) | N/A |
-| 3 | [#ParoDeColectivos](http://twitter.com/search?q=%23ParoDeColectivos) | N/A |
-| 4 | [Axel](http://twitter.com/search?q=Axel) | N/A |
-| 5 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 2 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
+| 3 | [#BroncaYDolor](http://twitter.com/search?q=%23BroncaYDolor) | N/A |
+| 4 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 5 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
 | 6 | [Artemio](http://twitter.com/search?q=Artemio) | N/A |
-| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 8 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 9 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
-| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 11 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
-| 12 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
-| 13 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
-| 14 | [Marianela Mirra](http://twitter.com/search?q=Marianela+Mirra) | N/A |
-| 15 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
-| 16 | [Kodama](http://twitter.com/search?q=Kodama) | N/A |
-| 17 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
-| 18 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 19 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
-| 20 | [Pitrola](http://twitter.com/search?q=Pitrola) | N/A |
-| 21 | [#Belgrano](http://twitter.com/search?q=%23Belgrano) | N/A |
-| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 23 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 24 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 25 | [Burzaco](http://twitter.com/search?q=Burzaco) | N/A |
-| 26 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
-| 27 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 28 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 29 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 30 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 31 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 32 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
-| 33 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
-| 34 | [Polino](http://twitter.com/search?q=Polino) | N/A |
-| 35 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 36 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 37 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 38 | [Puerto Madero](http://twitter.com/search?q=Puerto+Madero) | N/A |
-| 39 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 41 | [La UTA](http://twitter.com/search?q=La+UTA) | N/A |
-| 42 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 43 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 44 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 45 | [Provincia](http://twitter.com/search?q=Provincia) | N/A |
-| 46 | [Magario](http://twitter.com/search?q=Magario) | N/A |
-| 47 | [Cagon](http://twitter.com/search?q=Cagon) | N/A |
-| 48 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
-| 49 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
-| 50 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 7 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 8 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 9 | [#ParoDeColectivos](http://twitter.com/search?q=%23ParoDeColectivos) | N/A |
+| 10 | [#Belgrano](http://twitter.com/search?q=%23Belgrano) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 13 | [Colman](http://twitter.com/search?q=Colman) | N/A |
+| 14 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 15 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
+| 16 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 17 | [Amaya](http://twitter.com/search?q=Amaya) | N/A |
+| 18 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
+| 19 | [Burzaco](http://twitter.com/search?q=Burzaco) | N/A |
+| 20 | [Anselmo](http://twitter.com/search?q=Anselmo) | N/A |
+| 21 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 22 | [Marianela Mirra](http://twitter.com/search?q=Marianela+Mirra) | N/A |
+| 23 | [Kodama](http://twitter.com/search?q=Kodama) | N/A |
+| 24 | [Pitrola](http://twitter.com/search?q=Pitrola) | N/A |
+| 25 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
+| 26 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 27 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 28 | [Alberdi](http://twitter.com/search?q=Alberdi) | N/A |
+| 29 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
+| 30 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
+| 31 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 32 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 33 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 34 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 35 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 36 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 37 | [Puerto Madero](http://twitter.com/search?q=Puerto+Madero) | N/A |
+| 38 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
+| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 40 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 41 | [Duggan](http://twitter.com/search?q=Duggan) | Duggan is an Irish surname derived from the Gaelic name Ó Dubhagáin, which means "descendant of Dubhagán". The name Dubhagán is composed of two elements: dubh, meaning "black" or "dark", and gan, meaning "little one". |
+| 42 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
+| 43 | [Polino](http://twitter.com/search?q=Polino) | N/A |
+| 44 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 45 | [HDRMP](http://twitter.com/search?q=HDRMP) | N/A |
+| 46 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 47 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 48 | [Cagón](http://twitter.com/search?q=Cag%c3%b3n) | N/A |
+| 49 | [Filmus](http://twitter.com/search?q=Filmus) | N/A |
+| 50 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
 
 
 

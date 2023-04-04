@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-04 00:29:35 UTC`
+📆 Last Updated: `2023-04-04 01:45:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 2 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
+| 1 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
+| 2 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 3 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 5 | [#rawaftermania](http://twitter.com/search?q=%23rawaftermania) | N/A |
-| 6 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 8 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 9 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 10 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 11 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
-| 12 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
-| 13 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
-| 14 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 15 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 16 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 17 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 18 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 19 | [#IfIHadAllTheMoneyId](http://twitter.com/search?q=%23IfIHadAllTheMoneyId) | N/A |
-| 20 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 21 | [Jason Delay](http://twitter.com/search?q=Jason+Delay) | N/A |
-| 22 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 23 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 24 | [Jason Vosler](http://twitter.com/search?q=Jason+Vosler) | N/A |
-| 25 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 26 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
-| 27 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
-| 28 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 29 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 30 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 31 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 32 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
-| 33 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 34 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 35 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
-| 36 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 37 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 38 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 39 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 40 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
-| 41 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 42 | [The Red Sox](http://twitter.com/search?q=The+Red+Sox) | N/A |
-| 43 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
-| 44 | [ERYN](http://twitter.com/search?q=ERYN) | N/A |
-| 45 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 46 | [Casas](http://twitter.com/search?q=Casas) | N/A |
-| 47 | [Overton](http://twitter.com/search?q=Overton) | N/A |
-| 48 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 49 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
-| 50 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 9 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 10 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 12 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 13 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 14 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 15 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 16 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 17 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 18 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 21 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 22 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 23 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 24 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 25 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 26 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
+| 27 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
+| 28 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 29 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 30 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 31 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 32 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 33 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 34 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 35 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 36 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
+| 37 | [Josh Smith](http://twitter.com/search?q=Josh+Smith) | N/A |
+| 38 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 39 | [Track 8](http://twitter.com/search?q=Track+8) | N/A |
+| 40 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
+| 41 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 42 | [Nick Anderson](http://twitter.com/search?q=Nick+Anderson) | N/A |
+| 43 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 44 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 45 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 46 | [Bradish](http://twitter.com/search?q=Bradish) | N/A |
+| 47 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
+| 48 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 49 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 50 | [Elias](http://twitter.com/search?q=Elias) | N/A |
 
 
 

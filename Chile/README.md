@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-04 00:29:38 UTC`
+📆 Last Updated: `2023-04-04 01:45:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sub17PorTVN](http://twitter.com/search?q=%23Sub17PorTVN) | N/A |
+| 1 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
 | 2 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 3 | [Karina Oliva](http://twitter.com/search?q=Karina+Oliva) | N/A |
-| 4 | [#WrestlemaniaCL](http://twitter.com/search?q=%23WrestlemaniaCL) | N/A |
-| 5 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 6 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 3 | [#WrestlemaniaCL](http://twitter.com/search?q=%23WrestlemaniaCL) | N/A |
+| 4 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 5 | [#Sub17PorTVN](http://twitter.com/search?q=%23Sub17PorTVN) | N/A |
+| 6 | [Karina Oliva](http://twitter.com/search?q=Karina+Oliva) | N/A |
 | 7 | [#LeyNainRetamalAhora](http://twitter.com/search?q=%23LeyNainRetamalAhora) | N/A |
-| 8 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
-| 9 | [#QueDiceChile](http://twitter.com/search?q=%23QueDiceChile) | N/A |
-| 10 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 11 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 8 | [#QueDiceChile](http://twitter.com/search?q=%23QueDiceChile) | N/A |
+| 9 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 10 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 11 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [Caputto](http://twitter.com/search?q=Caputto) | N/A |
-| 14 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
-| 15 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 16 | [Veto](http://twitter.com/search?q=Veto) | N/A |
-| 17 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
-| 18 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 19 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 20 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
-| 21 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 13 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
+| 14 | [Tohá](http://twitter.com/search?q=Toh%c3%a1) | N/A |
+| 15 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
+| 16 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
+| 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 18 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 19 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 20 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 21 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 22 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 23 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 25 | [Memorial](http://twitter.com/search?q=Memorial) | N/A |
-| 26 | [Nuñez](http://twitter.com/search?q=Nu%c3%b1ez) | N/A |
-| 27 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 28 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 29 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 23 | [Memorial](http://twitter.com/search?q=Memorial) | N/A |
+| 24 | [Nuñez](http://twitter.com/search?q=Nu%c3%b1ez) | N/A |
+| 25 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 26 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 27 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 28 | [Caputto](http://twitter.com/search?q=Caputto) | N/A |
+| 29 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 30 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 31 | [Tohá](http://twitter.com/search?q=Toh%c3%a1) | N/A |
-| 32 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 33 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 34 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 31 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 32 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 33 | [Pataleta](http://twitter.com/search?q=Pataleta) | N/A |
+| 34 | [Anita](http://twitter.com/search?q=Anita) | N/A |
 | 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 36 | [Allende](http://twitter.com/search?q=Allende) | N/A |
-| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 38 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 39 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 40 | [Adri](http://twitter.com/search?q=Adri) | N/A |
-| 41 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 42 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
+| 36 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 37 | [Allende](http://twitter.com/search?q=Allende) | N/A |
+| 38 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 39 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 40 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 41 | [Devuelve](http://twitter.com/search?q=Devuelve) | N/A |
+| 42 | [Mónica Rincón](http://twitter.com/search?q=M%c3%b3nica+Rinc%c3%b3n) | N/A |
 | 43 | [Pronunciamiento Militar](http://twitter.com/search?q=Pronunciamiento+Militar) | N/A |
-| 44 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 45 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 46 | [Maniac Tour](http://twitter.com/search?q=Maniac+Tour) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [Mónica Rincón](http://twitter.com/search?q=M%c3%b3nica+Rinc%c3%b3n) | N/A |
-| 49 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 50 | [Comunes](http://twitter.com/search?q=Comunes) | N/A |
+| 44 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
+| 45 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
+| 46 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 47 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
+| 48 | [Santa Laura](http://twitter.com/search?q=Santa+Laura) | Santa Laura is a traditional Chilean folk song that tells the story of a young girl who falls in love with a soldier. The song's title refers to the name of the girl, Santa Laura. In English, the title translates to "Saint Laura". |
+| 49 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 50 | [Felipe Kast](http://twitter.com/search?q=Felipe+Kast) | N/A |
 
 
 

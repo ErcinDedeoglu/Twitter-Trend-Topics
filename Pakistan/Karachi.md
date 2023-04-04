@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-04 00:29:19 UTC`
+📆 Last Updated: `2023-04-04 01:44:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 8 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 9 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
-| 10 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
+| 9 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
+| 10 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
 | 11 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
 | 12 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
 | 13 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 14 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 15 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 16 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
+| 16 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 17 | [Justice Qazi Faez Isa](http://twitter.com/search?q=Justice+Qazi+Faez+Isa) | N/A |
-| 18 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 19 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 20 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
-| 21 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 18 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 19 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 20 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [Save the Constitution](http://twitter.com/search?q=Save+the+Constitution) | N/A |
+| 23 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
 | 24 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
 | 25 | [Tom Homecoming](http://twitter.com/search?q=Tom+Homecoming) | N/A |
-| 26 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 27 | [Navy](http://twitter.com/search?q=Navy) | N/A |
-| 28 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 30 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
-| 31 | [Khanstitution](http://twitter.com/search?q=Khanstitution) | N/A |
-| 32 | [nazia hassan](http://twitter.com/search?q=nazia+hassan) | N/A |
-| 33 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 34 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 35 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 36 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 37 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 40 | [Haina](http://twitter.com/search?q=Haina) | N/A |
-| 41 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 43 | [Shia](http://twitter.com/search?q=Shia) | N/A |
-| 44 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 45 | [Chal](http://twitter.com/search?q=Chal) | N/A |
-| 46 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
-| 47 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 48 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
-| 49 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 50 | [Afridi](http://twitter.com/search?q=Afridi) | N/A |
+| 26 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 27 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
+| 28 | [Khanstitution](http://twitter.com/search?q=Khanstitution) | N/A |
+| 29 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 30 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 31 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 32 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 33 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 34 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 35 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 36 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 39 | [Shia](http://twitter.com/search?q=Shia) | N/A |
+| 40 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 41 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 42 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
+| 43 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 44 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 45 | [Haww](http://twitter.com/search?q=Haww) | N/A |
+| 46 | [Afridi](http://twitter.com/search?q=Afridi) | N/A |
+| 47 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 48 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
+| 49 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
+| 50 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
 
 
 

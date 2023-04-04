@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-04 00:28:58 UTC`
+📆 Last Updated: `2023-04-04 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 7 | [cēsīs](http://twitter.com/search?q=c%c4%93s%c4%abs) | N/A |
 | 8 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | N/A |
 | 9 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 10 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
+| 10 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
 | 11 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
 | 12 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
 | 13 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 21 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 22 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 23 | [tajā](http://twitter.com/search?q=taj%c4%81) | N/A |
-| 24 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
+| 24 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
 | 25 | [nevar](http://twitter.com/search?q=nevar) | N/A |
 | 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 27 | [daugavā](http://twitter.com/search?q=daugav%c4%81) | N/A |
@@ -50,13 +50,13 @@ This is top 50 for [Latvia](</Latvia>)
 | 33 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 34 | [tīri](http://twitter.com/search?q=t%c4%abri) | N/A |
 | 35 | [#StayBlessed](http://twitter.com/search?q=%23StayBlessed) | N/A |
-| 36 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 36 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
 | 37 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 38 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
 | 39 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 40 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
 | 41 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
-| 42 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
+| 42 | [parasti](http://twitter.com/search?q=parasti) | N/A |
 | 43 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 
 

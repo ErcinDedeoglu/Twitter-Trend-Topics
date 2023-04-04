@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-04 00:29:38 UTC`
+📆 Last Updated: `2023-04-04 01:45:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 2 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 2 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
 | 3 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 4 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 5 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 6 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 7 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 8 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 9 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 10 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 11 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 12 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
-| 13 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
+| 4 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 5 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 6 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 7 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 8 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 9 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 10 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
+| 11 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 12 | [Léo Silva](http://twitter.com/search?q=L%c3%a9o+Silva) | N/A |
+| 13 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 14 | [ÁLBUM DA IZA](http://twitter.com/search?q=%c3%81LBUM+DA+IZA) | N/A |
-| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [NAIARA NO TVZ POCAH](http://twitter.com/search?q=NAIARA+NO+TVZ+POCAH) | N/A |
-| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [Cabelinho](http://twitter.com/search?q=Cabelinho) | N/A |
-| 19 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 20 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 21 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 22 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
-| 23 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 24 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 25 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 26 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 27 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
-| 28 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 29 | [Ardiis](http://twitter.com/search?q=Ardiis) | N/A |
-| 30 | [#AmparemAposentados](http://twitter.com/search?q=%23AmparemAposentados) | N/A |
-| 31 | [Balerion](http://twitter.com/search?q=Balerion) | N/A |
-| 32 | [#CidadeAlertaRJ](http://twitter.com/search?q=%23CidadeAlertaRJ) | N/A |
-| 33 | [Parabéns Divino](http://twitter.com/search?q=Parab%c3%a9ns+Divino) | N/A |
-| 34 | [Polinésia](http://twitter.com/search?q=Polin%c3%a9sia) | N/A |
-| 35 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
-| 36 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
-| 37 | [Babal](http://twitter.com/search?q=Babal) | Babal is a Yoruba word meaning “father” or “ancestor”. It is used as a term of respect and reverence for an elder or ancestor. |
-| 38 | [Bruna Marquezine](http://twitter.com/search?q=Bruna+Marquezine) | N/A |
-| 39 | [Targaryen](http://twitter.com/search?q=Targaryen) | N/A |
-| 40 | [Tidal](http://twitter.com/search?q=Tidal) | N/A |
-| 41 | [caterina](http://twitter.com/search?q=caterina) | N/A |
-| 42 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
-| 43 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
-| 44 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
-| 45 | [Visenya](http://twitter.com/search?q=Visenya) | N/A |
-| 46 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 47 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 48 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 49 | [O NEM](http://twitter.com/search?q=O+NEM) | N/A |
-| 50 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
+| 15 | [Marotos](http://twitter.com/search?q=Marotos) | N/A |
+| 16 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 17 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 18 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
+| 19 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
+| 20 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 21 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 22 | [Animais Fantásticos](http://twitter.com/search?q=Animais+Fant%c3%a1sticos) | N/A |
+| 23 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 24 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 25 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
+| 26 | [Cabelinho](http://twitter.com/search?q=Cabelinho) | N/A |
+| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 28 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 29 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 30 | [Parabéns Divino](http://twitter.com/search?q=Parab%c3%a9ns+Divino) | N/A |
+| 31 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 32 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
+| 33 | [Babal](http://twitter.com/search?q=Babal) | Babal is a Yoruba word meaning “father” or “ancestor”. It is used as a term of respect and reverence for an elder or ancestor. |
+| 34 | [Reboot](http://twitter.com/search?q=Reboot) | N/A |
+| 35 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 36 | [#AmparemAposentados](http://twitter.com/search?q=%23AmparemAposentados) | N/A |
+| 37 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 38 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 40 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 41 | [Rayan](http://twitter.com/search?q=Rayan) | N/A |
+| 42 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 43 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 44 | [Balerion](http://twitter.com/search?q=Balerion) | N/A |
+| 45 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
+| 46 | [NGB News](http://twitter.com/search?q=NGB+News) | N/A |
+| 47 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 48 | [caterina](http://twitter.com/search?q=caterina) | N/A |
+| 49 | [Tidal](http://twitter.com/search?q=Tidal) | N/A |
+| 50 | [Targaryen](http://twitter.com/search?q=Targaryen) | N/A |
 
 
 
