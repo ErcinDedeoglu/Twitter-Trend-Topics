@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-04 06:17:46 UTC`
+📆 Last Updated: `2023-04-04 07:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Yes Daddy](http://twitter.com/search?q=Yes+Daddy) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [Director Pink](http://twitter.com/search?q=Director+Pink) | N/A |
 | 3 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
-| 4 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
-| 8 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 9 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 10 | [#RamadanDay13](http://twitter.com/search?q=%23RamadanDay13) | N/A |
-| 11 | [#TimeleesAlbum](http://twitter.com/search?q=%23TimeleesAlbum) | N/A |
-| 12 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 13 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 14 | [From Nigeria](http://twitter.com/search?q=From+Nigeria) | N/A |
-| 15 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Kegite](http://twitter.com/search?q=Kegite) | N/A |
-| 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 19 | [Hall 3](http://twitter.com/search?q=Hall+3) | N/A |
-| 20 | [Ekosodin](http://twitter.com/search?q=Ekosodin) | N/A |
-| 21 | [JAMB](http://twitter.com/search?q=JAMB) | N/A |
-| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 23 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 6 | [#NEWMUN](http://twitter.com/search?q=%23NEWMUN) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 9 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 10 | [Kegite](http://twitter.com/search?q=Kegite) | N/A |
+| 11 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
+| 12 | [#TimeleesAlbum](http://twitter.com/search?q=%23TimeleesAlbum) | N/A |
+| 13 | [Hall 3](http://twitter.com/search?q=Hall+3) | N/A |
+| 14 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 15 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 16 | [#NLPIbadan2023](http://twitter.com/search?q=%23NLPIbadan2023) | N/A |
+| 17 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 20 | [JAMB](http://twitter.com/search?q=JAMB) | N/A |
+| 21 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 22 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
+| 23 | [Tonye Cole](http://twitter.com/search?q=Tonye+Cole) | N/A |
 | 24 | [HAPPY NEW WEEK](http://twitter.com/search?q=HAPPY+NEW+WEEK) | N/A |
-| 25 | [Tonye Cole](http://twitter.com/search?q=Tonye+Cole) | N/A |
-| 26 | [Covenant University](http://twitter.com/search?q=Covenant+University) | N/A |
-| 27 | [project 24 contribution](http://twitter.com/search?q=project+24+contribution) | N/A |
-| 28 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 29 | [My April](http://twitter.com/search?q=My+April) | N/A |
-| 30 | [GOD PROTECT SHEGGZ](http://twitter.com/search?q=GOD+PROTECT+SHEGGZ) | N/A |
-| 31 | [ndi kato](http://twitter.com/search?q=ndi+kato) | N/A |
-| 32 | [letter to yvonne](http://twitter.com/search?q=letter+to+yvonne) | N/A |
-| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 34 | [North](http://twitter.com/search?q=North) | N/A |
+| 25 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 26 | [From Nigeria](http://twitter.com/search?q=From+Nigeria) | N/A |
+| 27 | [Covenant University](http://twitter.com/search?q=Covenant+University) | N/A |
+| 28 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 29 | [Ekosodin](http://twitter.com/search?q=Ekosodin) | N/A |
+| 30 | [PROJECT 24 CONTRIBUTION](http://twitter.com/search?q=PROJECT+24+CONTRIBUTION) | N/A |
+| 31 | [GOD PROTECT SHEGGZ](http://twitter.com/search?q=GOD+PROTECT+SHEGGZ) | N/A |
+| 32 | [North](http://twitter.com/search?q=North) | N/A |
+| 33 | [LETTER TO YVONNE](http://twitter.com/search?q=LETTER+TO+YVONNE) | N/A |
+| 34 | [My April](http://twitter.com/search?q=My+April) | N/A |
 | 35 | [Keane](http://twitter.com/search?q=Keane) | N/A |
 | 36 | [Portable](http://twitter.com/search?q=Portable) | N/A |
-| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 38 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
+| 37 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 38 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 39 | [THE KANAGA JNR BRAND](http://twitter.com/search?q=THE+KANAGA+JNR+BRAND) | N/A |
-| 40 | [Yes Mummy](http://twitter.com/search?q=Yes+Mummy) | N/A |
-| 41 | [Medium](http://twitter.com/search?q=Medium) | N/A |
-| 42 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 43 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
-| 44 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 46 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 47 | [Pupuru](http://twitter.com/search?q=Pupuru) | N/A |
-| 48 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 49 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 50 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 41 | [Yes Mummy](http://twitter.com/search?q=Yes+Mummy) | N/A |
+| 42 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 43 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 44 | [Medium](http://twitter.com/search?q=Medium) | N/A |
+| 45 | [Agba](http://twitter.com/search?q=Agba) | N/A |
+| 46 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
+| 47 | [Airpeace](http://twitter.com/search?q=Airpeace) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 50 | [Ndi Kato](http://twitter.com/search?q=Ndi+Kato) | N/A |
 
 
 

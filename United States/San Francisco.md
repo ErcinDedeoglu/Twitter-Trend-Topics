@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-04 06:18:03 UTC`
+📆 Last Updated: `2023-04-04 07:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 2 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 3 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 4 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 5 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
-| 6 | [The Dodgers](http://twitter.com/search?q=The+Dodgers) | N/A |
-| 7 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 8 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 9 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 10 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 11 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 12 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 13 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 14 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 15 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 16 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 17 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 20 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 21 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 22 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 23 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 24 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 25 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 26 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 27 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 28 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 31 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 32 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 33 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 34 | [Seth Brown](http://twitter.com/search?q=Seth+Brown) | N/A |
-| 35 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 36 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 37 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 38 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 39 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 40 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 41 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 42 | [Ha-Seong Kim](http://twitter.com/search?q=Ha-Seong+Kim) | N/A |
-| 43 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
-| 44 | [David Dahl](http://twitter.com/search?q=David+Dahl) | N/A |
-| 45 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 46 | [Newton](http://twitter.com/search?q=Newton) | N/A |
-| 47 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 48 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 49 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
-| 50 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 2 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 3 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
+| 4 | [The Dodgers](http://twitter.com/search?q=The+Dodgers) | N/A |
+| 5 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 6 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 7 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 8 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 11 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 12 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 13 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 14 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 15 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 16 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 17 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 18 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 20 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 21 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 22 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 23 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 24 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 25 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 26 | [Seth Brown](http://twitter.com/search?q=Seth+Brown) | N/A |
+| 27 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 28 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 29 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 30 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
+| 31 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 32 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 33 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 34 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
+| 35 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
+| 36 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 37 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
+| 38 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 39 | [DAVID DAHL](http://twitter.com/search?q=DAVID+DAHL) | N/A |
+| 40 | [Ha-Seong Kim](http://twitter.com/search?q=Ha-Seong+Kim) | N/A |
+| 41 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 42 | [Newton](http://twitter.com/search?q=Newton) | N/A |
+| 43 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 44 | [Nikki Fried](http://twitter.com/search?q=Nikki+Fried) | N/A |
+| 45 | [Jim Nance](http://twitter.com/search?q=Jim+Nance) | N/A |
+| 46 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
+| 47 | [TAYLOR WARD](http://twitter.com/search?q=TAYLOR+WARD) | N/A |
+| 48 | [Will Brennan](http://twitter.com/search?q=Will+Brennan) | N/A |
+| 49 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 50 | [Worst Raw](http://twitter.com/search?q=Worst+Raw) | N/A |
 
 
 

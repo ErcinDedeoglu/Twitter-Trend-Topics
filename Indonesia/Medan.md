@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-04 06:17:37 UTC`
+📆 Last Updated: `2023-04-04 07:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FlashSaleMobilRp1](http://twitter.com/search?q=%23FlashSaleMobilRp1) | N/A |
+| 1 | [#PotonganOngkir40RB](http://twitter.com/search?q=%23PotonganOngkir40RB) | N/A |
 | 2 | [#PromoPuncakRamadanShopee](http://twitter.com/search?q=%23PromoPuncakRamadanShopee) | N/A |
-| 3 | [#PotonganOngkir40RB](http://twitter.com/search?q=%23PotonganOngkir40RB) | N/A |
-| 4 | [#RamadanBersamaSeaBank](http://twitter.com/search?q=%23RamadanBersamaSeaBank) | N/A |
+| 3 | [#PromoPuncakRamadanShopee](http://twitter.com/search?q=%23PromoPuncakRamadanShopee) | N/A |
+| 4 | [#FlashSaleMobilRp1](http://twitter.com/search?q=%23FlashSaleMobilRp1) | N/A |
 | 5 | [Giveaway THR 10Juta](http://twitter.com/search?q=Giveaway+THR+10Juta) | N/A |
-| 6 | [#MembeliUntukMemberi](http://twitter.com/search?q=%23MembeliUntukMemberi) | N/A |
-| 7 | [Jenderal Dudung Abdurachman](http://twitter.com/search?q=Jenderal+Dudung+Abdurachman) | N/A |
-| 8 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 9 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 10 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 11 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 12 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 13 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 14 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 15 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
-| 16 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 17 | [Hoki](http://twitter.com/search?q=Hoki) | N/A |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 19 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
-| 20 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
-| 21 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 22 | [Nasdem](http://twitter.com/search?q=Nasdem) | N/A |
-| 23 | [Nurul](http://twitter.com/search?q=Nurul) | N/A |
-| 24 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 25 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 26 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
-| 27 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 28 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 29 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 30 | [#RamadandiLazada](http://twitter.com/search?q=%23RamadandiLazada) | N/A |
-| 31 | [#RamadhanBarengGanjar](http://twitter.com/search?q=%23RamadhanBarengGanjar) | N/A |
-| 32 | [#OTSReComeback](http://twitter.com/search?q=%23OTSReComeback) | N/A |
-| 33 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
-| 34 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 35 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
-| 36 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 37 | [#WhaleWillBringYouHome](http://twitter.com/search?q=%23WhaleWillBringYouHome) | N/A |
-| 38 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
-| 39 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
-| 40 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
-| 41 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
-| 42 | [#DPRSarangBandit](http://twitter.com/search?q=%23DPRSarangBandit) | N/A |
-| 43 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 44 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
-| 45 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 46 | [#1Hot100SongWriterRM](http://twitter.com/search?q=%231Hot100SongWriterRM) | N/A |
-| 47 | [#RamadhanDay13](http://twitter.com/search?q=%23RamadhanDay13) | N/A |
-| 48 | [#Jimin_LikeCrazy](http://twitter.com/search?q=%23Jimin_LikeCrazy) | N/A |
-| 49 | [#HappyEunhyukDay](http://twitter.com/search?q=%23HappyEunhyukDay) | N/A |
+| 6 | [#GanjarPranowoMenjawab](http://twitter.com/search?q=%23GanjarPranowoMenjawab) | N/A |
+| 7 | [menangkan kemajuan rakyat](http://twitter.com/search?q=menangkan+kemajuan+rakyat) | N/A |
+| 8 | [prabowo persatuan indonesia](http://twitter.com/search?q=prabowo+persatuan+indonesia) | N/A |
+| 9 | [bikin indonesia nyaman](http://twitter.com/search?q=bikin+indonesia+nyaman) | N/A |
+| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 11 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
+| 12 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 13 | [sudah baca tempo](http://twitter.com/search?q=sudah+baca+tempo) | N/A |
+| 14 | [hydra veil sleeping mask](http://twitter.com/search?q=hydra+veil+sleeping+mask) | N/A |
+| 15 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 17 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 18 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 19 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 20 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 21 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 22 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
+| 23 | [NCT127](http://twitter.com/search?q=NCT127) | N/A |
+| 24 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 25 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
+| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 27 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 28 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
+| 29 | [get well soon jaehyuk](http://twitter.com/search?q=get+well+soon+jaehyuk) | N/A |
+| 30 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
+| 31 | [NUMBER ONE IN MY HEART](http://twitter.com/search?q=NUMBER+ONE+IN+MY+HEART) | N/A |
+| 32 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 33 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
+| 34 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 35 | [the blotter paper d2](http://twitter.com/search?q=the+blotter+paper+d2) | N/A |
+| 36 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 37 | [syariah lindungi nyawa manusia](http://twitter.com/search?q=syariah+lindungi+nyawa+manusia) | N/A |
+| 38 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 39 | [5% niacinamide](http://twitter.com/search?q=5%25+niacinamide) | N/A |
+| 40 | [Khilafah Menyatukan Kita](http://twitter.com/search?q=Khilafah+Menyatukan+Kita) | N/A |
+| 41 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 42 | [Aloe Vera](http://twitter.com/search?q=Aloe+Vera) | N/A |
+| 43 | [Menteri Pemuda](http://twitter.com/search?q=Menteri+Pemuda) | N/A |
+| 44 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 45 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 46 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 47 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 48 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
+| 49 | [MAU DIB](http://twitter.com/search?q=MAU+DIB) | N/A |
+| 50 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
 
 
 

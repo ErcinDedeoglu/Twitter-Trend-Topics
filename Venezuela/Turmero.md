@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-04-04 06:17:26 UTC`
+📆 Last Updated: `2023-04-04 07:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 11 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
 | 12 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
 | 13 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 14 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 15 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
-| 16 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 17 | [#gnbprotectoresdelpueblo](http://twitter.com/search?q=%23gnbprotectoresdelpueblo) | N/A |
+| 14 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
+| 15 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 16 | [#gnbprotectoresdelpueblo](http://twitter.com/search?q=%23gnbprotectoresdelpueblo) | N/A |
+| 17 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
 | 18 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
 | 19 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
 | 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
@@ -40,15 +40,15 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 23 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
 | 24 | [Ley Seca](http://twitter.com/search?q=Ley+Seca) | N/A |
 | 25 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 26 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 27 | [Jerónimo Gil](http://twitter.com/search?q=Jer%c3%b3nimo+Gil) | Jerónimo Gil is a Spanish name. It is derived from the Latin name Hieronymus, which means "sacred name". In English, it can be translated to mean "holy name". |
-| 28 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 29 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 30 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 31 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 32 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
-| 33 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 34 | [gustavo rodríguez](http://twitter.com/search?q=gustavo+rodr%c3%adguez) | N/A |
+| 26 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 27 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 28 | [Jerónimo Gil](http://twitter.com/search?q=Jer%c3%b3nimo+Gil) | Jerónimo Gil is a Spanish name. It is derived from the Latin name Hieronymus, which means "sacred name". In English, it can be translated to mean "holy name". |
+| 29 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 30 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
+| 31 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 32 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 33 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 34 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
 | 35 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
 | 36 | [El Santo](http://twitter.com/search?q=El+Santo) | N/A |
 | 37 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
@@ -56,14 +56,14 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 39 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
 | 40 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
 | 41 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
-| 42 | [Omar Vizquel](http://twitter.com/search?q=Omar+Vizquel) | N/A |
+| 42 | [omar vizquel](http://twitter.com/search?q=omar+vizquel) | N/A |
 | 43 | [tetero](http://twitter.com/search?q=tetero) | N/A |
-| 44 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
+| 44 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
 | 45 | [Tony Cruz](http://twitter.com/search?q=Tony+Cruz) | N/A |
 | 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 47 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
 | 48 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
-| 49 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 49 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
 
 
 

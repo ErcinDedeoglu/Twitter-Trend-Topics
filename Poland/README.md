@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-04 06:18:10 UTC`
+📆 Last Updated: `2023-04-04 07:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Poland
 | 3 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 4 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
 | 5 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
-| 6 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 7 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 6 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 7 | [#STMJAG](http://twitter.com/search?q=%23STMJAG) | N/A |
 | 8 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 9 | [#STMJAG](http://twitter.com/search?q=%23STMJAG) | N/A |
-| 10 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 9 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 10 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 11 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 12 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
-| 13 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
-| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 15 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 16 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 17 | [Chełmnie](http://twitter.com/search?q=Che%c5%82mnie) | N/A |
-| 18 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 19 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 20 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 21 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 22 | [petersburgu](http://twitter.com/search?q=petersburgu) | N/A |
-| 23 | [Frankowskiego](http://twitter.com/search?q=Frankowskiego) | N/A |
+| 12 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 13 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 14 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 15 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 17 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 18 | [Pendolino](http://twitter.com/search?q=Pendolino) | N/A |
+| 19 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 20 | [Chełmnie](http://twitter.com/search?q=Che%c5%82mnie) | N/A |
+| 21 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 22 | [frankowskiego](http://twitter.com/search?q=frankowskiego) | N/A |
+| 23 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 24 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 25 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 26 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 27 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 28 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
-| 29 | [Holandii](http://twitter.com/search?q=Holandii) | N/A |
-| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
-| 32 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 33 | [jachira](http://twitter.com/search?q=jachira) | N/A |
+| 25 | [Warcie](http://twitter.com/search?q=Warcie) | N/A |
+| 26 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 27 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 28 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
+| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 30 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
+| 31 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 32 | [Petersburgu](http://twitter.com/search?q=Petersburgu) | N/A |
+| 33 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
 | 34 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
 | 35 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
 | 36 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
 | 37 | [kielecki](http://twitter.com/search?q=kielecki) | N/A |
-| 38 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 39 | [Wielki Tydzień](http://twitter.com/search?q=Wielki+Tydzie%c5%84) | N/A |
-| 40 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
-| 41 | [kostasa](http://twitter.com/search?q=kostasa) | N/A |
-| 42 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 43 | [the unholy food war](http://twitter.com/search?q=the+unholy+food+war) | N/A |
-| 44 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
-| 45 | [piebiaka](http://twitter.com/search?q=piebiaka) | N/A |
-| 46 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 49 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 50 | [Tatarskiego](http://twitter.com/search?q=Tatarskiego) | N/A |
+| 38 | [Kremówki](http://twitter.com/search?q=Krem%c3%b3wki) | N/A |
+| 39 | [kostasa](http://twitter.com/search?q=kostasa) | N/A |
+| 40 | [Godek](http://twitter.com/search?q=Godek) | N/A |
+| 41 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 42 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 43 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 44 | [THE UNHOLY FOOD WAR](http://twitter.com/search?q=THE+UNHOLY+FOOD+WAR) | N/A |
+| 45 | [Lechowi](http://twitter.com/search?q=Lechowi) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [piebiaka](http://twitter.com/search?q=piebiaka) | N/A |
+| 48 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 49 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 50 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
 
 
 

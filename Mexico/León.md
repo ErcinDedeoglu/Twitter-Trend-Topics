@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-04-04 06:17:22 UTC`
+📆 Last Updated: `2023-04-04 07:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,46 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 3 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 4 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 5 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 6 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 7 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 8 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 9 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
-| 10 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
-| 11 | [Violento](http://twitter.com/search?q=Violento) | N/A |
-| 12 | [Columbia](http://twitter.com/search?q=Columbia) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [Juanpa Zurita](http://twitter.com/search?q=Juanpa+Zurita) | N/A |
-| 15 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 16 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 17 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
-| 18 | [Calixto](http://twitter.com/search?q=Calixto) | N/A |
-| 19 | [Delia](http://twitter.com/search?q=Delia) | N/A |
-| 20 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 21 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 22 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
-| 23 | [Caleta](http://twitter.com/search?q=Caleta) | N/A |
-| 24 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 25 | [Leve](http://twitter.com/search?q=Leve) | N/A |
-| 26 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 27 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 28 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
-| 29 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 30 | [Afortunadamente](http://twitter.com/search?q=Afortunadamente) | N/A |
-| 31 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
-| 32 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 33 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 34 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
-| 35 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 36 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 37 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 38 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
-| 39 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
-| 40 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 41 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 42 | [#JuegoPorExapoints](http://twitter.com/search?q=%23JuegoPorExapoints) | N/A |
-| 43 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 44 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 45 | [#MINHYUK](http://twitter.com/search?q=%23MINHYUK) | N/A |
-| 46 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 47 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
+| 2 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
+| 3 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 4 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
+| 5 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 6 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 7 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 8 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 9 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
+| 10 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 11 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Columbia](http://twitter.com/search?q=Columbia) | N/A |
+| 14 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 15 | [Juanpa Zurita](http://twitter.com/search?q=Juanpa+Zurita) | N/A |
+| 16 | [Calixto](http://twitter.com/search?q=Calixto) | N/A |
+| 17 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 18 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
+| 19 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
+| 20 | [Leve](http://twitter.com/search?q=Leve) | N/A |
+| 21 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 22 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 23 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 24 | [Afortunadamente](http://twitter.com/search?q=Afortunadamente) | N/A |
+| 25 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 26 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 27 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 28 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 29 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 30 | [#JuegoPorExapoints](http://twitter.com/search?q=%23JuegoPorExapoints) | N/A |
+| 31 | [#BTR4](http://twitter.com/search?q=%23BTR4) | N/A |
+| 32 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 33 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
+| 34 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 35 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 36 | [#OTSReComeback](http://twitter.com/search?q=%23OTSReComeback) | N/A |
+| 37 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 38 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 39 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
+| 40 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 41 | [#DelfinaDelincuenteElectoral](http://twitter.com/search?q=%23DelfinaDelincuenteElectoral) | N/A |
 
 
 

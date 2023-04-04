@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-04 06:18:09 UTC`
+📆 Last Updated: `2023-04-04 07:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,35 +34,35 @@ This is top 50 for Lebanon
 | 17 | [الطايفه المسيحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%87) | N/A |
 | 18 | [داني شمعون](http://twitter.com/search?q=%d8%af%d8%a7%d9%86%d9%8a+%d8%b4%d9%85%d8%b9%d9%88%d9%86) | N/A |
 | 19 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
-| 20 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
-| 21 | [القمه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 22 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 23 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 20 | [القمه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 21 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 22 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 23 | [الموفد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
 | 24 | [وزير الدوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 25 | [الموفد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 26 | [الهييات الناخبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8%d9%87) | N/A |
-| 27 | [حسن ياسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
-| 28 | [يعقوب](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
-| 29 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 30 | [الدفاعات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 31 | [علي الهويه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87) | N/A |
-| 32 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 33 | [الرييس الاسد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 34 | [الخارجيه القطريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
-| 35 | [الامن الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
-| 36 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 37 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 38 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 39 | [3 نيسان](http://twitter.com/search?q=3+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 40 | [ابو حمزة](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
-| 41 | [الملف الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%81+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 25 | [الهييات الناخبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8%d9%87) | N/A |
+| 26 | [حسن ياسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
+| 27 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 28 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 29 | [الدفاعات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 30 | [علي الهويه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87) | N/A |
+| 31 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 32 | [الخارجيه القطريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
+| 33 | [الامن الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 34 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 36 | [وضاح صادق](http://twitter.com/search?q=%d9%88%d8%b6%d8%a7%d8%ad+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
+| 37 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 38 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 39 | [يعقوب](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
+| 40 | [3 نيسان](http://twitter.com/search?q=3+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
+| 41 | [ابو حمزة](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
 | 42 | [شارل جبور](http://twitter.com/search?q=%d8%b4%d8%a7%d8%b1%d9%84+%d8%ac%d8%a8%d9%88%d8%b1) | N/A |
-| 43 | [وضاح صادق](http://twitter.com/search?q=%d9%88%d8%b6%d8%a7%d8%ad+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
-| 44 | [سعد الحريري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 45 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
-| 46 | [نواب الامه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 47 | [محمد رعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%b9%d8%af) | N/A |
-| 48 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 43 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
+| 45 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 46 | [سعد الحريري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 47 | [نواب الامه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 48 | [محمد رعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%b9%d8%af) | N/A |
 | 49 | [التقويم الغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
 | 50 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
 

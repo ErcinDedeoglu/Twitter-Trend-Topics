@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-04 06:17:55 UTC`
+📆 Last Updated: `2023-04-04 07:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,36 +17,44 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
 | 2 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 3 | [#kazanırım](http://twitter.com/search?q=%23kazan%c4%b1r%c4%b1m) | N/A |
-| 4 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
-| 5 | [Kayıtlar Açıklansın](http://twitter.com/search?q=Kay%c4%b1tlar+A%c3%a7%c4%b1klans%c4%b1n) | N/A |
-| 6 | [Soldaki](http://twitter.com/search?q=Soldaki) | N/A |
-| 7 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
-| 8 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
-| 9 | [Sağdaki](http://twitter.com/search?q=Sa%c4%9fdaki) | N/A |
-| 10 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
-| 11 | [Namus](http://twitter.com/search?q=Namus) | N/A |
-| 12 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
-| 13 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
-| 14 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
-| 15 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 18 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
-| 19 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 20 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
-| 21 | [Bircan](http://twitter.com/search?q=Bircan) | N/A |
-| 22 | [#4Nisan1997](http://twitter.com/search?q=%234Nisan1997) | N/A |
-| 23 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
-| 24 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
-| 25 | [#HalkınGerçeği](http://twitter.com/search?q=%23Halk%c4%b1nGer%c3%a7e%c4%9fi) | N/A |
-| 26 | [#İşinGerçeği](http://twitter.com/search?q=%23%c4%b0%c5%9finGer%c3%a7e%c4%9fi) | N/A |
-| 27 | [#OyumStaja](http://twitter.com/search?q=%23OyumStaja) | N/A |
-| 28 | [#SeccademeBasılmasın](http://twitter.com/search?q=%23SeccademeBas%c4%b1lmas%c4%b1n) | N/A |
-| 29 | [#AlikocistifaET](http://twitter.com/search?q=%23AlikocistifaET) | N/A |
-| 30 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
-| 31 | [#MalatyalılarGünü](http://twitter.com/search?q=%23Malatyal%c4%b1larG%c3%bcn%c3%bc) | N/A |
-| 32 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
+| 3 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
+| 4 | [#DünyaSokakHayvanlarıGünü](http://twitter.com/search?q=%23D%c3%bcnyaSokakHayvanlar%c4%b1G%c3%bcn%c3%bc) | N/A |
+| 5 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
+| 6 | [Mekanın Cennet](http://twitter.com/search?q=Mekan%c4%b1n+Cennet) | N/A |
+| 7 | [Dumlupınar](http://twitter.com/search?q=Dumlup%c4%b1nar) | N/A |
+| 8 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 9 | [Soldaki](http://twitter.com/search?q=Soldaki) | N/A |
+| 10 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 11 | [Amerika'ya](http://twitter.com/search?q=Amerika%27ya) | N/A |
+| 12 | [Namus](http://twitter.com/search?q=Namus) | N/A |
+| 13 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
+| 14 | [Sağdaki](http://twitter.com/search?q=Sa%c4%9fdaki) | N/A |
+| 15 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
+| 16 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
+| 17 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
+| 18 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 19 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 20 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
+| 21 | [Araba](http://twitter.com/search?q=Araba) | N/A |
+| 22 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 23 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
+| 24 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 25 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 26 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 27 | [Bircan](http://twitter.com/search?q=Bircan) | N/A |
+| 28 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
+| 29 | [#kazanırım](http://twitter.com/search?q=%23kazan%c4%b1r%c4%b1m) | N/A |
+| 30 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
+| 31 | [#SeccademeBasılmasın](http://twitter.com/search?q=%23SeccademeBas%c4%b1lmas%c4%b1n) | N/A |
+| 32 | [#İşinGerçeği](http://twitter.com/search?q=%23%c4%b0%c5%9finGer%c3%a7e%c4%9fi) | N/A |
+| 33 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
+| 34 | [#MilletinDerdiGEÇİM](http://twitter.com/search?q=%23MilletinDerdiGE%c3%87%c4%b0M) | N/A |
+| 35 | [#HalkınGerçeği](http://twitter.com/search?q=%23Halk%c4%b1nGer%c3%a7e%c4%9fi) | N/A |
+| 36 | [#OyumStaja](http://twitter.com/search?q=%23OyumStaja) | N/A |
+| 37 | [#AlikocistifaET](http://twitter.com/search?q=%23AlikocistifaET) | N/A |
+| 38 | [#MalatyalılarGünü](http://twitter.com/search?q=%23Malatyal%c4%b1larG%c3%bcn%c3%bc) | N/A |
+| 39 | [#tuprs](http://twitter.com/search?q=%23tuprs) | N/A |
+| 40 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
 
 
 

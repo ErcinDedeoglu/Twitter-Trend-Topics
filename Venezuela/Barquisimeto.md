@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-04-04 06:17:28 UTC`
+📆 Last Updated: `2023-04-04 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 9 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
 | 10 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
 | 11 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 12 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 13 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
+| 12 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
+| 13 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
 | 14 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 15 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
 | 16 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
@@ -37,15 +37,15 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 20 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
 | 21 | [Ley Seca](http://twitter.com/search?q=Ley+Seca) | N/A |
 | 22 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 23 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 24 | [Jerónimo Gil](http://twitter.com/search?q=Jer%c3%b3nimo+Gil) | Jerónimo Gil is a Spanish name. It is derived from the Latin name Hieronymus, which means "sacred name". In English, it can be translated to mean "holy name". |
-| 25 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 26 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 27 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 28 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 29 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
-| 30 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 31 | [gustavo rodríguez](http://twitter.com/search?q=gustavo+rodr%c3%adguez) | N/A |
+| 23 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 24 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 25 | [Jerónimo Gil](http://twitter.com/search?q=Jer%c3%b3nimo+Gil) | Jerónimo Gil is a Spanish name. It is derived from the Latin name Hieronymus, which means "sacred name". In English, it can be translated to mean "holy name". |
+| 26 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 27 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
+| 28 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 29 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 30 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 31 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
 | 32 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
 | 33 | [El Santo](http://twitter.com/search?q=El+Santo) | N/A |
 | 34 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
@@ -53,15 +53,15 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 36 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
 | 37 | [Autismo](http://twitter.com/search?q=Autismo) | N/A |
 | 38 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
-| 39 | [Omar Vizquel](http://twitter.com/search?q=Omar+Vizquel) | N/A |
+| 39 | [omar vizquel](http://twitter.com/search?q=omar+vizquel) | N/A |
 | 40 | [tetero](http://twitter.com/search?q=tetero) | N/A |
-| 41 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
+| 41 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
 | 42 | [Tony Cruz](http://twitter.com/search?q=Tony+Cruz) | N/A |
 | 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 44 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
 | 45 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
-| 46 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 47 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
+| 46 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
+| 47 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
 
 
 

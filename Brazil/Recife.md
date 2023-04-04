@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-04 06:17:27 UTC`
+📆 Last Updated: `2023-04-04 07:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 2 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 3 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 4 | [#BrasileiraoMusical](http://twitter.com/search?q=%23BrasileiraoMusical) | N/A |
-| 5 | [TRUCE](http://twitter.com/search?q=TRUCE) | N/A |
-| 6 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
-| 7 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 8 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 9 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 10 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
-| 11 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 12 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 15 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 16 | [Carla Diaz](http://twitter.com/search?q=Carla+Diaz) | Carla Diaz is a Spanish name. It is derived from the Latin name "Carolus" which means "free man". In English, Carla Diaz would mean "Free Woman". |
-| 17 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 18 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
-| 19 | [OUÇA NIKE AIR](http://twitter.com/search?q=OU%c3%87A+NIKE+AIR) | N/A |
-| 20 | [E a Bruna](http://twitter.com/search?q=E+a+Bruna) | N/A |
-| 21 | [Alface e Black](http://twitter.com/search?q=Alface+e+Black) | N/A |
-| 22 | [#SpacedaFic](http://twitter.com/search?q=%23SpacedaFic) | N/A |
-| 23 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 24 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 25 | [Essa Amanda](http://twitter.com/search?q=Essa+Amanda) | N/A |
-| 26 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 27 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 28 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 29 | [Agressiva](http://twitter.com/search?q=Agressiva) | N/A |
-| 30 | [Bruna Gritão](http://twitter.com/search?q=Bruna+Grit%c3%a3o) | N/A |
-| 31 | [MIMADA](http://twitter.com/search?q=MIMADA) | N/A |
-| 32 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 33 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
-| 34 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 35 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 36 | [Reboot](http://twitter.com/search?q=Reboot) | N/A |
-| 37 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 38 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
-| 39 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
-| 40 | [Betinho](http://twitter.com/search?q=Betinho) | N/A |
-| 41 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 42 | [Pinscher](http://twitter.com/search?q=Pinscher) | N/A |
-| 43 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 44 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 45 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 46 | [alisa](http://twitter.com/search?q=alisa) | N/A |
-| 47 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 48 | [Cabelinho](http://twitter.com/search?q=Cabelinho) | N/A |
-| 49 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 50 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 3 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 4 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 5 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 6 | [#optimusal](http://twitter.com/search?q=%23optimusal) | N/A |
+| 7 | [#BlueBeetle](http://twitter.com/search?q=%23BlueBeetle) | N/A |
+| 8 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
+| 9 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 10 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 11 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 12 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
+| 13 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 14 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 15 | [Besouro Azul](http://twitter.com/search?q=Besouro+Azul) | N/A |
+| 16 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 17 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 18 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 20 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 21 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 23 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 26 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 27 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 28 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 29 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 30 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 31 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
+| 32 | [Asa Branca](http://twitter.com/search?q=Asa+Branca) | N/A |
+| 33 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 34 | [Fincher](http://twitter.com/search?q=Fincher) | N/A |
+| 35 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 36 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 37 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
+| 38 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 39 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 40 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 41 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
+| 42 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 43 | [CADEIA PARA BOLSONARO](http://twitter.com/search?q=CADEIA+PARA+BOLSONARO) | N/A |
+| 44 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 45 | [Planta](http://twitter.com/search?q=Planta) | N/A |
+| 46 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 47 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 48 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 50 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 
 
 
