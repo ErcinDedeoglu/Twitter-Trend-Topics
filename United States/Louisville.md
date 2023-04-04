@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-04-04 10:18:46 UTC`
+📆 Last Updated: `2023-04-04 11:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,50 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 3 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 5 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 6 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 7 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
-| 8 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 9 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 11 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 2 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 3 | [Arraignment Day](http://twitter.com/search?q=Arraignment+Day) | N/A |
+| 4 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
+| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 9 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 10 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 11 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
 | 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 13 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 14 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 15 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 16 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 17 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 18 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 19 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 20 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 21 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 22 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
-| 23 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 24 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
-| 25 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 26 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 27 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
-| 28 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 29 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 30 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 31 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
-| 32 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 33 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 34 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 35 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 36 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
-| 37 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 38 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 39 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
-| 40 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 41 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 42 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 43 | [Adama Sanogo](http://twitter.com/search?q=Adama+Sanogo) | N/A |
-| 44 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 45 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 46 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 47 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 13 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 14 | [Martin Luther King Jr.](http://twitter.com/search?q=Martin+Luther+King+Jr.) | N/A |
+| 15 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 16 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 17 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 18 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
+| 19 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 20 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 21 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 22 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 23 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
+| 24 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 25 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 26 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 27 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 28 | [Most Americans](http://twitter.com/search?q=Most+Americans) | N/A |
+| 29 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 30 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 31 | [JAMES OUTMAN](http://twitter.com/search?q=JAMES+OUTMAN) | N/A |
+| 32 | [blue blood](http://twitter.com/search?q=blue+blood) | N/A |
+| 33 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
+| 34 | [Budlight](http://twitter.com/search?q=Budlight) | N/A |
+| 35 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 36 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 37 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 38 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 39 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
+| 40 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 41 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 42 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 43 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 44 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 45 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
 
 
 

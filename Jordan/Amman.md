@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-04-04 10:18:33 UTC`
+📆 Last Updated: `2023-04-04 11:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Jordan](</Jordan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [تل أبيب](http://twitter.com/search?q=%d8%aa%d9%84+%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 2 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 3 | [#فلنشعل_قناديل_صمودها](http://twitter.com/search?q=%23%d9%81%d9%84%d9%86%d8%b4%d8%b9%d9%84_%d9%82%d9%86%d8%a7%d8%af%d9%8a%d9%84_%d8%b5%d9%85%d9%88%d8%af%d9%87%d8%a7) | N/A |
-| 4 | [#اجهزتنا_الامنيه_عز_وفخر](http://twitter.com/search?q=%23%d8%a7%d8%ac%d9%87%d8%b2%d8%aa%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
-| 5 | [النظام الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
-| 6 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
-| 7 | [متحف الدبابات](http://twitter.com/search?q=%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa) | N/A |
-| 8 | [الاحزاب الراغبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b2%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d8%a7%d8%ba%d8%a8%d9%87) | N/A |
-| 9 | [20 نيسان](http://twitter.com/search?q=20+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 10 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 11 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 12 | [#تويتر](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
-| 13 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 14 | [#الروشن11](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8611) | N/A |
-| 15 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 16 | [جدول السكند](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af) | N/A |
-| 17 | [ايفون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d9%88%d9%86) | N/A |
-| 18 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 19 | [هرم خوفو](http://twitter.com/search?q=%d9%87%d8%b1%d9%85+%d8%ae%d9%88%d9%81%d9%88) | N/A |
-| 20 | [السقوف السعريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%82%d9%88%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d8%b1%d9%8a%d9%87) | N/A |
-| 21 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 22 | [بن عبدالله الثاني](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 23 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 24 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 25 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 26 | [القياده العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 27 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 28 | [شركات التامين](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 1 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 2 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 3 | [#اجهزتنا_الامنيه_عز_وفخر](http://twitter.com/search?q=%23%d8%a7%d8%ac%d9%87%d8%b2%d8%aa%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
+| 4 | [النظام الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 5 | [متحف الدبابات](http://twitter.com/search?q=%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa) | N/A |
+| 6 | [الاحزاب الراغبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b2%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d8%a7%d8%ba%d8%a8%d9%87) | N/A |
+| 7 | [20 نيسان](http://twitter.com/search?q=20+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
+| 8 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 9 | [#تويتر](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
+| 10 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
+| 11 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 12 | [#فلنشعل_قناديل_صمودها](http://twitter.com/search?q=%23%d9%81%d9%84%d9%86%d8%b4%d8%b9%d9%84_%d9%82%d9%86%d8%a7%d8%af%d9%8a%d9%84_%d8%b5%d9%85%d9%88%d8%af%d9%87%d8%a7) | N/A |
+| 13 | [جدول السكند](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af) | N/A |
+| 14 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 15 | [ايفون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d9%88%d9%86) | N/A |
+| 16 | [هرم خوفو](http://twitter.com/search?q=%d9%87%d8%b1%d9%85+%d8%ae%d9%88%d9%81%d9%88) | N/A |
+| 17 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
+| 18 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 19 | [بن عبدالله الثاني](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 20 | [#الاردن](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 21 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 22 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 23 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 24 | [القياده العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 25 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 26 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 27 | [شركات التامين](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 28 | [السقوف السعريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%82%d9%88%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d8%b1%d9%8a%d9%87) | N/A |
 | 29 | [وميسي](http://twitter.com/search?q=%d9%88%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
 | 30 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
 | 31 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
 | 32 | [الميلان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
-| 33 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
-| 34 | [بلد الوليد](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 35 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 36 | [التجاره الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 38 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 39 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 40 | [محمد ابو بكر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1) | N/A |
-| 41 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 42 | [ماليه النواب](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 43 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 44 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 45 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 46 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 47 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 48 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 49 | [السفير الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 50 | [دور كبير](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 33 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 34 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 35 | [التجاره الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 36 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 37 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 38 | [محمد ابو بكر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1) | N/A |
+| 39 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 40 | [ماليه النواب](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 41 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 42 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
+| 43 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 44 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 45 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 46 | [السفير الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 47 | [دور كبير](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 48 | [الموسم الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 49 | [العربي الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 50 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
 
 
 

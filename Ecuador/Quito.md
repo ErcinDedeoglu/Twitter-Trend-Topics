@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-04 10:18:04 UTC`
+📆 Last Updated: `2023-04-04 11:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PorteDeArmas](http://twitter.com/search?q=%23PorteDeArmas) | N/A |
+| 1 | [#portedearmas](http://twitter.com/search?q=%23portedearmas) | N/A |
 | 2 | [#azuaydecidió](http://twitter.com/search?q=%23azuaydecidi%c3%b3) | N/A |
-| 3 | [Andrés Seminario](http://twitter.com/search?q=Andr%c3%a9s+Seminario) | N/A |
-| 4 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 5 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 3 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 5 | [Andrés Seminario](http://twitter.com/search?q=Andr%c3%a9s+Seminario) | N/A |
 | 6 | [Cherres](http://twitter.com/search?q=Cherres) | N/A |
-| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 9 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 7 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 8 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 9 | [comunicación](http://twitter.com/search?q=comunicaci%c3%b3n) | N/A |
 | 10 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 11 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
 | 12 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
@@ -32,7 +32,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 15 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 16 | [consejo de la judicatura](http://twitter.com/search?q=consejo+de+la+judicatura) | N/A |
 | 17 | [wilman terán](http://twitter.com/search?q=wilman+ter%c3%a1n) | N/A |
-| 18 | [ana belén cordero](http://twitter.com/search?q=ana+bel%c3%a9n+cordero) | N/A |
+| 18 | [Ana Belén Cordero](http://twitter.com/search?q=Ana+Bel%c3%a9n+Cordero) | N/A |
 | 19 | [Santa Isabel](http://twitter.com/search?q=Santa+Isabel) | N/A |
 | 20 | [Coruña](http://twitter.com/search?q=Coru%c3%b1a) | N/A |
 | 21 | [roditti](http://twitter.com/search?q=roditti) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 36 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 37 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
 | 38 | [Penoso](http://twitter.com/search?q=Penoso) | N/A |
-| 39 | [Hernández](http://twitter.com/search?q=Hern%c3%a1ndez) | N/A |
-| 40 | [conocoto](http://twitter.com/search?q=conocoto) | N/A |
-| 41 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
-| 42 | [espín](http://twitter.com/search?q=esp%c3%adn) | N/A |
-| 43 | [Mamela](http://twitter.com/search?q=Mamela) | N/A |
-| 44 | [parrales](http://twitter.com/search?q=parrales) | N/A |
-| 45 | [maría paz](http://twitter.com/search?q=mar%c3%ada+paz) | N/A |
-| 46 | [flacso](http://twitter.com/search?q=flacso) | N/A |
-| 47 | [micolta](http://twitter.com/search?q=micolta) | N/A |
-| 48 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 49 | [nebot e iza](http://twitter.com/search?q=nebot+e+iza) | N/A |
-| 50 | [quinto pazmiño](http://twitter.com/search?q=quinto+pazmi%c3%b1o) | N/A |
+| 39 | [conocoto](http://twitter.com/search?q=conocoto) | N/A |
+| 40 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
+| 41 | [Espín](http://twitter.com/search?q=Esp%c3%adn) | N/A |
+| 42 | [mamela](http://twitter.com/search?q=mamela) | N/A |
+| 43 | [parrales](http://twitter.com/search?q=parrales) | N/A |
+| 44 | [maría paz](http://twitter.com/search?q=mar%c3%ada+paz) | N/A |
+| 45 | [flacso](http://twitter.com/search?q=flacso) | N/A |
+| 46 | [micolta](http://twitter.com/search?q=micolta) | N/A |
+| 47 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 48 | [nebot e iza](http://twitter.com/search?q=nebot+e+iza) | N/A |
+| 49 | [quinto pazmiño](http://twitter.com/search?q=quinto+pazmi%c3%b1o) | N/A |
+| 50 | [la conaie](http://twitter.com/search?q=la+conaie) | N/A |
 
 
 

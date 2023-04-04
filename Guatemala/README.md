@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-04 10:18:55 UTC`
+📆 Last Updated: `2023-04-04 11:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
 | 2 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 3 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 3 | [foppa](http://twitter.com/search?q=foppa) | N/A |
 | 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
 | 5 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 6 | [Tres Potencias](http://twitter.com/search?q=Tres+Potencias) | N/A |
@@ -27,10 +27,10 @@ This is top 50 for Guatemala
 | 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 11 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
 | 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 15 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 16 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 13 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 14 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 15 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 16 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 17 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
 | 18 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
 | 19 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
