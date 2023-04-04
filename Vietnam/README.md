@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-04 15:22:57 UTC`
+📆 Last Updated: `2023-04-04 16:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,50 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#폭풍전야_CONCEPT_PHOTO_2](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_CONCEPT_PHOTO_2) | N/A |
-| 2 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
+| 1 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
+| 2 | [#폭풍전야_CONCEPT_PHOTO_2](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_CONCEPT_PHOTO_2) | N/A |
 | 3 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
-| 4 | [2ND CONCEPT PHOTO](http://twitter.com/search?q=2ND+CONCEPT+PHOTO) | N/A |
-| 5 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 6 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 7 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 8 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 9 | [peace lily for bible](http://twitter.com/search?q=peace+lily+for+bible) | N/A |
-| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 11 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 12 | [zero out now](http://twitter.com/search?q=zero+out+now) | N/A |
-| 13 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 14 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 15 | [hello to our hopeworld](http://twitter.com/search?q=hello+to+our+hopeworld) | N/A |
-| 16 | [suga first solo album d-day](http://twitter.com/search?q=suga+first+solo+album+d-day) | N/A |
-| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 18 | [dazai](http://twitter.com/search?q=dazai) | N/A |
+| 4 | [#bkex](http://twitter.com/search?q=%23bkex) | N/A |
+| 5 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
+| 6 | [2ND CONCEPT PHOTO](http://twitter.com/search?q=2ND+CONCEPT+PHOTO) | N/A |
+| 7 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 8 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 9 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
+| 10 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
+| 11 | [HELLO TO OUR HOPEWORLD](http://twitter.com/search?q=HELLO+TO+OUR+HOPEWORLD) | N/A |
+| 12 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 13 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
+| 14 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 15 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 16 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 17 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 18 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 19 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 20 | [Road to the Mainnet NFT](http://twitter.com/search?q=Road+to+the+Mainnet+NFT) | N/A |
-| 21 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 23 | [jennie new face of chanel22](http://twitter.com/search?q=jennie+new+face+of+chanel22) | N/A |
-| 24 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
-| 25 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 26 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
-| 27 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 28 | [seop](http://twitter.com/search?q=seop) | N/A |
-| 29 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 30 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
-| 31 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 32 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
-| 33 | [D-DAY IS COMING](http://twitter.com/search?q=D-DAY+IS+COMING) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 36 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 37 | [GULF](http://twitter.com/search?q=GULF) | N/A |
-| 38 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 39 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 40 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 41 | [thấy](http://twitter.com/search?q=th%e1%ba%a5y) | N/A |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 20 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 21 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 22 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 23 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 25 | [GREAT PROJECT](http://twitter.com/search?q=GREAT+PROJECT) | N/A |
+| 26 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 27 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 28 | [Tính](http://twitter.com/search?q=T%c3%adnh) | N/A |
+| 29 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 30 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 31 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 32 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 33 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
+| 39 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 40 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
+| 41 | [thái lan](http://twitter.com/search?q=th%c3%a1i+lan) | N/A |
+| 42 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

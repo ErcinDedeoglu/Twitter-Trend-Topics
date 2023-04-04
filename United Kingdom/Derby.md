@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-04 15:22:05 UTC`
+📆 Last Updated: `2023-04-04 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 2 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 3 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
-| 4 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
-| 5 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 6 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 10 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 1 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 6 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
+| 7 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 9 | [The EHRC](http://twitter.com/search?q=The+EHRC) | N/A |
+| 10 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
 | 11 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 12 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 13 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 15 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 16 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
-| 17 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 18 | [craig charles](http://twitter.com/search?q=craig+charles) | N/A |
-| 19 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 20 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 23 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 24 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 25 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 28 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 29 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 30 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
-| 31 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 32 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 33 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 34 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 35 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
-| 36 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 37 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 38 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 39 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 40 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 41 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 42 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 43 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
-| 44 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 45 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 46 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 12 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 13 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 14 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 16 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 17 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 18 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 19 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 20 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
+| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 22 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 23 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 24 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 25 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 26 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 27 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 28 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 29 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
+| 30 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 31 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 34 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
+| 35 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 36 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 37 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 38 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 39 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 40 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 42 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 43 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 44 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 45 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 46 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 47 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
 
 
 

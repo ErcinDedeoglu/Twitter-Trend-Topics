@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-04 15:22:47 UTC`
+📆 Last Updated: `2023-04-04 16:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 10 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 11 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 12 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 13 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 14 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 15 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 16 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 18 | [Arraignment Day](http://twitter.com/search?q=Arraignment+Day) | N/A |
-| 19 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 20 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 21 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 22 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 23 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 24 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 25 | [JOLTS](http://twitter.com/search?q=JOLTS) | N/A |
-| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 27 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 28 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 29 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 30 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 31 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 33 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 34 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 35 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 36 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
-| 37 | [Dr. King](http://twitter.com/search?q=Dr.+King) | Dr. King is a reference to the late civil rights leader, Dr. Martin Luther King Jr. (1929-1968). He was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. He is best known for his role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. |
-| 38 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
-| 39 | [Dark Sky](http://twitter.com/search?q=Dark+Sky) | N/A |
-| 40 | [Dr. Martin Luther King](http://twitter.com/search?q=Dr.+Martin+Luther+King) | Dr. Martin Luther King Jr. was an American civil rights leader who fought for racial equality in the United States during the 1950s and 1960s. He is best known for his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington for Jobs and Freedom. He was also a Nobel Peace Prize winner and a leader of the African-American Civil Rights Movement. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 41 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 42 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 43 | [Apple Weather](http://twitter.com/search?q=Apple+Weather) | N/A |
-| 44 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 45 | [Twisted Metal](http://twitter.com/search?q=Twisted+Metal) | N/A |
-| 46 | [Kate McKinnon](http://twitter.com/search?q=Kate+McKinnon) | N/A |
-| 47 | [Manhattan Criminal Court](http://twitter.com/search?q=Manhattan+Criminal+Court) | N/A |
-| 48 | [Yankee Stadium](http://twitter.com/search?q=Yankee+Stadium) | N/A |
-| 49 | [Time in a Bottle](http://twitter.com/search?q=Time+in+a+Bottle) | N/A |
+| 1 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 2 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 6 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 7 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 9 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 10 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 11 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 12 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 13 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 14 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 15 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 19 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 20 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 22 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 23 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 24 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 25 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 26 | [Brian Hoyer](http://twitter.com/search?q=Brian+Hoyer) | N/A |
+| 27 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 28 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 30 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 31 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 32 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 33 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 34 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 35 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 36 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 37 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 38 | [Beaky](http://twitter.com/search?q=Beaky) | N/A |
+| 39 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 40 | [Welcome to New York](http://twitter.com/search?q=Welcome+to+New+York) | N/A |
+| 41 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 42 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 43 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 44 | [Florio](http://twitter.com/search?q=Florio) | N/A |
+| 45 | [Burn Notice](http://twitter.com/search?q=Burn+Notice) | N/A |
+| 46 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 47 | [Josh McDaniels](http://twitter.com/search?q=Josh+McDaniels) | Josh McDaniels is an American football coach who is currently the offensive coordinator for the New England Patriots of the National Football League (NFL). He has previously served as head coach of the Denver Broncos and offensive coordinator for the St. Louis Rams. |
+| 48 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 49 | [Welcome to NY](http://twitter.com/search?q=Welcome+to+NY) | N/A |
 
 
 

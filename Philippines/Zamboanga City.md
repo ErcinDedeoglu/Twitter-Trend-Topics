@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-04-04 15:22:30 UTC`
+📆 Last Updated: `2023-04-04 16:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 6 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 8 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 9 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
-| 10 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 11 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 12 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 13 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 14 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 6 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 7 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 8 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
+| 9 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 10 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 11 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 12 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 13 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 14 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
 | 15 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 16 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 17 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 18 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 20 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
-| 21 | [MABUHAY TREASURE D-10](http://twitter.com/search?q=MABUHAY+TREASURE+D-10) | N/A |
-| 22 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 23 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 24 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 25 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 16 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 18 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 19 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 20 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 21 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 23 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 24 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 25 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 26 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 27 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 28 | [Duty After School](http://twitter.com/search?q=Duty+After+School) | N/A |
-| 29 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
-| 30 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 31 | [#SEVENTEENxRollingStone](http://twitter.com/search?q=%23SEVENTEENxRollingStone) | N/A |
-| 32 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
-| 33 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 34 | [#IveIVE2ndConceptPhoto](http://twitter.com/search?q=%23IveIVE2ndConceptPhoto) | N/A |
-| 35 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
-| 36 | [#TWOQueens](http://twitter.com/search?q=%23TWOQueens) | N/A |
-| 37 | [#KA1AnniversaryTikTokLive](http://twitter.com/search?q=%23KA1AnniversaryTikTokLive) | N/A |
-| 38 | [#DLFirstKiss](http://twitter.com/search?q=%23DLFirstKiss) | N/A |
-| 39 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
-| 40 | [#HOIWardrobeMalfunction](http://twitter.com/search?q=%23HOIWardrobeMalfunction) | N/A |
-| 41 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 42 | [#sb19summerspecialdunkinph](http://twitter.com/search?q=%23sb19summerspecialdunkinph) | N/A |
-| 43 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 44 | [#TheAstronaut13WeeksWDSS](http://twitter.com/search?q=%23TheAstronaut13WeeksWDSS) | N/A |
-| 45 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
-| 46 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 47 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 48 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
-| 49 | [#EUNOIA1stWin](http://twitter.com/search?q=%23EUNOIA1stWin) | N/A |
-| 50 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 27 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 28 | [MABUHAY TREASURE D-10](http://twitter.com/search?q=MABUHAY+TREASURE+D-10) | N/A |
+| 29 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 30 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 31 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 32 | [Kyle](http://twitter.com/search?q=Kyle) | N/A |
+| 33 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 34 | [Duty After School](http://twitter.com/search?q=Duty+After+School) | N/A |
+| 35 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
+| 36 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
+| 37 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
+| 38 | [#BIGBANG_StillLife1stYear](http://twitter.com/search?q=%23BIGBANG_StillLife1stYear) | N/A |
+| 39 | [#SEVENTEENxRollingStone](http://twitter.com/search?q=%23SEVENTEENxRollingStone) | N/A |
+| 40 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
+| 41 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
+| 42 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
+| 43 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
+| 44 | [#IveIVE2ndConceptPhoto](http://twitter.com/search?q=%23IveIVE2ndConceptPhoto) | N/A |
+| 45 | [#HORI7ONFirstFanMeeting](http://twitter.com/search?q=%23HORI7ONFirstFanMeeting) | N/A |
+| 46 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
+| 47 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 48 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 49 | [#EarthquakePH](http://twitter.com/search?q=%23EarthquakePH) | N/A |
+| 50 | [#twoqueens](http://twitter.com/search?q=%23twoqueens) | N/A |
 
 
 

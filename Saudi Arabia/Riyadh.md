@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-04-04 15:22:33 UTC`
+📆 Last Updated: `2023-04-04 16:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#اجازه_15رمضان](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%a7%d8%b2%d9%87_15%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 2 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
-| 3 | [#مسابقه_طرق_الرياض13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b613) | N/A |
-| 4 | [#الانماء_مع_عطر_الكلام4](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%85%d8%b9_%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%854) | N/A |
-| 5 | [#مسابقه_المربع_نت13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa13) | N/A |
+| 2 | [#هدايا_رسيس2](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b32) | N/A |
+| 3 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
+| 4 | [#مسابقه_المربع_نت13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa13) | N/A |
+| 5 | [#مسابقه_طرق_الرياض13](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b613) | N/A |
 | 6 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 7 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 8 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
-| 9 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 10 | [زيد بن حارثة](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%ab%d8%a9) | N/A |
+| 7 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 8 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 9 | [برج المياه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
+| 10 | [جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
 | 11 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 12 | [جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
-| 13 | [قنديل البحر](http://twitter.com/search?q=%d9%82%d9%86%d8%af%d9%8a%d9%84+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1) | N/A |
-| 14 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
-| 15 | [عمال النظافه](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
-| 16 | [ابراهيم الشويع](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d9%8a%d8%b9) | N/A |
+| 12 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
+| 13 | [زيد بن حارثة](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%ab%d8%a9) | N/A |
+| 14 | [سعد وعبدالله](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d9%88%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 15 | [عامل النظافه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
+| 16 | [قنديل البحر](http://twitter.com/search?q=%d9%82%d9%86%d8%af%d9%8a%d9%84+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1) | N/A |
 | 17 | [ذات الصواري](http://twitter.com/search?q=%d8%b0%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a) | N/A |
-| 18 | [الخرج الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%ac+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 19 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
-| 20 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 21 | [شيماء سيف](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%b3%d9%8a%d9%81) | N/A |
-| 22 | [البنك الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 23 | [عبدالله الثنيان](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
+| 18 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 19 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 20 | [ابراهيم الشويع](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d9%8a%d8%b9) | N/A |
+| 21 | [البنك الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 22 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 23 | [الخرج الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%ac+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 24 | [جنوب غرب السعوديه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%ba%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 25 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 26 | [الحاله الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 27 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 28 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 29 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 30 | [محمد القرني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
-| 31 | [عبدالله الحربي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | N/A |
-| 32 | [طريق الصحابه](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%87) | N/A |
-| 33 | [وليد سعيد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 34 | [ولي العهد الامير](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
-| 35 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 36 | [الملك سلمان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 37 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 38 | [برج الفيصليه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a%d9%87) | N/A |
-| 39 | [عمر السومه](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
-| 40 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 41 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
-| 42 | [وليفربول](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | N/A |
-| 43 | [ملعب الجوهره](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
-| 44 | [يوسف العقيلي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d9%84%d9%8a) | N/A |
-| 45 | [الفوز الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 46 | [مونتي كارلو](http://twitter.com/search?q=%d9%85%d9%88%d9%86%d8%aa%d9%8a+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
-| 47 | [اليوم الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 25 | [محمد القرني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
+| 26 | [المباراه الساعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
+| 27 | [الحاله الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [فؤاد انور](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%86%d9%88%d8%b1) | N/A |
+| 29 | [ولي العهد الامير](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
+| 30 | [الصادق الامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 32 | [وليد سعيد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 33 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 34 | [عبدالله الثنيان](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
+| 35 | [برج الفيصليه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a%d9%87) | N/A |
+| 36 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 37 | [السدحان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%af%d8%ad%d8%a7%d9%86) | N/A |
+| 38 | [المهارات الاساسيه المكتسبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%b3%d8%a8%d9%87) | N/A |
+| 39 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 40 | [الملك سلمان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 41 | [سامي الجابر](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 42 | [ملعب الجوهره](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
+| 43 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
+| 44 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 45 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 46 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
+| 47 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
 | 48 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 49 | [باريس الحقيقي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d9%8a) | N/A |
-| 50 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 49 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
+| 50 | [محمد سعد القرني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
 
 
 

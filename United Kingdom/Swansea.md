@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-04 15:22:07 UTC`
+📆 Last Updated: `2023-04-04 16:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 4 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
-| 5 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 6 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 7 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 8 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 9 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 10 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 12 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 13 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
-| 14 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 15 | [craig charles](http://twitter.com/search?q=craig+charles) | N/A |
-| 16 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 17 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 22 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 23 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 24 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 25 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 26 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 27 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
-| 28 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 29 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 30 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 31 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 32 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 33 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
-| 34 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 35 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 36 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 37 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 38 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 39 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 40 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 41 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 42 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 45 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 3 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 5 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
+| 6 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 7 | [The EHRC](http://twitter.com/search?q=The+EHRC) | N/A |
+| 8 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 10 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 11 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 12 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 13 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 14 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 15 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 16 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 18 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
+| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 20 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 21 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 22 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 23 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 24 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 25 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 26 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 27 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
+| 28 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 29 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 30 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 31 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 32 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
+| 33 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 34 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 35 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 36 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 37 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 38 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 39 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 40 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 41 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 42 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 43 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 44 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 45 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
 
 
 

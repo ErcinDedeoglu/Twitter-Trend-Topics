@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-04-04 15:22:11 UTC`
+📆 Last Updated: `2023-04-04 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
-| 2 | [#4Abr](http://twitter.com/search?q=%234Abr) | N/A |
+| 1 | [#4Abr](http://twitter.com/search?q=%234Abr) | N/A |
+| 2 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
 | 3 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
 | 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
-| 7 | [#CubaCoopera](http://twitter.com/search?q=%23CubaCoopera) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
 | 8 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 9 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
-| 10 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
-| 11 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 12 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 13 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 14 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 15 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 16 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 17 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
-| 18 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 19 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 20 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 21 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 22 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
-| 23 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
-| 24 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 25 | [Humildad y Paciencia](http://twitter.com/search?q=Humildad+y+Paciencia) | N/A |
-| 26 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 27 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 28 | [Etanol](http://twitter.com/search?q=Etanol) | N/A |
-| 29 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 30 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 31 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 32 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 33 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 34 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 9 | [#CubaCoopera](http://twitter.com/search?q=%23CubaCoopera) | N/A |
+| 10 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 11 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
+| 12 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 13 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 14 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 15 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 16 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 17 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 18 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 19 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 20 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 21 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
+| 22 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
+| 23 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
+| 24 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 25 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
+| 26 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 27 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
+| 28 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 29 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
+| 30 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 31 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 32 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 33 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
+| 36 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
 | 37 | [Alirio Rodríguez](http://twitter.com/search?q=Alirio+Rodr%c3%adguez) | N/A |
-| 38 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
-| 39 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
-| 40 | [Jerónimo Gil](http://twitter.com/search?q=Jer%c3%b3nimo+Gil) | Jerónimo Gil is a Spanish name. It is derived from the Latin name Hieronymus, which means "sacred name". In English, it can be translated to mean "holy name". |
-| 41 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
-| 42 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 43 | [Minas](http://twitter.com/search?q=Minas) | N/A |
-| 44 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 45 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 46 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 47 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 48 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 49 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 50 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 38 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 39 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 40 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 41 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 42 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 43 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 44 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 45 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 47 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
+| 48 | [tetero](http://twitter.com/search?q=tetero) | N/A |
+| 49 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
+| 50 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
 
 
 

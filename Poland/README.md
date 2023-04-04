@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-04 15:22:55 UTC`
+📆 Last Updated: `2023-04-04 16:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 2 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 3 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 4 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 3 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 4 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
 | 5 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 6 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
-| 7 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 8 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 9 | [#lovejoygdansk](http://twitter.com/search?q=%23lovejoygdansk) | N/A |
-| 10 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 11 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 12 | [#lpopog](http://twitter.com/search?q=%23lpopog) | N/A |
-| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 14 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 15 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 16 | [Sojuszu Północnoatlantyckiego](http://twitter.com/search?q=Sojuszu+P%c3%b3%c5%82nocnoatlantyckiego) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [Frankowskiego](http://twitter.com/search?q=Frankowskiego) | N/A |
-| 19 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
-| 20 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
-| 21 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
-| 22 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 24 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 25 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 26 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 27 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 28 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 29 | [Szwecję](http://twitter.com/search?q=Szwecj%c4%99) | N/A |
-| 30 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
-| 31 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
-| 32 | [racławicami](http://twitter.com/search?q=rac%c5%82awicami) | N/A |
-| 33 | [Mameda](http://twitter.com/search?q=Mameda) | N/A |
-| 34 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 35 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 36 | [Stolarczyka](http://twitter.com/search?q=Stolarczyka) | N/A |
-| 37 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 38 | [petersburgu](http://twitter.com/search?q=petersburgu) | N/A |
-| 39 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
-| 40 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 41 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
-| 42 | [Pieseł](http://twitter.com/search?q=Piese%c5%82) | N/A |
-| 43 | [NAFO](http://twitter.com/search?q=NAFO) | N/A |
-| 44 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 45 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
-| 46 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
-| 47 | [Chełmnie](http://twitter.com/search?q=Che%c5%82mnie) | N/A |
-| 48 | [odessę](http://twitter.com/search?q=odess%c4%99) | N/A |
-| 49 | [Harry'ego Pottera](http://twitter.com/search?q=Harry%27ego+Pottera) | N/A |
-| 50 | [PKP Energetyka](http://twitter.com/search?q=PKP+Energetyka) | N/A |
+| 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 7 | [#lovejoygdansk](http://twitter.com/search?q=%23lovejoygdansk) | N/A |
+| 8 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 9 | [#Kaczastrofa](http://twitter.com/search?q=%23Kaczastrofa) | N/A |
+| 10 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
+| 11 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 12 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 13 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 16 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 17 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 20 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
+| 21 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
+| 22 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 23 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
+| 24 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 25 | [GKS Katowice](http://twitter.com/search?q=GKS+Katowice) | N/A |
+| 26 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 27 | [Jagiellonii](http://twitter.com/search?q=Jagiellonii) | N/A |
+| 28 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 29 | [Jachira](http://twitter.com/search?q=Jachira) | N/A |
+| 30 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 31 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 32 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 33 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 34 | [racławicami](http://twitter.com/search?q=rac%c5%82awicami) | N/A |
+| 35 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 36 | [Szwajcaria](http://twitter.com/search?q=Szwajcaria) | N/A |
+| 37 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
+| 38 | [PKP Energetyka](http://twitter.com/search?q=PKP+Energetyka) | N/A |
+| 39 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
+| 40 | [Stolarczyka](http://twitter.com/search?q=Stolarczyka) | N/A |
+| 41 | [frankowski](http://twitter.com/search?q=frankowski) | N/A |
+| 42 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 43 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
+| 44 | [odessę](http://twitter.com/search?q=odess%c4%99) | N/A |
+| 45 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 46 | [Hamburgu](http://twitter.com/search?q=Hamburgu) | N/A |
+| 47 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 49 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
+| 50 | [petersburgu](http://twitter.com/search?q=petersburgu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-04-04 15:22:05 UTC`
+📆 Last Updated: `2023-04-04 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 4 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
-| 5 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 6 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 7 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 8 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 9 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [margot robbie](http://twitter.com/search?q=margot+robbie) | N/A |
-| 12 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 13 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 14 | [Lola James](http://twitter.com/search?q=Lola+James) | N/A |
-| 15 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 16 | [craig charles](http://twitter.com/search?q=craig+charles) | N/A |
-| 17 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 18 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 22 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 23 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 26 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 27 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 28 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
-| 29 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 30 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 31 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
-| 32 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 33 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 34 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 35 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 36 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 37 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 38 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 39 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 40 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 41 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 42 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 45 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 46 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
-| 47 | [#TwitterLogo](http://twitter.com/search?q=%23TwitterLogo) | N/A |
-| 48 | [#balance](http://twitter.com/search?q=%23balance) | N/A |
-| 49 | [#SLSA2023](http://twitter.com/search?q=%23SLSA2023) | N/A |
+| 3 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 5 | [#PoliticiansInMoviesOrSongs](http://twitter.com/search?q=%23PoliticiansInMoviesOrSongs) | N/A |
+| 6 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 7 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 8 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 9 | [The EHRC](http://twitter.com/search?q=The+EHRC) | N/A |
+| 10 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 11 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 12 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 13 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 14 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 16 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 17 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 18 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 19 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 20 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
+| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 22 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 23 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 24 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 25 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 26 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 27 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
+| 28 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 29 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
+| 30 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 31 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 34 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
+| 35 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 36 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 37 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 38 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 39 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 40 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 42 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 43 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 44 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 45 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 46 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 47 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 48 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 49 | [Brook](http://twitter.com/search?q=Brook) | N/A |
+| 50 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
 
 
 
