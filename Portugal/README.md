@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-04 03:18:08 UTC`
+📆 Last Updated: `2023-04-04 04:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,37 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SpaceBrunardo](http://twitter.com/search?q=%23SpaceBrunardo) | N/A |
-| 2 | [Jubas](http://twitter.com/search?q=Jubas) | N/A |
-| 3 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
-| 4 | [#brunotriangulo](http://twitter.com/search?q=%23brunotriangulo) | N/A |
+| 1 | [Jubas](http://twitter.com/search?q=Jubas) | N/A |
+| 2 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
+| 3 | [#brunotriangulo](http://twitter.com/search?q=%23brunotriangulo) | N/A |
+| 4 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 6 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
 | 7 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
 | 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [chiquinho](http://twitter.com/search?q=chiquinho) | N/A |
-| 10 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 11 | [samaris](http://twitter.com/search?q=samaris) | N/A |
-| 12 | [#MrR4bbit](http://twitter.com/search?q=%23MrR4bbit) | N/A |
-| 13 | [Alexandre Pais](http://twitter.com/search?q=Alexandre+Pais) | N/A |
-| 14 | [Maria Botelho Moniz](http://twitter.com/search?q=Maria+Botelho+Moniz) | N/A |
-| 15 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 9 | [#SpaceBrunardo](http://twitter.com/search?q=%23SpaceBrunardo) | N/A |
+| 10 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 11 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 12 | [samaris](http://twitter.com/search?q=samaris) | N/A |
+| 13 | [#mrr4bbit](http://twitter.com/search?q=%23mrr4bbit) | N/A |
+| 14 | [Alexandre Pais](http://twitter.com/search?q=Alexandre+Pais) | N/A |
+| 15 | [maria botelho moniz](http://twitter.com/search?q=maria+botelho+moniz) | N/A |
 | 16 | [Orochi](http://twitter.com/search?q=Orochi) | Orochi is a legendary eight-headed dragon from Japanese mythology. It is said to have been slain by the god Susanoo, who was sent by the gods to rid the world of its evil. In English, Orochi means "giant serpent". |
 | 17 | [Erick](http://twitter.com/search?q=Erick) | N/A |
 | 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 19 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
 | 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 21 | [Kevinho](http://twitter.com/search?q=Kevinho) | N/A |
-| 22 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 23 | [Futsal](http://twitter.com/search?q=Futsal) | N/A |
+| 21 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 22 | [Futsal](http://twitter.com/search?q=Futsal) | N/A |
+| 23 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 24 | [Portimonense](http://twitter.com/search?q=Portimonense) | N/A |
 | 25 | [Rio Ave](http://twitter.com/search?q=Rio+Ave) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [Kevinho](http://twitter.com/search?q=Kevinho) | N/A |
 | 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 29 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 29 | [mário silva](http://twitter.com/search?q=m%c3%a1rio+silva) | N/A |
 | 30 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 31 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 31 | [Moana](http://twitter.com/search?q=Moana) | N/A |
 | 32 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 33 | [São Petersburgo](http://twitter.com/search?q=S%c3%a3o+Petersburgo) | N/A |
 | 34 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |

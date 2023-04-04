@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-04 03:17:29 UTC`
+📆 Last Updated: `2023-04-04 04:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 5 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 6 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 7 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 8 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 9 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 10 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 11 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 12 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 13 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
+| 7 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 9 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 10 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 11 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 12 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 14 | [Roller](http://twitter.com/search?q=Roller) | N/A |
 | 15 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 16 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 17 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 18 | [fahrerflucht](http://twitter.com/search?q=fahrerflucht) | N/A |
+| 16 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
+| 17 | [fahrerflucht](http://twitter.com/search?q=fahrerflucht) | N/A |
+| 18 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
 | 19 | [Veganerin](http://twitter.com/search?q=Veganerin) | N/A |
 | 20 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
 | 21 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
 | 22 | [osterwoche](http://twitter.com/search?q=osterwoche) | N/A |
-| 23 | [xbox ser](http://twitter.com/search?q=xbox+ser) | N/A |
-| 24 | [Krisenmodus](http://twitter.com/search?q=Krisenmodus) | N/A |
-| 25 | [unfallflucht](http://twitter.com/search?q=unfallflucht) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
-| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 23 | [Krisenmodus](http://twitter.com/search?q=Krisenmodus) | N/A |
+| 24 | [unfallflucht](http://twitter.com/search?q=unfallflucht) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
+| 27 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 28 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
 | 29 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 30 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 33 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 34 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 35 | [finnen](http://twitter.com/search?q=finnen) | N/A |
-| 36 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 37 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 38 | [fakeaccount](http://twitter.com/search?q=fakeaccount) | N/A |
-| 39 | [Klitschko](http://twitter.com/search?q=Klitschko) | N/A |
-| 40 | [arbeitswoche](http://twitter.com/search?q=arbeitswoche) | N/A |
-| 41 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 42 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 43 | [franz alt](http://twitter.com/search?q=franz+alt) | N/A |
-| 44 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 46 | [Markenkern](http://twitter.com/search?q=Markenkern) | N/A |
-| 47 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 48 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
+| 30 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 31 | [finnen](http://twitter.com/search?q=finnen) | N/A |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 34 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 35 | [fakeaccount](http://twitter.com/search?q=fakeaccount) | N/A |
+| 36 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 37 | [franz alt](http://twitter.com/search?q=franz+alt) | N/A |
+| 38 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
+| 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 40 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
+| 41 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 42 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 43 | [Markenkern](http://twitter.com/search?q=Markenkern) | N/A |
+| 44 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
+| 45 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 46 | [Vladlen Tatarsky](http://twitter.com/search?q=Vladlen+Tatarsky) | N/A |
+| 47 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 48 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
 
 
 

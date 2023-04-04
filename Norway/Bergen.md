@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-04 03:17:33 UTC`
+📆 Last Updated: `2023-04-04 04:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,14 +51,14 @@ This is top 50 for [Norway](</Norway>)
 | 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 35 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 36 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 37 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 37 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
 | 38 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
 | 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 40 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 41 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
 | 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 43 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 44 | [Hauger](http://twitter.com/search?q=Hauger) | N/A |
+| 44 | [hauger](http://twitter.com/search?q=hauger) | N/A |
 | 45 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 46 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
 | 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |

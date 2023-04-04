@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-04 03:18:07 UTC`
+📆 Last Updated: `2023-04-04 04:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -58,13 +58,13 @@ This is top 50 for Norway
 | 41 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
 | 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 43 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 44 | [Hauger](http://twitter.com/search?q=Hauger) | N/A |
+| 44 | [hauger](http://twitter.com/search?q=hauger) | N/A |
 | 45 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 46 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 49 | [North](http://twitter.com/search?q=North) | N/A |
-| 50 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 48 | [North](http://twitter.com/search?q=North) | N/A |
+| 49 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 50 | [astrup](http://twitter.com/search?q=astrup) | N/A |
 
 
 

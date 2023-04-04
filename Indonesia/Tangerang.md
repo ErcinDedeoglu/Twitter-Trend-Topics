@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-04 03:17:35 UTC`
+📆 Last Updated: `2023-04-04 04:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TolakLimbahNuklirJepang](http://twitter.com/search?q=%23TolakLimbahNuklirJepang) | N/A |
+| 1 | [#PotonganOngkir40RB](http://twitter.com/search?q=%23PotonganOngkir40RB) | N/A |
 | 2 | [#FlashSaleMobilRp1](http://twitter.com/search?q=%23FlashSaleMobilRp1) | N/A |
-| 3 | [#PotonganOngkir40RB](http://twitter.com/search?q=%23PotonganOngkir40RB) | N/A |
-| 4 | [#PromoPuncakRamadanShopee](http://twitter.com/search?q=%23PromoPuncakRamadanShopee) | N/A |
-| 5 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 6 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 7 | [menangkan kemajuan rakyat](http://twitter.com/search?q=menangkan+kemajuan+rakyat) | N/A |
-| 8 | [prabowo persatuan indonesia](http://twitter.com/search?q=prabowo+persatuan+indonesia) | N/A |
-| 9 | [bikin indonesia nyaman](http://twitter.com/search?q=bikin+indonesia+nyaman) | N/A |
-| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 11 | [dirkrimsus polda sulsel](http://twitter.com/search?q=dirkrimsus+polda+sulsel) | N/A |
-| 12 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 13 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 14 | [sudah baca tempo](http://twitter.com/search?q=sudah+baca+tempo) | N/A |
-| 15 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 16 | [hydra veil sleeping mask](http://twitter.com/search?q=hydra+veil+sleeping+mask) | N/A |
-| 17 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 18 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 19 | [prabowo subianto](http://twitter.com/search?q=prabowo+subianto) | N/A |
-| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 21 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 22 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
-| 23 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 24 | [Khilafah Menyatukan Kita](http://twitter.com/search?q=Khilafah+Menyatukan+Kita) | N/A |
-| 25 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 26 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
-| 27 | [Syariah Lindungi Nyawa Manusia](http://twitter.com/search?q=Syariah+Lindungi+Nyawa+Manusia) | N/A |
-| 28 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 29 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
-| 30 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 31 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 32 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 33 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 34 | [JIMIN PAVED THE WAY](http://twitter.com/search?q=JIMIN+PAVED+THE+WAY) | N/A |
-| 35 | [get well soon jaehyuk](http://twitter.com/search?q=get+well+soon+jaehyuk) | N/A |
-| 36 | [number one in my heart](http://twitter.com/search?q=number+one+in+my+heart) | N/A |
-| 37 | [CONGRATULATIONS NAMJOON](http://twitter.com/search?q=CONGRATULATIONS+NAMJOON) | N/A |
-| 38 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 39 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 40 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
-| 41 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 42 | [Novia](http://twitter.com/search?q=Novia) | N/A |
-| 43 | [5% niacinamide](http://twitter.com/search?q=5%25+niacinamide) | N/A |
-| 44 | [Balikin X1](http://twitter.com/search?q=Balikin+X1) | N/A |
-| 45 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 46 | [guru penjas](http://twitter.com/search?q=guru+penjas) | N/A |
-| 47 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
-| 48 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
+| 3 | [#PromoPuncakRamadanShopee](http://twitter.com/search?q=%23PromoPuncakRamadanShopee) | N/A |
+| 4 | [#RamadhanBarengGanjar](http://twitter.com/search?q=%23RamadhanBarengGanjar) | N/A |
+| 5 | [#TolakLimbahNuklirJepang](http://twitter.com/search?q=%23TolakLimbahNuklirJepang) | N/A |
+| 6 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
+| 7 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 8 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 9 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 10 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 11 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 12 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 13 | [Khilafah Menyatukan Kita](http://twitter.com/search?q=Khilafah+Menyatukan+Kita) | N/A |
+| 14 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
+| 15 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
+| 16 | [Syariah Lindungi Nyawa Manusia](http://twitter.com/search?q=Syariah+Lindungi+Nyawa+Manusia) | N/A |
+| 17 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 18 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 19 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 20 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 21 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 22 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 23 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
+| 24 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 25 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
+| 26 | [Nurul](http://twitter.com/search?q=Nurul) | N/A |
+| 27 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 30 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 31 | [Nasdem](http://twitter.com/search?q=Nasdem) | N/A |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 34 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
+| 35 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 36 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
+| 37 | [#OTSReComeback](http://twitter.com/search?q=%23OTSReComeback) | N/A |
+| 38 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 39 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 40 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 41 | [#DPRSarangBandit](http://twitter.com/search?q=%23DPRSarangBandit) | N/A |
+| 42 | [#1Hot100SongWriterRM](http://twitter.com/search?q=%231Hot100SongWriterRM) | N/A |
+| 43 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
+| 44 | [#ROSÉ](http://twitter.com/search?q=%23ROS%c3%89) | N/A |
+| 45 | [#RamadhanDay13](http://twitter.com/search?q=%23RamadhanDay13) | N/A |
+| 46 | [#GalaxyM14](http://twitter.com/search?q=%23GalaxyM14) | N/A |
+| 47 | [#GakAdaMatinya](http://twitter.com/search?q=%23GakAdaMatinya) | N/A |
+| 48 | [#4랑에_4랑을더한_혁재탄신일](http://twitter.com/search?q=%234%eb%9e%91%ec%97%90_4%eb%9e%91%ec%9d%84%eb%8d%94%ed%95%9c_%ed%98%81%ec%9e%ac%ed%83%84%ec%8b%a0%ec%9d%bc) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-04 03:18:06 UTC`
+📆 Last Updated: `2023-04-04 04:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Kuwait
 | 1 | [#القادسيه_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 2 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
 | 3 | [#اربح_مع_بوبيان](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
-| 4 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 5 | [#صلاه_الفجر](http://twitter.com/search?q=%23%d8%b5%d9%84%d8%a7%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
+| 4 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 5 | [١٢ رمضان](http://twitter.com/search?q=%d9%a1%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 6 | [#احمد_النواف](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 7 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 8 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 9 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 10 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 7 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 8 | [#اربح_مع_عسل_المعجزه12](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%b9%d8%b3%d9%84_%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%b2%d9%8712) | N/A |
+| 9 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 10 | [قره عين المساكين](http://twitter.com/search?q=%d9%82%d8%b1%d9%87+%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%83%d9%8a%d9%86) | N/A |
 | 11 | [خالد الغانم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 12 | [علي العدل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 13 | [13 رمضان](http://twitter.com/search?q=13+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 14 | [الخفض الطوعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%b6+%d8%a7%d9%84%d8%b7%d9%88%d8%b9%d9%8a) | N/A |
-| 15 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 12 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 13 | [علي العدل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 14 | [13 رمضان](http://twitter.com/search?q=13+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 15 | [الخفض الطوعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%b6+%d8%a7%d9%84%d8%b7%d9%88%d8%b9%d9%8a) | N/A |
 | 16 | [الرياحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%ad%d9%8a) | N/A |
 | 17 | [مشعل الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
 | 18 | [سعد علوش](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%b9%d9%84%d9%88%d8%b4) | N/A |
 | 19 | [العين الحمرا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7) | N/A |
-| 20 | [حزام الشاهين](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
-| 21 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 22 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 23 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
-| 24 | [صباح السالم](http://twitter.com/search?q=%d8%b5%d8%a8%d8%a7%d8%ad+%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 25 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 26 | [ولي العهد الشيخ](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 27 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 28 | [سيسوكو](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b3%d9%88%d9%83%d9%88) | N/A |
-| 29 | [يابو فالح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%a7%d9%84%d8%ad) | N/A |
-| 30 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 31 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 32 | [الدراسات العليا](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
-| 33 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 34 | [بيت الزكاه](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%83%d8%a7%d9%87) | N/A |
-| 35 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 20 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 21 | [حزام الشاهين](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
+| 22 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 23 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 24 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
+| 25 | [ولي العهد الشيخ](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 26 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 27 | [سيسوكو](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b3%d9%88%d9%83%d9%88) | N/A |
+| 28 | [يابو فالح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%a7%d9%84%d8%ad) | N/A |
+| 29 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 30 | [الدراسات العليا](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
+| 31 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 32 | [صباح السالم](http://twitter.com/search?q=%d8%b5%d8%a8%d8%a7%d8%ad+%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 33 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 34 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 35 | [بيت الزكاه](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%83%d8%a7%d9%87) | N/A |
 | 36 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 37 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
-| 38 | [علي طريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%b1%d9%8a%d9%82) | N/A |
-| 39 | [التنفيذ المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 40 | [صوت الكاسكو](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%83%d9%88) | N/A |
-| 41 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
-| 42 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
-| 43 | [شعيب المويزري](http://twitter.com/search?q=%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d8%b2%d8%b1%d9%8a) | N/A |
-| 44 | [علي الحكام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85) | N/A |
-| 45 | [كتاب عدم التعاون](http://twitter.com/search?q=%d9%83%d8%aa%d8%a7%d8%a8+%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 46 | [فرع بوبيان](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
-| 47 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
-| 48 | [علي صخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d8%ae%d8%b1) | N/A |
-| 49 | [مشاري العازمي](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
-| 50 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
+| 37 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 38 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
+| 39 | [علي طريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%b1%d9%8a%d9%82) | N/A |
+| 40 | [التنفيذ المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 41 | [صوت الكاسكو](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%83%d9%88) | N/A |
+| 42 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
+| 43 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
+| 44 | [شعيب المويزري](http://twitter.com/search?q=%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d8%b2%d8%b1%d9%8a) | N/A |
+| 45 | [علي الحكام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85) | N/A |
+| 46 | [كتاب عدم التعاون](http://twitter.com/search?q=%d9%83%d8%aa%d8%a7%d8%a8+%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 47 | [فرع بوبيان](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
+| 48 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 49 | [علي صخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d8%ae%d8%b1) | N/A |
+| 50 | [مشاري العازمي](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
 
 
 

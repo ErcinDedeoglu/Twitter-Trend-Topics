@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-04 03:18:06 UTC`
+📆 Last Updated: `2023-04-04 04:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
-| 2 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 3 | [#AmkanaWestFm](http://twitter.com/search?q=%23AmkanaWestFm) | N/A |
+| 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 2 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
+| 3 | [#zullynashugaboy](http://twitter.com/search?q=%23zullynashugaboy) | N/A |
 | 4 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
-| 5 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
-| 6 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
-| 7 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 11 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 12 | [DJ Brownskin](http://twitter.com/search?q=DJ+Brownskin) | N/A |
-| 13 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 14 | [Eric omondi](http://twitter.com/search?q=Eric+omondi) | N/A |
-| 15 | [Cherera 4](http://twitter.com/search?q=Cherera+4) | N/A |
-| 16 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 17 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
-| 18 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 19 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 20 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 5 | [#PowerUpHBR](http://twitter.com/search?q=%23PowerUpHBR) | N/A |
+| 6 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
+| 7 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
+| 8 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 9 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 13 | [DJ Brownskin](http://twitter.com/search?q=DJ+Brownskin) | N/A |
+| 14 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 15 | [Eric omondi](http://twitter.com/search?q=Eric+omondi) | N/A |
+| 16 | [Cherera 4](http://twitter.com/search?q=Cherera+4) | N/A |
+| 17 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 18 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
+| 19 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 20 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
 | 21 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 22 | [embu mega businessexpo](http://twitter.com/search?q=embu+mega+businessexpo) | N/A |
+| 22 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 23 | [bedigitallyfit na robisearch](http://twitter.com/search?q=bedigitallyfit+na+robisearch) | N/A |
-| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 25 | [Rapture](http://twitter.com/search?q=Rapture) | N/A |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Easy Coach](http://twitter.com/search?q=Easy+Coach) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 31 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
-| 32 | [social protection conf](http://twitter.com/search?q=social+protection+conf) | N/A |
-| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 34 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
+| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 26 | [Rapture](http://twitter.com/search?q=Rapture) | N/A |
+| 27 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 28 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 29 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 30 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 31 | [Easy Coach](http://twitter.com/search?q=Easy+Coach) | N/A |
+| 32 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
+| 33 | [social protection conf](http://twitter.com/search?q=social+protection+conf) | N/A |
+| 34 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
 | 35 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 36 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 37 | [greening judiciaries in africa](http://twitter.com/search?q=greening+judiciaries+in+africa) | N/A |
-| 38 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 39 | [les wanyika](http://twitter.com/search?q=les+wanyika) | N/A |
-| 40 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 41 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
-| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 44 | [3rd regional symposium](http://twitter.com/search?q=3rd+regional+symposium) | N/A |
-| 45 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
-| 46 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
-| 47 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
-| 48 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 49 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 50 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 36 | [greening judiciaries in africa](http://twitter.com/search?q=greening+judiciaries+in+africa) | N/A |
+| 37 | [les wanyika](http://twitter.com/search?q=les+wanyika) | N/A |
+| 38 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 39 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
+| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 41 | [3rd regional symposium](http://twitter.com/search?q=3rd+regional+symposium) | N/A |
+| 42 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
+| 43 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
+| 44 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 45 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 46 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 47 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 48 | [Lord Jesus Christ](http://twitter.com/search?q=Lord+Jesus+Christ) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 
 
 

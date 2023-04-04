@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-04 03:17:33 UTC`
+📆 Last Updated: `2023-04-04 04:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for [Sweden](</Sweden>)
 | 18 | [Dabo](http://twitter.com/search?q=Dabo) | Dabo is a traditional board game from West Africa. It is a two-player strategy game that involves placing stones on a board in order to capture the opponent's pieces. The name "Dabo" comes from the Fula language and means "to win". |
 | 19 | [Petteri Orpo](http://twitter.com/search?q=Petteri+Orpo) | N/A |
 | 20 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 21 | [Göran Persson](http://twitter.com/search?q=G%c3%b6ran+Persson) | N/A |
-| 22 | [panikvåren](http://twitter.com/search?q=panikv%c3%a5ren) | N/A |
-| 23 | [pontus rasmusson](http://twitter.com/search?q=pontus+rasmusson) | N/A |
+| 21 | [panikvåren](http://twitter.com/search?q=panikv%c3%a5ren) | N/A |
+| 22 | [pontus rasmusson](http://twitter.com/search?q=pontus+rasmusson) | N/A |
+| 23 | [Göran Persson](http://twitter.com/search?q=G%c3%b6ran+Persson) | N/A |
 | 24 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [#vårpåminplanet](http://twitter.com/search?q=%23v%c3%a5rp%c3%a5minplanet) | N/A |
-| 29 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 30 | [gällstedt](http://twitter.com/search?q=g%c3%a4llstedt) | N/A |
-| 31 | [demirok](http://twitter.com/search?q=demirok) | N/A |
-| 32 | [Ackerman](http://twitter.com/search?q=Ackerman) | N/A |
-| 33 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
-| 34 | [degerfors](http://twitter.com/search?q=degerfors) | N/A |
-| 35 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
-| 36 | [vainio](http://twitter.com/search?q=vainio) | N/A |
-| 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 38 | [#Agenda](http://twitter.com/search?q=%23Agenda) | N/A |
-| 39 | [kräver](http://twitter.com/search?q=kr%c3%a4ver) | N/A |
-| 40 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
-| 41 | [odelius](http://twitter.com/search?q=odelius) | N/A |
-| 42 | [folin](http://twitter.com/search?q=folin) | N/A |
-| 43 | [halmstad](http://twitter.com/search?q=halmstad) | N/A |
-| 44 | [finnarna](http://twitter.com/search?q=finnarna) | N/A |
-| 45 | [#jsödra](http://twitter.com/search?q=%23js%c3%b6dra) | N/A |
-| 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 47 | [$SBB](http://twitter.com/search?q=%24SBB) | N/A |
-| 48 | [vejdemo](http://twitter.com/search?q=vejdemo) | N/A |
-| 49 | [joel alme](http://twitter.com/search?q=joel+alme) | N/A |
-| 50 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 25 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [#vårpåminplanet](http://twitter.com/search?q=%23v%c3%a5rp%c3%a5minplanet) | N/A |
+| 28 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 29 | [gällstedt](http://twitter.com/search?q=g%c3%a4llstedt) | N/A |
+| 30 | [demirok](http://twitter.com/search?q=demirok) | N/A |
+| 31 | [Ackerman](http://twitter.com/search?q=Ackerman) | N/A |
+| 32 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
+| 33 | [degerfors](http://twitter.com/search?q=degerfors) | N/A |
+| 34 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
+| 35 | [vainio](http://twitter.com/search?q=vainio) | N/A |
+| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [#Agenda](http://twitter.com/search?q=%23Agenda) | N/A |
+| 38 | [kräver](http://twitter.com/search?q=kr%c3%a4ver) | N/A |
+| 39 | [krüger](http://twitter.com/search?q=kr%c3%bcger) | N/A |
+| 40 | [odelius](http://twitter.com/search?q=odelius) | N/A |
+| 41 | [folin](http://twitter.com/search?q=folin) | N/A |
+| 42 | [halmstad](http://twitter.com/search?q=halmstad) | N/A |
+| 43 | [finnarna](http://twitter.com/search?q=finnarna) | N/A |
+| 44 | [#jsödra](http://twitter.com/search?q=%23js%c3%b6dra) | N/A |
+| 45 | [$SBB](http://twitter.com/search?q=%24SBB) | N/A |
+| 46 | [vejdemo](http://twitter.com/search?q=vejdemo) | N/A |
+| 47 | [joel alme](http://twitter.com/search?q=joel+alme) | N/A |
+| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 49 | [Kenta](http://twitter.com/search?q=Kenta) | N/A |
+| 50 | [willy silberstein](http://twitter.com/search?q=willy+silberstein) | N/A |
 
 
 

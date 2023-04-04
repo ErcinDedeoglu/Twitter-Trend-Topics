@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-04 03:18:04 UTC`
+📆 Last Updated: `2023-04-04 04:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,17 +18,17 @@ This is top 50 for France
 | 1 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
 | 2 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 3 | [#grimantisemite](http://twitter.com/search?q=%23grimantisemite) | N/A |
-| 4 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 5 | [#mapr](http://twitter.com/search?q=%23mapr) | N/A |
-| 6 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 4 | [#mapr](http://twitter.com/search?q=%23mapr) | N/A |
+| 5 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
+| 6 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
 | 7 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
 | 8 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
 | 9 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
-| 10 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 11 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
+| 10 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
+| 11 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
 | 12 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
 | 13 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
-| 14 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
+| 14 | [#mariesaupremierregard](http://twitter.com/search?q=%23mariesaupremierregard) | N/A |
 | 15 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 17 | [Utip](http://twitter.com/search?q=Utip) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for France
 | 21 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
 | 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 23 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 24 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 25 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 26 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 27 | [paralympique](http://twitter.com/search?q=paralympique) | N/A |
-| 28 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 29 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
-| 30 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 31 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 32 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 34 | [dupraz](http://twitter.com/search?q=dupraz) | N/A |
+| 24 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 25 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 26 | [paralympique](http://twitter.com/search?q=paralympique) | N/A |
+| 27 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 28 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
+| 29 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 30 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 31 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [dupraz](http://twitter.com/search?q=dupraz) | N/A |
+| 34 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
 | 35 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 36 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 37 | [rameaux](http://twitter.com/search?q=rameaux) | N/A |
-| 38 | [letexier](http://twitter.com/search?q=letexier) | N/A |
-| 39 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
-| 40 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 41 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 42 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 36 | [letexier](http://twitter.com/search?q=letexier) | N/A |
+| 37 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 38 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
+| 39 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 40 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 41 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 42 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 43 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
-| 44 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 45 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 47 | [Soda](http://twitter.com/search?q=Soda) | N/A |
-| 48 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
-| 49 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 50 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 44 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 45 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 46 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
+| 47 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 48 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 49 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 50 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 
 
 

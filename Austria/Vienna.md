@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-04 03:17:26 UTC`
+📆 Last Updated: `2023-04-04 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for [Austria](</Austria>)
 | 24 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
 | 25 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
 | 26 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
-| 27 | [bedingungen](http://twitter.com/search?q=bedingungen) | N/A |
+| 27 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
 | 28 | [klenk](http://twitter.com/search?q=klenk) | N/A |
 | 29 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 30 | [haft](http://twitter.com/search?q=haft) | N/A |
+| 30 | [Haft](http://twitter.com/search?q=Haft) | N/A |
 | 31 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
 | 32 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 33 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |
-| 34 | [Gesetzen](http://twitter.com/search?q=Gesetzen) | N/A |
-| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 36 | [gockel](http://twitter.com/search?q=gockel) | N/A |
-| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 38 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
-| 39 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
-| 40 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 41 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
-| 42 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 43 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 44 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 45 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 46 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 47 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
-| 48 | [Zusammenhänge](http://twitter.com/search?q=Zusammenh%c3%a4nge) | N/A |
-| 49 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 50 | [Flucht](http://twitter.com/search?q=Flucht) | N/A |
+| 33 | [Gesetzen](http://twitter.com/search?q=Gesetzen) | N/A |
+| 34 | [gockel](http://twitter.com/search?q=gockel) | N/A |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
+| 37 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
+| 38 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 39 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
+| 40 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 41 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 42 | [arbeitskräfte](http://twitter.com/search?q=arbeitskr%c3%a4fte) | N/A |
+| 43 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 44 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 45 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
+| 46 | [Zusammenhänge](http://twitter.com/search?q=Zusammenh%c3%a4nge) | N/A |
+| 47 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 48 | [Flucht](http://twitter.com/search?q=Flucht) | N/A |
+| 49 | [Blender](http://twitter.com/search?q=Blender) | N/A |
+| 50 | [insel](http://twitter.com/search?q=insel) | N/A |
 
 
 

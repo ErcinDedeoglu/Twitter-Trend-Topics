@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-04-04 03:18:06 UTC`
+📆 Last Updated: `2023-04-04 04:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Jordan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 2 | [#اجهزتنا_الامنيه_عز_وفخر](http://twitter.com/search?q=%23%d8%a7%d8%ac%d9%87%d8%b2%d8%aa%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
-| 3 | [13 رمضان](http://twitter.com/search?q=13+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 1 | [13 رمضان](http://twitter.com/search?q=13+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 2 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 3 | [#اجهزتنا_الامنيه_عز_وفخر](http://twitter.com/search?q=%23%d8%a7%d8%ac%d9%87%d8%b2%d8%aa%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
 | 4 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
 | 5 | [متحف الدبابات](http://twitter.com/search?q=%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa) | N/A |
 | 6 | [الاحزاب الراغبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b2%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d8%a7%d8%ba%d8%a8%d9%87) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for Jordan
 | 25 | [شركات التامين](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%8a%d9%86) | N/A |
 | 26 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 27 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 28 | [امين اللهم](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 29 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 30 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 31 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
-| 32 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
-| 33 | [بلد الوليد](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 34 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 35 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 36 | [التجاره الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 38 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 39 | [الجيش الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 40 | [ماليه النواب](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 41 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 42 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 43 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 44 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 45 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 46 | [فيروس ماربورغ](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%88%d8%b3+%d9%85%d8%a7%d8%b1%d8%a8%d9%88%d8%b1%d8%ba) | N/A |
-| 47 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 48 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 49 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 50 | [دور كبير](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 28 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 29 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 30 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
+| 31 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 32 | [بلد الوليد](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
+| 33 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 34 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 35 | [التجاره الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 36 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 37 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 38 | [الجيش الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 39 | [ماليه النواب](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 40 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 41 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 42 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 43 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
+| 44 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 45 | [فيروس ماربورغ](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%88%d8%b3+%d9%85%d8%a7%d8%b1%d8%a8%d9%88%d8%b1%d8%ba) | N/A |
+| 46 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 47 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 48 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 49 | [دور كبير](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 50 | [الموسم الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
 
 
 

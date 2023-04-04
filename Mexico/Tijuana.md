@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-04-04 03:17:20 UTC`
+📆 Last Updated: `2023-04-04 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
 | 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 4 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
+| 3 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
+| 4 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 5 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 6 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
-| 7 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
-| 8 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 9 | [Violento](http://twitter.com/search?q=Violento) | N/A |
-| 10 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 11 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 12 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 15 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 16 | [Leve](http://twitter.com/search?q=Leve) | N/A |
-| 17 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 18 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 19 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 21 | [1 TRAGO IS COMING](http://twitter.com/search?q=1+TRAGO+IS+COMING) | N/A |
-| 22 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
-| 23 | [En Puebla](http://twitter.com/search?q=En+Puebla) | N/A |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [En CDMX](http://twitter.com/search?q=En+CDMX) | N/A |
-| 26 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
-| 27 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 28 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 29 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
-| 30 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
-| 31 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 32 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 33 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
-| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 35 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
-| 36 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 37 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 38 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 39 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 40 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
-| 41 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 42 | [DANNA PAOLA](http://twitter.com/search?q=DANNA+PAOLA) | N/A |
-| 43 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 44 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
-| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 46 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 47 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
-| 48 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 49 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 6 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 7 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 8 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
+| 9 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 10 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
+| 11 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
+| 12 | [Violento](http://twitter.com/search?q=Violento) | N/A |
+| 13 | [Juanpa Zurita](http://twitter.com/search?q=Juanpa+Zurita) | N/A |
+| 14 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 15 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 16 | [Delia](http://twitter.com/search?q=Delia) | N/A |
+| 17 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 18 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 20 | [Afortunadamente](http://twitter.com/search?q=Afortunadamente) | N/A |
+| 21 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 22 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 23 | [Caleta](http://twitter.com/search?q=Caleta) | N/A |
+| 24 | [1 TRAGO PA OLVIDARTE](http://twitter.com/search?q=1+TRAGO+PA+OLVIDARTE) | N/A |
+| 25 | [Leve](http://twitter.com/search?q=Leve) | N/A |
+| 26 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 27 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 28 | [1 TRAGO IS COMING](http://twitter.com/search?q=1+TRAGO+IS+COMING) | N/A |
+| 29 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
+| 30 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
+| 31 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
+| 32 | [En Puebla](http://twitter.com/search?q=En+Puebla) | N/A |
+| 33 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
+| 34 | [En CDMX](http://twitter.com/search?q=En+CDMX) | N/A |
+| 35 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 36 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 37 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
+| 38 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 39 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
+| 40 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 41 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 42 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 43 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
+| 44 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 45 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 46 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 47 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 48 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 49 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
 
 
 

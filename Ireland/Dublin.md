@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-04 03:17:26 UTC`
+📆 Last Updated: `2023-04-04 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,25 +16,25 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
-| 2 | [Fionnan Sheahan](http://twitter.com/search?q=Fionnan+Sheahan) | N/A |
-| 3 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 4 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 2 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 3 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 4 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
 | 5 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
 | 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
-| 8 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 9 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 10 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
+| 7 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
+| 8 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Fionnan Sheahan](http://twitter.com/search?q=Fionnan+Sheahan) | N/A |
+| 11 | [#usi23](http://twitter.com/search?q=%23usi23) | N/A |
+| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 13 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
 | 14 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
 | 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 16 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
 | 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Peter McVerry](http://twitter.com/search?q=Peter+McVerry) | N/A |
+| 20 | [peter mcverry](http://twitter.com/search?q=peter+mcverry) | N/A |
 | 21 | [Milk](http://twitter.com/search?q=Milk) | N/A |
 | 22 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
 | 23 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
@@ -51,8 +51,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 35 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
 | 36 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 37 | [Simon Harris](http://twitter.com/search?q=Simon+Harris) | N/A |
-| 38 | [Patrick O'Donovan](http://twitter.com/search?q=Patrick+O%27Donovan) | N/A |
+| 37 | [simon harris](http://twitter.com/search?q=simon+harris) | N/A |
+| 38 | [patrick o'donovan](http://twitter.com/search?q=patrick+o%27donovan) | N/A |
 | 39 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 40 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 41 | [Columba McVeigh](http://twitter.com/search?q=Columba+McVeigh) | N/A |

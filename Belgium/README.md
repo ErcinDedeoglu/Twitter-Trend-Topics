@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-04 03:18:03 UTC`
+📆 Last Updated: `2023-04-04 04:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,17 +28,17 @@ This is top 50 for Belgium
 | 11 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
 | 12 | [toos](http://twitter.com/search?q=toos) | N/A |
 | 13 | [van peel](http://twitter.com/search?q=van+peel) | N/A |
-| 14 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 14 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
 | 15 | [fluvius](http://twitter.com/search?q=fluvius) | N/A |
 | 16 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
-| 17 | [Finse](http://twitter.com/search?q=Finse) | N/A |
+| 17 | [finse](http://twitter.com/search?q=finse) | N/A |
 | 18 | [regie der gebouwen](http://twitter.com/search?q=regie+der+gebouwen) | N/A |
 | 19 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 20 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 21 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 22 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 23 | [spekken](http://twitter.com/search?q=spekken) | N/A |
-| 24 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
+| 24 | [kwaremont](http://twitter.com/search?q=kwaremont) | N/A |
 | 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 26 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
 | 27 | [paris-roubaix](http://twitter.com/search?q=paris-roubaix) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for Belgium
 | 31 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
 | 32 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 33 | [merlier](http://twitter.com/search?q=merlier) | N/A |
-| 34 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
+| 34 | [zaventem](http://twitter.com/search?q=zaventem) | N/A |
 | 35 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 36 | [annelies verlinden](http://twitter.com/search?q=annelies+verlinden) | N/A |
 | 37 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Belgium
 | 45 | [in belgië](http://twitter.com/search?q=in+belgi%c3%ab) | N/A |
 | 46 | [League](http://twitter.com/search?q=League) | N/A |
 | 47 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
-| 48 | [finnen](http://twitter.com/search?q=finnen) | N/A |
-| 49 | [Witte](http://twitter.com/search?q=Witte) | N/A |
-| 50 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 48 | [Witte](http://twitter.com/search?q=Witte) | N/A |
+| 49 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 50 | [Engelse](http://twitter.com/search?q=Engelse) | N/A |
 
 
 
