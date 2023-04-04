@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-04-04 21:16:36 UTC`
+📆 Last Updated: `2023-04-04 22:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
 | 3 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
 | 4 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 5 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [India](</India>)
 | 33 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
 | 34 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
 | 35 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 36 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
+| 36 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
 | 37 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
 | 38 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
 | 39 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |

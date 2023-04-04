@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-04 21:16:27 UTC`
+📆 Last Updated: `2023-04-04 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,15 +21,15 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 6 | [#JonaxxRTMVSimula](http://twitter.com/search?q=%23JonaxxRTMVSimula) | N/A |
-| 7 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 7 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
 | 8 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
 | 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 10 | [congrats jimin](http://twitter.com/search?q=congrats+jimin) | N/A |
 | 11 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 12 | [Congratulations Park Jimin](http://twitter.com/search?q=Congratulations+Park+Jimin) | N/A |
 | 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 14 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 15 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 15 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
 | 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 17 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
 | 18 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
@@ -54,11 +54,11 @@ This is top 50 for [Philippines](</Philippines>)
 | 37 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
 | 38 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
 | 39 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 40 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 40 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
 | 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 | 42 | [jieun](http://twitter.com/search?q=jieun) | N/A |
 | 43 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 44 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
+| 44 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 45 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
 | 46 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
 | 47 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |

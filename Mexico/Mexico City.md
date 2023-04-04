@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-04 21:16:04 UTC`
+📆 Last Updated: `2023-04-04 22:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AmloElFracasoPresidencial](http://twitter.com/search?q=%23AmloElFracasoPresidencial) | N/A |
-| 2 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 2 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
 | 3 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 | 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 6 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 5 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 6 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 7 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 12 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 8 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 9 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 10 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
 | 13 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 14 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 16 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 17 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 18 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 19 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 20 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 21 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 22 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 23 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 24 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 25 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 26 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 27 | [#LeFaltan39Ala4t](http://twitter.com/search?q=%23LeFaltan39Ala4t) | N/A |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 30 | [Trun](http://twitter.com/search?q=Trun) | N/A |
-| 31 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 32 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 33 | [#FelizMartesATodos](http://twitter.com/search?q=%23FelizMartesATodos) | N/A |
-| 34 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
-| 35 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 36 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 37 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
-| 38 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 39 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 40 | [Austeridad](http://twitter.com/search?q=Austeridad) | N/A |
-| 41 | [Nicolás Larcamón](http://twitter.com/search?q=Nicol%c3%a1s+Larcam%c3%b3n) | N/A |
-| 42 | [Fernando Ortiz](http://twitter.com/search?q=Fernando+Ortiz) | N/A |
-| 43 | [La Comisión Disciplinaria](http://twitter.com/search?q=La+Comisi%c3%b3n+Disciplinaria) | N/A |
-| 44 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
-| 45 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 46 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 47 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 48 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
-| 49 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 50 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 18 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 21 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 22 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
+| 23 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 24 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 25 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 26 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 27 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 30 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 31 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 33 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 34 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 35 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 36 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 37 | [#LeFaltan39Ala4t](http://twitter.com/search?q=%23LeFaltan39Ala4t) | N/A |
+| 38 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 39 | [#AMLOLujoDePresidente](http://twitter.com/search?q=%23AMLOLujoDePresidente) | N/A |
+| 40 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
+| 41 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 42 | [Trun](http://twitter.com/search?q=Trun) | N/A |
+| 43 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 44 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 45 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
+| 46 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 47 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 48 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 49 | [Austeridad](http://twitter.com/search?q=Austeridad) | N/A |
+| 50 | [Nicolás Larcamón](http://twitter.com/search?q=Nicol%c3%a1s+Larcam%c3%b3n) | N/A |
 
 
 

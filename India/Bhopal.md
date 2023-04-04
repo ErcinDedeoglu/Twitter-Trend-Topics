@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-04-04 21:16:36 UTC`
+📆 Last Updated: `2023-04-04 22:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,7 +51,7 @@ This is top 50 for [India](</India>)
 | 34 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
 | 35 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
 | 36 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 37 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
+| 37 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
 | 38 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
 | 39 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
 | 40 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |

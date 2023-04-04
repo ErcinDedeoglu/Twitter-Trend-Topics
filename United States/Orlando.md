@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-04 21:16:44 UTC`
+📆 Last Updated: `2023-04-04 22:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
 | 3 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 4 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 5 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 6 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 7 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
-| 8 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 9 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 13 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 14 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 15 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 16 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 20 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 21 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 22 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 23 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 25 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 26 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 28 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 30 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 31 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 32 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 4 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 5 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 6 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 7 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 8 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
+| 9 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 10 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 11 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 14 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 15 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 16 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 20 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 21 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 22 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 23 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 24 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 25 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 27 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 28 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 29 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 30 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 31 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 32 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 33 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
 | 34 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 35 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 36 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 37 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 38 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 39 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 40 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 41 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 43 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 44 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 45 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 46 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 47 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 48 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 49 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 35 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 37 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 38 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 39 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 40 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 41 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 42 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 43 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 44 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 45 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 46 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 49 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 50 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
 
 
 

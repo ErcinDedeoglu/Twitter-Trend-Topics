@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-04 21:16:49 UTC`
+📆 Last Updated: `2023-04-04 22:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 2 | [José Ramón Peralta](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Peralta) | N/A |
-| 3 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 4 | [Kenya Romero](http://twitter.com/search?q=Kenya+Romero) | N/A |
-| 5 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
-| 6 | [#InvestiguenAbinader](http://twitter.com/search?q=%23InvestiguenAbinader) | N/A |
-| 7 | [Mérido Torres](http://twitter.com/search?q=M%c3%a9rido+Torres) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [#CasoCalamar](http://twitter.com/search?q=%23CasoCalamar) | N/A |
-| 10 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 11 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
-| 12 | [Pagán](http://twitter.com/search?q=Pag%c3%a1n) | N/A |
-| 13 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
-| 14 | [Fumio Kishida](http://twitter.com/search?q=Fumio+Kishida) | N/A |
-| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 16 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 17 | [Titulación](http://twitter.com/search?q=Titulaci%c3%b3n) | N/A |
+| 1 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
+| 2 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 3 | [José Ramón Peralta](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Peralta) | N/A |
+| 4 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 5 | [Kenya Romero](http://twitter.com/search?q=Kenya+Romero) | N/A |
+| 6 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
+| 7 | [#investiguenabinader](http://twitter.com/search?q=%23investiguenabinader) | N/A |
+| 8 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 9 | [Mérido Torres](http://twitter.com/search?q=M%c3%a9rido+Torres) | N/A |
+| 10 | [#CasoCalamar](http://twitter.com/search?q=%23CasoCalamar) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 13 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
+| 14 | [Yeni](http://twitter.com/search?q=Yeni) | N/A |
+| 15 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
+| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 17 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
 | 18 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 19 | [Arresto Domiciliario](http://twitter.com/search?q=Arresto+Domiciliario) | N/A |
-| 20 | [#felizlunes](http://twitter.com/search?q=%23felizlunes) | N/A |
-| 21 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 22 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 23 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
-| 24 | [Yeni Berenice](http://twitter.com/search?q=Yeni+Berenice) | N/A |
-| 25 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 26 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 27 | [Gonzi](http://twitter.com/search?q=Gonzi) | N/A |
-| 28 | [Mami Jordan](http://twitter.com/search?q=Mami+Jordan) | N/A |
-| 29 | [Prisión](http://twitter.com/search?q=Prisi%c3%b3n) | N/A |
-| 30 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
-| 31 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 32 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
-| 33 | [julio césar valentín](http://twitter.com/search?q=julio+c%c3%a9sar+valent%c3%adn) | N/A |
-| 34 | [dajabon](http://twitter.com/search?q=dajabon) | N/A |
-| 35 | [La Romana](http://twitter.com/search?q=La+Romana) | N/A |
-| 36 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 37 | [Johnny Cueto](http://twitter.com/search?q=Johnny+Cueto) | N/A |
-| 38 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 39 | [Cuadra](http://twitter.com/search?q=Cuadra) | N/A |
-| 40 | [Anuel AA](http://twitter.com/search?q=Anuel+AA) | N/A |
-| 41 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 42 | [El Ministerio Público](http://twitter.com/search?q=El+Ministerio+P%c3%bablico) | N/A |
-| 43 | [Constanza](http://twitter.com/search?q=Constanza) | Constanza is a female given name of Latin origin, derived from the Latin word "constantia" meaning "constancy". It is also the name of a city in the Dominican Republic. |
-| 44 | [altagracia Salazar](http://twitter.com/search?q=altagracia+Salazar) | N/A |
-| 45 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 46 | [Cristo Jesús](http://twitter.com/search?q=Cristo+Jes%c3%bas) | N/A |
-| 47 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
-| 48 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 49 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 50 | [marcha verde](http://twitter.com/search?q=marcha+verde) | N/A |
+| 19 | [Fumio Kishida](http://twitter.com/search?q=Fumio+Kishida) | N/A |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 21 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 22 | [Mami Jordan](http://twitter.com/search?q=Mami+Jordan) | N/A |
+| 23 | [#RepúblicaDominicana](http://twitter.com/search?q=%23Rep%c3%bablicaDominicana) | N/A |
+| 24 | [Arresto Domiciliario](http://twitter.com/search?q=Arresto+Domiciliario) | N/A |
+| 25 | [EE.UU](http://twitter.com/search?q=EE.UU) | N/A |
+| 26 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
+| 27 | [#NoticiasSIN](http://twitter.com/search?q=%23NoticiasSIN) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 30 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 31 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 32 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 33 | [America](http://twitter.com/search?q=America) | N/A |
+| 34 | [El Ministerio Público](http://twitter.com/search?q=El+Ministerio+P%c3%bablico) | N/A |
+| 35 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
+| 36 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
+| 37 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 39 | [Debió](http://twitter.com/search?q=Debi%c3%b3) | N/A |
+| 40 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 41 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 42 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
+| 43 | [Gonzi](http://twitter.com/search?q=Gonzi) | N/A |
+| 44 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
+| 45 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 46 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 47 | [altagracia salazar](http://twitter.com/search?q=altagracia+salazar) | N/A |
+| 48 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 49 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 50 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
 
 
 

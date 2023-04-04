@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-04-04 21:16:34 UTC`
+📆 Last Updated: `2023-04-04 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
 | 3 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
 | 4 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 5 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |

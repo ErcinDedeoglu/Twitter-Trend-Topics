@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-04 21:16:48 UTC`
+📆 Last Updated: `2023-04-04 22:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 4 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 5 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
 | 6 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 7 | [#UnDescansoDe](http://twitter.com/search?q=%23UnDescansoDe) | N/A |
+| 7 | [#undescansode](http://twitter.com/search?q=%23undescansode) | N/A |
 | 8 | [#JusticiaEs](http://twitter.com/search?q=%23JusticiaEs) | N/A |
 | 9 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
 | 10 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 11 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 12 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 13 | [#ColombiaSinMinas](http://twitter.com/search?q=%23ColombiaSinMinas) | N/A |
+| 11 | [#ColombiaSinMinas](http://twitter.com/search?q=%23ColombiaSinMinas) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
 | 14 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
 | 15 | [Ferragamo](http://twitter.com/search?q=Ferragamo) | N/A |
 | 16 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Colombia
 | 21 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 22 | [Tania](http://twitter.com/search?q=Tania) | N/A |
 | 23 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 24 | [Digno Palomino](http://twitter.com/search?q=Digno+Palomino) | N/A |
-| 25 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 26 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 24 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 25 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 27 | [Viera](http://twitter.com/search?q=Viera) | N/A |
 | 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 29 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 29 | [Digno Palomino](http://twitter.com/search?q=Digno+Palomino) | N/A |
 | 30 | [Turbaco](http://twitter.com/search?q=Turbaco) | N/A |
-| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 32 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 33 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 34 | [Minas Antipersonal](http://twitter.com/search?q=Minas+Antipersonal) | N/A |
-| 35 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
-| 36 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 38 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 39 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 40 | [Quilombo](http://twitter.com/search?q=Quilombo) | N/A |
-| 41 | [Alianza Petrolera](http://twitter.com/search?q=Alianza+Petrolera) | N/A |
-| 42 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 43 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [jorge eliecer torres](http://twitter.com/search?q=jorge+eliecer+torres) | N/A |
-| 46 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
-| 47 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 48 | [Cómbita](http://twitter.com/search?q=C%c3%b3mbita) | N/A |
+| 31 | [Luis Sinisterra](http://twitter.com/search?q=Luis+Sinisterra) | N/A |
+| 32 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 33 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 34 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 35 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 36 | [Minas Antipersonal](http://twitter.com/search?q=Minas+Antipersonal) | N/A |
+| 37 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
+| 38 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 39 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 40 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Quilombo](http://twitter.com/search?q=Quilombo) | N/A |
+| 43 | [Alianza Petrolera](http://twitter.com/search?q=Alianza+Petrolera) | N/A |
+| 44 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 45 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 46 | [jorge eliecer torres](http://twitter.com/search?q=jorge+eliecer+torres) | N/A |
+| 47 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
+| 48 | [Juez](http://twitter.com/search?q=Juez) | N/A |
 | 49 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 50 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
+| 50 | [Cómbita](http://twitter.com/search?q=C%c3%b3mbita) | N/A |
 
 
 

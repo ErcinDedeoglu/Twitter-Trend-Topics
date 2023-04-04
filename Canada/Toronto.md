@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-04 21:15:59 UTC`
+📆 Last Updated: `2023-04-04 22:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 1 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 6 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 5 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 13 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 14 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 15 | [Keean](http://twitter.com/search?q=Keean) | N/A |
-| 16 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
-| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 18 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 21 | [Calgarians](http://twitter.com/search?q=Calgarians) | N/A |
-| 22 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 23 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 24 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 25 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 26 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 27 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 28 | [#NationalCaregiverDay](http://twitter.com/search?q=%23NationalCaregiverDay) | N/A |
-| 29 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 30 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 10 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 11 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
+| 12 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 14 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 15 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 19 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 20 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 21 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 22 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 23 | [Calgarians](http://twitter.com/search?q=Calgarians) | N/A |
+| 24 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 25 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 27 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 28 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 30 | [Republic](http://twitter.com/search?q=Republic) | N/A |
 | 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 32 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
 | 33 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 34 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 35 | [Davie](http://twitter.com/search?q=Davie) | N/A |
-| 36 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
-| 37 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 38 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 39 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
-| 40 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 41 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 42 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 43 | [#silver](http://twitter.com/search?q=%23silver) | N/A |
-| 44 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 45 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 46 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 34 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 36 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 37 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 40 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
+| 41 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 42 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 43 | [#NationalCaregiverDay](http://twitter.com/search?q=%23NationalCaregiverDay) | N/A |
+| 44 | [#silver](http://twitter.com/search?q=%23silver) | N/A |
+| 45 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 46 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
 
 
 

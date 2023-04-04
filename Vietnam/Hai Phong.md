@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-04 21:16:27 UTC`
+📆 Last Updated: `2023-04-04 22:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
 | 2 | [#bkex](http://twitter.com/search?q=%23bkex) | N/A |
-| 3 | [#폭풍전야_CONCEPT_PHOTO_2](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_CONCEPT_PHOTO_2) | N/A |
-| 4 | [#RDNT](http://twitter.com/search?q=%23RDNT) | N/A |
+| 3 | [#폭풍전야_concept_photo_2](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_concept_photo_2) | N/A |
+| 4 | [#rdnt](http://twitter.com/search?q=%23rdnt) | N/A |
 | 5 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
 | 6 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
 | 7 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
@@ -30,8 +30,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
 | 14 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
 | 15 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 16 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 17 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 16 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 17 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
 | 18 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 19 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
 | 20 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
@@ -58,11 +58,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 42 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
 | 43 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 44 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 44 | [thấy](http://twitter.com/search?q=th%e1%ba%a5y) | N/A |
 | 45 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
 | 46 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
 | 47 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
-| 48 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
 
 
 

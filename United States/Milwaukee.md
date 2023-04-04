@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-04 21:16:43 UTC`
+📆 Last Updated: `2023-04-04 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United States](</United States>)
 | 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
 | 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 7 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 8 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 9 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 10 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 8 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 9 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 10 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
 | 11 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 12 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 13 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 14 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 12 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 13 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 19 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 20 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 21 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 22 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 19 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 20 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 21 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 22 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
 | 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
 | 24 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
 | 25 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 26 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 28 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 26 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 27 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 28 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 29 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 30 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 32 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 34 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 35 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 37 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 38 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 39 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
-| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 41 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 42 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 43 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 44 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 45 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 46 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 48 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 49 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 50 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 30 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 31 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 32 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 34 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 35 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 36 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 37 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 38 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 39 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 40 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 41 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 42 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 43 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 46 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 47 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 48 | [American-made](http://twitter.com/search?q=American-made) | N/A |
+| 49 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 50 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gwangju
 
-📆 Last Updated: `2023-04-04 21:16:24 UTC`
+📆 Last Updated: `2023-04-04 22:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for [Korea](</Korea>)
 | 9 | [자고 했을때](http://twitter.com/search?q=%ec%9e%90%ea%b3%a0+%ed%96%88%ec%9d%84%eb%95%8c) | N/A |
 | 10 | [스파이더맨](http://twitter.com/search?q=%ec%8a%a4%ed%8c%8c%ec%9d%b4%eb%8d%94%eb%a7%a8) | N/A |
 | 11 | [#최근_사진_4장이_애인_못사귀는이유](http://twitter.com/search?q=%23%ec%b5%9c%ea%b7%bc_%ec%82%ac%ec%a7%84_4%ec%9e%a5%ec%9d%b4_%ec%95%a0%ec%9d%b8_%eb%aa%bb%ec%82%ac%ea%b7%80%eb%8a%94%ec%9d%b4%ec%9c%a0) | N/A |
-| 12 | [일론머스크](http://twitter.com/search?q=%ec%9d%bc%eb%a1%a0%eb%a8%b8%ec%8a%a4%ed%81%ac) | N/A |
-| 13 | [모든인증가능](http://twitter.com/search?q=%eb%aa%a8%eb%93%a0%ec%9d%b8%ec%a6%9d%ea%b0%80%eb%8a%a5) | N/A |
+| 12 | [모든인증가능](http://twitter.com/search?q=%eb%aa%a8%eb%93%a0%ec%9d%b8%ec%a6%9d%ea%b0%80%eb%8a%a5) | N/A |
+| 13 | [일론머스크](http://twitter.com/search?q=%ec%9d%bc%eb%a1%a0%eb%a8%b8%ec%8a%a4%ed%81%ac) | N/A |
 | 14 | [캐릭터 찾기](http://twitter.com/search?q=%ec%ba%90%eb%a6%ad%ed%84%b0+%ec%b0%be%ea%b8%b0) | N/A |
 | 15 | [남돌과 확률](http://twitter.com/search?q=%eb%82%a8%eb%8f%8c%ea%b3%bc+%ed%99%95%eb%a5%a0) | N/A |
 | 16 | [아이마스](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%a7%88%ec%8a%a4) | N/A |

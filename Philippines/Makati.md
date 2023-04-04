@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-04 21:16:26 UTC`
+📆 Last Updated: `2023-04-04 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 6 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 7 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 8 | [#JonaxxRTMVSimula](http://twitter.com/search?q=%23JonaxxRTMVSimula) | N/A |
+| 7 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
+| 8 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
 | 9 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 10 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 12 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 13 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 12 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 13 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
 | 14 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 15 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 17 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 18 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 17 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 18 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
 | 19 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 20 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 21 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 22 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 23 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 24 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 22 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 23 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 24 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 25 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
 | 26 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
 | 27 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
 | 28 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
 | 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 30 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 31 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
-| 32 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 33 | [IVE SECOND CONCEPT PHOTO](http://twitter.com/search?q=IVE+SECOND+CONCEPT+PHOTO) | N/A |
-| 34 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 35 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 36 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
-| 37 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 38 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 39 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 40 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
-| 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 42 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 43 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 44 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 30 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 32 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
+| 33 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
+| 34 | [IVE SECOND CONCEPT PHOTO](http://twitter.com/search?q=IVE+SECOND+CONCEPT+PHOTO) | N/A |
+| 35 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 36 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 37 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 38 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 39 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 40 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 41 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
+| 42 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
+| 43 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 44 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
 | 45 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 46 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 47 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 48 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 49 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 50 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 47 | [Featuring IU](http://twitter.com/search?q=Featuring+IU) | N/A |
+| 48 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 49 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 50 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
 
 
 

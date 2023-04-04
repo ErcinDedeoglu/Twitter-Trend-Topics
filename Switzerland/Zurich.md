@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-04 21:16:18 UTC`
+📆 Last Updated: `2023-04-04 22:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,28 +23,28 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 9 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
-| 10 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 11 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 12 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 14 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 15 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 16 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 17 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 11 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 12 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 13 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 15 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 16 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 17 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
 | 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 20 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 21 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 22 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 23 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 24 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 25 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 26 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 27 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 28 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 29 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 19 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 20 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 21 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 22 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 23 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 24 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 25 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 26 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 27 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 28 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
+| 29 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 30 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 31 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
 | 32 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
 | 33 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 40 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
 | 41 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 43 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 43 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
 | 44 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
 | 45 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
 | 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 47 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 48 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 49 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 50 | [Szene](http://twitter.com/search?q=Szene) | N/A |
+| 48 | [zuwanderung](http://twitter.com/search?q=zuwanderung) | N/A |
+| 49 | [Variante](http://twitter.com/search?q=Variante) | N/A |
+| 50 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
 
 
 

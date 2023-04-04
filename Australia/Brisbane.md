@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-04-04 21:16:21 UTC`
+📆 Last Updated: `2023-04-04 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 2 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 1 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 2 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 4 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 8 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 9 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
-| 10 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
-| 11 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 12 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 13 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 14 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 15 | [nsw police](http://twitter.com/search?q=nsw+police) | N/A |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 18 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 19 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
-| 20 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 21 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 22 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 23 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 24 | [rennick](http://twitter.com/search?q=rennick) | N/A |
-| 25 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 26 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 27 | [yunupingu](http://twitter.com/search?q=yunupingu) | N/A |
-| 28 | [dicko](http://twitter.com/search?q=dicko) | N/A |
-| 29 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 30 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
-| 31 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 32 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 33 | [paul kent](http://twitter.com/search?q=paul+kent) | N/A |
-| 34 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 35 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 36 | [Logue](http://twitter.com/search?q=Logue) | N/A |
-| 37 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 38 | [alex antic](http://twitter.com/search?q=alex+antic) | N/A |
-| 39 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 40 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 41 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 42 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 43 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
-| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 46 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
-| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 5 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 9 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
+| 10 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 11 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 12 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [nsw police](http://twitter.com/search?q=nsw+police) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 18 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 19 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 20 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 21 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 22 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 23 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 24 | [yunupingu](http://twitter.com/search?q=yunupingu) | N/A |
+| 25 | [dicko](http://twitter.com/search?q=dicko) | N/A |
+| 26 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 27 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 28 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 29 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 30 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 32 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 34 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 35 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 36 | [logue](http://twitter.com/search?q=logue) | N/A |
+| 37 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 38 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 39 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 42 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 45 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
+| 46 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 47 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 48 | [kyneton](http://twitter.com/search?q=kyneton) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

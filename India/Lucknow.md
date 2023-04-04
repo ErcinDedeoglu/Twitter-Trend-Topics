@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-04-04 21:16:34 UTC`
+📆 Last Updated: `2023-04-04 22:16:36 UTC`
 
 🔧 Updated every 1 hour!
 

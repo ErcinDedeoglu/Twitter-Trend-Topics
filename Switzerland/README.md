@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-04 21:16:54 UTC`
+📆 Last Updated: `2023-04-04 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [#FCBYB](http://twitter.com/search?q=%23FCBYB) | N/A |
-| 3 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
-| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 4 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 5 | [#fcbyb](http://twitter.com/search?q=%23fcbyb) | N/A |
+| 6 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 7 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
 | 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 9 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
-| 10 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 11 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 12 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 14 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 15 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 16 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 17 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 20 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 21 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 22 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 23 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 24 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 25 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 26 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 27 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 28 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 29 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 31 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 32 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 33 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 34 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 35 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
-| 36 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 38 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 39 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 40 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
-| 41 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 43 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 44 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 45 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 47 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 48 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 49 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 50 | [Szene](http://twitter.com/search?q=Szene) | N/A |
+| 9 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 12 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 13 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 16 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 17 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 19 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 20 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 21 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 22 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 23 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 27 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 28 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 29 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 32 | [Fifth Global Forum](http://twitter.com/search?q=Fifth+Global+Forum) | N/A |
+| 33 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 34 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 35 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 36 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
+| 37 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 38 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 39 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 40 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 41 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 42 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 44 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
+| 45 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 46 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
+| 48 | [Finnen](http://twitter.com/search?q=Finnen) | N/A |
+| 49 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 50 | [Mike](http://twitter.com/search?q=Mike) | N/A |
 
 
 

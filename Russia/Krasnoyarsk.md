@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnoyarsk
 
-📆 Last Updated: `2023-04-04 21:16:32 UTC`
+📆 Last Updated: `2023-04-04 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
 | 2 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 3 | [АБСОЛЮТНО](http://twitter.com/search?q=%d0%90%d0%91%d0%a1%d0%9e%d0%9b%d0%ae%d0%a2%d0%9d%d0%9e) | N/A |
+| 3 | [абсолютно](http://twitter.com/search?q=%d0%b0%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
 | 4 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 5 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
 | 6 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
@@ -40,11 +40,11 @@ This is top 50 for [Russia](</Russia>)
 | 23 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 24 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
 | 25 | [Питера](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
-| 26 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
-| 27 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 28 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 29 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 30 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 26 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 27 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 28 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 29 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
+| 30 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
 | 31 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 32 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
 | 33 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
