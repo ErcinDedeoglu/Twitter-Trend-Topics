@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-04 11:17:51 UTC`
+📆 Last Updated: `2023-04-04 12:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
-| 2 | [#LaIslaDeLasTentaciones11](http://twitter.com/search?q=%23LaIslaDeLasTentaciones11) | N/A |
-| 3 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 4 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 5 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 6 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 8 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 9 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 11 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 12 | [#conquis12ETB](http://twitter.com/search?q=%23conquis12ETB) | N/A |
-| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 14 | [#conexiónhonduras5](http://twitter.com/search?q=%23conexi%c3%b3nhonduras5) | N/A |
-| 15 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 16 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 17 | [#AdvanceWarsMM](http://twitter.com/search?q=%23AdvanceWarsMM) | N/A |
-| 18 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 21 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
-| 22 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 23 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 24 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 25 | [Feliz Domingo de Ramos](http://twitter.com/search?q=Feliz+Domingo+de+Ramos) | N/A |
-| 26 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 27 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 28 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 29 | [Empleos](http://twitter.com/search?q=Empleos) | N/A |
-| 30 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 31 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 32 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
-| 33 | [Pablo Iglesias](http://twitter.com/search?q=Pablo+Iglesias) | N/A |
-| 34 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
-| 35 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 36 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 37 | [Dembélé](http://twitter.com/search?q=Demb%c3%a9l%c3%a9) | Dembélé is a surname of West African origin, derived from the Fula language. It is most commonly found in Mali, Guinea, and Senegal. In English, it means "strong one". |
-| 38 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 39 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
-| 40 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 41 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 42 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 43 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 44 | [Diana Morant](http://twitter.com/search?q=Diana+Morant) | N/A |
-| 45 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
-| 46 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 48 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 50 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 1 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
+| 2 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 3 | [Olona](http://twitter.com/search?q=Olona) | N/A |
+| 4 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 5 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 6 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 7 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 8 | [#AdvanceWarsMM](http://twitter.com/search?q=%23AdvanceWarsMM) | N/A |
+| 9 | [#CMaDesalia](http://twitter.com/search?q=%23CMaDesalia) | N/A |
+| 10 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 11 | [#APOYOROCIO4A](http://twitter.com/search?q=%23APOYOROCIO4A) | N/A |
+| 12 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
+| 13 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 14 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 15 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 16 | [Dembélé](http://twitter.com/search?q=Demb%c3%a9l%c3%a9) | Dembélé is a surname of West African origin, derived from the Fula language. It is most commonly found in Mali, Guinea, and Senegal. In English, it means "strong one". |
+| 17 | [Empleos](http://twitter.com/search?q=Empleos) | N/A |
+| 18 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 19 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 20 | [Animales Fantásticos](http://twitter.com/search?q=Animales+Fant%c3%a1sticos) | N/A |
+| 21 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
+| 22 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 23 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 24 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 25 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 28 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
+| 29 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 30 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 31 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 32 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 33 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 34 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 35 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
+| 36 | [#ElTronoVelado](http://twitter.com/search?q=%23ElTronoVelado) | N/A |
+| 37 | [#Gianmarco4A](http://twitter.com/search?q=%23Gianmarco4A) | N/A |
+| 38 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
+| 39 | [#AthleticOsasuna](http://twitter.com/search?q=%23AthleticOsasuna) | N/A |
+| 40 | [#YoMeRebelo4A](http://twitter.com/search?q=%23YoMeRebelo4A) | N/A |
+| 41 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 42 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
 
 
 

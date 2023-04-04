@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-04 11:17:31 UTC`
+📆 Last Updated: `2023-04-04 12:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,54 +22,54 @@ This is top 50
 | ------- | ------------ | ------------ |
 | 1 | [サイスタ](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%82%b9%e3%82%bf) | サイスタ is a Japanese word that means "cyst". It is used to refer to a type of medical condition in which a cyst forms on or inside the body. |
 | 2 | [SideM](http://twitter.com/search?q=SideM) | N/A |
-| 3 | [#バナナサンド](http://twitter.com/search?q=%23%e3%83%90%e3%83%8a%e3%83%8a%e3%82%b5%e3%83%b3%e3%83%89) | N/A |
-| 4 | [ブリンソン](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%b3%e3%82%bd%e3%83%b3) | N/A |
-| 5 | [プロデュース](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | プロデュース (purodyūsu) is a Japanese word that means "produce" or "producer". It is used to refer to the process of creating something, such as a movie, television show, or album. In English, it can also be used to refer to someone who oversees the production of a project. |
-| 6 | [#河野純喜](http://twitter.com/search?q=%23%e6%b2%b3%e9%87%8e%e7%b4%94%e5%96%9c) | N/A |
-| 7 | [クラファ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%95%e3%82%a1) | N/A |
-| 8 | [バンナム](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%8a%e3%83%a0) | N/A |
+| 3 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
+| 4 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
+| 5 | [バンナム](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%8a%e3%83%a0) | N/A |
+| 6 | [ブリンソン](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%b3%e3%82%bd%e3%83%b3) | N/A |
+| 7 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
+| 8 | [#バナナサンド](http://twitter.com/search?q=%23%e3%83%90%e3%83%8a%e3%83%8a%e3%82%b5%e3%83%b3%e3%83%89) | N/A |
 | 9 | [アイマス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9) | N/A |
-| 10 | [#金城碧海](http://twitter.com/search?q=%23%e9%87%91%e5%9f%8e%e7%a2%a7%e6%b5%b7) | N/A |
-| 11 | [コナミコマンド](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%9f%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89) | N/A |
-| 12 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 13 | [ポランコ](http://twitter.com/search?q=%e3%83%9d%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
-| 14 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
-| 15 | [エルフェンリート](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%95%e3%82%a7%e3%83%b3%e3%83%aa%e3%83%bc%e3%83%88) | N/A |
-| 16 | [#Lazada44xCharlotte](http://twitter.com/search?q=%23Lazada44xCharlotte) | N/A |
-| 17 | [モバエム](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%a8%e3%83%a0) | モバエム is a Japanese word that means "mobile game". It is used to refer to video games that are designed to be played on mobile devices such as smartphones and tablets. |
+| 10 | [開幕4連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%954%e9%80%a3%e5%8b%9d) | N/A |
+| 11 | [ソシャゲ](http://twitter.com/search?q=%e3%82%bd%e3%82%b7%e3%83%a3%e3%82%b2) | ソシャゲ is short for "social game," which is a type of video game that allows players to interact with each other online. These games often involve elements of strategy, role-playing, and virtual worlds. Examples of popular social games include FarmVille, Candy Crush Saga, and Clash of Clans. |
+| 12 | [プロデュース](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | プロデュース (purodyūsu) is a Japanese word that means "produce" or "producer". It is used to refer to the process of creating something, such as a movie, television show, or album. In English, it can also be used to refer to someone who oversees the production of a project. |
+| 13 | [クラファ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%95%e3%82%a1) | N/A |
+| 14 | [#オタクの地雷を踏み抜く一言選手権](http://twitter.com/search?q=%23%e3%82%aa%e3%82%bf%e3%82%af%e3%81%ae%e5%9c%b0%e9%9b%b7%e3%82%92%e8%b8%8f%e3%81%bf%e6%8a%9c%e3%81%8f%e4%b8%80%e8%a8%80%e9%81%b8%e6%89%8b%e6%a8%a9) | N/A |
+| 15 | [#sbhawks](http://twitter.com/search?q=%23sbhawks) | N/A |
+| 16 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
+| 17 | [コナミコマンド](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%9f%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89) | N/A |
 | 18 | [合同ライブ](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 19 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 20 | [近ちゃん](http://twitter.com/search?q=%e8%bf%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [プロデューサー](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
-| 22 | [森下くん](http://twitter.com/search?q=%e6%a3%ae%e4%b8%8b%e3%81%8f%e3%82%93) | N/A |
-| 23 | [アイドルの誕生日](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 24 | [エムステ](http://twitter.com/search?q=%e3%82%a8%e3%83%a0%e3%82%b9%e3%83%86) | N/A |
-| 25 | [こんちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [Misskey](http://twitter.com/search?q=Misskey) | N/A |
-| 27 | [スパイダーバース](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%82%a4%e3%83%80%e3%83%bc%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 28 | [ビルドファイターズの世界](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
-| 29 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 30 | [みすきー](http://twitter.com/search?q=%e3%81%bf%e3%81%99%e3%81%8d%e3%83%bc) | N/A |
-| 31 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 32 | [朱雀の誕生日](http://twitter.com/search?q=%e6%9c%b1%e9%9b%80%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 33 | [サイスニード](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%82%b9%e3%83%8b%e3%83%bc%e3%83%89) | N/A |
-| 34 | [サ終発表](http://twitter.com/search?q=%e3%82%b5%e7%b5%82%e7%99%ba%e8%a1%a8) | N/A |
-| 35 | [プロポリス](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%9d%e3%83%aa%e3%82%b9) | N/A |
-| 36 | [Garuda Muda Bangkit](http://twitter.com/search?q=Garuda+Muda+Bangkit) | N/A |
-| 37 | [他ブランド](http://twitter.com/search?q=%e4%bb%96%e3%83%96%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 38 | [上上下下左右左右BA](http://twitter.com/search?q=%e4%b8%8a%e4%b8%8a%e4%b8%8b%e4%b8%8b%e5%b7%a6%e5%8f%b3%e5%b7%a6%e5%8f%b3BA) | N/A |
-| 39 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
-| 40 | [テーマスカウト缶バッジ](http://twitter.com/search?q=%e3%83%86%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%ab%e3%82%a6%e3%83%88%e7%bc%b6%e3%83%90%e3%83%83%e3%82%b8) | N/A |
-| 41 | [ミスキー](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
-| 42 | [近距離攻撃](http://twitter.com/search?q=%e8%bf%91%e8%b7%9d%e9%9b%a2%e6%94%bb%e6%92%83) | N/A |
-| 43 | [ヘッスラ](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%82%b9%e3%83%a9) | N/A |
-| 44 | [選択兵装](http://twitter.com/search?q=%e9%81%b8%e6%8a%9e%e5%85%b5%e8%a3%85) | N/A |
-| 45 | [篭手切江](http://twitter.com/search?q=%e7%af%ad%e6%89%8b%e5%88%87%e6%b1%9f) | N/A |
-| 46 | [アイドルたち](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%81%9f%e3%81%a1) | N/A |
-| 47 | [魔法攻撃](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e6%94%bb%e6%92%83) | N/A |
-| 48 | [リメショ](http://twitter.com/search?q=%e3%83%aa%e3%83%a1%e3%82%b7%e3%83%a7) | N/A |
-| 49 | [Twitterくん](http://twitter.com/search?q=Twitter%e3%81%8f%e3%82%93) | Twitterくん is a Japanese mascot character created by Twitter Japan. The character is a blue bird with a yellow beak and feet, wearing a red hoodie with the Twitter logo on it. The character's name translates to "Twitter Boy" in English, and its purpose is to promote the use of Twitter in Japan. |
-| 50 | [스파이더맨](http://twitter.com/search?q=%ec%8a%a4%ed%8c%8c%ec%9d%b4%eb%8d%94%eb%a7%a8) | N/A |
+| 19 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 20 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 21 | [ポランコ](http://twitter.com/search?q=%e3%83%9d%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
+| 22 | [プロデューサー](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
+| 23 | [エルフェンリート](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%95%e3%82%a7%e3%83%b3%e3%83%aa%e3%83%bc%e3%83%88) | N/A |
+| 24 | [モバエム](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%a8%e3%83%a0) | モバエム is a Japanese word that means "mobile game". It is used to refer to video games that are designed to be played on mobile devices such as smartphones and tablets. |
+| 25 | [倶利伽羅江](http://twitter.com/search?q=%e5%80%b6%e5%88%a9%e4%bc%bd%e7%be%85%e6%b1%9f) | N/A |
+| 26 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
+| 27 | [森高千里](http://twitter.com/search?q=%e6%a3%ae%e9%ab%98%e5%8d%83%e9%87%8c) | N/A |
+| 28 | [近ちゃん](http://twitter.com/search?q=%e8%bf%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 29 | [ビルドファイターズの世界](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
+| 30 | [エムステ](http://twitter.com/search?q=%e3%82%a8%e3%83%a0%e3%82%b9%e3%83%86) | N/A |
+| 31 | [アドゥワ](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%82%a5%e3%83%af) | N/A |
+| 32 | [こんちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [大野雄大](http://twitter.com/search?q=%e5%a4%a7%e9%87%8e%e9%9b%84%e5%a4%a7) | N/A |
+| 34 | [サイスニード](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%82%b9%e3%83%8b%e3%83%bc%e3%83%89) | N/A |
+| 35 | [アイドルの誕生日](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 36 | [森下くん](http://twitter.com/search?q=%e6%a3%ae%e4%b8%8b%e3%81%8f%e3%82%93) | N/A |
+| 37 | [サ終発表](http://twitter.com/search?q=%e3%82%b5%e7%b5%82%e7%99%ba%e8%a1%a8) | N/A |
+| 38 | [バンダイナムコ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a0%e3%82%b3) | N/A |
+| 39 | [misskey](http://twitter.com/search?q=misskey) | N/A |
+| 40 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
+| 41 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
+| 42 | [犠牲フライ](http://twitter.com/search?q=%e7%8a%a0%e7%89%b2%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 43 | [ツイッター](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%83%e3%82%bf%e3%83%bc) | ツイッター (Tsuitteru) is the Japanese word for Twitter, a popular social media platform. It is used to share short messages, photos, and videos with other users. The English translation of ツイッター is "Twitter". |
+| 44 | [スパイダーバース](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%82%a4%e3%83%80%e3%83%bc%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 45 | [テーマスカウト缶バッジ](http://twitter.com/search?q=%e3%83%86%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%ab%e3%82%a6%e3%83%88%e7%bc%b6%e3%83%90%e3%83%83%e3%82%b8) | N/A |
+| 46 | [近距離攻撃](http://twitter.com/search?q=%e8%bf%91%e8%b7%9d%e9%9b%a2%e6%94%bb%e6%92%83) | N/A |
+| 47 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 48 | [他ブランド](http://twitter.com/search?q=%e4%bb%96%e3%83%96%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 49 | [바퀴벌레](http://twitter.com/search?q=%eb%b0%94%ed%80%b4%eb%b2%8c%eb%a0%88) | N/A |
+| 50 | [宝具演出](http://twitter.com/search?q=%e5%ae%9d%e5%85%b7%e6%bc%94%e5%87%ba) | N/A |
 
 
 

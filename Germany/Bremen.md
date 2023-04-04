@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-04 11:17:48 UTC`
+📆 Last Updated: `2023-04-04 12:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
-| 2 | [#Talus3](http://twitter.com/search?q=%23Talus3) | N/A |
-| 3 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 2 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 3 | [#Talus3](http://twitter.com/search?q=%23Talus3) | N/A |
 | 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 5 | ['Überbelichtet'](http://twitter.com/search?q=%27%c3%9cberbelichtet%27) | N/A |
-| 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 7 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 8 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
-| 9 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 10 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 11 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 12 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 5 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 6 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 8 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 9 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 10 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 11 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 13 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 14 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 15 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 16 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 17 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 18 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 19 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 20 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
-| 21 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 22 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 23 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 24 | [Franz Alt](http://twitter.com/search?q=Franz+Alt) | N/A |
-| 25 | [Xbox Ser](http://twitter.com/search?q=Xbox+Ser) | N/A |
-| 26 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 27 | [Skandinavien](http://twitter.com/search?q=Skandinavien) | N/A |
-| 28 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 29 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
-| 30 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 31 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 32 | [krisenmodus](http://twitter.com/search?q=krisenmodus) | N/A |
+| 20 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
+| 21 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 22 | [Xbox Ser](http://twitter.com/search?q=Xbox+Ser) | N/A |
+| 23 | [Auffrischung](http://twitter.com/search?q=Auffrischung) | N/A |
+| 24 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 25 | [Franz Alt](http://twitter.com/search?q=Franz+Alt) | N/A |
+| 26 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 27 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
+| 28 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 29 | [Skandinavien](http://twitter.com/search?q=Skandinavien) | N/A |
+| 30 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
+| 31 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 32 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 33 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 34 | [Roller](http://twitter.com/search?q=Roller) | N/A |
-| 35 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 36 | [Wiederaufbau](http://twitter.com/search?q=Wiederaufbau) | N/A |
-| 37 | [Klitschko](http://twitter.com/search?q=Klitschko) | N/A |
-| 38 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
-| 39 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 40 | ['Naturschauspiel'](http://twitter.com/search?q=%27Naturschauspiel%27) | N/A |
-| 41 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 42 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 43 | [Gnotschi](http://twitter.com/search?q=Gnotschi) | N/A |
-| 44 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 45 | [finnen](http://twitter.com/search?q=finnen) | N/A |
-| 46 | [Marktmanipulation](http://twitter.com/search?q=Marktmanipulation) | N/A |
-| 47 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 48 | [Erfahrungswerte](http://twitter.com/search?q=Erfahrungswerte) | N/A |
+| 34 | ['Überbelichtet'](http://twitter.com/search?q=%27%c3%9cberbelichtet%27) | N/A |
+| 35 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 36 | [Fahrerflucht](http://twitter.com/search?q=Fahrerflucht) | N/A |
+| 37 | [Roller](http://twitter.com/search?q=Roller) | N/A |
+| 38 | [Wiederaufbau](http://twitter.com/search?q=Wiederaufbau) | N/A |
+| 39 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 40 | ['naturschauspiel'](http://twitter.com/search?q=%27naturschauspiel%27) | N/A |
+| 41 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 42 | [Klitschko](http://twitter.com/search?q=Klitschko) | N/A |
+| 43 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 44 | [Marktmanipulation](http://twitter.com/search?q=Marktmanipulation) | N/A |
+| 45 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
+| 46 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
+| 47 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
+| 48 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 
 
 

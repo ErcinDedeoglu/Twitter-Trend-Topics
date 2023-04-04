@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-04-04 11:17:36 UTC`
+📆 Last Updated: `2023-04-04 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASongOrMovieForVitamins](http://twitter.com/search?q=%23ASongOrMovieForVitamins) | N/A |
-| 2 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 3 | [Philip](http://twitter.com/search?q=Philip) | N/A |
-| 4 | [#TorySewageParty](http://twitter.com/search?q=%23TorySewageParty) | N/A |
-| 5 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 1 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 2 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 3 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 4 | [Philip](http://twitter.com/search?q=Philip) | N/A |
+| 5 | [#TorySewageParty](http://twitter.com/search?q=%23TorySewageParty) | N/A |
 | 6 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 9 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 10 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 11 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 12 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 13 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 14 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 15 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 16 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 17 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 18 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 19 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
-| 20 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 21 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 22 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 23 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 24 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 25 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 26 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 31 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 32 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 34 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 35 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 36 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 37 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 38 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 10 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
+| 11 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 13 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 14 | [lawson](http://twitter.com/search?q=lawson) | N/A |
+| 15 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 19 | [Marc Riley](http://twitter.com/search?q=Marc+Riley) | N/A |
+| 20 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 21 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 22 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 23 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 24 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 25 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 26 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 27 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 28 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 29 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 30 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 31 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 32 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 33 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 34 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 36 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 37 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 38 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
 | 39 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 40 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
-| 41 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 42 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 45 | [#SportArchives](http://twitter.com/search?q=%23SportArchives) | N/A |
-| 46 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 47 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
-| 48 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
-| 49 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
+| 40 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 41 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 42 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
+| 43 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 44 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 45 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 46 | [#balance](http://twitter.com/search?q=%23balance) | N/A |
+| 47 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
+| 48 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
+| 49 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 
 
 

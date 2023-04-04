@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-04 11:18:31 UTC`
+📆 Last Updated: `2023-04-04 12:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AskHenderson](http://twitter.com/search?q=%23AskHenderson) | N/A |
-| 2 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 3 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 2 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 3 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
 | 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 5 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
 | 6 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
 | 7 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 8 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 9 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
-| 10 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
-| 11 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
-| 12 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 13 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
-| 14 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 15 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 16 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 18 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 19 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 20 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 21 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 22 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 24 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 25 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 26 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 27 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 28 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 29 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 30 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 31 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 32 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
-| 33 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 8 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 10 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Marc Riley](http://twitter.com/search?q=Marc+Riley) | N/A |
+| 13 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 14 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
+| 15 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 16 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 17 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 18 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 19 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 20 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 21 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 22 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 23 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 26 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 27 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 28 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 29 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
+| 30 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 31 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 33 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
 | 34 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 35 | [Darren Grimes](http://twitter.com/search?q=Darren+Grimes) | N/A |
-| 36 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 37 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 38 | [Philip](http://twitter.com/search?q=Philip) | N/A |
+| 35 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 36 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 37 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 38 | [Kanes](http://twitter.com/search?q=Kanes) | N/A |
 | 39 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 40 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 41 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
-| 42 | [#SportArchives](http://twitter.com/search?q=%23SportArchives) | N/A |
-| 43 | [#ASongOrMovieForVitamins](http://twitter.com/search?q=%23ASongOrMovieForVitamins) | N/A |
-| 44 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
-| 45 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 46 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 47 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 40 | [#balance](http://twitter.com/search?q=%23balance) | N/A |
+| 41 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
+| 42 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 43 | [#WorldRatDay](http://twitter.com/search?q=%23WorldRatDay) | N/A |
+| 44 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 45 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
+| 46 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
+| 47 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
 | 48 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 49 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
-| 50 | [#Archive30](http://twitter.com/search?q=%23Archive30) | N/A |
+| 49 | [#SportArchives](http://twitter.com/search?q=%23SportArchives) | N/A |
+| 50 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-04 11:18:18 UTC`
+📆 Last Updated: `2023-04-04 12:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
-| 2 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 3 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 4 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 5 | [Arraignment Day](http://twitter.com/search?q=Arraignment+Day) | N/A |
-| 6 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 7 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
-| 8 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 9 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 12 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 13 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
-| 14 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 15 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 18 | [Martin Luther King Jr.](http://twitter.com/search?q=Martin+Luther+King+Jr.) | N/A |
-| 19 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 20 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 21 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 22 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
-| 23 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 24 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 25 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 26 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 27 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
-| 28 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 29 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 30 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 31 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 32 | [Most Americans](http://twitter.com/search?q=Most+Americans) | N/A |
-| 33 | [first lady](http://twitter.com/search?q=first+lady) | N/A |
-| 34 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 35 | [JAMES OUTMAN](http://twitter.com/search?q=JAMES+OUTMAN) | N/A |
-| 36 | [blue blood](http://twitter.com/search?q=blue+blood) | N/A |
-| 37 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 4 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 6 | [Arraignment Day](http://twitter.com/search?q=Arraignment+Day) | N/A |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 10 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 11 | [#Billlie1stWin](http://twitter.com/search?q=%23Billlie1stWin) | N/A |
+| 12 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 13 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 14 | [National School Librarian Day](http://twitter.com/search?q=National+School+Librarian+Day) | N/A |
+| 15 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 16 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Dr. Martin Luther King Jr.](http://twitter.com/search?q=Dr.+Martin+Luther+King+Jr.) | Dr. Martin Luther King Jr. was an American civil rights leader who fought for racial equality and justice in the United States during the 1950s and 1960s. He is best known for his leadership of the civil rights movement, including his famous "I Have a Dream" speech, which helped to inspire millions of people around the world to fight for equality and justice. |
+| 19 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 20 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 21 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 24 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 25 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
+| 26 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
+| 27 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 28 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 29 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
+| 30 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 31 | [Most Americans](http://twitter.com/search?q=Most+Americans) | N/A |
+| 32 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
+| 33 | [Wallo](http://twitter.com/search?q=Wallo) | Wallo is a slang term used to express surprise or excitement. It is often used as an exclamation of joy or enthusiasm. In English, it can be translated to mean "Wow!" or "Oh my gosh!" |
+| 34 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 35 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 36 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 37 | [Peach](http://twitter.com/search?q=Peach) | N/A |
 | 38 | [Budlight](http://twitter.com/search?q=Budlight) | N/A |
-| 39 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 40 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 41 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 42 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 43 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 44 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 45 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 46 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 47 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 49 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 50 | [Gotham City](http://twitter.com/search?q=Gotham+City) | N/A |
+| 39 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 40 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 41 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
+| 42 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 43 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 44 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
+| 45 | [Gotham City](http://twitter.com/search?q=Gotham+City) | N/A |
+| 46 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
+| 47 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
+| 48 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 49 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 50 | [Suki](http://twitter.com/search?q=Suki) | N/A |
 
 
 
