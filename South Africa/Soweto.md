@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-04-04 17:16:37 UTC`
+📆 Last Updated: `2023-04-04 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThaboBester](http://twitter.com/search?q=%23ThaboBester) | N/A |
-| 2 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 3 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 4 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
-| 5 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
-| 6 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
-| 7 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 8 | [#TheHuntForDealsIsOver](http://twitter.com/search?q=%23TheHuntForDealsIsOver) | N/A |
-| 9 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
-| 10 | [Leeto](http://twitter.com/search?q=Leeto) | N/A |
+| 2 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 3 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
+| 4 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 5 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 6 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
+| 7 | [#TheHuntForDealsIsOver](http://twitter.com/search?q=%23TheHuntForDealsIsOver) | N/A |
+| 8 | [#ThatZeroFeeling](http://twitter.com/search?q=%23ThatZeroFeeling) | N/A |
+| 9 | [Leeto](http://twitter.com/search?q=Leeto) | N/A |
+| 10 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
 | 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
-| 13 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
-| 16 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 17 | [Babeile](http://twitter.com/search?q=Babeile) | N/A |
-| 18 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 19 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
-| 20 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
-| 21 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
-| 22 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 23 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
-| 24 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 25 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
-| 26 | [PFMA](http://twitter.com/search?q=PFMA) | N/A |
-| 27 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 28 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
-| 29 | [Tropika Island of Treasure](http://twitter.com/search?q=Tropika+Island+of+Treasure) | N/A |
-| 30 | [we are proud of you ipeleng](http://twitter.com/search?q=we+are+proud+of+you+ipeleng) | N/A |
-| 31 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Ayanda Dlamini](http://twitter.com/search?q=Ayanda+Dlamini) | N/A |
-| 34 | [Empangeni](http://twitter.com/search?q=Empangeni) | N/A |
-| 35 | [Homosexuality](http://twitter.com/search?q=Homosexuality) | N/A |
-| 36 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
-| 37 | [Adv Mkhwebane](http://twitter.com/search?q=Adv+Mkhwebane) | N/A |
-| 38 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 39 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 40 | [Romain Folz](http://twitter.com/search?q=Romain+Folz) | N/A |
-| 41 | [Benni](http://twitter.com/search?q=Benni) | N/A |
+| 12 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
+| 15 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 16 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
+| 17 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
+| 18 | [Babeile](http://twitter.com/search?q=Babeile) | N/A |
+| 19 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
+| 20 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
+| 21 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 22 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 24 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
+| 25 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
+| 26 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
+| 27 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 28 | [Tropika Island of Treasure](http://twitter.com/search?q=Tropika+Island+of+Treasure) | N/A |
+| 29 | [PFMA](http://twitter.com/search?q=PFMA) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [we are proud of you ipeleng](http://twitter.com/search?q=we+are+proud+of+you+ipeleng) | N/A |
+| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 33 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
+| 34 | [Ayanda Dlamini](http://twitter.com/search?q=Ayanda+Dlamini) | N/A |
+| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 36 | [Uncle Waffles](http://twitter.com/search?q=Uncle+Waffles) | N/A |
+| 37 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
+| 38 | [Homosexuality](http://twitter.com/search?q=Homosexuality) | N/A |
+| 39 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 40 | [Adv Mkhwebane](http://twitter.com/search?q=Adv+Mkhwebane) | N/A |
+| 41 | [melita](http://twitter.com/search?q=melita) | N/A |
 | 42 | [Pressed Lemon](http://twitter.com/search?q=Pressed+Lemon) | N/A |
 | 43 | [Ts & Cs](http://twitter.com/search?q=Ts+%26+Cs) | N/A |
-| 44 | [Dyantyi](http://twitter.com/search?q=Dyantyi) | N/A |
-| 45 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
-| 46 | [the ultimate titan thabang](http://twitter.com/search?q=the+ultimate+titan+thabang) | N/A |
-| 47 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 48 | [thank you titan thabang](http://twitter.com/search?q=thank+you+titan+thabang) | N/A |
-| 49 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 50 | [Ntate Caiphus](http://twitter.com/search?q=Ntate+Caiphus) | N/A |
+| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 45 | [Entered](http://twitter.com/search?q=Entered) | N/A |
+| 46 | [Romain Folz](http://twitter.com/search?q=Romain+Folz) | N/A |
+| 47 | [Benni](http://twitter.com/search?q=Benni) | N/A |
+| 48 | [the ultimate titan thabang](http://twitter.com/search?q=the+ultimate+titan+thabang) | N/A |
+| 49 | [thank you titan thabang](http://twitter.com/search?q=thank+you+titan+thabang) | N/A |
+| 50 | [Dyantyi](http://twitter.com/search?q=Dyantyi) | N/A |
 
 
 

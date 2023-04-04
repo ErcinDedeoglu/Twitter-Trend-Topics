@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-04 17:16:49 UTC`
+📆 Last Updated: `2023-04-04 18:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 2 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 3 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 6 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 8 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 9 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 10 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 11 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 13 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 14 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 18 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 19 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 20 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 22 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 23 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 24 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 25 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 26 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
-| 27 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 28 | [Trump to Jesus](http://twitter.com/search?q=Trump+to+Jesus) | N/A |
-| 29 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 30 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 31 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 32 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 34 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 35 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 36 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 37 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 38 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 39 | [Florio](http://twitter.com/search?q=Florio) | N/A |
-| 40 | [Blacks for Trump](http://twitter.com/search?q=Blacks+for+Trump) | N/A |
-| 41 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 42 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 2 | [#SpiderVerse](http://twitter.com/search?q=%23SpiderVerse) | N/A |
+| 3 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 4 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 5 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 6 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 7 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 10 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 11 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 12 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 13 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 14 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 15 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 16 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 17 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 18 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 22 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 23 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 25 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 26 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 27 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 28 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 29 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 30 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 31 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 32 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 33 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 34 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 35 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 36 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 37 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
+| 38 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 39 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 40 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 41 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 42 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
 | 43 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
-| 44 | [Welcome to NYC](http://twitter.com/search?q=Welcome+to+NYC) | N/A |
-| 45 | [Whistles](http://twitter.com/search?q=Whistles) | N/A |
-| 46 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 47 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
-| 48 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 49 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 44 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 45 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 46 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 47 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 48 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 49 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 
 
 

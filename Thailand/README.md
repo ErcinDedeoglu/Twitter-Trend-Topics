@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-04-04 17:17:02 UTC`
+📆 Last Updated: `2023-04-04 18:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Thailand
 | 8 | [Vlog Cutie Trip](http://twitter.com/search?q=Vlog+Cutie+Trip) | N/A |
 | 9 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
 | 10 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 11 | [Patrick Back To School](http://twitter.com/search?q=Patrick+Back+To+School) | N/A |
-| 12 | [Nene x The Standard Pop](http://twitter.com/search?q=Nene+x+The+Standard+Pop) | N/A |
-| 13 | [NESA MAHMOODI](http://twitter.com/search?q=NESA+MAHMOODI) | N/A |
-| 14 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [#KrungsrixCutieTrip](http://twitter.com/search?q=%23KrungsrixCutieTrip) | N/A |
-| 17 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 18 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 19 | [#Welcome_CHAEUNWOOtoThailand](http://twitter.com/search?q=%23Welcome_CHAEUNWOOtoThailand) | N/A |
-| 20 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
-| 21 | [#หมอหลวงep5](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep5) | N/A |
-| 22 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
-| 23 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
-| 24 | [#OurHappiestGaram1year](http://twitter.com/search?q=%23OurHappiestGaram1year) | N/A |
-| 25 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
-| 26 | [#รักร้ายEP6](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP6) | N/A |
-| 27 | [#TutorKrp](http://twitter.com/search?q=%23TutorKrp) | N/A |
-| 28 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
-| 29 | [#500ฟอลฟอร์เจฟ](http://twitter.com/search?q=%23500%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%88%e0%b8%9f) | N/A |
-| 30 | [#harukyu](http://twitter.com/search?q=%23harukyu) | N/A |
-| 31 | [#ส่งรักถึงบอสอึล](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
-| 32 | [#Overwatch2](http://twitter.com/search?q=%23Overwatch2) | N/A |
-| 33 | [#4EVExThaiFilmDirectorAwards](http://twitter.com/search?q=%234EVExThaiFilmDirectorAwards) | N/A |
-| 34 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 35 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
-| 36 | [#ฮารุกยู](http://twitter.com/search?q=%23%e0%b8%ae%e0%b8%b2%e0%b8%a3%e0%b8%b8%e0%b8%81%e0%b8%a2%e0%b8%b9) | N/A |
-| 37 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
-| 38 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
-| 39 | [#เด็กใหม่เด็กหญิงพรนับพัน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87%e0%b8%9e%e0%b8%a3%e0%b8%99%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b1%e0%b8%99) | N/A |
-| 40 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
-| 41 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
-| 42 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 43 | [#NCT_DOJAEJUNG](http://twitter.com/search?q=%23NCT_DOJAEJUNG) | N/A |
-| 44 | [#movietwit](http://twitter.com/search?q=%23movietwit) | N/A |
-| 45 | [#RUJEONGWOO](http://twitter.com/search?q=%23RUJEONGWOO) | N/A |
-| 46 | [#shuuemuraTH](http://twitter.com/search?q=%23shuuemuraTH) | N/A |
-| 47 | [#KrungsriBoardingCardXDomundi](http://twitter.com/search?q=%23KrungsriBoardingCardXDomundi) | N/A |
-| 48 | [#DOJAEJUNG_Perfume](http://twitter.com/search?q=%23DOJAEJUNG_Perfume) | N/A |
-| 49 | [#ออนเกมเมื่อไหร่](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%84%e0%b8%ab%e0%b8%a3%e0%b9%88) | N/A |
-| 50 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 11 | [Nene x The Standard Pop](http://twitter.com/search?q=Nene+x+The+Standard+Pop) | N/A |
+| 12 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
+| 13 | [#KrungsrixCutieTrip](http://twitter.com/search?q=%23KrungsrixCutieTrip) | N/A |
+| 14 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
+| 15 | [#Welcome_CHAEUNWOOtoThailand](http://twitter.com/search?q=%23Welcome_CHAEUNWOOtoThailand) | N/A |
+| 16 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 17 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
+| 18 | [#OurHappiestGaram1year](http://twitter.com/search?q=%23OurHappiestGaram1year) | N/A |
+| 19 | [#Overwatch2](http://twitter.com/search?q=%23Overwatch2) | N/A |
+| 20 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
+| 21 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
+| 22 | [#หมอหลวงep5](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep5) | N/A |
+| 23 | [#MarkTuan_CalvinKlein](http://twitter.com/search?q=%23MarkTuan_CalvinKlein) | N/A |
+| 24 | [#The1975LiveInBKK](http://twitter.com/search?q=%23The1975LiveInBKK) | N/A |
+| 25 | [#รักร้ายEP6](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP6) | N/A |
+| 26 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
+| 27 | [#500ฟอลฟอร์เจฟ](http://twitter.com/search?q=%23500%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%88%e0%b8%9f) | N/A |
+| 28 | [#TutorKrp](http://twitter.com/search?q=%23TutorKrp) | N/A |
+| 29 | [#harukyu](http://twitter.com/search?q=%23harukyu) | N/A |
+| 30 | [#ส่งรักถึงบอสอึล](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
+| 31 | [#ORIONARP](http://twitter.com/search?q=%23ORIONARP) | N/A |
+| 32 | [#ฮารุกยู](http://twitter.com/search?q=%23%e0%b8%ae%e0%b8%b2%e0%b8%a3%e0%b8%b8%e0%b8%81%e0%b8%a2%e0%b8%b9) | N/A |
+| 33 | [#readAwrite](http://twitter.com/search?q=%23readAwrite) | N/A |
+| 34 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
+| 35 | [#4EVExThaiFilmDirectorAwards](http://twitter.com/search?q=%234EVExThaiFilmDirectorAwards) | N/A |
+| 36 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 37 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
+| 38 | [#movietwit](http://twitter.com/search?q=%23movietwit) | N/A |
+| 39 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
+| 40 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
+| 41 | [#RUJEONGWOO](http://twitter.com/search?q=%23RUJEONGWOO) | N/A |
+| 42 | [#palitxshuuemurath](http://twitter.com/search?q=%23palitxshuuemurath) | N/A |
+| 43 | [#DOJAEJUNG_Perfume](http://twitter.com/search?q=%23DOJAEJUNG_Perfume) | N/A |
+| 44 | [#ออนเกมเมื่อไหร่](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%84%e0%b8%ab%e0%b8%a3%e0%b9%88) | N/A |
+| 45 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 46 | [#NCT_DOJAEJUNG](http://twitter.com/search?q=%23NCT_DOJAEJUNG) | N/A |
+| 47 | [#ราชาวิหคep8](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%ab%e0%b8%84ep8) | N/A |
+| 48 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
+| 49 | [#เด็กใหม่เด็กหญิงพรนับพัน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87%e0%b8%9e%e0%b8%a3%e0%b8%99%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b1%e0%b8%99) | N/A |
+| 50 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
 
 
 

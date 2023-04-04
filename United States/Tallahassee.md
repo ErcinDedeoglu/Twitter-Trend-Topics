@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-04 17:16:53 UTC`
+📆 Last Updated: `2023-04-04 18:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 2 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 4 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
-| 5 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 6 | [Tallahassee](http://twitter.com/search?q=Tallahassee) | N/A |
-| 7 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 8 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 12 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 13 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 14 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 15 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 17 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 18 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 19 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 20 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 21 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 24 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 25 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 28 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 29 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 30 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 31 | [Brian Hoyer](http://twitter.com/search?q=Brian+Hoyer) | N/A |
-| 32 | [Trump to Jesus](http://twitter.com/search?q=Trump+to+Jesus) | N/A |
-| 33 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 34 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 35 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 36 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
-| 37 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 38 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 39 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 40 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 41 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 42 | [Welcome to New York](http://twitter.com/search?q=Welcome+to+New+York) | N/A |
-| 43 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 44 | [Blacks for Trump](http://twitter.com/search?q=Blacks+for+Trump) | N/A |
-| 45 | [Florio](http://twitter.com/search?q=Florio) | N/A |
-| 46 | [Welcome to NYC](http://twitter.com/search?q=Welcome+to+NYC) | N/A |
-| 47 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 48 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 49 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 2 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 3 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 5 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
+| 6 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 7 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 8 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 9 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 10 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 13 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 14 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 16 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 17 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 18 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 21 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 22 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 25 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 26 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 27 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 28 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 30 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 31 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 33 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 34 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 37 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 38 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 39 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 40 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 41 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
+| 42 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 43 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 44 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 45 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 46 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 47 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
+| 48 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 49 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 
 
 

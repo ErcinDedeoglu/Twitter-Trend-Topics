@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-04 17:17:00 UTC`
+📆 Last Updated: `2023-04-04 18:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Philippines
 | 5 | [#JonaxxRTMVSimula](http://twitter.com/search?q=%23JonaxxRTMVSimula) | N/A |
 | 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 8 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 9 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 10 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 11 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 12 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 13 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 14 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 15 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 18 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 19 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 20 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 21 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 22 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 23 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 24 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 25 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 26 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 27 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 28 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 29 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
-| 30 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
-| 31 | [#BIGBANG_StillLife1stYear](http://twitter.com/search?q=%23BIGBANG_StillLife1stYear) | N/A |
-| 32 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 33 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 34 | [#SHARshinesAt24](http://twitter.com/search?q=%23SHARshinesAt24) | N/A |
-| 35 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
-| 36 | [#SEVENTEENxRollingStone](http://twitter.com/search?q=%23SEVENTEENxRollingStone) | N/A |
-| 37 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
-| 38 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
-| 39 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
-| 40 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
-| 41 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
-| 42 | [#EarthquakePH](http://twitter.com/search?q=%23EarthquakePH) | N/A |
-| 43 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
-| 44 | [#DLFirstKiss](http://twitter.com/search?q=%23DLFirstKiss) | N/A |
-| 45 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 46 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 47 | [#KA1AnniversaryTikTokLive](http://twitter.com/search?q=%23KA1AnniversaryTikTokLive) | N/A |
-| 48 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 49 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
-| 50 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 8 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 9 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 12 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 13 | [Congratulations Park Jimin](http://twitter.com/search?q=Congratulations+Park+Jimin) | N/A |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 16 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 17 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
+| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 19 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 20 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 21 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 22 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 23 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 24 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 25 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
+| 26 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 27 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 28 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 29 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 30 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 31 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
+| 32 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 33 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 34 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 35 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 36 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 37 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 39 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 40 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 42 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 43 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 44 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 45 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 46 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 47 | [JIMIN NO1 ON BILLBOARD HOT 100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT+100) | N/A |
+| 48 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 49 | [Back to the City](http://twitter.com/search?q=Back+to+the+City) | N/A |
+| 50 | [2 FEAT](http://twitter.com/search?q=2+FEAT) | N/A |
 
 
 

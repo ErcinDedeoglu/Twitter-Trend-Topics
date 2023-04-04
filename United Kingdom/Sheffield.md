@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-04-04 17:16:09 UTC`
+📆 Last Updated: `2023-04-04 18:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 2 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
-| 3 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 7 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 10 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 13 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
-| 14 | [Revels](http://twitter.com/search?q=Revels) | N/A |
-| 15 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 16 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 1 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 2 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 3 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 4 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 8 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 9 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
+| 10 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 12 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 15 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 16 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 17 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
 | 18 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 19 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 20 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 21 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
-| 22 | [Mines](http://twitter.com/search?q=Mines) | N/A |
-| 23 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 24 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 25 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 26 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
-| 27 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 28 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 29 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
-| 30 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
-| 31 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 32 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 33 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 34 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 35 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 36 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 37 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 38 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
-| 39 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 40 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 41 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 42 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
-| 43 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 44 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 45 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 46 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 47 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 48 | [Brook](http://twitter.com/search?q=Brook) | N/A |
-| 49 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 19 | [Revels](http://twitter.com/search?q=Revels) | N/A |
+| 20 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 22 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 23 | [Mines](http://twitter.com/search?q=Mines) | N/A |
+| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 25 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 27 | [My Internet](http://twitter.com/search?q=My+Internet) | N/A |
+| 28 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 29 | [Orange Creme](http://twitter.com/search?q=Orange+Creme) | N/A |
+| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 31 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 32 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 33 | [John Bennett](http://twitter.com/search?q=John+Bennett) | N/A |
+| 34 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
+| 35 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 36 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 37 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
+| 38 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
+| 39 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 40 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 41 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 42 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 43 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 44 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 45 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
+| 46 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 47 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
+| 48 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 49 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 
 
 

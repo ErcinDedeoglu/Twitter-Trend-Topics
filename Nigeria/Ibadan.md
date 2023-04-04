@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-04 17:16:35 UTC`
+📆 Last Updated: `2023-04-04 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 2 | [#AWholeInYourWallet](http://twitter.com/search?q=%23AWholeInYourWallet) | N/A |
-| 3 | [Lai Mohammed](http://twitter.com/search?q=Lai+Mohammed) | N/A |
-| 4 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
-| 5 | [Pelumi](http://twitter.com/search?q=Pelumi) | N/A |
-| 6 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 7 | [#AtikuThePeoplesPresident](http://twitter.com/search?q=%23AtikuThePeoplesPresident) | N/A |
-| 8 | [#TimeleesAlbum](http://twitter.com/search?q=%23TimeleesAlbum) | N/A |
+| 1 | [Pelumi](http://twitter.com/search?q=Pelumi) | N/A |
+| 2 | [#RGUinAbuja](http://twitter.com/search?q=%23RGUinAbuja) | N/A |
+| 3 | [#AtikuThePeoplesPresident](http://twitter.com/search?q=%23AtikuThePeoplesPresident) | N/A |
+| 4 | [#AWholeInYourWallet](http://twitter.com/search?q=%23AWholeInYourWallet) | N/A |
+| 5 | [Lai Mohammed](http://twitter.com/search?q=Lai+Mohammed) | N/A |
+| 6 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 9 | [Joeboy](http://twitter.com/search?q=Joeboy) | N/A |
-| 10 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 11 | [director pink](http://twitter.com/search?q=director+pink) | N/A |
-| 12 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
-| 13 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 14 | [Hall 3](http://twitter.com/search?q=Hall+3) | N/A |
-| 15 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [Fave](http://twitter.com/search?q=Fave) | N/A |
-| 18 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 19 | [Kegite](http://twitter.com/search?q=Kegite) | N/A |
-| 20 | [Minister Lai](http://twitter.com/search?q=Minister+Lai) | N/A |
-| 21 | [shuttlers](http://twitter.com/search?q=shuttlers) | N/A |
-| 22 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 23 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
-| 24 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 25 | [Tonye Cole](http://twitter.com/search?q=Tonye+Cole) | N/A |
-| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 27 | [Ekosodin](http://twitter.com/search?q=Ekosodin) | N/A |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Ayra](http://twitter.com/search?q=Ayra) | N/A |
-| 30 | [god protect sheggz](http://twitter.com/search?q=god+protect+sheggz) | N/A |
-| 31 | [MARKETABLE KANAGA JNR](http://twitter.com/search?q=MARKETABLE+KANAGA+JNR) | N/A |
-| 32 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 33 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 34 | [letter to yvonne](http://twitter.com/search?q=letter+to+yvonne) | N/A |
-| 35 | [North](http://twitter.com/search?q=North) | N/A |
-| 36 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 37 | [Jellybum](http://twitter.com/search?q=Jellybum) | N/A |
-| 38 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
-| 39 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 40 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 41 | [LEAVE STARDOM FOR YEMI CREGX](http://twitter.com/search?q=LEAVE+STARDOM+FOR+YEMI+CREGX) | N/A |
-| 42 | [JAMB](http://twitter.com/search?q=JAMB) | N/A |
-| 43 | [Paxful](http://twitter.com/search?q=Paxful) | N/A |
-| 44 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 45 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 46 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
-| 47 | [GREAT HELP IN APRIL](http://twitter.com/search?q=GREAT+HELP+IN+APRIL) | N/A |
-| 48 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 49 | [Covenant University](http://twitter.com/search?q=Covenant+University) | N/A |
+| 10 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 11 | [Terdoo](http://twitter.com/search?q=Terdoo) | N/A |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [Jellybum](http://twitter.com/search?q=Jellybum) | N/A |
+| 15 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Minister Lai](http://twitter.com/search?q=Minister+Lai) | N/A |
+| 18 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
+| 19 | [Fave](http://twitter.com/search?q=Fave) | N/A |
+| 20 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 21 | [Gist](http://twitter.com/search?q=Gist) | N/A |
+| 22 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
+| 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 25 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 26 | [Oshiomole](http://twitter.com/search?q=Oshiomole) | N/A |
+| 27 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 29 | [Arya](http://twitter.com/search?q=Arya) | N/A |
+| 30 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 31 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
+| 32 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
+| 33 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 34 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 35 | [Ayra](http://twitter.com/search?q=Ayra) | N/A |
+| 36 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 37 | [Our Daddy](http://twitter.com/search?q=Our+Daddy) | N/A |
+| 38 | [Number 6](http://twitter.com/search?q=Number+6) | N/A |
+| 39 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 40 | [Tiwa](http://twitter.com/search?q=Tiwa) | N/A |
+| 41 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 42 | [#VibesandChill](http://twitter.com/search?q=%23VibesandChill) | N/A |
+| 43 | [#PeterObiIsComing](http://twitter.com/search?q=%23PeterObiIsComing) | N/A |
+| 44 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 45 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 46 | [#TsatsiiMadiba](http://twitter.com/search?q=%23TsatsiiMadiba) | N/A |
+| 47 | [#UnfoldExtraordinary](http://twitter.com/search?q=%23UnfoldExtraordinary) | N/A |
+| 48 | [#AdekunleOlopade](http://twitter.com/search?q=%23AdekunleOlopade) | N/A |
 
 
 

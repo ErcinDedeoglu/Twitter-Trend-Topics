@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-04-04 17:16:15 UTC`
+📆 Last Updated: `2023-04-04 18:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 5 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 6 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 7 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 8 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 9 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 10 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 11 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 12 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
-| 13 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 14 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
-| 15 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 16 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 17 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 18 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 19 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 20 | [André Henrique](http://twitter.com/search?q=Andr%c3%a9+Henrique) | N/A |
-| 21 | [#Shopee44](http://twitter.com/search?q=%23Shopee44) | N/A |
-| 22 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
-| 23 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 24 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 25 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
-| 26 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
-| 27 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 28 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 29 | [#CLTINDER](http://twitter.com/search?q=%23CLTINDER) | N/A |
-| 30 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 31 | [Kens](http://twitter.com/search?q=Kens) | N/A |
-| 32 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 33 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 34 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 35 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 36 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 37 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 38 | [Força Key](http://twitter.com/search?q=For%c3%a7a+Key) | N/A |
-| 39 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 40 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 41 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
-| 42 | [Maior Jogador](http://twitter.com/search?q=Maior+Jogador) | N/A |
-| 43 | [Maior Craque](http://twitter.com/search?q=Maior+Craque) | N/A |
-| 44 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 45 | [Supervia](http://twitter.com/search?q=Supervia) | N/A |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [SHARON ROONEY](http://twitter.com/search?q=SHARON+ROONEY) | N/A |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
-| 50 | [Kate McKinnon](http://twitter.com/search?q=Kate+McKinnon) | N/A |
+| 1 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 7 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 8 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 9 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 10 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 12 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 13 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 14 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 15 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 16 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 17 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 18 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
+| 19 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 21 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
+| 22 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 23 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 24 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 25 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 26 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 27 | [Roc Nation](http://twitter.com/search?q=Roc+Nation) | Roc Nation is a full-service entertainment company founded by Jay-Z in 2008. It encompasses a record label, talent agency, touring and concert production company, music, film, and television production company, and a music publishing house. The name "Roc Nation" is derived from the phrase "roc the mic," which is slang for dominating the stage with one's performance. |
+| 28 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
+| 29 | [FILME DO ANO](http://twitter.com/search?q=FILME+DO+ANO) | N/A |
+| 30 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 31 | [#Shopee44](http://twitter.com/search?q=%23Shopee44) | N/A |
+| 32 | [#CLTINDER](http://twitter.com/search?q=%23CLTINDER) | N/A |
+| 33 | [André Henrique](http://twitter.com/search?q=Andr%c3%a9+Henrique) | N/A |
+| 34 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 35 | [Universal](http://twitter.com/search?q=Universal) | N/A |
+| 36 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 37 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
+| 38 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 39 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
+| 40 | [LIVROS BISSEXUAIS](http://twitter.com/search?q=LIVROS+BISSEXUAIS) | N/A |
+| 41 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 42 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
+| 43 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 44 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 45 | [O Ken](http://twitter.com/search?q=O+Ken) | N/A |
+| 46 | [Kens](http://twitter.com/search?q=Kens) | N/A |
+| 47 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 48 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 49 | [Renault](http://twitter.com/search?q=Renault) | N/A |
+| 50 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-04-04 17:16:09 UTC`
+📆 Last Updated: `2023-04-04 18:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 2 | [#spring](http://twitter.com/search?q=%23spring) | N/A |
-| 3 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 7 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 10 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 12 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 13 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
-| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 15 | [Revels](http://twitter.com/search?q=Revels) | N/A |
-| 16 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 17 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 19 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 20 | [Mines](http://twitter.com/search?q=Mines) | N/A |
-| 21 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
-| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 24 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 25 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 26 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
-| 27 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 28 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 30 | [My Internet](http://twitter.com/search?q=My+Internet) | N/A |
-| 31 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 32 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
-| 33 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
-| 34 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
-| 35 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 36 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 37 | [Baxter](http://twitter.com/search?q=Baxter) | N/A |
-| 38 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 39 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
-| 40 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 41 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 42 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
-| 43 | [Craig Charles](http://twitter.com/search?q=Craig+Charles) | N/A |
-| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 45 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 46 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 47 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 48 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
-| 49 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 1 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 2 | [Porridge](http://twitter.com/search?q=Porridge) | N/A |
+| 3 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 4 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 5 | [#sunshine](http://twitter.com/search?q=%23sunshine) | N/A |
+| 6 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 7 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 12 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 13 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 14 | [Douglas Park](http://twitter.com/search?q=Douglas+Park) | N/A |
+| 15 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 17 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 18 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 19 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 20 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 21 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 22 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 23 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 24 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 25 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 26 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 27 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 28 | [Revels](http://twitter.com/search?q=Revels) | N/A |
+| 29 | [Mines](http://twitter.com/search?q=Mines) | N/A |
+| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 31 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 33 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 34 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 35 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 36 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 37 | [My Internet](http://twitter.com/search?q=My+Internet) | N/A |
+| 38 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 39 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 40 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 41 | [Orange Creme](http://twitter.com/search?q=Orange+Creme) | N/A |
+| 42 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 43 | [Chelsea v Liverpool](http://twitter.com/search?q=Chelsea+v+Liverpool) | N/A |
+| 44 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 45 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 46 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 47 | [Broadband](http://twitter.com/search?q=Broadband) | N/A |
+| 48 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 49 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
 
 
 

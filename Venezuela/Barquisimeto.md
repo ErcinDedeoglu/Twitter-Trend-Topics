@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-04-04 17:16:17 UTC`
+📆 Last Updated: `2023-04-04 18:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#4Abr](http://twitter.com/search?q=%234Abr) | N/A |
 | 2 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
-| 3 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 4 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
 | 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 6 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
 | 7 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
@@ -30,39 +30,39 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 13 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
 | 14 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
 | 15 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 16 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 16 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
 | 17 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
-| 18 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 19 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
-| 20 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 21 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 22 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 23 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 24 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
-| 25 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 26 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
-| 27 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
-| 28 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 29 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 30 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 31 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 32 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 33 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
-| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 35 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 36 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 37 | [Alirio Rodríguez](http://twitter.com/search?q=Alirio+Rodr%c3%adguez) | N/A |
-| 38 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 39 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 40 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 18 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 19 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 20 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 21 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
+| 22 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
+| 23 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
+| 24 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 25 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 26 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
+| 27 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 30 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 31 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
+| 32 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
+| 33 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 34 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 37 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 38 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 39 | [Alirio Rodríguez](http://twitter.com/search?q=Alirio+Rodr%c3%adguez) | N/A |
+| 40 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
 | 41 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 42 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 43 | [tetero](http://twitter.com/search?q=tetero) | N/A |
-| 44 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
-| 45 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 42 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 43 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 44 | [tetero](http://twitter.com/search?q=tetero) | N/A |
+| 45 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 46 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
 | 47 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 48 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 48 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
 
 
 

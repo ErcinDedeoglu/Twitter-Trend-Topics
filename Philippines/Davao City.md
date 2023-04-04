@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-04 17:16:33 UTC`
+📆 Last Updated: `2023-04-04 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,37 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 5 | [#JonaxxRTMVSimula](http://twitter.com/search?q=%23JonaxxRTMVSimula) | N/A |
 | 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 7 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 8 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 9 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 10 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 11 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 12 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 13 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 7 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 8 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 10 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 12 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 13 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
 | 14 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 15 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 16 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 17 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 18 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 19 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 20 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 21 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 22 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 24 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 25 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 26 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 27 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 28 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
-| 29 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 30 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
-| 31 | [#BIGBANG_StillLife1stYear](http://twitter.com/search?q=%23BIGBANG_StillLife1stYear) | N/A |
-| 32 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 33 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 34 | [#SHARshinesAt24](http://twitter.com/search?q=%23SHARshinesAt24) | N/A |
-| 35 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
-| 36 | [#SEVENTEENxRollingStone](http://twitter.com/search?q=%23SEVENTEENxRollingStone) | N/A |
-| 37 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
-| 38 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
-| 39 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
-| 40 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
-| 41 | [#HORI7ONFirstFanmeeting](http://twitter.com/search?q=%23HORI7ONFirstFanmeeting) | N/A |
-| 42 | [#EarthquakePH](http://twitter.com/search?q=%23EarthquakePH) | N/A |
-| 43 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
-| 44 | [#DLFirstKiss](http://twitter.com/search?q=%23DLFirstKiss) | N/A |
-| 45 | [#HOIWardrobeMalfunction](http://twitter.com/search?q=%23HOIWardrobeMalfunction) | N/A |
-| 46 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 47 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 15 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 16 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 17 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 18 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 21 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 22 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 23 | [Duty After School](http://twitter.com/search?q=Duty+After+School) | N/A |
+| 24 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 25 | [#BIGBANG_StillLife1stYear](http://twitter.com/search?q=%23BIGBANG_StillLife1stYear) | N/A |
+| 26 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
+| 27 | [#SHARshinesAt24](http://twitter.com/search?q=%23SHARshinesAt24) | N/A |
+| 28 | [#Happy2YearsLikeWater](http://twitter.com/search?q=%23Happy2YearsLikeWater) | N/A |
+| 29 | [#물의정령_웬디_오신날](http://twitter.com/search?q=%23%eb%ac%bc%ec%9d%98%ec%a0%95%eb%a0%b9_%ec%9b%ac%eb%94%94_%ec%98%a4%ec%8b%a0%eb%82%a0) | N/A |
+| 30 | [#StrikeWithLOVESTRUCK](http://twitter.com/search?q=%23StrikeWithLOVESTRUCK) | N/A |
+| 31 | [#D5toLOVESTRUCK](http://twitter.com/search?q=%23D5toLOVESTRUCK) | N/A |
+| 32 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
+| 33 | [#WENDY](http://twitter.com/search?q=%23WENDY) | N/A |
+| 34 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 35 | [#HORI7ONFirstFanMeeting](http://twitter.com/search?q=%23HORI7ONFirstFanMeeting) | N/A |
+| 36 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 37 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
 
 
 
