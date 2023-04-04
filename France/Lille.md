@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-04-04 08:18:06 UTC`
+📆 Last Updated: `2023-04-04 09:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 2 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 3 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
-| 4 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 5 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
-| 6 | [#GrimAntisemite](http://twitter.com/search?q=%23GrimAntisemite) | N/A |
+| 3 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 4 | [#GrimAntisemite](http://twitter.com/search?q=%23GrimAntisemite) | N/A |
+| 5 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
+| 6 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
 | 7 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
-| 8 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
-| 9 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
-| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 11 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
-| 12 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 13 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
-| 14 | [#EtSiOnSeRencontrait](http://twitter.com/search?q=%23EtSiOnSeRencontrait) | N/A |
-| 15 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 18 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 8 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
+| 9 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
+| 10 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
+| 11 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
+| 12 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
+| 13 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
+| 14 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 15 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 16 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 19 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 20 | [Utip](http://twitter.com/search?q=Utip) | N/A |
-| 21 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 22 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 23 | [Bernard Friot](http://twitter.com/search?q=Bernard+Friot) | N/A |
-| 24 | [Vénal](http://twitter.com/search?q=V%c3%a9nal) | N/A |
-| 25 | [Across the Spider-Verse](http://twitter.com/search?q=Across+the+Spider-Verse) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
-| 28 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 20 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 21 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 22 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 23 | [Vénal](http://twitter.com/search?q=V%c3%a9nal) | N/A |
+| 24 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 27 | [Saïd Chabane](http://twitter.com/search?q=Sa%c3%afd+Chabane) | N/A |
+| 28 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
 | 29 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 30 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 31 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 32 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 33 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 34 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 35 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
-| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 37 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 38 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
-| 39 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 40 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
-| 43 | [Isidore](http://twitter.com/search?q=Isidore) | N/A |
-| 44 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 45 | [Duhamel](http://twitter.com/search?q=Duhamel) | N/A |
-| 46 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 47 | [Maraudeurs](http://twitter.com/search?q=Maraudeurs) | N/A |
-| 48 | [Transition](http://twitter.com/search?q=Transition) | N/A |
-| 49 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 50 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 30 | [Maraudeurs](http://twitter.com/search?q=Maraudeurs) | N/A |
+| 31 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 32 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 33 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 34 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 36 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 37 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
+| 38 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 40 | [Mambo](http://twitter.com/search?q=Mambo) | N/A |
+| 41 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 42 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 43 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 44 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 45 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 46 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
+| 47 | [Bernard Friot](http://twitter.com/search?q=Bernard+Friot) | N/A |
+| 48 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 49 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 50 | [TACLE](http://twitter.com/search?q=TACLE) | N/A |
 
 
 

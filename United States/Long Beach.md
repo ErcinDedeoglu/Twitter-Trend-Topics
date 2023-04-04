@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-04 08:18:36 UTC`
+📆 Last Updated: `2023-04-04 09:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
-| 2 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 3 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 4 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 2 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 3 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 4 | [jisung](http://twitter.com/search?q=jisung) | N/A |
 | 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 6 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
 | 7 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [United States](</United States>)
 | 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 11 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
 | 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 13 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 14 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 15 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 16 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 17 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
-| 18 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 19 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
-| 20 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 21 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 22 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 23 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 24 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
+| 13 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 14 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 15 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 16 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 17 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 18 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
+| 19 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 20 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 21 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 22 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 23 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 24 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
 | 25 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 26 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
-| 27 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 28 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 29 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 30 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 31 | [DAVID DAHL](http://twitter.com/search?q=DAVID+DAHL) | N/A |
-| 32 | [Ha-Seong Kim](http://twitter.com/search?q=Ha-Seong+Kim) | N/A |
-| 33 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 34 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 35 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 36 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 37 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 38 | [Newton](http://twitter.com/search?q=Newton) | N/A |
-| 39 | [Nikki Fried](http://twitter.com/search?q=Nikki+Fried) | N/A |
-| 40 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
-| 41 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
-| 42 | [Worst Raw](http://twitter.com/search?q=Worst+Raw) | N/A |
-| 43 | [TAYLOR WARD](http://twitter.com/search?q=TAYLOR+WARD) | N/A |
-| 44 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 45 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 46 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 47 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
-| 48 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 49 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 50 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 26 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
+| 27 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
+| 28 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 29 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 30 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
+| 31 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 32 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
+| 33 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 34 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 35 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
+| 36 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 37 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 38 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 39 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 40 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 41 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 42 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
+| 43 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 44 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 45 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 46 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 47 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
+| 48 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 49 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 50 | [Snape](http://twitter.com/search?q=Snape) | N/A |
 
 
 

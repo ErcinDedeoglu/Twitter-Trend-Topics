@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-04 08:18:43 UTC`
+📆 Last Updated: `2023-04-04 09:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 2 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 4 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
-| 5 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 6 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 7 | [Tres Potencias](http://twitter.com/search?q=Tres+Potencias) | N/A |
-| 8 | [#elgobdelosguatemaltecos](http://twitter.com/search?q=%23elgobdelosguatemaltecos) | N/A |
-| 9 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 10 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 1 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 2 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 3 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 5 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 6 | [Tres Potencias](http://twitter.com/search?q=Tres+Potencias) | N/A |
+| 7 | [#elgobdelosguatemaltecos](http://twitter.com/search?q=%23elgobdelosguatemaltecos) | N/A |
+| 8 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 9 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 11 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
 | 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Guatemala
 | 28 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
 | 29 | [#ejércitogt](http://twitter.com/search?q=%23ej%c3%a9rcitogt) | N/A |
 | 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 31 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
+| 31 | [ciudad de guatemala](http://twitter.com/search?q=ciudad+de+guatemala) | N/A |
 | 32 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 33 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
 | 34 | [Milagros](http://twitter.com/search?q=Milagros) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Guatemala
 | 40 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
 | 41 | [rey del universo](http://twitter.com/search?q=rey+del+universo) | N/A |
 | 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 43 | [San Miguel Petapa](http://twitter.com/search?q=San+Miguel+Petapa) | N/A |
+| 43 | [san miguel petapa](http://twitter.com/search?q=san+miguel+petapa) | N/A |
 | 44 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 45 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
 | 46 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |

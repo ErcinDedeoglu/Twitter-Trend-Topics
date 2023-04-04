@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-04-04 08:18:00 UTC`
+📆 Last Updated: `2023-04-04 09:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 2 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
+| 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 | 3 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
 | 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 5 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
 | 6 | [Meade](http://twitter.com/search?q=Meade) | N/A |
 | 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 9 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
-| 10 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 9 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 10 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
 | 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 12 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
 | 13 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
@@ -38,31 +38,31 @@ This is top 50 for [Mexico](</Mexico>)
 | 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 22 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
 | 23 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 24 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 25 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 24 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 25 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
 | 26 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 28 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 29 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
 | 30 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 31 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 31 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
 | 32 | [thankful for skz maniac tour](http://twitter.com/search?q=thankful+for+skz+maniac+tour) | N/A |
-| 33 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
-| 34 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 33 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 34 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
 | 35 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 36 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 37 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 38 | [Violento](http://twitter.com/search?q=Violento) | N/A |
-| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 40 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 41 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 36 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 37 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 38 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 39 | [VIOLENTO](http://twitter.com/search?q=VIOLENTO) | N/A |
+| 40 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 41 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 42 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 43 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
-| 44 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 45 | [JISOO ONEMEllion SELLER](http://twitter.com/search?q=JISOO+ONEMEllion+SELLER) | N/A |
-| 46 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
+| 43 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
+| 44 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 45 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 46 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
 | 47 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
-| 48 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 48 | [Maui](http://twitter.com/search?q=Maui) | N/A |
 
 
 

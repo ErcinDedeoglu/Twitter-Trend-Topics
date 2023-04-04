@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-04 08:18:21 UTC`
+📆 Last Updated: `2023-04-04 09:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,31 +32,30 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 15 | [1st concept photo](http://twitter.com/search?q=1st+concept+photo) | N/A |
 | 16 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 17 | [zero out today](http://twitter.com/search?q=zero+out+today) | N/A |
-| 18 | [Arbitrum Foundation](http://twitter.com/search?q=Arbitrum+Foundation) | N/A |
-| 19 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 18 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 20 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
 | 21 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
 | 22 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 23 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
-| 24 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 24 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 25 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 26 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
-| 27 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 28 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 29 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 27 | [Seop](http://twitter.com/search?q=Seop) | N/A |
+| 28 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
+| 29 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
+| 30 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
+| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 32 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 33 | [Great Project](http://twitter.com/search?q=Great+Project) | N/A |
 | 34 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
-| 35 | [Exploring Mute Quest](http://twitter.com/search?q=Exploring+Mute+Quest) | N/A |
-| 36 | [SEOP](http://twitter.com/search?q=SEOP) | N/A |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Exploring Mute Quest](http://twitter.com/search?q=Exploring+Mute+Quest) | N/A |
 | 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 38 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 41 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
-| 42 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
+| 38 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
+| 39 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 40 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
+| 41 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
 
 
 

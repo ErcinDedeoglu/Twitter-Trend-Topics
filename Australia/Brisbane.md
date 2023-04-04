@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-04-04 08:18:14 UTC`
+📆 Last Updated: `2023-04-04 09:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 4 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 2 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 3 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 4 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
 | 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 6 | [#afternoonbriefing](http://twitter.com/search?q=%23afternoonbriefing) | N/A |
-| 7 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 8 | [#AFLSunsCats](http://twitter.com/search?q=%23AFLSunsCats) | N/A |
-| 9 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 10 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 12 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 6 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 7 | [#AFLSunsCats](http://twitter.com/search?q=%23AFLSunsCats) | N/A |
+| 8 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 9 | [#aflfreoeagles](http://twitter.com/search?q=%23aflfreoeagles) | N/A |
+| 10 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
+| 11 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 14 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
 | 15 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 16 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 17 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
-| 18 | [Former NRL](http://twitter.com/search?q=Former+NRL) | N/A |
-| 19 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 20 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
-| 21 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 22 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 23 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 24 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 25 | [The Reserve Bank](http://twitter.com/search?q=The+Reserve+Bank) | N/A |
-| 26 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 27 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 28 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 29 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 30 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 31 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
-| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 33 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 34 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 35 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 36 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 37 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 38 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
+| 17 | [Alan Jones](http://twitter.com/search?q=Alan+Jones) | N/A |
+| 18 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
+| 19 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 20 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 21 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 22 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 23 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 24 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 25 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 26 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 27 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 28 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 31 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 32 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 33 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 34 | [Lane](http://twitter.com/search?q=Lane) | N/A |
+| 35 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 36 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 37 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 38 | [My Place](http://twitter.com/search?q=My+Place) | N/A |
+| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 40 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [My Place](http://twitter.com/search?q=My+Place) | N/A |
-| 43 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 44 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 45 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 46 | [Tony Jones](http://twitter.com/search?q=Tony+Jones) | N/A |
-| 47 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 41 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 42 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 43 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 44 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 45 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 46 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 47 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
+| 48 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
 | 49 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 50 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
 

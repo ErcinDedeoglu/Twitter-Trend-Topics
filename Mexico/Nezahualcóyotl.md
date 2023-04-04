@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-04-04 08:17:58 UTC`
+📆 Last Updated: `2023-04-04 09:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Mexico](</Mexico>)
 | 7 | [Meade](http://twitter.com/search?q=Meade) | N/A |
 | 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 10 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
-| 11 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 10 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 11 | [Raúl Padilla](http://twitter.com/search?q=Ra%c3%bal+Padilla) | N/A |
 | 12 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 13 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
 | 14 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
@@ -39,31 +39,31 @@ This is top 50 for [Mexico](</Mexico>)
 | 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 23 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
 | 24 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 25 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 26 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 25 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 26 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
 | 27 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 29 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 29 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 30 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
 | 31 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 32 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 32 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
 | 33 | [thankful for skz maniac tour](http://twitter.com/search?q=thankful+for+skz+maniac+tour) | N/A |
-| 34 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
-| 35 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 34 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 35 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
 | 36 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 37 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 38 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 39 | [Violento](http://twitter.com/search?q=Violento) | N/A |
-| 40 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 41 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 42 | [Maui](http://twitter.com/search?q=Maui) | N/A |
+| 37 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 38 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 39 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 40 | [VIOLENTO](http://twitter.com/search?q=VIOLENTO) | N/A |
+| 41 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 42 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 43 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 44 | [UdeG](http://twitter.com/search?q=UdeG) | N/A |
-| 45 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 46 | [JISOO ONEMEllion SELLER](http://twitter.com/search?q=JISOO+ONEMEllion+SELLER) | N/A |
-| 47 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
+| 44 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
+| 45 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 46 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 47 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
 | 48 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
-| 49 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
+| 49 | [Maui](http://twitter.com/search?q=Maui) | N/A |
 
 
 

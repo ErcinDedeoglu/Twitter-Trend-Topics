@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-04 08:18:27 UTC`
+📆 Last Updated: `2023-04-04 09:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#آئین_پرڈٹ_گیا_چیف_جسٹس](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%b1%da%88%d9%b9_%da%af%db%8c%d8%a7_%da%86%db%8c%d9%81_%d8%ac%d8%b3%d9%b9%d8%b3) | N/A |
-| 2 | [#بندیالی_فیصلہ_مسترد](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%af%db%8c%d8%a7%d9%84%db%8c_%d9%81%db%8c%d8%b5%d9%84%db%81_%d9%85%d8%b3%d8%aa%d8%b1%d8%af) | N/A |
-| 3 | [#Chief_Justice_of_Pakistan](http://twitter.com/search?q=%23Chief_Justice_of_Pakistan) | N/A |
-| 4 | [#Chief_Justice_of_Pakistan](http://twitter.com/search?q=%23Chief_Justice_of_Pakistan) | N/A |
+| 2 | [#Chief_Justice_of_Pakistan](http://twitter.com/search?q=%23Chief_Justice_of_Pakistan) | N/A |
+| 3 | [#بندیالی_فیصلہ_مسترد](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%af%db%8c%d8%a7%d9%84%db%8c_%d9%81%db%8c%d8%b5%d9%84%db%81_%d9%85%d8%b3%d8%aa%d8%b1%d8%af) | N/A |
+| 4 | [#شکریہ_سپریم_کورٹ](http://twitter.com/search?q=%23%d8%b4%da%a9%d8%b1%db%8c%db%81_%d8%b3%d9%be%d8%b1%db%8c%d9%85_%da%a9%d9%88%d8%b1%d9%b9) | N/A |
 | 5 | [#SalamBhutto](http://twitter.com/search?q=%23SalamBhutto) | N/A |
 | 6 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 7 | [BOL Network](http://twitter.com/search?q=BOL+Network) | N/A |
-| 8 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 9 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 12 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 13 | [Saudi Embassies](http://twitter.com/search?q=Saudi+Embassies) | N/A |
-| 14 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
-| 15 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
-| 16 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
-| 17 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 18 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
-| 19 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 20 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 21 | [Saudi Royal Family](http://twitter.com/search?q=Saudi+Royal+Family) | N/A |
-| 22 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 23 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
-| 24 | [tom homecoming](http://twitter.com/search?q=tom+homecoming) | N/A |
-| 25 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 27 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 28 | [Establishment Division](http://twitter.com/search?q=Establishment+Division) | N/A |
-| 29 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 30 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
-| 31 | [Hats](http://twitter.com/search?q=Hats) | N/A |
-| 32 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 33 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 34 | [President](http://twitter.com/search?q=President) | N/A |
-| 35 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 36 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 37 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 38 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 41 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 42 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 43 | [MY LEADER](http://twitter.com/search?q=MY+LEADER) | N/A |
-| 44 | [Shukr](http://twitter.com/search?q=Shukr) | N/A |
-| 45 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 46 | [Peak](http://twitter.com/search?q=Peak) | N/A |
-| 47 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 48 | [Subhan Allah](http://twitter.com/search?q=Subhan+Allah) | N/A |
-| 49 | [#جتھے_کا_مقابلہ_بھی_منظور](http://twitter.com/search?q=%23%d8%ac%d8%aa%da%be%db%92_%da%a9%d8%a7_%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%d8%a8%da%be%db%8c_%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 50 | [#WeRejectOneManShow](http://twitter.com/search?q=%23WeRejectOneManShow) | N/A |
+| 7 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
+| 10 | [Saudi Embassies](http://twitter.com/search?q=Saudi+Embassies) | N/A |
+| 11 | [Rejected](http://twitter.com/search?q=Rejected) | N/A |
+| 12 | [The SC](http://twitter.com/search?q=The+SC) | N/A |
+| 13 | [JDC Exposed](http://twitter.com/search?q=JDC+Exposed) | N/A |
+| 14 | [Boycott JDC](http://twitter.com/search?q=Boycott+JDC) | N/A |
+| 15 | [Boycott Daraz](http://twitter.com/search?q=Boycott+Daraz) | N/A |
+| 16 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 17 | [Doctrine of Necessity](http://twitter.com/search?q=Doctrine+of+Necessity) | N/A |
+| 18 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 19 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 20 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 21 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
+| 22 | [BOL Network](http://twitter.com/search?q=BOL+Network) | N/A |
+| 23 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 24 | [Saudi Royal Family](http://twitter.com/search?q=Saudi+Royal+Family) | N/A |
+| 25 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 26 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 27 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 28 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 29 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 30 | [Ishrat Ali](http://twitter.com/search?q=Ishrat+Ali) | N/A |
+| 31 | [Truck](http://twitter.com/search?q=Truck) | N/A |
+| 32 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
+| 33 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 34 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 35 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 36 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 37 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 38 | [Hats](http://twitter.com/search?q=Hats) | N/A |
+| 39 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 40 | [My Leader](http://twitter.com/search?q=My+Leader) | N/A |
+| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 42 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 43 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 44 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 45 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 46 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 47 | [Shukr](http://twitter.com/search?q=Shukr) | N/A |
+| 48 | [President](http://twitter.com/search?q=President) | N/A |
+| 49 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 50 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
 
 
 
