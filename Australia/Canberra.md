@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-04 05:17:34 UTC`
+📆 Last Updated: `2023-04-04 06:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 4 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 5 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 6 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 7 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [#aflsunscats](http://twitter.com/search?q=%23aflsunscats) | N/A |
-| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 11 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 12 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
-| 13 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 1 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 3 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 5 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 6 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 7 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 8 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
+| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 10 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 12 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 13 | [Yunupingu](http://twitter.com/search?q=Yunupingu) | N/A |
 | 14 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 15 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 17 | [Amanda Rishworth](http://twitter.com/search?q=Amanda+Rishworth) | N/A |
-| 18 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
-| 19 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 20 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 21 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 15 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 16 | [Aesop](http://twitter.com/search?q=Aesop) | N/A |
+| 17 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 18 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
+| 19 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 20 | [Malka Leifer](http://twitter.com/search?q=Malka+Leifer) | N/A |
+| 21 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
 | 22 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 23 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 24 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 25 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
-| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 27 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 28 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 29 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 30 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 31 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 34 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 35 | [My Place](http://twitter.com/search?q=My+Place) | N/A |
+| 25 | [The Reserve Bank](http://twitter.com/search?q=The+Reserve+Bank) | N/A |
+| 26 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 27 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 28 | [Peta Murphy](http://twitter.com/search?q=Peta+Murphy) | N/A |
+| 29 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 30 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 31 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 32 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 33 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 34 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 35 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 36 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 37 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 39 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 40 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 41 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 42 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 43 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 44 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 45 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 46 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 47 | [Lyme](http://twitter.com/search?q=Lyme) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 50 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 37 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 38 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 39 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 40 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 41 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 42 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 44 | [My Place](http://twitter.com/search?q=My+Place) | N/A |
+| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 46 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 47 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 48 | [Tony Jones](http://twitter.com/search?q=Tony+Jones) | N/A |
+| 49 | [Lyme](http://twitter.com/search?q=Lyme) | N/A |
 
 
 

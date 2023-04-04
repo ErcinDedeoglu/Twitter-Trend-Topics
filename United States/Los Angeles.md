@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-04 05:17:58 UTC`
+📆 Last Updated: `2023-04-04 06:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 2 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
 | 3 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 4 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 5 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 6 | [Detmers](http://twitter.com/search?q=Detmers) | N/A |
-| 7 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
-| 8 | [The Dodgers](http://twitter.com/search?q=The+Dodgers) | N/A |
-| 9 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 10 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
-| 11 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 12 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 13 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 14 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 15 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 16 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
-| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 18 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 19 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 20 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 21 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 22 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 23 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 24 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 25 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 26 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
-| 27 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 28 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 29 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 30 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 31 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 32 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 34 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 35 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 36 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 38 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 39 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 40 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 41 | [Seth Brown](http://twitter.com/search?q=Seth+Brown) | N/A |
-| 42 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 43 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 44 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 45 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 46 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 47 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 48 | [David Dahl](http://twitter.com/search?q=David+Dahl) | N/A |
-| 49 | [Ha-Seong Kim](http://twitter.com/search?q=Ha-Seong+Kim) | N/A |
-| 50 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 4 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 5 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 6 | [Chris Taylor](http://twitter.com/search?q=Chris+Taylor) | N/A |
+| 7 | [The Dodgers](http://twitter.com/search?q=The+Dodgers) | N/A |
+| 8 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 9 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 10 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 12 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 13 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 14 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 15 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 16 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
+| 17 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 18 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 21 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 22 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 23 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 24 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 25 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 26 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 27 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 28 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 29 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 31 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 32 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 33 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 34 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 35 | [Seth Brown](http://twitter.com/search?q=Seth+Brown) | N/A |
+| 36 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 37 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 38 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 39 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 40 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 41 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
+| 42 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
+| 43 | [Ha-Seong Kim](http://twitter.com/search?q=Ha-Seong+Kim) | N/A |
+| 44 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
+| 45 | [David Dahl](http://twitter.com/search?q=David+Dahl) | N/A |
+| 46 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 47 | [Newton](http://twitter.com/search?q=Newton) | N/A |
+| 48 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 49 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 50 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
 
 
 

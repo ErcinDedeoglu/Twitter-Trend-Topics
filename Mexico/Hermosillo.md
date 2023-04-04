@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-04-04 05:17:15 UTC`
+📆 Last Updated: `2023-04-04 06:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 | 4 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
 | 5 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 6 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 7 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 6 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 7 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
 | 8 | [#JuegoPorExapoints](http://twitter.com/search?q=%23JuegoPorExapoints) | N/A |
 | 9 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 10 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
-| 11 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
-| 12 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
-| 13 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 10 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 11 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 12 | [SASSLA](http://twitter.com/search?q=SASSLA) | N/A |
+| 13 | [3L PATRÓN DORADO](http://twitter.com/search?q=3L+PATR%c3%93N+DORADO) | N/A |
 | 14 | [Violento](http://twitter.com/search?q=Violento) | N/A |
-| 15 | [Juanpa Zurita](http://twitter.com/search?q=Juanpa+Zurita) | N/A |
-| 16 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 17 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 19 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
-| 20 | [Calixto](http://twitter.com/search?q=Calixto) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [Columbia](http://twitter.com/search?q=Columbia) | N/A |
+| 15 | [Columbia](http://twitter.com/search?q=Columbia) | N/A |
+| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 17 | [Juanpa Zurita](http://twitter.com/search?q=Juanpa+Zurita) | N/A |
+| 18 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 20 | [Sonó](http://twitter.com/search?q=Son%c3%b3) | N/A |
+| 21 | [Calixto](http://twitter.com/search?q=Calixto) | N/A |
+| 22 | [Delia](http://twitter.com/search?q=Delia) | N/A |
 | 23 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 24 | [Delia](http://twitter.com/search?q=Delia) | N/A |
-| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 26 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 27 | [1 TRAGO PA OLVIDARTE](http://twitter.com/search?q=1+TRAGO+PA+OLVIDARTE) | N/A |
-| 28 | [Caleta](http://twitter.com/search?q=Caleta) | N/A |
-| 29 | [Leve](http://twitter.com/search?q=Leve) | N/A |
-| 30 | [Afortunadamente](http://twitter.com/search?q=Afortunadamente) | N/A |
-| 31 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 32 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 33 | [1 TRAGO IS COMING](http://twitter.com/search?q=1+TRAGO+IS+COMING) | N/A |
-| 34 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
-| 35 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
-| 36 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 37 | [El Rollo](http://twitter.com/search?q=El+Rollo) | N/A |
-| 38 | [En Puebla](http://twitter.com/search?q=En+Puebla) | N/A |
-| 39 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
-| 40 | [En CDMX](http://twitter.com/search?q=En+CDMX) | N/A |
-| 41 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 42 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
-| 43 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 44 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
-| 45 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 47 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
-| 48 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 49 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 24 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 25 | [SkyAlert](http://twitter.com/search?q=SkyAlert) | N/A |
+| 26 | [Caleta](http://twitter.com/search?q=Caleta) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Leve](http://twitter.com/search?q=Leve) | N/A |
+| 29 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 30 | [STREAM AND BUY OTS](http://twitter.com/search?q=STREAM+AND+BUY+OTS) | N/A |
+| 31 | [Poza Rica](http://twitter.com/search?q=Poza+Rica) | N/A |
+| 32 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 33 | [Afortunadamente](http://twitter.com/search?q=Afortunadamente) | N/A |
+| 34 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 35 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 36 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 37 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
+| 38 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 39 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 41 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
+| 42 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 43 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 44 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 45 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 46 | [#MINHYUK](http://twitter.com/search?q=%23MINHYUK) | N/A |
+| 47 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 48 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
+| 49 | [#OTSReComeback](http://twitter.com/search?q=%23OTSReComeback) | N/A |
 
 
 

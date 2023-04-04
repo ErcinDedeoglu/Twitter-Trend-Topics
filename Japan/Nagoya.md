@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-04-04 05:17:36 UTC`
+📆 Last Updated: `2023-04-04 06:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#おおまえチャン](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8a%e3%81%be%e3%81%88%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 2 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
-| 3 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
-| 4 | [#Bリーグマスコット](http://twitter.com/search?q=%23B%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88) | N/A |
-| 5 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
-| 6 | [かぼすちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%bc%e3%81%99%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 1 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 2 | [コナミコマンド](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%9f%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89) | N/A |
+| 3 | [みすきー](http://twitter.com/search?q=%e3%81%bf%e3%81%99%e3%81%8d%e3%83%bc) | N/A |
+| 4 | [かぼすちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%bc%e3%81%99%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 5 | [Misskey](http://twitter.com/search?q=Misskey) | N/A |
+| 6 | [ミスキー](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
 | 7 | [ゲッターロボ](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%82%bf%e3%83%bc%e3%83%ad%e3%83%9c) | N/A |
-| 8 | [みすきー](http://twitter.com/search?q=%e3%81%bf%e3%81%99%e3%81%8d%e3%83%bc) | N/A |
-| 9 | [ヒルトン](http://twitter.com/search?q=%e3%83%92%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
-| 10 | [リツイート直後のツイート](http://twitter.com/search?q=%e3%83%aa%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
-| 11 | [ポケスタ2](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%b9%e3%82%bf2) | N/A |
-| 12 | [イーロン](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%83%ad%e3%83%b3) | イーロン is the given name of Elon Musk, an American entrepreneur and business magnate. He is the founder, CEO, and CTO of SpaceX; co-founder, CEO, and product architect of Tesla Inc.; and founder of The Boring Company. |
+| 8 | [イーロン](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%83%ad%e3%83%b3) | イーロン is the given name of Elon Musk, an American entrepreneur and business magnate. He is the founder, CEO, and CTO of SpaceX; co-founder, CEO, and product architect of Tesla Inc.; and founder of The Boring Company. |
+| 9 | [#あなたの共感力診断](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e5%85%b1%e6%84%9f%e5%8a%9b%e8%a8%ba%e6%96%ad) | N/A |
+| 10 | [上上下下左右左右BA](http://twitter.com/search?q=%e4%b8%8a%e4%b8%8a%e4%b8%8b%e4%b8%8b%e5%b7%a6%e5%8f%b3%e5%b7%a6%e5%8f%b3BA) | N/A |
+| 11 | [リツイート直後のツイート](http://twitter.com/search?q=%e3%83%aa%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 12 | [ヒルトン](http://twitter.com/search?q=%e3%83%92%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
 | 13 | [Twitterのアイコン](http://twitter.com/search?q=Twitter%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 14 | [コナミコマンド](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%9f%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89) | N/A |
-| 15 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 16 | [#セブンで綾鷹カフェ当たった](http://twitter.com/search?q=%23%e3%82%bb%e3%83%96%e3%83%b3%e3%81%a7%e7%b6%be%e9%b7%b9%e3%82%ab%e3%83%95%e3%82%a7%e5%bd%93%e3%81%9f%e3%81%a3%e3%81%9f) | N/A |
-| 17 | [ミスキー](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
-| 18 | [飲食店経営](http://twitter.com/search?q=%e9%a3%b2%e9%a3%9f%e5%ba%97%e7%b5%8c%e5%96%b6) | N/A |
-| 19 | [misskey](http://twitter.com/search?q=misskey) | N/A |
-| 20 | [ミニゲーム](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 21 | [吉野家の紅ショウガ](http://twitter.com/search?q=%e5%90%89%e9%87%8e%e5%ae%b6%e3%81%ae%e7%b4%85%e3%82%b7%e3%83%a7%e3%82%a6%e3%82%ac) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [ベロリンガ](http://twitter.com/search?q=%e3%83%99%e3%83%ad%e3%83%aa%e3%83%b3%e3%82%ac) | N/A |
-| 24 | [男性2人逮捕](http://twitter.com/search?q=%e7%94%b7%e6%80%a72%e4%ba%ba%e9%80%ae%e6%8d%95) | N/A |
-| 25 | [犬のアイコン](http://twitter.com/search?q=%e7%8a%ac%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
-| 26 | [大阪府警](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e8%ad%a6) | N/A |
-| 27 | [#ハリポタツアー](http://twitter.com/search?q=%23%e3%83%8f%e3%83%aa%e3%83%9d%e3%82%bf%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
-| 28 | [ポケモンスタジアム2](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a02) | N/A |
-| 29 | [Twitterの鳥](http://twitter.com/search?q=Twitter%e3%81%ae%e9%b3%a5) | N/A |
-| 30 | [RT直後のツイート](http://twitter.com/search?q=RT%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
-| 31 | [ドージコイン](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%82%b8%e3%82%b3%e3%82%a4%e3%83%b3) | N/A |
-| 32 | [グリーンモンスター](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 33 | [Hel2um](http://twitter.com/search?q=Hel2um) | N/A |
-| 34 | [小田ちゃん](http://twitter.com/search?q=%e5%b0%8f%e7%94%b0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [キンキャニ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%8b) | N/A |
-| 36 | [ハプルボッカ](http://twitter.com/search?q=%e3%83%8f%e3%83%97%e3%83%ab%e3%83%9c%e3%83%83%e3%82%ab) | N/A |
-| 37 | [セカオワ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%82%aa%e3%83%af) | N/A |
-| 38 | [鳥のまま](http://twitter.com/search?q=%e9%b3%a5%e3%81%ae%e3%81%be%e3%81%be) | N/A |
-| 39 | [レンタルポケモン](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 40 | [ゾロアーク](http://twitter.com/search?q=%e3%82%be%e3%83%ad%e3%82%a2%e3%83%bc%e3%82%af) | N/A |
-| 41 | [Bluesky](http://twitter.com/search?q=Bluesky) | N/A |
-| 42 | [ビュッフェ](http://twitter.com/search?q=%e3%83%93%e3%83%a5%e3%83%83%e3%83%95%e3%82%a7) | N/A |
-| 43 | [仮想通貨](http://twitter.com/search?q=%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8) | N/A |
-| 44 | [まねきねこ](http://twitter.com/search?q=%e3%81%be%e3%81%ad%e3%81%8d%e3%81%ad%e3%81%93) | N/A |
-| 45 | [魔の2歳児](http://twitter.com/search?q=%e9%ad%94%e3%81%ae2%e6%ad%b3%e5%85%90) | N/A |
-| 46 | [Twitterのロゴ](http://twitter.com/search?q=Twitter%e3%81%ae%e3%83%ad%e3%82%b4) | N/A |
-| 47 | [キムハソン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%83%8f%e3%82%bd%e3%83%b3) | N/A |
-| 48 | [マストドン](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%83%88%e3%83%89%e3%83%b3) | マストドン (Mastodon) is an open source, decentralized social networking platform. It is similar to Twitter, but instead of one central server, it is made up of many different servers that are all connected. The platform allows users to post short messages, images, and videos, as well as follow other users and join conversations. The name comes from the large prehistoric mammal of the same name. |
-| 49 | [キュワワー](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%af%e3%83%af%e3%83%bc) | キュワワー is a Japanese onomatopoeia that describes the sound of something being cut or sliced. In English, it could be translated as "snip snip". |
-| 50 | [マクガフ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%82%ac%e3%83%95) | N/A |
+| 14 | [ポケスタ2](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%b9%e3%82%bf2) | N/A |
+| 15 | [飲食店経営](http://twitter.com/search?q=%e9%a3%b2%e9%a3%9f%e5%ba%97%e7%b5%8c%e5%96%b6) | N/A |
+| 16 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 17 | [吉野家の紅ショウガ](http://twitter.com/search?q=%e5%90%89%e9%87%8e%e5%ae%b6%e3%81%ae%e7%b4%85%e3%82%b7%e3%83%a7%e3%82%a6%e3%82%ac) | N/A |
+| 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 19 | [犬のアイコン](http://twitter.com/search?q=%e7%8a%ac%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3) | N/A |
+| 20 | [#セブンで綾鷹カフェ当たった](http://twitter.com/search?q=%23%e3%82%bb%e3%83%96%e3%83%b3%e3%81%a7%e7%b6%be%e9%b7%b9%e3%82%ab%e3%83%95%e3%82%a7%e5%bd%93%e3%81%9f%e3%81%a3%e3%81%9f) | N/A |
+| 21 | [キンキャニ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%8b) | N/A |
+| 22 | [#ハリポタツアー](http://twitter.com/search?q=%23%e3%83%8f%e3%83%aa%e3%83%9d%e3%82%bf%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 23 | [男性2人逮捕](http://twitter.com/search?q=%e7%94%b7%e6%80%a72%e4%ba%ba%e9%80%ae%e6%8d%95) | N/A |
+| 24 | [ハプルボッカ](http://twitter.com/search?q=%e3%83%8f%e3%83%97%e3%83%ab%e3%83%9c%e3%83%83%e3%82%ab) | N/A |
+| 25 | [ミニゲーム](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 26 | [Bluesky](http://twitter.com/search?q=Bluesky) | N/A |
+| 27 | [大阪府警](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e8%ad%a6) | N/A |
+| 28 | [RT直後のツイート](http://twitter.com/search?q=RT%e7%9b%b4%e5%be%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 29 | [マストドン](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%83%88%e3%83%89%e3%83%b3) | マストドン (Mastodon) is an open source, decentralized social networking platform. It is similar to Twitter, but instead of one central server, it is made up of many different servers that are all connected. The platform allows users to post short messages, images, and videos, as well as follow other users and join conversations. The name comes from the large prehistoric mammal of the same name. |
+| 30 | [Twitterの鳥](http://twitter.com/search?q=Twitter%e3%81%ae%e9%b3%a5) | N/A |
+| 31 | [ベロリンガ](http://twitter.com/search?q=%e3%83%99%e3%83%ad%e3%83%aa%e3%83%b3%e3%82%ac) | N/A |
+| 32 | [ドージコイン](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%82%b8%e3%82%b3%e3%82%a4%e3%83%b3) | N/A |
+| 33 | [ポケモンスタジアム2](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a02) | N/A |
+| 34 | [Twitterくん](http://twitter.com/search?q=Twitter%e3%81%8f%e3%82%93) | Twitterくん is a Japanese mascot character created by Twitter Japan. The character is a blue bird with a yellow beak and feet, wearing a red hoodie with the Twitter logo on it. The character's name translates to "Twitter Boy" in English, and its purpose is to promote the use of Twitter in Japan. |
+| 35 | [鳥のまま](http://twitter.com/search?q=%e9%b3%a5%e3%81%ae%e3%81%be%e3%81%be) | N/A |
+| 36 | [#JO1交換](http://twitter.com/search?q=%23JO1%e4%ba%a4%e6%8f%9b) | N/A |
+| 37 | [共感力100](http://twitter.com/search?q=%e5%85%b1%e6%84%9f%e5%8a%9b100) | N/A |
+| 38 | [与謝野晶子](http://twitter.com/search?q=%e4%b8%8e%e8%ac%9d%e9%87%8e%e6%99%b6%e5%ad%90) | N/A |
+| 39 | [魔の2歳児](http://twitter.com/search?q=%e9%ad%94%e3%81%ae2%e6%ad%b3%e5%85%90) | N/A |
+| 40 | [#サムライマックは厚かった](http://twitter.com/search?q=%23%e3%82%b5%e3%83%a0%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%83%e3%82%af%e3%81%af%e5%8e%9a%e3%81%8b%e3%81%a3%e3%81%9f) | N/A |
+| 41 | [Hel2um](http://twitter.com/search?q=Hel2um) | N/A |
+| 42 | [セカオワ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%82%aa%e3%83%af) | N/A |
+| 43 | [小田ちゃん](http://twitter.com/search?q=%e5%b0%8f%e7%94%b0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [マネスキン](http://twitter.com/search?q=%e3%83%9e%e3%83%8d%e3%82%b9%e3%82%ad%e3%83%b3) | N/A |
+| 45 | [ゾロアーク](http://twitter.com/search?q=%e3%82%be%e3%83%ad%e3%82%a2%e3%83%bc%e3%82%af) | N/A |
+| 46 | [マクガフ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%82%ac%e3%83%95) | N/A |
+| 47 | [ブルースカイ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%82%ab%e3%82%a4) | N/A |
+| 48 | [グリーンモンスター](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 49 | [レンタルポケモン](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 50 | [仮想通貨](http://twitter.com/search?q=%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8) | N/A |
 
 
 

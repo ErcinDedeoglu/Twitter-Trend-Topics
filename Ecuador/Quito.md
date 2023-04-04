@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-04 05:17:19 UTC`
+📆 Last Updated: `2023-04-04 06:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,14 +27,14 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 10 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
 | 11 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
 | 12 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 13 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
-| 14 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
-| 15 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 17 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 18 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
-| 19 | [Wilman Terán](http://twitter.com/search?q=Wilman+Ter%c3%a1n) | N/A |
-| 20 | [Ana Belén Cordero](http://twitter.com/search?q=Ana+Bel%c3%a9n+Cordero) | N/A |
+| 13 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
+| 14 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
+| 15 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 16 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 17 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
+| 18 | [Wilman Terán](http://twitter.com/search?q=Wilman+Ter%c3%a1n) | N/A |
+| 19 | [Ana Belén Cordero](http://twitter.com/search?q=Ana+Bel%c3%a9n+Cordero) | N/A |
+| 20 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
 | 21 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
 | 22 | [Santa Isabel](http://twitter.com/search?q=Santa+Isabel) | N/A |
 | 23 | [roditti](http://twitter.com/search?q=roditti) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 30 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 32 | [Pancho](http://twitter.com/search?q=Pancho) | N/A |
-| 33 | [te arde](http://twitter.com/search?q=te+arde) | N/A |
-| 34 | [Acción de Protección](http://twitter.com/search?q=Acci%c3%b3n+de+Protecci%c3%b3n) | N/A |
-| 35 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [Pedro Granja](http://twitter.com/search?q=Pedro+Granja) | N/A |
-| 38 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 39 | [Mamela](http://twitter.com/search?q=Mamela) | N/A |
-| 40 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
-| 41 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 42 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
+| 33 | [Acción de Protección](http://twitter.com/search?q=Acci%c3%b3n+de+Protecci%c3%b3n) | N/A |
+| 34 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [Pedro Granja](http://twitter.com/search?q=Pedro+Granja) | N/A |
+| 37 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 38 | [Mamela](http://twitter.com/search?q=Mamela) | N/A |
+| 39 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 40 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 41 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
+| 42 | [Penoso](http://twitter.com/search?q=Penoso) | N/A |
 | 43 | [Hernández](http://twitter.com/search?q=Hern%c3%a1ndez) | N/A |
 | 44 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
 | 45 | [conocoto](http://twitter.com/search?q=conocoto) | N/A |
 | 46 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
 | 47 | [espín](http://twitter.com/search?q=esp%c3%adn) | N/A |
-| 48 | [Penoso](http://twitter.com/search?q=Penoso) | N/A |
-| 49 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 50 | [parrales](http://twitter.com/search?q=parrales) | N/A |
+| 48 | [parrales](http://twitter.com/search?q=parrales) | N/A |
+| 49 | [Inca](http://twitter.com/search?q=Inca) | N/A |
+| 50 | [María Paz](http://twitter.com/search?q=Mar%c3%ada+Paz) | N/A |
 
 
 

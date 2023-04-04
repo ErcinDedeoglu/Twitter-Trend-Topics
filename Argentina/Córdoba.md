@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-04 05:17:22 UTC`
+📆 Last Updated: `2023-04-04 06:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Argentina](</Argentina>)
 | 13 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
 | 14 | [Felices 118](http://twitter.com/search?q=Felices+118) | N/A |
 | 15 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 16 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
-| 17 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
+| 16 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
+| 17 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
 | 18 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
 | 19 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 20 | [Rena](http://twitter.com/search?q=Rena) | N/A |
-| 21 | [Axel](http://twitter.com/search?q=Axel) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
-| 24 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [marcos en la peña de morfi](http://twitter.com/search?q=marcos+en+la+pe%c3%b1a+de+morfi) | N/A |
+| 20 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 21 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 22 | [Rena](http://twitter.com/search?q=Rena) | N/A |
+| 23 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 26 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
 | 27 | [Virrey del Pino](http://twitter.com/search?q=Virrey+del+Pino) | N/A |
-| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 29 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
-| 30 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 31 | [Baby Etchecopar](http://twitter.com/search?q=Baby+Etchecopar) | N/A |
-| 32 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
-| 33 | [marcos en biri biri](http://twitter.com/search?q=marcos+en+biri+biri) | N/A |
-| 34 | [Churruca](http://twitter.com/search?q=Churruca) | N/A |
+| 28 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 29 | [Baby Etchecopar](http://twitter.com/search?q=Baby+Etchecopar) | N/A |
+| 30 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 31 | [marcos en biri biri](http://twitter.com/search?q=marcos+en+biri+biri) | N/A |
+| 32 | [Churruca](http://twitter.com/search?q=Churruca) | N/A |
+| 33 | [el primo en twitch](http://twitter.com/search?q=el+primo+en+twitch) | N/A |
+| 34 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
 | 35 | [General Paz](http://twitter.com/search?q=General+Paz) | N/A |
-| 36 | [el primo en twitch](http://twitter.com/search?q=el+primo+en+twitch) | N/A |
-| 37 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 38 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 39 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 40 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
-| 41 | [La UTA](http://twitter.com/search?q=La+UTA) | N/A |
-| 42 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 43 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 44 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 45 | [Magario](http://twitter.com/search?q=Magario) | N/A |
-| 46 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
-| 47 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 48 | [Rambito](http://twitter.com/search?q=Rambito) | N/A |
-| 49 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
-| 50 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 36 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 37 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 38 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
+| 39 | [La UTA](http://twitter.com/search?q=La+UTA) | N/A |
+| 40 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 41 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 42 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 43 | [Magario](http://twitter.com/search?q=Magario) | N/A |
+| 44 | [Albere](http://twitter.com/search?q=Albere) | N/A |
+| 45 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 46 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 47 | [Gral Paz](http://twitter.com/search?q=Gral+Paz) | N/A |
+| 48 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 49 | [Rambito](http://twitter.com/search?q=Rambito) | N/A |
+| 50 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
 
 
 
