@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-04-04 09:18:10 UTC`
+📆 Last Updated: `2023-04-04 10:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#SemanaMayorEnFamilia](http://twitter.com/search?q=%23SemanaMayorEnFamilia) | N/A |
 | 2 | [#3Abr](http://twitter.com/search?q=%233Abr) | N/A |
 | 3 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 5 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 6 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
-| 7 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 9 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 10 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 6 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 7 | [#DomingoDeRamos](http://twitter.com/search?q=%23DomingoDeRamos) | N/A |
+| 8 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 11 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
-| 12 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 13 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
-| 14 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
+| 12 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 13 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 14 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
 | 15 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 16 | [#gnbprotectoresdelpueblo](http://twitter.com/search?q=%23gnbprotectoresdelpueblo) | N/A |
+| 16 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
 | 17 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
 | 18 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
 | 19 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 20 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
 | 22 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
 | 23 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
 | 24 | [Ley Seca](http://twitter.com/search?q=Ley+Seca) | N/A |
 | 25 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 26 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 27 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 26 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 27 | [Sears](http://twitter.com/search?q=Sears) | N/A |
 | 28 | [Jerónimo Gil](http://twitter.com/search?q=Jer%c3%b3nimo+Gil) | Jerónimo Gil is a Spanish name. It is derived from the Latin name Hieronymus, which means "sacred name". In English, it can be translated to mean "holy name". |
 | 29 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
-| 30 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 31 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
-| 32 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 33 | [copei](http://twitter.com/search?q=copei) | N/A |
-| 34 | [El Santo](http://twitter.com/search?q=El+Santo) | N/A |
-| 35 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 30 | [San Petersburgo](http://twitter.com/search?q=San+Petersburgo) | N/A |
+| 31 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 32 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 33 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
+| 34 | [copei](http://twitter.com/search?q=copei) | N/A |
+| 35 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 36 | [marineros de seattle](http://twitter.com/search?q=marineros+de+seattle) | N/A |
-| 37 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 38 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
+| 37 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
+| 38 | [Preso](http://twitter.com/search?q=Preso) | N/A |
 | 39 | [Testosterona](http://twitter.com/search?q=Testosterona) | N/A |
 | 40 | [Omar Vizquel](http://twitter.com/search?q=Omar+Vizquel) | N/A |
 | 41 | [tetero](http://twitter.com/search?q=tetero) | N/A |
-| 42 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
+| 42 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
 | 43 | [Tony Cruz](http://twitter.com/search?q=Tony+Cruz) | N/A |
-| 44 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 44 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
 | 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 47 | [Artemis II](http://twitter.com/search?q=Artemis+II) | N/A |
-| 48 | [catalino](http://twitter.com/search?q=catalino) | N/A |
-| 49 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 50 | [Adri](http://twitter.com/search?q=Adri) | N/A |
+| 46 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 47 | [catalino](http://twitter.com/search?q=catalino) | N/A |
+| 48 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 49 | [Adri](http://twitter.com/search?q=Adri) | N/A |
+| 50 | [Branca](http://twitter.com/search?q=Branca) | N/A |
 
 
 

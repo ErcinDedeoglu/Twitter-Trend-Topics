@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-04-04 09:18:51 UTC`
+📆 Last Updated: `2023-04-04 10:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 2 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 1 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 3 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 4 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 5 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 9 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 10 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 11 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
-| 12 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 13 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 14 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 5 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 6 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 8 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
+| 9 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 11 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 14 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 15 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 16 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
+| 16 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
 | 17 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 18 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 19 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 20 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 21 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 22 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 18 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 19 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 20 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 21 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 22 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
 | 23 | [Disgusted](http://twitter.com/search?q=Disgusted) | N/A |
-| 24 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 24 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
 | 25 | [Connecticut](http://twitter.com/search?q=Connecticut) | N/A |
-| 26 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
-| 27 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 26 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 27 | [Miles](http://twitter.com/search?q=Miles) | N/A |
 | 28 | [Spirit Tracks](http://twitter.com/search?q=Spirit+Tracks) | N/A |
-| 29 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 30 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 31 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 32 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
-| 33 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
-| 34 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 35 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 36 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 29 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 30 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 31 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
+| 32 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
+| 33 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 34 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 35 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 36 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
 | 37 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
-| 38 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 39 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 38 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 39 | [Storrs](http://twitter.com/search?q=Storrs) | N/A |
 | 40 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
-| 41 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 42 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 41 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 42 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
 | 43 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 44 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 45 | [FLOTUS](http://twitter.com/search?q=FLOTUS) | N/A |
-| 46 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 47 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 48 | [Snape](http://twitter.com/search?q=Snape) | N/A |
-| 49 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 50 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 44 | [Adama Sanogo](http://twitter.com/search?q=Adama+Sanogo) | N/A |
+| 45 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 46 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 47 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 48 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 49 | [Gotham City](http://twitter.com/search?q=Gotham+City) | N/A |
+| 50 | [NATIONAL CHAMPIONS](http://twitter.com/search?q=NATIONAL+CHAMPIONS) | N/A |
 
 
 

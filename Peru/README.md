@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-04 09:18:59 UTC`
+📆 Last Updated: `2023-04-04 10:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for Peru
 | 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 11 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [#BetoASaber](http://twitter.com/search?q=%23BetoASaber) | N/A |
+| 13 | [#betoasaber](http://twitter.com/search?q=%23betoasaber) | N/A |
 | 14 | [#OurLastGiftForJhope](http://twitter.com/search?q=%23OurLastGiftForJhope) | N/A |
 | 15 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 16 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Peru
 | 18 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
 | 19 | [Rosio Torres](http://twitter.com/search?q=Rosio+Torres) | N/A |
 | 20 | [Armonía 10](http://twitter.com/search?q=Armon%c3%ada+10) | N/A |
-| 21 | [Agua Marina](http://twitter.com/search?q=Agua+Marina) | N/A |
+| 21 | [agua marina](http://twitter.com/search?q=agua+marina) | N/A |
 | 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 23 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
 | 24 | [Mundial Sub 17](http://twitter.com/search?q=Mundial+Sub+17) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Peru
 | 27 | [JIMIN NO1 ON BILLBOARD HOT100](http://twitter.com/search?q=JIMIN+NO1+ON+BILLBOARD+HOT100) | N/A |
 | 28 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 29 | [Chulucanas](http://twitter.com/search?q=Chulucanas) | N/A |
-| 30 | [maniac tour](http://twitter.com/search?q=maniac+tour) | N/A |
+| 30 | [Maniac tour](http://twitter.com/search?q=Maniac+tour) | N/A |
 | 31 | [extremo celeste](http://twitter.com/search?q=extremo+celeste) | N/A |
 | 32 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
 | 33 | [Jorge Chávez](http://twitter.com/search?q=Jorge+Ch%c3%a1vez) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for Peru
 | 35 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
 | 36 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
 | 37 | [temblores](http://twitter.com/search?q=temblores) | N/A |
-| 38 | [Tavo](http://twitter.com/search?q=Tavo) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 40 | [Tavo](http://twitter.com/search?q=Tavo) | N/A |
 | 41 | [Progreso](http://twitter.com/search?q=Progreso) | N/A |
 | 42 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
 | 43 | [christian cueva](http://twitter.com/search?q=christian+cueva) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Peru
 | 45 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
 | 46 | [Laia](http://twitter.com/search?q=Laia) | N/A |
 | 47 | [rafael rey](http://twitter.com/search?q=rafael+rey) | N/A |
-| 48 | [felicidades jimin](http://twitter.com/search?q=felicidades+jimin) | N/A |
+| 48 | [FELICIDADES JIMIN](http://twitter.com/search?q=FELICIDADES+JIMIN) | N/A |
 | 49 | [Hungría](http://twitter.com/search?q=Hungr%c3%ada) | N/A |
 | 50 | [miguel grau](http://twitter.com/search?q=miguel+grau) | N/A |
 

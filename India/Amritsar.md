@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-04-04 09:18:39 UTC`
+📆 Last Updated: `2023-04-04 10:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 2 | [#TwitterLogo](http://twitter.com/search?q=%23TwitterLogo) | N/A |
 | 3 | [#Yentamma](http://twitter.com/search?q=%23Yentamma) | N/A |
-| 4 | [#MahavirJayanti](http://twitter.com/search?q=%23MahavirJayanti) | N/A |
-| 5 | [#RamCharan](http://twitter.com/search?q=%23RamCharan) | N/A |
-| 6 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
-| 7 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 8 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 9 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
-| 10 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 11 | [CBI Brand4Truth Or CagedParrot](http://twitter.com/search?q=CBI+Brand4Truth+Or+CagedParrot) | N/A |
-| 12 | [श्री अरुण सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 13 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 14 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
-| 15 | [उत्तर प्रदेश विधान परिषद](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 16 | [पूर्व मंत्री स्वाति सिंह](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 17 | [जैन समुदाय](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a4%be%e0%a4%af) | N/A |
-| 18 | [महाराणा प्रताप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa) | महाराणा प्रताप (Mahārāṇa Pratāp) is a historical figure in India who was a ruler of the kingdom of Mewar in the 16th century. He is known for his bravery and courage in defending his kingdom against the Mughal Empire. The phrase "Mahārāṇa Pratāp" translates to "Great King Pratap" in English. |
-| 19 | [माखनलाल चतुर्वेदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%96%e0%a4%a8%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a5%80) | N/A |
+| 4 | [#BitgetExposed](http://twitter.com/search?q=%23BitgetExposed) | N/A |
+| 5 | [#ghargharram](http://twitter.com/search?q=%23ghargharram) | N/A |
+| 6 | [#MahavirJayanti](http://twitter.com/search?q=%23MahavirJayanti) | N/A |
+| 7 | [KOHLI APNE KUTTE SAMBHAL](http://twitter.com/search?q=KOHLI+APNE+KUTTE+SAMBHAL) | N/A |
+| 8 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 9 | [बांदा जेल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a4%be+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 10 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
+| 11 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
+| 12 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 13 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 14 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 15 | [CBI Brand4Truth Or CagedParrot](http://twitter.com/search?q=CBI+Brand4Truth+Or+CagedParrot) | N/A |
+| 16 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 17 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
+| 18 | [श्री अरुण सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 19 | [उत्तर प्रदेश विधान परिषद](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
 | 20 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [दीपक बॉक्सर](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%ac%e0%a5%89%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%b0) | N/A |
-| 23 | [गुरु बिन मोक्ष](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%ac%e0%a4%bf%e0%a4%a8+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 24 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 25 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 21 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
+| 24 | [महाराणा प्रताप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa) | महाराणा प्रताप (Mahārāṇa Pratāp) is a historical figure in India who was a ruler of the kingdom of Mewar in the 16th century. He is known for his bravery and courage in defending his kingdom against the Mughal Empire. The phrase "Mahārāṇa Pratāp" translates to "Great King Pratap" in English. |
+| 25 | [गुरु बिन मोक्ष](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%ac%e0%a4%bf%e0%a4%a8+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
 | 26 | [Rajputs](http://twitter.com/search?q=Rajputs) | N/A |
-| 27 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 27 | [Bhutan](http://twitter.com/search?q=Bhutan) | N/A |
 | 28 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 29 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
-| 30 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 31 | [#CarryOnJatta3](http://twitter.com/search?q=%23CarryOnJatta3) | N/A |
-| 32 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 33 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
-| 34 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
-| 35 | [#Brahmastra](http://twitter.com/search?q=%23Brahmastra) | N/A |
-| 36 | [#Sabki_Sarkar](http://twitter.com/search?q=%23Sabki_Sarkar) | N/A |
-| 37 | [#China](http://twitter.com/search?q=%23China) | N/A |
-| 38 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 39 | [#HrithikRoshan](http://twitter.com/search?q=%23HrithikRoshan) | N/A |
-| 40 | [#VenkateshDaggubati](http://twitter.com/search?q=%23VenkateshDaggubati) | N/A |
-| 41 | [#TigerVsPathaan](http://twitter.com/search?q=%23TigerVsPathaan) | N/A |
-| 42 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#HBDSimran](http://twitter.com/search?q=%23HBDSimran) | N/A |
-| 45 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 46 | [#YRFSpyUniverse](http://twitter.com/search?q=%23YRFSpyUniverse) | N/A |
-| 47 | [#WorldBank](http://twitter.com/search?q=%23WorldBank) | N/A |
-| 48 | [#RanbirKapoor](http://twitter.com/search?q=%23RanbirKapoor) | N/A |
-| 49 | [#bluebird](http://twitter.com/search?q=%23bluebird) | N/A |
-| 50 | [#nonviolence](http://twitter.com/search?q=%23nonviolence) | N/A |
+| 29 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 30 | [जैन समुदाय](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a4%be%e0%a4%af) | N/A |
+| 31 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
+| 32 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 33 | [#Sikkim](http://twitter.com/search?q=%23Sikkim) | N/A |
+| 34 | [#RamCharan](http://twitter.com/search?q=%23RamCharan) | N/A |
+| 35 | [#CarryOnJatta3](http://twitter.com/search?q=%23CarryOnJatta3) | N/A |
+| 36 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
+| 37 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 38 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 39 | [#TigerVsPathaan](http://twitter.com/search?q=%23TigerVsPathaan) | N/A |
+| 40 | [#China](http://twitter.com/search?q=%23China) | N/A |
+| 41 | [#Sabki_Sarkar](http://twitter.com/search?q=%23Sabki_Sarkar) | N/A |
+| 42 | [#HrithikRoshan](http://twitter.com/search?q=%23HrithikRoshan) | N/A |
+| 43 | [#VenkateshDaggubati](http://twitter.com/search?q=%23VenkateshDaggubati) | N/A |
+| 44 | [#FactsAndBeliefsOfJainism](http://twitter.com/search?q=%23FactsAndBeliefsOfJainism) | N/A |
+| 45 | [#Brahmastra](http://twitter.com/search?q=%23Brahmastra) | N/A |
+| 46 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
+| 47 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
+| 48 | [#Avalanche](http://twitter.com/search?q=%23Avalanche) | N/A |
+| 49 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 50 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
 
 
 

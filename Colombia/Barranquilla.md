@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-04-04 09:18:05 UTC`
+📆 Last Updated: `2023-04-04 10:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,29 +18,29 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 2 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
 | 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 4 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 5 | [#UnaTraicionEs](http://twitter.com/search?q=%23UnaTraicionEs) | N/A |
+| 4 | [#UnaTraicionEs](http://twitter.com/search?q=%23UnaTraicionEs) | N/A |
+| 5 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
 | 6 | [#esunacondena](http://twitter.com/search?q=%23esunacondena) | N/A |
 | 7 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
 | 8 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
 | 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 10 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 11 | [Marco Pérez](http://twitter.com/search?q=Marco+P%c3%a9rez) | N/A |
+| 10 | [Marco Pérez](http://twitter.com/search?q=Marco+P%c3%a9rez) | N/A |
+| 11 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 12 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 13 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 14 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
-| 17 | [#margaritavasola](http://twitter.com/search?q=%23margaritavasola) | N/A |
-| 18 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 19 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 20 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 21 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 22 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
-| 23 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 24 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [#margaritavasola](http://twitter.com/search?q=%23margaritavasola) | N/A |
+| 16 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 17 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
+| 18 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 19 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 20 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 21 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
+| 22 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 23 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 24 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
 | 25 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
-| 26 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 26 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 27 | [chunga](http://twitter.com/search?q=chunga) | N/A |
 | 28 | [espitia](http://twitter.com/search?q=espitia) | N/A |
 | 29 | [Campesino](http://twitter.com/search?q=Campesino) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Colombia](</Colombia>)
 | 31 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
 | 32 | [alexis márquez](http://twitter.com/search?q=alexis+m%c3%a1rquez) | N/A |
 | 33 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 34 | [Turbaco](http://twitter.com/search?q=Turbaco) | N/A |
+| 34 | [turbaco](http://twitter.com/search?q=turbaco) | N/A |
 | 35 | [Homer](http://twitter.com/search?q=Homer) | N/A |
 | 36 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
 | 37 | [Beta](http://twitter.com/search?q=Beta) | N/A |

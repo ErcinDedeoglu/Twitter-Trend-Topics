@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-04-04 09:17:59 UTC`
+📆 Last Updated: `2023-04-04 10:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 3 | [Philip](http://twitter.com/search?q=Philip) | N/A |
-| 4 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 5 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 6 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 7 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
-| 10 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 11 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 3 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 4 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 5 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
+| 6 | [Philip](http://twitter.com/search?q=Philip) | N/A |
+| 7 | [#TorySewageParty](http://twitter.com/search?q=%23TorySewageParty) | N/A |
+| 8 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 9 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 11 | [Lawson](http://twitter.com/search?q=Lawson) | N/A |
 | 12 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 13 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
-| 14 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 15 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
-| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 17 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 18 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
-| 19 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 20 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 21 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 22 | [My Fair Lady](http://twitter.com/search?q=My+Fair+Lady) | N/A |
-| 23 | [Conservative](http://twitter.com/search?q=Conservative) | N/A |
-| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 25 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 26 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 28 | [Pippa](http://twitter.com/search?q=Pippa) | N/A |
-| 29 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 30 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 31 | [#ASongOrMovieForVitamins](http://twitter.com/search?q=%23ASongOrMovieForVitamins) | N/A |
-| 32 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
-| 33 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 34 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 35 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
-| 36 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 37 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
-| 38 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
-| 39 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
-| 40 | [#ToriesDeletingTory](http://twitter.com/search?q=%23ToriesDeletingTory) | N/A |
-| 41 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 42 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 43 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 44 | [#Chemtrails](http://twitter.com/search?q=%23Chemtrails) | N/A |
-| 45 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 46 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 47 | [#PSA23](http://twitter.com/search?q=%23PSA23) | N/A |
-| 48 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
+| 13 | [Kell Brook](http://twitter.com/search?q=Kell+Brook) | N/A |
+| 14 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 15 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 16 | [PEDs](http://twitter.com/search?q=PEDs) | N/A |
+| 17 | [Virgin Orbit](http://twitter.com/search?q=Virgin+Orbit) | N/A |
+| 18 | [Daily Quordle 435](http://twitter.com/search?q=Daily+Quordle+435) | N/A |
+| 19 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 20 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 21 | [6 Music](http://twitter.com/search?q=6+Music) | N/A |
+| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 23 | [Richard Branson](http://twitter.com/search?q=Richard+Branson) | N/A |
+| 24 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 25 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 26 | [My Fair Lady](http://twitter.com/search?q=My+Fair+Lady) | N/A |
+| 27 | [Conservative](http://twitter.com/search?q=Conservative) | N/A |
+| 28 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 30 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 31 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 33 | [Pippa](http://twitter.com/search?q=Pippa) | N/A |
+| 34 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 35 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 36 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 37 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 38 | [#ASongOrMovieForVitamins](http://twitter.com/search?q=%23ASongOrMovieForVitamins) | N/A |
+| 39 | [#SportArchives](http://twitter.com/search?q=%23SportArchives) | N/A |
+| 40 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 41 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 42 | [#socialcare](http://twitter.com/search?q=%23socialcare) | N/A |
+| 43 | [#ToriesOut271](http://twitter.com/search?q=%23ToriesOut271) | N/A |
+| 44 | [#InternationalCarrotDay](http://twitter.com/search?q=%23InternationalCarrotDay) | N/A |
+| 45 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 46 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 47 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
+| 48 | [#Archive30](http://twitter.com/search?q=%23Archive30) | N/A |
+| 49 | [#Wordle654](http://twitter.com/search?q=%23Wordle654) | N/A |
+| 50 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
 
 
 
