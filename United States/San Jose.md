@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-03 23:17:43 UTC`
+📆 Last Updated: `2023-04-04 00:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 2 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [Arte](http://twitter.com/search?q=Arte) | N/A |
-| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 4 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 5 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
 | 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 7 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [LA County](http://twitter.com/search?q=LA+County) | N/A |
-| 12 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 13 | [#TrumpIsACriminal](http://twitter.com/search?q=%23TrumpIsACriminal) | N/A |
-| 14 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 18 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 19 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 20 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 21 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 22 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 25 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 26 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 27 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 28 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 29 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
-| 30 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 31 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
-| 32 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 34 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 35 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 36 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 37 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 38 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
-| 39 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
-| 40 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 41 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 42 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 44 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 45 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 46 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 47 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 48 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 49 | [Safest](http://twitter.com/search?q=Safest) | N/A |
+| 7 | [Arte](http://twitter.com/search?q=Arte) | N/A |
+| 8 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 9 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 10 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
+| 11 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 12 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 13 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 14 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 15 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 16 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 17 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 19 | [LA County](http://twitter.com/search?q=LA+County) | N/A |
+| 20 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 22 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 23 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 24 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 25 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 26 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 27 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
+| 28 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
+| 29 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
+| 30 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 31 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 32 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 33 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 34 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 35 | [Jason Delay](http://twitter.com/search?q=Jason+Delay) | N/A |
+| 36 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 37 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 38 | [Jason Vosler](http://twitter.com/search?q=Jason+Vosler) | N/A |
+| 39 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
+| 40 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 41 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 42 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 43 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 44 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
+| 45 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 46 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 47 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 48 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 49 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 50 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
 
 
 

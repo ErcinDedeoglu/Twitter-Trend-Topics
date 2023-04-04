@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-03 23:17:52 UTC`
+📆 Last Updated: `2023-04-04 00:29:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,27 +16,27 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bubblesalwayswin](http://twitter.com/search?q=%23bubblesalwayswin) | N/A |
-| 2 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 3 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 4 | [#NewJeans_Zero](http://twitter.com/search?q=%23NewJeans_Zero) | N/A |
-| 5 | [#TEMPEST_폭풍전야](http://twitter.com/search?q=%23TEMPEST_%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc) | N/A |
-| 6 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 7 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 9 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [1st concept photo](http://twitter.com/search?q=1st+concept+photo) | N/A |
+| 2 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 3 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 4 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 5 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 6 | [#TEMPEST_폭풍전야](http://twitter.com/search?q=%23TEMPEST_%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc) | N/A |
+| 7 | [#NewJeans_Zero](http://twitter.com/search?q=%23NewJeans_Zero) | N/A |
+| 8 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 10 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 12 | [D-DAY IS COMING](http://twitter.com/search?q=D-DAY+IS+COMING) | N/A |
 | 13 | [liuyu in bkk](http://twitter.com/search?q=liuyu+in+bkk) | N/A |
-| 14 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 15 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 14 | [zero out today](http://twitter.com/search?q=zero+out+today) | N/A |
+| 15 | [1ST CONCEPT PHOTO](http://twitter.com/search?q=1ST+CONCEPT+PHOTO) | N/A |
 | 16 | [Arbitrum Foundation](http://twitter.com/search?q=Arbitrum+Foundation) | N/A |
 | 17 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 18 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 19 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 20 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 19 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
+| 20 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
 | 21 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 22 | [clmm](http://twitter.com/search?q=clmm) | N/A |
+| 22 | [CLMM](http://twitter.com/search?q=CLMM) | N/A |
 | 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 25 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
@@ -47,23 +47,19 @@ This is top 50 for Vietnam
 | 30 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 31 | [exploring mute quest](http://twitter.com/search?q=exploring+mute+quest) | N/A |
 | 32 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 33 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 34 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 33 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 34 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 35 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 36 | [tttt](http://twitter.com/search?q=tttt) | N/A |
 | 37 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
 | 38 | [Great Project](http://twitter.com/search?q=Great+Project) | N/A |
-| 39 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 40 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 41 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 42 | [#BuaexCharlotte](http://twitter.com/search?q=%23BuaexCharlotte) | N/A |
-| 43 | [#NewJeansxCocaCola](http://twitter.com/search?q=%23NewJeansxCocaCola) | N/A |
-| 44 | [#폭풍전야_CONCEPT_PHOTO_1](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_CONCEPT_PHOTO_1) | N/A |
+| 39 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 40 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 41 | [#BuaexCharlotte](http://twitter.com/search?q=%23BuaexCharlotte) | N/A |
+| 42 | [#NewJeansxCocaCola](http://twitter.com/search?q=%23NewJeansxCocaCola) | N/A |
+| 43 | [#폭풍전야_CONCEPT_PHOTO_1](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_CONCEPT_PHOTO_1) | N/A |
+| 44 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
 | 45 | [#WINTERxVogueKorea](http://twitter.com/search?q=%23WINTERxVogueKorea) | N/A |
-| 46 | [#GrabFoodNo1xPondPhuwin](http://twitter.com/search?q=%23GrabFoodNo1xPondPhuwin) | N/A |
-| 47 | [#AYearWithFearlessSAKURA](http://twitter.com/search?q=%23AYearWithFearlessSAKURA) | N/A |
-| 48 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
-| 49 | [#4랑에_4랑을더한_혁재탄신일](http://twitter.com/search?q=%234%eb%9e%91%ec%97%90_4%eb%9e%91%ec%9d%84%eb%8d%94%ed%95%9c_%ed%98%81%ec%9e%ac%ed%83%84%ec%8b%a0%ec%9d%bc) | N/A |
 
 
 

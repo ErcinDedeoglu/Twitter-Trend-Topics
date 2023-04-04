@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-03 23:17:25 UTC`
+📆 Last Updated: `2023-04-04 00:29:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 3 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 4 | [#TuloyBaAngOuting](http://twitter.com/search?q=%23TuloyBaAngOuting) | N/A |
-| 5 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
-| 6 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 7 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 8 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
-| 9 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
-| 10 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 12 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
-| 13 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
-| 14 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
-| 15 | [I'M SO PROUD OF YOU](http://twitter.com/search?q=I%27M+SO+PROUD+OF+YOU) | N/A |
-| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 17 | [nawindang ang a'tin era](http://twitter.com/search?q=nawindang+ang+a%27tin+era) | N/A |
-| 18 | [WINTER FOR VOGUE KOREA](http://twitter.com/search?q=WINTER+FOR+VOGUE+KOREA) | N/A |
-| 19 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 20 | [AND NOTHING FOR KPOP](http://twitter.com/search?q=AND+NOTHING+FOR+KPOP) | N/A |
-| 21 | [two title tracks](http://twitter.com/search?q=two+title+tracks) | N/A |
-| 22 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 23 | [josh cullen be the bida](http://twitter.com/search?q=josh+cullen+be+the+bida) | N/A |
-| 24 | [united for freenbecky](http://twitter.com/search?q=united+for+freenbecky) | N/A |
-| 25 | [PR ARMYs](http://twitter.com/search?q=PR+ARMYs) | N/A |
-| 26 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
-| 27 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 28 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 29 | [JIMIN PAVED THE WAY](http://twitter.com/search?q=JIMIN+PAVED+THE+WAY) | N/A |
-| 30 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
-| 31 | [get well soon jaehyuk](http://twitter.com/search?q=get+well+soon+jaehyuk) | N/A |
-| 32 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
-| 33 | [SEE YOU SOON MINHYUK](http://twitter.com/search?q=SEE+YOU+SOON+MINHYUK) | N/A |
-| 34 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
-| 35 | [bini live on simply contour](http://twitter.com/search?q=bini+live+on+simply+contour) | N/A |
-| 36 | [go uste](http://twitter.com/search?q=go+uste) | N/A |
-| 37 | [2 title tracks](http://twitter.com/search?q=2+title+tracks) | N/A |
-| 38 | [OUR UNIVERSE SEONGHWA DAY](http://twitter.com/search?q=OUR+UNIVERSE+SEONGHWA+DAY) | N/A |
-| 39 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 40 | [i don't understand but i luv u](http://twitter.com/search?q=i+don%27t+understand+but+i+luv+u) | N/A |
-| 41 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 42 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
-| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
-| 45 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
-| 46 | [FATHER ON TOP](http://twitter.com/search?q=FATHER+ON+TOP) | N/A |
-| 47 | [nadine for tatlerph](http://twitter.com/search?q=nadine+for+tatlerph) | N/A |
+| 2 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 3 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 4 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 5 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 6 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 7 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 8 | [#TuloyBaAngOuting](http://twitter.com/search?q=%23TuloyBaAngOuting) | N/A |
+| 9 | [#TAEMINisback_DDAY](http://twitter.com/search?q=%23TAEMINisback_DDAY) | N/A |
+| 10 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 11 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
+| 12 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 14 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
+| 15 | [no sweep](http://twitter.com/search?q=no+sweep) | N/A |
+| 16 | [nawindang ang a'tin era](http://twitter.com/search?q=nawindang+ang+a%27tin+era) | N/A |
+| 17 | [Holy Monday](http://twitter.com/search?q=Holy+Monday) | N/A |
+| 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 19 | [two title tracks](http://twitter.com/search?q=two+title+tracks) | N/A |
+| 20 | [josh cullen be the bida](http://twitter.com/search?q=josh+cullen+be+the+bida) | N/A |
+| 21 | [united for freenbecky](http://twitter.com/search?q=united+for+freenbecky) | N/A |
+| 22 | [PR ARMYs](http://twitter.com/search?q=PR+ARMYs) | N/A |
+| 23 | [WINTER FOR VOGUE KOREA](http://twitter.com/search?q=WINTER+FOR+VOGUE+KOREA) | N/A |
+| 24 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
+| 25 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 26 | [zero out today](http://twitter.com/search?q=zero+out+today) | N/A |
+| 27 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 29 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 30 | [get well soon jaehyuk](http://twitter.com/search?q=get+well+soon+jaehyuk) | N/A |
+| 31 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 32 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 33 | [bini live on simply contour](http://twitter.com/search?q=bini+live+on+simply+contour) | N/A |
+| 34 | [go uste](http://twitter.com/search?q=go+uste) | N/A |
+| 35 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 36 | [CONGRATULATIONS MY LOVE](http://twitter.com/search?q=CONGRATULATIONS+MY+LOVE) | N/A |
+| 37 | [I'M SO PROUD OF YOU](http://twitter.com/search?q=I%27M+SO+PROUD+OF+YOU) | N/A |
+| 38 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 39 | [JENNIE NEW FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+NEW+FACE+OF+CHANEL22) | N/A |
+| 40 | [FanPlus June Birthday](http://twitter.com/search?q=FanPlus+June+Birthday) | N/A |
+| 41 | [Debut Vote](http://twitter.com/search?q=Debut+Vote) | Debut Vote is a type of voting system used in Japan, where people can vote for their favorite new artist or group. It is a way for the public to show their support for up-and-coming talent and help them gain recognition. The meaning of Debut Vote in English is "a vote to support a new artist or group". |
+| 42 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
+| 43 | [AND NOTHING FOR KPOP](http://twitter.com/search?q=AND+NOTHING+FOR+KPOP) | N/A |
+| 44 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 45 | [nadine for tatlerph](http://twitter.com/search?q=nadine+for+tatlerph) | N/A |
+| 46 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 47 | [GRATEFUL TO MEET HARUTO](http://twitter.com/search?q=GRATEFUL+TO+MEET+HARUTO) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-03 23:17:12 UTC`
+📆 Last Updated: `2023-04-04 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 2 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
-| 3 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
-| 4 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 5 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
-| 6 | [#grimantisemite](http://twitter.com/search?q=%23grimantisemite) | N/A |
+| 2 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 3 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 4 | [#PSGOL](http://twitter.com/search?q=%23PSGOL) | N/A |
+| 5 | [#grimantisemite](http://twitter.com/search?q=%23grimantisemite) | N/A |
+| 6 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
 | 7 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
-| 8 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 9 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
+| 8 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
+| 9 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
 | 10 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 11 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
-| 12 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
-| 13 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
-| 14 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
+| 11 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
+| 12 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
+| 13 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
+| 14 | [#EAGFCGB](http://twitter.com/search?q=%23EAGFCGB) | N/A |
 | 15 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 17 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 18 | [Utip](http://twitter.com/search?q=Utip) | N/A |
-| 19 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 20 | [Anissa](http://twitter.com/search?q=Anissa) | N/A |
-| 21 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 25 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 26 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 29 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 31 | [Aurélien](http://twitter.com/search?q=Aur%c3%a9lien) | N/A |
-| 32 | [Guingamp](http://twitter.com/search?q=Guingamp) | N/A |
-| 33 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 34 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 35 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 36 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 37 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 39 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 40 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 41 | [Soda](http://twitter.com/search?q=Soda) | N/A |
-| 42 | [Paralympique](http://twitter.com/search?q=Paralympique) | N/A |
-| 43 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 44 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 45 | [Barbet](http://twitter.com/search?q=Barbet) | N/A |
-| 46 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 47 | [Dupraz](http://twitter.com/search?q=Dupraz) | N/A |
-| 48 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 49 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 50 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
+| 18 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 19 | [uTip](http://twitter.com/search?q=uTip) | N/A |
+| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 23 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 24 | [Delga](http://twitter.com/search?q=Delga) | N/A |
+| 25 | [Anissa](http://twitter.com/search?q=Anissa) | N/A |
+| 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 27 | [Aurélien](http://twitter.com/search?q=Aur%c3%a9lien) | N/A |
+| 28 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 29 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
+| 30 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 33 | [paralympique](http://twitter.com/search?q=paralympique) | N/A |
+| 34 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 35 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 36 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 38 | [Dupraz](http://twitter.com/search?q=Dupraz) | N/A |
+| 39 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 40 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 41 | [Aegon](http://twitter.com/search?q=Aegon) | N/A |
+| 42 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 43 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 44 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 45 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 46 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
+| 47 | [letexier](http://twitter.com/search?q=letexier) | N/A |
+| 48 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
+| 49 | [Soda](http://twitter.com/search?q=Soda) | N/A |
+| 50 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
 
 
 

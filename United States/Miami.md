@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-03 23:17:40 UTC`
+📆 Last Updated: `2023-04-04 00:29:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 4 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 5 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 6 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 7 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 1 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 2 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
+| 5 | [#rawaftermania](http://twitter.com/search?q=%23rawaftermania) | N/A |
+| 6 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 8 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 9 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
 | 10 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 11 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 12 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 13 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
-| 14 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 15 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 16 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 17 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
-| 18 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 20 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
-| 21 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 22 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 23 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 24 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 25 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 26 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 27 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
-| 28 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
-| 29 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 30 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 31 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 33 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 34 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 35 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 36 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 37 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 38 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 39 | [Watters](http://twitter.com/search?q=Watters) | N/A |
-| 40 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 41 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 42 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 43 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 44 | [HBCU](http://twitter.com/search?q=HBCU) | N/A |
-| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 46 | [Michael Steele](http://twitter.com/search?q=Michael+Steele) | N/A |
-| 47 | [Sheepherders](http://twitter.com/search?q=Sheepherders) | N/A |
-| 48 | [Bushwhackers](http://twitter.com/search?q=Bushwhackers) | N/A |
-| 49 | [Perp Force One](http://twitter.com/search?q=Perp+Force+One) | N/A |
+| 11 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
+| 12 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
+| 13 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 14 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 15 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 16 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 17 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
+| 18 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 19 | [#BeginAPartyIn5Words](http://twitter.com/search?q=%23BeginAPartyIn5Words) | N/A |
+| 20 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 21 | [Jason Delay](http://twitter.com/search?q=Jason+Delay) | N/A |
+| 22 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 23 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 24 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
+| 25 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 26 | [Jason Vosler](http://twitter.com/search?q=Jason+Vosler) | N/A |
+| 27 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 28 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 29 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
+| 30 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 31 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 32 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 33 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 34 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 35 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 36 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 37 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 38 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 39 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 40 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
+| 41 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 42 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
+| 43 | [Casas](http://twitter.com/search?q=Casas) | N/A |
+| 44 | [ERYN](http://twitter.com/search?q=ERYN) | N/A |
+| 45 | [The Red Sox](http://twitter.com/search?q=The+Red+Sox) | N/A |
+| 46 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 47 | [Overton](http://twitter.com/search?q=Overton) | N/A |
+| 48 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 49 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
+| 50 | [Reba](http://twitter.com/search?q=Reba) | N/A |
 
 
 

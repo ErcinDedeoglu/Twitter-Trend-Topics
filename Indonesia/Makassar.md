@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-03 23:17:18 UTC`
+📆 Last Updated: `2023-04-04 00:29:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 2 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 1 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 2 | [#RamadhanDay13](http://twitter.com/search?q=%23RamadhanDay13) | N/A |
 | 3 | [menangkan kemajuan rakyat](http://twitter.com/search?q=menangkan+kemajuan+rakyat) | N/A |
 | 4 | [prabowo persatuan indonesia](http://twitter.com/search?q=prabowo+persatuan+indonesia) | N/A |
 | 5 | [bikin indonesia nyaman](http://twitter.com/search?q=bikin+indonesia+nyaman) | N/A |
-| 6 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
-| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
-| 9 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 6 | [Khilafah Menyatukan Kita](http://twitter.com/search?q=Khilafah+Menyatukan+Kita) | N/A |
+| 7 | [Syariah Lindungi Nyawa Manusia](http://twitter.com/search?q=Syariah+Lindungi+Nyawa+Manusia) | N/A |
+| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 9 | [#18elovedFlora](http://twitter.com/search?q=%2318elovedFlora) | N/A |
 | 10 | [#pesanuntukberbagi](http://twitter.com/search?q=%23pesanuntukberbagi) | N/A |
-| 11 | [Khilafah Menyatukan Kita](http://twitter.com/search?q=Khilafah+Menyatukan+Kita) | N/A |
+| 11 | [KARMA IS AN ARMY](http://twitter.com/search?q=KARMA+IS+AN+ARMY) | N/A |
 | 12 | [dirkrimsus polda sulsel](http://twitter.com/search?q=dirkrimsus+polda+sulsel) | N/A |
-| 13 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 14 | [sudah baca tempo](http://twitter.com/search?q=sudah+baca+tempo) | N/A |
-| 15 | [Syariah Lindungi Nyawa Manusia](http://twitter.com/search?q=Syariah+Lindungi+Nyawa+Manusia) | N/A |
+| 13 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 14 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 15 | [sudah baca tempo](http://twitter.com/search?q=sudah+baca+tempo) | N/A |
 | 16 | [hydra veil sleeping mask](http://twitter.com/search?q=hydra+veil+sleeping+mask) | N/A |
-| 17 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 18 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 19 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 20 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
+| 17 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 18 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 19 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 20 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
 | 21 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 22 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 23 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 24 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 25 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
-| 28 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 29 | [balikin x1](http://twitter.com/search?q=balikin+x1) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [ZERO OUT NOW](http://twitter.com/search?q=ZERO+OUT+NOW) | N/A |
+| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 23 | [CONGRATULATIONS NAMJOON](http://twitter.com/search?q=CONGRATULATIONS+NAMJOON) | N/A |
+| 24 | [Dito Ariotedjo](http://twitter.com/search?q=Dito+Ariotedjo) | N/A |
+| 25 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
+| 26 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 27 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 28 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [JIMIN ON TOP](http://twitter.com/search?q=JIMIN+ON+TOP) | N/A |
+| 31 | [PROUD OF RM](http://twitter.com/search?q=PROUD+OF+RM) | N/A |
 | 32 | [get well soon jaehyuk](http://twitter.com/search?q=get+well+soon+jaehyuk) | N/A |
 | 33 | [NUMBER ONE IN MY HEART](http://twitter.com/search?q=NUMBER+ONE+IN+MY+HEART) | N/A |
-| 34 | [Novia](http://twitter.com/search?q=Novia) | N/A |
-| 35 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 36 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
-| 37 | [JIMIN PAVED THE WAY](http://twitter.com/search?q=JIMIN+PAVED+THE+WAY) | N/A |
-| 38 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
-| 39 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 40 | [5% Niacinamide](http://twitter.com/search?q=5%25+Niacinamide) | N/A |
-| 41 | [ZERO OUT TODAY](http://twitter.com/search?q=ZERO+OUT+TODAY) | N/A |
-| 42 | [guru penjas](http://twitter.com/search?q=guru+penjas) | N/A |
-| 43 | [Menteri Pemuda](http://twitter.com/search?q=Menteri+Pemuda) | N/A |
-| 44 | [Implora](http://twitter.com/search?q=Implora) | N/A |
-| 45 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
-| 46 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 47 | [Aloe Vera](http://twitter.com/search?q=Aloe+Vera) | N/A |
-| 48 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 49 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
+| 34 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 35 | [THE BLOTTER PAPER D2](http://twitter.com/search?q=THE+BLOTTER+PAPER+D2) | N/A |
+| 36 | [5% Niacinamide](http://twitter.com/search?q=5%25+Niacinamide) | N/A |
+| 37 | [Balikin X1](http://twitter.com/search?q=Balikin+X1) | N/A |
+| 38 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 39 | [zero out today](http://twitter.com/search?q=zero+out+today) | N/A |
+| 40 | [Novia](http://twitter.com/search?q=Novia) | N/A |
+| 41 | [guru penjas](http://twitter.com/search?q=guru+penjas) | N/A |
+| 42 | [Implora](http://twitter.com/search?q=Implora) | N/A |
+| 43 | [Ancika](http://twitter.com/search?q=Ancika) | N/A |
+| 44 | [Aloe Vera](http://twitter.com/search?q=Aloe+Vera) | N/A |
+| 45 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 46 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
+| 47 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 48 | [Menteri Pemuda](http://twitter.com/search?q=Menteri+Pemuda) | N/A |
+| 49 | [nct dream is 7dream](http://twitter.com/search?q=nct+dream+is+7dream) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-03 23:17:45 UTC`
+📆 Last Updated: `2023-04-04 00:29:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 2 | [#BroncaYDolor](http://twitter.com/search?q=%23BroncaYDolor) | N/A |
 | 3 | [#ParoDeColectivos](http://twitter.com/search?q=%23ParoDeColectivos) | N/A |
-| 4 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 5 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 7 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
-| 8 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
-| 9 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 10 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
-| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 12 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 14 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
-| 15 | [Pitrola](http://twitter.com/search?q=Pitrola) | N/A |
-| 16 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 4 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 5 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
+| 6 | [Artemio](http://twitter.com/search?q=Artemio) | N/A |
+| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 8 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 9 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 10 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
+| 11 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
+| 12 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [#QueSeVayanTodos](http://twitter.com/search?q=%23QueSeVayanTodos) | N/A |
+| 15 | [Marianela Mirra](http://twitter.com/search?q=Marianela+Mirra) | N/A |
+| 16 | [Kodama](http://twitter.com/search?q=Kodama) | N/A |
 | 17 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 18 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
+| 18 | [Pitrola](http://twitter.com/search?q=Pitrola) | N/A |
 | 19 | [Carancho](http://twitter.com/search?q=Carancho) | N/A |
 | 20 | [#Belgrano](http://twitter.com/search?q=%23Belgrano) | N/A |
-| 21 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 22 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 22 | [Daniel Barrientos](http://twitter.com/search?q=Daniel+Barrientos) | N/A |
 | 23 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 24 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
-| 25 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 26 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 27 | [Pixart](http://twitter.com/search?q=Pixart) | N/A |
-| 28 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 29 | [ramon](http://twitter.com/search?q=ramon) | N/A |
-| 30 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 31 | [Polino](http://twitter.com/search?q=Polino) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 33 | [Puerto Madero](http://twitter.com/search?q=Puerto+Madero) | N/A |
-| 34 | [Churruca](http://twitter.com/search?q=Churruca) | N/A |
-| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 36 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
-| 37 | [Provincia](http://twitter.com/search?q=Provincia) | N/A |
-| 38 | [Magario](http://twitter.com/search?q=Magario) | N/A |
-| 39 | [Cagón](http://twitter.com/search?q=Cag%c3%b3n) | N/A |
-| 40 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 41 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
-| 42 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
-| 43 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 44 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 45 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 46 | [Solidaridad](http://twitter.com/search?q=Solidaridad) | N/A |
-| 47 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 48 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 49 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 50 | [Conurbano](http://twitter.com/search?q=Conurbano) | N/A |
+| 24 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 25 | [Burzaco](http://twitter.com/search?q=Burzaco) | N/A |
+| 26 | [COTY TE AMAMOS](http://twitter.com/search?q=COTY+TE+AMAMOS) | N/A |
+| 27 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
+| 28 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 29 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 30 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 31 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 32 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 33 | [Jorge Martínez](http://twitter.com/search?q=Jorge+Mart%c3%adnez) | N/A |
+| 34 | [Moria](http://twitter.com/search?q=Moria) | N/A |
+| 35 | [Polino](http://twitter.com/search?q=Polino) | N/A |
+| 36 | [Puerto Madero](http://twitter.com/search?q=Puerto+Madero) | N/A |
+| 37 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 38 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
+| 39 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 41 | [La UTA](http://twitter.com/search?q=La+UTA) | N/A |
+| 42 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 43 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 44 | [Provincia](http://twitter.com/search?q=Provincia) | N/A |
+| 45 | [Cagon](http://twitter.com/search?q=Cagon) | N/A |
+| 46 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 47 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
+| 48 | [Magario](http://twitter.com/search?q=Magario) | N/A |
+| 49 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
+| 50 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 
 
 

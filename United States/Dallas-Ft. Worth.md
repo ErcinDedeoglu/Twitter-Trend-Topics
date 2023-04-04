@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-03 23:17:38 UTC`
+📆 Last Updated: `2023-04-04 00:29:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 2 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 3 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
-| 4 | [Latino](http://twitter.com/search?q=Latino) | N/A |
-| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 7 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
-| 8 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
-| 9 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
-| 10 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 12 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 13 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 14 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 15 | [#askchloe](http://twitter.com/search?q=%23askchloe) | N/A |
-| 16 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 17 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 18 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
-| 19 | [#IfIHadAllTheMoneyId](http://twitter.com/search?q=%23IfIHadAllTheMoneyId) | N/A |
-| 20 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
-| 21 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 23 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
-| 24 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 25 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 26 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 27 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 28 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 29 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
-| 30 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 31 | [Max Abmas](http://twitter.com/search?q=Max+Abmas) | N/A |
-| 32 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 33 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 34 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 35 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 36 | [Brice Turang](http://twitter.com/search?q=Brice+Turang) | N/A |
-| 37 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 38 | [Bronco](http://twitter.com/search?q=Bronco) | N/A |
-| 39 | [Safest](http://twitter.com/search?q=Safest) | N/A |
-| 40 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 41 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 42 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 43 | [Watters](http://twitter.com/search?q=Watters) | N/A |
-| 44 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 45 | [LaGuardia](http://twitter.com/search?q=LaGuardia) | N/A |
-| 46 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 47 | [HBCU](http://twitter.com/search?q=HBCU) | N/A |
-| 48 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 3 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 4 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 5 | [#GoAztecs](http://twitter.com/search?q=%23GoAztecs) | N/A |
+| 6 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 7 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
+| 8 | [#rawaftermania](http://twitter.com/search?q=%23rawaftermania) | N/A |
+| 9 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 11 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 12 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 13 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 14 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
+| 15 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
+| 16 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 17 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
+| 18 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 19 | [Joey Gallo](http://twitter.com/search?q=Joey+Gallo) | N/A |
+| 20 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 21 | [President Fraud](http://twitter.com/search?q=President+Fraud) | N/A |
+| 22 | [Jason Delay](http://twitter.com/search?q=Jason+Delay) | N/A |
+| 23 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 24 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 25 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
+| 26 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 27 | [Jason Vosler](http://twitter.com/search?q=Jason+Vosler) | N/A |
+| 28 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 29 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 30 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
+| 31 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 32 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 33 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 34 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 35 | [Kopech](http://twitter.com/search?q=Kopech) | N/A |
+| 36 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 37 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 38 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 39 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 40 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 41 | [RIP Butch](http://twitter.com/search?q=RIP+Butch) | N/A |
+| 42 | [Jeanine](http://twitter.com/search?q=Jeanine) | N/A |
+| 43 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 44 | [The Red Sox](http://twitter.com/search?q=The+Red+Sox) | N/A |
+| 45 | [Casas](http://twitter.com/search?q=Casas) | N/A |
+| 46 | [ERYN](http://twitter.com/search?q=ERYN) | N/A |
+| 47 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 48 | [Overton](http://twitter.com/search?q=Overton) | N/A |
+| 49 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
 
 
 
