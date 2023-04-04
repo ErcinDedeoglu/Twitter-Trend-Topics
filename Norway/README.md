@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-04 19:18:00 UTC`
+📆 Last Updated: `2023-04-04 20:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Norway
 | 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 8 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 9 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 11 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 12 | [NNPF](http://twitter.com/search?q=NNPF) | N/A |
-| 13 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Jenny Klinge](http://twitter.com/search?q=Jenny+Klinge) | N/A |
-| 18 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
-| 19 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 20 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 21 | [Forstår](http://twitter.com/search?q=Forst%c3%a5r) | N/A |
-| 22 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 23 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 24 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 25 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 26 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
-| 27 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 28 | [Hørte](http://twitter.com/search?q=H%c3%b8rte) | N/A |
-| 29 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
-| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 31 | [stang](http://twitter.com/search?q=stang) | N/A |
-| 32 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 33 | [Liker](http://twitter.com/search?q=Liker) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 8 | [America](http://twitter.com/search?q=America) | N/A |
+| 9 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 10 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 11 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 14 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
+| 15 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 19 | [NNPF](http://twitter.com/search?q=NNPF) | N/A |
+| 20 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 21 | [Jenny Klinge](http://twitter.com/search?q=Jenny+Klinge) | N/A |
+| 22 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 23 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
+| 24 | [Forstår](http://twitter.com/search?q=Forst%c3%a5r) | N/A |
+| 25 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 27 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 28 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 30 | [Liker](http://twitter.com/search?q=Liker) | N/A |
+| 31 | [Selvsagt](http://twitter.com/search?q=Selvsagt) | N/A |
+| 32 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
+| 33 | [stang](http://twitter.com/search?q=stang) | N/A |
 | 34 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 35 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 36 | [Yessir](http://twitter.com/search?q=Yessir) | N/A |
-| 37 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
-| 38 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 39 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 40 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 41 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 42 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 43 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
-| 44 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 46 | [Elverum](http://twitter.com/search?q=Elverum) | N/A |
-| 47 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 48 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 49 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 35 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 38 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 39 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 43 | [I Norge](http://twitter.com/search?q=I+Norge) | N/A |
+| 44 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 45 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 46 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
+| 47 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 49 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 50 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
 
 
 

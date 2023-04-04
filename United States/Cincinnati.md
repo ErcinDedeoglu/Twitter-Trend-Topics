@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-04 19:17:45 UTC`
+📆 Last Updated: `2023-04-04 20:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 4 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 6 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 7 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 8 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 9 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 10 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 11 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 12 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 13 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 14 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 15 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 16 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 17 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 18 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 19 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 22 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 23 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 24 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 25 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 26 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 27 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 28 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 30 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 32 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 33 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 34 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 35 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 36 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 6 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 7 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 10 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 11 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 12 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 13 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 14 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 16 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 17 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 18 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 21 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 22 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 23 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 24 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 25 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 26 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 27 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 28 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 29 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 31 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 32 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 34 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 35 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
 | 37 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 38 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 39 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 40 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 41 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 42 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
-| 43 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 44 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 45 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
-| 46 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 47 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 48 | [Issa Rae](http://twitter.com/search?q=Issa+Rae) | N/A |
-| 49 | [Zappe](http://twitter.com/search?q=Zappe) | Zappe is a German slang term that means to do something quickly or with enthusiasm. It can also be used to describe someone who is energetic and enthusiastic. In English, it could be translated as "zipping" or "zapping." |
+| 38 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 39 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 40 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 41 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 43 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 44 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 45 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 46 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 47 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 48 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 49 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 
 
 

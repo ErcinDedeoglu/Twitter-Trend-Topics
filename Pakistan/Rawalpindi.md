@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-04-04 19:17:37 UTC`
+📆 Last Updated: `2023-04-04 20:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#StandingWithConstitution](http://twitter.com/search?q=%23StandingWithConstitution) | N/A |
 | 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 7 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 8 | [Haris Sohail](http://twitter.com/search?q=Haris+Sohail) | Haris Sohail is a Pakistani cricketer. His name is derived from the Arabic word "haris", which means "guardian". In English, Haris Sohail would mean "Guardian of Success". |
-| 9 | [Congratulations Pakistan](http://twitter.com/search?q=Congratulations+Pakistan) | N/A |
-| 10 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
-| 11 | [Rizbar](http://twitter.com/search?q=Rizbar) | N/A |
-| 12 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 13 | [Kashif Abbasi](http://twitter.com/search?q=Kashif+Abbasi) | N/A |
+| 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 9 | [Haris Sohail](http://twitter.com/search?q=Haris+Sohail) | Haris Sohail is a Pakistani cricketer. His name is derived from the Arabic word "haris", which means "guardian". In English, Haris Sohail would mean "Guardian of Success". |
+| 10 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 11 | [Registrar](http://twitter.com/search?q=Registrar) | N/A |
+| 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 13 | [Rizbar](http://twitter.com/search?q=Rizbar) | N/A |
 | 14 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 18 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 19 | [jdc exposed](http://twitter.com/search?q=jdc+exposed) | N/A |
-| 20 | [boycott jdc](http://twitter.com/search?q=boycott+jdc) | N/A |
+| 15 | [Congratulations Pakistan](http://twitter.com/search?q=Congratulations+Pakistan) | N/A |
+| 16 | [jdc exposed](http://twitter.com/search?q=jdc+exposed) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [boycott jdc](http://twitter.com/search?q=boycott+jdc) | N/A |
+| 19 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 21 | [boycott daraz](http://twitter.com/search?q=boycott+daraz) | N/A |
-| 22 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 23 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 24 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
-| 25 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 26 | [justice qazi faez isa](http://twitter.com/search?q=justice+qazi+faez+isa) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Rejected](http://twitter.com/search?q=Rejected) | N/A |
-| 29 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 22 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 23 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 24 | [Prime Minister of Pakistan](http://twitter.com/search?q=Prime+Minister+of+Pakistan) | N/A |
+| 25 | [Rejected](http://twitter.com/search?q=Rejected) | N/A |
+| 26 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 27 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 28 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 29 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
 | 30 | [federal cabinet](http://twitter.com/search?q=federal+cabinet) | N/A |
-| 31 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 32 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 33 | [Doctrine of Necessity](http://twitter.com/search?q=Doctrine+of+Necessity) | N/A |
-| 34 | [Badshah](http://twitter.com/search?q=Badshah) | N/A |
-| 35 | [BOL Network](http://twitter.com/search?q=BOL+Network) | N/A |
-| 36 | [Nabil Gabol](http://twitter.com/search?q=Nabil+Gabol) | N/A |
-| 37 | [Nawaz Shari](http://twitter.com/search?q=Nawaz+Shari) | N/A |
-| 38 | [by the people](http://twitter.com/search?q=by+the+people) | N/A |
-| 39 | [For the People](http://twitter.com/search?q=For+the+People) | N/A |
-| 40 | [The SC](http://twitter.com/search?q=The+SC) | N/A |
-| 41 | [Shahid Waheed](http://twitter.com/search?q=Shahid+Waheed) | N/A |
-| 42 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 43 | [Saud Shakeel](http://twitter.com/search?q=Saud+Shakeel) | Saud Shakeel is an Arabic name, which translates to "Noble Generosity" in English. |
-| 44 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 45 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 48 | [Prime Minister of Pakistan](http://twitter.com/search?q=Prime+Minister+of+Pakistan) | N/A |
-| 49 | [T20I and ODI](http://twitter.com/search?q=T20I+and+ODI) | N/A |
-| 50 | [Umeed](http://twitter.com/search?q=Umeed) | N/A |
+| 31 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
+| 32 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 33 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 34 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 35 | [Rule](http://twitter.com/search?q=Rule) | N/A |
+| 36 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 37 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Saud Shakeel](http://twitter.com/search?q=Saud+Shakeel) | Saud Shakeel is an Arabic name, which translates to "Noble Generosity" in English. |
+| 40 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 44 | [Nawaz Shari](http://twitter.com/search?q=Nawaz+Shari) | N/A |
+| 45 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 47 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 48 | [Hats](http://twitter.com/search?q=Hats) | N/A |
+| 49 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 50 | [London](http://twitter.com/search?q=London) | N/A |
 
 
 

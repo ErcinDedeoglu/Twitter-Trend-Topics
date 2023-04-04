@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-04 19:17:13 UTC`
+📆 Last Updated: `2023-04-04 20:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,45 +18,48 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
 | 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 3 | [#corviflowerparty](http://twitter.com/search?q=%23corviflowerparty) | N/A |
-| 4 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 4 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
 | 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 6 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
 | 7 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
 | 8 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
-| 9 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
-| 10 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 11 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 12 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 13 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 9 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 10 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 11 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 12 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 13 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 14 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 15 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 15 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 16 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 17 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 18 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 18 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 | 19 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 20 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
-| 21 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 22 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
+| 20 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 21 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
+| 22 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 23 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 24 | [#Laura30](http://twitter.com/search?q=%23Laura30) | N/A |
+| 25 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
 | 26 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
-| 27 | [#Laura30](http://twitter.com/search?q=%23Laura30) | N/A |
-| 28 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 29 | [#siRiflette](http://twitter.com/search?q=%23siRiflette) | N/A |
-| 30 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 31 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
-| 32 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
-| 33 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
-| 34 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 35 | [#NewYork](http://twitter.com/search?q=%23NewYork) | N/A |
-| 36 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 37 | [#Soumahoro](http://twitter.com/search?q=%23Soumahoro) | N/A |
-| 38 | [#LiceoDelMadeInItaly](http://twitter.com/search?q=%23LiceoDelMadeInItaly) | N/A |
-| 39 | [#uominedonne](http://twitter.com/search?q=%23uominedonne) | N/A |
-| 40 | [#FrancescoDeGregori](http://twitter.com/search?q=%23FrancescoDeGregori) | N/A |
-| 41 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
-| 42 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 27 | [#siRiflette](http://twitter.com/search?q=%23siRiflette) | N/A |
+| 28 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 29 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 30 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 31 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 32 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 33 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 34 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
+| 35 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
+| 36 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 37 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 38 | [#NewYork](http://twitter.com/search?q=%23NewYork) | N/A |
+| 39 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 40 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 41 | [#Soumahoro](http://twitter.com/search?q=%23Soumahoro) | N/A |
+| 42 | [#LiceoDelMadeInItaly](http://twitter.com/search?q=%23LiceoDelMadeInItaly) | N/A |
+| 43 | [#ilclielostanotte](http://twitter.com/search?q=%23ilclielostanotte) | N/A |
+| 44 | [#Pasqua](http://twitter.com/search?q=%23Pasqua) | N/A |
+| 45 | [#uominedonne](http://twitter.com/search?q=%23uominedonne) | N/A |
 
 
 

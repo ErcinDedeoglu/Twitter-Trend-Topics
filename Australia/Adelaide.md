@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-04-04 19:17:20 UTC`
+📆 Last Updated: `2023-04-04 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 2 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 4 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 1 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 2 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 5 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 7 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 8 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 9 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 10 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 11 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 8 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
+| 9 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 10 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 11 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
 | 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 14 | [nsw police](http://twitter.com/search?q=nsw+police) | N/A |
-| 15 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 16 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
-| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 18 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 19 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 20 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 21 | [yunupingu](http://twitter.com/search?q=yunupingu) | N/A |
-| 22 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 23 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 24 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 25 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 26 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 27 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 28 | [paul kent](http://twitter.com/search?q=paul+kent) | N/A |
-| 29 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
-| 30 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 31 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 32 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 33 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 34 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 35 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
-| 36 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 37 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 38 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 39 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 40 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 41 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
-| 42 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 43 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 44 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
-| 45 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 46 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
-| 47 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 48 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 50 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 17 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 18 | [zali](http://twitter.com/search?q=zali) | N/A |
+| 19 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 20 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 21 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 22 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 23 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 24 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 25 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
+| 26 | [yunupingu](http://twitter.com/search?q=yunupingu) | N/A |
+| 27 | [dicko](http://twitter.com/search?q=dicko) | N/A |
+| 28 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 29 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 30 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 31 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 32 | [paul kent](http://twitter.com/search?q=paul+kent) | N/A |
+| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 34 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 35 | [Logue](http://twitter.com/search?q=Logue) | N/A |
+| 36 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 37 | [alex antic](http://twitter.com/search?q=alex+antic) | N/A |
+| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 39 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 40 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 41 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 42 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 46 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
+| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-04 19:17:53 UTC`
+📆 Last Updated: `2023-04-04 20:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 6 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 7 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 8 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 9 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 10 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 12 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 13 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 14 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 15 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 16 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 17 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 18 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 19 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 21 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 22 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 23 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 24 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 25 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 26 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 27 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 28 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 29 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 1 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
+| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 3 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 4 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 8 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 9 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 10 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 11 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 12 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 13 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 14 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 15 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 16 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 17 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 22 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 23 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 29 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 31 | [Marge](http://twitter.com/search?q=Marge) | N/A |
 | 32 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 33 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 34 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 35 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 36 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 37 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 38 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 39 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 40 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 41 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 42 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 43 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 44 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 45 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 46 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 47 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
-| 48 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 49 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 33 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 34 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 35 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 36 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 39 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 40 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 41 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 42 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 43 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
+| 44 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 45 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 46 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
 
 
 

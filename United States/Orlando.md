@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-04 19:17:50 UTC`
+📆 Last Updated: `2023-04-04 20:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 1 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 2 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 3 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 3 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
 | 4 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
-| 5 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 5 | [Miles](http://twitter.com/search?q=Miles) | N/A |
 | 6 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
 | 7 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
 | 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
 | 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 10 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 11 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 12 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 12 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
 | 13 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 14 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 17 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 18 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 20 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 21 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 22 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 23 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 24 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 25 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 26 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 28 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 30 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 31 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 32 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 33 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 34 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 37 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 38 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 39 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 41 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 42 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 43 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 44 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 45 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 46 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 48 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 49 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 14 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 15 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 16 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 17 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 18 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 19 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 21 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 22 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 23 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 24 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 25 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 29 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 31 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 33 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 34 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 35 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 36 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 37 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 38 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 41 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 42 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 43 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 44 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 45 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
+| 46 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 47 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 48 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 

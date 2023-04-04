@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-04-04 19:17:40 UTC`
+📆 Last Updated: `2023-04-04 20:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MahavirJayanti](http://twitter.com/search?q=%23MahavirJayanti) | N/A |
-| 2 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
-| 3 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 4 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 5 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 6 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
-| 7 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 8 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 9 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
+| 1 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
+| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 5 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 9 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
 | 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
-| 12 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 13 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 14 | [पूर्व राष्ट्रपति डोनाल्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a1%e0%a5%8b%e0%a4%a8%e0%a4%be%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
-| 15 | [Nortje](http://twitter.com/search?q=Nortje) | N/A |
-| 16 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 11 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 12 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
+| 13 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 14 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 15 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 16 | [पूर्व राष्ट्रपति डोनाल्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a1%e0%a5%8b%e0%a4%a8%e0%a4%be%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
 | 17 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 18 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
 | 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 20 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 22 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 23 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
-| 24 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
-| 25 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 26 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
-| 27 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
-| 28 | [Aaron F](http://twitter.com/search?q=Aaron+F) | N/A |
-| 29 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
-| 30 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 31 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 32 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
-| 33 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
-| 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 35 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
-| 36 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 37 | [LKFC](http://twitter.com/search?q=LKFC) | N/A |
-| 38 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 39 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 41 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
-| 42 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 43 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 46 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 47 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 48 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 49 | [KOHLI APNE KUTTE SAMBHAL](http://twitter.com/search?q=KOHLI+APNE+KUTTE+SAMBHAL) | N/A |
-| 50 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 20 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 21 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 22 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 23 | [Nortje](http://twitter.com/search?q=Nortje) | N/A |
+| 24 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
+| 25 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 27 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
+| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 29 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 30 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
+| 31 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 32 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
+| 33 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 34 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
+| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 36 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
+| 37 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
+| 38 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 39 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 40 | [LKFC](http://twitter.com/search?q=LKFC) | N/A |
+| 41 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 42 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 44 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
+| 47 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
+| 48 | [#HappyBirthdayRashmika](http://twitter.com/search?q=%23HappyBirthdayRashmika) | N/A |
+| 49 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-04 19:17:53 UTC`
+📆 Last Updated: `2023-04-04 20:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 3 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 4 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 5 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 1 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 2 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 3 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 4 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 5 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 | 6 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 7 | [Greene](http://twitter.com/search?q=Greene) | N/A |
-| 8 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 13 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 14 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 17 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 18 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 20 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 21 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 22 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 23 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 24 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 25 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 26 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 27 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 30 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 31 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 32 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 33 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 36 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 37 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 38 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 39 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 40 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 41 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 42 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 43 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 44 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 45 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 46 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 47 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 48 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 49 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 7 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 8 | [Greene](http://twitter.com/search?q=Greene) | N/A |
+| 9 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 10 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 11 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 12 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 14 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 16 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 17 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 18 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 19 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 21 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 22 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 23 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 24 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 25 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 26 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 27 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 28 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 29 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 32 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 33 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 34 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 35 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 36 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 37 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 38 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 39 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 40 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 41 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 42 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 45 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 46 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 47 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 48 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 49 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
 
 
 

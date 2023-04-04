@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-04 19:17:48 UTC`
+📆 Last Updated: `2023-04-04 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 3 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 4 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 5 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 6 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 7 | [Greene](http://twitter.com/search?q=Greene) | N/A |
-| 8 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 13 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 14 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 15 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 16 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 17 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 22 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 23 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 24 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 25 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 26 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 28 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 30 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 31 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 32 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 33 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 34 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 37 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 38 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 39 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 41 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 42 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 43 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 44 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 45 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 46 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 48 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 49 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 50 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 3 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 4 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 5 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 6 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 7 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
+| 8 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 9 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 10 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 11 | [Greene](http://twitter.com/search?q=Greene) | N/A |
+| 12 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 13 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 15 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 18 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 20 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 21 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 22 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 23 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 24 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 25 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 26 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 27 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 31 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 32 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 34 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 35 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 36 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 37 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 38 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 39 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 40 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 41 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 42 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 43 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 44 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 45 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 46 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 47 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 48 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 49 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 50 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 
 
 

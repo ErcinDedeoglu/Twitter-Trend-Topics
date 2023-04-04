@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-04 19:17:08 UTC`
+📆 Last Updated: `2023-04-04 20:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 1 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 4 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 5 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 6 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 5 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 6 | [#KALLEG](http://twitter.com/search?q=%23KALLEG) | N/A |
 | 7 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
-| 8 | [#lovejoygdansk](http://twitter.com/search?q=%23lovejoygdansk) | N/A |
-| 9 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 10 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 11 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 12 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
-| 13 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 15 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
-| 16 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
-| 17 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 18 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 19 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
-| 20 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 21 | [Piekło](http://twitter.com/search?q=Piek%c5%82o) | N/A |
-| 22 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
-| 23 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 26 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
-| 27 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 28 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 29 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
-| 30 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 31 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 32 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 33 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 34 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 35 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 36 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 37 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
-| 38 | [Stolarczyk](http://twitter.com/search?q=Stolarczyk) | N/A |
-| 39 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
-| 40 | [PKP Energetyka](http://twitter.com/search?q=PKP+Energetyka) | N/A |
-| 41 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 42 | [Turyngii](http://twitter.com/search?q=Turyngii) | N/A |
-| 43 | [Szwecję](http://twitter.com/search?q=Szwecj%c4%99) | N/A |
-| 44 | [Pieseł](http://twitter.com/search?q=Piese%c5%82) | N/A |
-| 45 | [Donka](http://twitter.com/search?q=Donka) | N/A |
-| 46 | [Racławicami](http://twitter.com/search?q=Rac%c5%82awicami) | N/A |
-| 47 | [MIGi](http://twitter.com/search?q=MIGi) | N/A |
-| 48 | [Harry'ego Pottera](http://twitter.com/search?q=Harry%27ego+Pottera) | N/A |
-| 49 | [odessę](http://twitter.com/search?q=odess%c4%99) | N/A |
-| 50 | [Super Polsat](http://twitter.com/search?q=Super+Polsat) | N/A |
+| 8 | [Kalisz](http://twitter.com/search?q=Kalisz) | N/A |
+| 9 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 10 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
+| 11 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 12 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 13 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 16 | [Strzałka](http://twitter.com/search?q=Strza%c5%82ka) | N/A |
+| 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 18 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
+| 19 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
+| 20 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 21 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
+| 22 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 23 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
+| 26 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 27 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 28 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
+| 29 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 30 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 31 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 32 | [Bartek](http://twitter.com/search?q=Bartek) | N/A |
+| 33 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
+| 34 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 35 | [Generale](http://twitter.com/search?q=Generale) | N/A |
+| 36 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 38 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 39 | [mameda](http://twitter.com/search?q=mameda) | N/A |
+| 40 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 41 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 42 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 43 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 44 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 45 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 46 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
+| 47 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Stolarczyk](http://twitter.com/search?q=Stolarczyk) | N/A |
+| 50 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-04 19:18:03 UTC`
+📆 Last Updated: `2023-04-04 20:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Spain
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
 | 4 | [#NosVanAEcharDeClase](http://twitter.com/search?q=%23NosVanAEcharDeClase) | N/A |
-| 5 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
 | 7 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
 | 8 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 | 9 | [#ElCazador695](http://twitter.com/search?q=%23ElCazador695) | N/A |
 | 10 | [#Pasapalabra739](http://twitter.com/search?q=%23Pasapalabra739) | N/A |
-| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 12 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 13 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 11 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 12 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 13 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 14 | [Hammurabi](http://twitter.com/search?q=Hammurabi) | N/A |
 | 15 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
 | 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 17 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
-| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 20 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 17 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
+| 18 | [González Pons](http://twitter.com/search?q=Gonz%c3%a1lez+Pons) | N/A |
+| 19 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
+| 20 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 22 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 23 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 24 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
-| 25 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 26 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 27 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 28 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 29 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
-| 30 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 31 | [Pon 4](http://twitter.com/search?q=Pon+4) | N/A |
-| 32 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [Juego de Tronos](http://twitter.com/search?q=Juego+de+Tronos) | N/A |
-| 35 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
-| 36 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 37 | [Desamparados](http://twitter.com/search?q=Desamparados) | N/A |
-| 38 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 39 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 40 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 41 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
-| 42 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 43 | [#Pecado4Abr](http://twitter.com/search?q=%23Pecado4Abr) | N/A |
-| 44 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
-| 45 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 46 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 47 | [#YoMeRebelo4A](http://twitter.com/search?q=%23YoMeRebelo4A) | N/A |
-| 48 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 49 | [#APOYOROCIO4A](http://twitter.com/search?q=%23APOYOROCIO4A) | N/A |
-| 50 | [#CMaDesalia](http://twitter.com/search?q=%23CMaDesalia) | N/A |
+| 23 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 24 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 25 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 26 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 27 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 28 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
+| 29 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 30 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 31 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
+| 32 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 33 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Juego de Tronos](http://twitter.com/search?q=Juego+de+Tronos) | N/A |
+| 36 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 37 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 38 | [Pon 4](http://twitter.com/search?q=Pon+4) | N/A |
+| 39 | [La Policía](http://twitter.com/search?q=La+Polic%c3%ada) | N/A |
+| 40 | [M. Rajoy](http://twitter.com/search?q=M.+Rajoy) | N/A |
+| 41 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
+| 42 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 43 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
+| 44 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
+| 45 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
+| 46 | [#Pecado4Abr](http://twitter.com/search?q=%23Pecado4Abr) | N/A |
+| 47 | [#AdaraSv4A](http://twitter.com/search?q=%23AdaraSv4A) | N/A |
+| 48 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 49 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 50 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
 
 
 

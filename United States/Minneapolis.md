@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-04 19:17:49 UTC`
+📆 Last Updated: `2023-04-04 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 1 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 4 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
 | 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 6 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
 | 7 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 8 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
 | 9 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 10 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 11 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 12 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 10 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 11 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 12 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
 | 13 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 14 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 15 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 17 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 18 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 19 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 20 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 21 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 22 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 23 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 24 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 26 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 27 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 28 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 29 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 30 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 32 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 33 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 34 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 35 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 36 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 37 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 38 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 39 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 40 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 41 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 42 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 43 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 44 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 45 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 46 | [SLIM JIM](http://twitter.com/search?q=SLIM+JIM) | N/A |
-| 47 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 48 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 49 | [Hoyer](http://twitter.com/search?q=Hoyer) | N/A |
+| 14 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 16 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 17 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 22 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 23 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 29 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 31 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 32 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 33 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 34 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 35 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 36 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 39 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 40 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 41 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 42 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 43 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
+| 44 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 45 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 46 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
+| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
+| 50 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
 
 
 

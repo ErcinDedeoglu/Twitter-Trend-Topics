@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-04 19:17:09 UTC`
+📆 Last Updated: `2023-04-04 20:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 4 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 3 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 5 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 6 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 7 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 8 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 9 | [Romain Molina](http://twitter.com/search?q=Romain+Molina) | N/A |
-| 10 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 11 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 12 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 13 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 14 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 17 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 18 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 19 | [Grand Rex](http://twitter.com/search?q=Grand+Rex) | N/A |
-| 20 | [La PS5](http://twitter.com/search?q=La+PS5) | N/A |
-| 21 | [DGSI](http://twitter.com/search?q=DGSI) | N/A |
-| 22 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 23 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 24 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 25 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 26 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 30 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
-| 31 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 32 | [#2069le14avril](http://twitter.com/search?q=%232069le14avril) | N/A |
-| 33 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 34 | [#teambowser](http://twitter.com/search?q=%23teambowser) | N/A |
-| 35 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
-| 36 | [#ChainsawMan125](http://twitter.com/search?q=%23ChainsawMan125) | N/A |
-| 37 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 38 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
-| 39 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
-| 40 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 41 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 42 | [#OTAN](http://twitter.com/search?q=%23OTAN) | N/A |
-| 43 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
+| 6 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 12 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 13 | [Chelsea Liverpool](http://twitter.com/search?q=Chelsea+Liverpool) | N/A |
+| 14 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 15 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 16 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
+| 17 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
+| 18 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 19 | [Barth](http://twitter.com/search?q=Barth) | N/A |
+| 20 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 21 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 22 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 24 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 25 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 26 | [Carcassonne](http://twitter.com/search?q=Carcassonne) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Romain Molina](http://twitter.com/search?q=Romain+Molina) | N/A |
+| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 32 | [DGSI](http://twitter.com/search?q=DGSI) | N/A |
+| 33 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 34 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 35 | [Grand Rex](http://twitter.com/search?q=Grand+Rex) | N/A |
+| 36 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 37 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 38 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 39 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 40 | [La PS5](http://twitter.com/search?q=La+PS5) | N/A |
+| 41 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 43 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 44 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 45 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 46 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
+| 47 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 48 | [#2069le14avril](http://twitter.com/search?q=%232069le14avril) | N/A |
 
 
 

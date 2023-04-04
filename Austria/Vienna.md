@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-04 19:17:09 UTC`
+📆 Last Updated: `2023-04-04 20:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 2 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 3 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 4 | [#w0304](http://twitter.com/search?q=%23w0304) | N/A |
-| 5 | [#SkiAustria](http://twitter.com/search?q=%23SkiAustria) | N/A |
-| 6 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 7 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 8 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 9 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 10 | [Eva Dichand](http://twitter.com/search?q=Eva+Dichand) | N/A |
-| 11 | [Agentur](http://twitter.com/search?q=Agentur) | N/A |
-| 12 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 13 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 14 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
-| 15 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 16 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
-| 17 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 18 | [Ausgabe](http://twitter.com/search?q=Ausgabe) | N/A |
-| 19 | [Schafott](http://twitter.com/search?q=Schafott) | N/A |
-| 20 | [blümel](http://twitter.com/search?q=bl%c3%bcmel) | N/A |
-| 21 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 23 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 24 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 25 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
-| 26 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 27 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 28 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 29 | [Ausmaß](http://twitter.com/search?q=Ausma%c3%9f) | N/A |
-| 30 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 31 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 32 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 33 | [Chats](http://twitter.com/search?q=Chats) | N/A |
-| 34 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 35 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 36 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 37 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
-| 38 | [Dimension](http://twitter.com/search?q=Dimension) | N/A |
-| 39 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 40 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
-| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 42 | [Koffer](http://twitter.com/search?q=Koffer) | N/A |
-| 43 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
-| 44 | [Temperaturen](http://twitter.com/search?q=Temperaturen) | N/A |
-| 45 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 46 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 47 | [Gebiet](http://twitter.com/search?q=Gebiet) | N/A |
-| 48 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 49 | [Flucht](http://twitter.com/search?q=Flucht) | N/A |
-| 50 | [Italiener](http://twitter.com/search?q=Italiener) | N/A |
+| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 4 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 7 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 8 | [Dichands](http://twitter.com/search?q=Dichands) | N/A |
+| 9 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 11 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 12 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 13 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 14 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 15 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 16 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 17 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 18 | [#SkiAustria](http://twitter.com/search?q=%23SkiAustria) | N/A |
+| 19 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
+| 20 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 21 | [Agentur](http://twitter.com/search?q=Agentur) | N/A |
+| 22 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 23 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
+| 24 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 25 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 26 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 27 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 28 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 29 | [Tages](http://twitter.com/search?q=Tages) | N/A |
+| 30 | [Gruppen](http://twitter.com/search?q=Gruppen) | N/A |
+| 31 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 32 | [#Korruption](http://twitter.com/search?q=%23Korruption) | N/A |
+| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 34 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 35 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
+| 36 | [Kenn](http://twitter.com/search?q=Kenn) | N/A |
+| 37 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 38 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 39 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 40 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 41 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 42 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 43 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 44 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 45 | [Würd](http://twitter.com/search?q=W%c3%bcrd) | N/A |
+| 46 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 47 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 48 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 49 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 50 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 
 
 
