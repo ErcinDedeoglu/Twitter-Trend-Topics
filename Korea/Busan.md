@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Busan
 
-📆 Last Updated: `2023-04-04 20:16:53 UTC`
+📆 Last Updated: `2023-04-04 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,8 +55,8 @@ This is top 50 for [Korea](</Korea>)
 | 38 | [슈퍼캐럿봉](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%ba%90%eb%9f%bf%eb%b4%89) | N/A |
 | 39 | [동거하는 페어](http://twitter.com/search?q=%eb%8f%99%ea%b1%b0%ed%95%98%eb%8a%94+%ed%8e%98%ec%96%b4) | N/A |
 | 40 | [양곡관리법](http://twitter.com/search?q=%ec%96%91%ea%b3%a1%ea%b4%80%eb%a6%ac%eb%b2%95) | N/A |
-| 41 | [시험기간](http://twitter.com/search?q=%ec%8b%9c%ed%97%98%ea%b8%b0%ea%b0%84) | N/A |
-| 42 | [새븐틴 승관](http://twitter.com/search?q=%ec%83%88%eb%b8%90%ed%8b%b4+%ec%8a%b9%ea%b4%80) | N/A |
+| 41 | [새븐틴 승관](http://twitter.com/search?q=%ec%83%88%eb%b8%90%ed%8b%b4+%ec%8a%b9%ea%b4%80) | N/A |
+| 42 | [시험기간](http://twitter.com/search?q=%ec%8b%9c%ed%97%98%ea%b8%b0%ea%b0%84) | N/A |
 | 43 | [코스튬 안무영상](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%ac+%ec%95%88%eb%ac%b4%ec%98%81%ec%83%81) | N/A |
 | 44 | [사르디나](http://twitter.com/search?q=%ec%82%ac%eb%a5%b4%eb%94%94%eb%82%98) | N/A |
 | 45 | [어거스트](http://twitter.com/search?q=%ec%96%b4%ea%b1%b0%ec%8a%a4%ed%8a%b8) | N/A |

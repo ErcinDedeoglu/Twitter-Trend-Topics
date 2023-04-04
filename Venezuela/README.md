@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-04 20:17:23 UTC`
+📆 Last Updated: `2023-04-04 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Venezuela
 | 1 | [#4Abr](http://twitter.com/search?q=%234Abr) | N/A |
 | 2 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
 | 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 5 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 6 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 7 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
+| 6 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 8 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
 | 9 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 10 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 11 | [#CubaCoopera](http://twitter.com/search?q=%23CubaCoopera) | N/A |
-| 12 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 13 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 14 | [#felizlunes](http://twitter.com/search?q=%23felizlunes) | N/A |
-| 15 | [Chelique Sarabia](http://twitter.com/search?q=Chelique+Sarabia) | N/A |
-| 16 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 17 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 18 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 19 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 20 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
-| 21 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 22 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 23 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 24 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 25 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 26 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 27 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
-| 28 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 10 | [#CubaCoopera](http://twitter.com/search?q=%23CubaCoopera) | N/A |
+| 11 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 12 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 13 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 14 | [Chelique Sarabia](http://twitter.com/search?q=Chelique+Sarabia) | N/A |
+| 15 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 16 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 17 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
+| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 19 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
+| 20 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 21 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 22 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
+| 23 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 24 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
+| 25 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
+| 26 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 27 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 28 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 29 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 30 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
-| 31 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
-| 32 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 30 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 31 | [Hugo Carregal](http://twitter.com/search?q=Hugo+Carregal) | N/A |
+| 32 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
 | 33 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 34 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 35 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 36 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 37 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 39 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Alirio Rodríguez](http://twitter.com/search?q=Alirio+Rodr%c3%adguez) | N/A |
-| 42 | [Rafael Reiter](http://twitter.com/search?q=Rafael+Reiter) | N/A |
-| 43 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 46 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 34 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 37 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 38 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 39 | [Alirio Rodríguez](http://twitter.com/search?q=Alirio+Rodr%c3%adguez) | N/A |
+| 40 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 41 | [Leopoldo Castillo](http://twitter.com/search?q=Leopoldo+Castillo) | N/A |
+| 42 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 43 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 44 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 45 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 46 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
 | 47 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 48 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 49 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
 
 
 

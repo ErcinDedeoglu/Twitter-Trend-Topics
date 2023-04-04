@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-04-04 20:16:56 UTC`
+📆 Last Updated: `2023-04-04 21:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for [Philippines](</Philippines>)
 | 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 22 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
 | 23 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 24 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
-| 25 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 27 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 28 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 30 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 31 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 32 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
-| 33 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 34 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 35 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 36 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 37 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
-| 38 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 39 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
-| 40 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 41 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 42 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 43 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 44 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 45 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 46 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 48 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
-| 49 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 50 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
+| 24 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 25 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
+| 26 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 27 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 28 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 29 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 30 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
+| 31 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 32 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 33 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 34 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 35 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 36 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 37 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 39 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
+| 40 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 41 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 42 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 43 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 44 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 45 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
+| 46 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 47 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 48 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 49 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 50 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
 
 
 

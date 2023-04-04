@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-04 20:17:08 UTC`
+📆 Last Updated: `2023-04-04 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuildTheNest](http://twitter.com/search?q=%23BuildTheNest) | N/A |
-| 2 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 3 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 4 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 5 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 6 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 7 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 12 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 15 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 17 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 18 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 19 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 20 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 21 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 22 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 26 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 28 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 30 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 2 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 3 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 4 | [#NationalSchoolLibrarianDay](http://twitter.com/search?q=%23NationalSchoolLibrarianDay) | N/A |
+| 5 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 6 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 7 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 8 | [Vince McMahon](http://twitter.com/search?q=Vince+McMahon) | Vince McMahon is the Chairman and CEO of World Wrestling Entertainment (WWE). He is a professional wrestling promoter, commentator, actor, and occasional professional wrestler. The name "Vince McMahon" has become synonymous with professional wrestling and the WWE. |
+| 9 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 10 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 11 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 14 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 15 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 17 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 21 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 22 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 23 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 24 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 27 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 28 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 29 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 30 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 31 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
 | 32 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 33 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 33 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
 | 34 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 35 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 36 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 37 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 38 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 39 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
-| 40 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 41 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 42 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 43 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 44 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 45 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 48 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 49 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 50 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 36 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 37 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 38 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 39 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 40 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 41 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 42 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 45 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
+| 46 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 47 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
+| 48 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 49 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
+| 50 | [Melania](http://twitter.com/search?q=Melania) | N/A |
 
 
 

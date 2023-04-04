@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-04 20:16:50 UTC`
+📆 Last Updated: `2023-04-04 21:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,31 +15,31 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 2 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 5 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 8 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
-| 9 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 10 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 11 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 1 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 2 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 4 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 8 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 9 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
+| 10 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 11 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 12 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 14 | [nsw police](http://twitter.com/search?q=nsw+police) | N/A |
 | 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 17 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
-| 18 | [zali](http://twitter.com/search?q=zali) | N/A |
-| 19 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 20 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 21 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 18 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 19 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 20 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 21 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
 | 22 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 23 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 24 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 25 | [Whyalla](http://twitter.com/search?q=Whyalla) | N/A |
+| 23 | [rennick](http://twitter.com/search?q=rennick) | N/A |
+| 24 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 25 | [Moana](http://twitter.com/search?q=Moana) | N/A |
 | 26 | [yunupingu](http://twitter.com/search?q=yunupingu) | N/A |
 | 27 | [dicko](http://twitter.com/search?q=dicko) | N/A |
 | 28 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
@@ -57,12 +57,12 @@ This is top 50 for [Australia](</Australia>)
 | 40 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
 | 41 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
 | 42 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
-| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
-| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 45 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
+| 46 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
 
 
 

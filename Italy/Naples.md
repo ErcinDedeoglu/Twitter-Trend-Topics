@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-04-04 20:16:45 UTC`
+📆 Last Updated: `2023-04-04 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 2 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
 | 4 | [#corviflowerparty](http://twitter.com/search?q=%23corviflowerparty) | N/A |
-| 5 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 8 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 9 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 5 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
+| 6 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 7 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 9 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
 | 10 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 11 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 12 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 13 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 14 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 15 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 16 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 17 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 18 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 20 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 21 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 22 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
-| 23 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 24 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 25 | [#Laura30](http://twitter.com/search?q=%23Laura30) | N/A |
-| 26 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
-| 27 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
-| 28 | [#siRiflette](http://twitter.com/search?q=%23siRiflette) | N/A |
-| 29 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 30 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
-| 31 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 32 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
-| 33 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 34 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 35 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
-| 36 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
-| 37 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 11 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 12 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 13 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 14 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 15 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 16 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 17 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 18 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 19 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 20 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 21 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 23 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 24 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 25 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 26 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 27 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 28 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 29 | [La Finlandia](http://twitter.com/search?q=La+Finlandia) | N/A |
+| 30 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 31 | [#Laura30](http://twitter.com/search?q=%23Laura30) | N/A |
+| 32 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 33 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 34 | [#siRiflette](http://twitter.com/search?q=%23siRiflette) | N/A |
+| 35 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 36 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 37 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
 | 38 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 39 | [#NewYork](http://twitter.com/search?q=%23NewYork) | N/A |
-| 40 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
-| 41 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 42 | [#Soumahoro](http://twitter.com/search?q=%23Soumahoro) | N/A |
-| 43 | [#LiceoDelMadeInItaly](http://twitter.com/search?q=%23LiceoDelMadeInItaly) | N/A |
-| 44 | [#ilclielostanotte](http://twitter.com/search?q=%23ilclielostanotte) | N/A |
-| 45 | [#Pasqua](http://twitter.com/search?q=%23Pasqua) | N/A |
+| 39 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 40 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
+| 41 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 42 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 43 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
+| 44 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
+| 45 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 46 | [#NewYork](http://twitter.com/search?q=%23NewYork) | N/A |
+| 47 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 48 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 49 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 50 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-04 20:16:48 UTC`
+📆 Last Updated: `2023-04-04 21:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 3 | [#FCBYB](http://twitter.com/search?q=%23FCBYB) | N/A |
-| 4 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
-| 5 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 2 | [#FCBYB](http://twitter.com/search?q=%23FCBYB) | N/A |
+| 3 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 5 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
 | 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
 | 11 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
 | 12 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 13 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 14 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 15 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 16 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 18 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 19 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 20 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 21 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 22 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 23 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 24 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 25 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 26 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 27 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 28 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 29 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 30 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 31 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 32 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 33 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 14 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 15 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 16 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 17 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 20 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 21 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 22 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 23 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 24 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 25 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 26 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 27 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
+| 28 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 29 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 31 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 32 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 33 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
 | 34 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 35 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 36 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
-| 37 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 38 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 39 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 40 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 41 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
-| 42 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 43 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 45 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 46 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 47 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 48 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 49 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 50 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 35 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
+| 36 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 38 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 39 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 40 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
+| 41 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 44 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 45 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 47 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 48 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 49 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 50 | [Szene](http://twitter.com/search?q=Szene) | N/A |
 
 
 

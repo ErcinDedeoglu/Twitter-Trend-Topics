@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-04-04 20:16:44 UTC`
+📆 Last Updated: `2023-04-04 21:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,47 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
 | 2 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 3 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 4 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 5 | [Bayern Bonus](http://twitter.com/search?q=Bayern+Bonus) | N/A |
-| 6 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [Harm Osmers](http://twitter.com/search?q=Harm+Osmers) | N/A |
-| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 12 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 15 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 16 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 17 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 18 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
-| 19 | [Beilagen](http://twitter.com/search?q=Beilagen) | N/A |
-| 20 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 21 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 23 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 24 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 27 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 29 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 30 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 31 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 32 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 33 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 34 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 35 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 36 | [Notbremse](http://twitter.com/search?q=Notbremse) | N/A |
-| 37 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
-| 38 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 39 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 40 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 41 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 42 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 43 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 44 | [Naturheilkunde](http://twitter.com/search?q=Naturheilkunde) | N/A |
-| 45 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
-| 46 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 47 | [Schweinsteiger](http://twitter.com/search?q=Schweinsteiger) | N/A |
-| 48 | [Knust](http://twitter.com/search?q=Knust) | N/A |
+| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 6 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 7 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 8 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 9 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 10 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 11 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 12 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 13 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 14 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
+| 15 | [Trainerwechsel](http://twitter.com/search?q=Trainerwechsel) | N/A |
+| 16 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 17 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 18 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 19 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 20 | [Bayern Fan](http://twitter.com/search?q=Bayern+Fan) | N/A |
+| 21 | [Verlängerung](http://twitter.com/search?q=Verl%c3%a4ngerung) | N/A |
+| 22 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 28 | [Schlüsse](http://twitter.com/search?q=Schl%c3%bcsse) | N/A |
+| 29 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 31 | [Uniform](http://twitter.com/search?q=Uniform) | N/A |
+| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 33 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 34 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
+| 35 | [#HartzUndHerzlich](http://twitter.com/search?q=%23HartzUndHerzlich) | N/A |
+| 36 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 37 | [#HomeforWhovians](http://twitter.com/search?q=%23HomeforWhovians) | N/A |
+| 38 | [#INGvsMAN](http://twitter.com/search?q=%23INGvsMAN) | N/A |
+| 39 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 40 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 41 | [#Ballweg](http://twitter.com/search?q=%23Ballweg) | N/A |
+| 42 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 43 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-04 20:17:15 UTC`
+📆 Last Updated: `2023-04-04 21:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 2 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 3 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
+| 2 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 3 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
 | 4 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 5 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 6 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 7 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 12 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 15 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 17 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 18 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 19 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 20 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 21 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 26 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 5 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 6 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 7 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 10 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 13 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 14 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 18 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 19 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 20 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 21 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 22 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 23 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 24 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 25 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 28 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 30 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 31 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 32 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 33 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 34 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 35 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 36 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 37 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 38 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 39 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
-| 40 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 41 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 42 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 43 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 44 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 45 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 48 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 49 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 29 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 30 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 31 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 32 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 33 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 34 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 35 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 36 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 39 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 40 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 41 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 42 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 43 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
+| 44 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 45 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 46 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 47 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 48 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 49 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 
 
 

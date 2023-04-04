@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-04 20:17:08 UTC`
+📆 Last Updated: `2023-04-04 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 1 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 2 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 6 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 7 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 8 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 9 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 10 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 12 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 13 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 14 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 15 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 17 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 18 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 19 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 20 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 21 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 25 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 26 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 27 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 30 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 31 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 32 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
-| 33 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
-| 34 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 37 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 38 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 39 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 40 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 41 | [Seth Wenig](http://twitter.com/search?q=Seth+Wenig) | N/A |
-| 42 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 43 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 44 | [Katy Tur](http://twitter.com/search?q=Katy+Tur) | N/A |
-| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 46 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 47 | [Belichick](http://twitter.com/search?q=Belichick) | N/A |
-| 48 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 49 | [Nick Foles](http://twitter.com/search?q=Nick+Foles) | Nick Foles is an American football quarterback who currently plays for the Chicago Bears of the National Football League (NFL). He was drafted by the Philadelphia Eagles in the third round of the 2012 NFL Draft. He has also played for the St. Louis Rams, Kansas City Chiefs, and Jacksonville Jaguars. Foles is known for his strong arm and accuracy, as well as his ability to make big plays in clutch situations. |
-| 50 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 9 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 10 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 14 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 15 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 16 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 17 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 18 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 19 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 21 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 22 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 25 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 28 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 29 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 30 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 31 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 32 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 33 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 35 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 36 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 37 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 38 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 39 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
+| 40 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 41 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 42 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 43 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 44 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
+| 45 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 46 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 47 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 48 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 49 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 50 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
 
 
 

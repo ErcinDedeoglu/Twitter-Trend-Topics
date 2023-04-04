@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-04 20:16:57 UTC`
+📆 Last Updated: `2023-04-04 21:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
 | 6 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
 | 7 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
-| 8 | [2ND CONCEPT PHOTO](http://twitter.com/search?q=2ND+CONCEPT+PHOTO) | N/A |
+| 8 | [2nd concept photo](http://twitter.com/search?q=2nd+concept+photo) | N/A |
 | 9 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
 | 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 11 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
 | 14 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
 | 15 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 16 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 16 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
 | 17 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
 | 18 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 19 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
@@ -41,27 +41,28 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 24 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 25 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
 | 26 | [Great Project](http://twitter.com/search?q=Great+Project) | N/A |
-| 27 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 27 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
 | 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 29 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 30 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 31 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 32 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 33 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 34 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 36 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
-| 37 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 38 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 40 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
-| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 43 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 44 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 45 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
-| 46 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 47 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
+| 29 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 30 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 31 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 32 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
+| 33 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 34 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
+| 35 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
+| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 37 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 39 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 42 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 43 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 44 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 45 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
+| 46 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
+| 47 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
+| 48 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
 
 
 

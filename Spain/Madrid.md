@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-04 20:16:47 UTC`
+📆 Last Updated: `2023-04-04 21:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,24 +15,24 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#CofradiasMLG](http://twitter.com/search?q=%23CofradiasMLG) | N/A |
+| 1 | [#CofradiasMLG](http://twitter.com/search?q=%23CofradiasMLG) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 3 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
 | 4 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
 | 5 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
 | 6 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 7 | [Belarra](http://twitter.com/search?q=Belarra) | N/A |
-| 8 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 7 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 10 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
 | 11 | [#NosVanAEcharDeClase](http://twitter.com/search?q=%23NosVanAEcharDeClase) | N/A |
 | 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 13 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
 | 14 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
-| 15 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 16 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 17 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 18 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 15 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 16 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 18 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
 | 19 | [Hammurabi](http://twitter.com/search?q=Hammurabi) | N/A |
 | 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
 | 21 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
@@ -41,27 +41,27 @@ This is top 50 for [Spain](</Spain>)
 | 24 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
 | 25 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
 | 26 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 27 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 28 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 29 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 30 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 31 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 32 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 33 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
-| 34 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 35 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 36 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
-| 37 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Juego de Tronos](http://twitter.com/search?q=Juego+de+Tronos) | N/A |
-| 40 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 41 | [Kick](http://twitter.com/search?q=Kick) | N/A |
-| 42 | [Pon 4](http://twitter.com/search?q=Pon+4) | N/A |
-| 43 | [La Policía](http://twitter.com/search?q=La+Polic%c3%ada) | N/A |
-| 44 | [M. Rajoy](http://twitter.com/search?q=M.+Rajoy) | N/A |
-| 45 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
-| 46 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 47 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
+| 27 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 30 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 32 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
+| 33 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 35 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
+| 36 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Juego de Tronos](http://twitter.com/search?q=Juego+de+Tronos) | N/A |
+| 39 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 40 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 41 | [Pon 4](http://twitter.com/search?q=Pon+4) | N/A |
+| 42 | [La Policía](http://twitter.com/search?q=La+Polic%c3%ada) | N/A |
+| 43 | [M. Rajoy](http://twitter.com/search?q=M.+Rajoy) | N/A |
+| 44 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
+| 45 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 46 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
+| 47 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 | 48 | [#ElCazador695](http://twitter.com/search?q=%23ElCazador695) | N/A |
 | 49 | [#Pasapalabra739](http://twitter.com/search?q=%23Pasapalabra739) | N/A |
 | 50 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |

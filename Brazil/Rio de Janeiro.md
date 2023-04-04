@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-04 20:16:39 UTC`
+📆 Last Updated: `2023-04-04 21:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Peixe](http://twitter.com/search?q=Peixe) | N/A |
-| 2 | [Tino Júnior](http://twitter.com/search?q=Tino+J%c3%banior) | N/A |
-| 3 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 4 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 5 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 6 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 7 | [Supervia](http://twitter.com/search?q=Supervia) | N/A |
-| 8 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 9 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 15 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 16 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
-| 17 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 18 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 19 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 20 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 21 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 22 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 23 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 25 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
-| 26 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 27 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 28 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 29 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
-| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 31 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 33 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 34 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
-| 35 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 36 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
-| 37 | [Vila Aliança](http://twitter.com/search?q=Vila+Alian%c3%a7a) | N/A |
-| 38 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
-| 39 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 40 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 43 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 45 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
-| 46 | [AFEMINADO E FEIO](http://twitter.com/search?q=AFEMINADO+E+FEIO) | N/A |
-| 47 | [Bets](http://twitter.com/search?q=Bets) | N/A |
-| 48 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 49 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
-| 50 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 1 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
+| 2 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 3 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 4 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 9 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 10 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 11 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 12 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 13 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 14 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 15 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 18 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
+| 21 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 22 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 23 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
+| 24 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 26 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 28 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
+| 29 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 30 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 31 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 33 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
+| 34 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Copa da Alemanha](http://twitter.com/search?q=Copa+da+Alemanha) | N/A |
+| 37 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 38 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 39 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
+| 40 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 41 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 42 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 43 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 44 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 45 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 46 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 47 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 48 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
+| 49 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
+| 50 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-04-04 20:16:49 UTC`
+📆 Last Updated: `2023-04-04 21:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 8 | [Windah](http://twitter.com/search?q=Windah) | N/A |
 | 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 10 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 11 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
-| 12 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
-| 13 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 14 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 11 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 12 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
+| 13 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
+| 14 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 15 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
 | 16 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 17 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 19 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 21 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
-| 22 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 23 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 24 | [number one in my heart](http://twitter.com/search?q=number+one+in+my+heart) | N/A |
-| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 26 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
-| 27 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 30 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
-| 31 | [Begal](http://twitter.com/search?q=Begal) | N/A |
-| 32 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 33 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
-| 34 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
-| 35 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 36 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
-| 37 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 19 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 23 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
+| 24 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 25 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
+| 26 | [number one in my heart](http://twitter.com/search?q=number+one+in+my+heart) | N/A |
+| 27 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 28 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
+| 29 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 30 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
+| 31 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 32 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
+| 33 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 34 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 35 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
+| 36 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 37 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
 | 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 39 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 40 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 41 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 42 | [khilafah menyatukan kita](http://twitter.com/search?q=khilafah+menyatukan+kita) | N/A |
-| 43 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |
-| 44 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 45 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 46 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
-| 47 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 49 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 39 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 40 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 42 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 43 | [khilafah menyatukan kita](http://twitter.com/search?q=khilafah+menyatukan+kita) | N/A |
+| 44 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |
+| 45 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 46 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 47 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
+| 48 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 49 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 
 
 

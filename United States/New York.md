@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-04 20:17:12 UTC`
+📆 Last Updated: `2023-04-04 21:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 1 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 4 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 5 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 6 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 4 | [Welcome to NY](http://twitter.com/search?q=Welcome+to+NY) | N/A |
+| 5 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 6 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
 | 7 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 8 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
-| 9 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 10 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 11 | [NYers](http://twitter.com/search?q=NYers) | N/A |
-| 12 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 8 | [NYers](http://twitter.com/search?q=NYers) | N/A |
+| 9 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
+| 10 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 11 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 12 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
 | 13 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 14 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 15 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 16 | [Mayor Adams](http://twitter.com/search?q=Mayor+Adams) | N/A |
-| 17 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 18 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 21 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 23 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 25 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 26 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 27 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 28 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 29 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 30 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 33 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 34 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 35 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 37 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 38 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 39 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 40 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 41 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 42 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 43 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 44 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 45 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
-| 46 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 47 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 48 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 49 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 50 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 14 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 15 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 16 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 19 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 20 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 21 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 22 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 24 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 26 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 27 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 28 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 29 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 30 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 31 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 32 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 33 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 34 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 36 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 37 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 38 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
+| 39 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 40 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 41 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 42 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 43 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
+| 44 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 45 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
+| 46 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 47 | [UNDER ARREST](http://twitter.com/search?q=UNDER+ARREST) | N/A |
+| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 50 | [Pretty Lights](http://twitter.com/search?q=Pretty+Lights) | N/A |
 
 
 
