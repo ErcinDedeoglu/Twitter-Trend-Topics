@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-04 01:44:30 UTC`
+📆 Last Updated: `2023-04-04 02:30:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [France](</France>)
 | 13 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
 | 14 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 15 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 16 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 17 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 16 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 17 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
 | 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
 | 20 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 21 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 22 | [Delga](http://twitter.com/search?q=Delga) | N/A |
 | 23 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
 | 24 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
 | 25 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 26 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 27 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 26 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 27 | [Faure](http://twitter.com/search?q=Faure) | N/A |
 | 28 | [paralympique](http://twitter.com/search?q=paralympique) | N/A |
 | 29 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
 | 30 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
 | 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 32 | [dupraz](http://twitter.com/search?q=dupraz) | N/A |
 | 33 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 35 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 36 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 37 | [letexier](http://twitter.com/search?q=letexier) | N/A |
-| 38 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
-| 39 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 40 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
-| 41 | [Tipeee](http://twitter.com/search?q=Tipeee) | N/A |
-| 42 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 43 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 44 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 45 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 46 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 47 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 48 | [Soda](http://twitter.com/search?q=Soda) | N/A |
-| 49 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 34 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 35 | [rameaux](http://twitter.com/search?q=rameaux) | N/A |
+| 36 | [letexier](http://twitter.com/search?q=letexier) | N/A |
+| 37 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
+| 38 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 39 | [tipeee](http://twitter.com/search?q=tipeee) | N/A |
+| 40 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 41 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 42 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
+| 43 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 44 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 45 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 46 | [Soda](http://twitter.com/search?q=Soda) | N/A |
+| 47 | [poussin](http://twitter.com/search?q=poussin) | N/A |
+| 48 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 49 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 
 
 

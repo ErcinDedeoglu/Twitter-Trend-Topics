@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-04 01:45:19 UTC`
+📆 Last Updated: `2023-04-04 02:31:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 2 | [#HeartBridge](http://twitter.com/search?q=%23HeartBridge) | N/A |
+| 2 | [#heartbridge](http://twitter.com/search?q=%23heartbridge) | N/A |
 | 3 | [somijā](http://twitter.com/search?q=somij%c4%81) | N/A |
 | 4 | [latviju](http://twitter.com/search?q=latviju) | N/A |
 | 5 | [latviju](http://twitter.com/search?q=latviju) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for Latvia
 | 13 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
 | 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 16 | [riga](http://twitter.com/search?q=riga) | N/A |
 | 17 | [psrs](http://twitter.com/search?q=psrs) | N/A |
 | 18 | [ano drošības](http://twitter.com/search?q=ano+dro%c5%a1%c4%abbas) | N/A |
 | 19 | [prieks](http://twitter.com/search?q=prieks) | N/A |

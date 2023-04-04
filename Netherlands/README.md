@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-04 01:45:20 UTC`
+📆 Last Updated: `2023-04-04 02:31:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Netherlands
 | ------- | ------------ | ------------ |
 | 1 | [#SPAFEY](http://twitter.com/search?q=%23SPAFEY) | N/A |
 | 2 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 3 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 4 | [#hmmik](http://twitter.com/search?q=%23hmmik) | N/A |
+| 3 | [#hmmik](http://twitter.com/search?q=%23hmmik) | N/A |
+| 4 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 6 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
 | 7 | [#gaeaja](http://twitter.com/search?q=%23gaeaja) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Netherlands
 | 16 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 | 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 18 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [IJsselmeer](http://twitter.com/search?q=IJsselmeer) | N/A |
-| 21 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
-| 22 | [geert dales](http://twitter.com/search?q=geert+dales) | N/A |
-| 23 | [john s.](http://twitter.com/search?q=john+s.) | N/A |
-| 24 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 25 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 26 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
-| 27 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 28 | [Almere City](http://twitter.com/search?q=Almere+City) | N/A |
-| 29 | [Lukas](http://twitter.com/search?q=Lukas) | N/A |
-| 30 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
-| 31 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 32 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
-| 33 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 34 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 35 | [Taurus](http://twitter.com/search?q=Taurus) | N/A |
-| 36 | [oosting](http://twitter.com/search?q=oosting) | N/A |
-| 37 | [henk kamp](http://twitter.com/search?q=henk+kamp) | N/A |
-| 38 | [Roda JC](http://twitter.com/search?q=Roda+JC) | N/A |
+| 19 | [ijsselmeer](http://twitter.com/search?q=ijsselmeer) | N/A |
+| 20 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
+| 21 | [geert dales](http://twitter.com/search?q=geert+dales) | N/A |
+| 22 | [john s.](http://twitter.com/search?q=john+s.) | N/A |
+| 23 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 24 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 25 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
+| 26 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 27 | [Almere City](http://twitter.com/search?q=Almere+City) | N/A |
+| 28 | [Lukas](http://twitter.com/search?q=Lukas) | N/A |
+| 29 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
+| 30 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 31 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
+| 32 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 33 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 34 | [Taurus](http://twitter.com/search?q=Taurus) | N/A |
+| 35 | [oosting](http://twitter.com/search?q=oosting) | N/A |
+| 36 | [henk kamp](http://twitter.com/search?q=henk+kamp) | N/A |
+| 37 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 39 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 41 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 42 | [rai vloet](http://twitter.com/search?q=rai+vloet) | N/A |
-| 43 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 44 | [Finse](http://twitter.com/search?q=Finse) | N/A |
-| 45 | [pechtold](http://twitter.com/search?q=pechtold) | N/A |
-| 46 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [Datacenters](http://twitter.com/search?q=Datacenters) | N/A |
-| 49 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 50 | [ZZP'er](http://twitter.com/search?q=ZZP%27er) | N/A |
+| 41 | [rai vloet](http://twitter.com/search?q=rai+vloet) | N/A |
+| 42 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 43 | [Finse](http://twitter.com/search?q=Finse) | N/A |
+| 44 | [pechtold](http://twitter.com/search?q=pechtold) | N/A |
+| 45 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 46 | [datacenters](http://twitter.com/search?q=datacenters) | N/A |
+| 47 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 48 | [ZZP'er](http://twitter.com/search?q=ZZP%27er) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 
 
 

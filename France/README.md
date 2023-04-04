@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-04 01:45:17 UTC`
+📆 Last Updated: `2023-04-04 02:31:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for France
 | 14 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
 | 15 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
 | 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 17 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 18 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 17 | [Utip](http://twitter.com/search?q=Utip) | N/A |
+| 18 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
 | 19 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
 | 21 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 22 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 23 | [Delga](http://twitter.com/search?q=Delga) | N/A |
-| 24 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 25 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 24 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 25 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
 | 26 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 27 | [Faure](http://twitter.com/search?q=Faure) | N/A |
-| 28 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 27 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 28 | [Faure](http://twitter.com/search?q=Faure) | N/A |
 | 29 | [paralympique](http://twitter.com/search?q=paralympique) | N/A |
 | 30 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
 | 31 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
 | 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 33 | [dupraz](http://twitter.com/search?q=dupraz) | N/A |
 | 34 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 37 | [Rameaux](http://twitter.com/search?q=Rameaux) | N/A |
-| 38 | [letexier](http://twitter.com/search?q=letexier) | N/A |
-| 39 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
-| 40 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 41 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
-| 42 | [Tipeee](http://twitter.com/search?q=Tipeee) | N/A |
-| 43 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 44 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 45 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 46 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 47 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 49 | [Soda](http://twitter.com/search?q=Soda) | N/A |
-| 50 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 35 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 36 | [rameaux](http://twitter.com/search?q=rameaux) | N/A |
+| 37 | [letexier](http://twitter.com/search?q=letexier) | N/A |
+| 38 | [Bboy](http://twitter.com/search?q=Bboy) | N/A |
+| 39 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 40 | [tipeee](http://twitter.com/search?q=tipeee) | N/A |
+| 41 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 42 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
+| 43 | [Bompard](http://twitter.com/search?q=Bompard) | N/A |
+| 44 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 45 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 47 | [Soda](http://twitter.com/search?q=Soda) | N/A |
+| 48 | [poussin](http://twitter.com/search?q=poussin) | N/A |
+| 49 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 50 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-04 01:45:15 UTC`
+📆 Last Updated: `2023-04-04 02:31:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RVV2023](http://twitter.com/search?q=%23RVV2023) | N/A |
+| 1 | [#rvv2023](http://twitter.com/search?q=%23rvv2023) | N/A |
 | 2 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
 | 3 | [#RVV23](http://twitter.com/search?q=%23RVV23) | N/A |
 | 4 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
 | 5 | [#kvmclu](http://twitter.com/search?q=%23kvmclu) | N/A |
 | 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 7 | [Jong Groen](http://twitter.com/search?q=Jong+Groen) | N/A |
+| 7 | [jong groen](http://twitter.com/search?q=jong+groen) | N/A |
 | 8 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
 | 9 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 10 | [Wuyts](http://twitter.com/search?q=Wuyts) | N/A |
+| 10 | [wuyts](http://twitter.com/search?q=wuyts) | N/A |
 | 11 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
 | 12 | [toos](http://twitter.com/search?q=toos) | N/A |
-| 13 | [Van Peel](http://twitter.com/search?q=Van+Peel) | N/A |
+| 13 | [van peel](http://twitter.com/search?q=van+peel) | N/A |
 | 14 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
 | 15 | [fluvius](http://twitter.com/search?q=fluvius) | N/A |
 | 16 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
@@ -41,10 +41,10 @@ This is top 50 for Belgium
 | 24 | [Kwaremont](http://twitter.com/search?q=Kwaremont) | N/A |
 | 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 26 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 27 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
+| 27 | [paris-roubaix](http://twitter.com/search?q=paris-roubaix) | N/A |
 | 28 | [ristou](http://twitter.com/search?q=ristou) | N/A |
 | 29 | [Utip](http://twitter.com/search?q=Utip) | N/A |
-| 30 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 30 | [pedersen](http://twitter.com/search?q=pedersen) | N/A |
 | 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 32 | [Westmalle](http://twitter.com/search?q=Westmalle) | N/A |
 | 33 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for Belgium
 | 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 43 | [Poisson](http://twitter.com/search?q=Poisson) | N/A |
 | 44 | [Unia](http://twitter.com/search?q=Unia) | N/A |
-| 45 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 45 | [zuhal](http://twitter.com/search?q=zuhal) | N/A |
 | 46 | [in belgië](http://twitter.com/search?q=in+belgi%c3%ab) | N/A |
 | 47 | [League](http://twitter.com/search?q=League) | N/A |
 | 48 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |

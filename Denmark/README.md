@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-04 01:45:16 UTC`
+📆 Last Updated: `2023-04-04 02:31:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Denmark
 | 2 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
 | 3 | [#achaab](http://twitter.com/search?q=%23achaab) | N/A |
 | 4 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 5 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 5 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 6 | [#bifvff](http://twitter.com/search?q=%23bifvff) | N/A |
 | 7 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
 | 8 | [kehlet](http://twitter.com/search?q=kehlet) | N/A |
@@ -30,19 +30,19 @@ This is top 50 for Denmark
 | 13 | [bidstrup](http://twitter.com/search?q=bidstrup) | N/A |
 | 14 | [vallys](http://twitter.com/search?q=vallys) | N/A |
 | 15 | [Rado](http://twitter.com/search?q=Rado) | N/A |
-| 16 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 18 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
-| 19 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 22 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 23 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [delac](http://twitter.com/search?q=delac) | N/A |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [England](http://twitter.com/search?q=England) | N/A |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
+| 18 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 21 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 22 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 23 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
+| 24 | [delac](http://twitter.com/search?q=delac) | N/A |
+| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 27 | [England](http://twitter.com/search?q=England) | N/A |
+| 28 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 29 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 30 | [schwartau](http://twitter.com/search?q=schwartau) | N/A |
 | 31 | [Clem](http://twitter.com/search?q=Clem) | N/A |

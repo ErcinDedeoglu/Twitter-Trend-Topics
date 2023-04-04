@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-04 01:44:37 UTC`
+📆 Last Updated: `2023-04-04 02:30:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,30 +15,30 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 1 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 3 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
 | 4 | [Sackmesser](http://twitter.com/search?q=Sackmesser) | N/A |
 | 5 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 6 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 7 | [#ProtectInvestTogether](http://twitter.com/search?q=%23ProtectInvestTogether) | N/A |
 | 8 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 9 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 10 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 11 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 12 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 13 | [special rapporteur](http://twitter.com/search?q=special+rapporteur) | N/A |
-| 14 | [morddrohung](http://twitter.com/search?q=morddrohung) | N/A |
-| 15 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 16 | [genf](http://twitter.com/search?q=genf) | N/A |
-| 17 | [gran consiglio](http://twitter.com/search?q=gran+consiglio) | N/A |
-| 18 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 19 | [Human Resources for Health](http://twitter.com/search?q=Human+Resources+for+Health) | N/A |
-| 20 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 21 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 22 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 23 | [5th global forum](http://twitter.com/search?q=5th+global+forum) | N/A |
-| 24 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 9 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 10 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 11 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 12 | [special rapporteur](http://twitter.com/search?q=special+rapporteur) | N/A |
+| 13 | [morddrohung](http://twitter.com/search?q=morddrohung) | N/A |
+| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 15 | [genf](http://twitter.com/search?q=genf) | N/A |
+| 16 | [gran consiglio](http://twitter.com/search?q=gran+consiglio) | N/A |
+| 17 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 18 | [Human Resources for Health](http://twitter.com/search?q=Human+Resources+for+Health) | N/A |
+| 19 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 20 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 21 | [5th global forum](http://twitter.com/search?q=5th+global+forum) | N/A |
+| 22 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 23 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 24 | [America](http://twitter.com/search?q=America) | N/A |
 | 25 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 26 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
 | 27 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 45 | [Busse](http://twitter.com/search?q=Busse) | N/A |
+| 45 | [busse](http://twitter.com/search?q=busse) | N/A |
 | 46 | [Tagesschau](http://twitter.com/search?q=Tagesschau) | N/A |
 | 47 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 48 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |

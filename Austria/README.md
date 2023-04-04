@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-04 01:45:15 UTC`
+📆 Last Updated: `2023-04-04 02:31:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,18 +41,18 @@ This is top 50 for Austria
 | 24 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
 | 25 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
 | 26 | [Karwoche](http://twitter.com/search?q=Karwoche) | N/A |
-| 27 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 27 | [bedingungen](http://twitter.com/search?q=bedingungen) | N/A |
 | 28 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
 | 29 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 30 | [Haft](http://twitter.com/search?q=Haft) | N/A |
 | 31 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
 | 32 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 33 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
-| 34 | [gesetzen](http://twitter.com/search?q=gesetzen) | N/A |
+| 33 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |
+| 34 | [Gesetzen](http://twitter.com/search?q=Gesetzen) | N/A |
 | 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 36 | [gockel](http://twitter.com/search?q=gockel) | N/A |
 | 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 38 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
+| 38 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
 | 39 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
 | 40 | [Armut](http://twitter.com/search?q=Armut) | N/A |
 | 41 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Austria
 | 47 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
 | 48 | [Zusammenhänge](http://twitter.com/search?q=Zusammenh%c3%a4nge) | N/A |
 | 49 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 50 | [Blender](http://twitter.com/search?q=Blender) | N/A |
+| 50 | [Flucht](http://twitter.com/search?q=Flucht) | N/A |
 
 
 

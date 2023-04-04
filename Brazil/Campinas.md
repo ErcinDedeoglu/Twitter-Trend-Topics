@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-04 01:44:27 UTC`
+📆 Last Updated: `2023-04-04 02:30:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ricardo Nunes](http://twitter.com/search?q=Ricardo+Nunes) | N/A |
-| 2 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
-| 3 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 4 | [#FicaLari](http://twitter.com/search?q=%23FicaLari) | N/A |
-| 5 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 6 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 7 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 8 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 1 | [#AmparemAposentados](http://twitter.com/search?q=%23AmparemAposentados) | N/A |
+| 2 | [Ricardo Nunes](http://twitter.com/search?q=Ricardo+Nunes) | N/A |
+| 3 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 4 | [Touro](http://twitter.com/search?q=Touro) | N/A |
+| 5 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 8 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
 | 9 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 10 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 11 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 12 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 13 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 14 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 15 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 16 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 17 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 18 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 19 | [ÁLBUM DA IZA](http://twitter.com/search?q=%c3%81LBUM+DA+IZA) | N/A |
+| 10 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 11 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 12 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 13 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 16 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 17 | [#BrasileiraoMusical](http://twitter.com/search?q=%23BrasileiraoMusical) | N/A |
+| 18 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 19 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 20 | [Léo Silva](http://twitter.com/search?q=L%c3%a9o+Silva) | N/A |
-| 21 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 22 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 23 | [Marotos](http://twitter.com/search?q=Marotos) | N/A |
-| 24 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
-| 25 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 26 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
-| 27 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 28 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 29 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 30 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
-| 31 | [Cabelinho](http://twitter.com/search?q=Cabelinho) | N/A |
-| 32 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 33 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 34 | [Parabéns Divino](http://twitter.com/search?q=Parab%c3%a9ns+Divino) | N/A |
-| 35 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 36 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 37 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
-| 38 | [Babal](http://twitter.com/search?q=Babal) | Babal is a Yoruba word meaning “father” or “ancestor”. It is used as a term of respect and reverence for an elder or ancestor. |
-| 39 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 40 | [Reboot](http://twitter.com/search?q=Reboot) | N/A |
-| 41 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 42 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 44 | [Maui](http://twitter.com/search?q=Maui) | N/A |
-| 45 | [Rayan](http://twitter.com/search?q=Rayan) | N/A |
-| 46 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 47 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 48 | [Tupi](http://twitter.com/search?q=Tupi) | N/A |
-| 49 | [Balerion](http://twitter.com/search?q=Balerion) | N/A |
+| 21 | [OUÇA NIKE AIR](http://twitter.com/search?q=OU%c3%87A+NIKE+AIR) | N/A |
+| 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 23 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 24 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 25 | [ÁLBUM DA IZA](http://twitter.com/search?q=%c3%81LBUM+DA+IZA) | N/A |
+| 26 | [Marotos](http://twitter.com/search?q=Marotos) | N/A |
+| 27 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 28 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 29 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
+| 30 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 31 | [Unicamp](http://twitter.com/search?q=Unicamp) | N/A |
+| 32 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 33 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 34 | [Animais Fantásticos](http://twitter.com/search?q=Animais+Fant%c3%a1sticos) | N/A |
+| 35 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 36 | [Rayan](http://twitter.com/search?q=Rayan) | N/A |
+| 37 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 38 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 39 | [Parabéns Divino](http://twitter.com/search?q=Parab%c3%a9ns+Divino) | N/A |
+| 40 | [Cabelinho](http://twitter.com/search?q=Cabelinho) | N/A |
+| 41 | [Reboot](http://twitter.com/search?q=Reboot) | N/A |
+| 42 | [Essa Aline](http://twitter.com/search?q=Essa+Aline) | N/A |
+| 43 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
+| 44 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 45 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 46 | [Babal](http://twitter.com/search?q=Babal) | Babal is a Yoruba word meaning “father” or “ancestor”. It is used as a term of respect and reverence for an elder or ancestor. |
+| 47 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
+| 48 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 49 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 50 | [NGB News](http://twitter.com/search?q=NGB+News) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-04 01:45:03 UTC`
+📆 Last Updated: `2023-04-04 02:31:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
-| 2 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 3 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
-| 4 | [#4Nisan1997](http://twitter.com/search?q=%234Nisan1997) | N/A |
-| 5 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
-| 6 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
-| 7 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 8 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
+| 1 | [#AlparslanTürkeş](http://twitter.com/search?q=%23AlparslanT%c3%bcrke%c5%9f) | N/A |
+| 2 | [#4Nisan1997](http://twitter.com/search?q=%234Nisan1997) | N/A |
+| 3 | [#StajyerUmutlu](http://twitter.com/search?q=%23StajyerUmutlu) | N/A |
+| 4 | [#MalatyalılarGünü](http://twitter.com/search?q=%23Malatyal%c4%b1larG%c3%bcn%c3%bc) | N/A |
+| 5 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 6 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
+| 7 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
+| 8 | [Soldaki](http://twitter.com/search?q=Soldaki) | N/A |
 | 9 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 10 | [Seyranlarİçin Susmadık](http://twitter.com/search?q=Seyranlar%c4%b0%c3%a7in+Susmad%c4%b1k) | N/A |
-| 11 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
-| 12 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
-| 13 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 10 | [Kedicik](http://twitter.com/search?q=Kedicik) | N/A |
+| 11 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
+| 12 | [Seyranlarİçin Susmadık](http://twitter.com/search?q=Seyranlar%c4%b0%c3%a7in+Susmad%c4%b1k) | N/A |
+| 13 | [Rahmet](http://twitter.com/search?q=Rahmet) | N/A |
 | 14 | [Soner Yalçın](http://twitter.com/search?q=Soner+Yal%c3%a7%c4%b1n) | N/A |
-| 15 | [Bircan Yıldırım](http://twitter.com/search?q=Bircan+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 16 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 17 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
-| 18 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
-| 19 | [Yargı ÜçüncüSezon](http://twitter.com/search?q=Yarg%c4%b1+%c3%9c%c3%a7%c3%bcnc%c3%bcSezon) | N/A |
-| 20 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 15 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 16 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 17 | [Namus](http://twitter.com/search?q=Namus) | N/A |
+| 18 | [IBAN](http://twitter.com/search?q=IBAN) | N/A |
+| 19 | [Bircan](http://twitter.com/search?q=Bircan) | N/A |
+| 20 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
 | 21 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 22 | [BÜYÜK ALTAY](http://twitter.com/search?q=B%c3%9cY%c3%9cK+ALTAY) | N/A |
-| 23 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 24 | [Özür Dilerim](http://twitter.com/search?q=%c3%96z%c3%bcr+Dilerim) | N/A |
-| 25 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
-| 26 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
+| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 23 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
+| 24 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
+| 25 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 26 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
 | 27 | [Plaka](http://twitter.com/search?q=Plaka) | N/A |
-| 28 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
-| 29 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 30 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 31 | [Milyonlar AFBekliyor](http://twitter.com/search?q=Milyonlar+AFBekliyor) | N/A |
-| 32 | [#MalatyalılarGünü](http://twitter.com/search?q=%23Malatyal%c4%b1larG%c3%bcn%c3%bc) | N/A |
-| 33 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
-| 34 | [#OyumStaja](http://twitter.com/search?q=%23OyumStaja) | N/A |
-| 35 | [#LaleOrtaSporGecesineGel](http://twitter.com/search?q=%23LaleOrtaSporGecesineGel) | N/A |
-| 36 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
-| 37 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 38 | [#KHKlarİptalEdilecek](http://twitter.com/search?q=%23KHKlar%c4%b0ptalEdilecek) | N/A |
-| 39 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
-| 40 | [#AliBabacan](http://twitter.com/search?q=%23AliBabacan) | N/A |
-| 41 | [#mandalradyo](http://twitter.com/search?q=%23mandalradyo) | N/A |
-| 42 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
-| 43 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
-| 44 | [#Madde46YarımKaldı](http://twitter.com/search?q=%23Madde46Yar%c4%b1mKald%c4%b1) | N/A |
-| 45 | [#ChpBilalBozgeyik](http://twitter.com/search?q=%23ChpBilalBozgeyik) | N/A |
-| 46 | [#ÇalışanTürkiyeninSesi](http://twitter.com/search?q=%23%c3%87al%c4%b1%c5%9fanT%c3%bcrkiyeninSesi) | N/A |
-| 47 | [#foxhaber](http://twitter.com/search?q=%23foxhaber) | N/A |
-| 48 | [#yasakelma](http://twitter.com/search?q=%23yasakelma) | N/A |
-| 49 | [#MilletinAdamı](http://twitter.com/search?q=%23MilletinAdam%c4%b1) | N/A |
-| 50 | [#SonSözBenim](http://twitter.com/search?q=%23SonS%c3%b6zBenim) | N/A |
+| 28 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 29 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
+| 30 | [#EmekliBayKemalDiyor](http://twitter.com/search?q=%23EmekliBayKemalDiyor) | N/A |
+| 31 | [#OyumStaja](http://twitter.com/search?q=%23OyumStaja) | N/A |
+| 32 | [#LaleOrtaSporGecesineGel](http://twitter.com/search?q=%23LaleOrtaSporGecesineGel) | N/A |
+| 33 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 34 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
+| 35 | [#KHKlarİptalEdilecek](http://twitter.com/search?q=%23KHKlar%c4%b0ptalEdilecek) | N/A |
+| 36 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
+| 37 | [#mandalradyo](http://twitter.com/search?q=%23mandalradyo) | N/A |
+| 38 | [#AliBabacan](http://twitter.com/search?q=%23AliBabacan) | N/A |
+| 39 | [#UmudumuzBayKemal](http://twitter.com/search?q=%23UmudumuzBayKemal) | N/A |
+| 40 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
+| 41 | [#ÇalışanTürkiyeninSesi](http://twitter.com/search?q=%23%c3%87al%c4%b1%c5%9fanT%c3%bcrkiyeninSesi) | N/A |
+| 42 | [#foxhaber](http://twitter.com/search?q=%23foxhaber) | N/A |
+| 43 | [#Madde46YarımKaldı](http://twitter.com/search?q=%23Madde46Yar%c4%b1mKald%c4%b1) | N/A |
+| 44 | [#yasakelma](http://twitter.com/search?q=%23yasakelma) | N/A |
 
 
 

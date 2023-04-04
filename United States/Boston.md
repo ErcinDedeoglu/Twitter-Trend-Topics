@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-04 01:45:05 UTC`
+📆 Last Updated: `2023-04-04 02:31:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 2 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 3 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 1 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 2 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 3 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
 | 4 | [#DirtyWater](http://twitter.com/search?q=%23DirtyWater) | N/A |
-| 5 | [Adam Duvall](http://twitter.com/search?q=Adam+Duvall) | N/A |
-| 6 | [The Red Sox](http://twitter.com/search?q=The+Red+Sox) | N/A |
-| 7 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 5 | [The Red Sox](http://twitter.com/search?q=The+Red+Sox) | N/A |
+| 6 | [Adam Duvall](http://twitter.com/search?q=Adam+Duvall) | N/A |
+| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 8 | [#rawaftermania](http://twitter.com/search?q=%23rawaftermania) | N/A |
-| 9 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 11 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 13 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
-| 14 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 15 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 16 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
-| 17 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 18 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 19 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 20 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 21 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 24 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 25 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 26 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 27 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 28 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 29 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
-| 30 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
-| 31 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 32 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 33 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 34 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 35 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 36 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 37 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 38 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
-| 39 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
-| 40 | [Josh Smith](http://twitter.com/search?q=Josh+Smith) | N/A |
-| 41 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
-| 42 | [Track 8](http://twitter.com/search?q=Track+8) | N/A |
-| 43 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 44 | [Nick Anderson](http://twitter.com/search?q=Nick+Anderson) | N/A |
-| 45 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 46 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 47 | [Bradish](http://twitter.com/search?q=Bradish) | N/A |
-| 48 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 49 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [#NationalChampionship](http://twitter.com/search?q=%23NationalChampionship) | #NationalChampionship is a hashtag used to refer to the championship game of a major sport in the United States. It is typically used to refer to the championship game of college football, but can also be used for other sports such as basketball, baseball, and hockey. The meaning of this hashtag is that it refers to the final game of a season in which the winner will be crowned as the national champion. |
+| 11 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 14 | [#NCAAChampionship](http://twitter.com/search?q=%23NCAAChampionship) | N/A |
+| 15 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
+| 16 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 17 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 18 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 19 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 20 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 21 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 22 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 23 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
+| 24 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 25 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 26 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 27 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 28 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 29 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 30 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 31 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 32 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 33 | [Riley Greene](http://twitter.com/search?q=Riley+Greene) | N/A |
+| 34 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 35 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 36 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
+| 37 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 38 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 39 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 40 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 41 | [Newton](http://twitter.com/search?q=Newton) | N/A |
+| 42 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
+| 43 | [Clingan](http://twitter.com/search?q=Clingan) | N/A |
+| 44 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 45 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 46 | [Nick Anderson](http://twitter.com/search?q=Nick+Anderson) | N/A |
+| 47 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 48 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 49 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 50 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
 
 
 

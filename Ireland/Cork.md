@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-04 01:44:30 UTC`
+📆 Last Updated: `2023-04-04 02:30:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 3 | [Fionnan Sheahan](http://twitter.com/search?q=Fionnan+Sheahan) | N/A |
 | 4 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
 | 5 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
-| 6 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 7 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
 | 8 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
 | 9 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
@@ -28,26 +28,26 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 12 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
 | 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 16 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
+| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 15 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
+| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 19 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 20 | [Peter McVerry](http://twitter.com/search?q=Peter+McVerry) | N/A |
-| 21 | [Milk](http://twitter.com/search?q=Milk) | N/A |
-| 22 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 23 | [Reape](http://twitter.com/search?q=Reape) | N/A |
-| 24 | [Eoin](http://twitter.com/search?q=Eoin) | N/A |
-| 25 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 26 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 31 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 32 | [AGSI](http://twitter.com/search?q=AGSI) | N/A |
-| 33 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 18 | [Peter McVerry](http://twitter.com/search?q=Peter+McVerry) | N/A |
+| 19 | [Milk](http://twitter.com/search?q=Milk) | N/A |
+| 20 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 21 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 22 | [reape](http://twitter.com/search?q=reape) | N/A |
+| 23 | [Eoin](http://twitter.com/search?q=Eoin) | N/A |
+| 24 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 25 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 26 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 30 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 31 | [AGSI](http://twitter.com/search?q=AGSI) | N/A |
+| 32 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 33 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 34 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
 | 35 | [Simon Harris](http://twitter.com/search?q=Simon+Harris) | N/A |
 | 36 | [Patrick O'Donovan](http://twitter.com/search?q=Patrick+O%27Donovan) | N/A |

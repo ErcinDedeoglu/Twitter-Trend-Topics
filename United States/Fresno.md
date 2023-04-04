@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-04 01:45:07 UTC`
+📆 Last Updated: `2023-04-04 02:31:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
-| 2 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
-| 3 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 4 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 5 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 1 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 2 | [Heklina](http://twitter.com/search?q=Heklina) | N/A |
+| 3 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
+| 4 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 5 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 | 6 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
-| 7 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 8 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 9 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
-| 10 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 12 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 13 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 14 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 15 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 16 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 17 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 18 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 19 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
-| 20 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 23 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 25 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
-| 26 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 7 | [#PresidentFraud](http://twitter.com/search?q=%23PresidentFraud) | N/A |
+| 8 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 9 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 10 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 11 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 12 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 13 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 14 | [Anthony Rendon](http://twitter.com/search?q=Anthony+Rendon) | N/A |
+| 15 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 16 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 17 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 18 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
+| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 20 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 22 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 23 | [#TrumpMugShot](http://twitter.com/search?q=%23TrumpMugShot) | N/A |
+| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 25 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
 | 28 | [34 FELONIES](http://twitter.com/search?q=34+FELONIES) | N/A |
-| 29 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 30 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
-| 31 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 32 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 33 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 34 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 35 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 36 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 37 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 38 | [Woodford](http://twitter.com/search?q=Woodford) | N/A |
-| 39 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
-| 40 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 42 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 43 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 44 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 45 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 47 | [Brandon Marsh](http://twitter.com/search?q=Brandon+Marsh) | N/A |
-| 48 | [Heat 2](http://twitter.com/search?q=Heat+2) | N/A |
-| 49 | [Josh Smith](http://twitter.com/search?q=Josh+Smith) | N/A |
-| 50 | [Kutter Crawford](http://twitter.com/search?q=Kutter+Crawford) | N/A |
+| 29 | [Plesac](http://twitter.com/search?q=Plesac) | N/A |
+| 30 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 31 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 32 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 33 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 34 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 35 | [David Ross](http://twitter.com/search?q=David+Ross) | N/A |
+| 36 | [Tyler Wells](http://twitter.com/search?q=Tyler+Wells) | N/A |
+| 37 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 38 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 39 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 41 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 42 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 43 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 44 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 45 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 46 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 47 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 48 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 49 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 50 | [Roy McGrath](http://twitter.com/search?q=Roy+McGrath) | N/A |
 
 
 
