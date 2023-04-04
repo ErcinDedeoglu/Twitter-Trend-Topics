@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-04 07:17:42 UTC`
+📆 Last Updated: `2023-04-04 08:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 2 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
-| 3 | [GoDigital Na Robisearch](http://twitter.com/search?q=GoDigital+Na+Robisearch) | N/A |
-| 4 | [Embu MegaBusiness Expo](http://twitter.com/search?q=Embu+MegaBusiness+Expo) | N/A |
-| 5 | [#SPCKeDay2](http://twitter.com/search?q=%23SPCKeDay2) | N/A |
+| 3 | [#MCKContentShowcase2023](http://twitter.com/search?q=%23MCKContentShowcase2023) | N/A |
+| 4 | [GoDigital Na Robisearch](http://twitter.com/search?q=GoDigital+Na+Robisearch) | N/A |
+| 5 | [Embu MegaBusiness Expo](http://twitter.com/search?q=Embu+MegaBusiness+Expo) | N/A |
 | 6 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
 | 7 | [#maandamanomonday](http://twitter.com/search?q=%23maandamanomonday) | N/A |
-| 8 | [#Brekko](http://twitter.com/search?q=%23Brekko) | N/A |
-| 9 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
-| 10 | [SPC Kenya 2023](http://twitter.com/search?q=SPC+Kenya+2023) | N/A |
+| 8 | [#SPCKeDay2](http://twitter.com/search?q=%23SPCKeDay2) | N/A |
+| 9 | [SPC Kenya 2023](http://twitter.com/search?q=SPC+Kenya+2023) | N/A |
+| 10 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 11 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 12 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 14 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
-| 15 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Dj Brownskin](http://twitter.com/search?q=Dj+Brownskin) | N/A |
-| 19 | [Eric omondi](http://twitter.com/search?q=Eric+omondi) | N/A |
+| 12 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
+| 13 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
+| 16 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
+| 17 | [DJ Brownskin](http://twitter.com/search?q=DJ+Brownskin) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 20 | [Tubonge Tuesday](http://twitter.com/search?q=Tubonge+Tuesday) | N/A |
-| 21 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 22 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 23 | [Easy Coach](http://twitter.com/search?q=Easy+Coach) | N/A |
-| 24 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
-| 25 | [Meru](http://twitter.com/search?q=Meru) | N/A |
-| 26 | [Cherera 4](http://twitter.com/search?q=Cherera+4) | N/A |
-| 27 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 28 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
-| 29 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 30 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 31 | [social protection conf](http://twitter.com/search?q=social+protection+conf) | N/A |
-| 32 | [Rapture](http://twitter.com/search?q=Rapture) | N/A |
-| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 34 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 35 | [HAPPY NEW WEEK](http://twitter.com/search?q=HAPPY+NEW+WEEK) | N/A |
-| 36 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
-| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 40 | [3rd regional symposium](http://twitter.com/search?q=3rd+regional+symposium) | N/A |
-| 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 43 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 45 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 46 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 48 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 49 | [nusu](http://twitter.com/search?q=nusu) | N/A |
-| 50 | [Lord Jesus Christ](http://twitter.com/search?q=Lord+Jesus+Christ) | N/A |
+| 21 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 23 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 24 | [Cherera 4](http://twitter.com/search?q=Cherera+4) | N/A |
+| 25 | [Easy Coach](http://twitter.com/search?q=Easy+Coach) | N/A |
+| 26 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 27 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 28 | [social protection conf](http://twitter.com/search?q=social+protection+conf) | N/A |
+| 29 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
+| 30 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 31 | [HAPPY NEW WEEK](http://twitter.com/search?q=HAPPY+NEW+WEEK) | N/A |
+| 32 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 33 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 34 | [Rapture](http://twitter.com/search?q=Rapture) | N/A |
+| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 36 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 38 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 39 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Haji](http://twitter.com/search?q=Haji) | N/A |
+| 42 | [3rd regional symposium](http://twitter.com/search?q=3rd+regional+symposium) | N/A |
+| 43 | [Meru](http://twitter.com/search?q=Meru) | N/A |
+| 44 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 45 | [Nanyuki](http://twitter.com/search?q=Nanyuki) | N/A |
+| 46 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
+| 47 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 48 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 49 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 50 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 
 
 

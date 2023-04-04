@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-04 07:17:39 UTC`
+📆 Last Updated: `2023-04-04 08:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Ecuador
 | ------- | ------------ | ------------ |
 | 1 | [#PorteDeArmas](http://twitter.com/search?q=%23PorteDeArmas) | N/A |
 | 2 | [#AzuayDecidió](http://twitter.com/search?q=%23AzuayDecidi%c3%b3) | N/A |
-| 3 | [Andrés Seminario](http://twitter.com/search?q=Andr%c3%a9s+Seminario) | N/A |
+| 3 | [andrés seminario](http://twitter.com/search?q=andr%c3%a9s+seminario) | N/A |
 | 4 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
 | 5 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
 | 6 | [Cherres](http://twitter.com/search?q=Cherres) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Ecuador
 | 15 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 16 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
 | 17 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
-| 18 | [Wilman Terán](http://twitter.com/search?q=Wilman+Ter%c3%a1n) | N/A |
+| 18 | [wilman terán](http://twitter.com/search?q=wilman+ter%c3%a1n) | N/A |
 | 19 | [ana belén cordero](http://twitter.com/search?q=ana+bel%c3%a9n+cordero) | N/A |
 | 20 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
 | 21 | [Santa Isabel](http://twitter.com/search?q=Santa+Isabel) | N/A |
@@ -44,12 +44,12 @@ This is top 50 for Ecuador
 | 27 | [MAR EN PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+PREMIOS+HEAT) | N/A |
 | 28 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 30 | [Acción de Protección](http://twitter.com/search?q=Acci%c3%b3n+de+Protecci%c3%b3n) | N/A |
+| 30 | [acción de protección](http://twitter.com/search?q=acci%c3%b3n+de+protecci%c3%b3n) | N/A |
 | 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 32 | [Pancho](http://twitter.com/search?q=Pancho) | N/A |
 | 33 | [Pedro Granja](http://twitter.com/search?q=Pedro+Granja) | N/A |
 | 34 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 35 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 35 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
 | 36 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 37 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
 | 38 | [Penoso](http://twitter.com/search?q=Penoso) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Ecuador
 | 42 | [espín](http://twitter.com/search?q=esp%c3%adn) | N/A |
 | 43 | [Mamela](http://twitter.com/search?q=Mamela) | N/A |
 | 44 | [parrales](http://twitter.com/search?q=parrales) | N/A |
-| 45 | [María Paz](http://twitter.com/search?q=Mar%c3%ada+Paz) | N/A |
-| 46 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 47 | [Flacso](http://twitter.com/search?q=Flacso) | N/A |
-| 48 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
-| 49 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 50 | [nebot e iza](http://twitter.com/search?q=nebot+e+iza) | N/A |
+| 45 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 46 | [María Paz](http://twitter.com/search?q=Mar%c3%ada+Paz) | N/A |
+| 47 | [flacso](http://twitter.com/search?q=flacso) | N/A |
+| 48 | [micolta](http://twitter.com/search?q=micolta) | N/A |
+| 49 | [nebot e iza](http://twitter.com/search?q=nebot+e+iza) | N/A |
+| 50 | [quinto pazmiño](http://twitter.com/search?q=quinto+pazmi%c3%b1o) | N/A |
 
 
 

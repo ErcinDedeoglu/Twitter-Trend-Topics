@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-04 07:17:41 UTC`
+📆 Last Updated: `2023-04-04 08:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for Guatemala
 | 9 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 10 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
 | 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 12 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 15 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 16 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
@@ -36,35 +36,35 @@ This is top 50 for Guatemala
 | 19 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 21 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 22 | [Anahí Keller](http://twitter.com/search?q=Anah%c3%ad+Keller) | N/A |
+| 22 | [anahí keller](http://twitter.com/search?q=anah%c3%ad+keller) | N/A |
 | 23 | [Flores](http://twitter.com/search?q=Flores) | N/A |
 | 24 | [Palmas](http://twitter.com/search?q=Palmas) | N/A |
 | 25 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
 | 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 27 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 28 | [#ejércitogt](http://twitter.com/search?q=%23ej%c3%a9rcitogt) | N/A |
-| 29 | [san martín jilotepeque](http://twitter.com/search?q=san+mart%c3%adn+jilotepeque) | N/A |
+| 28 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
+| 29 | [#ejércitogt](http://twitter.com/search?q=%23ej%c3%a9rcitogt) | N/A |
 | 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 31 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
-| 32 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
-| 33 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 34 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
-| 35 | [Milagros](http://twitter.com/search?q=Milagros) | N/A |
-| 36 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 37 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
-| 38 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 40 | [Aaah](http://twitter.com/search?q=Aaah) | N/A |
-| 41 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 42 | [rey del universo](http://twitter.com/search?q=rey+del+universo) | N/A |
-| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 44 | [San Miguel Petapa](http://twitter.com/search?q=San+Miguel+Petapa) | N/A |
-| 45 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 46 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
-| 47 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 48 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
-| 49 | [óscar sevilla](http://twitter.com/search?q=%c3%b3scar+sevilla) | N/A |
-| 50 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 31 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
+| 32 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 33 | [Moyo](http://twitter.com/search?q=Moyo) | N/A |
+| 34 | [Milagros](http://twitter.com/search?q=Milagros) | N/A |
+| 35 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 36 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
+| 37 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 38 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 39 | [Aaah](http://twitter.com/search?q=Aaah) | N/A |
+| 40 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 41 | [rey del universo](http://twitter.com/search?q=rey+del+universo) | N/A |
+| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 43 | [San Miguel Petapa](http://twitter.com/search?q=San+Miguel+Petapa) | N/A |
+| 44 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 45 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
+| 46 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 47 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 48 | [óscar sevilla](http://twitter.com/search?q=%c3%b3scar+sevilla) | N/A |
+| 49 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 50 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
 
 
 

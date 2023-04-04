@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-04 07:16:59 UTC`
+📆 Last Updated: `2023-04-04 08:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [#LaIslaDeLasTentaciones11](http://twitter.com/search?q=%23LaIslaDeLasTentaciones11) | N/A |
+| 1 | [#LaIslaDeLasTentaciones11](http://twitter.com/search?q=%23LaIslaDeLasTentaciones11) | N/A |
+| 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 3 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 4 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 5 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 6 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 7 | [#conexiónhonduras5](http://twitter.com/search?q=%23conexi%c3%b3nhonduras5) | N/A |
-| 8 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 10 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 11 | [#conquis12ETB](http://twitter.com/search?q=%23conquis12ETB) | N/A |
-| 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 13 | [#MercatoKings1](http://twitter.com/search?q=%23MercatoKings1) | N/A |
-| 14 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 15 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 16 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 17 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 18 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 19 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 20 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 21 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 22 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 23 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 24 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Pablo Iglesias](http://twitter.com/search?q=Pablo+Iglesias) | N/A |
-| 27 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 28 | [baptista](http://twitter.com/search?q=baptista) | N/A |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 31 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 32 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 33 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 34 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 35 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 36 | [Jacobo](http://twitter.com/search?q=Jacobo) | N/A |
-| 37 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 38 | [sidnei](http://twitter.com/search?q=sidnei) | N/A |
-| 39 | [Higinio](http://twitter.com/search?q=Higinio) | N/A |
-| 40 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
-| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 42 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 43 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 44 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 45 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 46 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 47 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
-| 48 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 50 | [La Vanguardia](http://twitter.com/search?q=La+Vanguardia) | N/A |
+| 4 | [#AdvanceWarsMM](http://twitter.com/search?q=%23AdvanceWarsMM) | N/A |
+| 5 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 6 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 7 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 9 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 10 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 11 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 12 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 16 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 17 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
+| 18 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 19 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 20 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 21 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 22 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 23 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 24 | [Pokémon Stadium](http://twitter.com/search?q=Pok%c3%a9mon+Stadium) | N/A |
+| 25 | [Maguiro](http://twitter.com/search?q=Maguiro) | N/A |
+| 26 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 27 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 28 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
+| 29 | [Jn 13](http://twitter.com/search?q=Jn+13) | N/A |
+| 30 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Y SER OBLIGATORIAS](http://twitter.com/search?q=Y+SER+OBLIGATORIAS) | N/A |
+| 33 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 34 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 35 | [baptista](http://twitter.com/search?q=baptista) | N/A |
+| 36 | [Pablo Iglesias](http://twitter.com/search?q=Pablo+Iglesias) | N/A |
+| 37 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 38 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 39 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 40 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 41 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 43 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 44 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 45 | [Cautivo](http://twitter.com/search?q=Cautivo) | N/A |
+| 46 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
+| 47 | [Jacobo](http://twitter.com/search?q=Jacobo) | N/A |
+| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 49 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 50 | [453 X](http://twitter.com/search?q=453+X) | N/A |
 
 
 

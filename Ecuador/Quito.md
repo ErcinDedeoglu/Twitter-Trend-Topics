@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-04 07:16:48 UTC`
+📆 Last Updated: `2023-04-04 08:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,12 +44,12 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 27 | [MAR EN PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+PREMIOS+HEAT) | N/A |
 | 28 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 30 | [Acción de Protección](http://twitter.com/search?q=Acci%c3%b3n+de+Protecci%c3%b3n) | N/A |
+| 30 | [acción de protección](http://twitter.com/search?q=acci%c3%b3n+de+protecci%c3%b3n) | N/A |
 | 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 32 | [Pancho](http://twitter.com/search?q=Pancho) | N/A |
 | 33 | [Pedro Granja](http://twitter.com/search?q=Pedro+Granja) | N/A |
 | 34 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 35 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 35 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
 | 36 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 37 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
 | 38 | [Penoso](http://twitter.com/search?q=Penoso) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 42 | [espín](http://twitter.com/search?q=esp%c3%adn) | N/A |
 | 43 | [Mamela](http://twitter.com/search?q=Mamela) | N/A |
 | 44 | [parrales](http://twitter.com/search?q=parrales) | N/A |
-| 45 | [María Paz](http://twitter.com/search?q=Mar%c3%ada+Paz) | N/A |
-| 46 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 45 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 46 | [María Paz](http://twitter.com/search?q=Mar%c3%ada+Paz) | N/A |
 | 47 | [Flacso](http://twitter.com/search?q=Flacso) | N/A |
-| 48 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
-| 49 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 50 | [nebot e iza](http://twitter.com/search?q=nebot+e+iza) | N/A |
+| 48 | [micolta](http://twitter.com/search?q=micolta) | N/A |
+| 49 | [nebot e iza](http://twitter.com/search?q=nebot+e+iza) | N/A |
+| 50 | [quinto pazmiño](http://twitter.com/search?q=quinto+pazmi%c3%b1o) | N/A |
 
 
 

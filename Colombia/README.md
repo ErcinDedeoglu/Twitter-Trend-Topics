@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-04 07:17:39 UTC`
+📆 Last Updated: `2023-04-04 08:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,19 +17,19 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 2 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
-| 3 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 5 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 6 | [#UnaTraicionEs](http://twitter.com/search?q=%23UnaTraicionEs) | N/A |
-| 7 | [#esunacondena](http://twitter.com/search?q=%23esunacondena) | N/A |
-| 8 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 9 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 10 | [Marco Pérez](http://twitter.com/search?q=Marco+P%c3%a9rez) | N/A |
-| 11 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 12 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 13 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 14 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 15 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 4 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 5 | [#UnaTraicionEs](http://twitter.com/search?q=%23UnaTraicionEs) | N/A |
+| 6 | [#esunacondena](http://twitter.com/search?q=%23esunacondena) | N/A |
+| 7 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 8 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 9 | [Marco Pérez](http://twitter.com/search?q=Marco+P%c3%a9rez) | N/A |
+| 10 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 11 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 12 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 13 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 14 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 15 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 17 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
 | 18 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
@@ -38,8 +38,8 @@ This is top 50 for Colombia
 | 21 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 | 22 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
 | 23 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 24 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
-| 25 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 24 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 25 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
 | 26 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
 | 27 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
 | 28 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Colombia
 | 34 | [Turbaco](http://twitter.com/search?q=Turbaco) | N/A |
 | 35 | [Homer](http://twitter.com/search?q=Homer) | N/A |
 | 36 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
-| 37 | [Subió](http://twitter.com/search?q=Subi%c3%b3) | N/A |
-| 38 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 39 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 40 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
-| 41 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 42 | [Jorge Eliecer Torres](http://twitter.com/search?q=Jorge+Eliecer+Torres) | N/A |
-| 43 | [Mera](http://twitter.com/search?q=Mera) | N/A |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 38 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
+| 39 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
+| 40 | [jorge eliecer torres](http://twitter.com/search?q=jorge+eliecer+torres) | N/A |
+| 41 | [Mera](http://twitter.com/search?q=Mera) | N/A |
+| 42 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 43 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 44 | [The Lancet](http://twitter.com/search?q=The+Lancet) | N/A |
 | 45 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
-| 46 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 47 | [The Lancet](http://twitter.com/search?q=The+Lancet) | N/A |
-| 48 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 49 | [Patrocinados](http://twitter.com/search?q=Patrocinados) | N/A |
-| 50 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 46 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 47 | [Patrocinados](http://twitter.com/search?q=Patrocinados) | N/A |
+| 48 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 49 | [Mitomano](http://twitter.com/search?q=Mitomano) | N/A |
+| 50 | [Diego Santos](http://twitter.com/search?q=Diego+Santos) | N/A |
 
 
 
