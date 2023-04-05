@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-05 06:18:34 UTC`
+📆 Last Updated: `2023-04-05 07:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 2 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 3 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 4 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
-| 5 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 6 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 7 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 8 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 9 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 10 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 11 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 12 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 13 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 14 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 15 | [Trump 2024](http://twitter.com/search?q=Trump+2024) | N/A |
-| 16 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 18 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 19 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 20 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 21 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 22 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 24 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 25 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 26 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 27 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 28 | [#aimseyspace](http://twitter.com/search?q=%23aimseyspace) | N/A |
-| 29 | [Teoscar](http://twitter.com/search?q=Teoscar) | N/A |
-| 30 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 31 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 32 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 33 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 34 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 35 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 36 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 37 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 38 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
-| 39 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 40 | [Max Scherzer](http://twitter.com/search?q=Max+Scherzer) | N/A |
-| 41 | [Al McCoy](http://twitter.com/search?q=Al+McCoy) | N/A |
-| 42 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 43 | [Moses Moody](http://twitter.com/search?q=Moses+Moody) | N/A |
-| 44 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 45 | [Daniel Kelly](http://twitter.com/search?q=Daniel+Kelly) | N/A |
-| 46 | [Tork](http://twitter.com/search?q=Tork) | N/A |
-| 47 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 48 | [WI Supreme Court](http://twitter.com/search?q=WI+Supreme+Court) | N/A |
-| 49 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 50 | [Pollock](http://twitter.com/search?q=Pollock) | N/A |
+| 1 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 3 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 4 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 8 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 10 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 11 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 12 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 15 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 16 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 18 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 20 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 21 | [#aimseyspace](http://twitter.com/search?q=%23aimseyspace) | N/A |
+| 22 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 23 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 24 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 25 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 26 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 27 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 28 | [Moody](http://twitter.com/search?q=Moody) | N/A |
+| 29 | [Al McCoy](http://twitter.com/search?q=Al+McCoy) | N/A |
+| 30 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 31 | [WI Supreme Court](http://twitter.com/search?q=WI+Supreme+Court) | N/A |
+| 32 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 33 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 34 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 35 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 36 | [Evers](http://twitter.com/search?q=Evers) | N/A |
+| 37 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 38 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 39 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 40 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 41 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 42 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 43 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
+| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 45 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 46 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 47 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 48 | [O'Neill](http://twitter.com/search?q=O%27Neill) | N/A |
+| 49 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 50 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-05 06:18:45 UTC`
+📆 Last Updated: `2023-04-05 07:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,16 +30,16 @@ This is top 50 for Qatar
 | 13 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
 | 14 | [المجلس البلدي المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
 | 15 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 16 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 17 | [الاتحاد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 18 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 19 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 20 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 21 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 23 | [نادي قطر](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d9%82%d8%b7%d8%b1) | N/A |
-| 24 | [الصفاقسي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
-| 25 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 16 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 17 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 18 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 19 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 20 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 22 | [نادي قطر](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d9%82%d8%b7%d8%b1) | N/A |
+| 23 | [الصفاقسي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
+| 24 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 25 | [الاتحاد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
 | 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 27 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
 | 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
@@ -56,8 +56,8 @@ This is top 50 for Qatar
 | 39 | [الشيخ الدكتور](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
 | 40 | [وزير الدوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
 | 41 | [الاداره العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 42 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 44 | [الخيمه الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 45 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 46 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |

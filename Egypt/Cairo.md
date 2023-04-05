@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-04-05 06:18:21 UTC`
+📆 Last Updated: `2023-04-05 07:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#اصعب_الاوقات](http://twitter.com/search?q=%23%d8%a7%d8%b5%d8%b9%d8%a8_%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d8%aa) | N/A |
-| 2 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
-| 3 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
-| 4 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 5 | [#تحدي_الازواج](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%af%d9%8a_%d8%a7%d9%84%d8%a7%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 1 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 2 | [#تحدي_الازواج](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%af%d9%8a_%d8%a7%d9%84%d8%a7%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 3 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 4 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
+| 5 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
 | 6 | [#احمد_فهمي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d9%81%d9%87%d9%85%d9%8a) | N/A |
-| 7 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 8 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
-| 9 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 10 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 11 | [اسلام ابو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d8%a8%d9%88) | N/A |
-| 12 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 13 | [حسام حسن](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%ad%d8%b3%d9%86) | N/A |
-| 14 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 15 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 16 | [١٤ رمضان](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 17 | [سيف جعفر](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 18 | [عبد المقصود](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d9%88%d8%af) | N/A |
-| 19 | [حاتم سكر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%aa%d9%85+%d8%b3%d9%83%d8%b1) | N/A |
-| 20 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 21 | [كاس المانيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 22 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 23 | [الياس الجلاصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%b3+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d8%b5%d9%8a) | N/A |
-| 24 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
-| 25 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 26 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 27 | [المدرب الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 28 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 29 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 30 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 31 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [#النصر_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | #النصر_العداله is an Arabic hashtag that translates to "Victory of Justice" in English. It is often used to express support for justice and fairness in society. |
-| 34 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 35 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
+| 7 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 8 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 9 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
+| 10 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 11 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 12 | [#الاقصي_في_خطر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%81%d9%8a_%d8%ae%d8%b7%d8%b1) | N/A |
+| 13 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 14 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 15 | [عبده يحيي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d9%87+%d9%8a%d8%ad%d9%8a%d9%8a) | N/A |
+| 16 | [الياس الجلاصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%b3+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d8%b5%d9%8a) | N/A |
+| 17 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 18 | [13 رمضان](http://twitter.com/search?q=13+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 19 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 20 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
+| 21 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 22 | [اسلام ابو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d8%a8%d9%88) | N/A |
+| 23 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 24 | [شيرين رضا](http://twitter.com/search?q=%d8%b4%d9%8a%d8%b1%d9%8a%d9%86+%d8%b1%d8%b6%d8%a7) | N/A |
+| 25 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 26 | [حسام حسن](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%ad%d8%b3%d9%86) | N/A |
+| 27 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 28 | [الموسم الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
+| 29 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
+| 30 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 31 | [حاتم سكر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%aa%d9%85+%d8%b3%d9%83%d8%b1) | N/A |
+| 32 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
+| 33 | [عبد المنصف](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%81) | N/A |
+| 34 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
+| 35 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 36 | [كاس المانيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 37 | [عبد المقصود](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d9%88%d8%af) | N/A |
+| 38 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 39 | [جهاز فني](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%b2+%d9%81%d9%86%d9%8a) | N/A |
+| 40 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 41 | [ابو عبيده بن الجراح](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d9%8a%d8%af%d9%87+%d8%a8%d9%86+%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d8%ad) | N/A |
+| 42 | [شريف الهواري](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%b1%d9%8a) | N/A |
+| 43 | [الرييس الامريكي السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 44 | [المدرب الالماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 45 | [المدرب الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 46 | [احمد حجازي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | N/A |
+| 47 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 48 | [مرتضى](http://twitter.com/search?q=%d9%85%d8%b1%d8%aa%d8%b6%d9%89) | N/A |
+| 49 | [سموحة](http://twitter.com/search?q=%d8%b3%d9%85%d9%88%d8%ad%d8%a9) | N/A |
+| 50 | [عبدالله جمعه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-04-05 06:18:12 UTC`
+📆 Last Updated: `2023-04-05 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 5 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 7 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 8 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 9 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 10 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
-| 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [#auspol](http://twitter.com/search?q=%23auspol) | N/A |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 17 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 5 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 6 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 7 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 8 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 9 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 13 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 14 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 17 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 18 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 19 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
 | 20 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 22 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 23 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 23 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
 | 24 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 25 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 29 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 30 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 31 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 32 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 34 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 35 | [Chris Barrie](http://twitter.com/search?q=Chris+Barrie) | N/A |
-| 36 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 39 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 40 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 41 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 42 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 43 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 44 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 45 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 46 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 47 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
-| 48 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 49 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 50 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
+| 25 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 26 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 27 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 28 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 29 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 30 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 31 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 32 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 33 | [logue](http://twitter.com/search?q=logue) | N/A |
+| 34 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
+| 35 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 36 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 37 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 39 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [mirabella](http://twitter.com/search?q=mirabella) | N/A |
+| 42 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 43 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 44 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 45 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
+| 46 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 47 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 49 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 50 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-05 06:18:09 UTC`
+📆 Last Updated: `2023-04-05 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#13AniversarioVP](http://twitter.com/search?q=%2313AniversarioVP) | N/A |
-| 2 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 3 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 4 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 5 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 6 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
-| 7 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
-| 8 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 9 | [Aless](http://twitter.com/search?q=Aless) | N/A |
-| 10 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 11 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 12 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 13 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 14 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
+| 1 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
+| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 3 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 4 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
+| 5 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 6 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 7 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 8 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
+| 9 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 10 | [Aless](http://twitter.com/search?q=Aless) | N/A |
+| 11 | [#Hermanos4Abr](http://twitter.com/search?q=%23Hermanos4Abr) | N/A |
+| 12 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 13 | [Arrasate](http://twitter.com/search?q=Arrasate) | N/A |
+| 14 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
 | 15 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 16 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 17 | [#Hermanos4Abr](http://twitter.com/search?q=%23Hermanos4Abr) | N/A |
-| 18 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 19 | [Jagoba Arrasate](http://twitter.com/search?q=Jagoba+Arrasate) | N/A |
-| 20 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 23 | [Lo de Ana Obregón](http://twitter.com/search?q=Lo+de+Ana+Obreg%c3%b3n) | N/A |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 26 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
-| 27 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 16 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
+| 17 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 18 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 19 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 20 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 21 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 22 | [Lo de Ana Obregón](http://twitter.com/search?q=Lo+de+Ana+Obreg%c3%b3n) | N/A |
+| 23 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 25 | [#ChesterEstherAranda](http://twitter.com/search?q=%23ChesterEstherAranda) | N/A |
+| 26 | [Lequio](http://twitter.com/search?q=Lequio) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 28 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 29 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 30 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
-| 31 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 34 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 35 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 36 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 37 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 38 | [Dulce Nombre](http://twitter.com/search?q=Dulce+Nombre) | N/A |
-| 39 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 40 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 41 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 42 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 43 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 44 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 45 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
-| 46 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 47 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 48 | [#GrandesEnIlusión](http://twitter.com/search?q=%23GrandesEnIlusi%c3%b3n) | N/A |
+| 29 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 32 | [Aberrante](http://twitter.com/search?q=Aberrante) | N/A |
+| 33 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
+| 34 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
+| 35 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
+| 36 | [Chimy](http://twitter.com/search?q=Chimy) | N/A |
+| 37 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
+| 38 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
+| 39 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 40 | [Yeray](http://twitter.com/search?q=Yeray) | Yeray is a Spanish name derived from the Hebrew name Jair, which means "God enlightens". It is also a variant of the name Jeremiah, which means "God will exalt". |
+| 41 | [Zorionak](http://twitter.com/search?q=Zorionak) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 44 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
+| 45 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 46 | [Lecturas](http://twitter.com/search?q=Lecturas) | N/A |
+| 47 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 48 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
+| 49 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

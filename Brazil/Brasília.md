@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-04-05 06:18:00 UTC`
+📆 Last Updated: `2023-04-05 07:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 3 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 4 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 5 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 6 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 7 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 8 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 9 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
-| 10 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 11 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 12 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 13 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [TRUCE](http://twitter.com/search?q=TRUCE) | N/A |
-| 16 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 17 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 18 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 19 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 20 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
-| 21 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 22 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 23 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 24 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 25 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 26 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
-| 27 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 28 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 29 | [Fox Sports](http://twitter.com/search?q=Fox+Sports) | N/A |
-| 30 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 31 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 32 | [Lisca](http://twitter.com/search?q=Lisca) | N/A |
-| 33 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 34 | [Se Amanda](http://twitter.com/search?q=Se+Amanda) | N/A |
-| 35 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 36 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
-| 37 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 38 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 39 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 40 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 41 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 42 | [#BLOxSAN](http://twitter.com/search?q=%23BLOxSAN) | N/A |
-| 43 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 44 | [Dani calabresa](http://twitter.com/search?q=Dani+calabresa) | N/A |
-| 45 | [Fátima Bernardes](http://twitter.com/search?q=F%c3%a1tima+Bernardes) | N/A |
-| 46 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 47 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 48 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 49 | [#Sudamericana](http://twitter.com/search?q=%23Sudamericana) | N/A |
-| 50 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 3 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 4 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 5 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 6 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 7 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 8 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
+| 13 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 14 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
+| 17 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 20 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 21 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 22 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 23 | [Turra](http://twitter.com/search?q=Turra) | N/A |
+| 24 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 25 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
+| 26 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 27 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
+| 28 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 29 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
+| 30 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 31 | [#ADona081](http://twitter.com/search?q=%23ADona081) | N/A |
+| 32 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
+| 33 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 34 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
+| 35 | [Meninas Super Poderosas](http://twitter.com/search?q=Meninas+Super+Poderosas) | N/A |
+| 36 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
+| 37 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 38 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 39 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
+| 40 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 41 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 42 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 43 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 44 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
+| 45 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 46 | [Queijo](http://twitter.com/search?q=Queijo) | Queijo is the Portuguese word for cheese. In English, it means cheese. |
+| 47 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 48 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 49 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 50 | [Margot](http://twitter.com/search?q=Margot) | N/A |
 
 
 

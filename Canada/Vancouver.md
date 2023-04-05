@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-05 06:17:51 UTC`
+📆 Last Updated: `2023-04-05 07:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 3 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 5 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 6 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 7 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 8 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 9 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 15 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 16 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
-| 17 | [#NationalCaregiverDay](http://twitter.com/search?q=%23NationalCaregiverDay) | N/A |
-| 18 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 19 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 20 | [Keean](http://twitter.com/search?q=Keean) | N/A |
-| 21 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 22 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 23 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 24 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 25 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 28 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 30 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 31 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 32 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 34 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 35 | [Davie](http://twitter.com/search?q=Davie) | N/A |
-| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 37 | [Jet Greaves](http://twitter.com/search?q=Jet+Greaves) | N/A |
-| 38 | [Daulton Varsho](http://twitter.com/search?q=Daulton+Varsho) | N/A |
-| 39 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 40 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
-| 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 42 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 43 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 44 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
-| 45 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 46 | [USports](http://twitter.com/search?q=USports) | N/A |
-| 47 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 48 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
-| 49 | [Segregation](http://twitter.com/search?q=Segregation) | N/A |
-| 50 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 6 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 7 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 8 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 9 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 11 | [#NationalCaregiverDay](http://twitter.com/search?q=%23NationalCaregiverDay) | N/A |
+| 12 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 17 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 18 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
+| 19 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 24 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 25 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 27 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 28 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 29 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 30 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 32 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 33 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 34 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
+| 35 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
+| 39 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 40 | [Jake Sanderson](http://twitter.com/search?q=Jake+Sanderson) | N/A |
+| 41 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 42 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 43 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 44 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 47 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 48 | [Segregation](http://twitter.com/search?q=Segregation) | N/A |
+| 49 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 50 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 
 
 

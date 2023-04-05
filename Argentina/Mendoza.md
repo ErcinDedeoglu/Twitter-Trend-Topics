@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-05 06:17:57 UTC`
+📆 Last Updated: `2023-04-05 07:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 2 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
-| 3 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 1 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 2 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 3 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
 | 4 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 5 | [#FrodoKuniSports](http://twitter.com/search?q=%23FrodoKuniSports) | N/A |
-| 6 | [AGUSGUARDIS EN TWITCH](http://twitter.com/search?q=AGUSGUARDIS+EN+TWITCH) | N/A |
-| 7 | [MARCOS Y MORITA EN SALTA](http://twitter.com/search?q=MARCOS+Y+MORITA+EN+SALTA) | N/A |
-| 8 | [Paulo Diaz](http://twitter.com/search?q=Paulo+Diaz) | N/A |
-| 9 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Nosis](http://twitter.com/search?q=Nosis) | N/A |
-| 13 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 14 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Closs](http://twitter.com/search?q=Closs) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
-| 19 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 20 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 21 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
-| 22 | [Menendez](http://twitter.com/search?q=Menendez) | N/A |
-| 23 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 24 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 25 | [#FrodoALaKingsLeague](http://twitter.com/search?q=%23FrodoALaKingsLeague) | N/A |
-| 26 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 27 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 30 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 31 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 32 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 33 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 34 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 35 | [#MarcosGinocchio](http://twitter.com/search?q=%23MarcosGinocchio) | N/A |
-| 36 | [De Marchi](http://twitter.com/search?q=De+Marchi) | N/A |
-| 37 | [Ley de Alquileres](http://twitter.com/search?q=Ley+de+Alquileres) | N/A |
-| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 39 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 40 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 41 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
-| 42 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 44 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 45 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 5 | [Paulo Diaz](http://twitter.com/search?q=Paulo+Diaz) | N/A |
+| 6 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 7 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 8 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 9 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 10 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 11 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 12 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 13 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 14 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 15 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 16 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
+| 17 | [#MinutoUno](http://twitter.com/search?q=%23MinutoUno) | N/A |
+| 18 | [#FrodoKuniSports](http://twitter.com/search?q=%23FrodoKuniSports) | N/A |
+| 19 | [Closs](http://twitter.com/search?q=Closs) | N/A |
+| 20 | [Varsky](http://twitter.com/search?q=Varsky) | N/A |
+| 21 | [Penalazo](http://twitter.com/search?q=Penalazo) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 24 | [Nosis](http://twitter.com/search?q=Nosis) | N/A |
+| 25 | [AGUSGUARDIS EN TWITCH](http://twitter.com/search?q=AGUSGUARDIS+EN+TWITCH) | N/A |
+| 26 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 27 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 28 | [Nacho Fernández](http://twitter.com/search?q=Nacho+Fern%c3%a1ndez) | Nacho Fernández is a Spanish nickname derived from the given name Ignacio. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 29 | [Menendez](http://twitter.com/search?q=Menendez) | N/A |
+| 30 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 31 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
+| 32 | [#Newells](http://twitter.com/search?q=%23Newells) | N/A |
+| 33 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 34 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 35 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 36 | [MARCOS Y MORITA EN SALTA](http://twitter.com/search?q=MARCOS+Y+MORITA+EN+SALTA) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
+| 40 | [#LibertadoresStarPlus](http://twitter.com/search?q=%23LibertadoresStarPlus) | N/A |
+| 41 | [Fox Sports](http://twitter.com/search?q=Fox+Sports) | N/A |
+| 42 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 43 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 44 | [Ley de Alquileres](http://twitter.com/search?q=Ley+de+Alquileres) | N/A |
+| 45 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 46 | [Micho](http://twitter.com/search?q=Micho) | N/A |
 | 47 | [Poggi](http://twitter.com/search?q=Poggi) | N/A |
-| 48 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 49 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 48 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 49 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 50 | [De Marchi](http://twitter.com/search?q=De+Marchi) | N/A |
 
 
 

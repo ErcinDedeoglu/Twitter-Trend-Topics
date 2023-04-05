@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-04-05 06:18:37 UTC`
+📆 Last Updated: `2023-04-05 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 2 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 5 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 6 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 7 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 8 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 11 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 12 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 13 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 14 | [#aimseyspace](http://twitter.com/search?q=%23aimseyspace) | N/A |
-| 15 | [Teoscar](http://twitter.com/search?q=Teoscar) | N/A |
-| 16 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 17 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 18 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 19 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 20 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 21 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 22 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 24 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
-| 25 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 26 | [Max Scherzer](http://twitter.com/search?q=Max+Scherzer) | N/A |
-| 27 | [Al McCoy](http://twitter.com/search?q=Al+McCoy) | N/A |
-| 28 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 29 | [Moses Moody](http://twitter.com/search?q=Moses+Moody) | N/A |
-| 30 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 31 | [Daniel Kelly](http://twitter.com/search?q=Daniel+Kelly) | N/A |
-| 32 | [#ThatsMyJam](http://twitter.com/search?q=%23ThatsMyJam) | N/A |
-| 33 | [Tork](http://twitter.com/search?q=Tork) | N/A |
-| 34 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 35 | [WI Supreme Court](http://twitter.com/search?q=WI+Supreme+Court) | N/A |
-| 36 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 37 | [Pollock](http://twitter.com/search?q=Pollock) | N/A |
-| 38 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 39 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 40 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 41 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 42 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 43 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 44 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 45 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 46 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 47 | [Evers](http://twitter.com/search?q=Evers) | N/A |
-| 48 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 49 | [The Mets](http://twitter.com/search?q=The+Mets) | N/A |
-| 50 | [Olynyk](http://twitter.com/search?q=Olynyk) | N/A |
+| 1 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 6 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 8 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 9 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 10 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 11 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 14 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 15 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 16 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 17 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 18 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 21 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 22 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 25 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 26 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 27 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 28 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 29 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 30 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 31 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 32 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 33 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 34 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 35 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 36 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 38 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 39 | [Will Benson](http://twitter.com/search?q=Will+Benson) | N/A |
+| 40 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 41 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 42 | [Tricia Cotham](http://twitter.com/search?q=Tricia+Cotham) | N/A |
+| 43 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
+| 44 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 45 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 46 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 47 | [Drey Jameson](http://twitter.com/search?q=Drey+Jameson) | N/A |
+| 48 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
+| 49 | [Even CNN](http://twitter.com/search?q=Even+CNN) | N/A |
+| 50 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 
 
 

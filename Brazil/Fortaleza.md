@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-05 06:18:01 UTC`
+📆 Last Updated: `2023-04-05 07:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 2 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 3 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 4 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 5 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 6 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 7 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 8 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 9 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
-| 10 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 11 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 12 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [TRUCE](http://twitter.com/search?q=TRUCE) | N/A |
-| 15 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 16 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 17 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 18 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 19 | [#BBB223](http://twitter.com/search?q=%23BBB223) | N/A |
-| 20 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 21 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 22 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 23 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 24 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
-| 25 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 26 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 27 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
-| 28 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 29 | [Fox Sports](http://twitter.com/search?q=Fox+Sports) | N/A |
-| 30 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 31 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 32 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 33 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 34 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
-| 35 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 36 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 37 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 38 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 39 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 40 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 41 | [Fátima Bernardes](http://twitter.com/search?q=F%c3%a1tima+Bernardes) | N/A |
-| 42 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 43 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 44 | [#Sudamericana](http://twitter.com/search?q=%23Sudamericana) | N/A |
-| 45 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 46 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
-| 47 | [#candieronobial](http://twitter.com/search?q=%23candieronobial) | N/A |
-| 48 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 49 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 50 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 3 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 4 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 7 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 8 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 9 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 10 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 11 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 12 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 13 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 14 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 17 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 18 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 21 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 22 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 23 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 24 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 25 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 26 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 27 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
+| 28 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 29 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 30 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 31 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 32 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
+| 33 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 34 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 35 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 37 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 38 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 39 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 40 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 41 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 42 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 43 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 44 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 46 | [any gabrielly republic records](http://twitter.com/search?q=any+gabrielly+republic+records) | N/A |
+| 47 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 48 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 49 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 50 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
 
 
 
