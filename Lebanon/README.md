@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-05 09:17:11 UTC`
+📆 Last Updated: `2023-04-05 10:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,33 +15,33 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
-| 2 | [#ربيع_اعوامنا](http://twitter.com/search?q=%23%d8%b1%d8%a8%d9%8a%d8%b9_%d8%a7%d8%b9%d9%88%d8%a7%d9%85%d9%86%d8%a7) | N/A |
-| 3 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 4 | [#فلسطين](http://twitter.com/search?q=%23%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
-| 5 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
-| 6 | [ناجي حايك](http://twitter.com/search?q=%d9%86%d8%a7%d8%ac%d9%8a+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
-| 7 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 8 | [#القدس](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
-| 9 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 10 | [العقوبات الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 11 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 12 | [علي الاخوين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d9%8a%d9%86) | N/A |
-| 13 | [الموفد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 14 | [الفيول المغشوش](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%88%d9%84+%d8%a7%d9%84%d9%85%d8%ba%d8%b4%d9%88%d8%b4) | N/A |
-| 15 | [#قوات_الانعزال](http://twitter.com/search?q=%23%d9%82%d9%88%d8%a7%d8%aa_%d8%a7%d9%84%d8%a7%d9%86%d8%b9%d8%b2%d8%a7%d9%84) | N/A |
-| 16 | [الامام الخامنيي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
-| 17 | [جعجع الانعزاليه](http://twitter.com/search?q=%d8%ac%d8%b9%d8%ac%d8%b9+%d8%a7%d9%84%d8%a7%d9%86%d8%b9%d8%b2%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 18 | [علي المعتكفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%83%d9%81%d9%8a%d9%86) | N/A |
-| 19 | [وزارة الخزانة الأميركية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d8%a9+%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a9) | N/A |
-| 20 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
-| 21 | [كلاب الجنرال](http://twitter.com/search?q=%d9%83%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%ac%d9%86%d8%b1%d8%a7%d9%84) | N/A |
-| 22 | [قره عين المساكين](http://twitter.com/search?q=%d9%82%d8%b1%d9%87+%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%83%d9%8a%d9%86) | N/A |
-| 23 | [المدعي العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 24 | [وإيران](http://twitter.com/search?q=%d9%88%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 25 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 26 | [لبنان اكبر](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 1 | [#المسجد_الاقصي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 2 | [#فلسطين](http://twitter.com/search?q=%23%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 3 | [#ربيع_اعوامنا](http://twitter.com/search?q=%23%d8%b1%d8%a8%d9%8a%d8%b9_%d8%a7%d8%b9%d9%88%d8%a7%d9%85%d9%86%d8%a7) | N/A |
+| 4 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 5 | [#القدس](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
+| 6 | [علي المعتكفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%83%d9%81%d9%8a%d9%86) | N/A |
+| 7 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 8 | [ناجي حايك](http://twitter.com/search?q=%d9%86%d8%a7%d8%ac%d9%8a+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
+| 9 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 10 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 11 | [العقوبات الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 12 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 13 | [علي الاخوين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d9%8a%d9%86) | N/A |
+| 14 | [المسجد القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 15 | [الموفد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 16 | [الفيول المغشوش](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%88%d9%84+%d8%a7%d9%84%d9%85%d8%ba%d8%b4%d9%88%d8%b4) | N/A |
+| 17 | [#قوات_الانعزال](http://twitter.com/search?q=%23%d9%82%d9%88%d8%a7%d8%aa_%d8%a7%d9%84%d8%a7%d9%86%d8%b9%d8%b2%d8%a7%d9%84) | N/A |
+| 18 | [الامام الخامنيي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
+| 19 | [جعجع الانعزاليه](http://twitter.com/search?q=%d8%ac%d8%b9%d8%ac%d8%b9+%d8%a7%d9%84%d8%a7%d9%86%d8%b9%d8%b2%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 20 | [وزارة الخزانة الأميركية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d8%a9+%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a9) | N/A |
+| 21 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
+| 22 | [كلاب الجنرال](http://twitter.com/search?q=%d9%83%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%ac%d9%86%d8%b1%d8%a7%d9%84) | N/A |
+| 23 | [قره عين المساكين](http://twitter.com/search?q=%d9%82%d8%b1%d9%87+%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%83%d9%8a%d9%86) | N/A |
+| 24 | [المدعي العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 25 | [وإيران](http://twitter.com/search?q=%d9%88%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 26 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 27 | [لبنان اكبر](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
 | 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 30 | [٤ نيسان ١٩٨٠](http://twitter.com/search?q=%d9%a4+%d9%86%d9%8a%d8%b3%d8%a7%d9%86+%d9%a1%d9%a9%d9%a8%d9%a0) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Lebanon
 | 44 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
 | 45 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 46 | [محمد وآل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%88%d8%a2%d9%84) | N/A |
-| 47 | [علي حدا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%af%d8%a7) | N/A |
-| 48 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 49 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
-| 50 | [الجبهه اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%87%d9%87+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 47 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 48 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 49 | [علي حدا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%af%d8%a7) | N/A |
+| 50 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
 
 
 

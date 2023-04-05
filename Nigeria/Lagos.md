@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-04-05 09:16:49 UTC`
+📆 Last Updated: `2023-04-05 10:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,15 +31,15 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 14 | [#awholeinyourwallet](http://twitter.com/search?q=%23awholeinyourwallet) | N/A |
 | 15 | [#TimeleesAlbum](http://twitter.com/search?q=%23TimeleesAlbum) | N/A |
 | 16 | [Terdoo](http://twitter.com/search?q=Terdoo) | N/A |
-| 17 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
-| 18 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 17 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 18 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
 | 19 | [Fave](http://twitter.com/search?q=Fave) | N/A |
 | 20 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
 | 21 | [#fastandfuniscoming](http://twitter.com/search?q=%23fastandfuniscoming) | N/A |
 | 22 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
 | 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 24 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
-| 25 | [Minister Lai](http://twitter.com/search?q=Minister+Lai) | N/A |
+| 24 | [Minister Lai](http://twitter.com/search?q=Minister+Lai) | N/A |
+| 25 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
 | 26 | [god protect sheggz](http://twitter.com/search?q=god+protect+sheggz) | N/A |
 | 27 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 28 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
@@ -47,24 +47,24 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 30 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
 | 31 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
 | 32 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 33 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 34 | [Kegite](http://twitter.com/search?q=Kegite) | N/A |
-| 35 | [Hall 3](http://twitter.com/search?q=Hall+3) | N/A |
-| 36 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 39 | [North](http://twitter.com/search?q=North) | N/A |
+| 33 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 34 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 35 | [Kegite](http://twitter.com/search?q=Kegite) | N/A |
+| 36 | [North](http://twitter.com/search?q=North) | N/A |
+| 37 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 38 | [Hall 3](http://twitter.com/search?q=Hall+3) | N/A |
+| 39 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
 | 40 | [shuttlers](http://twitter.com/search?q=shuttlers) | N/A |
 | 41 | [MARKETABLE KANAGA JNR](http://twitter.com/search?q=MARKETABLE+KANAGA+JNR) | N/A |
 | 42 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 43 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 44 | [Tiwa](http://twitter.com/search?q=Tiwa) | N/A |
+| 43 | [Tiwa](http://twitter.com/search?q=Tiwa) | N/A |
+| 44 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 | 45 | [director pink](http://twitter.com/search?q=director+pink) | N/A |
 | 46 | [joeboy](http://twitter.com/search?q=joeboy) | N/A |
 | 47 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 48 | [Ekosodin](http://twitter.com/search?q=Ekosodin) | N/A |
 | 49 | [LEAVE STARDOM FOR YEMI CREGX](http://twitter.com/search?q=LEAVE+STARDOM+FOR+YEMI+CREGX) | N/A |
-| 50 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 50 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 
 
 

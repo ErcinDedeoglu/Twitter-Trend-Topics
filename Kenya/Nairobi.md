@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-05 09:16:50 UTC`
+📆 Last Updated: `2023-04-05 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Kenya](</Kenya>)
 | 5 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 6 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
 | 7 | [Nusu Mkate](http://twitter.com/search?q=Nusu+Mkate) | N/A |
-| 8 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 8 | [#mainaandkingangi](http://twitter.com/search?q=%23mainaandkingangi) | N/A |
 | 9 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
 | 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 11 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Kenya](</Kenya>)
 | 14 | [embu megabusiness expo](http://twitter.com/search?q=embu+megabusiness+expo) | N/A |
 | 15 | [#tukutaneembubizexpoleo](http://twitter.com/search?q=%23tukutaneembubizexpoleo) | N/A |
 | 16 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 17 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
+| 17 | [national accord](http://twitter.com/search?q=national+accord) | N/A |
 | 18 | [spc kenya 2023](http://twitter.com/search?q=spc+kenya+2023) | N/A |
 | 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 20 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for [Kenya](</Kenya>)
 | 25 | [nhif](http://twitter.com/search?q=nhif) | N/A |
 | 26 | [mukumu girls](http://twitter.com/search?q=mukumu+girls) | N/A |
 | 27 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
-| 28 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
+| 28 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
 | 29 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 30 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 31 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |

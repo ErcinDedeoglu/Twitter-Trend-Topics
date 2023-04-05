@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-05 09:16:37 UTC`
+📆 Last Updated: `2023-04-05 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 

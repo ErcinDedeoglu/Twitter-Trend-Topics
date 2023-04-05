@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-05 09:17:02 UTC`
+📆 Last Updated: `2023-04-05 10:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 5 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 7 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 8 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 9 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 10 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 11 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 12 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 13 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 14 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 15 | [#BarbieMovie](http://twitter.com/search?q=%23BarbieMovie) | N/A |
-| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 17 | [Moody](http://twitter.com/search?q=Moody) | N/A |
-| 18 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 19 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 20 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 21 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 22 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 23 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 24 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 25 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 26 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 27 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 28 | [Evers](http://twitter.com/search?q=Evers) | N/A |
-| 29 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 30 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 31 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 32 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 33 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 34 | [O’Neill](http://twitter.com/search?q=O%e2%80%99Neill) | N/A |
-| 35 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 36 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 37 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 38 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 39 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 40 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 41 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 42 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 43 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 44 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
-| 45 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
-| 46 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 3 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 6 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 7 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 9 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 10 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 11 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 12 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 13 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 14 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 15 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 16 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 17 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 18 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 19 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 20 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 21 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 24 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
+| 25 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 26 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 27 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 31 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 32 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 33 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 34 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 35 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 36 | [Matz](http://twitter.com/search?q=Matz) | N/A |
+| 37 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
+| 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 39 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 40 | [Judd](http://twitter.com/search?q=Judd) | N/A |
+| 41 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 42 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 43 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 44 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
+| 45 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
 
 
 

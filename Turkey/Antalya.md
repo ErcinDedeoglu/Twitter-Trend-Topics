@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-05 09:16:58 UTC`
+📆 Last Updated: `2023-04-05 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,30 +15,48 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SözVeriyoruz](http://twitter.com/search?q=%23S%c3%b6zVeriyoruz) | N/A |
+| 1 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
 | 2 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 3 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 4 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 5 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
-| 6 | [#المسجد_الأقصى](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
-| 7 | [İdris Baluken](http://twitter.com/search?q=%c4%b0dris+Baluken) | N/A |
-| 8 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 9 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
-| 10 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 11 | [Kahhar](http://twitter.com/search?q=Kahhar) | N/A |
-| 12 | [Müslümanlara](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlara) | N/A |
-| 13 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 14 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
-| 15 | [Mübarek Ramazan](http://twitter.com/search?q=M%c3%bcbarek+Ramazan) | N/A |
-| 16 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 17 | [#filistin](http://twitter.com/search?q=%23filistin) | N/A |
-| 18 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 19 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 20 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
-| 21 | [#SüleymanSeba](http://twitter.com/search?q=%23S%c3%bcleymanSeba) | N/A |
-| 22 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
-| 23 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
-| 24 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 3 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 4 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 5 | [Yıkılasın İsrail](http://twitter.com/search?q=Y%c4%b1k%c4%b1las%c4%b1n+%c4%b0srail) | N/A |
+| 6 | [İşgalci İsrail](http://twitter.com/search?q=%c4%b0%c5%9fgalci+%c4%b0srail) | N/A |
+| 7 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
+| 8 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
+| 9 | [İyikiDoğdun ErenAlan](http://twitter.com/search?q=%c4%b0yikiDo%c4%9fdun+ErenAlan) | N/A |
+| 10 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
+| 13 | [Kahhar](http://twitter.com/search?q=Kahhar) | N/A |
+| 14 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
+| 15 | [BİZİM BAHARIMIZ ERDOĞAN](http://twitter.com/search?q=B%c4%b0Z%c4%b0M+BAHARIMIZ+ERDO%c4%9eAN) | N/A |
+| 16 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
+| 17 | [Ersan](http://twitter.com/search?q=Ersan) | Ersan is a Turkish name derived from the Arabic word “Irsan”, which means “guardian” or “protector”. It is also used as a surname in some parts of Turkey. |
+| 18 | [GELİYOR GELMEKTE OLAN](http://twitter.com/search?q=GEL%c4%b0YOR+GELMEKTE+OLAN) | N/A |
+| 19 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
+| 20 | [New York'ta](http://twitter.com/search?q=New+York%27ta) | N/A |
+| 21 | [Bay Bay Kemal](http://twitter.com/search?q=Bay+Bay+Kemal) | N/A |
+| 22 | [GenelAf Sebepleri](http://twitter.com/search?q=GenelAf+Sebepleri) | N/A |
+| 23 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
+| 24 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
+| 25 | [Semiha](http://twitter.com/search?q=Semiha) | N/A |
+| 26 | [Ertuğrul](http://twitter.com/search?q=Ertu%c4%9frul) | N/A |
+| 27 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 28 | [Ali Sowe](http://twitter.com/search?q=Ali+Sowe) | N/A |
+| 29 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 30 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 31 | [Zorunlu](http://twitter.com/search?q=Zorunlu) | N/A |
+| 32 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 33 | [Uzman](http://twitter.com/search?q=Uzman) | N/A |
+| 34 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
+| 35 | [#filistin](http://twitter.com/search?q=%23filistin) | N/A |
+| 36 | [#IsraeliTerrorism](http://twitter.com/search?q=%23IsraeliTerrorism) | N/A |
+| 37 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
+| 38 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
+| 39 | [#5NisanAvukatlarGünü](http://twitter.com/search?q=%235NisanAvukatlarG%c3%bcn%c3%bc) | N/A |
+| 40 | [#SüleymanSeba](http://twitter.com/search?q=%23S%c3%bcleymanSeba) | N/A |
+| 41 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 42 | [#katilisrail](http://twitter.com/search?q=%23katilisrail) | N/A |
 
 
 

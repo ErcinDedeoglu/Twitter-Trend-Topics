@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-05 09:16:37 UTC`
+📆 Last Updated: `2023-04-05 10:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
 | 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
 | 3 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 4 | [#voorschoten](http://twitter.com/search?q=%23voorschoten) | N/A |
+| 4 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
 | 5 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
 | 6 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
 | 7 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
@@ -26,25 +26,25 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Teze](http://twitter.com/search?q=Teze) | N/A |
 | 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 11 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 12 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 13 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
-| 14 | [caribische](http://twitter.com/search?q=caribische) | N/A |
-| 15 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 19 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
-| 22 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 23 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 24 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 25 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 26 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 27 | [prorail](http://twitter.com/search?q=prorail) | N/A |
-| 28 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 30 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 12 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 13 | [drommel](http://twitter.com/search?q=drommel) | N/A |
+| 14 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
+| 15 | [caribische](http://twitter.com/search?q=caribische) | N/A |
+| 16 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
+| 23 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 24 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
+| 25 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 26 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
+| 27 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 28 | [prorail](http://twitter.com/search?q=prorail) | N/A |
+| 29 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 31 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
 | 32 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
 | 33 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
@@ -53,9 +53,9 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 36 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
 | 37 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
 | 38 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
-| 39 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 40 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 41 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 39 | [rode kruis](http://twitter.com/search?q=rode+kruis) | N/A |
+| 40 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 41 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
 | 42 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
 | 43 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
 | 44 | [Dries](http://twitter.com/search?q=Dries) | N/A |

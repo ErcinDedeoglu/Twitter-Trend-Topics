@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-05 09:16:31 UTC`
+📆 Last Updated: `2023-04-05 10:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
-| 4 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 2 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
+| 3 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 4 | [#opozycjawygra](http://twitter.com/search?q=%23opozycjawygra) | N/A |
 | 5 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
 | 6 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
-| 7 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 9 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 10 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 11 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 13 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 14 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 15 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 16 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 17 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 19 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 20 | [Darku](http://twitter.com/search?q=Darku) | N/A |
-| 21 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 22 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 23 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 24 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 27 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
-| 28 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 29 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
-| 30 | [sojuszu północnoatlantyckiego](http://twitter.com/search?q=sojuszu+p%c3%b3%c5%82nocnoatlantyckiego) | N/A |
-| 31 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
-| 34 | [zacznie](http://twitter.com/search?q=zacznie) | N/A |
-| 35 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 36 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 37 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 38 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 39 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 40 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 41 | [Migi](http://twitter.com/search?q=Migi) | N/A |
-| 42 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
-| 43 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 44 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
-| 45 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
-| 46 | [Donka](http://twitter.com/search?q=Donka) | N/A |
-| 47 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
-| 48 | [Turyngii](http://twitter.com/search?q=Turyngii) | N/A |
-| 49 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
-| 50 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 7 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 8 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 9 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 10 | [europejskiej partii ludowej](http://twitter.com/search?q=europejskiej+partii+ludowej) | N/A |
+| 11 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 12 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 13 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 14 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
+| 17 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 18 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 19 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 20 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 21 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 24 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
+| 25 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
+| 26 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 27 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
+| 28 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 29 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
+| 30 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
+| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 32 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
+| 33 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
+| 34 | [finowie](http://twitter.com/search?q=finowie) | N/A |
+| 35 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 36 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 37 | [szwajcaria](http://twitter.com/search?q=szwajcaria) | N/A |
+| 38 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
+| 39 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
+| 40 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 41 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
+| 42 | [migi](http://twitter.com/search?q=migi) | N/A |
+| 43 | [elona](http://twitter.com/search?q=elona) | N/A |
+| 44 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
+| 45 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
+| 46 | [donka](http://twitter.com/search?q=donka) | N/A |
+| 47 | [monachium](http://twitter.com/search?q=monachium) | N/A |
+| 48 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 49 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 50 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 
 
 

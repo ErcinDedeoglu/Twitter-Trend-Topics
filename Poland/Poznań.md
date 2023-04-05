@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-05 09:16:32 UTC`
+📆 Last Updated: `2023-04-05 10:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,17 +35,17 @@ This is top 50 for [Poland](</Poland>)
 | 18 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
 | 19 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
 | 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 22 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 23 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
-| 24 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
-| 25 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 26 | [Szwecję](http://twitter.com/search?q=Szwecj%c4%99) | N/A |
+| 21 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 22 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
+| 23 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
+| 24 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 25 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
+| 26 | [Chin](http://twitter.com/search?q=Chin) | N/A |
 | 27 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
 | 28 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
 | 29 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 30 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
-| 31 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
+| 31 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
 | 32 | [finowie](http://twitter.com/search?q=finowie) | N/A |
 | 33 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
 | 34 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
@@ -56,13 +56,13 @@ This is top 50 for [Poland](</Poland>)
 | 39 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
 | 40 | [migi](http://twitter.com/search?q=migi) | N/A |
 | 41 | [elona](http://twitter.com/search?q=elona) | N/A |
-| 42 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 43 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
-| 44 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
-| 45 | [donka](http://twitter.com/search?q=donka) | N/A |
-| 46 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 47 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 48 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 42 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
+| 43 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
+| 44 | [donka](http://twitter.com/search?q=donka) | N/A |
+| 45 | [monachium](http://twitter.com/search?q=monachium) | N/A |
+| 46 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 47 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 48 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 
 
 

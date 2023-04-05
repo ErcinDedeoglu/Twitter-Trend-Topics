@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-05 09:16:46 UTC`
+📆 Last Updated: `2023-04-05 10:17:19 UTC`
 
 🔧 Updated every 1 hour!
 

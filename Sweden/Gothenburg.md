@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-05 09:16:39 UTC`
+📆 Last Updated: `2023-04-05 10:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,10 +60,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 43 | [kinnvall](http://twitter.com/search?q=kinnvall) | N/A |
 | 44 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
 | 45 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 46 | [President](http://twitter.com/search?q=President) | N/A |
-| 47 | [lendify](http://twitter.com/search?q=lendify) | N/A |
-| 48 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 49 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 46 | [lendify](http://twitter.com/search?q=lendify) | N/A |
+| 47 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 49 | [liam öhgren](http://twitter.com/search?q=liam+%c3%b6hgren) | N/A |
 
 
 

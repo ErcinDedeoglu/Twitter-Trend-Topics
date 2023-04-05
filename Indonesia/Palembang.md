@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-05 09:16:41 UTC`
+📆 Last Updated: `2023-04-05 10:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,30 +38,30 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 22 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
 | 23 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 26 | [lingkungan](http://twitter.com/search?q=lingkungan) | N/A |
 | 27 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
-| 28 | [Begal](http://twitter.com/search?q=Begal) | N/A |
-| 29 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 30 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 31 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 32 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 33 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 34 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 35 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
-| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 37 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 38 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
-| 39 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 40 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
-| 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
-| 42 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
-| 43 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 44 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 45 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 46 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 47 | [Congrats JIMIN](http://twitter.com/search?q=Congrats+JIMIN) | N/A |
+| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 29 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 30 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 31 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 32 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 33 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
+| 34 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 36 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 37 | [banjarnegara](http://twitter.com/search?q=banjarnegara) | N/A |
+| 38 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 39 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
+| 40 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
+| 41 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 42 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 43 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 44 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 45 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 46 | [Congrats JIMIN](http://twitter.com/search?q=Congrats+JIMIN) | N/A |
+| 47 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 48 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |
 
 

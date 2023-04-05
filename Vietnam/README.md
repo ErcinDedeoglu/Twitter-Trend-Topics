@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-05 09:17:15 UTC`
+📆 Last Updated: `2023-04-05 10:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,36 +34,35 @@ This is top 50 for Vietnam
 | 17 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
 | 18 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
 | 19 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 20 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 21 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 23 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 24 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 25 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 26 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 27 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 29 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
-| 30 | [Great Project](http://twitter.com/search?q=Great+Project) | N/A |
-| 31 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 33 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 34 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 35 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 36 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 37 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 38 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 39 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 40 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 43 | [America](http://twitter.com/search?q=America) | N/A |
-| 44 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 45 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 46 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
-| 47 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 48 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 49 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 20 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 21 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 22 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 23 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 25 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 26 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 27 | [jennie new face of chanel22](http://twitter.com/search?q=jennie+new+face+of+chanel22) | N/A |
+| 28 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
+| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 30 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 32 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
+| 33 | [great project](http://twitter.com/search?q=great+project) | N/A |
+| 34 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 36 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 37 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 38 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
+| 41 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 42 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
+| 43 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
+| 44 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 45 | [America](http://twitter.com/search?q=America) | N/A |
+| 46 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 47 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
+| 48 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
 
 
 

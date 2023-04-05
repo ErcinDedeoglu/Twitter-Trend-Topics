@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-05 09:17:11 UTC`
+📆 Last Updated: `2023-04-05 10:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Latvia
 | 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 12 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 13 | [somiju](http://twitter.com/search?q=somiju) | N/A |
-| 14 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 14 | [latvijā](http://twitter.com/search?q=latvij%c4%81) | N/A |
 | 15 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 16 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 17 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
@@ -51,19 +51,19 @@ This is top 50 for Latvia
 | 34 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 35 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
 | 36 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 37 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 37 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
 | 38 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
 | 39 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 40 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
 | 41 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 42 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
-| 43 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 42 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 43 | [jūsu](http://twitter.com/search?q=j%c5%absu) | N/A |
 | 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 45 | [kaut](http://twitter.com/search?q=kaut) | N/A |
 | 46 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
 | 47 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
 | 48 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 49 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
+| 49 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
 | 50 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 
 

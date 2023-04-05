@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-05 09:17:14 UTC`
+📆 Last Updated: `2023-04-05 10:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -64,7 +64,6 @@ This is top 50 for Spain
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 48 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
 | 49 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
-| 50 | [Joao](http://twitter.com/search?q=Joao) | N/A |
 
 
 

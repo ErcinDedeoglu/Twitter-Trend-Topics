@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-05 09:17:12 UTC`
+📆 Last Updated: `2023-04-05 10:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for Netherlands
 | 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 11 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
 | 12 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 13 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 13 | [drommel](http://twitter.com/search?q=drommel) | N/A |
 | 14 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
 | 15 | [caribische](http://twitter.com/search?q=caribische) | N/A |
 | 16 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Netherlands
 | 28 | [prorail](http://twitter.com/search?q=prorail) | N/A |
 | 29 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
 | 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 31 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 32 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
-| 33 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
-| 34 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
-| 35 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
-| 38 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 39 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
-| 40 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 41 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 42 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 43 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
-| 44 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 45 | [Dries](http://twitter.com/search?q=Dries) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [oosting](http://twitter.com/search?q=oosting) | N/A |
-| 48 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 49 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 50 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 31 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
+| 32 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
+| 33 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
+| 34 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
+| 37 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 38 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
+| 39 | [rode kruis](http://twitter.com/search?q=rode+kruis) | N/A |
+| 40 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 41 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 42 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
+| 43 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 44 | [Dries](http://twitter.com/search?q=Dries) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [oosting](http://twitter.com/search?q=oosting) | N/A |
+| 47 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 48 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 49 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 50 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 
 
 

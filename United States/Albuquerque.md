@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-04-05 09:16:59 UTC`
+📆 Last Updated: `2023-04-05 10:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,38 @@ This is top 50 for [United States](</United States>)
 | 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 3 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
 | 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 5 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 5 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
 | 6 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 7 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 8 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 9 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 10 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 11 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 12 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 13 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 14 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 15 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 16 | [#BarbieMovie](http://twitter.com/search?q=%23BarbieMovie) | N/A |
-| 17 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 18 | [Moody](http://twitter.com/search?q=Moody) | N/A |
-| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 20 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 21 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 22 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 23 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 24 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 25 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 26 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 27 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 28 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 29 | [Evers](http://twitter.com/search?q=Evers) | N/A |
-| 30 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 31 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 32 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 33 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 34 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 35 | [O’Neill](http://twitter.com/search?q=O%e2%80%99Neill) | N/A |
-| 36 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 37 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 38 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 39 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 40 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 41 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 42 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 43 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 44 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 45 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
-| 46 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
-| 47 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 9 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
+| 10 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 11 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 12 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 14 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 15 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 16 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 17 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 18 | [#BarbieMovie](http://twitter.com/search?q=%23BarbieMovie) | N/A |
+| 19 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 20 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 21 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 22 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 23 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 24 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 25 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
+| 26 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 27 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 28 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 29 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 30 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 31 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 32 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 33 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 34 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 35 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 36 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
 
 
 

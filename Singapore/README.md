@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-05 09:17:14 UTC`
+📆 Last Updated: `2023-04-05 10:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Singapore
 | 1 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
 | 2 | [#dew_jsu](http://twitter.com/search?q=%23dew_jsu) | N/A |
 | 3 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 4 | [#TMonogram](http://twitter.com/search?q=%23TMonogram) | N/A |
+| 4 | [#tmonogram](http://twitter.com/search?q=%23tmonogram) | N/A |
 | 5 | [#hirunkit_](http://twitter.com/search?q=%23hirunkit_) | N/A |
 | 6 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -37,27 +37,27 @@ This is top 50 for Singapore
 | 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 21 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
 | 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [ARMYs](http://twitter.com/search?q=ARMYs) | N/A |
+| 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 24 | [Thai](http://twitter.com/search?q=Thai) | N/A |
 | 25 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 | 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 27 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 28 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 29 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 30 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 32 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 33 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 34 | [European](http://twitter.com/search?q=European) | N/A |
-| 35 | [Eunji](http://twitter.com/search?q=Eunji) | N/A |
-| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 37 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 38 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 39 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 40 | [California](http://twitter.com/search?q=California) | N/A |
-| 41 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 43 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 31 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 32 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 33 | [Eunji](http://twitter.com/search?q=Eunji) | N/A |
+| 34 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 35 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 36 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 37 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 38 | [California](http://twitter.com/search?q=California) | N/A |
+| 39 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 41 | [Gm Gm](http://twitter.com/search?q=Gm+Gm) | N/A |
+| 42 | [Armys](http://twitter.com/search?q=Armys) | N/A |
+| 43 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 | 44 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
 | 45 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 46 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |

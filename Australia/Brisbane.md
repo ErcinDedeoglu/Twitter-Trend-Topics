@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-04-05 09:16:41 UTC`
+📆 Last Updated: `2023-04-05 10:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Australia](</Australia>)
 | 7 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 9 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 10 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 13 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 14 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
 | 15 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 16 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 17 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 18 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 16 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 17 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 18 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
 | 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 20 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 22 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 24 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 25 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 24 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 25 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
+| 26 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 27 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
 | 28 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 29 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
-| 30 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 31 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 34 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 36 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 37 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 38 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 39 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 30 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
+| 31 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 32 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 36 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 38 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 39 | [Deni](http://twitter.com/search?q=Deni) | N/A |
 | 40 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 41 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 42 | [kenty](http://twitter.com/search?q=kenty) | N/A |
+| 42 | [Kenty](http://twitter.com/search?q=Kenty) | N/A |
 | 43 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 44 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 45 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 48 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 49 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 50 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 44 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 45 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 47 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 48 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 49 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 50 | [Melania](http://twitter.com/search?q=Melania) | N/A |
 
 
 

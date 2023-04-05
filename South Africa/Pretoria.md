@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-04-05 09:16:50 UTC`
+📆 Last Updated: `2023-04-05 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 4 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 6 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
-| 7 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 3 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 5 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 6 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 8 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
 | 9 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
@@ -63,8 +63,8 @@ This is top 50 for [South Africa](</South Africa>)
 | 46 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 47 | [pfma](http://twitter.com/search?q=pfma) | N/A |
 | 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 49 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
-| 50 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 49 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 50 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
 
 
 

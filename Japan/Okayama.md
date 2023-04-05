@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-04-05 09:17:16 UTC`
+📆 Last Updated: `2023-04-05 10:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [Japan](</Japan>)
 | 2 | [#朝ドラらんまん](http://twitter.com/search?q=%23%e6%9c%9d%e3%83%89%e3%83%a9%e3%82%89%e3%82%93%e3%81%be%e3%82%93) | N/A |
 | 3 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
 | 4 | [#井上梨名](http://twitter.com/search?q=%23%e4%ba%95%e4%b8%8a%e6%a2%a8%e5%90%8d) | N/A |
-| 5 | [#あまちゃん](http://twitter.com/search?q=%23%e3%81%82%e3%81%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 5 | [#めざまし8](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%978) | N/A |
 | 6 | [マエケン](http://twitter.com/search?q=%e3%83%9e%e3%82%a8%e3%82%b1%e3%83%b3) | N/A |
-| 7 | [いのりちゃん](http://twitter.com/search?q=%e3%81%84%e3%81%ae%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 8 | [予想外の臨時収入](http://twitter.com/search?q=%e4%ba%88%e6%83%b3%e5%a4%96%e3%81%ae%e8%87%a8%e6%99%82%e5%8f%8e%e5%85%a5) | N/A |
+| 7 | [予想外の臨時収入](http://twitter.com/search?q=%e4%ba%88%e6%83%b3%e5%a4%96%e3%81%ae%e8%87%a8%e6%99%82%e5%8f%8e%e5%85%a5) | N/A |
+| 8 | [いのりちゃん](http://twitter.com/search?q=%e3%81%84%e3%81%ae%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 9 | [週の真ん中](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | 週の真ん中 means "in the middle of the week" in English. It is used to refer to the middle of a week, usually Wednesday or Thursday. |
-| 10 | [ヘアカットの日](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%82%ab%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 11 | [少子化対策の財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e5%af%be%e7%ad%96%e3%81%ae%e8%b2%a1%e6%ba%90) | 少子化対策の財源 is a Japanese phrase that translates to "sources of funding for countermeasures against the declining birth rate". It refers to the financial resources that are allocated to programs and initiatives designed to address the issue of Japan's declining birth rate. |
-| 12 | [右肩上がりの人生](http://twitter.com/search?q=%e5%8f%b3%e8%82%a9%e4%b8%8a%e3%81%8c%e3%82%8a%e3%81%ae%e4%ba%ba%e7%94%9f) | N/A |
-| 13 | [wowakaさん](http://twitter.com/search?q=wowaka%e3%81%95%e3%82%93) | N/A |
-| 14 | [すいようび](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 15 | [大政奉還](http://twitter.com/search?q=%e5%a4%a7%e6%94%bf%e5%a5%89%e9%82%84) | N/A |
-| 16 | [二十四節気](http://twitter.com/search?q=%e4%ba%8c%e5%8d%81%e5%9b%9b%e7%af%80%e6%b0%97) | N/A |
-| 17 | [第439回](http://twitter.com/search?q=%e7%ac%ac439%e5%9b%9e) | N/A |
+| 10 | [客様と社員](http://twitter.com/search?q=%e5%ae%a2%e6%a7%98%e3%81%a8%e7%a4%be%e5%93%a1) | N/A |
+| 11 | [右肩上がりの人生](http://twitter.com/search?q=%e5%8f%b3%e8%82%a9%e4%b8%8a%e3%81%8c%e3%82%8a%e3%81%ae%e4%ba%ba%e7%94%9f) | N/A |
+| 12 | [wowakaさん](http://twitter.com/search?q=wowaka%e3%81%95%e3%82%93) | N/A |
+| 13 | [ヘアカットの日](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%82%ab%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 14 | [大政奉還](http://twitter.com/search?q=%e5%a4%a7%e6%94%bf%e5%a5%89%e9%82%84) | N/A |
+| 15 | [少子化対策の財源](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e5%af%be%e7%ad%96%e3%81%ae%e8%b2%a1%e6%ba%90) | 少子化対策の財源 is a Japanese phrase that translates to "sources of funding for countermeasures against the declining birth rate". It refers to the financial resources that are allocated to programs and initiatives designed to address the issue of Japan's declining birth rate. |
+| 16 | [すいようび](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 17 | [二十四節気](http://twitter.com/search?q=%e4%ba%8c%e5%8d%81%e5%9b%9b%e7%af%80%e6%b0%97) | N/A |
 | 18 | [南海トラフ](http://twitter.com/search?q=%e5%8d%97%e6%b5%b7%e3%83%88%e3%83%a9%e3%83%95) | 南海トラフ (Nankai Trough) is an oceanic trench located off the coast of Japan. It is part of the Philippine Sea Plate and runs along the eastern edge of the Japanese archipelago. The Nankai Trough is a major source of seismic activity in Japan, and has been the site of several large earthquakes in recent years. |
-| 19 | [満員電車](http://twitter.com/search?q=%e6%ba%80%e5%93%a1%e9%9b%bb%e8%bb%8a) | 満員電車 (man'in densha) is a Japanese phrase meaning "crowded train". It is used to describe a train that is so full of passengers that it is difficult to find a seat. |
-| 20 | [愛知県西部](http://twitter.com/search?q=%e6%84%9b%e7%9f%a5%e7%9c%8c%e8%a5%bf%e9%83%a8) | N/A |
-| 21 | [清浄明潔](http://twitter.com/search?q=%e6%b8%85%e6%b5%84%e6%98%8e%e6%bd%94) | N/A |
-| 22 | [京急人身事故](http://twitter.com/search?q=%e4%ba%ac%e6%80%a5%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | N/A |
-| 23 | [ハヴァーツ](http://twitter.com/search?q=%e3%83%8f%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%84) | ハヴァーツ (Havarts) is a Japanese brand of clothing and accessories. The name is derived from the English word "heart" and is meant to represent the idea of expressing one's feelings through fashion. In English, Havarts can be translated to mean "expressing your heart through fashion". |
-| 24 | [ライフウィーバー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%95%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 19 | [清浄明潔](http://twitter.com/search?q=%e6%b8%85%e6%b5%84%e6%98%8e%e6%bd%94) | N/A |
+| 20 | [EUと合意](http://twitter.com/search?q=EU%e3%81%a8%e5%90%88%e6%84%8f) | N/A |
+| 21 | [満員電車](http://twitter.com/search?q=%e6%ba%80%e5%93%a1%e9%9b%bb%e8%bb%8a) | 満員電車 (man'in densha) is a Japanese phrase meaning "crowded train". It is used to describe a train that is so full of passengers that it is difficult to find a seat. |
+| 22 | [角換わり](http://twitter.com/search?q=%e8%a7%92%e6%8f%9b%e3%82%8f%e3%82%8a) | N/A |
+| 23 | [ライフウィーバー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%95%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 24 | [愛知県西部](http://twitter.com/search?q=%e6%84%9b%e7%9f%a5%e7%9c%8c%e8%a5%bf%e9%83%a8) | N/A |
 | 25 | [坂本龍馬](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e9%be%8d%e9%a6%ac) | N/A |
-| 26 | [バイカオウレン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%ab%e3%82%aa%e3%82%a6%e3%83%ac%e3%83%b3) | N/A |
-| 27 | [角換わり](http://twitter.com/search?q=%e8%a7%92%e6%8f%9b%e3%82%8f%e3%82%8a) | N/A |
-| 28 | [EV中核部品のレアアース磁石技術](http://twitter.com/search?q=EV%e4%b8%ad%e6%a0%b8%e9%83%a8%e5%93%81%e3%81%ae%e3%83%ac%e3%82%a2%e3%82%a2%e3%83%bc%e3%82%b9%e7%a3%81%e7%9f%b3%e6%8a%80%e8%a1%93) | N/A |
-| 29 | [茂木幹事長](http://twitter.com/search?q=%e8%8c%82%e6%9c%a8%e5%b9%b9%e4%ba%8b%e9%95%b7) | N/A |
-| 30 | [脱炭素分野](http://twitter.com/search?q=%e8%84%b1%e7%82%ad%e7%b4%a0%e5%88%86%e9%87%8e) | N/A |
-| 31 | [春馬くん](http://twitter.com/search?q=%e6%98%a5%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
-| 32 | [覇権確立狙い](http://twitter.com/search?q=%e8%a6%87%e6%a8%a9%e7%a2%ba%e7%ab%8b%e7%8b%99%e3%81%84) | N/A |
-| 33 | [デビューの日](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 34 | [パドレス](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%ac%e3%82%b9) | N/A |
-| 35 | [トランプ前大統領](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e5%89%8d%e5%a4%a7%e7%b5%b1%e9%a0%98) | N/A |
-| 36 | [Wordle 655](http://twitter.com/search?q=Wordle+655) | N/A |
-| 37 | [フェリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 38 | [京急蒲田](http://twitter.com/search?q=%e4%ba%ac%e6%80%a5%e8%92%b2%e7%94%b0) | N/A |
-| 39 | [セルティックと対戦計画](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%81%a8%e5%af%be%e6%88%a6%e8%a8%88%e7%94%bb) | N/A |
-| 40 | [欧州強豪マンC](http://twitter.com/search?q=%e6%ac%a7%e5%b7%9e%e5%bc%b7%e8%b1%aa%e3%83%9e%e3%83%b3C) | N/A |
-| 41 | [全力キング](http://twitter.com/search?q=%e5%85%a8%e5%8a%9b%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 42 | [ストーブさん](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%96%e3%81%95%e3%82%93) | N/A |
-| 43 | [獅童さん](http://twitter.com/search?q=%e7%8d%85%e7%ab%a5%e3%81%95%e3%82%93) | N/A |
-| 44 | [はとらほー](http://twitter.com/search?q=%e3%81%af%e3%81%a8%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
-| 45 | [前田拳太郎くん](http://twitter.com/search?q=%e5%89%8d%e7%94%b0%e6%8b%b3%e5%a4%aa%e9%83%8e%e3%81%8f%e3%82%93) | N/A |
-| 46 | [テレビ局のずさん](http://twitter.com/search?q=%e3%83%86%e3%83%ac%e3%83%93%e5%b1%80%e3%81%ae%e3%81%9a%e3%81%95%e3%82%93) | N/A |
+| 26 | [京急人身事故](http://twitter.com/search?q=%e4%ba%ac%e6%80%a5%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | N/A |
+| 27 | [アルカンタラ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%b3%e3%82%bf%e3%83%a9) | N/A |
+| 28 | [カスハラ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%83%8f%e3%83%a9) | N/A |
+| 29 | [バイカオウレン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%ab%e3%82%aa%e3%82%a6%e3%83%ac%e3%83%b3) | N/A |
+| 30 | [春馬くん](http://twitter.com/search?q=%e6%98%a5%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
+| 31 | [EV中核部品のレアアース磁石技術](http://twitter.com/search?q=EV%e4%b8%ad%e6%a0%b8%e9%83%a8%e5%93%81%e3%81%ae%e3%83%ac%e3%82%a2%e3%82%a2%e3%83%bc%e3%82%b9%e7%a3%81%e7%9f%b3%e6%8a%80%e8%a1%93) | N/A |
+| 32 | [茂木幹事長](http://twitter.com/search?q=%e8%8c%82%e6%9c%a8%e5%b9%b9%e4%ba%8b%e9%95%b7) | N/A |
+| 33 | [脱炭素分野](http://twitter.com/search?q=%e8%84%b1%e7%82%ad%e7%b4%a0%e5%88%86%e9%87%8e) | N/A |
+| 34 | [りんご万引き](http://twitter.com/search?q=%e3%82%8a%e3%82%93%e3%81%94%e4%b8%87%e5%bc%95%e3%81%8d) | N/A |
+| 35 | [第439回](http://twitter.com/search?q=%e7%ac%ac439%e5%9b%9e) | N/A |
+| 36 | [全力キング](http://twitter.com/search?q=%e5%85%a8%e5%8a%9b%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 37 | [覇権確立狙い](http://twitter.com/search?q=%e8%a6%87%e6%a8%a9%e7%a2%ba%e7%ab%8b%e7%8b%99%e3%81%84) | N/A |
+| 38 | [パドレス](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%ac%e3%82%b9) | N/A |
+| 39 | [デビューの日](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 40 | [トランプ前大統領](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e5%89%8d%e5%a4%a7%e7%b5%b1%e9%a0%98) | N/A |
+| 41 | [Wordle 655](http://twitter.com/search?q=Wordle+655) | N/A |
+| 42 | [フェリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 43 | [京急蒲田](http://twitter.com/search?q=%e4%ba%ac%e6%80%a5%e8%92%b2%e7%94%b0) | N/A |
+| 44 | [セルティックと対戦計画](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%81%a8%e5%af%be%e6%88%a6%e8%a8%88%e7%94%bb) | N/A |
+| 45 | [欧州強豪マンC](http://twitter.com/search?q=%e6%ac%a7%e5%b7%9e%e5%bc%b7%e8%b1%aa%e3%83%9e%e3%83%b3C) | N/A |
+| 46 | [ストーブさん](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%96%e3%81%95%e3%82%93) | N/A |
 
 
 

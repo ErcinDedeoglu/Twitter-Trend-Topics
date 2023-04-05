@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-04-05 09:17:12 UTC`
+📆 Last Updated: `2023-04-05 10:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,23 +27,23 @@ This is top 50 for Malaysia
 | 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 15 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 13 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 14 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 15 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 17 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
 | 18 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
 | 19 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 20 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 21 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 22 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 23 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 24 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 25 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 28 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 22 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 24 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 26 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 27 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 28 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 29 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 30 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 31 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
 | 32 | [winwin](http://twitter.com/search?q=winwin) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Malaysia
 | 35 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
 | 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 38 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
-| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 40 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 41 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 43 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 44 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
-| 45 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
-| 46 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 47 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
-| 48 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
-| 49 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
-| 50 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 39 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 40 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 43 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
+| 44 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
+| 45 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 46 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
+| 47 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
+| 48 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
+| 49 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 
 
 

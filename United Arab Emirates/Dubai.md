@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-04-05 09:16:52 UTC`
+📆 Last Updated: `2023-04-05 10:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 11 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
 | 12 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 13 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 14 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 15 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 16 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
 | 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
@@ -64,7 +64,7 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 47 | [يعقوب](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
 | 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 49 | [حلف شمال الاطلسي](http://twitter.com/search?q=%d8%ad%d9%84%d9%81+%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%b3%d9%8a) | N/A |
-| 50 | [رواد الفضاء الذهبيه](http://twitter.com/search?q=%d8%b1%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
+| 50 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
 
 
 

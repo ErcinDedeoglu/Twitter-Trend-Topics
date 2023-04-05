@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-05 09:16:56 UTC`
+📆 Last Updated: `2023-04-05 10:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for [India](</India>)
 | 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 14 | [Arunachal Pradesh](http://twitter.com/search?q=Arunachal+Pradesh) | N/A |
 | 15 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 16 | [CBI Brand4Truth Or CagedParrot](http://twitter.com/search?q=CBI+Brand4Truth+Or+CagedParrot) | N/A |
+| 16 | [cbi brand4truth or cagedparrot](http://twitter.com/search?q=cbi+brand4truth+or+cagedparrot) | N/A |
 | 17 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
 | 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 19 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |

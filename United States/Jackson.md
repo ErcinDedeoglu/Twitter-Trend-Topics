@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-04-05 09:17:02 UTC`
+📆 Last Updated: `2023-04-05 10:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,40 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 4 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 5 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 6 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 8 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
-| 9 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 10 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 11 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 12 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 13 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 14 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 15 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 16 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 18 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 19 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 20 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 21 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 22 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 25 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 26 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 27 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 28 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 29 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 30 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
-| 31 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 32 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 33 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 34 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 35 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 36 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
-| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 38 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 39 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 40 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 41 | [Will Benson](http://twitter.com/search?q=Will+Benson) | N/A |
-| 42 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
-| 43 | [Wesneski](http://twitter.com/search?q=Wesneski) | N/A |
-| 44 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 45 | [Horseface](http://twitter.com/search?q=Horseface) | N/A |
-| 46 | [Bob Costas](http://twitter.com/search?q=Bob+Costas) | N/A |
-| 47 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 48 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 5 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 6 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 8 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 9 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
+| 10 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 11 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 12 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 14 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 15 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 16 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 17 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 19 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 20 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 21 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 22 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 23 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 24 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
+| 25 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 26 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 27 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 28 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 29 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 30 | [#BarbieMovie](http://twitter.com/search?q=%23BarbieMovie) | N/A |
+| 31 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 32 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 33 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 34 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
 
 
 

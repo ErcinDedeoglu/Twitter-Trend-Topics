@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-05 09:17:02 UTC`
+📆 Last Updated: `2023-04-05 10:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,48 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 3 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 8 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 9 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 10 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 11 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 12 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 14 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 15 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 16 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 17 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 18 | [#BarbieMovie](http://twitter.com/search?q=%23BarbieMovie) | N/A |
-| 19 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 20 | [Moody](http://twitter.com/search?q=Moody) | N/A |
-| 21 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 22 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 23 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 24 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 25 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 26 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 27 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 28 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 29 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 30 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 31 | [Evers](http://twitter.com/search?q=Evers) | N/A |
-| 32 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 33 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 34 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 35 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 36 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 37 | [O’Neill](http://twitter.com/search?q=O%e2%80%99Neill) | N/A |
-| 38 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 39 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 40 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 41 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 42 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 43 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 44 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 45 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 46 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 47 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
-| 48 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
-| 49 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 1 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
+| 2 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 3 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 4 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 5 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 6 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 9 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 11 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 12 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 14 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
+| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 16 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 17 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 18 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 19 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 20 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 21 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 22 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 23 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 24 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 25 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 26 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 27 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 28 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 31 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
+| 32 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 33 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 34 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 38 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 39 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 40 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 41 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 42 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
 
 
 

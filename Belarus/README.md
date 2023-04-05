@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-05 09:17:08 UTC`
+📆 Last Updated: `2023-04-05 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for Belarus
 | 8 | [беларуси и россии](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 9 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
 | 10 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 11 | [Хэ Сюань](http://twitter.com/search?q=%d0%a5%d1%8d+%d0%a1%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 12 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 13 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 11 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
+| 12 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 13 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 14 | [гэта](http://twitter.com/search?q=%d0%b3%d1%8d%d1%82%d0%b0) | N/A |
 | 15 | [Gm Fren](http://twitter.com/search?q=Gm+Fren) | N/A |
 | 16 | [БОЖЕ](http://twitter.com/search?q=%d0%91%d0%9e%d0%96%d0%95) | N/A |

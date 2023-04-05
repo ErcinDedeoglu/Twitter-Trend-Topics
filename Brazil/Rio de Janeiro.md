@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-05 09:16:30 UTC`
+📆 Last Updated: `2023-04-05 10:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 1 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
 | 2 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 3 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 4 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 7 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 8 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 9 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 10 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 11 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 12 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 13 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 14 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 15 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 16 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 17 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 18 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 19 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
-| 20 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 21 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 22 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 23 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
-| 24 | [Terans](http://twitter.com/search?q=Terans) | N/A |
-| 25 | [QUEENS OF THE STONE AGE](http://twitter.com/search?q=QUEENS+OF+THE+STONE+AGE) | N/A |
-| 26 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 27 | [Turra](http://twitter.com/search?q=Turra) | N/A |
-| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 29 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
-| 32 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 33 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 36 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 37 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 38 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 39 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 40 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 41 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 42 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
-| 43 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
-| 44 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
-| 45 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
-| 46 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 47 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 48 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
+| 3 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 4 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 5 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 6 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 7 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 10 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 11 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 12 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 13 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 14 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 15 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 16 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 17 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 18 | [#SantosNoSBT](http://twitter.com/search?q=%23SantosNoSBT) | N/A |
+| 19 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
+| 20 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
+| 21 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 22 | [Queens of the Stone Age](http://twitter.com/search?q=Queens+of+the+Stone+Age) | N/A |
+| 23 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 24 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 25 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 26 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
+| 27 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 28 | [Turra](http://twitter.com/search?q=Turra) | N/A |
+| 29 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 30 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 31 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
+| 35 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 36 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 37 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 38 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 39 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 41 | [LIGADO NO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=LIGADO+NO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
+| 44 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 45 | [Independiente Medellín](http://twitter.com/search?q=Independiente+Medell%c3%adn) | N/A |
+| 46 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
 
 
 
