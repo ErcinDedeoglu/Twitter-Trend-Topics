@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-05 08:19:00 UTC`
+📆 Last Updated: `2023-04-05 09:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 2 | [#NiveaEasterDeals](http://twitter.com/search?q=%23NiveaEasterDeals) | N/A |
-| 3 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
 | 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
-| 9 | [#PowerUpHBR](http://twitter.com/search?q=%23PowerUpHBR) | N/A |
-| 10 | [Nusu Mkate](http://twitter.com/search?q=Nusu+Mkate) | N/A |
-| 11 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
-| 12 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
-| 13 | [im on the go](http://twitter.com/search?q=im+on+the+go) | N/A |
-| 14 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 8 | [#UnajuaHiiStory](http://twitter.com/search?q=%23UnajuaHiiStory) | N/A |
+| 9 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
+| 10 | [#PowerUpHBR](http://twitter.com/search?q=%23PowerUpHBR) | N/A |
+| 11 | [Nusu Mkate](http://twitter.com/search?q=Nusu+Mkate) | N/A |
+| 12 | [Kofi Annan](http://twitter.com/search?q=Kofi+Annan) | N/A |
+| 13 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
+| 14 | [im on the go](http://twitter.com/search?q=im+on+the+go) | N/A |
 | 15 | [KOVACIC](http://twitter.com/search?q=KOVACIC) | N/A |
-| 16 | [Kofi Annan](http://twitter.com/search?q=Kofi+Annan) | N/A |
-| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 18 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
-| 19 | [Ruto and Raila](http://twitter.com/search?q=Ruto+and+Raila) | N/A |
-| 20 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 21 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
-| 22 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
-| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 24 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
-| 25 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 26 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
-| 27 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 28 | [Paxful](http://twitter.com/search?q=Paxful) | N/A |
-| 29 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
-| 30 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 31 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 32 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
-| 33 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 34 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 37 | [amaco](http://twitter.com/search?q=amaco) | N/A |
-| 38 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
-| 39 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 40 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 41 | [Kigali](http://twitter.com/search?q=Kigali) | N/A |
-| 42 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 43 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 45 | [kenya school of government](http://twitter.com/search?q=kenya+school+of+government) | N/A |
-| 46 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
+| 18 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 20 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
+| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 22 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
+| 23 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 24 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 25 | [Paxful](http://twitter.com/search?q=Paxful) | N/A |
+| 26 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 27 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 28 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 30 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
+| 31 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 32 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
+| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 34 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
+| 35 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 36 | [Kigali](http://twitter.com/search?q=Kigali) | N/A |
+| 37 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 38 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 39 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 40 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
+| 41 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 42 | [Ruto and Raila](http://twitter.com/search?q=Ruto+and+Raila) | N/A |
+| 43 | [kenya school of government](http://twitter.com/search?q=kenya+school+of+government) | N/A |
+| 44 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 45 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
+| 46 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
 | 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 48 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 49 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 50 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
 
 
 

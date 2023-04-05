@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-05 08:18:12 UTC`
+📆 Last Updated: `2023-04-05 09:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
-| 2 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 5 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 6 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
-| 7 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 9 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
-| 10 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 11 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
+| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 2 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
+| 3 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 4 | [#opozycjawygra](http://twitter.com/search?q=%23opozycjawygra) | N/A |
+| 5 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 6 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
+| 7 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 8 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 9 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 10 | [europejskiej partii ludowej](http://twitter.com/search?q=europejskiej+partii+ludowej) | N/A |
+| 11 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 12 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 13 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 14 | [salamona](http://twitter.com/search?q=salamona) | N/A |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 17 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 18 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 13 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 14 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
+| 17 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 18 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 19 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 20 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 21 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 22 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
-| 23 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 24 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
-| 25 | [sojuszu północnoatlantyckiego](http://twitter.com/search?q=sojuszu+p%c3%b3%c5%82nocnoatlantyckiego) | N/A |
-| 26 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
-| 29 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
-| 30 | [zacznie](http://twitter.com/search?q=zacznie) | N/A |
-| 31 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 32 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 33 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 34 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 35 | [donka](http://twitter.com/search?q=donka) | N/A |
-| 36 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 37 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 38 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 39 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 40 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
-| 41 | [Migi](http://twitter.com/search?q=Migi) | N/A |
-| 42 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 43 | [Freiburgiem](http://twitter.com/search?q=Freiburgiem) | N/A |
-| 44 | [pkp energetyka](http://twitter.com/search?q=pkp+energetyka) | N/A |
-| 45 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 46 | [super polsat](http://twitter.com/search?q=super+polsat) | N/A |
-| 47 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
-| 48 | [stolarczyka](http://twitter.com/search?q=stolarczyka) | N/A |
-| 49 | [Turyngii](http://twitter.com/search?q=Turyngii) | N/A |
-| 50 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 20 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 21 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 24 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 25 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
+| 26 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
+| 27 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 28 | [Szwecję](http://twitter.com/search?q=Szwecj%c4%99) | N/A |
+| 29 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
+| 30 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
+| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 32 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
+| 33 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
+| 34 | [finowie](http://twitter.com/search?q=finowie) | N/A |
+| 35 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 36 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 37 | [szwajcaria](http://twitter.com/search?q=szwajcaria) | N/A |
+| 38 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
+| 39 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
+| 40 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 41 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
+| 42 | [migi](http://twitter.com/search?q=migi) | N/A |
+| 43 | [elona](http://twitter.com/search?q=elona) | N/A |
+| 44 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 45 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
+| 46 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
+| 47 | [donka](http://twitter.com/search?q=donka) | N/A |
+| 48 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 49 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 50 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
 
 
 

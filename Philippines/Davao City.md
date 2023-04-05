@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-05 08:18:31 UTC`
+📆 Last Updated: `2023-04-05 09:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
 | 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 5 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 6 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
-| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 13 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 14 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 16 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 17 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
-| 18 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
-| 19 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 20 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 22 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 23 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 26 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
-| 27 | [KAMUSTA KA REYSTER](http://twitter.com/search?q=KAMUSTA+KA+REYSTER) | N/A |
-| 28 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 29 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 30 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 31 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 32 | [jisoo onemellion seller](http://twitter.com/search?q=jisoo+onemellion+seller) | N/A |
-| 33 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
-| 34 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 35 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 36 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 37 | [Shanelle As Jayra](http://twitter.com/search?q=Shanelle+As+Jayra) | N/A |
-| 38 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 39 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 40 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 41 | [Winstone](http://twitter.com/search?q=Winstone) | N/A |
-| 42 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
-| 43 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 44 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 45 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 46 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 47 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 48 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 5 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 7 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 8 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
+| 9 | [Congrats JIMIN](http://twitter.com/search?q=Congrats+JIMIN) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [congratulations park jimin](http://twitter.com/search?q=congratulations+park+jimin) | N/A |
+| 12 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 13 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
+| 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 17 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 19 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 20 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 21 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 22 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 23 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 24 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 25 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 26 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 27 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
+| 28 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 29 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 30 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 31 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 32 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 33 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 34 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 35 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 36 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 37 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 38 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 39 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 40 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 41 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 42 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 43 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 44 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 45 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 47 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 
 
 

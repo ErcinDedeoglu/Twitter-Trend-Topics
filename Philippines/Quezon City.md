@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-04-05 08:18:32 UTC`
+📆 Last Updated: `2023-04-05 09:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Philippines](</Philippines>)
 | 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 9 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
 | 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 14 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 15 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 16 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 18 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 19 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
-| 20 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
-| 21 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 27 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
-| 28 | [KAMUSTA KA REYSTER](http://twitter.com/search?q=KAMUSTA+KA+REYSTER) | N/A |
-| 29 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 30 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 31 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 32 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 33 | [jisoo onemellion seller](http://twitter.com/search?q=jisoo+onemellion+seller) | N/A |
-| 34 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
-| 35 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
-| 36 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 38 | [Shanelle As Jayra](http://twitter.com/search?q=Shanelle+As+Jayra) | N/A |
-| 39 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 40 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 41 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 42 | [Winstone](http://twitter.com/search?q=Winstone) | N/A |
-| 43 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
-| 44 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 45 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 46 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 47 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 48 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 49 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 50 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
+| 11 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
+| 12 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 13 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 14 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 16 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 17 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
+| 18 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
+| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 21 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [KYLER SALAMUCHUA](http://twitter.com/search?q=KYLER+SALAMUCHUA) | N/A |
+| 24 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 25 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 26 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
+| 27 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 28 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 29 | [jisoo onemellion seller](http://twitter.com/search?q=jisoo+onemellion+seller) | N/A |
+| 30 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 31 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
+| 32 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 33 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 34 | [Shanelle As Jayra](http://twitter.com/search?q=Shanelle+As+Jayra) | N/A |
+| 35 | [Bambam](http://twitter.com/search?q=Bambam) | N/A |
+| 36 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 37 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 38 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 39 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 40 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 41 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 42 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 43 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 44 | [SHANELLE AGUSTIN](http://twitter.com/search?q=SHANELLE+AGUSTIN) | N/A |
+| 45 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
+| 46 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 47 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
+| 48 | [VIXIES BREAKING BAD DAY](http://twitter.com/search?q=VIXIES+BREAKING+BAD+DAY) | N/A |
+| 49 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
+| 50 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
 
 
 

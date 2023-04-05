@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-05 08:18:10 UTC`
+📆 Last Updated: `2023-04-05 09:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 2 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
-| 3 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 6 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 7 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 10 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 11 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 12 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 13 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 14 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 17 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
-| 18 | [#OptimusAl](http://twitter.com/search?q=%23OptimusAl) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 22 | [LUCCA](http://twitter.com/search?q=LUCCA) | N/A |
-| 23 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 24 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 27 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 28 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 29 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 31 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 32 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 33 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 34 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 35 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 36 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 37 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 39 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 40 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 41 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 42 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 43 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 44 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 46 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 47 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 48 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 49 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 50 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 1 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 2 | [sesc](http://twitter.com/search?q=sesc) | N/A |
+| 3 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 4 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 5 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
+| 6 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 7 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 8 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 11 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 12 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 13 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 14 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 15 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 16 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 17 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 18 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 19 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 20 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 21 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 22 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 23 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
+| 24 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 25 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 26 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 27 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
+| 28 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 29 | [QUEENS OF THE STONE AGE](http://twitter.com/search?q=QUEENS+OF+THE+STONE+AGE) | N/A |
+| 30 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 31 | [Turra](http://twitter.com/search?q=Turra) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
+| 36 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 37 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 41 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 42 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 43 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 44 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 45 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 46 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
+| 47 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
+| 48 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
 
 
 

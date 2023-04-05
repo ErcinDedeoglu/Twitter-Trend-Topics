@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-04-05 08:18:30 UTC`
+📆 Last Updated: `2023-04-05 09:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,38 +32,38 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 15 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 16 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
 | 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 20 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 22 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 26 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 27 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 30 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 31 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 32 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 33 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 34 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 35 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 36 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 37 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
-| 38 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 39 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
-| 40 | [henry golding](http://twitter.com/search?q=henry+golding) | N/A |
-| 41 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 42 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 43 | [mijoo](http://twitter.com/search?q=mijoo) | N/A |
-| 44 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
-| 45 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 46 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
-| 47 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 18 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 24 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 27 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 29 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 30 | [Henry Golding](http://twitter.com/search?q=Henry+Golding) | N/A |
+| 31 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 32 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 33 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
+| 34 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 37 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
+| 38 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 39 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 40 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 43 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
+| 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 45 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 46 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 47 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
+| 48 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 49 | [Zionist](http://twitter.com/search?q=Zionist) | N/A |
 
 
 

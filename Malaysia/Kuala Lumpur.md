@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-04-05 08:18:30 UTC`
+📆 Last Updated: `2023-04-05 09:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 2 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 3 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
-| 4 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 5 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 9 | [Janna Nick](http://twitter.com/search?q=Janna+Nick) | N/A |
-| 10 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 2 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 5 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 6 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 12 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 13 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 14 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 15 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 16 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 20 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 21 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 22 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 23 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 26 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 27 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 28 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 15 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 17 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 18 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 19 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 20 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 21 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 22 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 23 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 24 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 25 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 27 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 28 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 29 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 30 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 31 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 33 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 34 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 31 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 32 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 33 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 34 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 35 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 36 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 37 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 38 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
-| 39 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 40 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
-| 41 | [henry golding](http://twitter.com/search?q=henry+golding) | N/A |
-| 42 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 43 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 44 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
-| 45 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
-| 46 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
-| 47 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 48 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 49 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 50 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 38 | [shah alam](http://twitter.com/search?q=shah+alam) | N/A |
+| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 40 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 41 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 43 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 44 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
+| 45 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
+| 46 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 47 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
+| 48 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
+| 49 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
+| 50 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
 
 
 
