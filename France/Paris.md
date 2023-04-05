@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-05 01:37:56 UTC`
+📆 Last Updated: `2023-04-05 02:22:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 2 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 3 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 4 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
-| 7 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 8 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 9 | [#freebetunibet](http://twitter.com/search?q=%23freebetunibet) | N/A |
-| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 13 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 14 | [Kanté](http://twitter.com/search?q=Kant%c3%a9) | N/A |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 17 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 20 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 21 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 22 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 23 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 24 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 25 | [La ps5](http://twitter.com/search?q=La+ps5) | N/A |
-| 26 | [Chelsea Liverpool](http://twitter.com/search?q=Chelsea+Liverpool) | N/A |
-| 27 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
-| 28 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
-| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 30 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
-| 31 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 32 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
-| 33 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
-| 34 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
-| 35 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 36 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 37 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 39 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 42 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
-| 43 | [Italie](http://twitter.com/search?q=Italie) | N/A |
-| 44 | [Toko](http://twitter.com/search?q=Toko) | Toko is a Japanese word that means "store" or "shop". It is used to refer to any kind of retail establishment, from small convenience stores to large department stores. |
-| 45 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 46 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 47 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 48 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 49 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 50 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 1 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
+| 2 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 3 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 4 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 5 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 6 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 7 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 8 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 10 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 13 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 14 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 15 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 20 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 21 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 22 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
+| 23 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 24 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 25 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 26 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
+| 27 | [Barth](http://twitter.com/search?q=Barth) | N/A |
+| 28 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
+| 29 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
+| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 32 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 33 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 35 | [Romain Molina](http://twitter.com/search?q=Romain+Molina) | N/A |
+| 36 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 37 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 38 | [Carcassonne](http://twitter.com/search?q=Carcassonne) | N/A |
+| 39 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 41 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
+| 42 | [DGSI](http://twitter.com/search?q=DGSI) | N/A |
+| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 44 | [Arabie](http://twitter.com/search?q=Arabie) | N/A |
+| 45 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 46 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 47 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 48 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 49 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 50 | [Garp](http://twitter.com/search?q=Garp) | N/A |
 
 
 

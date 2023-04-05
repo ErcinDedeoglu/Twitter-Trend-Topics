@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 01:37:55 UTC`
+📆 Last Updated: `2023-04-05 02:22:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 2 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 1 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
 | 3 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 4 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 5 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 8 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 11 | [inserate](http://twitter.com/search?q=inserate) | N/A |
-| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 13 | [Eva Dichand](http://twitter.com/search?q=Eva+Dichand) | N/A |
-| 14 | [agentur](http://twitter.com/search?q=agentur) | N/A |
-| 15 | [instanz](http://twitter.com/search?q=instanz) | N/A |
-| 16 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
-| 17 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 18 | [Ausgabe](http://twitter.com/search?q=Ausgabe) | N/A |
-| 19 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
-| 20 | [Balken](http://twitter.com/search?q=Balken) | N/A |
-| 21 | [schafott](http://twitter.com/search?q=schafott) | N/A |
-| 22 | [Blümel](http://twitter.com/search?q=Bl%c3%bcmel) | N/A |
-| 23 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 24 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 25 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 26 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
-| 27 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 28 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 29 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 30 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 31 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 32 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 35 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 36 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 37 | [Ausmaß](http://twitter.com/search?q=Ausma%c3%9f) | N/A |
-| 38 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 39 | [klenk](http://twitter.com/search?q=klenk) | N/A |
-| 40 | [Chats](http://twitter.com/search?q=Chats) | N/A |
-| 41 | [Dimension](http://twitter.com/search?q=Dimension) | N/A |
-| 42 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 43 | [Italiener](http://twitter.com/search?q=Italiener) | N/A |
-| 44 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 45 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
-| 46 | [Geburt](http://twitter.com/search?q=Geburt) | N/A |
-| 47 | [Zeugs](http://twitter.com/search?q=Zeugs) | N/A |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [Koffer](http://twitter.com/search?q=Koffer) | N/A |
-| 50 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 8 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 9 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 10 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [dichands](http://twitter.com/search?q=dichands) | N/A |
+| 14 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 15 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 16 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 17 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 18 | [inserate](http://twitter.com/search?q=inserate) | N/A |
+| 19 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 20 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 21 | [zeitungen](http://twitter.com/search?q=zeitungen) | N/A |
+| 22 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
+| 23 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
+| 24 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 25 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 26 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 27 | [Agentur](http://twitter.com/search?q=Agentur) | N/A |
+| 28 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 29 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 30 | [Tages](http://twitter.com/search?q=Tages) | N/A |
+| 31 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 32 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 33 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 34 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 35 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
+| 36 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
+| 37 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 38 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 39 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 40 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 41 | [Kenn](http://twitter.com/search?q=Kenn) | N/A |
+| 42 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 43 | [Karten](http://twitter.com/search?q=Karten) | N/A |
+| 44 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 45 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 46 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 47 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 48 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 49 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 50 | [Werk](http://twitter.com/search?q=Werk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-05 01:37:55 UTC`
+📆 Last Updated: `2023-04-05 02:22:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
 | 6 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
 | 7 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 8 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
+| 8 | [#evetot](http://twitter.com/search?q=%23evetot) | N/A |
 | 9 | [#USI23](http://twitter.com/search?q=%23USI23) | N/A |
 | 10 | [Fionnan Sheahan](http://twitter.com/search?q=Fionnan+Sheahan) | N/A |
 | 11 | [Jones](http://twitter.com/search?q=Jones) | N/A |
@@ -32,28 +32,28 @@ This is top 50 for [Ireland](</Ireland>)
 | 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 16 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
 | 17 | [Peter McVerry](http://twitter.com/search?q=Peter+McVerry) | N/A |
-| 18 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 19 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 20 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 21 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 22 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 23 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
-| 24 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 25 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 27 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 28 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 30 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 31 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 33 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 34 | [Tsimikas](http://twitter.com/search?q=Tsimikas) | Tsimikas is a Greek surname. It is derived from the Greek word "tsimikas" which means "small". |
-| 35 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
-| 36 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
-| 37 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 38 | [Anne Harris](http://twitter.com/search?q=Anne+Harris) | N/A |
-| 39 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 18 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 19 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 20 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 21 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
+| 22 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 23 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 25 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 26 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 29 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 30 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 32 | [Tsimikas](http://twitter.com/search?q=Tsimikas) | Tsimikas is a Greek surname. It is derived from the Greek word "tsimikas" which means "small". |
+| 33 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
+| 34 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 35 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 37 | [Anne Harris](http://twitter.com/search?q=Anne+Harris) | N/A |
+| 38 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 39 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
 | 40 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
 | 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 42 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |

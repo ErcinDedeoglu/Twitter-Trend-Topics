@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-05 01:38:46 UTC`
+📆 Last Updated: `2023-04-05 02:23:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for Poland
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 3 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
-| 4 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
-| 5 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 4 | [#opozycjawygra](http://twitter.com/search?q=%23opozycjawygra) | N/A |
+| 5 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
 | 6 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 7 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 8 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
 | 9 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
 | 10 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
-| 11 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
+| 11 | [europejskiej partii ludowej](http://twitter.com/search?q=europejskiej+partii+ludowej) | N/A |
 | 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 13 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
 | 14 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Poland
 | 17 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
 | 18 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
 | 19 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 22 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 23 | [Bayernu](http://twitter.com/search?q=Bayernu) | N/A |
-| 24 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 25 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
-| 26 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
-| 27 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 28 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
-| 29 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 30 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
-| 31 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
-| 32 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 33 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 34 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
-| 35 | [donka](http://twitter.com/search?q=donka) | N/A |
-| 36 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 37 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 38 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 39 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 40 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
-| 41 | [Freiburgiem](http://twitter.com/search?q=Freiburgiem) | N/A |
-| 42 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 43 | [strzałka](http://twitter.com/search?q=strza%c5%82ka) | N/A |
-| 44 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
-| 45 | [migi](http://twitter.com/search?q=migi) | N/A |
-| 46 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 47 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [pkp energetyka](http://twitter.com/search?q=pkp+energetyka) | N/A |
-| 50 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 20 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 23 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 24 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
+| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 26 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
+| 27 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 28 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
+| 29 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 30 | [mameda](http://twitter.com/search?q=mameda) | N/A |
+| 31 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 32 | [bartosz salamon](http://twitter.com/search?q=bartosz+salamon) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [donka](http://twitter.com/search?q=donka) | N/A |
+| 35 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 36 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 37 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
+| 38 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
+| 39 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 40 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
+| 41 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 42 | [strzałka](http://twitter.com/search?q=strza%c5%82ka) | N/A |
+| 43 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
+| 44 | [migi](http://twitter.com/search?q=migi) | N/A |
+| 45 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 46 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 47 | [pkp energetyka](http://twitter.com/search?q=pkp+energetyka) | N/A |
+| 48 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 49 | [super polsat](http://twitter.com/search?q=super+polsat) | N/A |
+| 50 | [henryk kowalczyk](http://twitter.com/search?q=henryk+kowalczyk) | N/A |
 
 
 

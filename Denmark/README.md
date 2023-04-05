@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-05 01:38:42 UTC`
+📆 Last Updated: `2023-04-05 02:23:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for Denmark
 | 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 5 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
-| 9 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 7 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
+| 8 | [paludan](http://twitter.com/search?q=paludan) | N/A |
+| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 12 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 13 | [Bones](http://twitter.com/search?q=Bones) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Denmark
 | 29 | [Sanjay Shah](http://twitter.com/search?q=Sanjay+Shah) | N/A |
 | 30 | [farum](http://twitter.com/search?q=farum) | N/A |
 | 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 33 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 35 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
-| 36 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 37 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 38 | [$SHIDO](http://twitter.com/search?q=%24SHIDO) | N/A |
-| 39 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 40 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
-| 41 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 42 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 43 | [spørgsmålet](http://twitter.com/search?q=sp%c3%b8rgsm%c3%a5let) | N/A |
-| 44 | [Skat](http://twitter.com/search?q=Skat) | N/A |
-| 45 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 46 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 47 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 48 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 49 | [Hele](http://twitter.com/search?q=Hele) | N/A |
-| 50 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 34 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
+| 37 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 38 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 39 | [$SHIDO](http://twitter.com/search?q=%24SHIDO) | N/A |
+| 40 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 41 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
+| 42 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 43 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 44 | [spørgsmålet](http://twitter.com/search?q=sp%c3%b8rgsm%c3%a5let) | N/A |
+| 45 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 47 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 48 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 49 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 50 | [Hele](http://twitter.com/search?q=Hele) | N/A |
 
 
 

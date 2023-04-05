@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-04-05 01:38:28 UTC`
+📆 Last Updated: `2023-04-05 02:23:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 2 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 3 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
-| 4 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 5 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
-| 6 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Ya Kahhar](http://twitter.com/search?q=Ya+Kahhar) | N/A |
-| 9 | [Yıkılasın İsrail](http://twitter.com/search?q=Y%c4%b1k%c4%b1las%c4%b1n+%c4%b0srail) | N/A |
-| 10 | [İşgalci İsrail](http://twitter.com/search?q=%c4%b0%c5%9fgalci+%c4%b0srail) | N/A |
-| 11 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 12 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
-| 13 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
-| 14 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
-| 15 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
-| 16 | [GELİYOR GELMEKTE OLAN](http://twitter.com/search?q=GEL%c4%b0YOR+GELMEKTE+OLAN) | N/A |
-| 17 | [Usmanım](http://twitter.com/search?q=Usman%c4%b1m) | N/A |
-| 18 | [Bay Bay Kemal](http://twitter.com/search?q=Bay+Bay+Kemal) | N/A |
-| 19 | [BİZİM BAHARIMIZ ERDOĞAN](http://twitter.com/search?q=B%c4%b0Z%c4%b0M+BAHARIMIZ+ERDO%c4%9eAN) | N/A |
-| 20 | [Vazgeçtim](http://twitter.com/search?q=Vazge%c3%a7tim) | N/A |
-| 21 | [Semiha](http://twitter.com/search?q=Semiha) | N/A |
-| 22 | [Uzman](http://twitter.com/search?q=Uzman) | N/A |
-| 23 | [New York'ta](http://twitter.com/search?q=New+York%27ta) | N/A |
-| 24 | [Askerlik](http://twitter.com/search?q=Askerlik) | N/A |
-| 25 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 26 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
-| 27 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 28 | [Zorunlu](http://twitter.com/search?q=Zorunlu) | N/A |
-| 29 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 30 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 31 | [Avcı](http://twitter.com/search?q=Avc%c4%b1) | N/A |
-| 32 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 33 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 34 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 35 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
-| 36 | [GHBG FinalOlmasın](http://twitter.com/search?q=GHBG+FinalOlmas%c4%b1n) | N/A |
-| 37 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
-| 38 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 39 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Askere](http://twitter.com/search?q=Askere) | N/A |
-| 42 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 43 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
-| 44 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 45 | [#SüleymanSeba](http://twitter.com/search?q=%23S%c3%bcleymanSeba) | N/A |
-| 46 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 47 | [#filistin](http://twitter.com/search?q=%23filistin) | N/A |
+| 1 | [#OrhanAkİSTİFA](http://twitter.com/search?q=%23OrhanAk%c4%b0ST%c4%b0FA) | N/A |
+| 2 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
+| 3 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
+| 6 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
+| 7 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
+| 8 | [İyikiDoğdun ErenAlan](http://twitter.com/search?q=%c4%b0yikiDo%c4%9fdun+ErenAlan) | N/A |
+| 9 | [kanal 3](http://twitter.com/search?q=kanal+3) | N/A |
+| 10 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 11 | [Ali Sowe](http://twitter.com/search?q=Ali+Sowe) | N/A |
+| 12 | [GenelAf Sebepleri](http://twitter.com/search?q=GenelAf+Sebepleri) | N/A |
+| 13 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 14 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 15 | [MutluYıllar DenizBaysal](http://twitter.com/search?q=MutluY%c4%b1llar+DenizBaysal) | N/A |
+| 16 | [BayKemaldenArkeoSanataSöz](http://twitter.com/search?q=BayKemaldenArkeoSanataS%c3%b6z) | N/A |
+| 17 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
+| 18 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
+| 19 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
+| 20 | [Kupa Beyi](http://twitter.com/search?q=Kupa+Beyi) | N/A |
+| 21 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
+| 22 | [Safiye](http://twitter.com/search?q=Safiye) | N/A |
+| 23 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 24 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
+| 25 | [Markovic](http://twitter.com/search?q=Markovic) | N/A |
+| 26 | [BİZİM BAHARIMIZ ERDOĞAN](http://twitter.com/search?q=B%c4%b0Z%c4%b0M+BAHARIMIZ+ERDO%c4%9eAN) | N/A |
+| 27 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 28 | [Peres](http://twitter.com/search?q=Peres) | N/A |
+| 29 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 30 | [New York'ta](http://twitter.com/search?q=New+York%27ta) | N/A |
+| 31 | [Usmanım](http://twitter.com/search?q=Usman%c4%b1m) | N/A |
+| 32 | [Hüseyin Türkmen](http://twitter.com/search?q=H%c3%bcseyin+T%c3%bcrkmen) | N/A |
+| 33 | [Yönetim](http://twitter.com/search?q=Y%c3%b6netim) | N/A |
+| 34 | [Aybüke](http://twitter.com/search?q=Ayb%c3%bcke) | N/A |
+| 35 | [Hamsik](http://twitter.com/search?q=Hamsik) | Hamsik is a surname of Slovak origin. It is derived from the word "hamska", which means "little goose". In English, it can be translated to mean "little goose". |
+| 36 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 37 | [Visca](http://twitter.com/search?q=Visca) | N/A |
+| 38 | [Serenay](http://twitter.com/search?q=Serenay) | N/A |
+| 39 | [Tolunay Kafkas](http://twitter.com/search?q=Tolunay+Kafkas) | N/A |
+| 40 | [Abdülkadir Ömür](http://twitter.com/search?q=Abd%c3%bclkadir+%c3%96m%c3%bcr) | N/A |
+| 41 | [GHBG FinalOlmasın](http://twitter.com/search?q=GHBG+FinalOlmas%c4%b1n) | N/A |
+| 42 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 43 | [Kıymet](http://twitter.com/search?q=K%c4%b1ymet) | N/A |
+| 44 | [Takımın](http://twitter.com/search?q=Tak%c4%b1m%c4%b1n) | N/A |
+| 45 | [Zorunlu](http://twitter.com/search?q=Zorunlu) | N/A |
+| 46 | [Stajyer](http://twitter.com/search?q=Stajyer) | N/A |
+| 47 | [Ziraat Türkiye Kupası](http://twitter.com/search?q=Ziraat+T%c3%bcrkiye+Kupas%c4%b1) | N/A |
 
 
 

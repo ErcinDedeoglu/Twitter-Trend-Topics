@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-05 01:38:36 UTC`
+📆 Last Updated: `2023-04-05 02:23:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 2 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 3 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 4 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 5 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 8 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 1 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 2 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 4 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 5 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
 | 9 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 10 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 13 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 14 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 16 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 17 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 18 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 20 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 11 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 12 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 14 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 15 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 16 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 17 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 18 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 19 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 20 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 21 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 22 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 24 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 25 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 26 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 27 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 28 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 29 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 30 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 31 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 32 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 33 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 34 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 35 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 36 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 37 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 38 | [Brian Hartline](http://twitter.com/search?q=Brian+Hartline) | N/A |
-| 39 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 40 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 41 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [Mylan Graham](http://twitter.com/search?q=Mylan+Graham) | N/A |
-| 44 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
-| 45 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
-| 46 | [Matz](http://twitter.com/search?q=Matz) | N/A |
-| 47 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
-| 48 | [Pleasantville](http://twitter.com/search?q=Pleasantville) | N/A |
-| 49 | [Will Benson](http://twitter.com/search?q=Will+Benson) | N/A |
-| 50 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 22 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 23 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
+| 24 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 25 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 26 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 27 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 28 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
+| 29 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 30 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 31 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 32 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 33 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 34 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 35 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 36 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 37 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 38 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 39 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
+| 40 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 41 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 42 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 43 | [Judd](http://twitter.com/search?q=Judd) | N/A |
+| 44 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
+| 45 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 46 | [Pleasantville](http://twitter.com/search?q=Pleasantville) | N/A |
+| 47 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
+| 48 | [Heaney](http://twitter.com/search?q=Heaney) | N/A |
+| 49 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 50 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 
 
 

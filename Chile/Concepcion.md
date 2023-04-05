@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-05 01:37:48 UTC`
+📆 Last Updated: `2023-04-05 02:22:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#LeyNainRetamalAhora](http://twitter.com/search?q=%23LeyNainRetamalAhora) | N/A |
-| 3 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 4 | [#LeyGatilloFacil](http://twitter.com/search?q=%23LeyGatilloFacil) | N/A |
+| 1 | [#LeyNainRetamalAhora](http://twitter.com/search?q=%23LeyNainRetamalAhora) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#LeyGatilloFacil](http://twitter.com/search?q=%23LeyGatilloFacil) | N/A |
+| 4 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
 | 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 6 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 7 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 8 | [#PasapalabraCHV](http://twitter.com/search?q=%23PasapalabraCHV) | N/A |
-| 9 | [Gaspar Rivas](http://twitter.com/search?q=Gaspar+Rivas) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
-| 12 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
-| 13 | [GOPE](http://twitter.com/search?q=GOPE) | N/A |
-| 14 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 15 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 16 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 6 | [Newell](http://twitter.com/search?q=Newell) | N/A |
+| 7 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 8 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
+| 9 | [#PasapalabraCHV](http://twitter.com/search?q=%23PasapalabraCHV) | N/A |
+| 10 | [Gaspar Rivas](http://twitter.com/search?q=Gaspar+Rivas) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 13 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 14 | [GOPE](http://twitter.com/search?q=GOPE) | N/A |
+| 15 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 16 | [#wrestlemaniacl](http://twitter.com/search?q=%23wrestlemaniacl) | N/A |
 | 17 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
 | 18 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 19 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 20 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
-| 21 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 22 | [Superclásico](http://twitter.com/search?q=Supercl%c3%a1sico) | N/A |
-| 23 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 24 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 25 | [Veto](http://twitter.com/search?q=Veto) | N/A |
-| 26 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 19 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
+| 20 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 21 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 22 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 25 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 26 | [Veto](http://twitter.com/search?q=Veto) | N/A |
 | 27 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 28 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 30 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 28 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 29 | [Manuel Fernández](http://twitter.com/search?q=Manuel+Fern%c3%a1ndez) | N/A |
+| 30 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
 | 31 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
 | 32 | [Compromiso Transversal](http://twitter.com/search?q=Compromiso+Transversal) | N/A |
 | 33 | [camila flores](http://twitter.com/search?q=camila+flores) | N/A |
-| 34 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 35 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
-| 36 | [Pidima](http://twitter.com/search?q=Pidima) | N/A |
-| 37 | [vámonos quiñones](http://twitter.com/search?q=v%c3%a1monos+qui%c3%b1ones) | N/A |
-| 38 | [Lucia Dammert](http://twitter.com/search?q=Lucia+Dammert) | N/A |
-| 39 | [Maisa Rojas](http://twitter.com/search?q=Maisa+Rojas) | N/A |
-| 40 | [Comisión de Educación](http://twitter.com/search?q=Comisi%c3%b3n+de+Educaci%c3%b3n) | N/A |
-| 41 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 42 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 43 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
-| 44 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 45 | [Congreso Nacional](http://twitter.com/search?q=Congreso+Nacional) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Felipe Kast](http://twitter.com/search?q=Felipe+Kast) | N/A |
-| 48 | [Manuel Fernández](http://twitter.com/search?q=Manuel+Fern%c3%a1ndez) | N/A |
-| 49 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 50 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 34 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 35 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 36 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 37 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 38 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 39 | [Pidima](http://twitter.com/search?q=Pidima) | N/A |
+| 40 | [vámonos quiñones](http://twitter.com/search?q=v%c3%a1monos+qui%c3%b1ones) | N/A |
+| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 42 | [Maisa Rojas](http://twitter.com/search?q=Maisa+Rojas) | N/A |
+| 43 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
+| 44 | [Comisión de Educación](http://twitter.com/search?q=Comisi%c3%b3n+de+Educaci%c3%b3n) | N/A |
+| 45 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
+| 46 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 47 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 48 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 49 | [Felipe Kast](http://twitter.com/search?q=Felipe+Kast) | N/A |
+| 50 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
 
 
 

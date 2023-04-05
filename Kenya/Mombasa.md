@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-04-05 01:38:17 UTC`
+📆 Last Updated: `2023-04-05 02:23:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for [Kenya](</Kenya>)
 | 7 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 8 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
 | 9 | [Nusu Mkate](http://twitter.com/search?q=Nusu+Mkate) | N/A |
-| 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 11 | [#tirriestuesday](http://twitter.com/search?q=%23tirriestuesday) | N/A |
-| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 10 | [#Onlineclass](http://twitter.com/search?q=%23Onlineclass) | N/A |
+| 11 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 12 | [#tirriestuesday](http://twitter.com/search?q=%23tirriestuesday) | N/A |
 | 13 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
 | 14 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
 | 15 | [im on the go](http://twitter.com/search?q=im+on+the+go) | N/A |
@@ -39,11 +39,11 @@ This is top 50 for [Kenya](</Kenya>)
 | 22 | [spc kenya 2023](http://twitter.com/search?q=spc+kenya+2023) | N/A |
 | 23 | [mukumu girls](http://twitter.com/search?q=mukumu+girls) | N/A |
 | 24 | [ruto and raila](http://twitter.com/search?q=ruto+and+raila) | N/A |
-| 25 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 27 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 28 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
-| 29 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 26 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 27 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
+| 28 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
+| 29 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 30 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
 | 31 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
 | 32 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Kenya](</Kenya>)
 | 34 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
 | 35 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
 | 36 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 37 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 41 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
-| 42 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 43 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
-| 44 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [Kigali](http://twitter.com/search?q=Kigali) | N/A |
-| 47 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
-| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 49 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 50 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 37 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 38 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 41 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 42 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 43 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 44 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
+| 45 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 46 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [Kigali](http://twitter.com/search?q=Kigali) | N/A |
+| 48 | [Amaco](http://twitter.com/search?q=Amaco) | N/A |
+| 49 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 50 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 
 
 
