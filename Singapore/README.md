@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-05 21:18:11 UTC`
+📆 Last Updated: `2023-04-05 22:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Singapore
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
-| 2 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#JacksonWang](http://twitter.com/search?q=%23JacksonWang) | N/A |
-| 5 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 6 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 9 | [#MAGICMAN](http://twitter.com/search?q=%23MAGICMAN) | N/A |
-| 10 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 4 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 5 | [#JacksonWang](http://twitter.com/search?q=%23JacksonWang) | N/A |
+| 6 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 7 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 8 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 10 | [#MAGICMAN](http://twitter.com/search?q=%23MAGICMAN) | N/A |
 | 11 | [#Bigbang](http://twitter.com/search?q=%23Bigbang) | N/A |
 | 12 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 13 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 14 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
 | 15 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 16 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 17 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 18 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Okie](http://twitter.com/search?q=Okie) | N/A |
-| 23 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Armys](http://twitter.com/search?q=Armys) | N/A |
-| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 16 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 17 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Okie](http://twitter.com/search?q=Okie) | N/A |
+| 22 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 24 | [Armys](http://twitter.com/search?q=Armys) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
 | 28 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [German](http://twitter.com/search?q=German) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 33 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 36 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 37 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 38 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 42 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 43 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 44 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 46 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
-| 47 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 48 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 49 | [California](http://twitter.com/search?q=California) | N/A |
-| 50 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 29 | [German](http://twitter.com/search?q=German) | N/A |
+| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 31 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 32 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 35 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 36 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 37 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 41 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 42 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 43 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
+| 46 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 48 | [California](http://twitter.com/search?q=California) | N/A |
+| 49 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 50 | [eunji](http://twitter.com/search?q=eunji) | N/A |
 
 
 

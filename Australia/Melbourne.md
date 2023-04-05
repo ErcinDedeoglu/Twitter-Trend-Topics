@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-05 21:17:32 UTC`
+📆 Last Updated: `2023-04-05 22:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
-| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 6 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 8 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 9 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 11 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 12 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 13 | [#VoteNOAustralia](http://twitter.com/search?q=%23VoteNOAustralia) | N/A |
-| 14 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 16 | [America](http://twitter.com/search?q=America) | N/A |
-| 17 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 20 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 22 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 26 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 29 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 30 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 31 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 32 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 34 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 35 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 36 | [rishworth](http://twitter.com/search?q=rishworth) | N/A |
-| 37 | [Terence Kelly](http://twitter.com/search?q=Terence+Kelly) | N/A |
-| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 39 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 40 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 41 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 42 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 43 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 44 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 45 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 46 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 47 | [Overwatch](http://twitter.com/search?q=Overwatch) | N/A |
-| 48 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 49 | [hawkesbury](http://twitter.com/search?q=hawkesbury) | N/A |
-| 50 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 1 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
+| 2 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 3 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
+| 9 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 10 | [#mcyvmvc](http://twitter.com/search?q=%23mcyvmvc) | N/A |
+| 11 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 12 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 13 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
+| 14 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 15 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 18 | [Uluru](http://twitter.com/search?q=Uluru) | N/A |
+| 19 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 20 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 21 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 22 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 23 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 24 | [Paul Fletcher](http://twitter.com/search?q=Paul+Fletcher) | N/A |
+| 25 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 26 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 30 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 31 | [CFMEU](http://twitter.com/search?q=CFMEU) | N/A |
+| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 33 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 34 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 35 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 36 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 37 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 38 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 39 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 40 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
+| 41 | [Queensland](http://twitter.com/search?q=Queensland) | N/A |
+| 42 | [Aesha](http://twitter.com/search?q=Aesha) | N/A |
+| 43 | [The LNP](http://twitter.com/search?q=The+LNP) | N/A |
+| 44 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 45 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 46 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 47 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
+| 48 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
+| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 50 | [ann lesley smith](http://twitter.com/search?q=ann+lesley+smith) | N/A |
 
 
 

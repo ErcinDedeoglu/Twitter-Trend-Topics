@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-04-05 21:17:52 UTC`
+📆 Last Updated: `2023-04-05 22:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
+| 1 | [#LaleOrtaİstifa](http://twitter.com/search?q=%23LaleOrta%c4%b0stifa) | N/A |
 | 2 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
-| 3 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 4 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
-| 5 | [BagkuruCozene İktidarDeriz](http://twitter.com/search?q=BagkuruCozene+%c4%b0ktidarDeriz) | N/A |
-| 6 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
+| 3 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
+| 4 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 5 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
+| 6 | [SiziSeviyoruz AyTol](http://twitter.com/search?q=SiziSeviyoruz+AyTol) | N/A |
 | 7 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
 | 8 | [OY BEKLEME KEMAL](http://twitter.com/search?q=OY+BEKLEME+KEMAL) | N/A |
-| 9 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
-| 10 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 11 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
-| 12 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
-| 13 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 16 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Barış Alper](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper) | Barış Alper is a Turkish name, with the given name Barış meaning "peace" and the surname Alper meaning "brave". In English, the name would translate to "Peace Brave". |
-| 19 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
-| 20 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
-| 21 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
-| 22 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 23 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 24 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 25 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 26 | [Avrupa'ya](http://twitter.com/search?q=Avrupa%27ya) | N/A |
-| 27 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
-| 28 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
+| 9 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
+| 10 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 11 | [Kasıt VAR](http://twitter.com/search?q=Kas%c4%b1t+VAR) | N/A |
+| 12 | [BagkuruCozene İktidarDeriz](http://twitter.com/search?q=BagkuruCozene+%c4%b0ktidarDeriz) | N/A |
+| 13 | [Operasyon VAR](http://twitter.com/search?q=Operasyon+VAR) | N/A |
+| 14 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 15 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 18 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 19 | [Barış Alper](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper) | Barış Alper is a Turkish name, with the given name Barış meaning "peace" and the surname Alper meaning "brave". In English, the name would translate to "Peace Brave". |
+| 20 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 22 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
+| 23 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 24 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 25 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 26 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 27 | [Avrupa'ya](http://twitter.com/search?q=Avrupa%27ya) | N/A |
+| 28 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
 | 29 | [Verilmeyen 2](http://twitter.com/search?q=Verilmeyen+2) | N/A |
-| 30 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
-| 31 | [Levent Tüzemen](http://twitter.com/search?q=Levent+T%c3%bczemen) | Levent Tüzemen is a Turkish name. It is composed of two words: Levent, which means "brave" or "courageous," and Tüzemen, which means "wind." In English, the name would translate to "Brave Wind." |
-| 32 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 33 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 34 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
-| 35 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
-| 36 | [Ligde](http://twitter.com/search?q=Ligde) | N/A |
-| 37 | [Boey](http://twitter.com/search?q=Boey) | N/A |
-| 38 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 39 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 40 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 41 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 42 | [AKSA SALDIRI ALTINDA](http://twitter.com/search?q=AKSA+SALDIRI+ALTINDA) | N/A |
-| 43 | [Oliviera](http://twitter.com/search?q=Oliviera) | N/A |
-| 44 | [TaşeronunOyu AyrımsızKadroya](http://twitter.com/search?q=Ta%c5%9feronunOyu+Ayr%c4%b1ms%c4%b1zKadroya) | N/A |
-| 45 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 46 | [KayıplarınSesini DuyanVarMı](http://twitter.com/search?q=Kay%c4%b1plar%c4%b1nSesini+DuyanVarM%c4%b1) | N/A |
-| 47 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
-| 48 | [Kupa](http://twitter.com/search?q=Kupa) | N/A |
+| 30 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 31 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
+| 32 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 33 | [Filistin](http://twitter.com/search?q=Filistin) | N/A |
+| 34 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 35 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
+| 36 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
+| 37 | [Levent Tüzemen](http://twitter.com/search?q=Levent+T%c3%bczemen) | Levent Tüzemen is a Turkish name. It is composed of two words: Levent, which means "brave" or "courageous," and Tüzemen, which means "wind." In English, the name would translate to "Brave Wind." |
+| 38 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 39 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 40 | [Ligde](http://twitter.com/search?q=Ligde) | N/A |
+| 41 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
+| 42 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 43 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
+| 44 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 45 | [AKSA SALDIRI ALTINDA](http://twitter.com/search?q=AKSA+SALDIRI+ALTINDA) | N/A |
+| 46 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 47 | [Boey](http://twitter.com/search?q=Boey) | N/A |
+| 48 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
 
 
 

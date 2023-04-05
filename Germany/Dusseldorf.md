@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-04-05 21:17:25 UTC`
+📆 Last Updated: `2023-04-05 22:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 3 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 4 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
-| 5 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 6 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 7 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
+| 1 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
+| 2 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 3 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 4 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 5 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
+| 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 7 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
 | 8 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [Brych](http://twitter.com/search?q=Brych) | N/A |
-| 11 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 12 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 13 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 14 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 15 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
-| 16 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
-| 17 | [Torchance](http://twitter.com/search?q=Torchance) | N/A |
-| 18 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 19 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 20 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 21 | [Edin](http://twitter.com/search?q=Edin) | N/A |
-| 22 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 23 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 24 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 9 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 10 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 11 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 12 | [Brych](http://twitter.com/search?q=Brych) | N/A |
+| 13 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
+| 14 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
+| 15 | [Torchance](http://twitter.com/search?q=Torchance) | N/A |
+| 16 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 17 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 18 | [Edin](http://twitter.com/search?q=Edin) | N/A |
+| 19 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 20 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 21 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 22 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 23 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 24 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
 | 25 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
-| 26 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 27 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 30 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 31 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 32 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 33 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 34 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 35 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 36 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 37 | [Kommentatorin](http://twitter.com/search?q=Kommentatorin) | N/A |
-| 38 | [BVB Fans](http://twitter.com/search?q=BVB+Fans) | N/A |
-| 39 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 40 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 41 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 42 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 43 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 44 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 46 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 47 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 48 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 49 | [Licht](http://twitter.com/search?q=Licht) | N/A |
-| 50 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 27 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 30 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 31 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 32 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 33 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 34 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 35 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 36 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 37 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 38 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 39 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 40 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 43 | [#maxxwwe](http://twitter.com/search?q=%23maxxwwe) | N/A |
+| 44 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 45 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 46 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 47 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
+| 48 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-04-05 21:17:39 UTC`
+📆 Last Updated: `2023-04-05 22:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 6 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 7 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 8 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 9 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
-| 10 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 11 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 12 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 13 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
-| 14 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
-| 15 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 16 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
-| 17 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 18 | [catanduanes](http://twitter.com/search?q=catanduanes) | N/A |
-| 19 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 20 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
-| 21 | [holy tuesday](http://twitter.com/search?q=holy+tuesday) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 24 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 25 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 26 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
-| 27 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 28 | [with iu](http://twitter.com/search?q=with+iu) | N/A |
-| 29 | [kyler salamuchua](http://twitter.com/search?q=kyler+salamuchua) | N/A |
-| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 31 | [Jeong Jaehyun](http://twitter.com/search?q=Jeong+Jaehyun) | N/A |
-| 32 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 34 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 36 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 37 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 39 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 40 | [rufa mae](http://twitter.com/search?q=rufa+mae) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
-| 43 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
-| 44 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
-| 45 | [Bright x Riser](http://twitter.com/search?q=Bright+x+Riser) | N/A |
-| 46 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 47 | [MARK TUAN](http://twitter.com/search?q=MARK+TUAN) | N/A |
-| 48 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 49 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 50 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 9 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 10 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
+| 11 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 12 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 13 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 15 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
+| 16 | [catanduanes](http://twitter.com/search?q=catanduanes) | N/A |
+| 17 | [hbd love best boy](http://twitter.com/search?q=hbd+love+best+boy) | N/A |
+| 18 | [holy tuesday](http://twitter.com/search?q=holy+tuesday) | N/A |
+| 19 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 21 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 22 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
+| 23 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 24 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 25 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 27 | [kyler salamuchua](http://twitter.com/search?q=kyler+salamuchua) | N/A |
+| 28 | [Jeong Jaehyun](http://twitter.com/search?q=Jeong+Jaehyun) | N/A |
+| 29 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 30 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 31 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 32 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 33 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 34 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 35 | [rufa mae](http://twitter.com/search?q=rufa+mae) | N/A |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 38 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 39 | [btob may comeback](http://twitter.com/search?q=btob+may+comeback) | N/A |
+| 40 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 41 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
+| 42 | [Bright x Riser](http://twitter.com/search?q=Bright+x+Riser) | N/A |
+| 43 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 44 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 45 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 46 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
+| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 48 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 50 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
 
 
 
