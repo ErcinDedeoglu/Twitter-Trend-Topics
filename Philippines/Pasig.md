@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-04-05 14:20:18 UTC`
+📆 Last Updated: `2023-04-05 15:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FLOWER1stWin](http://twitter.com/search?q=%23FLOWER1stWin) | N/A |
-| 2 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
-| 3 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
-| 4 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 5 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 7 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 8 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 9 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 10 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 11 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 1 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
+| 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
+| 3 | [HAPPY KIM MINGYU DAY](http://twitter.com/search?q=HAPPY+KIM+MINGYU+DAY) | N/A |
+| 4 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 5 | [#HORI7ON_Salamat_MV](http://twitter.com/search?q=%23HORI7ON_Salamat_MV) | N/A |
+| 6 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 7 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 8 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 9 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 10 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 11 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
 | 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 14 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
-| 17 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 19 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 20 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 21 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 22 | [Michael cera](http://twitter.com/search?q=Michael+cera) | N/A |
-| 23 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 24 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
-| 25 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 26 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 27 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 28 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 29 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 30 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 31 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
-| 32 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 33 | [MINHYUK](http://twitter.com/search?q=MINHYUK) | N/A |
-| 34 | [2 ft](http://twitter.com/search?q=2+ft) | N/A |
-| 35 | [EMMA MACKEY](http://twitter.com/search?q=EMMA+MACKEY) | N/A |
-| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 37 | [with iu](http://twitter.com/search?q=with+iu) | N/A |
-| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 39 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 40 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 41 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 42 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 43 | [JIMINIE](http://twitter.com/search?q=JIMINIE) | N/A |
-| 44 | [TaeKook](http://twitter.com/search?q=TaeKook) | N/A |
-| 45 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 46 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 47 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
-| 48 | [KYLER SALAMUCHUA](http://twitter.com/search?q=KYLER+SALAMUCHUA) | N/A |
-| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 50 | [moana](http://twitter.com/search?q=moana) | N/A |
+| 13 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
+| 14 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
+| 15 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 16 | [PBBGYO PLOT THICKENS](http://twitter.com/search?q=PBBGYO+PLOT+THICKENS) | N/A |
+| 17 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 18 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 19 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 20 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 21 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
+| 22 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 23 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 24 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 25 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 26 | [kyler salamuchua](http://twitter.com/search?q=kyler+salamuchua) | N/A |
+| 27 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
+| 28 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 29 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 30 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 31 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
+| 32 | [shanelle as jayra](http://twitter.com/search?q=shanelle+as+jayra) | N/A |
+| 33 | [shanelle agustin](http://twitter.com/search?q=shanelle+agustin) | N/A |
+| 34 | [Bright x Riser](http://twitter.com/search?q=Bright+x+Riser) | N/A |
+| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 37 | [SERBISYONG BBMSARA](http://twitter.com/search?q=SERBISYONG+BBMSARA) | N/A |
+| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 39 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
+| 40 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
+| 41 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 42 | [ALAMAT ON THE ROAD PT](http://twitter.com/search?q=ALAMAT+ON+THE+ROAD+PT) | N/A |
+| 43 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 44 | [ALJAY TC EXTRAS QUESTUNES](http://twitter.com/search?q=ALJAY+TC+EXTRAS+QUESTUNES) | N/A |
+| 45 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
+| 46 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 47 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
+| 48 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 49 | [CHA EUNWOO](http://twitter.com/search?q=CHA+EUNWOO) | N/A |
+| 50 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 
 
 

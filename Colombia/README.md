@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-05 14:20:48 UTC`
+📆 Last Updated: `2023-04-05 15:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 4 | [#TheCloudxBecky](http://twitter.com/search?q=%23TheCloudxBecky) | N/A |
-| 5 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 6 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 10 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 11 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 12 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 13 | [castro](http://twitter.com/search?q=castro) | N/A |
-| 14 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 15 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 16 | [Vicky Dávila](http://twitter.com/search?q=Vicky+D%c3%a1vila) | N/A |
-| 17 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 18 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
-| 19 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 20 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 21 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 24 | [Antioquia](http://twitter.com/search?q=Antioquia) | N/A |
-| 25 | [Peñalosa](http://twitter.com/search?q=Pe%c3%b1alosa) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
-| 28 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 29 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 30 | [Guajira](http://twitter.com/search?q=Guajira) | N/A |
-| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 32 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 33 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 34 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 35 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
-| 36 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 37 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
-| 38 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 39 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 41 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
-| 42 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 43 | [#lcdlf3](http://twitter.com/search?q=%23lcdlf3) | N/A |
-| 44 | [#ColombiaSinMinas](http://twitter.com/search?q=%23ColombiaSinMinas) | N/A |
+| 1 | [#AlEstadioConTigoVerde](http://twitter.com/search?q=%23AlEstadioConTigoVerde) | N/A |
+| 2 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#OroPor](http://twitter.com/search?q=%23OroPor) | N/A |
+| 5 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [#Reflexionemos](http://twitter.com/search?q=%23Reflexionemos) | N/A |
+| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 9 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 11 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
+| 12 | [Icfes](http://twitter.com/search?q=Icfes) | N/A |
+| 13 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 14 | [Elenos](http://twitter.com/search?q=Elenos) | N/A |
+| 15 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 17 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
+| 18 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 19 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 20 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 21 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 22 | [Dane](http://twitter.com/search?q=Dane) | N/A |
+| 23 | [Minas Antipersonal](http://twitter.com/search?q=Minas+Antipersonal) | N/A |
+| 24 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
+| 25 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 26 | [LEO CASTRO](http://twitter.com/search?q=LEO+CASTRO) | N/A |
+| 27 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 28 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 29 | [María Alejandra Villamizar](http://twitter.com/search?q=Mar%c3%ada+Alejandra+Villamizar) | N/A |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
+| 32 | [Vamos Santa Fe](http://twitter.com/search?q=Vamos+Santa+Fe) | N/A |
+| 33 | [Ferragamo](http://twitter.com/search?q=Ferragamo) | N/A |
+| 34 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 35 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 36 | [Frisby](http://twitter.com/search?q=Frisby) | N/A |
+| 37 | [bacca](http://twitter.com/search?q=bacca) | N/A |
+| 38 | [Jorge Luis Pinto](http://twitter.com/search?q=Jorge+Luis+Pinto) | N/A |
+| 39 | [Almacenes Ley](http://twitter.com/search?q=Almacenes+Ley) | N/A |
+| 40 | [Michael Ortega](http://twitter.com/search?q=Michael+Ortega) | N/A |
+| 41 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
+| 42 | [hinestroza](http://twitter.com/search?q=hinestroza) | N/A |
+| 43 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 44 | [THE STRONGEST](http://twitter.com/search?q=THE+STRONGEST) | N/A |
+| 45 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 46 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 47 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 48 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 49 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 50 | [marco pérez](http://twitter.com/search?q=marco+p%c3%a9rez) | N/A |
 
 
 

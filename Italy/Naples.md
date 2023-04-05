@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-04-05 14:20:04 UTC`
+📆 Last Updated: `2023-04-05 15:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
 | 4 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 5 | [#CoppaItalia](http://twitter.com/search?q=%23CoppaItalia) | N/A |
-| 6 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 7 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 8 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 9 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
-| 10 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 11 | [Silvio Berlusconi](http://twitter.com/search?q=Silvio+Berlusconi) | N/A |
-| 12 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 13 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 14 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 6 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 7 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 8 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 9 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 10 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 11 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 12 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 13 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 14 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
 | 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 16 | [di maria](http://twitter.com/search?q=di+maria) | N/A |
-| 17 | [dumfries](http://twitter.com/search?q=dumfries) | N/A |
-| 18 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 19 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 20 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 21 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 22 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 23 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 24 | [moratti](http://twitter.com/search?q=moratti) | N/A |
-| 25 | [inzaghi](http://twitter.com/search?q=inzaghi) | N/A |
-| 26 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
-| 27 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 28 | [ambrosio](http://twitter.com/search?q=ambrosio) | N/A |
-| 29 | [consiglio di stato](http://twitter.com/search?q=consiglio+di+stato) | N/A |
-| 30 | [samir](http://twitter.com/search?q=samir) | N/A |
-| 31 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 32 | [DZEKO](http://twitter.com/search?q=DZEKO) | N/A |
-| 33 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 34 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
+| 16 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 17 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 18 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 19 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 20 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 21 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 22 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
+| 23 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 24 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 25 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 26 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 27 | [MARIO MARIO](http://twitter.com/search?q=MARIO+MARIO) | N/A |
+| 28 | [DZEKO](http://twitter.com/search?q=DZEKO) | N/A |
+| 29 | [ambrosio](http://twitter.com/search?q=ambrosio) | N/A |
+| 30 | [inzaghi](http://twitter.com/search?q=inzaghi) | N/A |
+| 31 | [consiglio di stato](http://twitter.com/search?q=consiglio+di+stato) | N/A |
+| 32 | [SAMIR](http://twitter.com/search?q=SAMIR) | N/A |
+| 33 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 34 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 35 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 36 | [asllani](http://twitter.com/search?q=asllani) | N/A |
-| 37 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 38 | [Panita](http://twitter.com/search?q=Panita) | N/A |
-| 39 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
-| 40 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 41 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 42 | [ROMELU](http://twitter.com/search?q=ROMELU) | N/A |
-| 43 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 44 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 45 | [MICOL](http://twitter.com/search?q=MICOL) | N/A |
-| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 47 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 48 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 36 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
+| 37 | [Doveva](http://twitter.com/search?q=Doveva) | N/A |
+| 38 | [asllani](http://twitter.com/search?q=asllani) | N/A |
+| 39 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 40 | [Graziani](http://twitter.com/search?q=Graziani) | N/A |
+| 41 | [Panita](http://twitter.com/search?q=Panita) | N/A |
+| 42 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 43 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 44 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 47 | [koulibaly](http://twitter.com/search?q=koulibaly) | N/A |
+| 48 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 49 | [LAUTARO](http://twitter.com/search?q=LAUTARO) | N/A |
 | 50 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
 

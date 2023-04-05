@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-05 14:20:37 UTC`
+📆 Last Updated: `2023-04-05 15:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 2 | [#lcdlf3](http://twitter.com/search?q=%23lcdlf3) | N/A |
-| 3 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
-| 4 | [#Rockets](http://twitter.com/search?q=%23Rockets) | N/A |
-| 5 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 6 | [#VtuberUprising](http://twitter.com/search?q=%23VtuberUprising) | N/A |
-| 7 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 8 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 9 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 2 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 5 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
+| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 7 | [#Rockets](http://twitter.com/search?q=%23Rockets) | N/A |
+| 8 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 10 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 11 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 12 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [America](http://twitter.com/search?q=America) | N/A |
-| 17 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 18 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 20 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
-| 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 22 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 24 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 25 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 27 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 11 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [America](http://twitter.com/search?q=America) | N/A |
+| 16 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 18 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 20 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 21 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 22 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
+| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 24 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 25 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 27 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 30 | [caitlin clark](http://twitter.com/search?q=caitlin+clark) | N/A |
+| 29 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 30 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
 | 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 32 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
-| 33 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 34 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 35 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 36 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
-| 37 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 38 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 39 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 41 | [jim nantz](http://twitter.com/search?q=jim+nantz) | N/A |
-| 42 | [brock](http://twitter.com/search?q=brock) | N/A |
-| 43 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 32 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 33 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 34 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 35 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 36 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 37 | [jim nantz](http://twitter.com/search?q=jim+nantz) | N/A |
+| 38 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 39 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 40 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 42 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 46 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 47 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 48 | [sdsu](http://twitter.com/search?q=sdsu) | N/A |
-| 49 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 47 | [Leslie Stahl](http://twitter.com/search?q=Leslie+Stahl) | N/A |
+| 48 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 49 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
 
 
 

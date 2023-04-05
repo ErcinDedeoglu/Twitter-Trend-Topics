@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-05 14:19:54 UTC`
+📆 Last Updated: `2023-04-05 15:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [mineirão](http://twitter.com/search?q=mineir%c3%a3o) | N/A |
+| 1 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
 | 2 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 5 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
-| 6 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
-| 11 | [DUA LIPA](http://twitter.com/search?q=DUA+LIPA) | N/A |
-| 12 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 13 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 14 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 15 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
-| 16 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 17 | [Michael cera](http://twitter.com/search?q=Michael+cera) | N/A |
-| 18 | [keiller](http://twitter.com/search?q=keiller) | N/A |
-| 19 | [SANTA CRUZ](http://twitter.com/search?q=SANTA+CRUZ) | N/A |
-| 20 | [MARGOT](http://twitter.com/search?q=MARGOT) | N/A |
-| 21 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 22 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 23 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 26 | [PETROLINA](http://twitter.com/search?q=PETROLINA) | N/A |
-| 27 | [RYAN GOSLING](http://twitter.com/search?q=RYAN+GOSLING) | N/A |
-| 28 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
-| 29 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 30 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 31 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 32 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 33 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 34 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 3 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 6 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 7 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 8 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 11 | [CRECHE](http://twitter.com/search?q=CRECHE) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 14 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 15 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 16 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 17 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 18 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 19 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 20 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 21 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 22 | [LILY COLLINS](http://twitter.com/search?q=LILY+COLLINS) | N/A |
+| 23 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 24 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 27 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 28 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 30 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 32 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
+| 33 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 34 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 35 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
-| 36 | [warner](http://twitter.com/search?q=warner) | N/A |
+| 36 | [halsey](http://twitter.com/search?q=halsey) | N/A |
 | 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 38 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 40 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
-| 41 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 42 | [moana](http://twitter.com/search?q=moana) | N/A |
-| 43 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 44 | [FAZ O L](http://twitter.com/search?q=FAZ+O+L) | N/A |
+| 38 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 39 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 40 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 41 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 42 | [KEILLER](http://twitter.com/search?q=KEILLER) | N/A |
+| 43 | [BLOOMING](http://twitter.com/search?q=BLOOMING) | N/A |
+| 44 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
 | 45 | [Eita](http://twitter.com/search?q=Eita) | N/A |
-| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 47 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 48 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 49 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 50 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 46 | [THE STRONGEST](http://twitter.com/search?q=THE+STRONGEST) | N/A |
+| 47 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 48 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 50 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-04-05 14:20:33 UTC`
+📆 Last Updated: `2023-04-05 15:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,35 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
-| 2 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 3 | [#MemuruOYalamayın](http://twitter.com/search?q=%23MemuruOYalamay%c4%b1n) | N/A |
-| 4 | [Orhan Ak](http://twitter.com/search?q=Orhan+Ak) | N/A |
-| 5 | [STOP ISRAEL](http://twitter.com/search?q=STOP+ISRAEL) | N/A |
-| 6 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 7 | [#alparslantürkeş](http://twitter.com/search?q=%23alparslant%c3%bcrke%c5%9f) | N/A |
-| 8 | [#HÜDAPARdanÇağrı](http://twitter.com/search?q=%23H%c3%9cDAPARdan%c3%87a%c4%9fr%c4%b1) | N/A |
-| 9 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
-| 10 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [zirvesensin sedatpolat](http://twitter.com/search?q=zirvesensin+sedatpolat) | N/A |
-| 13 | [iyikidoğdun erenalan](http://twitter.com/search?q=iyikido%c4%9fdun+erenalan) | N/A |
-| 14 | [Millet Erdoğan Diyor](http://twitter.com/search?q=Millet+Erdo%c4%9fan+Diyor) | N/A |
-| 15 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 16 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 17 | [denetim özlükistiyor](http://twitter.com/search?q=denetim+%c3%b6zl%c3%bckistiyor) | N/A |
-| 18 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 19 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
-| 20 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 21 | [xproject token](http://twitter.com/search?q=xproject+token) | N/A |
-| 22 | [Soğan 30](http://twitter.com/search?q=So%c4%9fan+30) | N/A |
-| 23 | [Vefatının 26](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+26) | N/A |
-| 24 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
-| 25 | [kanal 3](http://twitter.com/search?q=kanal+3) | N/A |
-| 26 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
-| 27 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 28 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
-| 29 | [hüseyin sezen](http://twitter.com/search?q=h%c3%bcseyin+sezen) | N/A |
-| 30 | [yapıkayıt vaaddeğil](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+vaadde%c4%9fil) | N/A |
-| 31 | [Namus](http://twitter.com/search?q=Namus) | N/A |
-| 32 | [Bekara](http://twitter.com/search?q=Bekara) | N/A |
-| 33 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 34 | [markovic](http://twitter.com/search?q=markovic) | N/A |
-| 35 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 36 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 37 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 38 | [Ertuğrul](http://twitter.com/search?q=Ertu%c4%9frul) | N/A |
-| 39 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
-| 40 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
-| 41 | [Semiha](http://twitter.com/search?q=Semiha) | N/A |
-| 42 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 43 | [Taksici](http://twitter.com/search?q=Taksici) | N/A |
-| 44 | [Valla](http://twitter.com/search?q=Valla) | N/A |
-| 45 | [İnşallah](http://twitter.com/search?q=%c4%b0n%c5%9fallah) | N/A |
-| 46 | [Peres](http://twitter.com/search?q=Peres) | N/A |
-| 47 | [Seçmen](http://twitter.com/search?q=Se%c3%a7men) | N/A |
-| 48 | [Geliyor Gelmekte Olan](http://twitter.com/search?q=Geliyor+Gelmekte+Olan) | N/A |
-| 49 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 50 | [GHBG FinalOlmasın](http://twitter.com/search?q=GHBG+FinalOlmas%c4%b1n) | N/A |
+| 1 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 2 | [#FormanıÇıkartBüyükekşi](http://twitter.com/search?q=%23Forman%c4%b1%c3%87%c4%b1kartB%c3%bcy%c3%bckek%c5%9fi) | N/A |
+| 3 | [#SecimdenOnce55BinOgr](http://twitter.com/search?q=%23SecimdenOnce55BinOgr) | N/A |
+| 4 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
+| 5 | [#المسجد_الأقصى](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
+| 6 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
+| 7 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 8 | [İmarDerdi OlanMilyonlar](http://twitter.com/search?q=%c4%b0marDerdi+OlanMilyonlar) | N/A |
+| 9 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
+| 10 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 11 | [Mübarek Ramazan](http://twitter.com/search?q=M%c3%bcbarek+Ramazan) | N/A |
+| 12 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
+| 13 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 14 | [Kutlu](http://twitter.com/search?q=Kutlu) | N/A |
+| 15 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
+| 16 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
+| 17 | [#zamgeldi](http://twitter.com/search?q=%23zamgeldi) | N/A |
+| 18 | [#SözVeriyoruz](http://twitter.com/search?q=%23S%c3%b6zVeriyoruz) | N/A |
+| 19 | [#memleketAnıtkabirde](http://twitter.com/search?q=%23memleketAn%c4%b1tkabirde) | N/A |
+| 20 | [#filistin](http://twitter.com/search?q=%23filistin) | N/A |
+| 21 | [#KudueseSahipCık](http://twitter.com/search?q=%23KudueseSahipC%c4%b1k) | N/A |
+| 22 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
+| 23 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 24 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
+| 25 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
+| 26 | [#idrisbaluken](http://twitter.com/search?q=%23idrisbaluken) | N/A |
+| 27 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 28 | [#bugüngünlerdengalatasaray](http://twitter.com/search?q=%23bug%c3%bcng%c3%bcnlerdengalatasaray) | N/A |
+| 29 | [#KOPOL](http://twitter.com/search?q=%23KOPOL) | N/A |
 
 
 

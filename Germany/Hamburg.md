@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-04-05 14:20:02 UTC`
+📆 Last Updated: `2023-04-05 15:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
+| 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
 | 2 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 3 | [#sgefcu](http://twitter.com/search?q=%23sgefcu) | N/A |
-| 4 | [#JuleStinkesocke](http://twitter.com/search?q=%23JuleStinkesocke) | N/A |
-| 5 | [FREIBURG](http://twitter.com/search?q=FREIBURG) | N/A |
-| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [#lanz](http://twitter.com/search?q=%23lanz) | N/A |
-| 9 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 15 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 16 | [denunziant](http://twitter.com/search?q=denunziant) | N/A |
-| 17 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 18 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
-| 19 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
-| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 21 | [Wehrdienst](http://twitter.com/search?q=Wehrdienst) | N/A |
-| 22 | [Trainerwechsel](http://twitter.com/search?q=Trainerwechsel) | N/A |
-| 23 | [u-haft](http://twitter.com/search?q=u-haft) | N/A |
-| 24 | [Rang](http://twitter.com/search?q=Rang) | N/A |
-| 25 | [xbox 360](http://twitter.com/search?q=xbox+360) | N/A |
-| 26 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 27 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 28 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 29 | [vogel](http://twitter.com/search?q=vogel) | N/A |
-| 30 | [XBOX ONE](http://twitter.com/search?q=XBOX+ONE) | N/A |
-| 31 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 32 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 33 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 34 | [CHENLE](http://twitter.com/search?q=CHENLE) | N/A |
-| 35 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 36 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 37 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
-| 38 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
-| 39 | [KAHN](http://twitter.com/search?q=KAHN) | N/A |
-| 40 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 41 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 43 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 44 | [LUCAS](http://twitter.com/search?q=LUCAS) | N/A |
-| 45 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 46 | [lump](http://twitter.com/search?q=lump) | N/A |
-| 47 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 48 | [jamal](http://twitter.com/search?q=jamal) | N/A |
-| 49 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 50 | [knust](http://twitter.com/search?q=knust) | N/A |
+| 3 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 4 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 5 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 9 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 10 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 11 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 16 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 17 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 18 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 19 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 20 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 21 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 22 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 23 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 24 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 25 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 26 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 27 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
+| 28 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 29 | [Mehrheit der Deutschen](http://twitter.com/search?q=Mehrheit+der+Deutschen) | N/A |
+| 30 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
+| 31 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 32 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 33 | [Landwirtschaftsminister](http://twitter.com/search?q=Landwirtschaftsminister) | N/A |
+| 34 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
+| 35 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 36 | [KNUST](http://twitter.com/search?q=KNUST) | N/A |
+| 37 | [Expertenrat](http://twitter.com/search?q=Expertenrat) | N/A |
+| 38 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 40 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 41 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 42 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 43 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 44 | [Elfmeterpunkt](http://twitter.com/search?q=Elfmeterpunkt) | N/A |
+| 45 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
+| 46 | [Willkommen](http://twitter.com/search?q=Willkommen) | N/A |
+| 47 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
+| 48 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
+| 49 | [Beilagen](http://twitter.com/search?q=Beilagen) | N/A |
+| 50 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-05 14:19:56 UTC`
+📆 Last Updated: `2023-04-05 15:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [lucas lima](http://twitter.com/search?q=lucas+lima) | N/A |
-| 2 | [ÂNGELO](http://twitter.com/search?q=%c3%82NGELO) | N/A |
-| 3 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 4 | [ivonei](http://twitter.com/search?q=ivonei) | N/A |
-| 5 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 6 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 7 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
-| 8 | [marcos leonardo](http://twitter.com/search?q=marcos+leonardo) | N/A |
-| 9 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 10 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 11 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 12 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 13 | [THEO](http://twitter.com/search?q=THEO) | N/A |
-| 14 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [EMICIDA](http://twitter.com/search?q=EMICIDA) | N/A |
-| 17 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 18 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 19 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 20 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 21 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 23 | [anitta](http://twitter.com/search?q=anitta) | N/A |
-| 24 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 25 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 27 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 28 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
-| 29 | [Goiânia](http://twitter.com/search?q=Goi%c3%a2nia) | N/A |
-| 30 | [LILI](http://twitter.com/search?q=LILI) | N/A |
-| 31 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 32 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
-| 33 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 34 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 35 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 36 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 37 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
-| 38 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
-| 43 | [DUA LIPA](http://twitter.com/search?q=DUA+LIPA) | N/A |
-| 44 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 45 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 46 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 47 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 48 | [Michael cera](http://twitter.com/search?q=Michael+cera) | N/A |
-| 49 | [keiller](http://twitter.com/search?q=keiller) | N/A |
-| 50 | [SANTA CRUZ](http://twitter.com/search?q=SANTA+CRUZ) | N/A |
+| 1 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 4 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 5 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 6 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 9 | [CRECHE](http://twitter.com/search?q=CRECHE) | N/A |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 12 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 13 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 14 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 15 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 16 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 17 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 18 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 20 | [LILY COLLINS](http://twitter.com/search?q=LILY+COLLINS) | N/A |
+| 21 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 22 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 25 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 26 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 28 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 29 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 30 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
+| 31 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 32 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 33 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
+| 34 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 36 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 37 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 39 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 40 | [KEILLER](http://twitter.com/search?q=KEILLER) | N/A |
+| 41 | [BLOOMING](http://twitter.com/search?q=BLOOMING) | N/A |
+| 42 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
+| 43 | [Eita](http://twitter.com/search?q=Eita) | N/A |
+| 44 | [THE STRONGEST](http://twitter.com/search?q=THE+STRONGEST) | N/A |
+| 45 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 47 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 48 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 49 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 50 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 
 
 
