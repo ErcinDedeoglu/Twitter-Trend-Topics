@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-04 23:17:11 UTC`
+📆 Last Updated: `2023-04-05 00:26:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
-| 2 | [#ilwx](http://twitter.com/search?q=%23ilwx) | N/A |
-| 3 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 4 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 5 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 1 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 5 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 6 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 8 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 9 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 10 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 11 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 12 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 13 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 19 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 20 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 21 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 22 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 23 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 27 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 28 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 29 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 30 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 31 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 32 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 34 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 35 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 36 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 37 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 38 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 39 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
-| 42 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 43 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 44 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 45 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 46 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 47 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 48 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 49 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 10 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 11 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 13 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 14 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 15 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 16 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 17 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 18 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 19 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 20 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 21 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 24 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 25 | [Juan Williams](http://twitter.com/search?q=Juan+Williams) | N/A |
+| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 27 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 28 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 29 | [#DRWFirstGoal](http://twitter.com/search?q=%23DRWFirstGoal) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 32 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 33 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
+| 34 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 35 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 36 | [Tres Pinos](http://twitter.com/search?q=Tres+Pinos) | N/A |
+| 37 | [Tricia Cotham](http://twitter.com/search?q=Tricia+Cotham) | N/A |
+| 38 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 39 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 40 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 41 | [Horseface](http://twitter.com/search?q=Horseface) | N/A |
+| 42 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 43 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 44 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 45 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 46 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 47 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 48 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
+| 49 | [Drey Jameson](http://twitter.com/search?q=Drey+Jameson) | N/A |
+| 50 | [Fat Albert](http://twitter.com/search?q=Fat+Albert) | N/A |
 
 
 

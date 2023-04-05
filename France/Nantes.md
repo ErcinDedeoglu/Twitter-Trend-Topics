@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-04-04 23:16:46 UTC`
+📆 Last Updated: `2023-04-05 00:26:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,53 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 3 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 4 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 5 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 6 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 15 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 16 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 17 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 18 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 21 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
-| 24 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 25 | [Barth](http://twitter.com/search?q=Barth) | N/A |
-| 26 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 27 | [Arabie](http://twitter.com/search?q=Arabie) | N/A |
-| 28 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 29 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 30 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 33 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 34 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 35 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 36 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 37 | [Carcassonne](http://twitter.com/search?q=Carcassonne) | N/A |
-| 38 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 39 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 40 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 41 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 42 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 43 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 44 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 45 | [#2069le14avril](http://twitter.com/search?q=%232069le14avril) | N/A |
+| 3 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 4 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
+| 5 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
+| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 13 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 15 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 16 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 17 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 21 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 22 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 23 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 24 | [La ps5](http://twitter.com/search?q=La+ps5) | N/A |
+| 25 | [Chelsea Liverpool](http://twitter.com/search?q=Chelsea+Liverpool) | N/A |
+| 26 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
+| 27 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
+| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 29 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
+| 30 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
+| 31 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
+| 32 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
+| 33 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 34 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
+| 35 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 37 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 39 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 40 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 41 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 42 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
+| 43 | [Toko](http://twitter.com/search?q=Toko) | Toko is a Japanese word that means "store" or "shop". It is used to refer to any kind of retail establishment, from small convenience stores to large department stores. |
+| 44 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 45 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 46 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 47 | [Le Bayern](http://twitter.com/search?q=Le+Bayern) | N/A |
+| 48 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 49 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 
 
 

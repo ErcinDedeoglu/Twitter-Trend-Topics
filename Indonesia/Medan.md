@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-04 23:16:52 UTC`
+📆 Last Updated: `2023-04-05 00:26:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#potonganongkir40rb](http://twitter.com/search?q=%23potonganongkir40rb) | N/A |
-| 2 | [#flashsalemobilrp1](http://twitter.com/search?q=%23flashsalemobilrp1) | N/A |
-| 3 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 4 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 5 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 3 | [#potonganongkir40rb](http://twitter.com/search?q=%23potonganongkir40rb) | N/A |
+| 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 5 | [#promopuncakramadanshopee](http://twitter.com/search?q=%23promopuncakramadanshopee) | N/A |
 | 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 7 | [giveaway thr 10juta](http://twitter.com/search?q=giveaway+thr+10juta) | N/A |
-| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 10 | [Windah](http://twitter.com/search?q=Windah) | N/A |
+| 8 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 9 | [Windah](http://twitter.com/search?q=Windah) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 11 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 12 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 13 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
-| 14 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
-| 15 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 18 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 19 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 20 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 21 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 22 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
-| 23 | [jimin ended kpop](http://twitter.com/search?q=jimin+ended+kpop) | N/A |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [number one in my heart](http://twitter.com/search?q=number+one+in+my+heart) | N/A |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
-| 28 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 29 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 30 | [mbah slamet](http://twitter.com/search?q=mbah+slamet) | N/A |
-| 31 | [Begal](http://twitter.com/search?q=Begal) | N/A |
-| 32 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 33 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 34 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
-| 35 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
-| 36 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 37 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
-| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 39 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
-| 40 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 41 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 13 | [Taubat Sebelum Terlambat](http://twitter.com/search?q=Taubat+Sebelum+Terlambat) | N/A |
+| 14 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
+| 15 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 16 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 19 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
+| 20 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 21 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 22 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 23 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 25 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
+| 26 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 27 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 28 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 29 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 30 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 31 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 33 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
+| 34 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 35 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 36 | [lingkungan](http://twitter.com/search?q=lingkungan) | N/A |
+| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 38 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
+| 39 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 40 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 41 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 42 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 43 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 44 | [khilafah menyatukan kita](http://twitter.com/search?q=khilafah+menyatukan+kita) | N/A |
-| 45 | [Wonogiri](http://twitter.com/search?q=Wonogiri) | N/A |
-| 46 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 47 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 43 | [PROMO SPESIAL](http://twitter.com/search?q=PROMO+SPESIAL) | N/A |
+| 44 | [Ada Cashback](http://twitter.com/search?q=Ada+Cashback) | N/A |
+| 45 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
+| 46 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 48 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
-| 49 | [congrats jimin](http://twitter.com/search?q=congrats+jimin) | N/A |
-| 50 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 49 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 50 | [Gerindra](http://twitter.com/search?q=Gerindra) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-04 23:17:22 UTC`
+📆 Last Updated: `2023-04-05 00:27:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kuwait
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ده_ال](http://twitter.com/search?q=%23%d8%af%d9%87_%d8%a7%d9%84) | N/A |
-| 2 | [#اربح_مع_عسل_المعجزه13](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%b9%d8%b3%d9%84_%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%b2%d9%8713) | N/A |
-| 3 | [#هويدي_الهاجري](http://twitter.com/search?q=%23%d9%87%d9%88%d9%8a%d8%af%d9%8a_%d8%a7%d9%84%d9%87%d8%a7%d8%ac%d8%b1%d9%8a) | N/A |
-| 4 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
-| 5 | [#الهلال_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الهلال_الفيحاء is a hashtag used by fans of the Saudi Arabian football team Al-Hilal FC. In English, it translates to "Al-Hilal's Phoenix". |
+| 1 | [#اذكروني_بدعوه_الان](http://twitter.com/search?q=%23%d8%a7%d8%b0%d9%83%d8%b1%d9%88%d9%86%d9%8a_%d8%a8%d8%af%d8%b9%d9%88%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 2 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
+| 3 | [#المسجد_الاقصي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 4 | [#مراحل_يعقوب_بوشهري](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%8a%d8%b9%d9%82%d9%88%d8%a8_%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 5 | [#ده_ال](http://twitter.com/search?q=%23%d8%af%d9%87_%d8%a7%d9%84) | N/A |
 | 6 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 7 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 8 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 9 | [يابو صالح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 10 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 11 | [تشكيل الحكومه](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
-| 12 | [فالك التوفيق](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%83+%d8%a7%d9%84%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
-| 13 | [بناء علي طلبه](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a+%d8%b7%d9%84%d8%a8%d9%87) | N/A |
+| 7 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 8 | [١٣ رمضان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 9 | [يابو منصور](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 10 | [يابو فرحان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%b1%d8%ad%d8%a7%d9%86) | N/A |
+| 11 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 12 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 13 | [العلوم الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
 | 14 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 15 | [سمير سعيد](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 16 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 17 | [الدايره الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [رعد حمودي](http://twitter.com/search?q=%d8%b1%d8%b9%d8%af+%d8%ad%d9%85%d9%88%d8%af%d9%8a) | N/A |
-| 19 | [العنايه المركزه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%87) | N/A |
-| 20 | [حمود سلطان](http://twitter.com/search?q=%d8%ad%d9%85%d9%88%d8%af+%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 21 | [يونس احمد](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%b3+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 22 | [المعلومات المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 23 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 24 | [محمد بن ناجي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d8%ac%d9%8a) | N/A |
-| 25 | [سعد العبدالله](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 26 | [قره عين المساكين](http://twitter.com/search?q=%d9%82%d8%b1%d9%87+%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%83%d9%8a%d9%86) | N/A |
-| 27 | [الجلسه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 28 | [عبدالله معيوف](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d9%85%d8%b9%d9%8a%d9%88%d9%81) | N/A |
-| 29 | [مساعد العسعوسي](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d8%a7%d9%84%d8%b9%d8%b3%d8%b9%d9%88%d8%b3%d9%8a) | N/A |
-| 30 | [الوضع السياسي البايس](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b6%d8%b9+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b3) | N/A |
-| 31 | [الشوارع الداخليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d8%b1%d8%b9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 32 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
-| 33 | [خالد الغانم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 34 | [السعدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%88%d9%86) | N/A |
-| 35 | [سامي الصواغ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%ba) | N/A |
-| 36 | [الانتخابات الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 37 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
-| 38 | [المواد الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 39 | [يعقوب بوشهري](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8+%d8%a8%d9%88%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 40 | [مصدر السلطات](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa) | N/A |
-| 41 | [البيت المسكون](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%83%d9%88%d9%86) | N/A |
-| 42 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 43 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 44 | [علي الدستور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1) | N/A |
-| 45 | [الجمعيات التعاونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [العلوم الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 47 | [العين الحمراء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1) | N/A |
-| 48 | [امير البلاد](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af) | N/A |
-| 49 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
-| 50 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 15 | [بناء علي طلبه](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a+%d8%b7%d9%84%d8%a8%d9%87) | N/A |
+| 16 | [النايب السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 17 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 18 | [يابو حمود](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d9%85%d9%88%d8%af) | N/A |
+| 19 | [يابو صالح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 20 | [الشوارع الداخليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d8%b1%d8%b9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 21 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 22 | [فالك التوفيق](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%83+%d8%a7%d9%84%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
+| 23 | [قره عين المساكين](http://twitter.com/search?q=%d9%82%d8%b1%d9%87+%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%83%d9%8a%d9%86) | N/A |
+| 24 | [سمير سعيد](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 25 | [العنايه المركزه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%87) | N/A |
+| 26 | [المعلومات المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 27 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
+| 28 | [جونز](http://twitter.com/search?q=%d8%ac%d9%88%d9%86%d8%b2) | N/A |
+| 29 | [محمد بن ناجي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d8%ac%d9%8a) | N/A |
+| 30 | [الدايره الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 31 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 32 | [مساعد العسعوسي](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d8%a7%d9%84%d8%b9%d8%b3%d8%b9%d9%88%d8%b3%d9%8a) | N/A |
+| 33 | [الوضع السياسي البايس](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b6%d8%b9+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b3) | N/A |
+| 34 | [يونس احمد](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%b3+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 35 | [سعد العبدالله](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 36 | [غوميز](http://twitter.com/search?q=%d8%ba%d9%88%d9%85%d9%8a%d8%b2) | N/A |
+| 37 | [سامي الصواغ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%ba) | N/A |
+| 38 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 39 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 40 | [يابو احمد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 41 | [تشكيل الحكومه](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 42 | [يابو خالد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 43 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 44 | [المنظمه الاقليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 45 | [الانتخابات الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 46 | [الجلسه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 47 | [الطرابلسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d8%a7%d8%a8%d9%84%d8%b3%d9%8a) | N/A |
+| 48 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 49 | [ماتيب](http://twitter.com/search?q=%d9%85%d8%a7%d8%aa%d9%8a%d8%a8) | ماتيب is an Arabic expression that means "I'm sorry". |
+| 50 | [يابو نايف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d9%8a%d9%81) | N/A |
 
 
 

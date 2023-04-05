@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-04-04 23:16:49 UTC`
+📆 Last Updated: `2023-04-05 00:26:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 2 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 3 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
+| 1 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
+| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 3 | [Copa](http://twitter.com/search?q=Copa) | N/A |
 | 4 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 5 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 5 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
 | 6 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 7 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 8 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 9 | [Aless](http://twitter.com/search?q=Aless) | N/A |
+| 7 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 8 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 9 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
 | 10 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 11 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
-| 12 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 13 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 14 | [Jagoba Arrasate](http://twitter.com/search?q=Jagoba+Arrasate) | N/A |
-| 15 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 16 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 18 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
-| 19 | [#Hermanos4Abr](http://twitter.com/search?q=%23Hermanos4Abr) | N/A |
-| 20 | [Lo de Ana Obregón](http://twitter.com/search?q=Lo+de+Ana+Obreg%c3%b3n) | N/A |
-| 21 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 22 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 23 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 11 | [Aless](http://twitter.com/search?q=Aless) | N/A |
+| 12 | [Jagoba Arrasate](http://twitter.com/search?q=Jagoba+Arrasate) | N/A |
+| 13 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
+| 14 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 15 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 18 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 19 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 20 | [#Hermanos4Abr](http://twitter.com/search?q=%23Hermanos4Abr) | N/A |
+| 21 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 22 | [Lo de Ana Obregón](http://twitter.com/search?q=Lo+de+Ana+Obreg%c3%b3n) | N/A |
+| 23 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
 | 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 26 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 27 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 28 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
-| 29 | [Chimy](http://twitter.com/search?q=Chimy) | N/A |
-| 30 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 26 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 27 | [Aberrante](http://twitter.com/search?q=Aberrante) | N/A |
+| 28 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 29 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 30 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
 | 31 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
-| 32 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 32 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
 | 33 | [Braulio](http://twitter.com/search?q=Braulio) | N/A |
-| 34 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 35 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 36 | [Pere Milla](http://twitter.com/search?q=Pere+Milla) | N/A |
-| 37 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
-| 38 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
-| 39 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 34 | [#ViajandoConChester](http://twitter.com/search?q=%23ViajandoConChester) | N/A |
+| 35 | [#MartesSanto](http://twitter.com/search?q=%23MartesSanto) | N/A |
+| 36 | [Chimy](http://twitter.com/search?q=Chimy) | N/A |
+| 37 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 38 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 39 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
 | 40 | [Cartuja](http://twitter.com/search?q=Cartuja) | N/A |
-| 41 | [Aberrante](http://twitter.com/search?q=Aberrante) | N/A |
-| 42 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
-| 43 | [Aimar Oroz](http://twitter.com/search?q=Aimar+Oroz) | N/A |
-| 44 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
-| 45 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 46 | [Zorionak](http://twitter.com/search?q=Zorionak) | N/A |
-| 47 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
-| 48 | [Sito](http://twitter.com/search?q=Sito) | N/A |
-| 49 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 41 | [Zorionak](http://twitter.com/search?q=Zorionak) | N/A |
+| 42 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 43 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 45 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 46 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
+| 47 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
+| 48 | [Pere Milla](http://twitter.com/search?q=Pere+Milla) | N/A |
+| 49 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
 
 
 

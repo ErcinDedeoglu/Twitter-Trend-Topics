@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-04 23:17:11 UTC`
+📆 Last Updated: `2023-04-05 00:26:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 1 | [Marge](http://twitter.com/search?q=Marge) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 4 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 6 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 7 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 8 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 12 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 15 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 16 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 17 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 18 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 21 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 22 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 23 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 25 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 26 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 27 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 28 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 31 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 32 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 33 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 34 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
-| 35 | [ARREST ME](http://twitter.com/search?q=ARREST+ME) | N/A |
-| 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 37 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
-| 38 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 39 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 40 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 41 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 42 | [Trey Gowdy](http://twitter.com/search?q=Trey+Gowdy) | N/A |
-| 43 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 44 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 45 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 48 | [Cronus](http://twitter.com/search?q=Cronus) | N/A |
-| 49 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 50 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 3 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 5 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 7 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 8 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 9 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 10 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 13 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 14 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 15 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 17 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 18 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 19 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 20 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 23 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 24 | [Juan Williams](http://twitter.com/search?q=Juan+Williams) | N/A |
+| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 26 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 27 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 28 | [#DRWFirstGoal](http://twitter.com/search?q=%23DRWFirstGoal) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 32 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
+| 33 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 34 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 35 | [Tres Pinos](http://twitter.com/search?q=Tres+Pinos) | N/A |
+| 36 | [Tricia Cotham](http://twitter.com/search?q=Tricia+Cotham) | N/A |
+| 37 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 38 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 39 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 40 | [Horseface](http://twitter.com/search?q=Horseface) | N/A |
+| 41 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 42 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 43 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 45 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 46 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 47 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
+| 48 | [Drey Jameson](http://twitter.com/search?q=Drey+Jameson) | N/A |
+| 49 | [Fat Albert](http://twitter.com/search?q=Fat+Albert) | N/A |
+| 50 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
 
 
 

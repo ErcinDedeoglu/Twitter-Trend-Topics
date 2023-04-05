@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-04 23:17:13 UTC`
+📆 Last Updated: `2023-04-05 00:26:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#NationalSchoolLibrarianDay](http://twitter.com/search?q=%23NationalSchoolLibrarianDay) | N/A |
 | 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 3 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 4 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 5 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 6 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 3 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 4 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 5 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 6 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
 | 7 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 8 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 9 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 10 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 11 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 14 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 16 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 17 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 24 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 25 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 26 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 29 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
-| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 31 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 32 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 33 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 34 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 36 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 37 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 38 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 39 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 40 | [Critics](http://twitter.com/search?q=Critics) | N/A |
-| 41 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 42 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 43 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
-| 44 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 45 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 46 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 47 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 48 | [Even CNN](http://twitter.com/search?q=Even+CNN) | N/A |
-| 49 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 50 | [Falsifying](http://twitter.com/search?q=Falsifying) | N/A |
+| 15 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 16 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 20 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 21 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 22 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 23 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 24 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 25 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 26 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 29 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 30 | [Juan Williams](http://twitter.com/search?q=Juan+Williams) | N/A |
+| 31 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 32 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 33 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 36 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 37 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
+| 38 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 39 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 40 | [Tres Pinos](http://twitter.com/search?q=Tres+Pinos) | N/A |
+| 41 | [Tricia Cotham](http://twitter.com/search?q=Tricia+Cotham) | N/A |
+| 42 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 43 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 44 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 45 | [Horseface](http://twitter.com/search?q=Horseface) | N/A |
+| 46 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 47 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 48 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 49 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 50 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 
 
 

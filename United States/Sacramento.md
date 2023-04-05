@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-04 23:17:17 UTC`
+📆 Last Updated: `2023-04-05 00:27:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 2 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 4 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 5 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 6 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 7 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 10 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 11 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 12 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 13 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 14 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 15 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 16 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 17 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 18 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 19 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
-| 20 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 24 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 26 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 27 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 1 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 2 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 3 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 4 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 5 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 6 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 8 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 9 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 10 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 11 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 12 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 13 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 14 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 15 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 16 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 17 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 18 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 20 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 22 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 25 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 26 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 27 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
 | 28 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 31 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 32 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 33 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 35 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 36 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
-| 37 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 38 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 39 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 40 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 41 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 42 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 43 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 44 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 45 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 46 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 47 | [Critics](http://twitter.com/search?q=Critics) | N/A |
-| 48 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 49 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 50 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
+| 29 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 30 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 31 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 32 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 33 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 34 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 35 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 36 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 37 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 40 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 41 | [Juan Williams](http://twitter.com/search?q=Juan+Williams) | N/A |
+| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 43 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 44 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 47 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 48 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
+| 49 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 50 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
 
 
 
