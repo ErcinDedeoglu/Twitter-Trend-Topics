@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-04-05 19:17:31 UTC`
+📆 Last Updated: `2023-04-05 20:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 4 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 5 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 6 | [Fábio William](http://twitter.com/search?q=F%c3%a1bio+William) | N/A |
-| 7 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 8 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 11 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 12 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 13 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 14 | [#OnlineMidWeekWord](http://twitter.com/search?q=%23OnlineMidWeekWord) | N/A |
-| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 16 | [Dindinho](http://twitter.com/search?q=Dindinho) | N/A |
-| 17 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 18 | [Surto](http://twitter.com/search?q=Surto) | N/A |
-| 19 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 20 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 21 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 22 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 23 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 24 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 25 | [CRECHE](http://twitter.com/search?q=CRECHE) | N/A |
-| 26 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 30 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 31 | [Denunciando](http://twitter.com/search?q=Denunciando) | N/A |
-| 32 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 33 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 34 | [any gabrielly no porchat](http://twitter.com/search?q=any+gabrielly+no+porchat) | N/A |
-| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 36 | [ALAN PATRICK](http://twitter.com/search?q=ALAN+PATRICK) | N/A |
-| 37 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 38 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 39 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
-| 42 | [Novara](http://twitter.com/search?q=Novara) | N/A |
-| 43 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 44 | [any gabrielly republic records](http://twitter.com/search?q=any+gabrielly+republic+records) | N/A |
-| 45 | [DFTV](http://twitter.com/search?q=DFTV) | N/A |
-| 46 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 47 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 48 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 49 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 50 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 4 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
+| 5 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 6 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 7 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 8 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 11 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 12 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 13 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 14 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 15 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 16 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 17 | [FORÇA FERNANDO](http://twitter.com/search?q=FOR%c3%87A+FERNANDO) | N/A |
+| 18 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 21 | [Fábio William](http://twitter.com/search?q=F%c3%a1bio+William) | N/A |
+| 22 | [#OnlineMidWeekWord](http://twitter.com/search?q=%23OnlineMidWeekWord) | N/A |
+| 23 | [Surto](http://twitter.com/search?q=Surto) | N/A |
+| 24 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 25 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 26 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 27 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 28 | [4 CRIANÇAS](http://twitter.com/search?q=4+CRIAN%c3%87AS) | N/A |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 31 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
+| 32 | [CRECHE](http://twitter.com/search?q=CRECHE) | N/A |
+| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 34 | [BOLSONARO PRESO](http://twitter.com/search?q=BOLSONARO+PRESO) | N/A |
+| 35 | [Frota](http://twitter.com/search?q=Frota) | N/A |
+| 36 | [#CopaDoReiNaESPN](http://twitter.com/search?q=%23CopaDoReiNaESPN) | N/A |
+| 37 | [#ESPNnoStarPlus](http://twitter.com/search?q=%23ESPNnoStarPlus) | N/A |
+| 38 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 39 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 40 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 41 | [SEM ANISTIA](http://twitter.com/search?q=SEM+ANISTIA) | SEM ANISTIA is a Portuguese phrase meaning "no amnesty" or "no pardon". It is often used to express a strong stance against amnesty for those who have committed crimes. |
+| 42 | [#luto](http://twitter.com/search?q=%23luto) | N/A |
+| 43 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 44 | [Direitos Humanos](http://twitter.com/search?q=Direitos+Humanos) | Direitos Humanos is a Portuguese phrase meaning "human rights." It is used to refer to the fundamental rights and freedoms that all people are entitled to regardless of their race, gender, nationality, ethnicity, language, religion, or any other status. These rights include the right to life and liberty, freedom of expression and opinion, the right to work and education, the right to health care and social security, and many more. |
+| 45 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 46 | [lily collins](http://twitter.com/search?q=lily+collins) | N/A |
+| 47 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 48 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 49 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 50 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
 
 
 

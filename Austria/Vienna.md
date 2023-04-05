@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 19:17:33 UTC`
+📆 Last Updated: `2023-04-05 20:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
 | 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 3 | [#ORFReport](http://twitter.com/search?q=%23ORFReport) | N/A |
-| 4 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 5 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 6 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 7 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 10 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 12 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 13 | [Ausgabe](http://twitter.com/search?q=Ausgabe) | N/A |
-| 14 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
-| 15 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
-| 16 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 17 | [Agentur](http://twitter.com/search?q=Agentur) | N/A |
-| 18 | [dichands](http://twitter.com/search?q=dichands) | N/A |
-| 19 | [Vermögenssteuer](http://twitter.com/search?q=Verm%c3%b6genssteuer) | N/A |
-| 20 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
-| 21 | [Mittelstand](http://twitter.com/search?q=Mittelstand) | N/A |
-| 22 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 23 | [Plakat](http://twitter.com/search?q=Plakat) | N/A |
-| 24 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 25 | [Balken](http://twitter.com/search?q=Balken) | N/A |
-| 26 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 27 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 28 | [Boomer](http://twitter.com/search?q=Boomer) | N/A |
-| 29 | [Preisen](http://twitter.com/search?q=Preisen) | N/A |
-| 30 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 31 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 32 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 33 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
-| 34 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 35 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
-| 36 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 37 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
-| 38 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 39 | [Kino](http://twitter.com/search?q=Kino) | N/A |
-| 40 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
-| 41 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 42 | [Gespräch](http://twitter.com/search?q=Gespr%c3%a4ch) | N/A |
-| 43 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 44 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
-| 45 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 46 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 47 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 48 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 49 | [Gebiet](http://twitter.com/search?q=Gebiet) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 5 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 6 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 10 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 11 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 12 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 13 | [dichands](http://twitter.com/search?q=dichands) | N/A |
+| 14 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 15 | [Agentur](http://twitter.com/search?q=Agentur) | N/A |
+| 16 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 17 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 20 | [klenk](http://twitter.com/search?q=klenk) | N/A |
+| 21 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 22 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 23 | [Anspruch](http://twitter.com/search?q=Anspruch) | N/A |
+| 24 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 25 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 26 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
+| 27 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 28 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 29 | [Ausgabe](http://twitter.com/search?q=Ausgabe) | N/A |
+| 30 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 31 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 32 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 33 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 34 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 35 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 36 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 37 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 38 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
+| 39 | [Chats](http://twitter.com/search?q=Chats) | N/A |
+| 40 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 41 | [Balken](http://twitter.com/search?q=Balken) | N/A |
+| 42 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 43 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 44 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 45 | [Karten](http://twitter.com/search?q=Karten) | N/A |
+| 46 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 47 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
+| 48 | [mikado](http://twitter.com/search?q=mikado) | N/A |
+| 49 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 50 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 
 
 

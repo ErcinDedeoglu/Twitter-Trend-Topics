@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-05 19:18:15 UTC`
+📆 Last Updated: `2023-04-05 20:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 3 | [Corbin Burnes](http://twitter.com/search?q=Corbin+Burnes) | N/A |
-| 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 5 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 6 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 7 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 8 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
-| 9 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 10 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 11 | [Jacob deGrom](http://twitter.com/search?q=Jacob+deGrom) | N/A |
-| 12 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 13 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 14 | [Mitch Keller](http://twitter.com/search?q=Mitch+Keller) | N/A |
-| 15 | [emily henry](http://twitter.com/search?q=emily+henry) | N/A |
-| 16 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 17 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 18 | [Seamus Power](http://twitter.com/search?q=Seamus+Power) | N/A |
-| 19 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 20 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 21 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 22 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 23 | [Jose Trevino](http://twitter.com/search?q=Jose+Trevino) | N/A |
-| 24 | [Bryce Elder](http://twitter.com/search?q=Bryce+Elder) | N/A |
-| 25 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 26 | [Ziwe](http://twitter.com/search?q=Ziwe) | N/A |
-| 27 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
-| 28 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 29 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
-| 32 | [Joey Wiemer](http://twitter.com/search?q=Joey+Wiemer) | N/A |
-| 33 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
-| 34 | [Jorge Soler](http://twitter.com/search?q=Jorge+Soler) | N/A |
-| 35 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
-| 36 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 38 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 39 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 40 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 41 | [Par 3 Contest](http://twitter.com/search?q=Par+3+Contest) | N/A |
-| 42 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 43 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 44 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 45 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 46 | [Maton](http://twitter.com/search?q=Maton) | Maton is a brand of acoustic guitars made in Australia. The name is derived from the words "May" and "Tone", which refer to the quality of sound produced by the guitars. |
-| 47 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 48 | [Surviving the Game](http://twitter.com/search?q=Surviving+the+Game) | N/A |
-| 49 | [Native Hawaiian](http://twitter.com/search?q=Native+Hawaiian) | N/A |
+| 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 9 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 10 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
+| 11 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 12 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 13 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 16 | [Mitch Keller](http://twitter.com/search?q=Mitch+Keller) | N/A |
+| 17 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 19 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 20 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 21 | [Gary Player](http://twitter.com/search?q=Gary+Player) | N/A |
+| 22 | [Drew Smith](http://twitter.com/search?q=Drew+Smith) | N/A |
+| 23 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 26 | [Corbin Burnes](http://twitter.com/search?q=Corbin+Burnes) | N/A |
+| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 28 | [Jesse Winker](http://twitter.com/search?q=Jesse+Winker) | N/A |
+| 29 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 30 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 31 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 32 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
+| 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 36 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 37 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 38 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 39 | [Josh Jung](http://twitter.com/search?q=Josh+Jung) | N/A |
+| 40 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 41 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 43 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 44 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 45 | [Money Mike](http://twitter.com/search?q=Money+Mike) | N/A |
+| 46 | [Michael Harris](http://twitter.com/search?q=Michael+Harris) | N/A |
+| 47 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
+| 48 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 49 | [Pache](http://twitter.com/search?q=Pache) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-05 19:18:20 UTC`
+📆 Last Updated: `2023-04-05 20:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
-| 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
-| 3 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 4 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 5 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 8 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 9 | [dua kali lebih murah](http://twitter.com/search?q=dua+kali+lebih+murah) | N/A |
-| 10 | [Ramadan Di Lazada](http://twitter.com/search?q=Ramadan+Di+Lazada) | N/A |
-| 11 | [silaturahmi partai perindo](http://twitter.com/search?q=silaturahmi+partai+perindo) | N/A |
-| 12 | [safari politik](http://twitter.com/search?q=safari+politik) | N/A |
-| 13 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 15 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 16 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 18 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
-| 19 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 20 | [Windah](http://twitter.com/search?q=Windah) | N/A |
-| 21 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 22 | [JUNGKOOK OUR EUPHORIA](http://twitter.com/search?q=JUNGKOOK+OUR+EUPHORIA) | N/A |
-| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 24 | [Rahul](http://twitter.com/search?q=Rahul) | N/A |
-| 25 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
-| 26 | [Lazada Ramadan](http://twitter.com/search?q=Lazada+Ramadan) | N/A |
-| 27 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 2 | [#ViscaBarca](http://twitter.com/search?q=%23ViscaBarca) | N/A |
+| 3 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 4 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 5 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
+| 6 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 7 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 9 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 11 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 12 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 14 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 15 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 18 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 19 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 21 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 22 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 23 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 24 | [bang windah](http://twitter.com/search?q=bang+windah) | N/A |
+| 25 | [flexi cash](http://twitter.com/search?q=flexi+cash) | N/A |
+| 26 | [like it like it cd release](http://twitter.com/search?q=like+it+like+it+cd+release) | N/A |
+| 27 | [Kalau](http://twitter.com/search?q=Kalau) | N/A |
 | 28 | [taubat sebelum terlambat](http://twitter.com/search?q=taubat+sebelum+terlambat) | N/A |
-| 29 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 30 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 31 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 32 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 33 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 34 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 35 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 36 | [Kkul FM](http://twitter.com/search?q=Kkul+FM) | N/A |
-| 37 | [Bright x Riser](http://twitter.com/search?q=Bright+x+Riser) | N/A |
-| 38 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 39 | [Begal](http://twitter.com/search?q=Begal) | N/A |
-| 40 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 41 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 42 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 44 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 45 | [BPKP](http://twitter.com/search?q=BPKP) | N/A |
-| 46 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 47 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 48 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
-| 49 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 50 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 29 | [Jokowi](http://twitter.com/search?q=Jokowi) | N/A |
+| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 31 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 32 | [Ramadan Di Lazada](http://twitter.com/search?q=Ramadan+Di+Lazada) | N/A |
+| 33 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 34 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 35 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
+| 36 | [banjarnegara](http://twitter.com/search?q=banjarnegara) | N/A |
+| 37 | [Iyaa](http://twitter.com/search?q=Iyaa) | N/A |
+| 38 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 39 | [Her Header](http://twitter.com/search?q=Her+Header) | N/A |
+| 40 | [Sudah](http://twitter.com/search?q=Sudah) | N/A |
+| 41 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 42 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 43 | [Jenius QR](http://twitter.com/search?q=Jenius+QR) | N/A |
+| 44 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 45 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 46 | [Dua Kali Lebih Murah](http://twitter.com/search?q=Dua+Kali+Lebih+Murah) | N/A |
+| 47 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 48 | [Tuhan](http://twitter.com/search?q=Tuhan) | N/A |
+| 49 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 50 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 

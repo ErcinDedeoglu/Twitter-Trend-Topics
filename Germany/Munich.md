@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-04-05 19:17:37 UTC`
+📆 Last Updated: `2023-04-05 20:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
 | 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 3 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
-| 4 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 5 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 6 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 7 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 8 | [Millot](http://twitter.com/search?q=Millot) | N/A |
-| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 10 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 11 | [Stadionsprecher](http://twitter.com/search?q=Stadionsprecher) | N/A |
-| 12 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 13 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 18 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 19 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 21 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 22 | [Heja BVB](http://twitter.com/search?q=Heja+BVB) | N/A |
-| 23 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 24 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 25 | [Kämpfen und Siegen](http://twitter.com/search?q=K%c3%a4mpfen+und+Siegen) | N/A |
-| 26 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 27 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
-| 28 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
-| 29 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 30 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 31 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 32 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 33 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
-| 34 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 35 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 37 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 38 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
-| 39 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 40 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 41 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
-| 42 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
-| 43 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
-| 44 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 45 | [Jungs](http://twitter.com/search?q=Jungs) | N/A |
-| 46 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 48 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 49 | [Mehrheit der Deutschen](http://twitter.com/search?q=Mehrheit+der+Deutschen) | N/A |
-| 50 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 3 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 4 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 5 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
+| 6 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 7 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 8 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 9 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
+| 10 | [Millot](http://twitter.com/search?q=Millot) | N/A |
+| 11 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
+| 12 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 13 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 16 | [Stadionsprecher](http://twitter.com/search?q=Stadionsprecher) | N/A |
+| 17 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 18 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 19 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 20 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 22 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 24 | [KEEP HOPE ALIVE](http://twitter.com/search?q=KEEP+HOPE+ALIVE) | N/A |
+| 25 | [Matchplan](http://twitter.com/search?q=Matchplan) | N/A |
+| 26 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 31 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 32 | [Pressing](http://twitter.com/search?q=Pressing) | N/A |
+| 33 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 34 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 35 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 36 | [Kämpfen und Siegen](http://twitter.com/search?q=K%c3%a4mpfen+und+Siegen) | N/A |
+| 37 | [Torschüsse](http://twitter.com/search?q=Torsch%c3%bcsse) | N/A |
+| 38 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 39 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 40 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 41 | [Defizit](http://twitter.com/search?q=Defizit) | N/A |
+| 42 | [Jungs](http://twitter.com/search?q=Jungs) | N/A |
+| 43 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 44 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
+| 45 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 46 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 47 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 48 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 49 | [Finnland](http://twitter.com/search?q=Finnland) | N/A |
+| 50 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
 
 
 

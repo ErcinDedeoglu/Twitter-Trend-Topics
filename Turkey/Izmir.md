@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-04-05 19:18:05 UTC`
+📆 Last Updated: `2023-04-05 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
-| 2 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 3 | [DenklikteAdalet İstiyoruz](http://twitter.com/search?q=DenklikteAdalet+%c4%b0stiyoruz) | N/A |
-| 4 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 5 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 6 | [#ÖzürDileÖzgürÖzel](http://twitter.com/search?q=%23%c3%96z%c3%bcrDile%c3%96zg%c3%bcr%c3%96zel) | N/A |
-| 7 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
-| 8 | [#İNFKORUMA](http://twitter.com/search?q=%23%c4%b0NFKORUMA) | N/A |
-| 9 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
-| 10 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
-| 11 | [#ÇılgınTürk](http://twitter.com/search?q=%23%c3%87%c4%b1lg%c4%b1nT%c3%bcrk) | N/A |
-| 12 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
-| 13 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 14 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
-| 15 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
-| 16 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 17 | [Hakemler](http://twitter.com/search?q=Hakemler) | Hakemler is a Turkish word meaning "referees" or "umpires". It is used to refer to people who are responsible for making decisions and enforcing rules in a sporting event. |
-| 18 | [Ömer Ali](http://twitter.com/search?q=%c3%96mer+Ali) | N/A |
-| 19 | [AKSA SALDIRI ALTINDA](http://twitter.com/search?q=AKSA+SALDIRI+ALTINDA) | N/A |
-| 20 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 21 | [Erman](http://twitter.com/search?q=Erman) | N/A |
-| 22 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
-| 23 | [KayıplarınSesini DuyanVarMı](http://twitter.com/search?q=Kay%c4%b1plar%c4%b1nSesini+DuyanVarM%c4%b1) | N/A |
-| 24 | [TaşeronunOyu AyrımsızKadroya](http://twitter.com/search?q=Ta%c5%9feronunOyu+Ayr%c4%b1ms%c4%b1zKadroya) | N/A |
-| 25 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
-| 26 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 27 | [Müfettiş Özlükİstiyor](http://twitter.com/search?q=M%c3%bcfetti%c5%9f+%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
-| 28 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 29 | [Eliyle](http://twitter.com/search?q=Eliyle) | N/A |
-| 30 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
-| 31 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
-| 32 | [VAR'dan](http://twitter.com/search?q=VAR%27dan) | N/A |
-| 33 | [Hakemi](http://twitter.com/search?q=Hakemi) | N/A |
-| 34 | [Öncesinde](http://twitter.com/search?q=%c3%96ncesinde) | N/A |
-| 35 | [Penaltıyı](http://twitter.com/search?q=Penalt%c4%b1y%c4%b1) | N/A |
-| 36 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 37 | [Operasyon](http://twitter.com/search?q=Operasyon) | N/A |
-| 38 | [STOP ISRAEL](http://twitter.com/search?q=STOP+ISRAEL) | N/A |
-| 39 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
-| 40 | [Okan Buruk](http://twitter.com/search?q=Okan+Buruk) | Okan Buruk is a Turkish phrase that translates to "bad luck". It is used to express sympathy or commiserate with someone who has experienced misfortune. |
-| 41 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 42 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 43 | [Kuzu](http://twitter.com/search?q=Kuzu) | N/A |
-| 44 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
-| 45 | [#CanımızaOkudunAKP](http://twitter.com/search?q=%23Can%c4%b1m%c4%b1zaOkudunAKP) | N/A |
-| 46 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
-| 47 | [#BursasporluVekilİstiyoruz](http://twitter.com/search?q=%23BursasporluVekil%c4%b0stiyoruz) | N/A |
-| 48 | [#habertürk](http://twitter.com/search?q=%23habert%c3%bcrk) | N/A |
-| 49 | [#AlparslanHocayaÖzgürlük](http://twitter.com/search?q=%23AlparslanHocaya%c3%96zg%c3%bcrl%c3%bck) | N/A |
-| 50 | [#NufustaAngarya](http://twitter.com/search?q=%23NufustaAngarya) | N/A |
+| 2 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 3 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
+| 4 | [#KamuAvukatına5NisanSürprizi](http://twitter.com/search?q=%23KamuAvukat%c4%b1na5NisanS%c3%bcrprizi) | N/A |
+| 5 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
+| 6 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
+| 7 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 8 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 9 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 10 | [#LaleOrtaİstifa](http://twitter.com/search?q=%23LaleOrta%c4%b0stifa) | N/A |
+| 11 | [Barış Alper](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper) | Barış Alper is a Turkish name, with the given name Barış meaning "peace" and the surname Alper meaning "brave". In English, the name would translate to "Peace Brave". |
+| 12 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
+| 13 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 14 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 15 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 16 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 17 | [OY BEKLEME KEMAL](http://twitter.com/search?q=OY+BEKLEME+KEMAL) | N/A |
+| 18 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 19 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
+| 20 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
+| 21 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 22 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
+| 23 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
+| 24 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 25 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
+| 26 | [Verilmeyen 2](http://twitter.com/search?q=Verilmeyen+2) | N/A |
+| 27 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 28 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
+| 29 | [Levent Tüzemen](http://twitter.com/search?q=Levent+T%c3%bczemen) | Levent Tüzemen is a Turkish name. It is composed of two words: Levent, which means "brave" or "courageous," and Tüzemen, which means "wind." In English, the name would translate to "Brave Wind." |
+| 30 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 31 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 32 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 33 | [Boey](http://twitter.com/search?q=Boey) | N/A |
+| 34 | [Oliviera](http://twitter.com/search?q=Oliviera) | N/A |
+| 35 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 36 | [TaşeronunOyu AyrımsızKadroya](http://twitter.com/search?q=Ta%c5%9feronunOyu+Ayr%c4%b1ms%c4%b1zKadroya) | N/A |
+| 37 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 38 | [Takım](http://twitter.com/search?q=Tak%c4%b1m) | N/A |
+| 39 | [Avrupa'ya](http://twitter.com/search?q=Avrupa%27ya) | N/A |
+| 40 | [Ligde](http://twitter.com/search?q=Ligde) | N/A |
+| 41 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
+| 42 | [KayıplarınSesini DuyanVarMı](http://twitter.com/search?q=Kay%c4%b1plar%c4%b1nSesini+DuyanVarM%c4%b1) | N/A |
+| 43 | [Defans](http://twitter.com/search?q=Defans) | N/A |
+| 44 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 45 | [Kupa](http://twitter.com/search?q=Kupa) | N/A |
+| 46 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 47 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 48 | [Kayseri'ye](http://twitter.com/search?q=Kayseri%27ye) | N/A |
+| 49 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
+| 50 | [Faul](http://twitter.com/search?q=Faul) | Faul is a German word meaning lazy or idle. It is often used to describe someone who is not working hard enough or not taking their responsibilities seriously. |
 
 
 

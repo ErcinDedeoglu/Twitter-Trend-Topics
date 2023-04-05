@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-05 19:17:52 UTC`
+📆 Last Updated: `2023-04-05 20:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 2 | [#Beyourluve](http://twitter.com/search?q=%23Beyourluve) | N/A |
-| 3 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
-| 4 | [#OurskyyxStarInMyMind](http://twitter.com/search?q=%23OurskyyxStarInMyMind) | N/A |
-| 5 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
-| 6 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
-| 7 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
-| 8 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 9 | [phượng](http://twitter.com/search?q=ph%c6%b0%e1%bb%a3ng) | N/A |
-| 10 | [P'Jak](http://twitter.com/search?q=P%27Jak) | N/A |
-| 11 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 12 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
-| 13 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 14 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 15 | [2nd concept photo](http://twitter.com/search?q=2nd+concept+photo) | N/A |
-| 16 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 17 | [cháy](http://twitter.com/search?q=ch%c3%a1y) | N/A |
-| 18 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
-| 19 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
-| 20 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
-| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 24 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 25 | [Series B](http://twitter.com/search?q=Series+B) | N/A |
-| 26 | [ZkSync](http://twitter.com/search?q=ZkSync) | N/A |
-| 27 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
-| 28 | [$DOGE](http://twitter.com/search?q=%24DOGE) | N/A |
-| 29 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 32 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 33 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 34 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
-| 35 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
-| 36 | [Khum](http://twitter.com/search?q=Khum) | N/A |
-| 37 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
-| 38 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
-| 39 | [Gothic Skull](http://twitter.com/search?q=Gothic+Skull) | N/A |
-| 40 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 41 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 42 | [Candy Skull](http://twitter.com/search?q=Candy+Skull) | N/A |
-| 43 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 45 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
-| 46 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
-| 47 | [Road to the Mainnet NFT](http://twitter.com/search?q=Road+to+the+Mainnet+NFT) | N/A |
-| 48 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 49 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
-| 50 | [phần lan](http://twitter.com/search?q=ph%e1%ba%a7n+lan) | N/A |
+| 2 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
+| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 4 | [#OurskyyxBadBuddy](http://twitter.com/search?q=%23OurskyyxBadBuddy) | N/A |
+| 5 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 7 | [#GETRISINGTORISER](http://twitter.com/search?q=%23GETRISINGTORISER) | N/A |
+| 8 | [biker skull](http://twitter.com/search?q=biker+skull) | N/A |
+| 9 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 10 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 11 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 12 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 13 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
+| 14 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 15 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 16 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 17 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 18 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 19 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 20 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 21 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 22 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
+| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 24 | [nhật](http://twitter.com/search?q=nh%e1%ba%adt) | N/A |
+| 25 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
+| 26 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
+| 27 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 28 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
+| 29 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 30 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
+| 31 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 32 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 33 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 34 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 35 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 36 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 37 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
+| 38 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
+| 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 42 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 43 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 44 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
+| 45 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [hyuk](http://twitter.com/search?q=hyuk) | N/A |
+| 48 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
 
 
 

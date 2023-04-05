@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-04-05 19:17:54 UTC`
+📆 Last Updated: `2023-04-05 20:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 2 | [#TobyshangHomecoming](http://twitter.com/search?q=%23TobyshangHomecoming) | N/A |
-| 3 | [#BrightFutureMrVegas](http://twitter.com/search?q=%23BrightFutureMrVegas) | N/A |
-| 4 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
-| 5 | [#StopAtNothing](http://twitter.com/search?q=%23StopAtNothing) | N/A |
-| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 7 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 8 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 9 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 10 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
-| 11 | [Pelumi](http://twitter.com/search?q=Pelumi) | N/A |
-| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 14 | [Lai Mohammed](http://twitter.com/search?q=Lai+Mohammed) | N/A |
-| 15 | [WELCOME HOME KANAGA JNR](http://twitter.com/search?q=WELCOME+HOME+KANAGA+JNR) | N/A |
-| 16 | [Terdoo](http://twitter.com/search?q=Terdoo) | N/A |
-| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 18 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
-| 19 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 20 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 21 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 22 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 2 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 3 | [#FreshFlavorFullEnergy](http://twitter.com/search?q=%23FreshFlavorFullEnergy) | N/A |
+| 4 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
+| 5 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
+| 6 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 7 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 8 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 9 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 12 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 13 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 14 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 18 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 20 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 21 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 22 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 23 | [WELCOME BACK YVONNE](http://twitter.com/search?q=WELCOME+BACK+YVONNE) | N/A |
-| 24 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 25 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
-| 28 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 29 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 30 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 31 | [MURIC](http://twitter.com/search?q=MURIC) | N/A |
-| 32 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
-| 33 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 34 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 35 | [After God](http://twitter.com/search?q=After+God) | N/A |
-| 36 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 37 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 38 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 39 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 40 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 41 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 42 | [minister Lai](http://twitter.com/search?q=minister+Lai) | N/A |
-| 43 | [Benue](http://twitter.com/search?q=Benue) | N/A |
-| 44 | [shuttlers](http://twitter.com/search?q=shuttlers) | N/A |
-| 45 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 46 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
-| 47 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 48 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 49 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
+| 24 | [Nigeria is POssible](http://twitter.com/search?q=Nigeria+is+POssible) | N/A |
+| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 27 | [Peoples Gazette](http://twitter.com/search?q=Peoples+Gazette) | N/A |
+| 28 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 29 | [WELCOME HOME KANAGA JNR](http://twitter.com/search?q=WELCOME+HOME+KANAGA+JNR) | N/A |
+| 30 | [MURIC](http://twitter.com/search?q=MURIC) | N/A |
+| 31 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 32 | [Baba God](http://twitter.com/search?q=Baba+God) | N/A |
+| 33 | [AFRICA LOVES KANAGA JNR](http://twitter.com/search?q=AFRICA+LOVES+KANAGA+JNR) | N/A |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 36 | [Nobel laureate](http://twitter.com/search?q=Nobel+laureate) | N/A |
+| 37 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 38 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 39 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 40 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
+| 41 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 43 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
+| 44 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 45 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 46 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 47 | [Our Daddy](http://twitter.com/search?q=Our+Daddy) | N/A |
+| 48 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
 
 
 

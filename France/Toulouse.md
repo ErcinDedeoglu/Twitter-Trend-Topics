@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-04-05 19:17:35 UTC`
+📆 Last Updated: `2023-04-05 20:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCNOL](http://twitter.com/search?q=%23FCNOL) | N/A |
-| 2 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 3 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
-| 4 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
-| 5 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
-| 6 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 9 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 10 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 11 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 12 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
-| 13 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 15 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 16 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 17 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 18 | [Dave Appadoo](http://twitter.com/search?q=Dave+Appadoo) | N/A |
-| 19 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 22 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 23 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 24 | [ALLEZ L'OL](http://twitter.com/search?q=ALLEZ+L%27OL) | N/A |
-| 25 | [Vardrid](http://twitter.com/search?q=Vardrid) | N/A |
-| 26 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 27 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 28 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
-| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 30 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 34 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 2 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 3 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 4 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 5 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 6 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 7 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 8 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 9 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
+| 10 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 11 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 14 | [Baldé](http://twitter.com/search?q=Bald%c3%a9) | N/A |
+| 15 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 16 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 17 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 18 | [Le Camp Nou](http://twitter.com/search?q=Le+Camp+Nou) | N/A |
+| 19 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 20 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 21 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 22 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 25 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 26 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 30 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 31 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
+| 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 33 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 34 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
 | 35 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 36 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 37 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 38 | [Camille Claudel](http://twitter.com/search?q=Camille+Claudel) | N/A |
-| 39 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 40 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 41 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 42 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 43 | [Delphine](http://twitter.com/search?q=Delphine) | N/A |
-| 44 | [Al-Aqsa](http://twitter.com/search?q=Al-Aqsa) | N/A |
-| 45 | [Chelsea liverpool](http://twitter.com/search?q=Chelsea+liverpool) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
-| 48 | [la ps5](http://twitter.com/search?q=la+ps5) | N/A |
-| 49 | [La Beaujoire](http://twitter.com/search?q=La+Beaujoire) | N/A |
-| 50 | [Sondage](http://twitter.com/search?q=Sondage) | N/A |
+| 36 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 39 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 40 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 41 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 42 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 43 | [Dreyfus](http://twitter.com/search?q=Dreyfus) | N/A |
+| 44 | [Lyonnais](http://twitter.com/search?q=Lyonnais) | N/A |
+| 45 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 46 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 47 | [Droits](http://twitter.com/search?q=Droits) | N/A |
+| 48 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
 
 
 
