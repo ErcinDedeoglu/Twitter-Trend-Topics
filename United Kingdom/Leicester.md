@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-04-05 12:18:16 UTC`
+📆 Last Updated: `2023-04-05 13:22:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [henderson](http://twitter.com/search?q=henderson) | N/A |
-| 2 | [jack](http://twitter.com/search?q=jack) | N/A |
-| 3 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
-| 4 | [5SOS](http://twitter.com/search?q=5SOS) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [liverpool](http://twitter.com/search?q=liverpool) | N/A |
-| 7 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
-| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 9 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 10 | [LEEDS](http://twitter.com/search?q=LEEDS) | N/A |
-| 11 | [klopp](http://twitter.com/search?q=klopp) | N/A |
-| 12 | [hendo](http://twitter.com/search?q=hendo) | N/A |
-| 13 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 14 | [villa](http://twitter.com/search?q=villa) | N/A |
-| 15 | [alisson](http://twitter.com/search?q=alisson) | N/A |
-| 16 | [Kai havertz](http://twitter.com/search?q=Kai+havertz) | N/A |
-| 17 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 18 | [matip](http://twitter.com/search?q=matip) | N/A |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [jones](http://twitter.com/search?q=jones) | N/A |
-| 21 | [President](http://twitter.com/search?q=President) | N/A |
-| 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 24 | [brighton](http://twitter.com/search?q=brighton) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [emery](http://twitter.com/search?q=emery) | N/A |
-| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 31 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 32 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 33 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 34 | [bobby](http://twitter.com/search?q=bobby) | N/A |
-| 35 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 36 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 5 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 9 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 10 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 11 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 13 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 14 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 15 | [curtis jones](http://twitter.com/search?q=curtis+jones) | N/A |
+| 16 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 21 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 22 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 23 | [Queen Camilla](http://twitter.com/search?q=Queen+Camilla) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 26 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 27 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 28 | [Anthony taylor](http://twitter.com/search?q=Anthony+taylor) | N/A |
+| 29 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 30 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 31 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 32 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 33 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 34 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 35 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
+| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 37 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 38 | [#Nffc](http://twitter.com/search?q=%23Nffc) | N/A |
-| 39 | [rodgers](http://twitter.com/search?q=rodgers) | N/A |
-| 40 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 41 | [hugo](http://twitter.com/search?q=hugo) | N/A |
-| 42 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 43 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
-| 44 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
-| 45 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 46 | [elon](http://twitter.com/search?q=elon) | N/A |
-| 47 | [jota](http://twitter.com/search?q=jota) | N/A |
+| 38 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
+| 39 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 40 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 41 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 42 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
+| 43 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 44 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 45 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 46 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 47 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 48 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-05 12:18:43 UTC`
+📆 Last Updated: `2023-04-05 13:22:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 2 | [Dear Khosi](http://twitter.com/search?q=Dear+Khosi) | N/A |
-| 3 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 6 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
-| 7 | [KING KHOSI OF AFRICA](http://twitter.com/search?q=KING+KHOSI+OF+AFRICA) | N/A |
-| 8 | [uganda](http://twitter.com/search?q=uganda) | N/A |
-| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 10 | [#OpenToBelong](http://twitter.com/search?q=%23OpenToBelong) | N/A |
-| 11 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 12 | [#thehuntfordealsisover](http://twitter.com/search?q=%23thehuntfordealsisover) | N/A |
-| 13 | [henderson](http://twitter.com/search?q=henderson) | N/A |
-| 14 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 15 | [klopp](http://twitter.com/search?q=klopp) | N/A |
-| 16 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 17 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 1 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 5 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
+| 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 8 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 9 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [#OpenToBelong](http://twitter.com/search?q=%23OpenToBelong) | N/A |
+| 12 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 13 | [#thehuntfordealsisover](http://twitter.com/search?q=%23thehuntfordealsisover) | N/A |
+| 14 | [HENDERSON](http://twitter.com/search?q=HENDERSON) | N/A |
+| 15 | [MARVIN](http://twitter.com/search?q=MARVIN) | N/A |
+| 16 | [KLOPP](http://twitter.com/search?q=KLOPP) | N/A |
+| 17 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 18 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
 | 19 | [jones](http://twitter.com/search?q=jones) | N/A |
 | 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 22 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 23 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
 | 24 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
 | 25 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
 | 26 | [jota](http://twitter.com/search?q=jota) | N/A |
-| 27 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 28 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 29 | [hendo](http://twitter.com/search?q=hendo) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [hendo](http://twitter.com/search?q=hendo) | N/A |
+| 29 | [gallagher](http://twitter.com/search?q=gallagher) | N/A |
 | 30 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 31 | [gallagher](http://twitter.com/search?q=gallagher) | N/A |
-| 32 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 33 | [sterling](http://twitter.com/search?q=sterling) | N/A |
-| 34 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
-| 35 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
-| 36 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
-| 37 | [cape town city](http://twitter.com/search?q=cape+town+city) | N/A |
-| 38 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 39 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
-| 40 | [fabinho](http://twitter.com/search?q=fabinho) | N/A |
-| 41 | [koulibaly](http://twitter.com/search?q=koulibaly) | N/A |
+| 31 | [gomez](http://twitter.com/search?q=gomez) | N/A |
+| 32 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
+| 33 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 34 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
+| 35 | [cape town city](http://twitter.com/search?q=cape+town+city) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 38 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
+| 39 | [FABINHO](http://twitter.com/search?q=FABINHO) | N/A |
+| 40 | [koulibaly](http://twitter.com/search?q=koulibaly) | N/A |
+| 41 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
 | 42 | [leeto](http://twitter.com/search?q=leeto) | N/A |
-| 43 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
-| 44 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 45 | [matip](http://twitter.com/search?q=matip) | N/A |
-| 46 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 47 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 48 | [ayanda dlamini](http://twitter.com/search?q=ayanda+dlamini) | N/A |
-| 49 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 43 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 44 | [matip](http://twitter.com/search?q=matip) | N/A |
+| 45 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
+| 46 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 47 | [ayanda dlamini](http://twitter.com/search?q=ayanda+dlamini) | N/A |
+| 48 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 49 | [pfma](http://twitter.com/search?q=pfma) | N/A |
 
 
 

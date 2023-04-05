@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-05 12:18:53 UTC`
+📆 Last Updated: `2023-04-05 13:22:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 2 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
-| 3 | [celtics](http://twitter.com/search?q=celtics) | N/A |
-| 4 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 5 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 6 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 1 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 3 | [#Lcdlf3](http://twitter.com/search?q=%23Lcdlf3) | N/A |
+| 4 | [#TxLege](http://twitter.com/search?q=%23TxLege) | N/A |
+| 5 | [#Rockets](http://twitter.com/search?q=%23Rockets) | N/A |
+| 6 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 | 7 | [#VtuberUprising](http://twitter.com/search?q=%23VtuberUprising) | N/A |
-| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 9 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 10 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 11 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 12 | [Spider-man](http://twitter.com/search?q=Spider-man) | N/A |
-| 13 | [Angel](http://twitter.com/search?q=Angel) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 18 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 20 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 21 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 23 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 24 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 25 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
-| 26 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 27 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 28 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 29 | [brandon](http://twitter.com/search?q=brandon) | N/A |
-| 30 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 32 | [Mar-A-Lago](http://twitter.com/search?q=Mar-A-Lago) | N/A |
-| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 34 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 36 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 37 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 38 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
-| 39 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 40 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 41 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 42 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
-| 43 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 45 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 46 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 47 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 48 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 49 | [JUSTICE](http://twitter.com/search?q=JUSTICE) | N/A |
+| 8 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 9 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 10 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [spider-man](http://twitter.com/search?q=spider-man) | N/A |
+| 13 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 14 | [LIAR](http://twitter.com/search?q=LIAR) | N/A |
+| 15 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 16 | [pelosi](http://twitter.com/search?q=pelosi) | N/A |
+| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 18 | [Angel](http://twitter.com/search?q=Angel) | N/A |
+| 19 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 24 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 25 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 26 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 28 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 29 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
+| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 31 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 32 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 33 | [brandon](http://twitter.com/search?q=brandon) | N/A |
+| 34 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
+| 35 | [roddy](http://twitter.com/search?q=roddy) | N/A |
+| 36 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 38 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 39 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 40 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 41 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 42 | [joel embiid](http://twitter.com/search?q=joel+embiid) | N/A |
+| 43 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
+| 46 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 47 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
 
 
 

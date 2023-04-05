@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-05 12:18:31 UTC`
+📆 Last Updated: `2023-04-05 13:22:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [#fcbyb](http://twitter.com/search?q=%23fcbyb) | N/A |
-| 6 | [#juveinter](http://twitter.com/search?q=%23juveinter) | N/A |
-| 7 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 9 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 10 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
-| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 14 | [DOGE](http://twitter.com/search?q=DOGE) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [bubble](http://twitter.com/search?q=bubble) | N/A |
-| 17 | [cuadrado](http://twitter.com/search?q=cuadrado) | N/A |
-| 18 | [teilzeit](http://twitter.com/search?q=teilzeit) | N/A |
-| 19 | [GOLD](http://twitter.com/search?q=GOLD) | N/A |
-| 20 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 21 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 22 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 23 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 24 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
-| 25 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 26 | [MATCH](http://twitter.com/search?q=MATCH) | N/A |
-| 27 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 28 | [svizzera](http://twitter.com/search?q=svizzera) | N/A |
-| 29 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 30 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 31 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 34 | [chelsea](http://twitter.com/search?q=chelsea) | N/A |
-| 35 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 36 | [kontrolle](http://twitter.com/search?q=kontrolle) | N/A |
-| 37 | [notwehr](http://twitter.com/search?q=notwehr) | N/A |
-| 38 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 39 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 40 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 41 | [vogel](http://twitter.com/search?q=vogel) | N/A |
-| 42 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 43 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
-| 44 | [sackmesser](http://twitter.com/search?q=sackmesser) | N/A |
-| 45 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 46 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 47 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 48 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
+| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 2 | [#FCBYB](http://twitter.com/search?q=%23FCBYB) | N/A |
+| 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 4 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 5 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 6 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 7 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 8 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 11 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 12 | [sackmesser](http://twitter.com/search?q=sackmesser) | N/A |
+| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 16 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 17 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 18 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 21 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 24 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 25 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 26 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 27 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 28 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 29 | [bise](http://twitter.com/search?q=bise) | N/A |
+| 30 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 31 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 32 | [blocher](http://twitter.com/search?q=blocher) | N/A |
+| 33 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 34 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 35 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 36 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 37 | [Rücken](http://twitter.com/search?q=R%c3%bccken) | N/A |
+| 38 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
+| 39 | [klicks](http://twitter.com/search?q=klicks) | N/A |
+| 40 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
+| 41 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
+| 42 | [human resources for health](http://twitter.com/search?q=human+resources+for+health) | N/A |
+| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 44 | [Anlagen](http://twitter.com/search?q=Anlagen) | N/A |
+| 45 | [Austausch](http://twitter.com/search?q=Austausch) | N/A |
+| 46 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 47 | [Veränderungen](http://twitter.com/search?q=Ver%c3%a4nderungen) | N/A |
+| 48 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 49 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
 
 
 

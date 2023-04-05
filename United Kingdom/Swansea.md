@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-05 12:18:17 UTC`
+📆 Last Updated: `2023-04-05 13:22:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [liverpool](http://twitter.com/search?q=liverpool) | N/A |
-| 3 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
-| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 5 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 6 | [LEEDS](http://twitter.com/search?q=LEEDS) | N/A |
-| 7 | [klopp](http://twitter.com/search?q=klopp) | N/A |
-| 8 | [hendo](http://twitter.com/search?q=hendo) | N/A |
-| 9 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 10 | [villa](http://twitter.com/search?q=villa) | N/A |
-| 11 | [alisson](http://twitter.com/search?q=alisson) | N/A |
-| 12 | [Kai havertz](http://twitter.com/search?q=Kai+havertz) | N/A |
-| 13 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 14 | [matip](http://twitter.com/search?q=matip) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [jones](http://twitter.com/search?q=jones) | N/A |
-| 17 | [President](http://twitter.com/search?q=President) | N/A |
-| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 19 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 20 | [brighton](http://twitter.com/search?q=brighton) | N/A |
-| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [emery](http://twitter.com/search?q=emery) | N/A |
-| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 24 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 29 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 30 | [bobby](http://twitter.com/search?q=bobby) | N/A |
-| 31 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 32 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [#Nffc](http://twitter.com/search?q=%23Nffc) | N/A |
-| 35 | [rodgers](http://twitter.com/search?q=rodgers) | N/A |
-| 36 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 37 | [hugo](http://twitter.com/search?q=hugo) | N/A |
-| 38 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 39 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
-| 40 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
-| 41 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 42 | [#VirginMediaoutage](http://twitter.com/search?q=%23VirginMediaoutage) | N/A |
-| 43 | [elon](http://twitter.com/search?q=elon) | N/A |
-| 44 | [jota](http://twitter.com/search?q=jota) | N/A |
-| 45 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
-| 46 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 47 | [henderson](http://twitter.com/search?q=henderson) | N/A |
-| 48 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 49 | [steve cooper](http://twitter.com/search?q=steve+cooper) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 5 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 6 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 7 | [LEEDS](http://twitter.com/search?q=LEEDS) | N/A |
+| 8 | [KLOPP](http://twitter.com/search?q=KLOPP) | N/A |
+| 9 | [hendo](http://twitter.com/search?q=hendo) | N/A |
+| 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 11 | [villa](http://twitter.com/search?q=villa) | N/A |
+| 12 | [alisson](http://twitter.com/search?q=alisson) | N/A |
+| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 14 | [Kai havertz](http://twitter.com/search?q=Kai+havertz) | N/A |
+| 15 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 16 | [matip](http://twitter.com/search?q=matip) | N/A |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [jones](http://twitter.com/search?q=jones) | N/A |
+| 19 | [President](http://twitter.com/search?q=President) | N/A |
+| 20 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 22 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 26 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 27 | [Mckennie](http://twitter.com/search?q=Mckennie) | N/A |
+| 28 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 32 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 33 | [BOBBY](http://twitter.com/search?q=BOBBY) | N/A |
+| 34 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 35 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 37 | [maddison](http://twitter.com/search?q=maddison) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 40 | [rodgers](http://twitter.com/search?q=rodgers) | N/A |
+| 41 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 42 | [hugo](http://twitter.com/search?q=hugo) | N/A |
+| 43 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 44 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 45 | [#premierleague](http://twitter.com/search?q=%23premierleague) | N/A |
+| 46 | [Doctor Who](http://twitter.com/search?q=Doctor+Who) | N/A |
+| 47 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 48 | [#VirginMediaoutage](http://twitter.com/search?q=%23VirginMediaoutage) | N/A |
+| 49 | [elon](http://twitter.com/search?q=elon) | N/A |
 
 
 

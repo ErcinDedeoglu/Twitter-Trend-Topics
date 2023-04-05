@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-04-05 12:18:53 UTC`
+📆 Last Updated: `2023-04-05 13:22:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
-| 2 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 7 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 8 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 9 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 10 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 14 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 15 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
-| 16 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 17 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 18 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
-| 19 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 20 | [brandon](http://twitter.com/search?q=brandon) | N/A |
-| 21 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 22 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 23 | [Mar-A-Lago](http://twitter.com/search?q=Mar-A-Lago) | N/A |
-| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 26 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 27 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 28 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 29 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
-| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 31 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 32 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 33 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
-| 34 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 37 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 38 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 39 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 40 | [JUSTICE](http://twitter.com/search?q=JUSTICE) | N/A |
-| 41 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 42 | [levi](http://twitter.com/search?q=levi) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [BRIAN ANDERSON](http://twitter.com/search?q=BRIAN+ANDERSON) | N/A |
-| 45 | [Scola](http://twitter.com/search?q=Scola) | N/A |
-| 46 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 47 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 48 | [Lock](http://twitter.com/search?q=Lock) | N/A |
-| 49 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 50 | [melania](http://twitter.com/search?q=melania) | N/A |
+| 1 | [#pistons](http://twitter.com/search?q=%23pistons) | N/A |
+| 2 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
+| 3 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 5 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 6 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 11 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 13 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 14 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 16 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 17 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
+| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 19 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 20 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 21 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 22 | [brandon](http://twitter.com/search?q=brandon) | N/A |
+| 23 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
+| 24 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 25 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
+| 26 | [roddy](http://twitter.com/search?q=roddy) | N/A |
+| 27 | [brewers](http://twitter.com/search?q=brewers) | N/A |
+| 28 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 29 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 30 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 32 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 33 | [joel embiid](http://twitter.com/search?q=joel+embiid) | N/A |
+| 34 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
+| 35 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 36 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
+| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 38 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 41 | [tobias harris](http://twitter.com/search?q=tobias+harris) | N/A |
+| 42 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 43 | [PHILLIES](http://twitter.com/search?q=PHILLIES) | N/A |
+| 44 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 45 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 46 | [LEVI](http://twitter.com/search?q=LEVI) | N/A |
+| 47 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 48 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 49 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

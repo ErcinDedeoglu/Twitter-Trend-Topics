@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-05 12:19:03 UTC`
+📆 Last Updated: `2023-04-05 13:22:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 4 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 6 | [Nusu Mkate](http://twitter.com/search?q=Nusu+Mkate) | N/A |
-| 7 | [#mainaandkingangi](http://twitter.com/search?q=%23mainaandkingangi) | N/A |
+| 6 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 7 | [nusu mkate](http://twitter.com/search?q=nusu+mkate) | N/A |
 | 8 | [#mondayglobalword](http://twitter.com/search?q=%23mondayglobalword) | N/A |
 | 9 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
-| 10 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 11 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
-| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 11 | [#tirriestuesday](http://twitter.com/search?q=%23tirriestuesday) | N/A |
+| 12 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
 | 13 | [im on the go](http://twitter.com/search?q=im+on+the+go) | N/A |
-| 14 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 15 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 16 | [#tirriestuesday](http://twitter.com/search?q=%23tirriestuesday) | N/A |
-| 17 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
-| 18 | [klopp](http://twitter.com/search?q=klopp) | N/A |
+| 14 | [#UnajuaHiiStory](http://twitter.com/search?q=%23UnajuaHiiStory) | N/A |
+| 15 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 16 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
+| 17 | [KLOPP](http://twitter.com/search?q=KLOPP) | N/A |
+| 18 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
 | 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 | 20 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 21 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
 | 23 | [kofi annan](http://twitter.com/search?q=kofi+annan) | N/A |
 | 24 | [nhif](http://twitter.com/search?q=nhif) | N/A |
 | 25 | [mukumu girls](http://twitter.com/search?q=mukumu+girls) | N/A |
 | 26 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
-| 27 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 29 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 30 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 31 | [PAXFUL](http://twitter.com/search?q=PAXFUL) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 29 | [zanzibar](http://twitter.com/search?q=zanzibar) | N/A |
+| 30 | [Paxful](http://twitter.com/search?q=Paxful) | N/A |
+| 31 | [handshake](http://twitter.com/search?q=handshake) | N/A |
 | 32 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 33 | [anfield](http://twitter.com/search?q=anfield) | N/A |
-| 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 35 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
-| 36 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
-| 37 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
+| 33 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 34 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
+| 35 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
+| 36 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
+| 37 | [Executive](http://twitter.com/search?q=Executive) | N/A |
 | 38 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
 | 39 | [amaco](http://twitter.com/search?q=amaco) | N/A |
-| 40 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 41 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 42 | [nagelsmann](http://twitter.com/search?q=nagelsmann) | N/A |
-| 43 | [mendy](http://twitter.com/search?q=mendy) | N/A |
-| 44 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 45 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 46 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 48 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 49 | [uganda](http://twitter.com/search?q=uganda) | N/A |
-| 50 | [auba](http://twitter.com/search?q=auba) | N/A |
+| 40 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 41 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 42 | [mendy](http://twitter.com/search?q=mendy) | N/A |
+| 43 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 44 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 45 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 46 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 47 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 48 | [auba](http://twitter.com/search?q=auba) | N/A |
+| 49 | [kigali](http://twitter.com/search?q=kigali) | N/A |
+| 50 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 
 
 

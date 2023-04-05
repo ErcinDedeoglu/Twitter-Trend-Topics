@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-05 12:18:13 UTC`
+📆 Last Updated: `2023-04-05 13:22:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
-| 2 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 5 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 6 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 7 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 8 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 9 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 15 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
-| 16 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 17 | [sanderson](http://twitter.com/search?q=sanderson) | N/A |
-| 18 | [Mar-A-Lago](http://twitter.com/search?q=Mar-A-Lago) | N/A |
-| 19 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 21 | [Maga](http://twitter.com/search?q=Maga) | N/A |
-| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 24 | [reese](http://twitter.com/search?q=reese) | N/A |
-| 25 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 26 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 27 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 28 | [QUEEN](http://twitter.com/search?q=QUEEN) | N/A |
-| 29 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
-| 30 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 31 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 34 | [chelsea](http://twitter.com/search?q=chelsea) | N/A |
-| 35 | [liverpool](http://twitter.com/search?q=liverpool) | N/A |
-| 36 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 37 | [hunter](http://twitter.com/search?q=hunter) | N/A |
-| 38 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 39 | [eric](http://twitter.com/search?q=eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". The meaning of Eric in English is "eternal ruler". |
-| 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 41 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 42 | [poland](http://twitter.com/search?q=poland) | N/A |
-| 43 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 45 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 46 | [elon](http://twitter.com/search?q=elon) | N/A |
-| 47 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
-| 48 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [kikuchi](http://twitter.com/search?q=kikuchi) | N/A |
+| 4 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 8 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 10 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 11 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 13 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
+| 14 | [#nationalcaregiverday](http://twitter.com/search?q=%23nationalcaregiverday) | N/A |
+| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 18 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 19 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 22 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 23 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
+| 24 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 25 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 27 | [jet greaves](http://twitter.com/search?q=jet+greaves) | N/A |
+| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 29 | [daulton varsho](http://twitter.com/search?q=daulton+varsho) | N/A |
+| 30 | [Calgarians](http://twitter.com/search?q=Calgarians) | N/A |
+| 31 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
+| 32 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 33 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 35 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [4.5% of Canadians](http://twitter.com/search?q=4.5%25+of+Canadians) | N/A |
+| 38 | [Segregation](http://twitter.com/search?q=Segregation) | N/A |
+| 39 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 40 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 41 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 44 | [USports](http://twitter.com/search?q=USports) | N/A |
+| 45 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 46 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 47 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 48 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 49 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 
 
 

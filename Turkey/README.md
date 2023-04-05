@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-04-05 12:19:06 UTC`
+📆 Last Updated: `2023-04-05 13:23:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,35 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 2 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 1 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 2 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
 | 3 | [#SözVeriyoruz](http://twitter.com/search?q=%23S%c3%b6zVeriyoruz) | N/A |
-| 4 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 5 | [#المسجد_الأقصى](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
-| 6 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 7 | [SeçiminKilidi YapıKayıt](http://twitter.com/search?q=Se%c3%a7iminKilidi+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 4 | [#المسجد_الأقصى](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
+| 5 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
+| 6 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
+| 7 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
 | 8 | [Filistin](http://twitter.com/search?q=Filistin) | N/A |
-| 9 | [İdris Baluken](http://twitter.com/search?q=%c4%b0dris+Baluken) | N/A |
-| 10 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 11 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
+| 9 | [SeçiminKilidi YapıKayıt](http://twitter.com/search?q=Se%c3%a7iminKilidi+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 10 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
+| 11 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
 | 12 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
 | 13 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 14 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
-| 15 | [Mübarek Ramazan](http://twitter.com/search?q=M%c3%bcbarek+Ramazan) | N/A |
-| 16 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 14 | [Mübarek Ramazan](http://twitter.com/search?q=M%c3%bcbarek+Ramazan) | N/A |
+| 15 | [Müslümanların](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar%c4%b1n) | N/A |
+| 16 | [Kutlu](http://twitter.com/search?q=Kutlu) | N/A |
 | 17 | [Cemile](http://twitter.com/search?q=Cemile) | N/A |
-| 18 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
+| 18 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
 | 19 | [#memleketAnıtkabirde](http://twitter.com/search?q=%23memleketAn%c4%b1tkabirde) | N/A |
-| 20 | [#KudueseSahipCık](http://twitter.com/search?q=%23KudueseSahipC%c4%b1k) | N/A |
+| 20 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
 | 21 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 22 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
-| 23 | [#Çarşamba](http://twitter.com/search?q=%23%c3%87ar%c5%9famba) | N/A |
+| 22 | [#KudueseSahipCık](http://twitter.com/search?q=%23KudueseSahipC%c4%b1k) | N/A |
+| 23 | [#idrisbaluken](http://twitter.com/search?q=%23idrisbaluken) | N/A |
 | 24 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
 | 25 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
-| 26 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 27 | [#adalet](http://twitter.com/search?q=%23adalet) | N/A |
-| 28 | [#KOPOL](http://twitter.com/search?q=%23KOPOL) | N/A |
+| 26 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 27 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 28 | [#adalet](http://twitter.com/search?q=%23adalet) | N/A |
+| 29 | [#KOPOL](http://twitter.com/search?q=%23KOPOL) | N/A |
 
 
 

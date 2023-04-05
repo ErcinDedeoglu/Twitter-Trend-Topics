@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-05 12:18:23 UTC`
+📆 Last Updated: `2023-04-05 13:22:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 2 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
-| 3 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 2 | [YURI](http://twitter.com/search?q=YURI) | N/A |
+| 3 | [bangu](http://twitter.com/search?q=bangu) | N/A |
 | 4 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 5 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 6 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 8 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 11 | [keiller](http://twitter.com/search?q=keiller) | N/A |
-| 12 | [odair](http://twitter.com/search?q=odair) | N/A |
-| 13 | [páscoa](http://twitter.com/search?q=p%c3%a1scoa) | N/A |
-| 14 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
-| 15 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 16 | [lucca](http://twitter.com/search?q=lucca) | N/A |
-| 17 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 18 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 19 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 20 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 21 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 22 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 23 | [RIVER](http://twitter.com/search?q=RIVER) | N/A |
-| 24 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 25 | [BLOOMING](http://twitter.com/search?q=BLOOMING) | N/A |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 28 | [santa cruz](http://twitter.com/search?q=santa+cruz) | N/A |
-| 29 | [ATHLETICO](http://twitter.com/search?q=ATHLETICO) | N/A |
-| 30 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 31 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 32 | [gustavo](http://twitter.com/search?q=gustavo) | N/A |
-| 33 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 34 | [embiid](http://twitter.com/search?q=embiid) | N/A |
-| 35 | [chelsea](http://twitter.com/search?q=chelsea) | N/A |
-| 36 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 38 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
-| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 40 | [theo](http://twitter.com/search?q=theo) | N/A |
-| 41 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 42 | [johnny](http://twitter.com/search?q=johnny) | N/A |
-| 43 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 44 | [liverpool](http://twitter.com/search?q=liverpool) | N/A |
-| 45 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 46 | [Queens Of The Stone Age](http://twitter.com/search?q=Queens+Of+The+Stone+Age) | N/A |
-| 47 | [Turra](http://twitter.com/search?q=Turra) | N/A |
-| 48 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 49 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 5 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 6 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 7 | [madureira](http://twitter.com/search?q=madureira) | N/A |
+| 8 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 10 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 11 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 12 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
+| 15 | [keiller](http://twitter.com/search?q=keiller) | N/A |
+| 16 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 17 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 18 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 19 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 20 | [LUCCA](http://twitter.com/search?q=LUCCA) | N/A |
+| 21 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 22 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 23 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 24 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 25 | [#TheCloudxBecky](http://twitter.com/search?q=%23TheCloudxBecky) | N/A |
+| 26 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 27 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
+| 28 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [SANTA CRUZ](http://twitter.com/search?q=SANTA+CRUZ) | N/A |
+| 31 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 32 | [lucas lima](http://twitter.com/search?q=lucas+lima) | N/A |
+| 33 | [ATHLETICO](http://twitter.com/search?q=ATHLETICO) | N/A |
+| 34 | [CAMACHO](http://twitter.com/search?q=CAMACHO) | N/A |
+| 35 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 36 | [ÂNGELO](http://twitter.com/search?q=%c3%82NGELO) | N/A |
+| 37 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 38 | [THE STRONGEST](http://twitter.com/search?q=THE+STRONGEST) | N/A |
+| 39 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 42 | [marcos leonardo](http://twitter.com/search?q=marcos+leonardo) | N/A |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 45 | [THEO](http://twitter.com/search?q=THEO) | N/A |
+| 46 | [ivonei](http://twitter.com/search?q=ivonei) | N/A |
+| 47 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
 
 
 

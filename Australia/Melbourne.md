@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-05 12:18:34 UTC`
+📆 Last Updated: `2023-04-05 13:22:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 4 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 5 | [#imacelebrityau](http://twitter.com/search?q=%23imacelebrityau) | N/A |
-| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [DOGE](http://twitter.com/search?q=DOGE) | N/A |
-| 8 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 13 | [America](http://twitter.com/search?q=America) | N/A |
-| 14 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 15 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 16 | [Liberal party](http://twitter.com/search?q=Liberal+party) | N/A |
-| 17 | [5SOS](http://twitter.com/search?q=5SOS) | N/A |
-| 18 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 19 | [Tiktok](http://twitter.com/search?q=Tiktok) | N/A |
-| 20 | [elon](http://twitter.com/search?q=elon) | N/A |
-| 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 24 | [harry potter](http://twitter.com/search?q=harry+potter) | N/A |
-| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 26 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 27 | [the rba](http://twitter.com/search?q=the+rba) | N/A |
-| 28 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 29 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 30 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 31 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
-| 32 | [#Usydstrike](http://twitter.com/search?q=%23Usydstrike) | N/A |
-| 33 | [Australians](http://twitter.com/search?q=Australians) | N/A |
-| 34 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 35 | [rowling](http://twitter.com/search?q=rowling) | N/A |
-| 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 37 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 38 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 39 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
-| 40 | [liverpool](http://twitter.com/search?q=liverpool) | N/A |
-| 41 | [TAFE](http://twitter.com/search?q=TAFE) | N/A |
-| 42 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 43 | [roman](http://twitter.com/search?q=roman) | N/A |
-| 44 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 45 | [florida](http://twitter.com/search?q=florida) | N/A |
-| 46 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 47 | [MRNA](http://twitter.com/search?q=MRNA) | N/A |
-| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 49 | [RYAN GOSLING](http://twitter.com/search?q=RYAN+GOSLING) | N/A |
-| 50 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 3 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 7 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
+| 8 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 9 | [#MCYvMVC](http://twitter.com/search?q=%23MCYvMVC) | N/A |
+| 10 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 11 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 12 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 13 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 14 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 17 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 18 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 20 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 21 | [CFMEU](http://twitter.com/search?q=CFMEU) | N/A |
+| 22 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 23 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 24 | [Cleo Smith](http://twitter.com/search?q=Cleo+Smith) | N/A |
+| 25 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 26 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 27 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 28 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 30 | [Terence Kelly](http://twitter.com/search?q=Terence+Kelly) | N/A |
+| 31 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 32 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 33 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 36 | [Georgie](http://twitter.com/search?q=Georgie) | N/A |
+| 37 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
+| 38 | [Booktopia](http://twitter.com/search?q=Booktopia) | N/A |
+| 39 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 40 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
+| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 42 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
+| 43 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
+| 44 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 45 | [Leeser](http://twitter.com/search?q=Leeser) | N/A |
+| 46 | [The LNP](http://twitter.com/search?q=The+LNP) | N/A |
+| 47 | [ANZAC](http://twitter.com/search?q=ANZAC) | N/A |
+| 48 | [ATSIC](http://twitter.com/search?q=ATSIC) | N/A |
+| 49 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
+| 50 | [Passover](http://twitter.com/search?q=Passover) | N/A |
 
 
 

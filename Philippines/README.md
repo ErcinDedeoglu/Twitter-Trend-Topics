@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-05 12:19:05 UTC`
+📆 Last Updated: `2023-04-05 13:23:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENCHANTEENSTARHARUTO](http://twitter.com/search?q=%23ENCHANTEENSTARHARUTO) | N/A |
-| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 6 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 7 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
-| 8 | [#JonaxxRTMVSimula](http://twitter.com/search?q=%23JonaxxRTMVSimula) | N/A |
+| 1 | [#FLOWER1stWin](http://twitter.com/search?q=%23FLOWER1stWin) | N/A |
+| 2 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 3 | [#ENCHANTEENSTARHARUTO](http://twitter.com/search?q=%23ENCHANTEENSTARHARUTO) | N/A |
+| 4 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 5 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 7 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 8 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
 | 9 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 11 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 12 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 13 | [DOGE](http://twitter.com/search?q=DOGE) | N/A |
-| 14 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
-| 15 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 16 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 10 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 12 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
+| 16 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
 | 17 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
 | 18 | [RYAN GOSLING](http://twitter.com/search?q=RYAN+GOSLING) | N/A |
-| 19 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 20 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 21 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 22 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 23 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 24 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 25 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 26 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 19 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 20 | [MARGOT ROBBIE](http://twitter.com/search?q=MARGOT+ROBBIE) | N/A |
+| 21 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 22 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 23 | [Manny jacinto](http://twitter.com/search?q=Manny+jacinto) | N/A |
+| 24 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 25 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
 | 27 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
 | 28 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 29 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
+| 29 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
 | 30 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 31 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 32 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
-| 33 | [2 ft](http://twitter.com/search?q=2+ft) | N/A |
-| 34 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 35 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 36 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 37 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 38 | [BLUE BEETLE](http://twitter.com/search?q=BLUE+BEETLE) | N/A |
-| 39 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 40 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 41 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 42 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 43 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 44 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 45 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 46 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [mark tuan](http://twitter.com/search?q=mark+tuan) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 50 | [Lenten](http://twitter.com/search?q=Lenten) | N/A |
+| 31 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 32 | [MINHYUK](http://twitter.com/search?q=MINHYUK) | N/A |
+| 33 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 34 | [2 ft](http://twitter.com/search?q=2+ft) | N/A |
+| 35 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 37 | [with iu](http://twitter.com/search?q=with+iu) | N/A |
+| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 39 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 40 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 41 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 42 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 43 | [JIMINIE](http://twitter.com/search?q=JIMINIE) | N/A |
+| 44 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 45 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 46 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 47 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
+| 48 | [KYLER SALAMUCHUA](http://twitter.com/search?q=KYLER+SALAMUCHUA) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 

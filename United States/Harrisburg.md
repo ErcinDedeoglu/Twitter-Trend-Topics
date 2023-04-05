@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-04-05 12:18:53 UTC`
+📆 Last Updated: `2023-04-05 13:22:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 8 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 14 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 16 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 17 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 18 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 19 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 20 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 21 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 25 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 28 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 29 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 30 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 31 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 32 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 34 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 35 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 36 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 38 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 39 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 40 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 41 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 42 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 43 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 44 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 45 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 46 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 47 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 48 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 49 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 50 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 1 | [SIXERS](http://twitter.com/search?q=SIXERS) | N/A |
+| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 4 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 5 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 6 | [maxey](http://twitter.com/search?q=maxey) | N/A |
+| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 8 | [boston](http://twitter.com/search?q=boston) | N/A |
+| 9 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 10 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
+| 11 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 12 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 15 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 16 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 20 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 21 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 22 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 23 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 24 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 27 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
+| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 29 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 30 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 31 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 32 | [brandon](http://twitter.com/search?q=brandon) | N/A |
+| 33 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
+| 34 | [roddy](http://twitter.com/search?q=roddy) | N/A |
+| 35 | [brewers](http://twitter.com/search?q=brewers) | N/A |
+| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 37 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 40 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 41 | [joel embiid](http://twitter.com/search?q=joel+embiid) | N/A |
+| 42 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
+| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 44 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
+| 45 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 46 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 49 | [tobias harris](http://twitter.com/search?q=tobias+harris) | N/A |
+| 50 | [Judge](http://twitter.com/search?q=Judge) | N/A |
 
 
 

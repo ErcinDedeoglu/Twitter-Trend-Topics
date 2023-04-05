@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-05 12:19:07 UTC`
+📆 Last Updated: `2023-04-05 13:23:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Venezuela
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
-| 2 | [#4Abr](http://twitter.com/search?q=%234Abr) | N/A |
-| 3 | [#5Abr](http://twitter.com/search?q=%235Abr) | N/A |
+| 1 | [#PuebloEnOraciónYPaz](http://twitter.com/search?q=%23PuebloEnOraci%c3%b3nYPaz) | N/A |
+| 2 | [#5Abr](http://twitter.com/search?q=%235Abr) | N/A |
+| 3 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
 | 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 6 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 7 | [bolivia](http://twitter.com/search?q=bolivia) | N/A |
-| 8 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 9 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
-| 10 | [#SemanaMayorEnFamilia](http://twitter.com/search?q=%23SemanaMayorEnFamilia) | N/A |
-| 11 | [MARTES SANTO](http://twitter.com/search?q=MARTES+SANTO) | N/A |
-| 12 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
-| 13 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 14 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 15 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 16 | [venezuela](http://twitter.com/search?q=venezuela) | N/A |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 19 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 21 | [florida](http://twitter.com/search?q=florida) | N/A |
-| 22 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 23 | [dua lipa](http://twitter.com/search?q=dua+lipa) | N/A |
-| 24 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 25 | [DogeCoin](http://twitter.com/search?q=DogeCoin) | N/A |
-| 26 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 27 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 28 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
-| 29 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 30 | [miranda](http://twitter.com/search?q=miranda) | N/A |
-| 31 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 32 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 33 | [Los Supersónicos](http://twitter.com/search?q=Los+Supers%c3%b3nicos) | N/A |
-| 34 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 37 | [Alirio Rodríguez](http://twitter.com/search?q=Alirio+Rodr%c3%adguez) | N/A |
-| 38 | [elon](http://twitter.com/search?q=elon) | N/A |
-| 39 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 5 | [Hugo Cabezas](http://twitter.com/search?q=Hugo+Cabezas) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
+| 8 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
+| 9 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 10 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 11 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 12 | [#SemanaMayorEnFamilia](http://twitter.com/search?q=%23SemanaMayorEnFamilia) | N/A |
+| 13 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
+| 14 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 15 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 16 | [Andrés Eloy Blanco](http://twitter.com/search?q=Andr%c3%a9s+Eloy+Blanco) | N/A |
+| 17 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 18 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 19 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 20 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 21 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 22 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 23 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 24 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 25 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 26 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 27 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [chelique sarabia](http://twitter.com/search?q=chelique+sarabia) | N/A |
+| 30 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 31 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 32 | [reinoso](http://twitter.com/search?q=reinoso) | N/A |
+| 33 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
+| 34 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 35 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 36 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 37 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 38 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 40 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 41 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 42 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 43 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 44 | [harry potter](http://twitter.com/search?q=harry+potter) | N/A |
-| 45 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 46 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
-| 47 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 48 | [El Paraíso](http://twitter.com/search?q=El+Para%c3%adso) | N/A |
-| 49 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 50 | [OSASUNA](http://twitter.com/search?q=OSASUNA) | N/A |
+| 41 | [venezuela y curazao](http://twitter.com/search?q=venezuela+y+curazao) | N/A |
+| 42 | [alirio rodríguez](http://twitter.com/search?q=alirio+rodr%c3%adguez) | N/A |
+| 43 | [Arango](http://twitter.com/search?q=Arango) | N/A |
+| 44 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 45 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 46 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 47 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 48 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 49 | [Gómez](http://twitter.com/search?q=G%c3%b3mez) | N/A |
+| 50 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
 
 
 

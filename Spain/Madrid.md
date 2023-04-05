@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-05 12:18:30 UTC`
+📆 Last Updated: `2023-04-05 13:22:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MARTES SANTO](http://twitter.com/search?q=MARTES+SANTO) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [#ssantasevilla23](http://twitter.com/search?q=%23ssantasevilla23) | N/A |
-| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 8 | [chelsea](http://twitter.com/search?q=chelsea) | N/A |
-| 9 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 10 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
-| 11 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 12 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 13 | [#tierradenadie5](http://twitter.com/search?q=%23tierradenadie5) | N/A |
-| 14 | [OSASUNA](http://twitter.com/search?q=OSASUNA) | N/A |
-| 15 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 16 | [ATHLETIC](http://twitter.com/search?q=ATHLETIC) | N/A |
-| 17 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 18 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
-| 19 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 20 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 21 | [nico williams](http://twitter.com/search?q=nico+williams) | N/A |
-| 22 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 23 | [ADARA](http://twitter.com/search?q=ADARA) | N/A |
-| 24 | [Aless](http://twitter.com/search?q=Aless) | N/A |
-| 25 | [#Hermanos4Abr](http://twitter.com/search?q=%23Hermanos4Abr) | N/A |
-| 26 | [SAN MAMÉS](http://twitter.com/search?q=SAN+MAM%c3%89S) | N/A |
-| 27 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 28 | [black mirror](http://twitter.com/search?q=black+mirror) | N/A |
-| 29 | [ana sandra](http://twitter.com/search?q=ana+sandra) | N/A |
-| 30 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 31 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 32 | [#ChesterEstherAranda](http://twitter.com/search?q=%23ChesterEstherAranda) | N/A |
-| 33 | [Jagoba](http://twitter.com/search?q=Jagoba) | N/A |
-| 34 | [Lequio](http://twitter.com/search?q=Lequio) | N/A |
-| 35 | [valverde](http://twitter.com/search?q=valverde) | N/A |
-| 36 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 37 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 38 | [Aberrante](http://twitter.com/search?q=Aberrante) | N/A |
-| 39 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
-| 40 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
-| 41 | [chimy](http://twitter.com/search?q=chimy) | N/A |
-| 42 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
+| 3 | [#tierradenadie5](http://twitter.com/search?q=%23tierradenadie5) | N/A |
+| 4 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 5 | [#CopadelRey](http://twitter.com/search?q=%23CopadelRey) | N/A |
+| 6 | [MARTES SANTO](http://twitter.com/search?q=MARTES+SANTO) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [SAN MAMÉS](http://twitter.com/search?q=SAN+MAM%c3%89S) | N/A |
+| 9 | [nico williams](http://twitter.com/search?q=nico+williams) | N/A |
+| 10 | [#firstdates4a](http://twitter.com/search?q=%23firstdates4a) | N/A |
+| 11 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
+| 12 | [#laisladelastentaciones11](http://twitter.com/search?q=%23laisladelastentaciones11) | N/A |
+| 13 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 14 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 17 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 18 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 19 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 20 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 21 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 22 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 23 | [DogeCoin](http://twitter.com/search?q=DogeCoin) | N/A |
+| 24 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 25 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 26 | [iñaki williams](http://twitter.com/search?q=i%c3%b1aki+williams) | N/A |
+| 27 | [zarraga](http://twitter.com/search?q=zarraga) | N/A |
+| 28 | [BILBAO](http://twitter.com/search?q=BILBAO) | N/A |
+| 29 | [Aless](http://twitter.com/search?q=Aless) | N/A |
+| 30 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [ana sandra](http://twitter.com/search?q=ana+sandra) | N/A |
+| 33 | [PACHETA](http://twitter.com/search?q=PACHETA) | N/A |
+| 34 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 35 | [Arrasate](http://twitter.com/search?q=Arrasate) | N/A |
+| 36 | [elon](http://twitter.com/search?q=elon) | N/A |
+| 37 | [Raquel mosquera](http://twitter.com/search?q=Raquel+mosquera) | N/A |
+| 38 | [bosco](http://twitter.com/search?q=bosco) | N/A |
+| 39 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
+| 40 | [adri contreras](http://twitter.com/search?q=adri+contreras) | N/A |
+| 41 | [Hammurabi](http://twitter.com/search?q=Hammurabi) | N/A |
+| 42 | [MARGOT ROBBIE](http://twitter.com/search?q=MARGOT+ROBBIE) | N/A |
+| 43 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 44 | [partido popular europeo](http://twitter.com/search?q=partido+popular+europeo) | N/A |
+| 45 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 46 | [RYAN GOSLING](http://twitter.com/search?q=RYAN+GOSLING) | N/A |
+| 47 | [shrek 5](http://twitter.com/search?q=shrek+5) | N/A |
+| 48 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 49 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
 
 
 

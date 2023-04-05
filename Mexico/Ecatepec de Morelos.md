@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-04-05 12:18:18 UTC`
+📆 Last Updated: `2023-04-05 13:22:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 4 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 5 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 6 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 7 | [#BatallaPorMedallas](http://twitter.com/search?q=%23BatallaPorMedallas) | N/A |
-| 8 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 9 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [GOLDEN RECORD HOLDER](http://twitter.com/search?q=GOLDEN+RECORD+HOLDER) | N/A |
-| 11 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 12 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 13 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 14 | [Pedro Navajas](http://twitter.com/search?q=Pedro+Navajas) | N/A |
-| 15 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 16 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 20 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 21 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 22 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 23 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 24 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Chanoc](http://twitter.com/search?q=Chanoc) | N/A |
-| 28 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 29 | [LAS MAVELYN SE LLEVAN TODO](http://twitter.com/search?q=LAS+MAVELYN+SE+LLEVAN+TODO) | N/A |
-| 30 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 31 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 32 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
-| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 34 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
-| 35 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 36 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 37 | [Estado de México](http://twitter.com/search?q=Estado+de+M%c3%a9xico) | N/A |
-| 38 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 39 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 40 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 41 | [Mexico Infrastructure Partners](http://twitter.com/search?q=Mexico+Infrastructure+Partners) | N/A |
-| 42 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 44 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 45 | [FONADIN](http://twitter.com/search?q=FONADIN) | N/A |
-| 46 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
-| 47 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 48 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 49 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 1 | [ANDRÉS GARCÍA](http://twitter.com/search?q=ANDR%c3%89S+GARC%c3%8dA) | N/A |
+| 2 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#MásAsesinadosConAMLO](http://twitter.com/search?q=%23M%c3%a1sAsesinadosConAMLO) | N/A |
+| 5 | [#Lcdlf3](http://twitter.com/search?q=%23Lcdlf3) | N/A |
+| 6 | [LATINUS](http://twitter.com/search?q=LATINUS) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [#TheCloudxBecky](http://twitter.com/search?q=%23TheCloudxBecky) | N/A |
+| 9 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 10 | [Pedro navajas](http://twitter.com/search?q=Pedro+navajas) | N/A |
+| 11 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 14 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 15 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 16 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
+| 17 | [Chanoc](http://twitter.com/search?q=Chanoc) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 20 | [chicharito](http://twitter.com/search?q=chicharito) | N/A |
+| 21 | [philadelphia](http://twitter.com/search?q=philadelphia) | N/A |
+| 22 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 23 | [astros](http://twitter.com/search?q=astros) | N/A |
+| 24 | [acapulco](http://twitter.com/search?q=acapulco) | N/A |
+| 25 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
+| 26 | [Estral](http://twitter.com/search?q=Estral) | N/A |
+| 27 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 28 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
+| 29 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 30 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 31 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 32 | [madison](http://twitter.com/search?q=madison) | N/A |
+| 33 | [Cuauhtémoc Blanco](http://twitter.com/search?q=Cuauht%c3%a9moc+Blanco) | N/A |
+| 34 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 35 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
+| 36 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 37 | [the cure](http://twitter.com/search?q=the+cure) | N/A |
+| 38 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 39 | [delfina](http://twitter.com/search?q=delfina) | N/A |
+| 40 | [Estado de México](http://twitter.com/search?q=Estado+de+M%c3%a9xico) | N/A |
+| 41 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [BOBBY](http://twitter.com/search?q=BOBBY) | N/A |
+| 45 | [Borolas](http://twitter.com/search?q=Borolas) | N/A |
+| 46 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 47 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
+| 48 | [max steel](http://twitter.com/search?q=max+steel) | N/A |
+| 49 | [DINO](http://twitter.com/search?q=DINO) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-05 12:18:25 UTC`
+📆 Last Updated: `2023-04-05 13:22:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
+| 1 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 4 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
-| 5 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
-| 6 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
-| 7 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 8 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 9 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 10 | [Henryk Kowalczyk](http://twitter.com/search?q=Henryk+Kowalczyk) | N/A |
-| 11 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 3 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 4 | [#opozycjawygra](http://twitter.com/search?q=%23opozycjawygra) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
+| 7 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 8 | [kalisza](http://twitter.com/search?q=kalisza) | N/A |
+| 9 | [europejskiej partii ludowej](http://twitter.com/search?q=europejskiej+partii+ludowej) | N/A |
+| 10 | [holland](http://twitter.com/search?q=holland) | N/A |
+| 11 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
 | 12 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 13 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 14 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 15 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 16 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 17 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 18 | [Hańba](http://twitter.com/search?q=Ha%c5%84ba) | N/A |
-| 19 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 22 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 23 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
-| 24 | [Paweł Kukiz](http://twitter.com/search?q=Pawe%c5%82+Kukiz) | N/A |
-| 25 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 26 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 27 | [sojuszu północnoatlantyckiego](http://twitter.com/search?q=sojuszu+p%c3%b3%c5%82nocnoatlantyckiego) | N/A |
-| 28 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 29 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 30 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 31 | [Janusz Kowalski](http://twitter.com/search?q=Janusz+Kowalski) | N/A |
-| 32 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 33 | [Wielka Środa](http://twitter.com/search?q=Wielka+%c5%9aroda) | N/A |
-| 34 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 35 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 36 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
-| 37 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 38 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 39 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 42 | [Freiburgiem](http://twitter.com/search?q=Freiburgiem) | N/A |
-| 43 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
-| 44 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 45 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
-| 46 | [Pucharu Króla](http://twitter.com/search?q=Pucharu+Kr%c3%b3la) | N/A |
-| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 48 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
-| 49 | [Turyngii](http://twitter.com/search?q=Turyngii) | N/A |
-| 50 | [Słuszna](http://twitter.com/search?q=S%c5%82uszna) | N/A |
+| 13 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 14 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 15 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
+| 18 | [Ciekawe](http://twitter.com/search?q=Ciekawe) | N/A |
+| 19 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 20 | [Chyba](http://twitter.com/search?q=Chyba) | N/A |
+| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 22 | [semeniuk](http://twitter.com/search?q=semeniuk) | N/A |
+| 23 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 24 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
+| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 26 | [legia warszawa](http://twitter.com/search?q=legia+warszawa) | N/A |
+| 27 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
+| 28 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
+| 29 | [Znamy](http://twitter.com/search?q=Znamy) | N/A |
+| 30 | [Freiburgiem](http://twitter.com/search?q=Freiburgiem) | N/A |
+| 31 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
+| 32 | [Słowacji](http://twitter.com/search?q=S%c5%82owacji) | N/A |
+| 33 | [ukrainki](http://twitter.com/search?q=ukrainki) | N/A |
+| 34 | [Świąt](http://twitter.com/search?q=%c5%9awi%c4%85t) | N/A |
+| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 36 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
+| 37 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
+| 38 | [finowie](http://twitter.com/search?q=finowie) | N/A |
+| 39 | [tarczyński](http://twitter.com/search?q=tarczy%c5%84ski) | N/A |
+| 40 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
+| 41 | [Panie Jacku](http://twitter.com/search?q=Panie+Jacku) | N/A |
+| 42 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 43 | [szwajcaria](http://twitter.com/search?q=szwajcaria) | N/A |
+| 44 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
+| 45 | [zełenskiego](http://twitter.com/search?q=ze%c5%82enskiego) | N/A |
+| 46 | [elona](http://twitter.com/search?q=elona) | N/A |
+| 47 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
+| 48 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
+| 49 | [donka](http://twitter.com/search?q=donka) | N/A |
+| 50 | [monachium](http://twitter.com/search?q=monachium) | N/A |
 
 
 

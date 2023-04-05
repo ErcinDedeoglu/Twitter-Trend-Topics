@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-05 12:18:23 UTC`
+📆 Last Updated: `2023-04-05 13:22:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
-| 3 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 6 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 7 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 8 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
-| 9 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 10 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 11 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 12 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 13 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 14 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
-| 17 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 18 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 19 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 20 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 21 | [LUCCA](http://twitter.com/search?q=LUCCA) | N/A |
-| 22 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 23 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 24 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [ALAN PATRICK](http://twitter.com/search?q=ALAN+PATRICK) | N/A |
-| 27 | [MENEZES](http://twitter.com/search?q=MENEZES) | N/A |
-| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 29 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 30 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 32 | [camacho](http://twitter.com/search?q=camacho) | N/A |
-| 33 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 34 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 35 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 36 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 39 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 40 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 41 | [any gabrielly republic records](http://twitter.com/search?q=any+gabrielly+republic+records) | N/A |
-| 42 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 43 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 44 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
-| 45 | [luciano huck](http://twitter.com/search?q=luciano+huck) | N/A |
-| 46 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 47 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 48 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 49 | [pedro henrique](http://twitter.com/search?q=pedro+henrique) | N/A |
-| 50 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
+| 1 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
+| 2 | [nathan](http://twitter.com/search?q=nathan) | N/A |
+| 3 | [emicida](http://twitter.com/search?q=emicida) | N/A |
+| 4 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 5 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 6 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 7 | [alisa](http://twitter.com/search?q=alisa) | N/A |
+| 8 | [MICHAEL CERA](http://twitter.com/search?q=MICHAEL+CERA) | N/A |
+| 9 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 10 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 11 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
+| 12 | [Goiânia](http://twitter.com/search?q=Goi%c3%a2nia) | N/A |
+| 13 | [DUA LIPA](http://twitter.com/search?q=DUA+LIPA) | N/A |
+| 14 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 15 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 16 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 17 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 19 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 20 | [warner](http://twitter.com/search?q=warner) | N/A |
+| 21 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 23 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 24 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 25 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 26 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 27 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 29 | [GRETA](http://twitter.com/search?q=GRETA) | N/A |
+| 30 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 31 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 32 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
+| 33 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 34 | [LILI](http://twitter.com/search?q=LILI) | N/A |
+| 35 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 36 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 38 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 39 | [BOULOS](http://twitter.com/search?q=BOULOS) | N/A |
+| 40 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 41 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
+| 42 | [keiller](http://twitter.com/search?q=keiller) | N/A |
+| 43 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 44 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 45 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 46 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 47 | [LUCCA](http://twitter.com/search?q=LUCCA) | N/A |
+| 48 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 49 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
 
 
 

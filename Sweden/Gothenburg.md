@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-05 12:18:32 UTC`
+📆 Last Updated: `2023-04-05 13:22:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 5 | [Kåberger](http://twitter.com/search?q=K%c3%a5berger) | N/A |
-| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 7 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 1 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 2 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [vattenfalls](http://twitter.com/search?q=vattenfalls) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [kåberger](http://twitter.com/search?q=k%c3%a5berger) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 8 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 9 | [Filipstad](http://twitter.com/search?q=Filipstad) | N/A |
-| 10 | [Ann Linde](http://twitter.com/search?q=Ann+Linde) | N/A |
-| 11 | [Nazityskland](http://twitter.com/search?q=Nazityskland) | N/A |
-| 12 | [Jack Vreeswijk](http://twitter.com/search?q=Jack+Vreeswijk) | N/A |
-| 13 | [Galajda](http://twitter.com/search?q=Galajda) | N/A |
-| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 17 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
-| 18 | [klenell](http://twitter.com/search?q=klenell) | N/A |
-| 19 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
-| 20 | [Podme](http://twitter.com/search?q=Podme) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Liss](http://twitter.com/search?q=Liss) | N/A |
-| 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 24 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
-| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 26 | [Stråhle](http://twitter.com/search?q=Str%c3%a5hle) | N/A |
-| 27 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 28 | [tre kronor](http://twitter.com/search?q=tre+kronor) | N/A |
-| 29 | [kinnvall](http://twitter.com/search?q=kinnvall) | N/A |
-| 30 | [President](http://twitter.com/search?q=President) | N/A |
-| 31 | [NAFO](http://twitter.com/search?q=NAFO) | N/A |
-| 32 | [hans blix](http://twitter.com/search?q=hans+blix) | N/A |
-| 33 | [Nybro](http://twitter.com/search?q=Nybro) | N/A |
-| 34 | [Schulman](http://twitter.com/search?q=Schulman) | N/A |
-| 35 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 36 | [Öster](http://twitter.com/search?q=%c3%96ster) | N/A |
-| 37 | [Liam Öhgren](http://twitter.com/search?q=Liam+%c3%96hgren) | N/A |
-| 38 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 39 | [lendify](http://twitter.com/search?q=lendify) | N/A |
-| 40 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 41 | [Guillou](http://twitter.com/search?q=Guillou) | N/A |
-| 42 | [#EU2023SE](http://twitter.com/search?q=%23EU2023SE) | N/A |
-| 43 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 44 | [Tutto](http://twitter.com/search?q=Tutto) | N/A |
-| 45 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 46 | [Dumpen](http://twitter.com/search?q=Dumpen) | N/A |
-| 47 | [bråse](http://twitter.com/search?q=br%c3%a5se) | N/A |
-| 48 | [Paludans](http://twitter.com/search?q=Paludans) | N/A |
-| 49 | [Carl Bildt](http://twitter.com/search?q=Carl+Bildt) | N/A |
+| 9 | [galajda](http://twitter.com/search?q=galajda) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [öster](http://twitter.com/search?q=%c3%b6ster) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [DOGE](http://twitter.com/search?q=DOGE) | N/A |
+| 14 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
+| 15 | [hovet](http://twitter.com/search?q=hovet) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [podme](http://twitter.com/search?q=podme) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 20 | [jack vreeswijk](http://twitter.com/search?q=jack+vreeswijk) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [KLOPP](http://twitter.com/search?q=KLOPP) | N/A |
+| 23 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 24 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 25 | [Liss](http://twitter.com/search?q=Liss) | N/A |
+| 26 | [schulman](http://twitter.com/search?q=schulman) | N/A |
+| 27 | [tutto](http://twitter.com/search?q=tutto) | N/A |
+| 28 | [HENDERSON](http://twitter.com/search?q=HENDERSON) | N/A |
+| 29 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 30 | [turkiets](http://twitter.com/search?q=turkiets) | N/A |
+| 31 | [Bryssel](http://twitter.com/search?q=Bryssel) | N/A |
+| 32 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 33 | [billström](http://twitter.com/search?q=billstr%c3%b6m) | N/A |
+| 34 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
+| 35 | [säkerhetspolisen](http://twitter.com/search?q=s%c3%a4kerhetspolisen) | N/A |
+| 36 | [Leif](http://twitter.com/search?q=Leif) | N/A |
+| 37 | [klenell](http://twitter.com/search?q=klenell) | N/A |
+| 38 | [göran persson](http://twitter.com/search?q=g%c3%b6ran+persson) | N/A |
+| 39 | [björklöven](http://twitter.com/search?q=bj%c3%b6rkl%c3%b6ven) | N/A |
+| 40 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 41 | [hendo](http://twitter.com/search?q=hendo) | N/A |
+| 42 | [jota](http://twitter.com/search?q=jota) | N/A |
+| 43 | [kvartal](http://twitter.com/search?q=kvartal) | N/A |
+| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 45 | [flashback](http://twitter.com/search?q=flashback) | N/A |
+| 46 | [Tre Kronor](http://twitter.com/search?q=Tre+Kronor) | N/A |
+| 47 | [yasin ayari](http://twitter.com/search?q=yasin+ayari) | N/A |
+| 48 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 49 | [kinnvall](http://twitter.com/search?q=kinnvall) | N/A |
 
 
 
