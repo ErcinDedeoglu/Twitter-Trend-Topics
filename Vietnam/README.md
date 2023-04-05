@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-05 22:18:15 UTC`
+📆 Last Updated: `2023-04-05 23:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 2 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
-| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 4 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 5 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 6 | [#GETRISINGTORISER](http://twitter.com/search?q=%23GETRISINGTORISER) | N/A |
-| 7 | [#thecloudxbecky](http://twitter.com/search?q=%23thecloudxbecky) | N/A |
-| 8 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 9 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 10 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 11 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 13 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
-| 14 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 15 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 16 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 17 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 18 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
-| 19 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
-| 20 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 21 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 22 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 23 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
-| 24 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 26 | [nhật](http://twitter.com/search?q=nh%e1%ba%adt) | N/A |
-| 27 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
-| 28 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
-| 29 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 30 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 31 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 32 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
-| 33 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 34 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 35 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 36 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 37 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 38 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 42 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
-| 43 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
-| 44 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [hyuk](http://twitter.com/search?q=hyuk) | N/A |
-| 47 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
-| 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [#sugarskullgirl](http://twitter.com/search?q=%23sugarskullgirl) | N/A |
+| 2 | [#Beyourluve](http://twitter.com/search?q=%23Beyourluve) | N/A |
+| 3 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 4 | [#spring_sunshine_lew_day](http://twitter.com/search?q=%23spring_sunshine_lew_day) | N/A |
+| 5 | [#Hallsน้ําแข็งไสxซีนุนิว](http://twitter.com/search?q=%23Halls%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%82%e0%b9%87%e0%b8%87%e0%b9%84%e0%b8%aax%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 6 | [Sugar Skull](http://twitter.com/search?q=Sugar+Skull) | N/A |
+| 7 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 8 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 9 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 10 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 11 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 12 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 13 | [phượng](http://twitter.com/search?q=ph%c6%b0%e1%bb%a3ng) | N/A |
+| 14 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 15 | [P'Jak](http://twitter.com/search?q=P%27Jak) | N/A |
+| 16 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 17 | [2nd concept photo](http://twitter.com/search?q=2nd+concept+photo) | N/A |
+| 18 | [cháy](http://twitter.com/search?q=ch%c3%a1y) | N/A |
+| 19 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
+| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 21 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 24 | [Series B](http://twitter.com/search?q=Series+B) | N/A |
+| 25 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
+| 26 | [Zksync](http://twitter.com/search?q=Zksync) | N/A |
+| 27 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 28 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 29 | [$DOGE](http://twitter.com/search?q=%24DOGE) | N/A |
+| 30 | [Gothic Skull](http://twitter.com/search?q=Gothic+Skull) | N/A |
+| 31 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
+| 32 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 33 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 34 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 35 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
+| 36 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
+| 37 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 38 | [Candy Skull](http://twitter.com/search?q=Candy+Skull) | N/A |
+| 39 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 40 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
+| 41 | [khum](http://twitter.com/search?q=khum) | N/A |
+| 42 | [Buồn](http://twitter.com/search?q=Bu%e1%bb%93n) | N/A |
+| 43 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
+| 44 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
+| 45 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 46 | [biu biu](http://twitter.com/search?q=biu+biu) | N/A |
+| 47 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 48 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 49 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 50 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 
 
 
