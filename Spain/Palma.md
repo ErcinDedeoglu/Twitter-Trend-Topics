@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-05 10:17:11 UTC`
+📆 Last Updated: `2023-04-05 11:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -59,11 +59,6 @@ This is top 50 for [Spain](</Spain>)
 | 42 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
 | 43 | [Lecturas](http://twitter.com/search?q=Lecturas) | N/A |
 | 44 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 45 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
-| 46 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 49 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
 
 
 

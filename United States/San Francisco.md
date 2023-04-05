@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-05 10:17:37 UTC`
+📆 Last Updated: `2023-04-05 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,43 +18,40 @@ This is top 50 for [United States](</United States>)
 | 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 2 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
 | 3 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 4 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 5 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 6 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 7 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 4 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 5 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 6 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 7 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 8 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 9 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 | 10 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 11 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 12 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 15 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 16 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 17 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 19 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 20 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 21 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 22 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 23 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 24 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 25 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 26 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 28 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 29 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 30 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 31 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 32 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 36 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 37 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 38 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 39 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 40 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 13 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 15 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 16 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 19 | [DAWSON MERCER](http://twitter.com/search?q=DAWSON+MERCER) | N/A |
+| 20 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 21 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 22 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 23 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 24 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 25 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 26 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 27 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 28 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 29 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
+| 30 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 31 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 32 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 33 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 34 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 35 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 36 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 37 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
 
 
 

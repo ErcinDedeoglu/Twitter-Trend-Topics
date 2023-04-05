@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-05 10:17:21 UTC`
+📆 Last Updated: `2023-04-05 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AgustD_SUGA_Tour_in_bangkok](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_bangkok) | N/A |
-| 2 | [#Hallsน้ําแข็งไสxซีนุนิว](http://twitter.com/search?q=%23Halls%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%82%e0%b9%87%e0%b8%87%e0%b9%84%e0%b8%aax%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 3 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 1 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 2 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
+| 3 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
 | 4 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 5 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
-| 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 7 | [Patrick Back To School](http://twitter.com/search?q=Patrick+Back+To+School) | N/A |
-| 8 | [BAMBAM WITH DJ KOYOUNGBAE](http://twitter.com/search?q=BAMBAM+WITH+DJ+KOYOUNGBAE) | N/A |
-| 9 | [TAWAN ARB DAO RE5](http://twitter.com/search?q=TAWAN+ARB+DAO+RE5) | N/A |
-| 10 | [STAY WITH CHOMPU 05](http://twitter.com/search?q=STAY+WITH+CHOMPU+05) | N/A |
+| 5 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 6 | [5 Morning Dunk](http://twitter.com/search?q=5+Morning+Dunk) | N/A |
+| 7 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
+| 8 | [MORNING 05 NNINE](http://twitter.com/search?q=MORNING+05+NNINE) | N/A |
+| 9 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 10 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
 | 11 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 12 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 13 | [vlog cutie trip](http://twitter.com/search?q=vlog+cutie+trip) | N/A |
-| 14 | [morning 05 nnine](http://twitter.com/search?q=morning+05+nnine) | N/A |
-| 15 | [5 morning dunk](http://twitter.com/search?q=5+morning+dunk) | N/A |
-| 16 | [nene x the standard pop](http://twitter.com/search?q=nene+x+the+standard+pop) | N/A |
-| 17 | [PECK SU SU](http://twitter.com/search?q=PECK+SU+SU) | N/A |
-| 18 | [Janken](http://twitter.com/search?q=Janken) | N/A |
-| 19 | [HOLD YOUR HAND05 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND05+ENGFA) | N/A |
-| 20 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 21 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
-| 22 | [#OurSkyyxStarInMyMind](http://twitter.com/search?q=%23OurSkyyxStarInMyMind) | N/A |
-| 23 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 24 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 25 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
-| 26 | [#MTBB](http://twitter.com/search?q=%23MTBB) | N/A |
-| 27 | [#KrungsrixCutieTrip](http://twitter.com/search?q=%23KrungsrixCutieTrip) | N/A |
-| 28 | [#MarkBam](http://twitter.com/search?q=%23MarkBam) | N/A |
-| 29 | [#CarlynbagxPeat](http://twitter.com/search?q=%23CarlynbagxPeat) | N/A |
-| 30 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 31 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 32 | [#palitxshuuemurath](http://twitter.com/search?q=%23palitxshuuemurath) | N/A |
-| 33 | [#GETRISINGTORISER](http://twitter.com/search?q=%23GETRISINGTORISER) | N/A |
-| 34 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
-| 35 | [#หมูยอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | N/A |
-| 36 | [#ENGFA_Anv1year](http://twitter.com/search?q=%23ENGFA_Anv1year) | N/A |
-| 37 | [#ยินดีที่ได้รู้จักนะชาล็อต](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 38 | [#Lazada44xCharlotte](http://twitter.com/search?q=%23Lazada44xCharlotte) | N/A |
-| 39 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 40 | [#Welcome_CHAEUNWOOtoThailand](http://twitter.com/search?q=%23Welcome_CHAEUNWOOtoThailand) | N/A |
-| 41 | [#Lazada44xGunsshine](http://twitter.com/search?q=%23Lazada44xGunsshine) | N/A |
-| 42 | [#ส่งโอห์มไงไปตะลุยเจแปน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b9%82%e0%b8%ad%e0%b8%ab%e0%b9%8c%e0%b8%a1%e0%b9%84%e0%b8%87%e0%b9%84%e0%b8%9b%e0%b8%95%e0%b8%b0%e0%b8%a5%e0%b8%b8%e0%b8%a2%e0%b9%80%e0%b8%88%e0%b9%81%e0%b8%9b%e0%b8%99) | N/A |
-| 43 | [#เลือกตั้ง66](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%8766) | N/A |
-| 44 | [#JINYOUNG](http://twitter.com/search?q=%23JINYOUNG) | N/A |
+| 12 | [vlog cutie trip](http://twitter.com/search?q=vlog+cutie+trip) | N/A |
+| 13 | [5APR JOONG MORNING](http://twitter.com/search?q=5APR+JOONG+MORNING) | N/A |
+| 14 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 15 | [PECK SU SU](http://twitter.com/search?q=PECK+SU+SU) | N/A |
+| 16 | [hold your hand04 engfa](http://twitter.com/search?q=hold+your+hand04+engfa) | N/A |
+| 17 | [bambam in cultwo show](http://twitter.com/search?q=bambam+in+cultwo+show) | N/A |
+| 18 | [Nene x The Standard Pop](http://twitter.com/search?q=Nene+x+The+Standard+Pop) | N/A |
+| 19 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 21 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 22 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
+| 23 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 24 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [Sour & Sweet by BamBam](http://twitter.com/search?q=Sour+%26+Sweet+by+BamBam) | N/A |
+| 28 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 29 | [T-POP](http://twitter.com/search?q=T-POP) | N/A |
+| 30 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 31 | [#KrungsrixCutieTrip](http://twitter.com/search?q=%23KrungsrixCutieTrip) | N/A |
+| 32 | [#OurSkyyxStarInMyMind](http://twitter.com/search?q=%23OurSkyyxStarInMyMind) | N/A |
+| 33 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
+| 34 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
+| 35 | [#INTO1Patrick](http://twitter.com/search?q=%23INTO1Patrick) | N/A |
+| 36 | [#ยินดีที่ได้รู้จักนะชาล็อต](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 37 | [#ENGFA_Anv1year](http://twitter.com/search?q=%23ENGFA_Anv1year) | N/A |
+| 38 | [#palitxshuuemurath](http://twitter.com/search?q=%23palitxshuuemurath) | N/A |
+| 39 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
+| 40 | [#Lazada44xCharlotte](http://twitter.com/search?q=%23Lazada44xCharlotte) | N/A |
+| 41 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
+| 42 | [#หมูยอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | N/A |
+| 43 | [#supranationalthailand2023](http://twitter.com/search?q=%23supranationalthailand2023) | N/A |
+| 44 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
 | 45 | [#The1975LiveInBKK](http://twitter.com/search?q=%23The1975LiveInBKK) | N/A |
-| 46 | [#BamBamInHopeSongOfNoon](http://twitter.com/search?q=%23BamBamInHopeSongOfNoon) | N/A |
+| 46 | [#Welcome_CHAEUNWOOtoThailand](http://twitter.com/search?q=%23Welcome_CHAEUNWOOtoThailand) | N/A |
 | 47 | [#ShowerWithPPKrit](http://twitter.com/search?q=%23ShowerWithPPKrit) | N/A |
-| 48 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
-| 49 | [#SupranationalThailand2023](http://twitter.com/search?q=%23SupranationalThailand2023) | N/A |
-| 50 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
+| 48 | [#AgustD_SUGA_Tour_in_bangkok](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_bangkok) | N/A |
+| 49 | [#เลือกตั้ง66](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%8766) | N/A |
+| 50 | [#รักร้ายEP6](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP6) | N/A |
 
 
 

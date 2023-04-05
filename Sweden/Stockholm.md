@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-05 10:17:12 UTC`
+📆 Last Updated: `2023-04-05 11:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 3 | [vattenfall](http://twitter.com/search?q=vattenfall) | N/A |
 | 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 5 | [Kåberger](http://twitter.com/search?q=K%c3%a5berger) | N/A |
 | 6 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
@@ -28,15 +28,15 @@ This is top 50 for [Sweden](</Sweden>)
 | 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 12 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 13 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
-| 14 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
+| 14 | [hovet](http://twitter.com/search?q=hovet) | N/A |
 | 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Podme](http://twitter.com/search?q=Podme) | N/A |
+| 16 | [podme](http://twitter.com/search?q=podme) | N/A |
 | 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 18 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 20 | [jack vreeswijk](http://twitter.com/search?q=jack+vreeswijk) | N/A |
 | 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Schulman](http://twitter.com/search?q=Schulman) | N/A |
+| 22 | [schulman](http://twitter.com/search?q=schulman) | N/A |
 | 23 | [tutto](http://twitter.com/search?q=tutto) | N/A |
 | 24 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 25 | [dumpen](http://twitter.com/search?q=dumpen) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Sweden](</Sweden>)
 | 39 | [Flashback](http://twitter.com/search?q=Flashback) | N/A |
 | 40 | [tre kronor](http://twitter.com/search?q=tre+kronor) | N/A |
 | 41 | [sd-krav](http://twitter.com/search?q=sd-krav) | N/A |
-| 42 | [Yasin Ayari](http://twitter.com/search?q=Yasin+Ayari) | N/A |
-| 43 | [kinnvall](http://twitter.com/search?q=kinnvall) | N/A |
-| 44 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
-| 45 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 46 | [lendify](http://twitter.com/search?q=lendify) | N/A |
-| 47 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 49 | [liam öhgren](http://twitter.com/search?q=liam+%c3%b6hgren) | N/A |
-| 50 | [hans blix](http://twitter.com/search?q=hans+blix) | N/A |
+| 42 | [yasin ayari](http://twitter.com/search?q=yasin+ayari) | N/A |
+| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 44 | [kinnvall](http://twitter.com/search?q=kinnvall) | N/A |
+| 45 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
+| 46 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 47 | [lendify](http://twitter.com/search?q=lendify) | N/A |
+| 48 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 49 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 50 | [liam öhgren](http://twitter.com/search?q=liam+%c3%b6hgren) | N/A |
 
 
 

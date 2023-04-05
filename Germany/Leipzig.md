@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-05 10:17:09 UTC`
+📆 Last Updated: `2023-04-05 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 11 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
 | 12 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 13 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 14 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 15 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 16 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 17 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 20 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 21 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
-| 22 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 23 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 13 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 14 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 15 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 16 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 19 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 20 | [denunziant](http://twitter.com/search?q=denunziant) | N/A |
+| 21 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 22 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 23 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 24 | [Titel](http://twitter.com/search?q=Titel) | N/A |
 | 25 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
-| 26 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 27 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 28 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 29 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 30 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 31 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 32 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 26 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 27 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 28 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 30 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 31 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 32 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
 | 33 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
 | 34 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
 | 35 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 36 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
-| 37 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 38 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 39 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 42 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 43 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 44 | [Lump](http://twitter.com/search?q=Lump) | N/A |
-| 45 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 46 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 47 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 48 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 36 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 37 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 40 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 41 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 42 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 43 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 44 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 45 | [Lump](http://twitter.com/search?q=Lump) | N/A |
+| 46 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 47 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 48 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
 | 49 | [Knust](http://twitter.com/search?q=Knust) | N/A |
 | 50 | [hotline](http://twitter.com/search?q=hotline) | N/A |
 

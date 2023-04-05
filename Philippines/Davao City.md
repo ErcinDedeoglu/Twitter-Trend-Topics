@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-05 10:17:20 UTC`
+📆 Last Updated: `2023-04-05 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -58,8 +58,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 41 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
 | 42 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 43 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 44 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 45 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 44 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
+| 45 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
 | 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 47 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
 | 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |

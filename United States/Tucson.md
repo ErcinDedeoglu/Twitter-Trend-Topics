@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-04-05 10:17:38 UTC`
+📆 Last Updated: `2023-04-05 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 3 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 6 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 7 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 8 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
-| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 10 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 11 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 12 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 13 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 14 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 15 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 16 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 17 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 18 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 19 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 20 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 21 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 22 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 25 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 26 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 27 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 28 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 32 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 33 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 34 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 35 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 36 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 37 | [Matz](http://twitter.com/search?q=Matz) | N/A |
-| 38 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
+| 1 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 5 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 6 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 8 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 15 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 17 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 19 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 20 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 21 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 22 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 24 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 25 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 29 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 30 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 31 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 32 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 33 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 34 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 35 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 37 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 38 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 | 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 40 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
-| 41 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 42 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 43 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 44 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 45 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
-| 46 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 47 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 48 | [Will Benson](http://twitter.com/search?q=Will+Benson) | N/A |
-| 49 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 40 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 41 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 42 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 43 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 44 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 45 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
+| 46 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 47 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 48 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 49 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 50 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
 
 
 

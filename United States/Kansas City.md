@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-04-05 10:17:34 UTC`
+📆 Last Updated: `2023-04-05 11:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [O'Neill](http://twitter.com/search?q=O%27Neill) | N/A |
-| 3 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 7 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 8 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 9 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 10 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 11 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 12 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 13 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 14 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 15 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 16 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 18 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 19 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 20 | [#BarbieMovie](http://twitter.com/search?q=%23BarbieMovie) | N/A |
-| 21 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 22 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 23 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 24 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 25 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 26 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 27 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 28 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 29 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 30 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 31 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 32 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 33 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 34 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 35 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 36 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 1 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 4 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 5 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 6 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
+| 7 | [#FBICBS](http://twitter.com/search?q=%23FBICBS) | N/A |
+| 8 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 12 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 13 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 14 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 15 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 16 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 17 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 18 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 19 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 20 | [DAWSON MERCER](http://twitter.com/search?q=DAWSON+MERCER) | N/A |
+| 21 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 22 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
+| 23 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 25 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 26 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 27 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 28 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 29 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 30 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 31 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
+| 32 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 35 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 36 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 37 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 40 | [Jorge Mateo](http://twitter.com/search?q=Jorge+Mateo) | N/A |
+| 41 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 42 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 43 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 44 | [Matz](http://twitter.com/search?q=Matz) | N/A |
+| 45 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 46 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 47 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
+| 48 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-05 10:16:55 UTC`
+📆 Last Updated: `2023-04-05 11:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,38 +29,38 @@ This is top 50 for [Canada](</Canada>)
 | 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 13 | [#NationalCaregiverDay](http://twitter.com/search?q=%23NationalCaregiverDay) | N/A |
 | 14 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
-| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 16 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 15 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 16 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 17 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
 | 18 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 19 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 23 | [Keean](http://twitter.com/search?q=Keean) | N/A |
-| 24 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
-| 25 | [Davie](http://twitter.com/search?q=Davie) | N/A |
-| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 27 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 28 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 19 | [#hcldr](http://twitter.com/search?q=%23hcldr) | N/A |
+| 20 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
+| 21 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 24 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 25 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 26 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
+| 27 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 28 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
 | 29 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 30 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 31 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 33 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
-| 34 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
-| 35 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
-| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 38 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
-| 39 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 42 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 43 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 46 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 30 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 31 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 32 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 33 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 35 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
+| 36 | [Jeremy Hansen](http://twitter.com/search?q=Jeremy+Hansen) | N/A |
+| 37 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 38 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 39 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 41 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 42 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 43 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 44 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 45 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
+| 46 | [4.5% of Canadians](http://twitter.com/search?q=4.5%25+of+Canadians) | N/A |
 | 47 | [Jake Sanderson](http://twitter.com/search?q=Jake+Sanderson) | N/A |
 | 48 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 49 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |

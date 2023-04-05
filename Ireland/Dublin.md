@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-05 10:17:06 UTC`
+📆 Last Updated: `2023-04-05 11:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 3 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 4 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 6 | [#EVETOT](http://twitter.com/search?q=%23EVETOT) | N/A |
 | 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 8 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
@@ -28,7 +28,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Jota](http://twitter.com/search?q=Jota) | N/A |
 | 12 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 13 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 14 | [Fionnan Sheahan](http://twitter.com/search?q=Fionnan+Sheahan) | N/A |
+| 14 | [fionnan sheahan](http://twitter.com/search?q=fionnan+sheahan) | N/A |
 | 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 16 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
 | 17 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
@@ -38,9 +38,9 @@ This is top 50 for [Ireland](</Ireland>)
 | 21 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
 | 22 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 23 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 24 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
-| 25 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 26 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 24 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
+| 25 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 26 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 29 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
@@ -61,10 +61,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 44 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 45 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 46 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 47 | [Laois](http://twitter.com/search?q=Laois) | N/A |
+| 47 | [laois](http://twitter.com/search?q=laois) | N/A |
 | 48 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
 | 49 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 50 | [The Kooks](http://twitter.com/search?q=The+Kooks) | N/A |
+| 50 | [the kooks](http://twitter.com/search?q=the+kooks) | N/A |
 
 
 

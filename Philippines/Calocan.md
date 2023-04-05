@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-04-05 10:17:19 UTC`
+📆 Last Updated: `2023-04-05 11:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Philippines](</Philippines>)
 | 14 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
 | 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 16 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
-| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 18 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
-| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 20 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 21 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 22 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 23 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 24 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 25 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
-| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 27 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 28 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
-| 29 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 30 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 31 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 32 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 33 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
-| 34 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 35 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 37 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 38 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 39 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 40 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 41 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 42 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 43 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 44 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 45 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
-| 46 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
-| 47 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 48 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 50 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 17 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 18 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 19 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
+| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 22 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 23 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 24 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 25 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 26 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 27 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 28 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 29 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
+| 30 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 31 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 32 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 33 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 34 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 35 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 36 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 37 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 38 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 39 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 40 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 41 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 42 | [Juday](http://twitter.com/search?q=Juday) | N/A |
+| 43 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 44 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 45 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 46 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
+| 47 | [jaywon layag](http://twitter.com/search?q=jaywon+layag) | N/A |
+| 48 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 49 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
+| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 
 
 

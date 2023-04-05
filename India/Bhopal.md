@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-04-05 10:17:29 UTC`
+📆 Last Updated: `2023-04-05 11:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [India](</India>)
 | 12 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
 | 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 14 | [Arunachal Pradesh](http://twitter.com/search?q=Arunachal+Pradesh) | N/A |
-| 15 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
+| 15 | [sheikh zayed stadium](http://twitter.com/search?q=sheikh+zayed+stadium) | N/A |
 | 16 | [cbi brand4truth or cagedparrot](http://twitter.com/search?q=cbi+brand4truth+or+cagedparrot) | N/A |
 | 17 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
 | 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -48,7 +48,7 @@ This is top 50 for [India](</India>)
 | 31 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
 | 32 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
 | 33 | [sant shri asharamji gurukuls](http://twitter.com/search?q=sant+shri+asharamji+gurukuls) | N/A |
-| 34 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 34 | [vijay shankar](http://twitter.com/search?q=vijay+shankar) | N/A |
 | 35 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
 | 36 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 37 | [divine blend](http://twitter.com/search?q=divine+blend) | N/A |

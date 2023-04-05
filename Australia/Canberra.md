@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-05 10:17:14 UTC`
+📆 Last Updated: `2023-04-05 11:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 4 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 7 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
-| 8 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 9 | [#MCYvMVC](http://twitter.com/search?q=%23MCYvMVC) | N/A |
-| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 11 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 12 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 13 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 14 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 15 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 18 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 19 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 20 | [CFMEU](http://twitter.com/search?q=CFMEU) | N/A |
-| 21 | [Cleo Smith](http://twitter.com/search?q=Cleo+Smith) | N/A |
-| 22 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 23 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 24 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 25 | [Terence Kelly](http://twitter.com/search?q=Terence+Kelly) | N/A |
-| 26 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 30 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 31 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 32 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 33 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 34 | [Georgie](http://twitter.com/search?q=Georgie) | N/A |
-| 35 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 36 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 37 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
-| 38 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 39 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 40 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 41 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 42 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 43 | [Birmo](http://twitter.com/search?q=Birmo) | N/A |
-| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 45 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 46 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 47 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 48 | [Chris Barrie](http://twitter.com/search?q=Chris+Barrie) | N/A |
-| 49 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 5 | [#imacelebrityau](http://twitter.com/search?q=%23imacelebrityau) | N/A |
+| 6 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 7 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 9 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 10 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 13 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 14 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 15 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 16 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 17 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 18 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 19 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 22 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 23 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 26 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 27 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 28 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 29 | [rishworth](http://twitter.com/search?q=rishworth) | N/A |
+| 30 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 32 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 35 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 36 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 38 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 39 | [Kenty](http://twitter.com/search?q=Kenty) | N/A |
+| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 41 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 44 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 45 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 46 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 47 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 48 | [dicko](http://twitter.com/search?q=dicko) | N/A |
 
 
 

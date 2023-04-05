@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-05 10:17:23 UTC`
+📆 Last Updated: `2023-04-05 11:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for [Kenya](</Kenya>)
 | 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 22 | [ruto and raila](http://twitter.com/search?q=ruto+and+raila) | N/A |
 | 23 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
-| 24 | [Kofi Annan](http://twitter.com/search?q=Kofi+Annan) | N/A |
+| 24 | [kofi annan](http://twitter.com/search?q=kofi+annan) | N/A |
 | 25 | [nhif](http://twitter.com/search?q=nhif) | N/A |
 | 26 | [mukumu girls](http://twitter.com/search?q=mukumu+girls) | N/A |
 | 27 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for [Kenya](</Kenya>)
 | 32 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 33 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
 | 34 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 35 | [Paxful](http://twitter.com/search?q=Paxful) | N/A |
-| 36 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 37 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 38 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
-| 39 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
-| 40 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
-| 41 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 42 | [amaco](http://twitter.com/search?q=amaco) | N/A |
-| 43 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 44 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 45 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 46 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 47 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 48 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 49 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 50 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 35 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 36 | [Paxful](http://twitter.com/search?q=Paxful) | N/A |
+| 37 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 38 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 39 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
+| 40 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
+| 41 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
+| 42 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 43 | [amaco](http://twitter.com/search?q=amaco) | N/A |
+| 44 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 46 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 47 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 48 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 49 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 50 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 
 
 

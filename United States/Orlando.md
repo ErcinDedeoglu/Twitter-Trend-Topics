@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-05 10:17:36 UTC`
+📆 Last Updated: `2023-04-05 11:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
-| 2 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 5 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 7 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 8 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 9 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 12 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 13 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 14 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 16 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 17 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 18 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 19 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 20 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 21 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 22 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 23 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 25 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 26 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 27 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 28 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 29 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 33 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 34 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 35 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 36 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 37 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 38 | [Matz](http://twitter.com/search?q=Matz) | N/A |
-| 39 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 40 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 41 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
-| 42 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 43 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 44 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 45 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 46 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
-| 47 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 48 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 1 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 4 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 5 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 6 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
+| 7 | [#FBICBS](http://twitter.com/search?q=%23FBICBS) | N/A |
+| 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 9 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 10 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 13 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 14 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 15 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 16 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 17 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 18 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 19 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 20 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 21 | [DAWSON MERCER](http://twitter.com/search?q=DAWSON+MERCER) | N/A |
+| 22 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 23 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
+| 24 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
+| 25 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 26 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 27 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 28 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 29 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 30 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 32 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
+| 33 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 34 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 35 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 36 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 37 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 38 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 40 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 41 | [Jorge Mateo](http://twitter.com/search?q=Jorge+Mateo) | N/A |
+| 42 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 43 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 44 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 45 | [Matz](http://twitter.com/search?q=Matz) | N/A |
+| 46 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
 
 
 

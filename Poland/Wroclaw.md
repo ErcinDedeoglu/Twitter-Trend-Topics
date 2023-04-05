@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-05 10:17:06 UTC`
+📆 Last Updated: `2023-04-05 11:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
+| 2 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
 | 3 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
 | 4 | [#opozycjawygra](http://twitter.com/search?q=%23opozycjawygra) | N/A |
 | 5 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
@@ -27,19 +27,19 @@ This is top 50 for [Poland](</Poland>)
 | 10 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 11 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
 | 12 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 13 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 13 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
 | 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 15 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
-| 16 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 16 | [legii](http://twitter.com/search?q=legii) | N/A |
 | 17 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 18 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 18 | [semeniuk](http://twitter.com/search?q=semeniuk) | N/A |
 | 19 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
 | 20 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
 | 21 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 22 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 22 | [miłego](http://twitter.com/search?q=mi%c5%82ego) | N/A |
 | 23 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
 | 24 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
-| 25 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 25 | [wołyń](http://twitter.com/search?q=wo%c5%82y%c5%84) | N/A |
 | 26 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
 | 27 | [Chin](http://twitter.com/search?q=Chin) | N/A |
 | 28 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
@@ -48,12 +48,12 @@ This is top 50 for [Poland](</Poland>)
 | 31 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
 | 32 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
 | 33 | [finowie](http://twitter.com/search?q=finowie) | N/A |
-| 34 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 35 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 34 | [tarczyński](http://twitter.com/search?q=tarczy%c5%84ski) | N/A |
+| 35 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
 | 36 | [szwajcaria](http://twitter.com/search?q=szwajcaria) | N/A |
 | 37 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
 | 38 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
-| 39 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 39 | [zełenskiego](http://twitter.com/search?q=ze%c5%82enskiego) | N/A |
 | 40 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
 | 41 | [migi](http://twitter.com/search?q=migi) | N/A |
 | 42 | [elona](http://twitter.com/search?q=elona) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Poland](</Poland>)
 | 45 | [donka](http://twitter.com/search?q=donka) | N/A |
 | 46 | [monachium](http://twitter.com/search?q=monachium) | N/A |
 | 47 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 48 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 48 | [zacznie](http://twitter.com/search?q=zacznie) | N/A |
 | 49 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 
 

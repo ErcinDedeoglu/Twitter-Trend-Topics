@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-05 10:17:21 UTC`
+📆 Last Updated: `2023-04-05 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,21 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [#rdnt](http://twitter.com/search?q=%23rdnt) | N/A |
 | 5 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
 | 6 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 7 | [peace lily for bible](http://twitter.com/search?q=peace+lily+for+bible) | N/A |
+| 7 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
 | 8 | [2ND CONCEPT PHOTO](http://twitter.com/search?q=2ND+CONCEPT+PHOTO) | N/A |
 | 9 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 10 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 11 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 12 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 13 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 10 | [accessories](http://twitter.com/search?q=accessories) | N/A |
+| 11 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 12 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 13 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 14 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
 | 15 | [hello to our hopeworld](http://twitter.com/search?q=hello+to+our+hopeworld) | N/A |
 | 16 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
 | 17 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
 | 18 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 19 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 19 | [flooring](http://twitter.com/search?q=flooring) | N/A |
 | 20 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 21 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 21 | [floral skull](http://twitter.com/search?q=floral+skull) | N/A |
 | 22 | [Tool](http://twitter.com/search?q=Tool) | N/A |
 | 23 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
@@ -55,14 +55,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 41 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 41 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
 | 42 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
 | 43 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
 | 44 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
 | 45 | [America](http://twitter.com/search?q=America) | N/A |
 | 46 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
 | 47 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
-| 48 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 48 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
 
 
 
