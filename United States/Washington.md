@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-04-05 03:17:09 UTC`
+📆 Last Updated: `2023-04-05 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 2 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 5 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 6 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 7 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 8 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 9 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 10 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 11 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 13 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 14 | [#ChicagoMayoralElection](http://twitter.com/search?q=%23ChicagoMayoralElection) | N/A |
-| 15 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 18 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 19 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 20 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 21 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 22 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 23 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 24 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 25 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 26 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 27 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 28 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 29 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 30 | [Scola](http://twitter.com/search?q=Scola) | N/A |
-| 31 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 32 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 33 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 34 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 35 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 36 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 37 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 38 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 39 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 40 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 41 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 42 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 43 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 44 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 45 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 46 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 47 | [BACK TO BACK TO BACK](http://twitter.com/search?q=BACK+TO+BACK+TO+BACK) | N/A |
-| 48 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
-| 49 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 50 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 4 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 7 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 8 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 9 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 10 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 13 | [#ChicagoMayoralElection](http://twitter.com/search?q=%23ChicagoMayoralElection) | N/A |
+| 14 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 15 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 16 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 17 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 19 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 20 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 21 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
+| 22 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
+| 23 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 24 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 25 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
+| 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 27 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 28 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 31 | [Ji Hwan](http://twitter.com/search?q=Ji+Hwan) | N/A |
+| 32 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 33 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 34 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 35 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
+| 36 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 37 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 38 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 39 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 40 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 41 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 42 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 43 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 44 | [Wasserman](http://twitter.com/search?q=Wasserman) | N/A |
+| 45 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 46 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 47 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 48 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 49 | [Josh Lowe](http://twitter.com/search?q=Josh+Lowe) | N/A |
+| 50 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
 
 
 

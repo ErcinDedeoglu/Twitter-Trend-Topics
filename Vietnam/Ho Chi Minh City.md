@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-05 03:16:49 UTC`
+📆 Last Updated: `2023-04-05 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
 | 7 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
 | 8 | [2nd concept photo](http://twitter.com/search?q=2nd+concept+photo) | N/A |
-| 9 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 10 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 9 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 10 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
 | 11 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 12 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
 | 13 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 18 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
 | 19 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 20 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 21 | [jimin history maker](http://twitter.com/search?q=jimin+history+maker) | N/A |
+| 21 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 22 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 23 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
 | 24 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
@@ -62,7 +62,6 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 45 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
 | 46 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 47 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 48 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-05 03:17:11 UTC`
+📆 Last Updated: `2023-04-05 04:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,32 +29,32 @@ This is top 50 for Dominican Republic
 | 12 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
 | 13 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
 | 14 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 15 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
+| 15 | [LAURA ACOSTA](http://twitter.com/search?q=LAURA+ACOSTA) | N/A |
 | 16 | [Yeni](http://twitter.com/search?q=Yeni) | N/A |
 | 17 | [Pagan](http://twitter.com/search?q=Pagan) | N/A |
-| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 19 | [fumio kishida](http://twitter.com/search?q=fumio+kishida) | N/A |
-| 20 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 18 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 19 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 20 | [fumio kishida](http://twitter.com/search?q=fumio+kishida) | N/A |
 | 21 | [Mami Jordan](http://twitter.com/search?q=Mami+Jordan) | N/A |
 | 22 | [#NoticiasSIN](http://twitter.com/search?q=%23NoticiasSIN) | N/A |
 | 23 | [ARRESTO DOMICILIARIO](http://twitter.com/search?q=ARRESTO+DOMICILIARIO) | N/A |
 | 24 | [EE.UU](http://twitter.com/search?q=EE.UU) | N/A |
-| 25 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
-| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 27 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 28 | [Titulación](http://twitter.com/search?q=Titulaci%c3%b3n) | N/A |
-| 29 | [#RepúblicaDominicana](http://twitter.com/search?q=%23Rep%c3%bablicaDominicana) | N/A |
-| 30 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 31 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 32 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 33 | [America](http://twitter.com/search?q=America) | N/A |
-| 34 | [Debió](http://twitter.com/search?q=Debi%c3%b3) | N/A |
-| 35 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 26 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 27 | [Titulación](http://twitter.com/search?q=Titulaci%c3%b3n) | N/A |
+| 28 | [#RepúblicaDominicana](http://twitter.com/search?q=%23Rep%c3%bablicaDominicana) | N/A |
+| 29 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 30 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 31 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 32 | [America](http://twitter.com/search?q=America) | N/A |
+| 33 | [Debió](http://twitter.com/search?q=Debi%c3%b3) | N/A |
+| 34 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 35 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 36 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
 | 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 38 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
 | 39 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 40 | [Gonzi](http://twitter.com/search?q=Gonzi) | N/A |
+| 40 | [gonzi](http://twitter.com/search?q=gonzi) | N/A |
 | 41 | [El Ministerio Público](http://twitter.com/search?q=El+Ministerio+P%c3%bablico) | N/A |
 | 42 | [Anuel AA](http://twitter.com/search?q=Anuel+AA) | N/A |
 | 43 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |

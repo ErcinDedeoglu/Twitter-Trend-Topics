@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-04-05 03:17:02 UTC`
+📆 Last Updated: `2023-04-05 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 2 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 3 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 4 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 5 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 8 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 9 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 10 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 11 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 12 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 14 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 15 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 16 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 17 | [#ChicagoMayoralElection](http://twitter.com/search?q=%23ChicagoMayoralElection) | N/A |
-| 18 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 21 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 22 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 24 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 25 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 26 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 27 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 28 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 29 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 30 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 31 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 32 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 33 | [Scola](http://twitter.com/search?q=Scola) | N/A |
-| 34 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 35 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 36 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 38 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 39 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 40 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 41 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 42 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 43 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 44 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 45 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 46 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 47 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 48 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 49 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 50 | [BACK TO BACK TO BACK](http://twitter.com/search?q=BACK+TO+BACK+TO+BACK) | N/A |
+| 1 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 2 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 7 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 12 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 14 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 15 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 17 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 19 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 21 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 22 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
+| 23 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 24 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 25 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 26 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 27 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 28 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 32 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 34 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 37 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 38 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 39 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 40 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 41 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 42 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 43 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 44 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 45 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 46 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 47 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 48 | [Joe Tacopina](http://twitter.com/search?q=Joe+Tacopina) | N/A |
+| 49 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 50 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 
 
 

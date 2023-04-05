@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-05 03:17:08 UTC`
+📆 Last Updated: `2023-04-05 04:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 2 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 3 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
-| 4 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 5 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 6 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 7 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 8 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 10 | [#Trump2024](http://twitter.com/search?q=%23Trump2024) | N/A |
-| 11 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 12 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 14 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 15 | [#TrumpForPrison2024](http://twitter.com/search?q=%23TrumpForPrison2024) | N/A |
-| 16 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 17 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 18 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 19 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 24 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 25 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 26 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 27 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 28 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 29 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 30 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 31 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 32 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 33 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 34 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 35 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 37 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 38 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 39 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 40 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 41 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 42 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 43 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 44 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 45 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 46 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 47 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 48 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 49 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 50 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 4 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 6 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 7 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 8 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
+| 9 | [Trump 2024](http://twitter.com/search?q=Trump+2024) | N/A |
+| 10 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 11 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 12 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 14 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 16 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 17 | [#TrumpForPrison2024](http://twitter.com/search?q=%23TrumpForPrison2024) | N/A |
+| 18 | [LOCK HIM UP](http://twitter.com/search?q=LOCK+HIM+UP) | N/A |
+| 19 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 20 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 21 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 22 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 23 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 24 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 25 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 27 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 28 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 29 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 30 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 31 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 32 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 33 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 34 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 35 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 36 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 37 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 38 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 39 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
+| 40 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
+| 41 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 42 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 43 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
+| 44 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 45 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 46 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 48 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 49 | [Ji Hwan](http://twitter.com/search?q=Ji+Hwan) | N/A |
+| 50 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
 
 
 

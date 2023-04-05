@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-04-05 03:17:16 UTC`
+📆 Last Updated: `2023-04-05 04:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CeraVeBlemishxNunew](http://twitter.com/search?q=%23CeraVeBlemishxNunew) | N/A |
-| 2 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 3 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
+| 1 | [#ceraveblemishxnunew](http://twitter.com/search?q=%23ceraveblemishxnunew) | N/A |
+| 2 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
+| 3 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
 | 4 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
 | 5 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 6 | [patrick back to school](http://twitter.com/search?q=patrick+back+to+school) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Thailand
 | 16 | [nene x the standard pop](http://twitter.com/search?q=nene+x+the+standard+pop) | N/A |
 | 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 18 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 19 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [ID star676](http://twitter.com/search?q=ID+star676) | N/A |
-| 23 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 24 | [#KrungsrixCutieTrip](http://twitter.com/search?q=%23KrungsrixCutieTrip) | N/A |
-| 25 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
-| 26 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
-| 27 | [#lazada44xcharlotte](http://twitter.com/search?q=%23lazada44xcharlotte) | N/A |
-| 28 | [#ENGFA_Anv1year](http://twitter.com/search?q=%23ENGFA_Anv1year) | N/A |
-| 29 | [#palitxshuuemurath](http://twitter.com/search?q=%23palitxshuuemurath) | N/A |
-| 30 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
-| 31 | [#ยินดีที่ได้รู้จักนะชาล็อต](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 32 | [#หมูยอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | N/A |
-| 33 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
-| 34 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
-| 35 | [#The1975LiveInBKK](http://twitter.com/search?q=%23The1975LiveInBKK) | N/A |
-| 36 | [#SupranationalThailand2023](http://twitter.com/search?q=%23SupranationalThailand2023) | N/A |
-| 37 | [#showerwithppkrit](http://twitter.com/search?q=%23showerwithppkrit) | N/A |
-| 38 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
-| 39 | [#AgustD_SUGA_Tour_in_bangkok](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_bangkok) | N/A |
-| 40 | [#เลือกตั้ง66](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%8766) | N/A |
-| 41 | [#รักร้ายep6](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2ep6) | N/A |
-| 42 | [#ไอจีล่ม](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
-| 43 | [#พรรคก้าวไกล](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%81%e0%b8%a5) | N/A |
-| 44 | [#kristcallmemv](http://twitter.com/search?q=%23kristcallmemv) | N/A |
-| 45 | [#หมอหลวงep5](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep5) | N/A |
-| 46 | [#sudsapdaxnctdream](http://twitter.com/search?q=%23sudsapdaxnctdream) | N/A |
-| 47 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 48 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
-| 49 | [#3ล้าน3รักให้มายภาคภูมิ](http://twitter.com/search?q=%233%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%993%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4) | N/A |
-| 50 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [ID star676](http://twitter.com/search?q=ID+star676) | N/A |
+| 22 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 23 | [#KrungsrixCutieTrip](http://twitter.com/search?q=%23KrungsrixCutieTrip) | N/A |
+| 24 | [#MidnightMuseumFinalEP](http://twitter.com/search?q=%23MidnightMuseumFinalEP) | N/A |
+| 25 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
+| 26 | [#lazada44xcharlotte](http://twitter.com/search?q=%23lazada44xcharlotte) | N/A |
+| 27 | [#ENGFA_Anv1year](http://twitter.com/search?q=%23ENGFA_Anv1year) | N/A |
+| 28 | [#palitxshuuemurath](http://twitter.com/search?q=%23palitxshuuemurath) | N/A |
+| 29 | [#รองพื้นหายใจได้](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
+| 30 | [#ยินดีที่ได้รู้จักนะชาล็อต](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 31 | [#หมูยอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | N/A |
+| 32 | [#DOJAEJUNG_Untitled](http://twitter.com/search?q=%23DOJAEJUNG_Untitled) | N/A |
+| 33 | [#พี่แพทริคนักเรียนมอปลาย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a1%e0%b8%ad%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
+| 34 | [#The1975LiveInBKK](http://twitter.com/search?q=%23The1975LiveInBKK) | N/A |
+| 35 | [#SupranationalThailand2023](http://twitter.com/search?q=%23SupranationalThailand2023) | N/A |
+| 36 | [#showerwithppkrit](http://twitter.com/search?q=%23showerwithppkrit) | N/A |
+| 37 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 38 | [#AgustD_SUGA_Tour_in_bangkok](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_bangkok) | N/A |
+| 39 | [#เลือกตั้ง66](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%8766) | N/A |
+| 40 | [#รักร้ายep6](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2ep6) | N/A |
+| 41 | [#ไอจีล่ม](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 42 | [#พรรคก้าวไกล](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%81%e0%b8%a5) | N/A |
+| 43 | [#kristcallmemv](http://twitter.com/search?q=%23kristcallmemv) | N/A |
+| 44 | [#หมอหลวงep5](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep5) | N/A |
+| 45 | [#sudsapdaxnctdream](http://twitter.com/search?q=%23sudsapdaxnctdream) | N/A |
+| 46 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 47 | [#HBDMaknaeLove](http://twitter.com/search?q=%23HBDMaknaeLove) | N/A |
+| 48 | [#3ล้าน3รักให้มายภาคภูมิ](http://twitter.com/search?q=%233%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%993%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4) | N/A |
+| 49 | [#แฮปปี้เดย์เลิฟ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
+| 50 | [#UVDefenderXGeminiFourth](http://twitter.com/search?q=%23UVDefenderXGeminiFourth) | N/A |
 
 
 

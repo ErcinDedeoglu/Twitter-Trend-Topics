@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-05 03:16:37 UTC`
+📆 Last Updated: `2023-04-05 04:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,46 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 6 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 8 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
-| 9 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 11 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 8 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 9 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
+| 10 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 11 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
 | 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 13 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 13 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
 | 14 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
 | 15 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 16 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 17 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 16 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 17 | [Foul](http://twitter.com/search?q=Foul) | N/A |
 | 18 | [Skiurlaub](http://twitter.com/search?q=Skiurlaub) | N/A |
 | 19 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 20 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 21 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 22 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 23 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 25 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Verlängerung](http://twitter.com/search?q=Verl%c3%a4ngerung) | N/A |
-| 29 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 30 | [Schlüsse](http://twitter.com/search?q=Schl%c3%bcsse) | N/A |
-| 31 | [Uniform](http://twitter.com/search?q=Uniform) | N/A |
-| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 33 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 20 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 21 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 22 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 23 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 24 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 27 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 30 | [Verlängerung](http://twitter.com/search?q=Verl%c3%a4ngerung) | N/A |
+| 31 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 32 | [Schlüsse](http://twitter.com/search?q=Schl%c3%bcsse) | N/A |
+| 33 | [Uniform](http://twitter.com/search?q=Uniform) | N/A |
 | 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 35 | [Vorwürfe](http://twitter.com/search?q=Vorw%c3%bcrfe) | N/A |
-| 36 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 37 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 38 | [#HomeforWhovians](http://twitter.com/search?q=%23HomeforWhovians) | N/A |
-| 39 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
-| 40 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
-| 41 | [#ingvsman](http://twitter.com/search?q=%23ingvsman) | N/A |
-| 42 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
-| 43 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
-| 44 | [#Ballweg](http://twitter.com/search?q=%23Ballweg) | N/A |
-| 45 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 46 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 47 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
-| 48 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
+| 35 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 36 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 37 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 38 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 39 | [#HomeforWhovians](http://twitter.com/search?q=%23HomeforWhovians) | N/A |
+| 40 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 41 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
+| 42 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
+| 43 | [#Ballweg](http://twitter.com/search?q=%23Ballweg) | N/A |
+| 44 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 45 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
+| 46 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
+| 47 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
 
 
 

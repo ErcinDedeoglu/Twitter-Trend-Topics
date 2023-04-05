@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-05 03:17:03 UTC`
+📆 Last Updated: `2023-04-05 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 2 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 3 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 4 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 5 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 6 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 7 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 8 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 9 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 10 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 11 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 12 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 13 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 16 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 17 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 18 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 19 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 20 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 21 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 22 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 23 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 24 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 25 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 28 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 29 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 30 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 31 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 32 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 33 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 34 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 35 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 36 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 37 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 38 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 39 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 40 | [Scola](http://twitter.com/search?q=Scola) | N/A |
-| 41 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 42 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 43 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 44 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 45 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 46 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 47 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 48 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 49 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 50 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 1 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 2 | [#NationalSchoolLibrarianDay](http://twitter.com/search?q=%23NationalSchoolLibrarianDay) | N/A |
+| 3 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 4 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 8 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 9 | [Democratic Party](http://twitter.com/search?q=Democratic+Party) | N/A |
+| 10 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 16 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 17 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 22 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 25 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 26 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 27 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 29 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 31 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 32 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 33 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 34 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 35 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 36 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 37 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 38 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 39 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 40 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 42 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 44 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 45 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 46 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 47 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 48 | [Republic](http://twitter.com/search?q=Republic) | N/A |
 
 
 

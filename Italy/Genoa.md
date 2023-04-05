@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-05 03:16:37 UTC`
+📆 Last Updated: `2023-04-05 04:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
 | 4 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 5 | [#CoppaItalia](http://twitter.com/search?q=%23CoppaItalia) | N/A |
-| 6 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 7 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 8 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
-| 9 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 10 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 6 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 7 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
+| 8 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 9 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 10 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
 | 11 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
 | 12 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 13 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 14 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 13 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 14 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
 | 15 | [Perin](http://twitter.com/search?q=Perin) | N/A |
 | 16 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
 | 17 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 18 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 19 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 20 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 21 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 22 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
-| 23 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 24 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 18 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 19 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 20 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
+| 21 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 22 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 23 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 24 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 25 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 26 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 27 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 28 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 29 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 26 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 27 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 28 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
+| 29 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
 | 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 32 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 33 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 34 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
-| 35 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
-| 36 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
-| 37 | [Ravanelli](http://twitter.com/search?q=Ravanelli) | N/A |
-| 38 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 39 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 40 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 41 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 42 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 43 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 44 | [Graziani](http://twitter.com/search?q=Graziani) | N/A |
-| 45 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 46 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 47 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 48 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 49 | [Cagliari](http://twitter.com/search?q=Cagliari) | N/A |
-| 50 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 31 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 32 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 33 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 34 | [Panita](http://twitter.com/search?q=Panita) | N/A |
+| 35 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
+| 36 | [Ravanelli](http://twitter.com/search?q=Ravanelli) | N/A |
+| 37 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 38 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 39 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
+| 40 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 41 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 42 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 43 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 44 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 45 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 46 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 47 | [Marin](http://twitter.com/search?q=Marin) | N/A |
+| 48 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
+| 49 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 50 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
 
 
 

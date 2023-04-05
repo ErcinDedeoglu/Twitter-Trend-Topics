@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-05 03:17:11 UTC`
+📆 Last Updated: `2023-04-05 04:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Denmark
 | 17 | [Norden](http://twitter.com/search?q=Norden) | N/A |
 | 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 19 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 20 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 21 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 22 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 23 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 24 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 26 | [thorup](http://twitter.com/search?q=thorup) | N/A |
-| 27 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 28 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 29 | [sanjay shah](http://twitter.com/search?q=sanjay+shah) | N/A |
-| 30 | [farum](http://twitter.com/search?q=farum) | N/A |
-| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 34 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [beklager](http://twitter.com/search?q=beklager) | N/A |
-| 37 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 38 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 39 | [$SHIDO](http://twitter.com/search?q=%24SHIDO) | N/A |
-| 40 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 41 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
-| 42 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 43 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 44 | [spørgsmålet](http://twitter.com/search?q=sp%c3%b8rgsm%c3%a5let) | N/A |
-| 45 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 47 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 49 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 50 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 20 | [America](http://twitter.com/search?q=America) | N/A |
+| 21 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 22 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 23 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
+| 24 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 25 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 26 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 27 | [thorup](http://twitter.com/search?q=thorup) | N/A |
+| 28 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 29 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 30 | [sanjay shah](http://twitter.com/search?q=sanjay+shah) | N/A |
+| 31 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 34 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 35 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [beklager](http://twitter.com/search?q=beklager) | N/A |
+| 38 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 39 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 40 | [$shido](http://twitter.com/search?q=%24shido) | N/A |
+| 41 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 42 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
+| 43 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 44 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 45 | [spørgsmålet](http://twitter.com/search?q=sp%c3%b8rgsm%c3%a5let) | N/A |
+| 46 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 48 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 49 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 50 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 
 
 

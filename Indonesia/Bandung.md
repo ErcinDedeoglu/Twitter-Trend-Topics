@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-04-05 03:16:41 UTC`
+📆 Last Updated: `2023-04-05 04:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 7 | [giveaway thr 10juta](http://twitter.com/search?q=giveaway+thr+10juta) | N/A |
 | 8 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 10 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 11 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 12 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 13 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 14 | [Windah](http://twitter.com/search?q=Windah) | N/A |
-| 15 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
-| 16 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
-| 17 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 18 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 19 | [Handa](http://twitter.com/search?q=Handa) | N/A |
-| 20 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 21 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 22 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 23 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 24 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 25 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 26 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
-| 27 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 28 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 30 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 31 | [number one in my heart](http://twitter.com/search?q=number+one+in+my+heart) | N/A |
-| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 33 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 34 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
-| 35 | [lingkungan](http://twitter.com/search?q=lingkungan) | N/A |
-| 36 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 37 | [Begal](http://twitter.com/search?q=Begal) | N/A |
-| 38 | [jimin history maker](http://twitter.com/search?q=jimin+history+maker) | N/A |
-| 39 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
-| 40 | [Ada Cashback](http://twitter.com/search?q=Ada+Cashback) | N/A |
-| 41 | [PROMO SPESIAL](http://twitter.com/search?q=PROMO+SPESIAL) | N/A |
-| 42 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
-| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 44 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 45 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
-| 46 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 47 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
-| 48 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 49 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 50 | [khilafah menyatukan kita](http://twitter.com/search?q=khilafah+menyatukan+kita) | N/A |
+| 13 | [Handa](http://twitter.com/search?q=Handa) | N/A |
+| 14 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
+| 17 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
+| 18 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 19 | [Windah](http://twitter.com/search?q=Windah) | N/A |
+| 20 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 21 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 22 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 23 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 24 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 25 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 26 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 27 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 28 | [PROMO SPESIAL](http://twitter.com/search?q=PROMO+SPESIAL) | N/A |
+| 29 | [Ada Cashback](http://twitter.com/search?q=Ada+Cashback) | N/A |
+| 30 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 31 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 33 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
+| 34 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 35 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
+| 36 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 37 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 38 | [lingkungan](http://twitter.com/search?q=lingkungan) | N/A |
+| 39 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 40 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 41 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 42 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 43 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
+| 44 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 45 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
+| 46 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 47 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
+| 48 | [NMAX](http://twitter.com/search?q=NMAX) | N/A |
+| 49 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 50 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
 
 
 

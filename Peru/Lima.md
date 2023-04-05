@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-05 03:16:30 UTC`
+📆 Last Updated: `2023-04-05 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 3 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 4 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 5 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 6 | [manuel burga](http://twitter.com/search?q=manuel+burga) | N/A |
-| 7 | [Acción Popular](http://twitter.com/search?q=Acci%c3%b3n+Popular) | N/A |
-| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 9 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 10 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
-| 11 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 14 | [Job 10](http://twitter.com/search?q=Job+10) | N/A |
-| 15 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 16 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 17 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 18 | [#LoÚltimo](http://twitter.com/search?q=%23Lo%c3%9altimo) | N/A |
-| 19 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
-| 23 | [Matute](http://twitter.com/search?q=Matute) | N/A |
-| 24 | [Paddington](http://twitter.com/search?q=Paddington) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Pleno del Congreso](http://twitter.com/search?q=Pleno+del+Congreso) | N/A |
-| 27 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 28 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 29 | [jimin history maker](http://twitter.com/search?q=jimin+history+maker) | N/A |
-| 30 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 31 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 32 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 33 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 34 | [armonía 10](http://twitter.com/search?q=armon%c3%ada+10) | N/A |
-| 35 | [Rosio Torres](http://twitter.com/search?q=Rosio+Torres) | N/A |
-| 36 | [extremo celeste](http://twitter.com/search?q=extremo+celeste) | N/A |
-| 37 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 38 | [Velarde](http://twitter.com/search?q=Velarde) | N/A |
-| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 40 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
-| 41 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 42 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
-| 43 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 44 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 45 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 46 | [Los Niños](http://twitter.com/search?q=Los+Ni%c3%b1os) | N/A |
-| 47 | [vraem](http://twitter.com/search?q=vraem) | N/A |
-| 48 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 49 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 50 | [Norte](http://twitter.com/search?q=Norte) | N/A |
+| 1 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 2 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
+| 5 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 6 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 7 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 8 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 9 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 10 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 11 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 12 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 13 | [Felices 30](http://twitter.com/search?q=Felices+30) | N/A |
+| 14 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 15 | [Feliz 30](http://twitter.com/search?q=Feliz+30) | N/A |
+| 16 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
+| 17 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
+| 18 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 19 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 22 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 23 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 24 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 25 | [Burga](http://twitter.com/search?q=Burga) | N/A |
+| 26 | [#AlFondoHaySitio](http://twitter.com/search?q=%23AlFondoHaySitio) | N/A |
+| 27 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 28 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 29 | [Job 10](http://twitter.com/search?q=Job+10) | N/A |
+| 30 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 31 | [Percy Olivares](http://twitter.com/search?q=Percy+Olivares) | N/A |
+| 32 | [Charito](http://twitter.com/search?q=Charito) | N/A |
+| 33 | [pleno del congreso](http://twitter.com/search?q=pleno+del+congreso) | N/A |
+| 34 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 35 | [Fernando Pacheco](http://twitter.com/search?q=Fernando+Pacheco) | N/A |
+| 36 | [#borrachat](http://twitter.com/search?q=%23borrachat) | N/A |
+| 37 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 38 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
+| 39 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 40 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 41 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 42 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 43 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 44 | [Paddington](http://twitter.com/search?q=Paddington) | N/A |
+| 45 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 46 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
+| 47 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 48 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 49 | [Rosio Torres](http://twitter.com/search?q=Rosio+Torres) | N/A |
+| 50 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-05 03:17:10 UTC`
+📆 Last Updated: `2023-04-05 04:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,13 +22,13 @@ This is top 50 for Belarus
 | 5 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
 | 6 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
 | 7 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 8 | [Беларуси и России](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 9 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 10 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 8 | [беларуси и россии](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 9 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 10 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
 | 11 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 12 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
 | 13 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 14 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | N/A |
+| 14 | [гэта](http://twitter.com/search?q=%d0%b3%d1%8d%d1%82%d0%b0) | N/A |
 | 15 | [gm fren](http://twitter.com/search?q=gm+fren) | N/A |
 | 16 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 17 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |

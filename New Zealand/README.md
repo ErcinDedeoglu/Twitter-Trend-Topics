@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-05 03:17:14 UTC`
+📆 Last Updated: `2023-04-05 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 2 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 1 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 2 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Sean Plunket](http://twitter.com/search?q=Sean+Plunket) | N/A |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
@@ -24,8 +24,8 @@ This is top 50 for New Zealand
 | 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 8 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
 | 9 | [Christchurch Call](http://twitter.com/search?q=Christchurch+Call) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 10 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 12 | [European](http://twitter.com/search?q=European) | N/A |
 | 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 14 | [Moana](http://twitter.com/search?q=Moana) | N/A |
@@ -36,12 +36,12 @@ This is top 50 for New Zealand
 | 19 | [Max Key](http://twitter.com/search?q=Max+Key) | N/A |
 | 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 21 | [Gender](http://twitter.com/search?q=Gender) | N/A |
-| 22 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
-| 23 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
-| 24 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [kiri allan](http://twitter.com/search?q=kiri+allan) | N/A |
-| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 24 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 25 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
+| 26 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 27 | [kiri allan](http://twitter.com/search?q=kiri+allan) | N/A |
 | 28 | [NewsHub](http://twitter.com/search?q=NewsHub) | N/A |
 | 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 30 | [Platform](http://twitter.com/search?q=Platform) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for New Zealand
 | 45 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 46 | [#AdultHumanFemale](http://twitter.com/search?q=%23AdultHumanFemale) | N/A |
 | 47 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
-| 48 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 48 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
 | 49 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
-| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 50 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 
 
 

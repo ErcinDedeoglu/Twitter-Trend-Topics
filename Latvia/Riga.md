@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-05 03:16:40 UTC`
+📆 Last Updated: `2023-04-05 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,17 +25,17 @@ This is top 50 for [Latvia](</Latvia>)
 | 8 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 9 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 10 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 11 | [Inga](http://twitter.com/search?q=Inga) | N/A |
+| 11 | [inga](http://twitter.com/search?q=inga) | N/A |
 | 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 13 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 14 | [somiju](http://twitter.com/search?q=somiju) | N/A |
-| 15 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 14 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 15 | [somiju](http://twitter.com/search?q=somiju) | N/A |
 | 16 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 17 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 18 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 19 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
 | 20 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
-| 21 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 21 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 22 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 23 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 24 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |

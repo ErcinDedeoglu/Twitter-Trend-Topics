@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-04-05 03:16:57 UTC`
+📆 Last Updated: `2023-04-05 04:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 2 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
 | 3 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
 | 4 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 5 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
@@ -25,13 +25,13 @@ This is top 50 for [India](</India>)
 | 8 | [vijay shankar](http://twitter.com/search?q=vijay+shankar) | N/A |
 | 9 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
 | 10 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 11 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 11 | [axar](http://twitter.com/search?q=axar) | N/A |
 | 12 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
 | 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 15 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
 | 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [Nortje](http://twitter.com/search?q=Nortje) | N/A |
+| 17 | [nortje](http://twitter.com/search?q=nortje) | N/A |
 | 18 | [Warner](http://twitter.com/search?q=Warner) | N/A |
 | 19 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 20 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
@@ -50,16 +50,9 @@ This is top 50 for [India](</India>)
 | 33 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
 | 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 35 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
-| 36 | [1 yr to mishty mithai](http://twitter.com/search?q=1+yr+to+mishty+mithai) | N/A |
+| 36 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
 | 37 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 38 | [STSJ](http://twitter.com/search?q=STSJ) | N/A |
-| 39 | [kane williamson](http://twitter.com/search?q=kane+williamson) | N/A |
-| 40 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 41 | [LKFC](http://twitter.com/search?q=LKFC) | N/A |
-| 42 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 43 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 44 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 45 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
+| 38 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
 
 
 

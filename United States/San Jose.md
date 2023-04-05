@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-05 03:17:08 UTC`
+📆 Last Updated: `2023-04-05 04:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 2 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 3 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
-| 4 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 5 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 6 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 7 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 8 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 9 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 10 | [#Trump2024](http://twitter.com/search?q=%23Trump2024) | N/A |
-| 11 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 12 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 14 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 15 | [#TrumpForPrison2024](http://twitter.com/search?q=%23TrumpForPrison2024) | N/A |
-| 16 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 17 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 18 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 19 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 24 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 25 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 26 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 1 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
+| 2 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 3 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 4 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 5 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 8 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 9 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 11 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
+| 12 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 13 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 16 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 17 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 18 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 19 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 20 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 21 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 22 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 23 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 24 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 25 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 27 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 28 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 29 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 30 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 31 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 32 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 33 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 34 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 35 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 37 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 38 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 39 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 40 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 41 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 42 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 43 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 44 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 45 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 46 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 47 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 48 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 49 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 50 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 28 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 29 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 33 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 36 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 37 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 38 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 39 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 40 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 41 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 42 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 43 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 44 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 45 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 46 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 47 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 48 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 49 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 50 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 
 
 

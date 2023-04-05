@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-05 03:16:51 UTC`
+📆 Last Updated: `2023-04-05 04:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 1 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 3 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
-| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 6 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 7 | [Bipartisan](http://twitter.com/search?q=Bipartisan) | N/A |
 | 8 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 9 | [Nusu Mkate](http://twitter.com/search?q=Nusu+Mkate) | N/A |
 | 10 | [#MondayGlobalWord](http://twitter.com/search?q=%23MondayGlobalWord) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Kenya](</Kenya>)
 | 33 | [jeff mwathi](http://twitter.com/search?q=jeff+mwathi) | N/A |
 | 34 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
 | 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
-| 37 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 36 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 37 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
 | 38 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
 | 39 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
 | 40 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 42 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 43 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 44 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
-| 47 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 48 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 49 | [amaco](http://twitter.com/search?q=amaco) | N/A |
-| 50 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 43 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
+| 46 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 47 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 48 | [amaco](http://twitter.com/search?q=amaco) | N/A |
+| 49 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 50 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
 
 
 

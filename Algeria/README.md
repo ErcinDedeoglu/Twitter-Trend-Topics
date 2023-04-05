@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-05 03:17:09 UTC`
+📆 Last Updated: `2023-04-05 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,39 +16,39 @@ This is top 50 for Algeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
-| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 3 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [#فنلندا](http://twitter.com/search?q=%23%d9%81%d9%86%d9%84%d9%86%d8%af%d8%a7) | N/A |
-| 7 | [شهداء الجزاير](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
-| 8 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 9 | [#JiminNo1Hot100](http://twitter.com/search?q=%23JiminNo1Hot100) | N/A |
-| 10 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 11 | [إنتر](http://twitter.com/search?q=%d8%a5%d9%86%d8%aa%d8%b1) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [مراكش](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
-| 14 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 15 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 16 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
-| 17 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 18 | [المملكة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9) | N/A |
-| 19 | [المغرب العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 20 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
-| 21 | [البرتغال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84) | N/A |
+| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 3 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 4 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 5 | [#فنلندا](http://twitter.com/search?q=%23%d9%81%d9%86%d9%84%d9%86%d8%af%d8%a7) | N/A |
+| 6 | [شهداء الجزاير](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
+| 7 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
+| 8 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 9 | [إنتر](http://twitter.com/search?q=%d8%a5%d9%86%d8%aa%d8%b1) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [مراكش](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 14 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 15 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
+| 16 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 17 | [المملكة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9) | N/A |
+| 18 | [المغرب العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 19 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 20 | [البرتغال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84) | N/A |
+| 21 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
 | 22 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 23 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 24 | [الاستعمار الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 25 | [الشهداء الابرار](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d8%b1) | N/A |
-| 26 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
-| 27 | [علي الشهداء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1) | N/A |
-| 28 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
-| 29 | [سلم تسليما](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%aa%d8%b3%d9%84%d9%8a%d9%85%d8%a7) | N/A |
-| 30 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 31 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 32 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 33 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 34 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 23 | [الاستعمار الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 24 | [الشهداء الابرار](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d8%b1) | N/A |
+| 25 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
+| 26 | [علي الشهداء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1) | N/A |
+| 27 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
+| 28 | [سلم تسليما](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%aa%d8%b3%d9%84%d9%8a%d9%85%d8%a7) | N/A |
+| 29 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 30 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 31 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 32 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 33 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 35 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
 | 36 | [عيد ميلاد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 37 | [قيس سعيد](http://twitter.com/search?q=%d9%82%d9%8a%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Algeria
 | 45 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 46 | [America](http://twitter.com/search?q=America) | N/A |
 | 47 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 48 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
-| 49 | [الوطن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 50 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 49 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 50 | [الوطن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 
 
 

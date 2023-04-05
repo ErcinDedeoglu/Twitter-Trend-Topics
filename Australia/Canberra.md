@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-05 03:16:42 UTC`
+📆 Last Updated: `2023-04-05 04:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 1 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 2 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 3 | [#imacelebrityau](http://twitter.com/search?q=%23imacelebrityau) | N/A |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 7 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
-| 8 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 9 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 11 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 12 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 13 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 14 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 15 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 16 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 18 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 19 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 20 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 22 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 23 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 24 | [Chris Barrie](http://twitter.com/search?q=Chris+Barrie) | N/A |
-| 25 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 26 | [Birmo](http://twitter.com/search?q=Birmo) | N/A |
-| 27 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 28 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 29 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 32 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 33 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 34 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 35 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 38 | [Kenty](http://twitter.com/search?q=Kenty) | N/A |
-| 39 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 40 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 41 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 42 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 45 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 46 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 47 | [cobie](http://twitter.com/search?q=cobie) | N/A |
-| 48 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 49 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 10 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 11 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 13 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 20 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 21 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 22 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 25 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 26 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 27 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 31 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 32 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 35 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 36 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 37 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 38 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 39 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 40 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 41 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 42 | [logue](http://twitter.com/search?q=logue) | N/A |
+| 43 | [America](http://twitter.com/search?q=America) | N/A |
+| 44 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 45 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 46 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 47 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 48 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
 
 
 
