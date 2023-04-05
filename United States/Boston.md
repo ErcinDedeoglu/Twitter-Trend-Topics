@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-05 13:22:47 UTC`
+📆 Last Updated: `2023-04-05 14:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 2 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 6 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 8 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 9 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 15 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 17 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 19 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 20 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 21 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 22 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 23 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 24 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 25 | [#RawAfterMania](http://twitter.com/search?q=%23RawAfterMania) | N/A |
-| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 27 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 29 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 31 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 32 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 33 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 34 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 35 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 36 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 38 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 39 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 40 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 41 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 42 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 43 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 44 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 45 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 46 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 47 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 48 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 49 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 50 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 2 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#heartbridgecoin](http://twitter.com/search?q=%23heartbridgecoin) | N/A |
+| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 7 | [America](http://twitter.com/search?q=America) | N/A |
+| 8 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 9 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 10 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 12 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 13 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
+| 14 | [#BubblesRideTogether](http://twitter.com/search?q=%23BubblesRideTogether) | N/A |
+| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 19 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 21 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 22 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 25 | [caitlin clark](http://twitter.com/search?q=caitlin+clark) | N/A |
+| 26 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 27 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 28 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 29 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 30 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 31 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 32 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 33 | [angel reese](http://twitter.com/search?q=angel+reese) | N/A |
+| 34 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 36 | [jim nantz](http://twitter.com/search?q=jim+nantz) | N/A |
+| 37 | [brock](http://twitter.com/search?q=brock) | N/A |
+| 38 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 39 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 42 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 43 | [sdsu](http://twitter.com/search?q=sdsu) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 46 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 47 | [PRETTY LIGHTS](http://twitter.com/search?q=PRETTY+LIGHTS) | N/A |
+| 48 | [Michael cera](http://twitter.com/search?q=Michael+cera) | N/A |
+| 49 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 50 | [Leslie stahl](http://twitter.com/search?q=Leslie+stahl) | N/A |
 
 
 

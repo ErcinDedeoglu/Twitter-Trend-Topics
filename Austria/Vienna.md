@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 13:22:19 UTC`
+📆 Last Updated: `2023-04-05 14:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
 | 2 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
 | 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 4 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 5 | [sujets](http://twitter.com/search?q=sujets) | N/A |
-| 6 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 7 | [elon](http://twitter.com/search?q=elon) | N/A |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 6 | [sujets](http://twitter.com/search?q=sujets) | N/A |
+| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 8 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
 | 9 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 11 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 12 | [TUCHEL](http://twitter.com/search?q=TUCHEL) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 15 | [schnee](http://twitter.com/search?q=schnee) | N/A |
-| 16 | [rahmen](http://twitter.com/search?q=rahmen) | N/A |
-| 17 | [inserate](http://twitter.com/search?q=inserate) | N/A |
+| 10 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 16 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 17 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
 | 18 | [dichands](http://twitter.com/search?q=dichands) | N/A |
 | 19 | [Argument](http://twitter.com/search?q=Argument) | N/A |
 | 20 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
-| 21 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 22 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
-| 23 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
-| 24 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 25 | [agentur](http://twitter.com/search?q=agentur) | N/A |
-| 26 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 27 | [kurs](http://twitter.com/search?q=kurs) | N/A |
-| 28 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
-| 29 | [Tages](http://twitter.com/search?q=Tages) | N/A |
-| 30 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 31 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 32 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 33 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 34 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
-| 35 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
-| 36 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 37 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 38 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
-| 39 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 40 | [Kenn](http://twitter.com/search?q=Kenn) | N/A |
-| 41 | [Karten](http://twitter.com/search?q=Karten) | N/A |
-| 42 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 43 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 44 | [bürgermeister](http://twitter.com/search?q=b%c3%bcrgermeister) | N/A |
-| 45 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 46 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 47 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
-| 48 | [FIRMA](http://twitter.com/search?q=FIRMA) | N/A |
-| 49 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 50 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 21 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
+| 22 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
+| 23 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 24 | [agentur](http://twitter.com/search?q=agentur) | N/A |
+| 25 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 26 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 27 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 28 | [Tages](http://twitter.com/search?q=Tages) | N/A |
+| 29 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 30 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 31 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 32 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 33 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 34 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
+| 35 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 36 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 37 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 38 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 39 | [KENN](http://twitter.com/search?q=KENN) | N/A |
+| 40 | [Karten](http://twitter.com/search?q=Karten) | N/A |
+| 41 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 42 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 43 | [bürgermeister](http://twitter.com/search?q=b%c3%bcrgermeister) | N/A |
+| 44 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 45 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 46 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
+| 47 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 48 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 49 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 50 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
 
 
 

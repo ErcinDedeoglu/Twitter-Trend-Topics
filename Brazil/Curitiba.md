@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-05 13:22:17 UTC`
+📆 Last Updated: `2023-04-05 14:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
-| 2 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
-| 3 | [thiago heleno](http://twitter.com/search?q=thiago+heleno) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
-| 6 | [keiller](http://twitter.com/search?q=keiller) | N/A |
-| 7 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 8 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 9 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 10 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 11 | [LUCCA](http://twitter.com/search?q=LUCCA) | N/A |
-| 12 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 13 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 14 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 15 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 16 | [#TheCloudxBecky](http://twitter.com/search?q=%23TheCloudxBecky) | N/A |
-| 17 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 18 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
-| 19 | [#vainafe](http://twitter.com/search?q=%23vainafe) | N/A |
-| 20 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [SANTA CRUZ](http://twitter.com/search?q=SANTA+CRUZ) | N/A |
-| 23 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 24 | [lucas lima](http://twitter.com/search?q=lucas+lima) | N/A |
-| 25 | [ATHLETICO](http://twitter.com/search?q=ATHLETICO) | N/A |
-| 26 | [CAMACHO](http://twitter.com/search?q=CAMACHO) | N/A |
-| 27 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 28 | [ÂNGELO](http://twitter.com/search?q=%c3%82NGELO) | N/A |
-| 29 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 30 | [THE STRONGEST](http://twitter.com/search?q=THE+STRONGEST) | N/A |
-| 31 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [marcos leonardo](http://twitter.com/search?q=marcos+leonardo) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 37 | [THEO](http://twitter.com/search?q=THEO) | N/A |
-| 38 | [ivonei](http://twitter.com/search?q=ivonei) | N/A |
-| 39 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 42 | [JOHNNY](http://twitter.com/search?q=JOHNNY) | N/A |
-| 43 | [Queens of the Stone Age](http://twitter.com/search?q=Queens+of+the+Stone+Age) | N/A |
-| 44 | [Alianza lima](http://twitter.com/search?q=Alianza+lima) | N/A |
-| 45 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 46 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
-| 47 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 48 | [Turra](http://twitter.com/search?q=Turra) | N/A |
-| 49 | [LUMIAR](http://twitter.com/search?q=LUMIAR) | N/A |
+| 1 | [vitor roque](http://twitter.com/search?q=vitor+roque) | N/A |
+| 2 | [thiago heleno](http://twitter.com/search?q=thiago+heleno) | N/A |
+| 3 | [felipão](http://twitter.com/search?q=felip%c3%a3o) | N/A |
+| 4 | [canobbio](http://twitter.com/search?q=canobbio) | N/A |
+| 5 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 6 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 9 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 10 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 15 | [DUA LIPA](http://twitter.com/search?q=DUA+LIPA) | N/A |
+| 16 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 17 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 18 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 19 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
+| 20 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
+| 21 | [Michael cera](http://twitter.com/search?q=Michael+cera) | N/A |
+| 22 | [keiller](http://twitter.com/search?q=keiller) | N/A |
+| 23 | [SANTA CRUZ](http://twitter.com/search?q=SANTA+CRUZ) | N/A |
+| 24 | [MARGOT](http://twitter.com/search?q=MARGOT) | N/A |
+| 25 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 26 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 27 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 29 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 30 | [PETROLINA](http://twitter.com/search?q=PETROLINA) | N/A |
+| 31 | [RYAN GOSLING](http://twitter.com/search?q=RYAN+GOSLING) | N/A |
+| 32 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 33 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 34 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 35 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 36 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 37 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 38 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 39 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 40 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
+| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 42 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 44 | [warner](http://twitter.com/search?q=warner) | N/A |
+| 45 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
+| 46 | [moana](http://twitter.com/search?q=moana) | N/A |
+| 47 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
+| 48 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 49 | [FAZ O L](http://twitter.com/search?q=FAZ+O+L) | N/A |
 
 
 

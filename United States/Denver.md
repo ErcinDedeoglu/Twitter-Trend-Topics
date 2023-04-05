@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-04-05 13:22:48 UTC`
+📆 Last Updated: `2023-04-05 14:20:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 2 | [#copolitics](http://twitter.com/search?q=%23copolitics) | N/A |
+| 2 | [#CoPolitics](http://twitter.com/search?q=%23CoPolitics) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 7 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 8 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 10 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 13 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
-| 14 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 15 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 16 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 17 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 18 | [brandon](http://twitter.com/search?q=brandon) | N/A |
-| 19 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
-| 20 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 21 | [#GlobalCrossoverEvent](http://twitter.com/search?q=%23GlobalCrossoverEvent) | N/A |
-| 22 | [roddy](http://twitter.com/search?q=roddy) | N/A |
-| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 26 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 27 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 28 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 29 | [joel embiid](http://twitter.com/search?q=joel+embiid) | N/A |
-| 30 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
-| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 32 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
-| 33 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 34 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 37 | [tobias harris](http://twitter.com/search?q=tobias+harris) | N/A |
-| 38 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 39 | [PHILLIES](http://twitter.com/search?q=PHILLIES) | N/A |
-| 40 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 41 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 42 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 43 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 44 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 45 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 48 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 49 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 50 | [Lock](http://twitter.com/search?q=Lock) | N/A |
+| 5 | [#heartbridgecoin](http://twitter.com/search?q=%23heartbridgecoin) | N/A |
+| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 7 | [America](http://twitter.com/search?q=America) | N/A |
+| 8 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 9 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 10 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 12 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 13 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
+| 14 | [#BubblesRideTogether](http://twitter.com/search?q=%23BubblesRideTogether) | N/A |
+| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 19 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 21 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 24 | [caitlin clark](http://twitter.com/search?q=caitlin+clark) | N/A |
+| 25 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 26 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 27 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 28 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 29 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 30 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 31 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 32 | [angel reese](http://twitter.com/search?q=angel+reese) | N/A |
+| 33 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 34 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 35 | [jim nantz](http://twitter.com/search?q=jim+nantz) | N/A |
+| 36 | [brock](http://twitter.com/search?q=brock) | N/A |
+| 37 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 38 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 41 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 42 | [sdsu](http://twitter.com/search?q=sdsu) | N/A |
+| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 44 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 45 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 46 | [PRETTY LIGHTS](http://twitter.com/search?q=PRETTY+LIGHTS) | N/A |
+| 47 | [Michael cera](http://twitter.com/search?q=Michael+cera) | N/A |
+| 48 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 49 | [Leslie stahl](http://twitter.com/search?q=Leslie+stahl) | N/A |
+| 50 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-05 13:22:58 UTC`
+📆 Last Updated: `2023-04-05 14:20:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Latvia
 | 1 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 2 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 3 | [psrs](http://twitter.com/search?q=psrs) | N/A |
-| 4 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 5 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 4 | [#heartbridgecoin](http://twitter.com/search?q=%23heartbridgecoin) | N/A |
+| 5 | [#strongertogether](http://twitter.com/search?q=%23strongertogether) | N/A |
 | 6 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 7 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 8 | [latvia](http://twitter.com/search?q=latvia) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for Latvia
 | 25 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 26 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 27 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 28 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 28 | [NEKO](http://twitter.com/search?q=NEKO) | N/A |
 | 29 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
 | 30 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
 | 31 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |

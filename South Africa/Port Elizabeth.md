@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-05 13:22:38 UTC`
+📆 Last Updated: `2023-04-05 14:20:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 1 | [#FunDee](http://twitter.com/search?q=%23FunDee) | N/A |
 | 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 5 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
+| 5 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 8 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
 | 9 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [#OpenToBelong](http://twitter.com/search?q=%23OpenToBelong) | N/A |
+| 10 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 11 | [We LOVE YOU TSATSII](http://twitter.com/search?q=We+LOVE+YOU+TSATSII) | N/A |
 | 12 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 13 | [#thehuntfordealsisover](http://twitter.com/search?q=%23thehuntfordealsisover) | N/A |
 | 14 | [HENDERSON](http://twitter.com/search?q=HENDERSON) | N/A |
 | 15 | [MARVIN](http://twitter.com/search?q=MARVIN) | N/A |
-| 16 | [KLOPP](http://twitter.com/search?q=KLOPP) | N/A |
-| 17 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 18 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 19 | [jones](http://twitter.com/search?q=jones) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 16 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [JOTA](http://twitter.com/search?q=JOTA) | N/A |
 | 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 22 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 22 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 23 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
-| 24 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
-| 25 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
-| 26 | [jota](http://twitter.com/search?q=jota) | N/A |
+| 24 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 25 | [jones](http://twitter.com/search?q=jones) | N/A |
+| 26 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
 | 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [hendo](http://twitter.com/search?q=hendo) | N/A |
-| 29 | [gallagher](http://twitter.com/search?q=gallagher) | N/A |
-| 30 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 31 | [gomez](http://twitter.com/search?q=gomez) | N/A |
-| 32 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
-| 33 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
-| 34 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
-| 35 | [cape town city](http://twitter.com/search?q=cape+town+city) | N/A |
-| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 37 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 38 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
-| 39 | [FABINHO](http://twitter.com/search?q=FABINHO) | N/A |
-| 40 | [koulibaly](http://twitter.com/search?q=koulibaly) | N/A |
-| 41 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
-| 42 | [leeto](http://twitter.com/search?q=leeto) | N/A |
-| 43 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 44 | [matip](http://twitter.com/search?q=matip) | N/A |
-| 45 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 46 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 47 | [ayanda dlamini](http://twitter.com/search?q=ayanda+dlamini) | N/A |
-| 48 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 49 | [pfma](http://twitter.com/search?q=pfma) | N/A |
+| 28 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 29 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 30 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
+| 31 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 32 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
+| 33 | [cape town city](http://twitter.com/search?q=cape+town+city) | N/A |
+| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 35 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 36 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
+| 37 | [FABINHO](http://twitter.com/search?q=FABINHO) | N/A |
+| 38 | [koulibaly](http://twitter.com/search?q=koulibaly) | N/A |
+| 39 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
+| 40 | [leeto](http://twitter.com/search?q=leeto) | N/A |
+| 41 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 42 | [MATIP](http://twitter.com/search?q=MATIP) | N/A |
+| 43 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
+| 44 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 45 | [ayanda dlamini](http://twitter.com/search?q=ayanda+dlamini) | N/A |
+| 46 | [MILNER](http://twitter.com/search?q=MILNER) | N/A |
+| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 48 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 49 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-05 13:22:08 UTC`
+📆 Last Updated: `2023-04-05 14:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HENDERSON](http://twitter.com/search?q=HENDERSON) | N/A |
-| 2 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 3 | [#LCFC](http://twitter.com/search?q=%23LCFC) | N/A |
-| 4 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 5 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
-| 6 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
-| 11 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 12 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 13 | [LEEDS](http://twitter.com/search?q=LEEDS) | N/A |
-| 14 | [KLOPP](http://twitter.com/search?q=KLOPP) | N/A |
-| 15 | [hendo](http://twitter.com/search?q=hendo) | N/A |
-| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 17 | [villa](http://twitter.com/search?q=villa) | N/A |
-| 18 | [alisson](http://twitter.com/search?q=alisson) | N/A |
-| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 20 | [Kai havertz](http://twitter.com/search?q=Kai+havertz) | N/A |
-| 21 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 22 | [matip](http://twitter.com/search?q=matip) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [jones](http://twitter.com/search?q=jones) | N/A |
-| 25 | [President](http://twitter.com/search?q=President) | N/A |
-| 26 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 30 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 31 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 33 | [Mckennie](http://twitter.com/search?q=Mckennie) | N/A |
-| 34 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 37 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 38 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 39 | [BOBBY](http://twitter.com/search?q=BOBBY) | N/A |
-| 40 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 41 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 42 | [maddison](http://twitter.com/search?q=maddison) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 45 | [rodgers](http://twitter.com/search?q=rodgers) | N/A |
-| 46 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 47 | [hugo](http://twitter.com/search?q=hugo) | N/A |
-| 48 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 2 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 4 | [rodgers](http://twitter.com/search?q=rodgers) | N/A |
+| 5 | [President](http://twitter.com/search?q=President) | N/A |
+| 6 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 12 | [#Lufc](http://twitter.com/search?q=%23Lufc) | N/A |
+| 13 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 16 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [Curtis jones](http://twitter.com/search?q=Curtis+jones) | N/A |
+| 19 | [JOTA](http://twitter.com/search?q=JOTA) | N/A |
+| 20 | [HENDERSON](http://twitter.com/search?q=HENDERSON) | N/A |
+| 21 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 23 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 24 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 25 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 26 | [FABINHO](http://twitter.com/search?q=FABINHO) | N/A |
+| 27 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
+| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 29 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 30 | [roca](http://twitter.com/search?q=roca) | N/A |
+| 31 | [Mckennie](http://twitter.com/search?q=Mckennie) | N/A |
+| 32 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 33 | [LAWSON](http://twitter.com/search?q=LAWSON) | N/A |
+| 34 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 35 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 36 | [MATIP](http://twitter.com/search?q=MATIP) | N/A |
+| 37 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 38 | [konate](http://twitter.com/search?q=konate) | N/A |
+| 39 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 40 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 41 | [ayling](http://twitter.com/search?q=ayling) | N/A |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 44 | [Tsimikas](http://twitter.com/search?q=Tsimikas) | Tsimikas is a Greek surname. It is derived from the Greek word "tsimikas" which means "small". |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [michael keane](http://twitter.com/search?q=michael+keane) | N/A |
+| 47 | [doucoure](http://twitter.com/search?q=doucoure) | N/A |
+| 48 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 49 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 50 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 
 
 

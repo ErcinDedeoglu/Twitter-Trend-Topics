@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-05 13:22:50 UTC`
+📆 Last Updated: `2023-04-05 14:20:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 2 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
-| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 4 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 1 | [#Raysup](http://twitter.com/search?q=%23Raysup) | N/A |
+| 2 | [sandy](http://twitter.com/search?q=sandy) | N/A |
+| 3 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
+| 4 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
 | 5 | [jimmy butler](http://twitter.com/search?q=jimmy+butler) | N/A |
-| 6 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 7 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 8 | [madison](http://twitter.com/search?q=madison) | N/A |
-| 9 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 10 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 11 | [pelosi](http://twitter.com/search?q=pelosi) | N/A |
-| 12 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 13 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 14 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 15 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 16 | [ANTIFA](http://twitter.com/search?q=ANTIFA) | N/A |
-| 17 | [Angel](http://twitter.com/search?q=Angel) | N/A |
-| 18 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 24 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 25 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 26 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 28 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 29 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
-| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 31 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 32 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 33 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 34 | [brandon](http://twitter.com/search?q=brandon) | N/A |
-| 35 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
-| 36 | [roddy](http://twitter.com/search?q=roddy) | N/A |
-| 37 | [brewers](http://twitter.com/search?q=brewers) | N/A |
-| 38 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 39 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 41 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 42 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 43 | [joel embiid](http://twitter.com/search?q=joel+embiid) | N/A |
-| 44 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
-| 45 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 46 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
-| 47 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 48 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
-| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 50 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 6 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 7 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 8 | [Josh Fleming](http://twitter.com/search?q=Josh+Fleming) | N/A |
+| 9 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 10 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
+| 11 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 12 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 13 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 14 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 15 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 16 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 17 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 18 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 19 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 20 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [#heartbridgecoin](http://twitter.com/search?q=%23heartbridgecoin) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 27 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 28 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
+| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 30 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
+| 31 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 33 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 34 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 35 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 36 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 37 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [caitlin clark](http://twitter.com/search?q=caitlin+clark) | N/A |
+| 41 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 42 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 43 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 44 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 45 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 46 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 47 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 48 | [angel reese](http://twitter.com/search?q=angel+reese) | N/A |
+| 49 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 
 

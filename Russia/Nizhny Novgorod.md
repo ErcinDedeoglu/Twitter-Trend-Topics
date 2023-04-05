@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nizhny Novgorod
 
-📆 Last Updated: `2023-04-05 13:22:40 UTC`
+📆 Last Updated: `2023-04-05 14:20:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,13 +23,13 @@ This is top 50 for [Russia](</Russia>)
 | 6 | [РФ-СМИ](http://twitter.com/search?q=%d0%a0%d0%a4-%d0%a1%d0%9c%d0%98) | N/A |
 | 7 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 8 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 9 | [#OpenSea](http://twitter.com/search?q=%23OpenSea) | N/A |
+| 9 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
 | 10 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 11 | [похоже](http://twitter.com/search?q=%d0%bf%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 12 | [#nftcollection](http://twitter.com/search?q=%23nftcollection) | N/A |
+| 11 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 12 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
 | 13 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
 | 14 | [#клуَбромантиٍки](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d9%8e%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d9%8d%d0%ba%d0%b8) | N/A |
-| 15 | [татарского](http://twitter.com/search?q=%d1%82%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 15 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
 | 16 | [петербурге](http://twitter.com/search?q=%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
 | 17 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
 | 18 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for [Russia](</Russia>)
 | 24 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
 | 25 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 26 | [#shadowandbone](http://twitter.com/search?q=%23shadowandbone) | N/A |
-| 27 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 27 | [маск](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
 | 28 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
 | 29 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
 | 30 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |

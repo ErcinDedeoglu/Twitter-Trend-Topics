@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-05 13:22:57 UTC`
+📆 Last Updated: `2023-04-05 14:20:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 3 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
-| 6 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 7 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
-| 8 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 1 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
+| 2 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 3 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 5 | [#dartygaming](http://twitter.com/search?q=%23dartygaming) | N/A |
+| 6 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 9 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 10 | [GILLES](http://twitter.com/search?q=GILLES) | N/A |
+| 11 | [KANTÉ](http://twitter.com/search?q=KANT%c3%89) | N/A |
 | 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 14 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 15 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 16 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 17 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
-| 18 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 19 | [Kanté](http://twitter.com/search?q=Kant%c3%a9) | N/A |
+| 13 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 14 | ["Pirouette"](http://twitter.com/search?q=%22Pirouette%22) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 18 | [DuBois](http://twitter.com/search?q=DuBois) | N/A |
+| 19 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
 | 20 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 21 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 22 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 24 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 25 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [Chelsea liverpool](http://twitter.com/search?q=Chelsea+liverpool) | N/A |
-| 29 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [La ps5](http://twitter.com/search?q=La+ps5) | N/A |
-| 32 | [Al-Aqsa](http://twitter.com/search?q=Al-Aqsa) | N/A |
-| 33 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 35 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 36 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
-| 37 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 38 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 39 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 40 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 41 | [Pire Concert](http://twitter.com/search?q=Pire+Concert) | Pire Concert is a French phrase that translates to "Worst Concert" in English. It is used to describe a concert that was particularly bad or disappointing. |
-| 42 | [Dernier Concert](http://twitter.com/search?q=Dernier+Concert) | Dernier Concert is a French phrase meaning "last concert". It is used to refer to the final performance of a musician or group before they retire or disband. |
-| 43 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 44 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 45 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 46 | [Prochain Concert](http://twitter.com/search?q=Prochain+Concert) | N/A |
-| 47 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 48 | [Concert de Rêve](http://twitter.com/search?q=Concert+de+R%c3%aave) | N/A |
-| 49 | [Meilleur Concert](http://twitter.com/search?q=Meilleur+Concert) | Meilleur Concert is French for "Best Concert". It is used to refer to a concert that is considered to be the best of its kind. |
-| 50 | [Premier Concert](http://twitter.com/search?q=Premier+Concert) | N/A |
+| 21 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [la ps5](http://twitter.com/search?q=la+ps5) | N/A |
+| 24 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 25 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 26 | [Duhamel](http://twitter.com/search?q=Duhamel) | N/A |
+| 27 | [La Finlande](http://twitter.com/search?q=La+Finlande) | N/A |
+| 28 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 29 | [dernier concert](http://twitter.com/search?q=dernier+concert) | N/A |
+| 30 | [meilleur concert](http://twitter.com/search?q=meilleur+concert) | N/A |
+| 31 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 32 | [prochain concert](http://twitter.com/search?q=prochain+concert) | N/A |
+| 33 | [pire concert](http://twitter.com/search?q=pire+concert) | N/A |
+| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 35 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 37 | [concert de rêve](http://twitter.com/search?q=concert+de+r%c3%aave) | N/A |
+| 38 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 39 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 40 | [delormeau](http://twitter.com/search?q=delormeau) | N/A |
+| 41 | [Toko](http://twitter.com/search?q=Toko) | Toko is a Japanese word that means "store" or "shop". It is used to refer to any kind of retail establishment, from small convenience stores to large department stores. |
+| 42 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 43 | [premier concert](http://twitter.com/search?q=premier+concert) | N/A |
+| 44 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 45 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 46 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 47 | [fribourg](http://twitter.com/search?q=fribourg) | N/A |
+| 48 | [carcassonne](http://twitter.com/search?q=carcassonne) | N/A |
+| 49 | [EMBIID](http://twitter.com/search?q=EMBIID) | N/A |
+| 50 | [esteban](http://twitter.com/search?q=esteban) | N/A |
 
 
 

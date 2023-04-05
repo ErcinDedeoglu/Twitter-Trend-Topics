@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-05 13:22:52 UTC`
+📆 Last Updated: `2023-04-05 14:20:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SIXERS](http://twitter.com/search?q=SIXERS) | N/A |
-| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 4 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
-| 5 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 6 | [maxey](http://twitter.com/search?q=maxey) | N/A |
-| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 8 | [boston](http://twitter.com/search?q=boston) | N/A |
-| 9 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 10 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
-| 11 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 12 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 14 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 15 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 16 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 21 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 22 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 23 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 24 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 26 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 27 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
-| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 29 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 30 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 31 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 32 | [brandon](http://twitter.com/search?q=brandon) | N/A |
-| 33 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
-| 34 | [roddy](http://twitter.com/search?q=roddy) | N/A |
-| 35 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 37 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 39 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 40 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 41 | [joel embiid](http://twitter.com/search?q=joel+embiid) | N/A |
-| 42 | [msnbc](http://twitter.com/search?q=msnbc) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
-| 45 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 46 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 49 | [tobias harris](http://twitter.com/search?q=tobias+harris) | N/A |
-| 50 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 2 | [EMBIID](http://twitter.com/search?q=EMBIID) | N/A |
+| 3 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 5 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 6 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 7 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 8 | [maxey](http://twitter.com/search?q=maxey) | N/A |
+| 9 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 10 | [BRYAN REYNOLDS](http://twitter.com/search?q=BRYAN+REYNOLDS) | N/A |
+| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 12 | [boston](http://twitter.com/search?q=boston) | N/A |
+| 13 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
+| 14 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 15 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 16 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
+| 17 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 18 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 19 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 20 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 21 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 22 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 23 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 26 | [#heartbridgecoin](http://twitter.com/search?q=%23heartbridgecoin) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [America](http://twitter.com/search?q=America) | N/A |
+| 29 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 32 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
+| 33 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 34 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 35 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 36 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 37 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 38 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 39 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 42 | [caitlin clark](http://twitter.com/search?q=caitlin+clark) | N/A |
+| 43 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 44 | [van jones](http://twitter.com/search?q=van+jones) | N/A |
+| 45 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 46 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 47 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
+| 48 | [GRETA GERWIG](http://twitter.com/search?q=GRETA+GERWIG) | N/A |
+| 49 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
 
 
 

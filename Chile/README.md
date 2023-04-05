@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-05 13:22:56 UTC`
+📆 Last Updated: `2023-04-05 14:20:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Chile
 | 3 | [#LeyNainRetamalAhora](http://twitter.com/search?q=%23LeyNainRetamalAhora) | N/A |
 | 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 5 | [#LeyGatilloFacil](http://twitter.com/search?q=%23LeyGatilloFacil) | N/A |
-| 6 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 7 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 6 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 7 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
 | 8 | [#juegodeilusiones](http://twitter.com/search?q=%23juegodeilusiones) | N/A |
 | 9 | [audax](http://twitter.com/search?q=audax) | N/A |
 | 10 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Chile
 | 15 | [Gaspar Rivas](http://twitter.com/search?q=Gaspar+Rivas) | N/A |
 | 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 17 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
-| 18 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
-| 19 | [the cure](http://twitter.com/search?q=the+cure) | N/A |
-| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 21 | [ALLENDE](http://twitter.com/search?q=ALLENDE) | N/A |
-| 22 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
-| 23 | [NEWELL](http://twitter.com/search?q=NEWELL) | N/A |
-| 24 | [tribunal constitucional](http://twitter.com/search?q=tribunal+constitucional) | N/A |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 27 | [Recreo](http://twitter.com/search?q=Recreo) | N/A |
-| 28 | [Karina Oliva](http://twitter.com/search?q=Karina+Oliva) | N/A |
-| 29 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 30 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 31 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
-| 32 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
-| 33 | [compromiso transversal](http://twitter.com/search?q=compromiso+transversal) | N/A |
-| 34 | [camila flores](http://twitter.com/search?q=camila+flores) | N/A |
-| 35 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 36 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 37 | [Carolina Tohá](http://twitter.com/search?q=Carolina+Toh%c3%a1) | N/A |
-| 38 | [Superclásico](http://twitter.com/search?q=Supercl%c3%a1sico) | N/A |
-| 39 | [vámonos quiñones](http://twitter.com/search?q=v%c3%a1monos+qui%c3%b1ones) | N/A |
-| 40 | [MARIANA](http://twitter.com/search?q=MARIANA) | N/A |
-| 41 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 42 | [pidima](http://twitter.com/search?q=pidima) | N/A |
-| 43 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 44 | [shrek 5](http://twitter.com/search?q=shrek+5) | N/A |
-| 45 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
-| 46 | [Conoces](http://twitter.com/search?q=Conoces) | N/A |
-| 47 | [santiago](http://twitter.com/search?q=santiago) | N/A |
-| 48 | [Maisa Rojas](http://twitter.com/search?q=Maisa+Rojas) | N/A |
-| 49 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
-| 50 | [DogeCoin](http://twitter.com/search?q=DogeCoin) | N/A |
+| 18 | [the cure](http://twitter.com/search?q=the+cure) | N/A |
+| 19 | [ALLENDE](http://twitter.com/search?q=ALLENDE) | N/A |
+| 20 | [El 95%](http://twitter.com/search?q=El+95%25) | N/A |
+| 21 | [NEWELL](http://twitter.com/search?q=NEWELL) | N/A |
+| 22 | [THE STRONGEST](http://twitter.com/search?q=THE+STRONGEST) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
+| 25 | [Recreo](http://twitter.com/search?q=Recreo) | N/A |
+| 26 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 27 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 28 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
+| 29 | [compromiso transversal](http://twitter.com/search?q=compromiso+transversal) | N/A |
+| 30 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 31 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
+| 32 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 33 | [Karina Oliva](http://twitter.com/search?q=Karina+Oliva) | N/A |
+| 34 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 35 | [Carolina Tohá](http://twitter.com/search?q=Carolina+Toh%c3%a1) | N/A |
+| 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 37 | [Superclásico](http://twitter.com/search?q=Supercl%c3%a1sico) | N/A |
+| 38 | [vámonos quiñones](http://twitter.com/search?q=v%c3%a1monos+qui%c3%b1ones) | N/A |
+| 39 | [MARIANA](http://twitter.com/search?q=MARIANA) | N/A |
+| 40 | [pidima](http://twitter.com/search?q=pidima) | N/A |
+| 41 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 42 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 43 | [Conoces](http://twitter.com/search?q=Conoces) | N/A |
+| 44 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 45 | [Maisa Rojas](http://twitter.com/search?q=Maisa+Rojas) | N/A |
+| 46 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
+| 47 | [DUA LIPA](http://twitter.com/search?q=DUA+LIPA) | N/A |
+| 48 | [Entel](http://twitter.com/search?q=Entel) | N/A |
+| 49 | [BOBBY](http://twitter.com/search?q=BOBBY) | N/A |
+| 50 | [Catrillanca](http://twitter.com/search?q=Catrillanca) | N/A |
 
 
 
