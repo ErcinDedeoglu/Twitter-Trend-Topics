@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-05 04:17:20 UTC`
+📆 Last Updated: `2023-04-05 05:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 10 | [registrar](http://twitter.com/search?q=registrar) | N/A |
-| 11 | [Rizbar](http://twitter.com/search?q=Rizbar) | N/A |
+| 11 | [rizbar](http://twitter.com/search?q=rizbar) | N/A |
 | 12 | [T20I](http://twitter.com/search?q=T20I) | N/A |
 | 13 | [Haris Sohail](http://twitter.com/search?q=Haris+Sohail) | Haris Sohail is a Pakistani cricketer. His name is derived from the Arabic word "haris", which means "guardian". In English, Haris Sohail would mean "Guardian of Success". |
 | 14 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 16 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 17 | [Congratulations Pakistan](http://twitter.com/search?q=Congratulations+Pakistan) | N/A |
-| 18 | [jdc exposed](http://twitter.com/search?q=jdc+exposed) | N/A |
-| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [iftikhar](http://twitter.com/search?q=iftikhar) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [congratulations pakistan](http://twitter.com/search?q=congratulations+pakistan) | N/A |
+| 19 | [jdc exposed](http://twitter.com/search?q=jdc+exposed) | N/A |
 | 20 | [boycott jdc](http://twitter.com/search?q=boycott+jdc) | N/A |
 | 21 | [Prime Minister of Pakistan](http://twitter.com/search?q=Prime+Minister+of+Pakistan) | N/A |
-| 22 | [boycott daraz](http://twitter.com/search?q=boycott+daraz) | N/A |
-| 23 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 22 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 23 | [Azam](http://twitter.com/search?q=Azam) | N/A |
 | 24 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 25 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 27 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 28 | [Odis](http://twitter.com/search?q=Odis) | N/A |
-| 29 | [Rejected](http://twitter.com/search?q=Rejected) | N/A |
-| 30 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 31 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 32 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 33 | [Nawaz Shari](http://twitter.com/search?q=Nawaz+Shari) | N/A |
-| 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 35 | [khushdil](http://twitter.com/search?q=khushdil) | N/A |
-| 36 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 37 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 38 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 39 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 40 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 41 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 42 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 47 | [Kashif](http://twitter.com/search?q=Kashif) | N/A |
-| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 49 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 50 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 25 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 26 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 27 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 28 | [Rejected](http://twitter.com/search?q=Rejected) | N/A |
+| 29 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 30 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 31 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 32 | [Nawaz Shari](http://twitter.com/search?q=Nawaz+Shari) | N/A |
+| 33 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 34 | [khushdil](http://twitter.com/search?q=khushdil) | N/A |
+| 35 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 36 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 37 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 38 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 39 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 40 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Kashif](http://twitter.com/search?q=Kashif) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 46 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 48 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 49 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 50 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-05 04:17:03 UTC`
+📆 Last Updated: `2023-04-05 05:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
-| 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 2 | [spakenburg](http://twitter.com/search?q=spakenburg) | N/A |
 | 3 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
 | 4 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
-| 7 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 8 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 9 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 10 | [luuk de jong](http://twitter.com/search?q=luuk+de+jong) | N/A |
+| 5 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
+| 6 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 7 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 8 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
+| 9 | [luuk de jong](http://twitter.com/search?q=luuk+de+jong) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 11 | [jutta](http://twitter.com/search?q=jutta) | N/A |
 | 12 | [teze](http://twitter.com/search?q=teze) | N/A |
 | 13 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 14 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
+| 14 | [caribische](http://twitter.com/search?q=caribische) | N/A |
 | 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 16 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
@@ -37,23 +37,23 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
 | 21 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
 | 22 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [prorail](http://twitter.com/search?q=prorail) | N/A |
-| 25 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 27 | [rode kruis](http://twitter.com/search?q=rode+kruis) | N/A |
-| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 29 | [transavia](http://twitter.com/search?q=transavia) | N/A |
-| 30 | [Kaagje](http://twitter.com/search?q=Kaagje) | N/A |
-| 31 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
-| 32 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
-| 33 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 23 | [prorail](http://twitter.com/search?q=prorail) | N/A |
+| 24 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
+| 25 | [rode kruis](http://twitter.com/search?q=rode+kruis) | N/A |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [transavia](http://twitter.com/search?q=transavia) | N/A |
+| 28 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
+| 29 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
+| 30 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
+| 31 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 32 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 34 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
 | 35 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
 | 36 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 37 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 38 | [oosting](http://twitter.com/search?q=oosting) | N/A |
-| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 37 | [oosting](http://twitter.com/search?q=oosting) | N/A |
+| 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 39 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
 | 40 | [Ide Schelling](http://twitter.com/search?q=Ide+Schelling) | N/A |
 | 41 | [Dries](http://twitter.com/search?q=Dries) | N/A |
 | 42 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |

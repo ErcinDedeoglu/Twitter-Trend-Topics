@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-04-05 04:17:20 UTC`
+📆 Last Updated: `2023-04-05 05:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,22 +15,22 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 2 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
-| 7 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 8 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 9 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
-| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 11 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 12 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [vijay shankar](http://twitter.com/search?q=vijay+shankar) | N/A |
-| 15 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 16 | [axar](http://twitter.com/search?q=axar) | N/A |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
+| 6 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 7 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
+| 8 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
+| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 10 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
+| 11 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [vijay shankar](http://twitter.com/search?q=vijay+shankar) | N/A |
+| 14 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
+| 15 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 16 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
 | 17 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
 | 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 19 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
@@ -43,18 +43,16 @@ This is top 50 for [India](</India>)
 | 26 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
 | 27 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 28 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
-| 29 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
+| 29 | [assamese](http://twitter.com/search?q=assamese) | N/A |
 | 30 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
 | 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 32 | [aaron f](http://twitter.com/search?q=aaron+f) | N/A |
 | 33 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
 | 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 35 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
-| 36 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
+| 36 | [mumbai city fc](http://twitter.com/search?q=mumbai+city+fc) | N/A |
 | 37 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 38 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
-| 39 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
-| 40 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
+| 38 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
 
 
 

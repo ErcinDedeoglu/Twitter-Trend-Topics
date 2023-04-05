@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Voronezh
 
-📆 Last Updated: `2023-04-05 04:17:18 UTC`
+📆 Last Updated: `2023-04-05 05:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,34 +36,32 @@ This is top 50 for [Russia](</Russia>)
 | 19 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 20 | [владлен татарский](http://twitter.com/search?q=%d0%b2%d0%bb%d0%b0%d0%b4%d0%bb%d0%b5%d0%bd+%d1%82%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
 | 21 | [Петербурге](http://twitter.com/search?q=%d0%9f%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
-| 22 | [Абсолютно](http://twitter.com/search?q=%d0%90%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
+| 22 | [абсолютно](http://twitter.com/search?q=%d0%b0%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
 | 23 | [твиттера](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b0) | N/A |
 | 24 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
-| 25 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 26 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 27 | [поздно](http://twitter.com/search?q=%d0%bf%d0%be%d0%b7%d0%b4%d0%bd%d0%be) | N/A |
-| 28 | [маск](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
-| 29 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 30 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 31 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 32 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
-| 33 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
-| 34 | [точно](http://twitter.com/search?q=%d1%82%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 35 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 36 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 37 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
-| 38 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
-| 39 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
-| 40 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 41 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
-| 42 | [держись](http://twitter.com/search?q=%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
-| 43 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 44 | [честно](http://twitter.com/search?q=%d1%87%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 45 | [отличная](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%b0%d1%8f) | N/A |
-| 46 | [крыму](http://twitter.com/search?q=%d0%ba%d1%80%d1%8b%d0%bc%d1%83) | N/A |
-| 47 | [богу](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d1%83) | N/A |
-| 48 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 49 | [приятного](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 25 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | N/A |
+| 26 | [поздно](http://twitter.com/search?q=%d0%bf%d0%be%d0%b7%d0%b4%d0%bd%d0%be) | N/A |
+| 27 | [маск](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
+| 28 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
+| 29 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 30 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
+| 31 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
+| 32 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
+| 33 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 34 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 35 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 36 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
+| 37 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
+| 38 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
+| 39 | [турции](http://twitter.com/search?q=%d1%82%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 40 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
+| 41 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 42 | [честно](http://twitter.com/search?q=%d1%87%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 43 | [отличная](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%b0%d1%8f) | N/A |
+| 44 | [крыму](http://twitter.com/search?q=%d0%ba%d1%80%d1%8b%d0%bc%d1%83) | N/A |
+| 45 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
+| 46 | [богу](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d1%83) | N/A |
+| 47 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 
 
 

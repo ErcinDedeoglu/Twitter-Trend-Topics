@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-05 04:16:53 UTC`
+📆 Last Updated: `2023-04-05 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,48 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 4 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 5 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 6 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 11 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 15 | [#CoppaItalia](http://twitter.com/search?q=%23CoppaItalia) | N/A |
-| 16 | [Pokal](http://twitter.com/search?q=Pokal) | N/A |
-| 17 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 18 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 19 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 22 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 23 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 24 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 26 | [#LeFaltan39ALa4T](http://twitter.com/search?q=%23LeFaltan39ALa4T) | N/A |
-| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 28 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 29 | [Trun](http://twitter.com/search?q=Trun) | N/A |
-| 30 | [#ÚLTIMAHORA](http://twitter.com/search?q=%23%c3%9aLTIMAHORA) | N/A |
-| 31 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 32 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 35 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 36 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
-| 37 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 38 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
-| 39 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 40 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 41 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 42 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 43 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 44 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 45 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 47 | [Nicolás Larcamón](http://twitter.com/search?q=Nicol%c3%a1s+Larcam%c3%b3n) | N/A |
-| 48 | [Austeridad](http://twitter.com/search?q=Austeridad) | N/A |
-| 49 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
+| 1 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 2 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 3 | [GOLDEN RECORD HOLDER](http://twitter.com/search?q=GOLDEN+RECORD+HOLDER) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#BatallaPorMedallas](http://twitter.com/search?q=%23BatallaPorMedallas) | N/A |
+| 6 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 7 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 8 | [Chanoc](http://twitter.com/search?q=Chanoc) | N/A |
+| 9 | [Pedro Navajas](http://twitter.com/search?q=Pedro+Navajas) | N/A |
+| 10 | [Santamaría](http://twitter.com/search?q=Santamar%c3%ada) | N/A |
+| 11 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 12 | [Estral](http://twitter.com/search?q=Estral) | N/A |
+| 13 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 14 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 15 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
+| 16 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 17 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 18 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 19 | [López Tarso](http://twitter.com/search?q=L%c3%b3pez+Tarso) | N/A |
+| 20 | [#LaNuevaNacionalización](http://twitter.com/search?q=%23LaNuevaNacionalizaci%c3%b3n) | N/A |
+| 21 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 22 | [Rafa Márquez](http://twitter.com/search?q=Rafa+M%c3%a1rquez) | N/A |
+| 23 | [Cuau](http://twitter.com/search?q=Cuau) | N/A |
+| 24 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 25 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 26 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 27 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 28 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 29 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 30 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
+| 31 | [Madrazo](http://twitter.com/search?q=Madrazo) | N/A |
+| 32 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
+| 33 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
+| 34 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 37 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 38 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 39 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 40 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 41 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 42 | [#AMLOLujoDePresidente](http://twitter.com/search?q=%23AMLOLujoDePresidente) | N/A |
 
 
 

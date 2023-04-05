@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-05 04:17:32 UTC`
+📆 Last Updated: `2023-04-05 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 2 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 4 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
 | 5 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
 | 6 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 7 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 7 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 8 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
 | 9 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
 | 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for [India](</India>)
 | 15 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
 | 16 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
 | 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 18 | [axar](http://twitter.com/search?q=axar) | N/A |
+| 18 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
 | 19 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
 | 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 21 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
@@ -45,18 +45,16 @@ This is top 50 for [India](</India>)
 | 28 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
 | 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 30 | [Nupur Sharma](http://twitter.com/search?q=Nupur+Sharma) | N/A |
-| 31 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
+| 31 | [assamese](http://twitter.com/search?q=assamese) | N/A |
 | 32 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
 | 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 34 | [aaron f](http://twitter.com/search?q=aaron+f) | N/A |
 | 35 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
 | 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 37 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
-| 38 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
+| 38 | [mumbai city fc](http://twitter.com/search?q=mumbai+city+fc) | N/A |
 | 39 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 40 | [Smoking - No](http://twitter.com/search?q=Smoking+-+No) | N/A |
-| 41 | [1 YR TO MISHTY MITHAI](http://twitter.com/search?q=1+YR+TO+MISHTY+MITHAI) | N/A |
-| 42 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
+| 40 | [smoking - no](http://twitter.com/search?q=smoking+-+no) | N/A |
 
 
 

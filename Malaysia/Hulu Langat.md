@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-04-05 04:17:40 UTC`
+📆 Last Updated: `2023-04-05 05:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
 | 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 11 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 12 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 6 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 7 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
+| 8 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 9 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 12 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 13 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 17 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 18 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 19 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 21 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 23 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 24 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 25 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 26 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 27 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 18 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 19 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 20 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 21 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 22 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 23 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 25 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 26 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 27 | [Jota](http://twitter.com/search?q=Jota) | N/A |
 | 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 29 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 30 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 31 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 32 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 33 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 34 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 35 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 36 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
-| 37 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 38 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
-| 39 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
-| 40 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 41 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 42 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 43 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 44 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 45 | [Mijoo](http://twitter.com/search?q=Mijoo) | N/A |
-| 46 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 47 | [THANK YOUUUU](http://twitter.com/search?q=THANK+YOUUUU) | N/A |
-| 48 | [Earthquake](http://twitter.com/search?q=Earthquake) | N/A |
-| 49 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
+| 30 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 31 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 32 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
+| 33 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 34 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 35 | [henry golding](http://twitter.com/search?q=henry+golding) | N/A |
+| 36 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
+| 37 | [PEOPLE PART 2](http://twitter.com/search?q=PEOPLE+PART+2) | N/A |
+| 38 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 39 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 40 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 41 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 42 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 43 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 44 | [mijoo](http://twitter.com/search?q=mijoo) | N/A |
+| 45 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 46 | [Maybelline](http://twitter.com/search?q=Maybelline) | N/A |
+| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 48 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 49 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 
 
 

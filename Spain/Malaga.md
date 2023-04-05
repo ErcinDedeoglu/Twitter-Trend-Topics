@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-04-05 04:17:04 UTC`
+📆 Last Updated: `2023-04-05 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CofradiasMLG](http://twitter.com/search?q=%23CofradiasMLG) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 2 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 4 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
 | 5 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
 | 6 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
@@ -64,7 +64,6 @@ This is top 50 for [Spain](</Spain>)
 | 47 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
 | 48 | [Gines](http://twitter.com/search?q=Gines) | N/A |
 | 49 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 50 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
 
 
 

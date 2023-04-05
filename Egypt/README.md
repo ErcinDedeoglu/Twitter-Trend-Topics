@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-04-05 04:17:34 UTC`
+📆 Last Updated: `2023-04-05 05:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for Egypt
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تحدي_الازواج](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%af%d9%8a_%d8%a7%d9%84%d8%a7%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
-| 2 | [#احمد_فهمي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d9%81%d9%87%d9%85%d9%8a) | N/A |
-| 3 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 4 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
-| 5 | [#اصعب_الاوقات](http://twitter.com/search?q=%23%d8%a7%d8%b5%d8%b9%d8%a8_%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d8%aa) | N/A |
-| 6 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 7 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 8 | [#الزمالك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 9 | [اسلام ابو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d8%a8%d9%88) | N/A |
-| 10 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
-| 11 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 12 | [حاتم سكر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%aa%d9%85+%d8%b3%d9%83%d8%b1) | N/A |
-| 13 | [سيف جعفر](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 14 | [حسام حسن](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%ad%d8%b3%d9%86) | N/A |
-| 15 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 16 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 17 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
-| 18 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 19 | [عبدالله جمعه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 20 | [كاس المانيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 21 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 22 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 23 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 24 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 25 | [الدوري المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 26 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [شيرين رضا](http://twitter.com/search?q=%d8%b4%d9%8a%d8%b1%d9%8a%d9%86+%d8%b1%d8%b6%d8%a7) | N/A |
-| 31 | [محمد سامي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 32 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
-| 33 | [#تجاهل_الدكتوراه_هدم](http://twitter.com/search?q=%23%d8%aa%d8%ac%d8%a7%d9%87%d9%84_%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1%d8%a7%d9%87_%d9%87%d8%af%d9%85) | N/A |
-| 34 | [#النصر_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | #النصر_العداله is an Arabic hashtag that translates to "Victory of Justice" in English. It is often used to express support for justice and fairness in society. |
-| 35 | [#تعيين_فوري_للماستر](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%8a%d9%8a%d9%86_%d9%81%d9%88%d8%b1%d9%8a_%d9%84%d9%84%d9%85%d8%a7%d8%b3%d8%aa%d8%b1) | N/A |
-| 36 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 37 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
-| 38 | [#الهلال_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الهلال_الفيحاء is a hashtag used by fans of the Saudi Arabian football team Al-Hilal FC. In English, it translates to "Al-Hilal's Phoenix". |
-| 39 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 40 | [#رمضان13](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8613) | N/A |
+| 1 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 2 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 3 | [#تحدي_الازواج](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%af%d9%8a_%d8%a7%d9%84%d8%a7%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 4 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 5 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 6 | [#احمد_فهمي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d9%81%d9%87%d9%85%d9%8a) | N/A |
+| 7 | [١٤ رمضان](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 8 | [#اصعب_الاوقات](http://twitter.com/search?q=%23%d8%a7%d8%b5%d8%b9%d8%a8_%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d8%aa) | N/A |
+| 9 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 10 | [14 رمضان](http://twitter.com/search?q=14+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 12 | [#حياه_كريمه](http://twitter.com/search?q=%23%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 13 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 14 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
+| 15 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
+| 16 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 17 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 18 | [علي المعتكفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%83%d9%81%d9%8a%d9%86) | N/A |
+| 19 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 20 | [بيت المقدس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3) | N/A |
+| 21 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 22 | [المنتقم الجبار](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d9%82%d9%85+%d8%a7%d9%84%d8%ac%d8%a8%d8%a7%d8%b1) | N/A |
+| 23 | [حاتم سكر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%aa%d9%85+%d8%b3%d9%83%d8%b1) | N/A |
+| 24 | [الحكام العرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 25 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 26 | [بلال شامه](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b4%d8%a7%d9%85%d9%87) | N/A |
+| 27 | [عبد المقصود](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d9%88%d8%af) | N/A |
+| 28 | [الياس الجلاصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%b3+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d8%b5%d9%8a) | N/A |
+| 29 | [اسلام ابو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d8%a8%d9%88) | N/A |
+| 30 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 31 | [علي الجهاد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%af) | N/A |
+| 32 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
+| 33 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 34 | [شيرين رضا](http://twitter.com/search?q=%d8%b4%d9%8a%d8%b1%d9%8a%d9%86+%d8%b1%d8%b6%d8%a7) | N/A |
+| 35 | [المدرب الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 36 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 37 | [المدرب الالماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 38 | [كاس المانيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 39 | [عبد المنصف](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%81) | N/A |
+| 40 | [علي القوم الكافرين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%88%d9%85+%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1%d9%8a%d9%86) | N/A |
+| 41 | [اليهود الملاعين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%87%d9%88%d8%af+%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%b9%d9%8a%d9%86) | N/A |
+| 42 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
+| 43 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 44 | [جهاز فني](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%b2+%d9%81%d9%86%d9%8a) | N/A |
+| 45 | [حسام حسن](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%ad%d8%b3%d9%86) | N/A |
+| 46 | [شريف الهواري](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%b1%d9%8a) | N/A |
+| 47 | [كاس ايطاليا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 48 | [مركز التسويه](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%87) | N/A |
+| 49 | [ابو عبيده بن الجراح](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d9%8a%d8%af%d9%87+%d8%a8%d9%86+%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d8%ad) | N/A |
+| 50 | [رييس النادي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
 
 
 

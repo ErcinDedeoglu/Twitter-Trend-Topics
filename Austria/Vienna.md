@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 04:16:59 UTC`
+📆 Last Updated: `2023-04-05 05:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 5 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
 | 6 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 7 | [kampagne](http://twitter.com/search?q=kampagne) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [kampagne](http://twitter.com/search?q=kampagne) | N/A |
 | 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 10 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
@@ -34,13 +34,13 @@ This is top 50 for [Austria](</Austria>)
 | 17 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
 | 18 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 19 | [ausgabe](http://twitter.com/search?q=ausgabe) | N/A |
-| 20 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
+| 20 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
 | 21 | [Balken](http://twitter.com/search?q=Balken) | N/A |
 | 22 | [schafott](http://twitter.com/search?q=schafott) | N/A |
 | 23 | [blümel](http://twitter.com/search?q=bl%c3%bcmel) | N/A |
 | 24 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 25 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 26 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
 | 27 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
 | 28 | [projekte](http://twitter.com/search?q=projekte) | N/A |
 | 29 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Austria](</Austria>)
 | 40 | [Chats](http://twitter.com/search?q=Chats) | N/A |
 | 41 | [Dimension](http://twitter.com/search?q=Dimension) | N/A |
 | 42 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 43 | [italiener](http://twitter.com/search?q=italiener) | N/A |
-| 44 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 45 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
+| 43 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
+| 44 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
+| 45 | [Italiener](http://twitter.com/search?q=Italiener) | N/A |
 | 46 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
 | 47 | [Geburt](http://twitter.com/search?q=Geburt) | N/A |
 | 48 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
 | 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 50 | [Koffer](http://twitter.com/search?q=Koffer) | N/A |
+| 50 | [koffer](http://twitter.com/search?q=koffer) | N/A |
 
 
 

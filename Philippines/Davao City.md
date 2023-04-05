@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-05 04:17:13 UTC`
+📆 Last Updated: `2023-04-05 05:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,7 @@ This is top 50 for [Philippines](</Philippines>)
 | 25 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
 | 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
 | 27 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 28 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 28 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
 | 29 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
 | 30 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 31 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-05 04:17:36 UTC`
+📆 Last Updated: `2023-04-05 05:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 3 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Kenya
 | 15 | [embu megabusiness expo](http://twitter.com/search?q=embu+megabusiness+expo) | N/A |
 | 16 | [#tukutaneembubizexpoleo](http://twitter.com/search?q=%23tukutaneembubizexpoleo) | N/A |
 | 17 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 20 | [spc kenya 2023](http://twitter.com/search?q=spc+kenya+2023) | N/A |
-| 21 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
-| 22 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 23 | [ruto and raila](http://twitter.com/search?q=ruto+and+raila) | N/A |
-| 24 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
-| 25 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
-| 26 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 27 | [Kofi Annan](http://twitter.com/search?q=Kofi+Annan) | N/A |
-| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 29 | [nhif](http://twitter.com/search?q=nhif) | N/A |
-| 30 | [Mukumu Girls](http://twitter.com/search?q=Mukumu+Girls) | N/A |
-| 31 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
-| 32 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
-| 33 | [jeff mwathi](http://twitter.com/search?q=jeff+mwathi) | N/A |
+| 18 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 19 | [spc kenya 2023](http://twitter.com/search?q=spc+kenya+2023) | N/A |
+| 20 | [National Accord](http://twitter.com/search?q=National+Accord) | N/A |
+| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 22 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 23 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 25 | [RUTO and RAILA](http://twitter.com/search?q=RUTO+and+RAILA) | N/A |
+| 26 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
+| 27 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
+| 28 | [Kofi Annan](http://twitter.com/search?q=Kofi+Annan) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [nhif](http://twitter.com/search?q=nhif) | N/A |
+| 31 | [mukumu girls](http://twitter.com/search?q=mukumu+girls) | N/A |
+| 32 | [mama lucykibaki hospital](http://twitter.com/search?q=mama+lucykibaki+hospital) | N/A |
+| 33 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 34 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
-| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 37 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
-| 38 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
-| 39 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 40 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 42 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 43 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 35 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 36 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 37 | [easy coach](http://twitter.com/search?q=easy+coach) | N/A |
+| 38 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
+| 39 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 41 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 45 | [ezawadi gift voucher](http://twitter.com/search?q=ezawadi+gift+voucher) | N/A |
 | 46 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 47 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 48 | [amaco](http://twitter.com/search?q=amaco) | N/A |
-| 49 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 50 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 47 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 48 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 49 | [amaco](http://twitter.com/search?q=amaco) | N/A |
+| 50 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
 
 
 

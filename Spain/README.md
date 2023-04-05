@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-05 04:17:39 UTC`
+📆 Last Updated: `2023-04-05 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 

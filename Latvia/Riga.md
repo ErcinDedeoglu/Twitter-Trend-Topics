@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-05 04:17:05 UTC`
+📆 Last Updated: `2023-04-05 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,20 +51,20 @@ This is top 50 for [Latvia](</Latvia>)
 | 34 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 | 35 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
 | 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 37 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 38 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 39 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 37 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 38 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 39 | [tevi](http://twitter.com/search?q=tevi) | N/A |
 | 40 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
 | 41 | [kaut](http://twitter.com/search?q=kaut) | N/A |
-| 42 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 42 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
 | 43 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 44 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 45 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 46 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |
-| 47 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 48 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
-| 49 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
-| 50 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 44 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 45 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 46 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 47 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |
+| 48 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 49 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
+| 50 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
 
 
 

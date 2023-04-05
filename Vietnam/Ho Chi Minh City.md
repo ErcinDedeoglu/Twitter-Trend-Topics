@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-05 04:17:14 UTC`
+📆 Last Updated: `2023-04-05 05:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#spring_sunshine_lew_day](http://twitter.com/search?q=%23spring_sunshine_lew_day) | N/A |
+| 1 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
 | 2 | [#bkex](http://twitter.com/search?q=%23bkex) | N/A |
 | 3 | [#폭풍전야_concept_photo_2](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_concept_photo_2) | N/A |
 | 4 | [#rdnt](http://twitter.com/search?q=%23rdnt) | N/A |

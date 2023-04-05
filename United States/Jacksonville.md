@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-05 04:17:27 UTC`
+📆 Last Updated: `2023-04-05 05:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 2 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 3 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
-| 4 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 5 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 6 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 7 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 8 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 9 | [#Trump2024](http://twitter.com/search?q=%23Trump2024) | N/A |
-| 10 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 11 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 12 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 13 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 14 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 15 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 18 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 21 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 22 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 23 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 24 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 25 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 26 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 27 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 28 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 29 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 30 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 31 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
-| 32 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
-| 33 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 34 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 35 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
-| 36 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 37 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 38 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 40 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 41 | [Ji Hwan](http://twitter.com/search?q=Ji+Hwan) | N/A |
-| 42 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 43 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 44 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 45 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 46 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 47 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 48 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 49 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 50 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 1 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 2 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 3 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 5 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 6 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 12 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 16 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 19 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 21 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 22 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 24 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 25 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 26 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 27 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 28 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 29 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 30 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 32 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 33 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 34 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 35 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 36 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 37 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 38 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 40 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 42 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 43 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 44 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 45 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 46 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 47 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 
 
 

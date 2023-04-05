@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-05 04:17:31 UTC`
+📆 Last Updated: `2023-04-05 05:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 4 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 5 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 6 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 7 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 8 | [#TrumpIndicment](http://twitter.com/search?q=%23TrumpIndicment) | N/A |
-| 9 | [Trump 2024](http://twitter.com/search?q=Trump+2024) | N/A |
-| 10 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 11 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 12 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 14 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 15 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 16 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 17 | [#TrumpForPrison2024](http://twitter.com/search?q=%23TrumpForPrison2024) | N/A |
-| 18 | [LOCK HIM UP](http://twitter.com/search?q=LOCK+HIM+UP) | N/A |
-| 19 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 20 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 21 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 22 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 23 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 24 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 25 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 27 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 28 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 29 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 30 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 31 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 32 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 33 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 34 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 35 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 36 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 37 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 38 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 39 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
-| 40 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
-| 41 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 42 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 43 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
-| 44 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 45 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 46 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 48 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 49 | [Ji Hwan](http://twitter.com/search?q=Ji+Hwan) | N/A |
-| 50 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 2 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 3 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
+| 4 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 5 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 6 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 7 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
+| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 9 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 10 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 11 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 13 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
+| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 18 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 20 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 21 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 22 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 23 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 24 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 25 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 26 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 30 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 34 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 39 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 40 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 41 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 42 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 44 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 45 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 46 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
 
 
 
